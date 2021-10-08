@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="/">
+    <link href="/Portals/BusinessInsider/Content/images/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+    
+
+
+    <title>The UK is laying off 6,000 workers on its contact tracing scheme after reports detailed how they spent weeks watching Netflix</title>
+
+<meta charset="utf-8"  /><link rel="canonical" href="https://www.businessinsider.com/uk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8" /><meta name="description" content="The UK currently pays 18,000 tracers to call people and alert them if they have been in contact with anyone who has tested positive for COVID-19." /><meta name="og:title" content="The UK is laying off 6,000 workers on its contact tracing scheme after reports detailed how they spent weeks watching Netflix" /><meta name="og:description" content="The UK currently pays 18,000 tracers to call people and alert them if they have been in contact with anyone who has tested positive for COVID-19." /><meta property="og:image" content="http://cdn.24.co.za/files/Cms/General/d/9092/dc67b2e010134d01aef1479c24eb23e7.jpg" /><meta name="og:image:height" content="1080" /><meta name="og:image:width" content="1440" /><meta name="og:type" content="article" /><meta name="og:url" content="https://www.businessinsider.co.za/uk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8" /><meta name="og:site_name" content="BusinessInsider" /><meta name="twitter:description" content="The UK currently pays 18,000 tracers to call people and alert them if they have been in contact with anyone who has tested positive for COVID-19." /><meta name="articleid" content="e3dffd54-c4f6-4f2a-bf00-664aa64b2b50" /><meta name="publish-date" content="2020-08-11" /><meta name="lifestyleBrand" content="BusinessInsider" /><meta name="siteVersion" content="20210531.2-Release-75" /><meta name="ad:name" content="/8900/24.com/Web/BusinessInsider" /><meta name="ad:zone" content="Trending" /><meta name="ad:interstitial" content="false" /><meta name="ad:categoryadsize:2x1-1" content="true" /><meta name="ad:categoryadsize:728x90-1" content="true" /><meta name="ad:categoryadsize:300x600-1" content="true" /><meta name="ad:categoryadsize:300x250-1" content="true" /><meta name="ad:categoryadsize:980x90-1" content="true" /><meta name="ad:categoryadsize:320x50-1" content="true" /><meta name="ad:categoryadsize:10x10-1" content="true" /><meta name="ad:categoryadsize:300x250-2" content="true" /><meta name="ad:categoryadsize:300x81-1" content="true" /><meta name="ad:categoryadsize:300x81-2" content="true" /><meta name="ad:categoryadsize:333x250-1" content="true" /><meta name="ad:categoryadsize:fluid-1" content="true" /><meta name="ad:categoryadsize:2x2-1" content="true" /><meta name="ad:keyword:artid" content="e3dffd54-c4f6-4f2a-bf00-664aa64b2b50" /><meta name="ad:keyword:topics" content="coronavirus, news-uk, uk, nhs, contact-tracing" /><meta name="ad:keyword:accreditation" content="business insider us" />
+    <link rel='stylesheet' href='/Portals/BusinessInsider/Content/styles/site.min.css?v=16' />
+    <link rel='stylesheet' href='https://scripts.24.co.za/libs/slick/slick.min.css?v=31' />
+    <link rel='stylesheet' href='https://scripts.24.co.za/libs/remodal/remodal.min.css?v=31' />
+    <link rel='stylesheet' href='https://scripts.24.co.za/libs/photoswipe/photoswipe.min.css?v=31' />
+    <link rel='stylesheet' href='https://scripts.24.co.za/libs/photoswipe/default-skin/default-skin.min.css?v=31' />
+
+    <!--[if IE]>
+        <link rel='stylesheet' href='/Content/styles/ie.min.css?v=16' />
+    <![endif]-->
+
+    <script async src="//securepubads.g.doubleclick.net/tag/js/gpt.js" type="text/javascript"></script>
+    <script src='https://scripts.24.co.za/libs/24com/ads/async/1.3/24AdScript.js?v=36'></script>
+
+    <script type="text/javascript">
+
+        window._tief = window._tief || {};
+        window._tief.dfp = {
+            zone: "Trending",
+            interstitial: false,
+            networkId: "/8900/24.com/Web/BusinessInsider"
+        };
+
+        window._tief.formatting = {
+            blurbCharLength: 100,
+            dateTimeFormat: 'MMM DD, YYYY, hh:mm A'
+        };
+
+        var $24 = $24 || {};
+        $24.versions = {
+            script24: "36",
+            localScripts: "12",
+            debug: false
+        };
+        $24.paths = {
+            scripts24: "modules/",
+            local: "/",
+            scriptsSite: "https://scripts.24.co.za/libs/"
+        };
+        $24.site = {
+            name: "BusinessInsider"
+        };
+        // unified frontend components
+        $24.components = {};
+
+            $24.components["brandbar"] = "https://scripts.24.co.za/libs/24com/pwa/brandbar/1.0.0/brandbar";
+            $24.components["social"] = "https://scripts.24.co.za/libs/24com/pwa/social/1.0.0/social";
+            $24.components["components"] = "https://scripts.24.co.za/libs/24com/pwa/components/1.5.1/components";
+            $24.components["articlelist"] = "https://scripts.24.co.za/libs/24com/pwa/articlelist/1.4.2/articlelist";
+            $24.components["dfp"] = "https://scripts.24.co.za/libs/24com/pwa/dfp/1.2.3/dfp";
+    </script>
+
+    <script src='https://scripts.24.co.za/libs/require/require-2.3.3.min.js?v=36'></script>
+    <script src='/Scripts/app.min.js?v=12'></script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWXKZK8');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWXKZK8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "13194393" });
+(function() {
+   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+   el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=13194393&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/businessinsider-sa-bi-sa/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPV6VVB');</script>
+<!-- End Google Tag Manager -->
+<script async src="//cdn.mediavoice.com/nativeads/script/24com/track.js"></script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '917174531984895');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=917174531984895&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><meta name="google-site-verification" content="CIqArgLtZXmXZVdJs8sPQtYpH-qcHOQ3Ho6UF0Nrjac" /><!-- OneTrust Cookies Consent Notice start for www.businessinsider.co.za -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="6a757fac-cc2e-4f1c-a6ac-0c380dde3e69" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for www.businessinsider.co.za --><link rel="preconnect" href="https://tags.crwdcntrl.net" />
+<link rel="preconnect" href="https://bcp.crwdcntrl.net" />
+<link rel="dns-prefetch" href="https://tags.crwdcntrl.net" />
+<link rel="dns-prefetch" href="https://bcp.crwdcntrl.net" />
+
+<script>
+  !(function () {
+    window.googletag = window.googletag || {};
+    window.googletag.cmd = window.googletag.cmd || [];
+    var targetingKey = 'lotame';
+    var lotameClientId = '15647';
+    var audLocalStorageKey = 'lotame_' + lotameClientId + '_auds';
+
+    // Immediately get audiences from local storage and get them loaded
+    try {
+      var storedAuds = window.localStorage.getItem(audLocalStorageKey) || '';
+
+      if (storedAuds) {
+        googletag.cmd.push(function () {
+          window.googletag
+            .pubads()
+            .setTargeting(targetingKey, storedAuds.split(','));
+        });
+      }
+    } catch (e) {}
+
+    // Callback when targeting audience is ready to push latest audience data
+    var audienceReadyCallback = function (profile) {
+      // Get audiences as an array
+      var lotameAudiences = profile.getAudiences() || [];
+
+      // Set the new target audiences for call to Google
+      googletag.cmd.push(function () {
+        window.googletag.pubads().setTargeting(targetingKey, lotameAudiences);
+      });
+    };
+
+    // Lotame Config
+    var lotameTagInput = {
+      data: {},
+      config: {
+        clientId: Number(lotameClientId),
+        audienceLocalStorage: audLocalStorageKey,
+        onProfileReady: audienceReadyCallback,
+      },
+    };
+
+    // Lotame initialization
+    var lotameConfig = lotameTagInput.config || {};
+    var namespace = (window['lotame_' + lotameConfig.clientId] = {});
+    namespace.config = lotameConfig;
+    namespace.data = lotameTagInput.data || {};
+    namespace.cmd = namespace.cmd || [];
+  })();
+</script>
+
+<script async src="https://tags.crwdcntrl.net/lt/c/15647/lt.min.js"></script>
+
+
+</head>
+<body>
+    <header class="header fixed-header">
+        
+
+    <a class="brand logo_container" href="/" data-track="website,logo-head-click">
+        <img class="brand logo" src="https://cdn.24.co.za/files/Cms/General/d/7010/3500bcae4ed44ba987b7749db0b4b66e.png" />
+    </a>
+
+        
+
+<div id="d69312b9-d253-4eb7-9ac1-0737cd2d94c7_menu" class="main-nav nav open">
+        <nav>
+            <ul>
+                    <li data-bind="navactive: {}" >
+                        <a href="/trending" data-track="Trending">Trending</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="/business" data-track="Business">Business</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="/Money-And-Markets" data-track="Money &amp; Markets">Money &amp; Markets</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="/Tech" data-track="Tech">Tech</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="/life" data-track="Life">Life</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="/travel" data-track="TRAVEL">TRAVEL</a>
+                    </li>
+                    <li data-bind="navactive: {}" >
+                        <a href="https://www.businessinsider.co.za/executive" data-track="Executive">Executive</a>
+                    </li>
+            </ul>
+        </nav>
+</div>
+
+<script>
+    requirejs(["navigation", "knockout"], function (nav, ko) {
+        ko.applyBindings({}, document.getElementById("d69312b9-d253-4eb7-9ac1-0737cd2d94c7_menu"));
+    });
+</script>
+        
+
+
+<div id="searchDialog" class="search-box">
+    <form class="search-form" action="./Search">
+        <span class="input_container">
+            <input class="searchfield" id="query" name="query" placeholder="Search Business Insider" required="required" type="text" value="" />
+        </span>
+        <input type="submit" value="" data-track="search-header-click" />
+    </form>
+</div>
+<div class="side-controllers">
+    <div id="btnSearch" class="search-btn open"></div>
+    <div id="btnSearchClose" class="search-btn-close close"></div>
+    <div id="editionPicker" class="edition-btn open"></div>
+</div>
+
+
+
+<div id="editionMenu" class="edition-menu close">
+    <div class="title">Business Insider Edition</div>
+        <ul>
+                <li>
+                    <a href="http://www.businessinsider.com/?IR=C" data-track="http://www.businessinsider.com/?IR=C">United States</a>
+                </li>
+                <li>
+                    <a href="http://uk.businessinsider.com/?IR=C" data-track="http://uk.businessinsider.com/?IR=C">United Kingdom</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.de/?IR=C" data-track="http://www.businessinsider.de/?IR=C">Deutschland &amp; &#214;sterreich</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.fr/?IR=C" data-track="http://www.businessinsider.fr/?IR=C">France</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.in/?IR=C" data-track="https://www.businessinsider.in/?IR=C">India</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.jp?IR=C" data-track="https://www.businessinsider.jp?IR=C">Japan</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.nl/?IR=C" data-track="https://www.businessinsider.nl/?IR=C">Nederland</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.com.pl/?IR=C" data-track="http://www.businessinsider.com.pl/?IR=C">Polska</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.com.au/?IR=C" data-track="https://www.businessinsider.com.au/?IR=C">Australia</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.es/?IR=C" data-track="http://www.businessinsider.es/?IR=C">Spain</a>
+                </li>
+                <li>
+                    <a href="https://businessinsider.mx/?IR=C" data-track="https://businessinsider.mx/?IR=C">Mexico</a>
+                </li>
+        </ul>
+</div>
+    </header>
+
+    
+
+
+<div class="backgroundAdLazyLoadFix tf-ad-block ad-2x1 ">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-2x1-1">
+            <script>
+                    (function () {
+                        za24_InitAds('2x1', '1', '/8900/24.com/Web/BusinessInsider/Trending', '2', '1');
+                    })();
+            </script>
+        </div>
+    </div>
+</div>
+    
+
+
+<div class="fixTransitionalAdPosition tf-ad-block ad-10x10 ">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-10x10-1">
+            <script>
+                    (function () {
+                        za24_InitAds('10x10', '1', '/8900/24.com/Web/BusinessInsider/Trending', '10', '10');
+                    })();
+            </script>
+        </div>
+    </div>
+</div>
+
+    
+
+
+<div class="tf-ad-block tf-leaderboard ad-728x90 ">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-728x90-1">
+            <script>
+                    (function () {
+                        za24_InitAds('728x90', '1', '/8900/24.com/Web/BusinessInsider/Trending', '728', '90');
+                    })();
+            </script>
+        </div>
+    </div>
+</div>
+
+    <div id="main-content" class="wrapper">
+        
+
+
+
+    <section class="article tf-grid">
+        <section id="lhs_column" class="tf-col-8 tf-lhs-col">
+
+            
+
+<div class="articleBreadCrumb">
+<a href='https://www.businessinsider.co.za/'>Business Insider</a> | <a href='https://www.businessinsider.co.za/Trending'>Trending</a>
+</div>
+
+            <div class="articleHeader">
+                <h1>The UK is laying off 6,000 workers on its contact tracing scheme after reports detailed how they spent weeks watching Netflix</h1>
+
+                <div class="articleDetails">
+                    <div class="author_details">
+                            <div class="author_name">
+                                <span><a href="/Author/Bill Bostock">Bill Bostock</a></span>
+                                    <span>, Business Insider US</span>
+                            </div>
+                        <div class="datestamp">
+                            <span>&nbsp;</span>Aug 11, 2020, 01:51 PM
+                        </div>
+                                            </div>
+
+                    <div class="articleHeaderSocialSharing">
+                        
+
+
+<link rel='stylesheet' href='https://scripts.24.co.za/libs/24com/pwa/social/1.0.0/social.css?v=31' />
+    <span id="1c6b33b6169d422992663d2aaf44614a" class="tf-social-share">
+        <section class="social social-share">
+            <div class="social-title"></div>
+            <div class="social-container">
+                <ul class="social-control">
+                        <li class="social-item">
+                            <div class="social-item-title">facebook</div>
+                            <a href="https://www.facebook.com/sharer.php?u=https://www.businessinsider.co.za/uk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8" rel="nofollow" data-share="facebook" title="facebook" data-track="facebook,social,share" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7009/9b4d5d6bec5e4b37b52f1c90857e57de.png" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">twitter</div>
+                            <a href="https://twitter.com/intent/tweet?via=BusinessInsider&amp;text=The+UK+is+laying+off+6%2C000+workers+on+its+contact+tracing+scheme+after+reports+detailed+how+they+spent+weeks+watching+Netflix&amp;url=https://www.businessinsider.co.za/uk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8" rel="nofollow" data-share="twitter" title="twitter" data-track="twitter,social,share" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7009/96608fdb46cf4468b35563151881e889.png" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">email</div>
+                            <a href="/Site/Page/SendToAFriend?articleId=e3dffd54-c4f6-4f2a-bf00-664aa64b2b50" rel="nofollow" data-share="email" title="email" data-track="email,social,share" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7009/a2b01a050a244e39a0ac3c9ae235896e.png" class="social-item-img"></a>
+                        </li>
+                </ul>
+            </div>
+        </section>
+    </span>
+
+<script type="text/javascript">
+    requirejs(['ajaxmodal'],
+        function (ajaxmodal) {
+            if (ajaxmodal != undefined) {
+                const emailEl = $('#1c6b33b6169d422992663d2aaf44614a').find("a[data-share='email']");
+                if (emailEl.length !== 0) {
+                    ajaxmodal.attachToElement(emailEl[0], "click");
+                }
+            }
+        });
+</script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="articleBodyWrapper">
+                    <div id="head-video"></div>
+                
+                
+                
+
+                <div class="articleBody">
+                    <div><div contenteditable="false" data-embed24="Images" data-pos="middle" id="8ccd9027"><div class="slide"><img data-smallsrc="" src="https://cdn.24.co.za/files/Cms/General/d/9092/dc67b2e010134d01aef1479c24eb23e7.jpg" title="The NHS contact-tracing app, which the government has since abandoned."><div class="caption">The NHS contact-tracing app, which the government has since abandoned. <div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;">NHSX</span> </div></div></div></div></div><p></p><ul><li><strong>The UK government has said it is firing 6,000 people from its Test and Trace coronavirus contact tracing programme. </strong></li><li><strong>Tracers are hired to call people and alert them if they have been in contact with anyone who has tested positive for COVID-19. </strong></li><li><strong>But in recent weeks tracers have told the British media that they are bored, making very few calls, and are being paid to sit around. </strong></li><li><a href="https://www.bbc.co.uk/news/uk-52904433"><strong>One told the BBC</strong></a><strong> in June: "I've literally been on the system, refreshed the system, and entertained myself during that watching Netflix." </strong></li><li><a href="https://www.gov.uk/government/news/nhs-test-and-trace-service-to-strengthen-regional-contact-tracing"><strong>The Department of Health</strong></a><strong> said remaining tracers would work with local authorities, who can better tap into local knowledge and "provide a more tailored service." </strong></li><li><a href="https://www.businessinsider.com/?hprecirc-bullet"><strong>Visit Business Insider's homepage for more stories</strong></a><strong>.</strong> </li></ul><p>The UK is laying off 6,000 staff on its contact tracing scheme following numerous reports that employees spent weeks watching Netflix and doing quizzes. </p><p>The Department of Health and Social Care <a href="https://www.gov.uk/government/news/nhs-test-and-trace-service-to-strengthen-regional-contact-tracing"> announced on Monday</a> that the number of tracers will drop from 18,000 to 12,000 on August 24. </p><div class="tf-advert">
+                            <div class="ad-fluid-1">
+                                <div class="tf-fluid-ad-unit">
+                                    <div id="ad-fluid-1">
+                                        <script>
+                                        (function () {
+                                            za24_InitAds('fluid', '1', '/8900/24.com/Web/BusinessInsider/Trending', 'fluid');
+                                        })();
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><p>The scheme had been working on a national scale, but the remaining 12,000 tracers will now be told to target specific local areas and work with local authorities to "provide a more tailored service," the department said. </p><div id='fourth-par-video'></div><p>Boris Johnson <a href="https://www.reuters.com/article/us-health-coronavirus-britain-track/uk-pm-johnson-vows-world-beating-track-and-trace-covid-system-by-june-1-idUSKBN22W1MW"> had announced on May 20 that</a> a "world-beating" track-and-trace system would be rolled out on June 1 to identify people who had come into contact with those who had tested positive for COVID-19. </p><div class="tf-advert">
+                            <div class="ad-300x250-1">
+                                <div class="tf-dfp-ad-unit">
+                                    <div id="ad-300x250-1">
+                                        <script>
+                                        (function () {
+                                            za24_InitAds('300x250', '1', '/8900/24.com/Web/BusinessInsider/Trending', '300', '250');
+                                        })();
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><p>But in recent weeks, a number of reports in the British press have detailed how many of those employed to make calls to Britons have had very little to do. </p><p>A clinician working as a tracer <a href="https://www.bbc.co.uk/news/uk-52904433">told the BBC</a> on June 3 that her boss had given her no one to call, despite working on the scheme for more than a week. </p><p>"I've had no contact from anyone. I've had no contact from supervisors. I've literally been on the system, refreshed the system, and entertained myself during that watching Netflix," the person said.<br></p><p>Another contract tracer, hired for the scheme by contractor Sitel, <a href="https://www.theguardian.com/world/2020/aug/05/englands-contact-tracers-making-handful-of-calls-a-month"> told The Guardian</a> last week they have made only a handful of calls. </p><p>"I've heard of tracers claiming to be sat in the garden having a barbecue so that they can stay logged in and clock up the hours," the person said. </p><p>"They aren't alone - there's hundreds, if not thousands, of similar stories."</p><div></div><p>A second contractor, hired by the firm Intelling to work the government contract, told the newspaper: "We could easily make 30 calls a day." </p><p>"I've worked hundreds of hours and only made a handful of calls, and all of them have gone to voicemail." </p><p>"It's been very frustrating, and I'm grappling with my own morals because I'm wasting so much [public] money," the person said. </p><p>"They keep telling us next week it's going to get more busy, and at first you believe that, but over time reality sets in that I may never make a real call, and I'll be paid thousands of pounds by the government. That's deeply frustrating if you want to help." </p><p></p><div><div contenteditable="false" data-embed24="Images" data-pos="middle" id="f231e45c"><div class="slide"><img data-smallsrc="" src="https://cdn.24.co.za/files/Cms/General/d/9092/8bd3287e35794686856ece932ba14674.jpg" title="Boris Johnson, UK prime minister, seen during the coronavirus pandemic in London, UK."><div class="caption">Boris Johnson, UK prime minister, seen during the coronavirus pandemic in London, UK. <div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;">Getty</span> </div></div></div></div></div><dl type="image"><dd id="image-source-5f32591f7924a11d9079f91d">Screenshots from the tracers' internal messaging service, <a href="https://www.dailymail.co.uk/news/article-8455473/NHS-Track-Trace-worker-reveals-bored-staff-spend-day-chatting-Netflix-holidays.html"> shared with MailOnline,</a> also showed staff discussing popular TV shows and planning holidays.<br></dd></dl><p>"People talk about Netflix, where they want to go on holiday. There are Xbox groups, planned nights out. You name it," the unnamed whistleblower who supplied the pictures said. </p><p>"I think the fact conversations have devolved to team leaders talking about how they want to go to Disney is evidence of how busy they are." </p><p>"All Boris [Johnson] has done has hired thousands of people so he can say 'we have this' but you have got thousands of people doing nothing," they said. </p><p>During the training process, <a href="https://www.businessinsider.com/uk-contact-tracers-chaotic-training-process-with-sitel-2020-5"> contractors complained of disjointed classes</a> in which no one knew what they were being hired for. </p><p>Some <a href="https://www.businessinsider.com/uk-contact-tracers-chaotic-training-process-with-sitel-2020-5"> said</a> that even when they have been employed they couldn't log into the system to start their work. </p><p>When asked to supply comment on the claims made by tracers, the Department of Heath and Social Care sent Business Insider a copy of Monday's announcement. </p><p>The UK had planned to roll out a track-and-trace app nationwide, but <a href="https://www.businessinsider.com/coronavirus-uk-switch-google-apple-contact-tracing-2020-6"> scrapped the idea in June</a>.</p><h2>Receive a daily update on your cellphone with all our latest news:&nbsp;<a href="https://www.businessinsider.co.za/whatsapp-newsletter/" target="_blank">click here.</a></h2><h2><strong>Get the best of our site emailed to you daily:&nbsp;</strong><a href="https://www.businessinsider.co.za/Newsletter/Signup" target="_blank">click here</a><strong>.</strong></h2><p><strong>Also&nbsp;</strong><strong>from Business Insider South Africa:</strong></p><ul><li><a href="https://www.businessinsider.co.za/sas-cannabis-law-is-heading-for-parliament-heres-what-a-previous-draft-allowed-2020-8" target="_blank"><strong>It&rsquo;s official: Cabinet wants to let you have 1.2kg of dagga at home &ndash; if you don&rsquo;t live alone</strong></a></li><li><a href="https://www.businessinsider.co.za/funeral-prices-up-during-lockdown-covid-19-coronavirus-south-africa-2020-8" target="_blank"><strong>Funeral prices up by as much as 25% during lockdown &ndash; with extra fees for Covid-19 deaths</strong></a></li><li><a href="https://www.businessinsider.co.za/what-black-market-alcohol-costs-in-south-africa-2020-8" target="_blank"><strong>R750 for Jack and R650 for Richelieu: Booze is easy to find in SA &ndash; but it&rsquo;s not cheap</strong></a></li><li><a href="https://www.businessinsider.co.za/ayanda-capital-uk-masks-2020-8" target="_blank"><strong>Meet the 38-year old South African involved in a R6 billion mask disaster in the UK</strong></a></li><li><a href="https://www.businessinsider.co.za/sas-barista-champion-recommends-the-best-locally-available-coffee-beans-2020-8" target="_blank"><strong>SA&rsquo;s barista champion recommends the best locally available coffee beans</strong></a></li><li><a href="https://www.businessinsider.co.za/the-best-budget-breakaways-in-your-province-for-around-r500-per-person-per-night-2020-8" target="_blank"><strong>The best budget breakaways in your province for around R500 per person per night</strong></a></li></ul><p><strong></strong></p><div><div><p><strong><a href="https://www.businessinsider.co.za/coronavirus-smokers-quit-record-numbers-study-2020-8" target="_blank"></a></strong></p><div><div><p><strong><a href="https://www.businessinsider.co.za/botswana-death-three-hundred-elephants-is-mystery-after-inconclusive-tests-2020-8" target="_blank"></a></strong></p><div><p><br></p></div></div></div></div></div>
+                </div>
+                
+
+
+<div class="tf-ad-block ArticleBottomAd ad-2x2 ">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-2x2-1">
+            <script>
+                    (function () {
+                        za24_InitAds('2x2', '1', '/8900/24.com/Web/BusinessInsider/Trending', '2', '2');
+                    })();
+            </script>
+        </div>
+    </div>
+</div>
+                
+                
+
+                    <div id="foot-video"></div>
+
+                                <div class="related">
+                    
+
+
+    <div class="articleKeywords">
+        <h3>Tagged In</h3>
+            <a href="/tags/Topics/coronavirus">coronavirus</a>
+            <a href="/tags/Topics/news-uk">news-uk</a>
+            <a href="/tags/Topics/uk">uk</a>
+            <a href="/tags/Topics/nhs">nhs</a>
+            <a href="/tags/Topics/contact-tracing">contact-tracing</a>
+    </div>
+
+                </div>
+            </div>
+            
+
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({
+        mode: 'thumbnails-a',
+        container: 'taboola-below-article-thumbnails',
+        placement: 'Below Article Thumbnails',
+        target_type: 'mix'
+    });
+</script>
+        </section>
+        
+
+
+
+<!-- DefaultArticle -->        <div class="tf-col-4 tf-rhs-col">
+            <!-- RHS -->
+<!-- Advert -->
+
+
+<div class=" ad-300x600 tf-ad-block">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-300x600-1">
+            <script>
+                    (function () {
+                        za24_InitAds('300x600', '1', '/8900/24.com/Web/BusinessInsider/Trending', '300', '600');
+                    })();
+            </script>
+        </div>
+    </div>
+</div><!-- Advert -->
+
+
+<div class=" ad-333x250 ">
+    <div class="tf-dfp-ad-unit">
+        <div id="ad-333x250-1">
+            <script>
+                    (function () {
+                        za24_InitAds('333x250', '1', '/8900/24.com/Web/BusinessInsider/Trending', '333', '250');
+                    })();
+            </script>
+        </div>
+    </div>
+</div><!-- FinIndicators -->
+<div id="financialBox" class="tf-financial-box">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <ul id="financialTabContainer" class="tabNavigation tab-menu">
+                    <li id="tab_indicators" class="is-active">Indicators</li>
+                    <li id="tab_winners">JSE Indexes</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="relative" id="topNav">
+                <div id="tab_indicators_data" class="tab-wrapper">
+                    <div id="indicators_box" class="indicators_box_wrapper">
+                        <table width="260" border="0" cellpadding="0" cellspacing="0">
+                            <tbody>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" up">
+                                                <a href=https://www.fin24.com/Markets/Commodities/>Rand - Dollar</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>14.94</div>
+                                        </td>
+                                        <td>
+                                            <div class="green">0.2%</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" up">
+                                                <a href=https://www.fin24.com/Markets/Commodities/>Rand - Pound</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>20.32</div>
+                                        </td>
+                                        <td>
+                                            <div class="green">0.2%</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" up">
+                                                <a href=https://www.fin24.com/Markets/Commodities/>Rand - Euro</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>17.25</div>
+                                        </td>
+                                        <td>
+                                            <div class="green">0.2%</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" up">
+                                                <a href=https://www.fin24.com/Markets/Commodities/>Gold/Oz</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>$1,755.53</div>
+                                        </td>
+                                        <td>
+                                            <div class="green">0.0%</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" down">
+                                                <a href=https://www.fin24.com/Markets/Commodities/>Brent Crude Oil</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>$81.95</div>
+                                        </td>
+                                        <td>
+                                            <div class="red">-1.4%</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bold currencies">
+                                            <div class=" up">
+                                                <a href=https://www.fin24.com/Markets/Equities/>All Share</a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div>65,392</div>
+                                        </td>
+                                        <td>
+                                            <div class="green">0.4%</div>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                        <a id="lnkSponsor1" runat="server"><img id="imgSponsor1" runat="server" visible="false" /></a>
+                    </div>
+                    <div class="bottom_logo">All JSE data is delayed by at least 15 minutes<img src=https://cdn.24.co.za/files/Cms/General/d/11012/04e80f0748c64aad9aaaeff5bce6d8a6.png width="50" height="11" border="0" /></div>
+                </div>
+                <div id="tab_winners_data" class="tab-wrapper" style="display: none;">
+                    <h4> Johannesburg Stock Exchange Indexes </h4>
+                    <div>
+                        <table width="260" border="0" cellpadding="0" cellspacing="0" class="indexes">
+                            <tbody>
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.fin24.com/Markets/">
+                                                All Share
+                                            </a>
+                                        </td>
+
+                                        <td>
+                                            65,392
+                                        </td>
+
+                                        <td class="green">
+                                            <div>
+                                                234
+
+                                            </div>
+                                        </td>
+                                        <td class="green">
+                                            <div>
+                                                   
+                                                0.4%
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.fin24.com/Markets/">
+                                                Top 40
+                                            </a>
+                                        </td>
+
+                                        <td>
+                                            58,874
+                                        </td>
+
+                                        <td class="green">
+                                            <div>
+                                                152
+
+                                            </div>
+                                        </td>
+                                        <td class="green">
+                                            <div>
+                                                   
+                                                0.3%
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.fin24.com/Markets/">
+                                                Financial 15
+                                            </a>
+                                        </td>
+
+                                        <td>
+                                            14,286
+                                        </td>
+
+                                        <td class="red">
+                                            <div>
+                                                -7
+
+                                            </div>
+                                        </td>
+                                        <td class="red">
+                                            <div>
+                                                   
+                                                -0.1%
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.fin24.com/Markets/">
+                                                Industrial 25
+                                            </a>
+                                        </td>
+
+                                        <td>
+                                            83,362
+                                        </td>
+
+                                        <td class="green">
+                                            <div>
+                                                57
+
+                                            </div>
+                                        </td>
+                                        <td class="green">
+                                            <div>
+                                                   
+                                                0.1%
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.fin24.com/Markets/">
+                                                Resource 10
+                                            </a>
+                                        </td>
+
+                                        <td>
+                                            60,328
+                                        </td>
+
+                                        <td class="green">
+                                            <div>
+                                                444
+
+                                            </div>
+                                        </td>
+                                        <td class="green">
+                                            <div>
+                                                   
+                                                0.7%
+                                            </div>
+                                        </td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div><a id="lnkSponsor2" runat="server"><img id="imgSponsor2" runat="server" visible="false" /></a></div>
+                    <div class="bottom_logo">All JSE data is delayed by at least 15 minutes<img src=https://cdn.24.co.za/files/Cms/General/d/11012/04e80f0748c64aad9aaaeff5bce6d8a6.png width="50" height="11" border="0" /></div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<script type="text/javascript">
+    requirejs(["jquery"], function ($) {
+        $(document).ready(function () {
+            $('li').hover(
+                function () {
+                    $(this).siblings().removeClass('is-active');
+                    $(this).addClass('is-active');
+                    $('#' + this.id + '_data').show();
+                    $('#' + this.id + '_data').siblings().hide();
+                });
+        });
+    });
+</script><!-- NewsletterSubscription -->
+
+    <div class="tf-newsletter-subscription" id="newsSubscribe">
+        <div class="tf-depth-1">
+            <span class="tf-title">DAILY BUSINESS INSIDER UPDATE</span>
+            <p class="tf-blurb">Get the best of our site delivered to your inbox every day.</p>
+            <a href="/Newsletter/Signup" style="background-color: " class="btn secondary">
+                Sign Up
+            </a>
+        </div>
+    </div>
+ <!-- NewsletterSubscription -->
+
+    <div class="tf-newsletter-subscription" id="newsSubscribe">
+        <div class="tf-depth-1">
+            <span class="tf-title"></span>
+            <p class="tf-blurb"></p>
+            <a href="https://www.24.com/static/PrivacyPolicy.htm" style="background-color: " class="btn secondary">
+                View our Ts and Cs
+            </a>
+        </div>
+    </div>
+ <!-- NewsletterSubscription -->
+
+    <div class="tf-newsletter-subscription" id="newsSubscribe">
+        <div class="tf-depth-1">
+            <span class="tf-title"></span>
+            <p class="tf-blurb"></p>
+            <a href="https://www.media24.com/privacy-policy/" style="background-color: " class="btn secondary">
+                Media24 Privacy Policy
+            </a>
+        </div>
+    </div>
+ <!-- SocialShare -->
+
+
+<link rel='stylesheet' href='https://scripts.24.co.za/libs/24com/pwa/social/1.0.0/social.css?v=31' />
+    <span id="8611049052d44702ac68a31356ff7030" class="tf-social-share">
+        <section class="social social-links">
+            <div class="social-title">Follow us on</div>
+            <div class="social-container">
+                <ul class="social-control">
+                        <li class="social-item">
+                            <div class="social-item-title">Facebook</div>
+                            <a href="https://www.facebook.com/BusinessInsiderSouthAfrica" rel="nofollow" data-share="facebook" title="Facebook" data-track="facebook,social,like" target="_blank" class="social-item-link action facebook"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7010/acfcde60fb0a45c89791716ea4b55d41.png" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">Twitter</div>
+                            <a href="https://twitter.com/BISouthAfrica" rel="nofollow" data-share="twitter" title="Twitter" data-track="twitter,social,share" target="_blank" class="social-item-link action twitter"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7010/abc5c1d0ad3a4fc5bee3b430a808b92d.png" class="social-item-img"></a>
+                        </li>
+                </ul>
+            </div>
+        </section>
+    </span>
+
+<script type="text/javascript">
+    requirejs(['ajaxmodal'],
+        function (ajaxmodal) {
+            if (ajaxmodal != undefined) {
+                const emailEl = $('#8611049052d44702ac68a31356ff7030').find("a[data-share='email']");
+                if (emailEl.length !== 0) {
+                    ajaxmodal.attachToElement(emailEl[0], "click");
+                }
+            }
+        });
+</script><!-- HtmlWidget -->
+
+    <div class="html_widget" id="htmlWidget">
+        <div id="taboola-below-article-text-links"></div> <script type="text/javascript">   window._taboola = window._taboola || [];   _taboola.push({     mode: 'thumbnails-rr2',     container: 'taboola-below-article-text-links',     placement: 'Below Article Text Links',     target_type: 'mix'   }); </script>
+    </div>
+        </div>
+
+
+    </section>
+
+
+
+<div id="CmsStats" style="z-index: -1; visibility: hidden;">
+    <script type="text/javascript" language="JavaScript">
+        requirejs(["advert", "site"],
+            function (advert, site) {              
+                advert.init(googletag);
+                /* TODO - Remove and fix with proper solution */
+                window.addEventListener(
+                    'message',
+                    e => {
+                        /** Only except requests from same origin */
+                        if (e.origin !== window.location.origin) {
+                            return;
+                        }
+                        /**
+                         * No Ad specific events
+                         * Used to capture events from DFP empty slots.
+                         */
+                        const { noAd } = e.data;
+                        if (typeof noAd === 'undefined') {
+                            return;
+                        }
+
+                        site.eventHandlerGeneric(noAd);
+                    },
+                    false
+                );
+            });
+    </script>
+    <script type="text/javascript" language="JavaScript">
+        var cmsStatsImage = new Image();
+        cmsStatsImage.src = "https://stats.24.com/content/image.articleview?rnd=4584922&s=59&c=17677&a=e3dffd54-c4f6-4f2a-bf00-664aa64b2b50&t=The+UK+is+laying+off+6%2c000+workers+on+its+contact+tracing+scheme+after+reports+detailed+how+they+spent+weeks+watching+Netflix&ct=BusinessInsider|Trending&u=https%3a%2f%2fwww.businessinsider.co.za%2fuk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8&uid=&luid=&sn=";
+    </script>
+    <noscript>
+        <img src="https://stats.24.com/content/image.articleview?rnd=4584922&s=59&c=17677&a=e3dffd54-c4f6-4f2a-bf00-664aa64b2b50&t=The+UK+is+laying+off+6%2c000+workers+on+its+contact+tracing+scheme+after+reports+detailed+how+they+spent+weeks+watching+Netflix&ct=BusinessInsider|Trending&u=https%3a%2f%2fwww.businessinsider.co.za%2fuk-firing-6000-contact-tracers-reports-bored-quizzing-netflix-2020-8&uid=&luid=&sn=" alt="" />
+    </noscript>
+</div>
+    <script type="text/JavaScript" src="https://cdn.24.co.za/oovvuu/v1.5/ovu_rec.js"></script>
+
+    </div>
+    <div class="footer">
+        <header class="brand">
+            
+
+    <a class="brand logo_container" href="" data-track="website,logo-head-click">
+        <img class="brand logo" src="https://cdn.24.co.za/files/Cms/General/d/7010/eef759dbf3c2400689abf6d3764692a8.png" />
+    </a>
+
+            <div class="site_align">
+                
+
+
+<link rel='stylesheet' href='https://scripts.24.co.za/libs/24com/pwa/social/1.0.0/social.css?v=31' />
+    <span id="7b3e1492123a4550a6ae4e47830f3e5e" class="tf-social-share">
+        <section class="social social-links">
+            <div class="social-title">Follow us on</div>
+            <div class="social-container">
+                <ul class="social-control">
+                        <li class="social-item">
+                            <div class="social-item-title">Facebook</div>
+                            <a href="https://www.facebook.com/BusinessInsiderSouthAfrica" rel="nofollow" data-share="facebook" title="Facebook" data-track="facebook,social,like" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7010/6040f60ca6e4481783cc4ee1e237624d.svg" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">Twitter</div>
+                            <a href="https://twitter.com/BISouthAfrica" rel="nofollow" data-share="twitter" title="Twitter" data-track="twitter,social,like" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7010/052841b5b44f4b869734f62ea88ef454.svg" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">Instagram</div>
+                            <a href="https://www.instagram.com/bisouthafrica/" rel="nofollow" data-share="instagram" title="Instagram" data-track="instagram,social,follow" target="_blank" class="social-item-link action"><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7023/933267b813034cb5b743bece6d74296f.svg" class="social-item-img"></a>
+                        </li>
+                        <li class="social-item">
+                            <div class="social-item-title">LinkedIn</div>
+                            <a href="https://www.linkedin.com/company/bi-south-africa/ " rel="nofollow" data-share="linkedin" title="LinkedIn" data-track="" target="_blank" class="social-item-link "><img alt="" src="https://cdn.24.co.za/files/Cms/General/d/7023/53ae6d35847e48e5b8281044b1cf0a15.svg" class="social-item-img"></a>
+                        </li>
+                </ul>
+            </div>
+        </section>
+    </span>
+
+<script type="text/javascript">
+    requirejs(['ajaxmodal'],
+        function (ajaxmodal) {
+            if (ajaxmodal != undefined) {
+                const emailEl = $('#7b3e1492123a4550a6ae4e47830f3e5e').find("a[data-share='email']");
+                if (emailEl.length !== 0) {
+                    ajaxmodal.attachToElement(emailEl[0], "click");
+                }
+            }
+        });
+</script>
+            </div>
+        </header>
+        
+
+<footer id="footer">
+    <div class="site_align">
+        <span class="copyright">
+            
+<span class="copyright">
+    *Copyright &copy; 2021 Business Insider Inc.All rights reserved.Registration on or use of this site constitutes acceptance of our <a href="http://www.24.com/static/PrivacyPolicy.htm">terms & conditions</a>.
+<br/>
+| <a href="https://www.media24.com/privacy-policy/">Privacy Policy</a> | <a href="./contact">Advertise with us</a> | <a href="./contact">Contact us</a> |   
+</span>
+
+
+        </span>
+        
+
+
+
+<div class="edition-list">
+        <span>International Editions:</span> 
+        <ul>
+                <li>
+                    <a href="http://www.businessinsider.com/?IR=C" data-track="http://www.businessinsider.com/?IR=C">US</a>
+                </li>
+                <li>
+                    <a href="http://uk.businessinsider.com/?IR=C" data-track="http://uk.businessinsider.com/?IR=C">UK</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.de/?IR=C" data-track="http://www.businessinsider.de/?IR=C">DE + AT</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.fr/?IR=C" data-track="http://www.businessinsider.fr/?IR=C">FR</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.in/?IR=C" data-track="https://www.businessinsider.in/?IR=C">IN</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.jp?IR=C" data-track="https://www.businessinsider.jp?IR=C">JP</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.nl/?IR=C" data-track="https://www.businessinsider.nl/?IR=C">NL</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.com.pl/?IR=C" data-track="http://www.businessinsider.com.pl/?IR=C">PL</a>
+                </li>
+                <li>
+                    <a href="https://www.businessinsider.com.au/?IR=C" data-track="https://www.businessinsider.com.au/?IR=C">AUS</a>
+                </li>
+                <li>
+                    <a href="http://www.businessinsider.es/?IR=C" data-track="http://www.businessinsider.es/?IR=C">ES</a>
+                </li>
+                <li>
+                    <a href="https://businessinsider.mx/?IR=C" data-track="https://businessinsider.mx/?IR=C">MX</a>
+                </li>
+        </ul>
+</div>
+    </div>
+</footer>
+    </div>
+
+
+
+    <!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+    (function () {
+        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+        em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+    })();
+</script>
+<noscript>
+    <img src="//za.effectivemeasure.net/em_image" alt="" style="position: absolute; left: -5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE --><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPV6VVB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <script>
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+
+    //Set resourcing
+    var resource = {  "acceptterms": "I accept the terms and conditions",  "accepttermspart1": "I accept the",  "accepttermspart2": "terms and conditions",  "accepttermspart3": "terms",  "accepttermspart4": "conditions",  "agerange": "Ouderdom:",  "allcategories": "Alle kategorieë",  "allrightsreserved": "Alle regte voorbehou",  "answerforquestion": "'n Antwoord vir vraag",  "articlesrelating": "Related Articles",  "articleviews": "keer gelees",  "authorsresultheading": "Author",  "back": "Terug",  "biedition": "Business Insider Edition",  "by": "By",  "cancel": "Cancel",  "changeemailmsgbutton": "Verander e-posadres",  "city": "City",  "competitionclose": "This competition closed on",  "competitionemailaddress": "E-posadres",  "competitionerror": "’n Fout het ingesluip en die oplaai het misluk.",  "competitionfirstname": "Naam",  "competitionhomenumber": "Telefoonnommer: huis",  "competitionidnumber": "ID-nommer",  "competitionimageerrorsize": "Oeps, die leêr is te groot. Dit mag nie groter as 10 MB wees nie.",  "competitionimageerrortype": "Die leêr wat jy probeer oplaai, is nie ’n foto nie. (Dit moet ’n png, jpg of gif wees)",  "competitionlastname": "Van",  "competitionmobilenumber": "Selnommer",  "competitionmultiplentries": "Jy het reeds ingeskryf vir hierdie kompetisie.",  "competitionpostaladdress": "Posadres",  "competitionsubmit": "Stuur",  "competitionuploaderror": "Oplaai het gestop.",  "competitionworknumber": "Telefoonnommer: werk",  "completeformfields": "Voltooi asseblief al die volgende velde.",  "confirmationemailmsg": "Jy sal binnekort 'n bevestiging e-pos ontvang om jou subskripsie te aktiveer.",  "contactus": "Kontak ons",  "contactusheadline": "Voltooi die vorm",  "cookingtime": "Gaarmaak",  "copymyself": "Send a copy to myself",  "DatingWidgetHeader": "Pasmaats",  "DOB": "Birth Date",  "email": "E-pos",  "emailaddress": "Email Address",  "emailmorepeople": "If you would like to email this page to more than one person, just put a semicolon \";\" between the email addresses.",  "emailsent": " Your message has been sent.",  "entercompetition": "Neem deel",  "enteremail": "Tik jou e-pos...",  "enteryour": "Tik jou",  "enteryouranswer": "Tik jou antwoord",  "entryfail": "Inskrywing nie suksesvol was nie. Probeer asseblief weer later.",  "errorsendemail": "An error occurred sending the email.",  "errorsubscribeemail": "Please try signing up to our newsletter again later.",  "F": "F",  "feedback": "Skryf aan ons",  "female": "Female",  "filetypeallowed": "Slegs die volgende lêertipes word toegelaat: {0}",  "findperfectmatch": "Vind jou perfekte maat nou!",  "firstname": "Firstname",  "followuson": "Follow us on",  "gender": "Gender",  "go": "Go",  "gotohomepage": "Go To Home Page",  "home": "Home",  "hometel": "Huis telefoonnommer #",  "horoscopes": "Sterretekens",  "iama": "Ek is 'n:",  "id": "ID #",  "indicators": "Indicators",  "incorrectformat": " Your email address is in the incorrect format.",  "incorrectIDformat": "is nie 'n behoorlike Suid-Afrikaanse ID nommer formaat",  "incorrectphoneformat": "is nie 'n korrekte foon nommer formaat",  "ingredients": "Bestanddele",  "internationaleditions": "International Editions:",  "isrequired": "Field is required",  "isrequiredpartial": "is required",  "jsedelay": "All JSE data is delayed by at least 15 minutes",  "jseindexes": "JSE Indexes",  "language": "Language",  "lastname": "Surname",  "latestedition": "Jongste uitgawe",  "loadmore": "Load More",  "refresh": "Refresh",  "login": "Meld aan",  "lookingfor": "Op soek na:",  "lovetohear": "Ons hoor graag van jou.",  "M": "M",  "male": "Male",  "man": "Man",  "men": "Mans",  "menandwomen": "Mans en vroue",  "message": "Boodskap",  "method": "Metode",  "mightalsolike": "You May Also Like",  "mobiletel": "Mobiele telefoon #",  "moreabout": "More about ",  "moresigns": "Meer tekens",  "morestoriesby": "More stories by",  "mostread": "Most Read",  "name": "Name",  "newsletterheader": "JOU INBUS OPHELDER",  "newsletterline": "Teken in vir alle dinge W24! Die warmste tendense, skoonheid wenke en meer.",  "no": "Nee",  "nosearchresults": "No results for ",  "onenewsletter": "Please select at least one newsletter to subscribe to.",  "oops": "Oh no! Something went wrong!",  "pagenotfound": "..we can't seem to find that page you were looking ",  "personalmessage": "Personal message",  "pleaseselect": "Kies asseblief...",  "pleaseuploadimage": "Laai asseblief 'n beeld vir vraag",  "portions": "Genoeg vir",  "postaladress": "Posadres",  "preparationtime": "Bereiding",  "previewimage": "Klik vir voorbeeld",  "profile": "Profiel",  "question": "Vraag",  "readmore": "Read more",  "recipientaddress": "Recipient's email address(s)",  "redirecthome": "Keer gerus terug na ons tuisblad om verder te lees.",  "result": "resultaat",  "results": "resultate",  "rules": "Reëls:",  "search": "Search",  "searchnow": "Soek Nou",  "searchrecipes": "Soek in Resepte",  "searchresults": "Results for ",  "searchresultsheading": "Search",  "searchsuffix": "",  "selectcity": "Select the closest city to you",  "selectgender": "Select your gender",  "selectlanguage": "Select your home language",  "send": "Send",  "sendlink": "Stuur skakel",  "sendtofriend": "Share via email",  "servings": "Porsies",  "shareit": "DEEL DIT",  "sharethisstory": "Deel hierdie storie",  "shareyourstory": "Deel jou storie",  "shareyourstoryanonymously": "Ek wil graag anoniem bly",  "shareyourstoryblurb": "Dis so maklik - voltooi net hierdie vorm en klik 'stuur'!",  "shareyourstorycontent": "Storie",  "shareyourstoryerror": "'n Fout het voorgekom gedurende die storie stuur.",  "shareyourstoryimage": "Laai foto op",  "shareyourstoryimagebutton": "Klik hier",  "shareyourstoryimageterms": "Voor jy jou foto oplaai, maak asseblief seker van die volgende: <ul><li>dat jou foto ’n minimum van 50 KB groot is (of 350 x 250 pixels),</li><li>dat jou foto duidelik is,</li><li>dat jy die kopiereg van die foto besit,</li><li>en dat jy die nodige toestemming het om die foto te deel.</li></ul>",  "shareyourstorysent": "Jou storie is vir oorweging gestuur.",  "shareyourstorytitle": "Storie Titel",  "signin": "You have been successfully subscribed to our newsletter!",  "sitename": "Business Insider",  "soapies": "Sepies",  "socialheading": "Volg",  "sponsered": "Vennootskapveldtog",  "sponsoredcampaign": "Vennootskapveldtog",  "sponseredlink": "Geborgde skakels",  "sponsorfootertext": "Made Possible By",  "straphead": "Uitgawe",  "submit": "Dien in",  "subscribe": "Subscribe",  "taggedin": "Tagged In",  "tagsresultheading": "Tags",  "thankscofirmnewsletter": "Dankie vir die bevestiging van jou intekening op ons nuusbrief.",  "thankssubscribenewsletter": "Dankie dat jy inteken op ons nuusbrief",  "thankyou": "Thank you",  "to": "tot",  "uploadagain": "Laai weer",  "uploadfail": "Geen lêer om op te laai.",  "upnext": "Volgende artikel",  "verifyemailmsg": "'n E-pos met ’n bevestigingskakel is na {0} gestuur om jou profiel te aktiveer.",  "verifyemailmsgbutton": "Stuur weer",  "verifyemailmsgsuccess": "Jou bevestigingskakel is gestuur na",  "verifyhuman": "Please verify that you are human",  "videotitle": "Video Title",  "videodescription": "Describe the Video",  "viewexample": "View Sample",  "viewmore": "Sien meer...",  "viewprofile": "Besigtig profiel",  "viewresults": "Resultate",  "visitnow": "Visit",  "vote": "Stem",  "whattoreadnext": "Wat om volgende te lees",  "woman": "Vrou",  "women": "Vroue",  "wordcount": "Aantal karakters:",  "worktel": "Werk telefoonnommer #",  "yes": "Ja",  "your": "Jou",  "youremail": "Your email address",  "yourereading": "Jy lees nou",  "days": "DAYS",  "hours": "HOURS",  "minutes": "MINUTES",  "seconds": "SECONDS"};
+
+    // Code that runs asynchronously when the library is loaded
+    requirejs(["advert", "tracking", "site", "vue", "unveil"],
+        function(ad, tracking, site, vue) {
+            ad.init(googletag);
+            site.CheckReturnURL();
+            site.setChromeVersion();
+            site.initWebSearch('#btnSearch', '#searchDialog', '#btnSearchClose', '.nav', '.searchfield');
+            site.initEditionPicker('#editionPicker', '#editionMenu', 'body');
+            tracking.log();
+            tracking.pageEvents();
+
+            window.Vue = vue;
+
+            requirejs(['components'], function (components) {});
+        },
+        function(err) {
+            requirejs(["jquery"],
+                function($) {
+                    $("#top_page_ad").removeClass("before_ad_loaded").addClass("ad_loaded");
+                });
+        }
+    );
+    </script>
+    <script>
+        window.twttr = (function (d, s, id) {
+            var js,
+                fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+
+            t._e = [];
+            t.ready = function (f) {
+                t._e.push(f);
+            };
+
+            return t;
+        }(document, "script", "twitter-wjs"));
+    </script>
+</body>
+</html>

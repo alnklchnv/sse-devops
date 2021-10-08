@@ -1,0 +1,576 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine - PM - ABC Radio</title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8" />
+<link rel="canonical" data-abc-platform="standard, mobile" href="https://www.abc.net.au/radio/programs/pm/why-well-still-need-good-hygiene-even-with-a-covid-19-vaccine/12523946" />
+<meta name="apple-itunes-app" content="app-id=544149504" />
+<meta name="google-play-app" content="app-id=com.thisisaim.abcradio" />
+<meta name="keywords" content="podcast, news, coronavirus, covid-19, rawlinson, vaccine, treatment, public, health" />
+<meta name="ABC.ContentType" content="ABCAudioSegment" />
+<meta name="ContentId" content="12523946" />
+<meta name="ABC.site" content="ABC Radio" />
+<meta name="generator" content="WCMS FTL" />
+<meta name="ABC_WCMS_sitesearch_include" content="true" />
+<meta name="DCTERMS.publisher" content="Australian Broadcasting Corporation" />
+<meta name="DCTERMS.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent" />
+<meta name="DCTERMS.format" scheme="DCTERMS.IMT" content="text/html"/>
+<meta name="DCTERMS.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/radio/programs/pm/why-well-still-need-good-hygiene-even-with-a-covid-19-vaccine/12523946" />
+<meta name="DCTERMS.language" scheme="DCTERMS.RFC3066" content="en_AU" />
+<meta property="og:site_name" content="ABC Radio" />
+<meta name="title" content="It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine"/>
+<meta name="DCTERMS.title" content="It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine"/>
+<meta property="og:title" content="It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine"/>
+<meta name="description" content="As the World Health Organisation director-general, Tedros Adhanom Ghebreyesus, warns there will likely be no &quot;silver bullet&quot; vaccine and public health measures will continue to be important, Professor Bill Rawlinson says he agrees it is not an &quot;either/or&quot; situation."/>
+<meta property="og:description" content="As the World Health Organisation director-general, Tedros Adhanom Ghebreyesus, warns there will likely be no &quot;silver bullet&quot; vaccine and public health measures will continue to be important, Professor Bill Rawlinson says he agrees it is not an &quot;either/or&quot; situation."/>
+<meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2020-08-04T18:08:10+1000"/>
+<meta name="DCTERMS.date" scheme="DCTERMS.W3CDTF" content="2020-08-04T18:08:10+1000"/>
+<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2020-08-04T18:08:10+1000"/>
+<meta property="og:updated_time" content="2020-08-04T18:08:10+1000"/>
+<meta property="og:image" content="https://www.abc.net.au/cm/rimage/12515162-16x9-large.jpg?v=3"/>
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="394" />
+<meta property="twitter:image" content="https://www.abc.net.au/cm/rimage/12515162-16x9-large.jpg?v=3"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:url" content="https://www.abc.net.au/radio/programs/pm/why-well-still-need-good-hygiene-even-with-a-covid-19-vaccine/12523946"/>
+<meta name="twitter:card" content="summary"/><meta name="DCTERMS.type" scheme="DCMIType" content="Sound" />
+<meta property="og:image" content="https://www.abc.net.au/cm/rimage/12515162-1x1-large.jpg?v=3"/>
+<meta property="twitter:image" content="https://www.abc.net.au/cm/rimage/12515162-1x1-large.jpg?v=3"/>
+<meta property="og:image:type" content="image/jpeg"/><link rel="stylesheet" href="/assets/radio-2.54/css/core.css" media="screen">
+<link rel="stylesheet" href="/assets/default-2.70/css/screen.css" media="screen">
+<link rel="stylesheet" href="/assets/default-2.70/css/print.css" media="print">
+<link rel="stylesheet" href="/assets/radio-2.54/css/print.css" media="print">
+<link rel="stylesheet" href="/assets/radio-2.54/css/screen.css" media="screen">
+<link media="all" rel="stylesheet" type="text/css" href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/><link rel="stylesheet" type="text/css" href="/cm/code/10386474/temppatch.css"/>
+<script>
+var WCMS = window.WCMS || {};
+WCMS.tenantAssetUrls = ['/assets/radio-2.54',];
+WCMS.coreAssetUrl = "/assets/default-2.70/";
+</script>
+<script nomodule src="/assets/default-2.70/js/lib/abc-polyfill.min.js"></script>
+<script src="/assets/default-2.70/js/core/core.min.js"></script>
+<script src="/assets/default-2.70/js/lib/ls.respimg.min.js"></script>
+<script src="/assets/default-2.70/js/lib/lazysizes.min.js"></script>
+<script src='/assets/radio-2.54/js/core/core.min.js'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+</script>
+<script>
+window.dataLayer.push({
+debug: {
+'schemaVersion': '20180614',
+},
+'application': {
+'environment': ((window.location.host.indexOf('www.abc.net.au') > -1)) ? 'production': 'development',
+'generatorName': 'WCMS FTL',
+},
+'document': {
+'uri': 'coremedia://audiosegment/12523946',
+'contentType': 'audiosegment',
+'contentSource': 'coremedia',
+'id': '12523946',
+'pageTitle': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine - PM - ABC Radio'),
+'title': {
+'title': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+'teaser': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+'short': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+},
+'program': {
+'name': WCMS.helpers.cleanString('PM'),
+'id': '7347244',
+},
+'series': {
+'name': WCMS.helpers.cleanString(''),
+},
+'language': 'en',
+'canonicalUrl': 'https://www.abc.net.au/radio/programs/pm/why-well-still-need-good-hygiene-even-with-a-covid-19-vaccine/12523946',
+'lastModified': 'Tue 4 Aug 2020, 6:08pm AEST',
+'pubDate': 'Tue 4 Aug 2020, 6:08pm AEST',
+'mediaDuration': '295',
+'siteRoot': {
+'title': WCMS.helpers.cleanString('ABC Radio'),
+'segment': WCMS.helpers.cleanString('radio'),
+}
+}
+})
+</script><script>
+window.dataLayer.push({
+'application': {
+'generatorVersion': 'radio-2.54',
+'wcmsTheme': 'radio-theme',
+}
+})
+</script> </head>
+<body class="platform-standard platform-mobile detail-page">
+<a href="#main-content" class="access-hidden access-skip-link">Skip to main content</a>
+<!-- Global header - presentation layer import -->
+<!-- Start ABC Bundle Header 2.5.0 (phase 2) -->
+<!--noindex-->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PB2GX');</script>
+<!-- End Google Tag Manager -->
+<style type="text/css">
+#abcFooter { max-width: 1190px; }
+div.view-previewStrap, body:before { display: none; }
+html { font-size: 16px; }
+ul[data-component="GlobalNavigationItems"] li a {
+border-bottom: 0;
+}
+button[data-component="GlobalLoginButton"]
+{
+height: auto;
+text-transform: none;
+letter-spacing: normal;
+}
+nav[data-component="NavigationDropdown"] button,
+ul#profilesNavDropdown button {
+text-transform: none;
+letter-spacing: normal;
+}
+a[data-component="MastheadLogoLink"]:hover {
+color: #fff;
+}
+/* Overwrites for reconsent modal */
+div[role='dialog'] button { color: black;}
+div[role='dialog'] label {font-weight: normal;}
+div[role='dialog'] a:hover {color: #0f74b3;}
+div[role='dialog'] button#close_modal { padding: 0; }
+div.view-latestEpisode h3 { margin-top: 0.5em; }
+</style>
+<link rel="stylesheet" href="https://www.abc.net.au/res/sites/p2/masthead/v1.06/main.a814d64f.css" />
+<div id="masthead_container" class="print-hide"></div>
+<script src="https://www.abc.net.au/res/sites/p2/masthead/v1.06/main.js"></script>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 -->
+<div class="wcms-wrapper">
+<div class="wcms-canvas">
+<header id="page-header" class="print-hide">
+<section class="container abcrow abcrow-london">
+<div class="row">
+<div class="col-md-12">
+<div class="view-brand-heading" >
+<h1>
+<a href="/radio/programs/pm/">
+<span class="title">PM</span>
+</a>
+</h1>
+<strong class="presenter">
+<span>with </span>
+<span>Linda Mottram</span>
+</strong>
+</div><div class="view-brand-logo square" >
+<a href="/news/">
+<div class="component comp-image"> <img src="https://www.abc.net.au/cm/rimage/8413416-1x1-thumbnail.png?v=2" data-sizes="auto" data-src="https://www.abc.net.au/cm/rimage/8413416-1x1-thumbnail.png?v=2" data-srcset="https://www.abc.net.au/cm/rimage/8413416-1x1-thumbnail.png?v=2" alt="ABC News" class="lazyload" data-expand="0" /> </div> </a>
+</div>
+</div>
+</div>
+</section> </header><div class="view-navigationMobilePrimaryTrigger" >
+<a href="javascript:;" title="Show navigation" class="js-toggle-primary-nav icon-right-open" role="button" aria-expanded="false">
+<span>Menu</span>
+</a>
+</div>
+<div class="view-navigationPrimary print-hide" id="navigationPrimary2">
+<nav role="navigation" aria-label="Site primary" class="fixed">
+<div class="container">
+<ul class="nav-items-primary">
+<li class="nav-item-primary">
+<ul class="nav-primary-items" data-title="
+&lt;span class=&quot;title&quot;&gt;PM&lt;/span&gt; &lt;span class=&quot;sub-title&quot;&gt; with Linda Mottram &lt;/span&gt;">
+<li class="nav-primary-item current">
+<a href="/radio/programs/pm/" > <span class="link-wrap"> Overview </span> </a> </li>
+<li class="nav-primary-item ">
+<a href="/radio/programs/pm/episodes/" > <span class="link-wrap"> Episodes </span> </a> </li>
+<li class="nav-primary-item ">
+<a href="/radio/programs/pm/archive/" > <span class="link-wrap"> Archive </span> </a> </li>
+<li class="nav-primary-item ">
+<a href="/radio/programs/pm/contact-us/" > <span class="link-wrap"> Contact Us </span> </a> </li>
+</ul>
+</li>
+<li class="nav-primary-item-more js-toggle-more item-off">
+<a href='#' role="button" aria-haspopup="true">
+<span class="sr-only">More...</span>
+</a>
+</li>
+<li class="nav-item-secondary">
+<a href="https://radio.abc.net.au/" class="mobile-panel-hook icon-right-open" > <span class="link-wrap"> Radio </span> </a>
+</li>
+</ul>
+</div>
+</nav>
+<script>
+WCMS.pluginCache.add('#navigationPrimary2', 'primarynavRadio' , {
+});
+</script>
+</div>
+<div id="main-content" class="main-content-container" role="main">
+<div class="view-displayLocalTime" >
+<div class="audio-segment-detail-page abc-media-detail-page" itemscope itemtype="http://schema.org/CreativeWork" >
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8">
+<div class="row">
+<div class="col-xs-12 player-col">
+<div class="view-inlineMediaPlayer doctype-abcaudiosegment" >
+<div class="view-audioPlayerWithDownload print-hide doctype-abcaudiosegment" id="audioPlayerWithDownload4">
+<div class="comp-audio-player" id="comp-audio-player5">
+<div data-alert class="alert alert-danger comp-alert js-hidden player-error" role="alert">
+<p><strong>Audio Player failed to load.</strong></p>
+<p>
+Try to
+<a href="https://abcmedia.akamaized.net/radio/local_sydney/audio/202008/ppm-2020-08-04-bill-rawlinson.mp3" data-duration="295896"
+title="Download audio directly">
+Download directly
+(2.26 MB)
+</a>
+</p>
+</div>
+<div class='js-load-placeholder load-placeholder'>
+<div class="view-richOverlay" >
+<div class="component comp-image"> <img src="https://www.abc.net.au/cm/rimage/12515162-16x9-thumbnail.jpg?v=3" data-sizes="auto" data-src="https://www.abc.net.au/cm/rimage/12515162-16x9-thumbnail.jpg?v=3" data-srcset="https://www.abc.net.au/cm/rimage/12515162-16x9-thumbnail.jpg?v=3 160w, https://www.abc.net.au/cm/rimage/12515162-16x9-small.jpg?v=3 220w, https://www.abc.net.au/cm/rimage/12515162-16x9-medium.jpg?v=3 460w, https://www.abc.net.au/cm/rimage/12515162-16x9-large.jpg?v=3 700w " alt="Vaccine lab" class="lazyload" data-expand="0" itemprop="image" /> </div>
+</div> <div class="placeholder placeholder-play">
+<h2 class="sr-only">Play</h2>
+<p class="sr-only" id="srinstruct12523946">Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume.</p>
+<div class="icon-play" tabindex="0" role="button" aria-label="Play" aria-describedby="srinstruct12523946"></div>
+</div>
+</div>
+<div class="comp-audio-player-player" data-uri="coremedia://audiosegment/12523946">
+<div id="comp-audio-player5-player"></div>
+</div>
+<script>
+window.dataLayer.push({
+'document': {
+'embedded': {
+'coremedia://audiosegment/12523946': {
+'contentType': 'audiosegment',
+'title': {
+'title': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+'teaser': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+'short': WCMS.helpers.cleanString('It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine'),
+},
+'contentSource': 'coremedia',
+'mediaDuration': '295',
+'id': '12523946',
+'streamType': 'ondemand',
+}
+}
+}
+})
+</script>
+<script>
+WCMS.pluginCache.add('#comp-audio-player5', 'audioplayer' , {
+"height": 44,
+"width": "100%",
+"audio": [
+{
+"title": "It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine",
+"url": "https://www.abc.net.au/radio/programs/pm/why-well-still-need-good-hygiene-even-with-a-covid-19-vaccine/12523946",
+"image": "",
+"sources": [
+{
+"url": "https://abcmedia.akamaized.net/radio/local_sydney/audio/202008/ppm-2020-08-04-bill-rawlinson.mp3",
+"contentType": "audio/mp3",
+"label": 64
+}
+]
+}
+],
+"defaultTracking": true,
+"duration": "4m 55s"
+});
+</script>
+</div>
+</div>
+<script>
+WCMS.pluginCache.add('#audioPlayerWithDownload4', 'radioplayerAnalytics' , {
+"serviceId": "",
+"serviceTitle": "",
+"playerId": "comp-audio-player5",
+"data": {
+"arid": "netiafilename:ppm-2020-08-04-bill-rawlinson",
+"title": "It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine",
+"entity": "Segment",
+"partof_episode": {
+"arid": "papi:per3oNG18D",
+"title": "TUE 4 AUG – Big fines for Victorian COVID-19 absconders"
+},
+"program": {
+"arid": "papi:ppgaDkwWDb",
+"title": "PM"
+}
+}
+});
+</script> </div>
+<div class="main-image-caption">Image: <div class="comp-rich-text clearfix" id="comp-rich-text6" >
+<p>ABC News</p> </div>
+</div> </div>
+<div class="col-xs-12">
+<h1 itemprop="name">It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine</h1>
+<p>By
+Linda Mottram
+on PM
+</p>
+<div class="row options">
+<div class="col-sm-5 col-xs-12">
+<div class="comp-share print-hide " id="share-7">
+<span class="list-item list-item-title">Share</span>
+<ul class="list clearfix">
+<li class="list-item list-item-facebook">
+<a class="list-item-link" title="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.abc.net.au%2Fradio%2Fprograms%2Fpm%2Fwhy-well-still-need-good-hygiene-even-with-a-covid-19-vaccine%2F12523946&amp;t=It's%20not%20either%2For%3A%20why%20we'll%20still%20need%20good%20hand%20washing%20even%20with%20a%20COVID-19%20vaccine" target="_blank">
+<i class="list-item-icon icon-facebook"></i>
+<span class="list-item-text text-hide">Facebook</span>
+</a>
+</li>
+<li class="list-item list-item-twitter">
+<a class="list-item-link" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=It's%20not%20either%2For%3A%20why%20we'll%20still%20need%20good%20hand%20washing%20even%20with%20a%20COVID-19%20vaccine%20https%3A%2F%2Fwww.abc.net.au%2Fradio%2Fprograms%2Fpm%2Fwhy-well-still-need-good-hygiene-even-with-a-covid-19-vaccine%2F12523946" target="_blank">
+<i class="list-item-icon icon-twitter"></i>
+<span class="list-item-text text-hide">Twitter</span>
+</a>
+</li>
+<li class="list-item list-item-mail">
+<a class="list-item-link" title="Share via email" href="mailto:?subject=It's%20not%20either%2For%3A%20why%20we'll%20still%20need%20good%20hand%20washing%20even%20with%20a%20COVID-19%20vaccine&amp;body=https%3A%2F%2Fwww.abc.net.au%2Fradio%2Fprograms%2Fpm%2Fwhy-well-still-need-good-hygiene-even-with-a-covid-19-vaccine%2F12523946">
+<i class="list-item-icon icon-envelope"></i>
+<span class="list-item-text text-hide">Mail</span>
+</a>
+</li>
+</ul>
+</div>
+<script>
+WCMS.pluginCache.add('#share-7', 'share' );
+</script> </div>
+<div class="col-sm-3 col-xs-12">
+</div>
+<div class="col-sm-4 col-xs-12">
+<div class="view-mediaDownload" >
+<div class="actions">
+<span class="download"><a download="It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine" href="https://abcmedia.akamaized.net/radio/local_sydney/audio/202008/ppm-2020-08-04-bill-rawlinson.mp3" inline-icon="download" class="inline-icon-hide-text">Download It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine (2.26 MB)</a></span>
+<div class="meta" aria-hidden="true"><span>Download </span><span class="filesize">2.26 MB</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view-rating" >
+</div>
+<meta itemprop="inLanguage" content="en"/>
+<meta itemprop="keywords" content="podcast, news, coronavirus, covid-19, rawlinson, vaccine, treatment, public, health"/>
+<meta itemprop="description" content="As the World Health Organisation director-general, Tedros Adhanom Ghebreyesus, warns there will likely be no &quot;silver bullet&quot; vaccine and public health measures will continue to be important, Professor Bill Rawlinson says he agrees it is not an &quot;either/or&quot; situation."/>
+<div class="row">
+<div class="col-md-12">
+<meta itemprop="text" content="Accelerated research for vaccines for COVID-19 has produced very promising results. But it is crucial, Bill Rawlinson says, that all the appropriate testing is done, as several world leaders promise their people vaccines before the end of this year. Professor Rawlinson says some of the vaccines being discussed are yet to be tested appropriately for humans. As the World Health Organisation director-general, Tedros Adhanom Ghebreyesus, warns there will likely be no &quot;silver bullet&quot; vaccine and public health measures will continue to be important, Professor Rawlinson says he agrees it is not an &quot;either/or&quot; situation. As with the seasonal flu, he says COVID-19 responses are likely to always be a combination of vaccines, and health and hygiene measures, plus treatments for those who get infected."/>
+<div class="comp-rich-text clearfix" id="comp-rich-text8" >
+<p>Accelerated research for vaccines for COVID-19 has produced very promising results. But it is crucial, Bill Rawlinson says, that all the appropriate testing is done, as several world leaders promise their people vaccines before the end of this year. Professor Rawlinson says some of the vaccines being discussed are yet to be tested appropriately for humans. As the World Health Organisation director-general, Tedros Adhanom Ghebreyesus, warns there will likely be no "silver bullet" vaccine and public health measures will continue to be important, Professor Rawlinson says he agrees it is not an "either/or" situation. As with the seasonal flu, he says COVID-19 responses are likely to always be a combination of vaccines, and health and hygiene measures, plus treatments for those who get infected.</p> </div>
+<div class="view-broadcast-info" >
+<span>Duration: </span>4min 55sec
+<div class="view-publish-date" >
+<div itemprop="datePublished" content="2020-08-04T17:05+1000">
+<div class="view-comp-publish-date" >
+<span>Broadcast: </span>
+<time datetime="2020-08-04T17:05+1000">
+Tue 4 Aug 2020, 5:05pm
+</time>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="col-md-12">
+</div>
+</div>
+<h5>More Information</h5>
+<div class="comp-rich-text clearfix" id="comp-rich-text9" >
+<p>Featured: </p><p>Bill Rawlinson, Senior Medical Virologist and Director of Virology, South Eastern Sydney and Illawarra Health Service, and Professor, University of NSW.</p> </div>
+<div class="accordions">
+<div class="view-credits comp-accordion-wrapper">
+<div class="comp-accordion" id="comp-accordion10">
+<div class="accordion-title"> <h2 class="title"> Credits </h2> <span class="accordion-icon"> <i class="icon-plus closed" role="presentation" aria-hidden="true"><em class="inline-icon-hide-text">plus</em></i><i class="icon-minus open" role="presentation" aria-hidden="true"><em class="inline-icon-hide-text">minus</em></i> </span> </div> <div class="accordion-content print-show">
+<div class="view-contributor-credit-list simple" >
+<ul>
+<li>
+<div class="view-contributor-credit simple" >
+<div class="content">
+<strong class="contributor-role">Reporter</strong>
+<strong class="name"><a href="/news/abc-local/linda-mottram/6415608" > Linda Mottram</a></strong>
+</div>
+</div>
+</li>
+</ul>
+</div> </div>
+</div>
+<script>
+WCMS.pluginCache.add('#comp-accordion10', 'accordion' , {
+});
+</script>
+</div>
+</div>
+<div class="entities">
+</div>
+<div class="view-broadcast-events" id="broadcast-events11">
+<div class="events"></div>
+</div>
+<script>
+WCMS.pluginCache.add('#broadcast-events11', 'events' , {
+"url": "/radio/programs/pm/service/broadcast/12523946",
+"heading": "Broadcast on",
+"data": {
+"period": "all",
+"episodeSegmentId": "12523946"
+},
+"dataType": "json"
+});
+</script>
+<div class="view-comments" >
+</div> </div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 print-hide">
+<div class="view-show-more-list" id="show-more-list12">
+<div class="view-episode-explorer" >
+<header>
+<a href="/radio/programs/pm/pm/12503612" > <div> <span id="episode-heading">Full episode</span> <span class="episode duration" id="episode-duration"> 30min </span> </div> <h4 aria-labelledby="episode-heading episode-duration">TUE 4 AUG – Big fines for Victorian COVID-19 absconders</h4> </a>
+</header>
+<ul>
+<li>
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<a href="/radio/programs/pm/covid-carriers-face-big-fines-for-breaching-vic-rules/12524220" > <span class="view-comp-duration"> 5mins 10secs </span> <span> COVID carriers face big fines for breaching Vic stay at home laws </span> </a>
+</div> </div> </li>
+<li class="active">
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<div class="no-link">
+<span class="view-comp-duration">
+4mins 55secs
+</span>
+<span>
+It&#39;s not either/or: why we&#39;ll still need good hand washing even with a COVID-19 vaccine
+</span>
+</div>
+</div> </div> </li>
+<li>
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<a href="/radio/programs/pm/commonwealth-wont-name-aged-care-homes-with-covid-outbreaks/12523956" > <span class="view-comp-duration"> 4mins 15secs </span> <span> Commonwealth won&#39;t name Aged Care Homes with COVID outbreaks because of &quot;reputational damage&quot; to provider </span> </a>
+</div> </div> </li>
+<li>
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<a href="/radio/programs/pm/older-women-tell-heartbreaking-stories-of-rental-stress/12523974" > <span class="view-comp-duration"> 4mins 24secs </span> <span> Older women tell heartbreaking stories of rental stress </span> </a>
+</div> </div> </li>
+<li>
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<a href="/radio/programs/pm/refugees-descend-into-poverty-with-no-jobkeeper-access/12523978" > <span class="view-comp-duration"> 5mins 1sec </span> <span> Refugees descend into poverty with no JobKeeper access </span> </a>
+</div> </div> </li>
+<li>
+<div class="view-episode-explorer-item" >
+<div class="view-simpleMedia" >
+<a href="/radio/programs/pm/seasonal-workers-set-to-travel-from-vanuatu-to-the-nt/12523980" > <span class="view-comp-duration"> 3mins 43secs </span> <span> Seasonal workers set to travel from Vanuatu to the Northern Territory </span> </a>
+</div> </div> </li>
+</ul>
+</div>
+<button class="show-more" aria-label="show more above" role="button">Show more segments</button>
+</div>
+<script>
+WCMS.pluginCache.add('#show-more-list12', 'showmorelist' , {
+"initialNum": 3,
+"nextNum": 10,
+"showMoreText": "Show more segments"
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<script>
+WCMS.pluginCache.add('#displayLocalTime3', 'programTimeOverrides' , {
+});
+</script>
+</div></div>
+<footer id="page-footer">
+<section class="container abcrow abcrow-sydney">
+<div class="row">
+<div class="col-md-4 col-sm-4">
+<div class="view-collection-footer-links" >
+<h3>ABC Radio News and Current Affairs</h3>
+<ul class="clearfix">
+<li>
+<div class="view-simple" >
+<a href="/radio/programs/am/" > <i class="icon-link item-icon sr-only" role="presentation" ><em class="inline-icon-hide-text">link</em></i> <span> AM </span> </a>
+</div> </li>
+<li>
+<div class="view-simple" >
+<a href="/radio/programs/worldtoday/" > <i class="icon-link item-icon sr-only" role="presentation" ><em class="inline-icon-hide-text">link</em></i> <span> The World Today </span> </a>
+</div> </li>
+<li>
+<div class="view-simple" >
+<a href="/radio/programs/pm/" > <i class="icon-link item-icon sr-only" role="presentation" ><em class="inline-icon-hide-text">link</em></i> <span> PM </span> </a>
+</div> </li>
+<li>
+<div class="view-simple" >
+<a href="/radio/programs/correspondentsreport/" > <i class="icon-link item-icon sr-only" role="presentation" ><em class="inline-icon-hide-text">link</em></i> <span> Correspondents Report </span> </a>
+</div> </li>
+</ul>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="view-collection-social-media-promo-placed" >
+<div class="view-collection-social-media-promo doctype-cmcollection" >
+<h3>Connect</h3>
+<ul>
+<li>
+<a href="https://twitter.com/abcnews" aria-label="ABC Radio Current Affairs on Twitter" class="link-icon" target="_blank" > <i class="icon-sm-twitter" aria-hidden="true"></i> <span>ABC Radio Current Affairs on Twitter</span> </a> </li>
+<li>
+<a href="https://www.facebook.com/abcnews.au" aria-label="ABC Radio Current Affairs on Facebook" class="link-icon" target="_blank" > <i class="icon-sm-facebook" aria-hidden="true"></i> <span>ABC Radio Current Affairs on Facebook</span> </a> </li>
+</ul>
+</div> </div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="view-wysiwyg" >
+<div class="comp-rich-text clearfix" id="comp-rich-text13" >
+<h3>Subscribe to the Podcasts</h3><p><strong>PM individual segments</strong> on <a class="external" href="https://itunes.apple.com/au/podcast/pm/id297778504?mt=2" target="_blank" title="">iTunes</a> or <a href="/radio/programs/pm/feed/8547424/podcast.xml" target="_self" title="">RSS</a></p><p><strong>PM daily episode </strong>on <a class="external" href="https://itunes.apple.com/au/podcast/pm-full-episode/id1309361576" target="_blank" title="">iTunes </a>or <a href="/radio/programs/pm/feed/8863592/podcast.xml" target="_self" title="">RSS</a></p><p>Find all content on the <a class="external" href="https://radio.abc.net.au/help/apps" target="_blank" title="">ABC listen app</a> </p> </div>
+</div>
+</div>
+</div>
+</section> </footer><script src="/assets/default-2.70/js/core/base.min.js"></script>
+<script src="/assets/default-2.70/js/lib/dataLayer.min.js"></script>
+<script>
+WCMS.pluginCache
+.setAssetPath('/assets/default-2.70/')
+.setPlatform('desktop');
+</script>
+<script>
+WCMS.pluginCache.installAll();
+</script> </div>
+</div>
+<!-- Global footer - presentation layer import -->
+<!-- Start ABC Bundle Footer 2.5.0 (phase 2) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+<ul>
+<li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+<li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+<li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+<li><a href="https://help.abc.net.au/">ABC Help</a></li>
+<li><a href="https://www.abc.net.au/contact/">Contact the ABC</a></li>
+<li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2021</time> ABC</a></li>
+</ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 - Presentation Layer import -->
+</body>
+</html>

@@ -1,0 +1,933 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk | Technology Networks</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8">
+    <meta name="description" content="African-Americans have up to three times the risk of dying from strokes as people of European descent, yet there has been little investigation of if and how genetic variants contribute to their elevated stroke risk. Until now.&lt;br /&gt;">
+<meta property="fb:app_id" content="1709195962498037" />
+
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Styles/Built/_Adverts.min.css?2021-10-07-16-00" media="screen" />
+    <link rel="stylesheet" href="/Styles/Built/_Base.min.css?2021-10-07-16-00" media="screen" />
+    <link rel="stylesheet" href="/Styles/Built/_Cards.min.css?2021-10-07-16-00" media="screen" />
+    <link rel="stylesheet" href="/Styles/Built/_InnerContent.min.css?2021-10-07-16-00" media="screen" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Technology Networks",
+    "url": "https://www.technologynetworks.com",
+    "logo": "https://cdn.technologynetworks.com/tn/images/base/TN_Hi-res_Dark_2021.png",
+    "sameAs": [
+    "https://www.facebook.com/technologynetworks",
+    "https://www.twitter.com/tech_networks",
+    "https://www.linkedin.com/company/1179113"
+    ]
+    }
+</script>
+
+    <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@Tech_Networks" />
+    <title>Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk</title><meta property="og:title" content="Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk" /><meta property="og:type" content="article" /><meta property="og:image" content="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg?cb=20200804" /><meta property="og:url" content="https://www.technologynetworks.com/tn/news/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208" /><meta property="og:description" content="African-Americans have up to three times the risk of dying from strokes as people of European descent, yet there has been little investigation of if and how genetic variants contribute to their elevated stroke risk. Until now." /><meta property="og:site_name" content="Technology Networks" /><meta property="og:publishedtime:date" content="01/01/0001 00:00:00" /><meta property="og:publishedtime:day" content="1" /><meta property="og:publishedtime:day_of_year" content="1" /><meta property="og:publishedtime:month" content="1" /><meta property="og:publishedtime:now" content="08/10/2021 08:55:31" /><meta property="og:publishedtime:utc_now" content="08/10/2021 08:55:31" /><meta property="og:publishedtime:today" content="08/10/2021 00:00:00" /><meta property="og:publishedtime:year" content="1" /><meta property ="og:image:url" content="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg" />
+        <link rel="canonical" href="https://www.technologynetworks.com/neuroscience/news/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208" />
+
+        <link rel="amphtml" href="https://www.technologynetworks.com/neuroscience/news/amp/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208" />
+
+
+    <script async='' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+
+    <script>
+             
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({"contentId":338208,"content_interests":[{"Id":143,"Name":"Genomics: Human"},{"Id":187,"Name":"Neuroscience"},{"Id":357,"Name":"Neuroscience: Behavioral"},{"Id":358,"Name":"Electrophysiology"},{"Id":359,"Name":"Neuroscience: Molecular \u0026 Cellular"},{"Id":361,"Name":"Neurodegeneration \u0026 Aging"},{"Id":362,"Name":"Neuroscience: Developmental"}],"tags":"Genomics: Human,Neuroscience,Neuroscience: Behavioral,Electrophysiology,Neuroscience: Molecular \u0026 Cellular,Neurodegeneration \u0026 Aging,Neuroscience: Developmental","tagIds":"143,187,357,358,359,361,362","author":"undefined","community":"Technology Networks","publishDate":"08-04-2020","pageType":"News","level":3,"loggedIn":false,"userId":0,"contentSource":"undefined","affiliationName":"undefined","affiliationId":0,"affiliationRegion":"undefined"});
+             
+
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WTFC2TR');
+</script>
+
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 1184523, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+</script>
+</head>
+<body>
+    <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTFC2TR"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+
+<div class="base_privacy_policy_notification">
+    <div class="no-padding-container grid-8-2 grid-row-gap grid-column-gap align-items-center justify-items-center">
+        <div>
+            <p>We've updated our <u><a href="/tn/privacy" target="_blank">Privacy Policy</a></u> to make it clearer how we use your personal data.</p>
+            <p>We use cookies to provide you with a better experience. You can read our <u><a href="/tn/cookies" target="_blank">Cookie Policy</a></u> here.</p>
+        </div>
+        <div>
+            
+
+
+<div class="base_button">
+    
+        <button onclick="hidePrivacyPolicyNotification()" data-got="">I Understand</button>
+</div>
+        </div>
+    </div> 
+</div>
+
+<script>
+    function hidePrivacyPolicyNotification() {
+        document.querySelector(".base_privacy_policy_notification").style.display = "none";
+
+        var xhttp = new XMLHttpRequest();
+
+        if (window.location.hostname === "localhost") {
+            xhttp.open("POST", "//localhost:62625/notifications/set-cookie", true);
+            xhttp.setRequestHeader("Content-Type", "application/json");
+            xhttp.send(JSON.stringify({
+                termsAccepted: true
+            }));
+        }
+        else if (window.location.hostname === "www.technologynetworks.staging") {
+            xhttp.open("POST", "//www.technologynetworks.staging/notifications/set-cookie", true);
+            xhttp.setRequestHeader("Content-Type", "application/json");
+            xhttp.send(JSON.stringify({
+                termsAccepted: true
+            }));
+        }
+        else if (window.location.hostname === "beta.technologynetworks.staging") {
+            xhttp.open("POST", "//beta.technologynetworks.staging/notifications/set-cookie", true);
+            xhttp.setRequestHeader("Content-Type", "application/json");
+            xhttp.send(JSON.stringify({
+                termsAccepted: true
+            }));
+        }
+        else {
+            xhttp.open("POST", "//www.technologynetworks.com/notifications/set-cookie", true);
+            xhttp.setRequestHeader("Content-Type", "application/json");
+            xhttp.send(JSON.stringify({
+                termsAccepted: true
+            }));
+        }
+    }
+    
+
+
+</script>    
+
+<div class="adverts_header_advert">
+    <small>Advertisement</small>
+        <div class="advert_header_container">
+            <div class="advertisement" data-zone="TN_WEB_LEADERBOARD_TOP_728x90_960x150"></div>
+        </div>
+</div>
+    <header class="sticky">
+        
+
+<div id="mobileHeader">
+    <div class="bottom-border">
+        <div class="base_mobile_header container">
+            <div class="grid-6-4">
+                <div class="logo">
+                        <a href="https://www.technologynetworks.com" title="Technology Networks logo">
+                            <img src="https://cdn.technologynetworks.com/tn/images/logo/svg/TN_Stacked.svg" width="120" height="57" alt="Technology Networks logo" />
+                        </a>
+                </div>
+                <div class="base_desktop_search_social">
+                    <div class="flex search-btn" style="white-space: nowrap;">
+                        
+
+
+<div class="base_button">
+    
+        <button onclick="on()" class="SearchButtonMobile" aria-label="Search" data-got=""><svg height='15' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><path fill='#ffffff' d='M508.5 481.6l-129-129c-2.3-2.3-5.3-3.5-8.5-3.5h-10.3C395 312 416 262.5 416 208 416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c54.5 0 104-21 141.1-55.2V371c0 3.2 1.3 6.2 3.5 8.5l129 129c4.7 4.7 12.3 4.7 17 0l9.9-9.9c4.7-4.7 4.7-12.3 0-17zM208 384c-97.3 0-176-78.7-176-176S110.7 32 208 32s176 78.7 176 176-78.7 176-176 176z' /></svg></button>
+</div>
+                    </div>
+                    <div class="flex">
+                        
+
+
+<div class="base_button">
+    
+            <a href="http://go.technologynetworks.com/subscribe-to-newsletters"   target="_blank"  >
+                <button data-got="community-based-subscribe-button">Subscribe</button>
+            </a>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <nav role="navigation">
+                    <ul class="base_desktop_navigation">
+                        <li class="flex align-items-center">
+                            <a  onclick="toggle('communities')">
+                                Communities
+                                <span>
+                                    <svg id="communitiesdownchevron" style="padding-left: 0.5rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="white" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" /></svg>
+                                    <svg id="communitiescloseicon" style="padding-left: 0.5rem; display: none;" height="20"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="white" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" /></svg>
+                                </span>
+                            </a>
+                            <ul id="communities" class="dropdown grid-column-gap communities" aria-label="submenu">
+                                <li><a href="/analysis">Analysis & Separations</a></li>
+                                <li><a href="/applied-sciences">Applied Sciences</a></li>
+                                <li><a href="/biopharma">Biopharma</a></li>
+                                <li><a href="/cancer-research">Cancer Research</a></li>
+                                <li><a href="/cell-science">Cell Science</a></li>
+                                <li><a href="/diagnostics">Diagnostics</a></li>
+                                <li><a href="/drug-discovery">Drug Discovery</a></li>
+                                <li><a href="/genomics">Genomics Research</a></li>
+                                <li><a href="/immunology">Immunology & Microbiology</a></li>
+                                <li><a href="/informatics">Informatics</a></li>
+                                <li><a href="/neuroscience">Neuroscience</a></li>
+                                <li><a href="/proteomics">Proteomics & Metabolomics</a></li>
+                            </ul>
+                        </li>
+                        <li  class="flex align-items-center">
+                            <a href="#" onclick="toggle('content')">
+                                Content
+                                <span>
+                                    <svg id="contentdownchevron" style="padding-left: 0.5rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="white" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" /></svg>
+                                    <svg id="contentcloseicon" style="padding-left: 0.5rem; display: none;" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="white" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" /></svg>
+                                </span>                            </a>
+                            <ul id="content" class="dropdown grid-column-gap content" aria-label="submenu">
+                                <li><a href="/tn/articles">Articles</a></li>
+                                <li><a href="/tn/news">News</a></li>
+                                <li><a href="/tn/infographics">Infographics</a></li>
+                                <li><a href="/tn/blog">Industry Insights</a></li>
+                                <li><a href="/tn/ebooks">eBooks</a></li>
+                                <li><a href="/tn/how-to-guides">How To Guides</a></li>
+                                <li><a href="/tn/lists">Listicles</a></li>
+                                <li><a href="/tn/immersive">Immersive Articles</a></li>
+                                <li><a href="/tn/podcasts">Podcasts</a></li>
+                                <li><a href="/tn/webinars">Webinars</a></li>
+                                <li><a href="/tn/videos">Videos</a></li>
+                                <li><a href="/tn/tools/list">Calculators</a></li>
+                                    <li><a href="/tn/editors-pics">Editor's Pics</a></li>
+                                <li><a href="/tn/posters">Posters</a></li>
+                                <li><a href="/tn/products">Products</a></li>
+                                    <li><a href="/tn/product-surveys">Product Surveys</a></li>
+                                <li><a href="/tn/application-notes">Application Notes</a></li>
+                                <li><a href="/tn/white-papers">Whitepapers</a></li>
+                            </ul>
+                        </li>
+                        <li class="flex align-items-center">
+                            <a href="/tn/webinars">
+                                Webinars
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div id="overlay">
+                <div class="searchInputContainer">
+<form action="/tn/search/refine" method="get">                        <div class="base_search">
+                            <input id="q" name="q" placeholder="Find the science..." required="required" type="text" value="" />
+                            <button type="submit">
+                                <div class="flex">
+                                    <svg style="padding-right: 0.25rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="white" d="M508.5 481.6l-129-129c-2.3-2.3-5.3-3.5-8.5-3.5h-10.3C395 312 416 262.5 416 208 416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c54.5 0 104-21 141.1-55.2V371c0 3.2 1.3 6.2 3.5 8.5l129 129c4.7 4.7 12.3 4.7 17 0l9.9-9.9c4.7-4.7 4.7-12.3 0-17zM208 384c-97.3 0-176-78.7-176-176S110.7 32 208 32s176 78.7 176 176-78.7 176-176 176z" /></svg>
+                                    Search
+                                </div>
+                            </button>
+                        </div>
+</form>                </div>
+                <div class="closeButtonContainer">
+                    
+
+
+<div class="base_button">
+    
+        <button onclick="off()" class="SearchButtonMobile closeButtonMobile" data-got=""><svg height='15' xmlns ='http://www.w3.org/2000/svg' viewBox='0 0 320 512' ><path fill='white' d='M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z' /></svg> Close</button>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    /* Open and closes search overlay (Mobile only) */
+    function on() {
+        document.getElementById("overlay").style.display = "block";
+    }
+
+    function off() {
+        document.getElementById("overlay").style.display = "none";
+    }
+
+    function toggle(id) {
+
+        var classList = document.getElementById(id).classList.value;
+        if(id == "communities") {
+            document.getElementById("content").classList.remove("visible");
+            document.getElementById("contentcloseicon").style.display = "none";
+            document.getElementById("contentdownchevron").style.display = "block";
+        } else {
+            document.getElementById("communities").classList.remove("visible");
+            document.getElementById("communitiescloseicon").style.display = "none";
+            document.getElementById("communitiesdownchevron").style.display = "block";
+        }
+
+        if (classList.includes("visible") == true) {
+            document.getElementById(id).classList.remove("visible");
+            document.getElementById(id + "closeicon").style.display = "none";
+            document.getElementById(id + "downchevron").style.display = "block";
+
+
+        } else {
+            document.getElementById(id).classList.add("visible");
+            document.getElementById(id + "closeicon").style.display = "block";
+            document.getElementById(id + "downchevron").style.display = "none";
+        }
+
+
+    }
+
+    var bodyClick = document.getElementById('wrapper');
+    var communitiesClick = document.getElementById('communities');
+    var contentClick = document.getElementById('content');
+
+
+   
+    
+</script>
+        
+<div id="desktopHeader">
+    <div class="bottom-border">
+        <div class="base_desktop_header container">
+            <div class="grid-4-6">
+                <div class="logo">
+                        <a href="https://www.technologynetworks.com" title="Technology Networks logo">
+                            <img src="https://cdn.technologynetworks.com/tn/images/logo/svg/TNLogo_Tagline.svg" width="362" height="61" alt="Technology Networks logo" style="height: 61px !important; margin-top: 8px;" />
+                        </a>
+                </div>
+                <div>
+                    <div class="base_desktop_search_social">
+                        <div></div>
+<form action="/tn/search/refine" method="get">                            <div class="base_search">
+                                <input id="q" name="q" onkeyup="showClearSearchInputButton(this)" placeholder="Find the science..." required="required" type="text" value="" />
+                                <button type="reset" style="display: none;" id="clearSearchInput" onclick="showClearSearchInputButton(document.getElementById('q'));">
+                                    <svg height="25" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="rgb(118, 118, 118)" d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path></svg>
+                                </button>
+                                <button type="submit">
+                                    <div class="flex">
+                                        <svg style="padding-right: 0.25rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="white" d="M508.5 481.6l-129-129c-2.3-2.3-5.3-3.5-8.5-3.5h-10.3C395 312 416 262.5 416 208 416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c54.5 0 104-21 141.1-55.2V371c0 3.2 1.3 6.2 3.5 8.5l129 129c4.7 4.7 12.3 4.7 17 0l9.9-9.9c4.7-4.7 4.7-12.3 0-17zM208 384c-97.3 0-176-78.7-176-176S110.7 32 208 32s176 78.7 176 176-78.7 176-176 176z" /></svg>
+                                        Search
+                                    </div>
+                                </button>
+                            </div>
+</form>                        <div class="social-icons">
+                            <a href="https://www.facebook.com/technologynetworks/" title="Link to Technology Networks' facebook page" target="_blank" rel="noopener noreferrer">
+                                <img alt="facebook logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG" width=20 height=20 />
+                            </a>
+                            <a href="http://www.twitter.com/tech_networks" title="Link to Technology Networks' twitter page" target="_blank" rel="noopener noreferrer">
+                                <img alt="twitter logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/twitter.PNG" width=20 height=20 />
+                            </a>
+                            <a href="https://www.instagram.com/technologynetworks/" title="Link to Technology Networks' instagram page" target="_blank" rel="noopener noreferrer">
+                                <img alt="instagram logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/instagram.PNG" width=20 height=20 />
+                            </a>
+                            <a href="https://www.linkedin.com/company/1179113" title="Link to Technology Networks' linkedin page" target="_blank" rel="noopener noreferrer">
+                                <img alt="linkedin logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/linkedin.PNG" width=20 height=20 />
+                            </a>
+                        </div>
+                    </div>
+                    <nav role="navigation">
+                        <ul class="base_desktop_navigation">
+                            <li class="flex align-items-center">
+                                <a href="#">
+                                    Communities
+                                    <svg style="padding-left: 0.5rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="white" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" /></svg>
+                                </a>
+                                <ul class="dropdown grid-column-gap" aria-label="submenu">
+                                    <li><a href="/analysis">Analysis & Separations</a></li>
+                                    <li><a href="/applied-sciences">Applied Sciences</a></li>
+                                    <li><a href="/biopharma">Biopharma</a></li>
+                                    <li><a href="/cancer-research">Cancer Research</a></li>
+                                    <li><a href="/cell-science">Cell Science</a></li>
+                                    <li><a href="/diagnostics">Diagnostics</a></li>
+                                    <li><a href="/drug-discovery">Drug Discovery</a></li>
+                                    <li><a href="/genomics">Genomics Research</a></li>
+                                    <li><a href="/immunology">Immunology & Microbiology</a></li>
+                                    <li><a href="/informatics">Informatics</a></li>
+                                    <li><a href="/neuroscience">Neuroscience</a></li>
+                                    <li><a href="/proteomics">Proteomics & Metabolomics</a></li>
+                                </ul>
+                            </li>
+                            <li class="flex align-items-center">
+                                <a href="#">
+                                    Content
+                                    <svg style="padding-left: 0.5rem" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="white" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" /></svg>
+                                </a>
+                                <ul class="dropdown grid-column-gap" aria-label="submenu">
+                                    <li><a href="/tn/articles">Articles</a></li>
+                                    <li><a href="/tn/news">News</a></li>
+                                    <li><a href="/tn/infographics">Infographics</a></li>
+                                    <li><a href="/tn/blog">Industry Insights</a></li>
+                                    <li><a href="/tn/ebooks">eBooks</a></li>
+                                    <li><a href="/tn/how-to-guides">How To Guides</a></li>
+                                    <li><a href="/tn/lists">Listicles</a></li>
+                                    <li><a href="/tn/immersive">Immersive Articles</a></li>
+                                    <li><a href="/tn/podcasts">Podcasts</a></li>
+                                    <li><a href="/tn/webinars">Webinars</a></li>
+                                    <li><a href="/tn/videos">Videos</a></li>
+                                    <li><a href="/tn/tools/list">Calculators</a></li>
+                                        <li><a href="/tn/editors-pics">Editor's Pics</a></li>
+                                    <li><a href="/tn/posters">Posters</a></li>
+                                    <li><a href="/tn/products">Products</a></li>
+                                        <li><a href="/tn/product-surveys">Product Surveys</a></li>
+                                    <li><a href="/tn/application-notes">Application Notes</a></li>
+                                    <li><a href="/tn/white-papers">Whitepapers</a></li>
+                                </ul>
+                            </li>
+                            <li class="flex align-items-center">
+                                <a href="/tn/webinars">
+                                    Webinars
+                                </a>
+                            </li>
+                            <li>
+                                
+
+
+<div class="base_button">
+    
+            <a href="http://go.technologynetworks.com/subscribe-to-newsletters"   target="_blank"  >
+                <button data-got="community-based-subscribe-button">Subscribe</button>
+            </a>
+</div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function showClearSearchInputButton(element) {
+        if (element.value != "") {
+            document.getElementById("clearSearchInput").style.display = "flex";
+        } else {
+            document.getElementById("clearSearchInput").style.display = "none";
+        }
+    }
+</script>
+        
+
+    <div class="base_breadcrumb sticky">
+        <ul class="breadcrumb-container">
+                    <li class="flex flex-align-items-center">
+                        <a href="https://www.technologynetworks.com">
+                            <span>Home</span>
+                        </a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" height="15"><path fill="#ffffff" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z" /></svg>
+                    </li>
+                    <li class="flex flex-align-items-center">
+                        <a href="https://www.technologynetworks.com/tn/news">
+                            <span>News</span>
+                        </a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" height="15"><path fill="#ffffff" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z" /></svg>
+                    </li>
+                    <li class="flex flex-align-items-center unselectable">
+                        <span>Content Piece</span>
+                    </li>
+        </ul>
+    </div>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement":
+        [
+                
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.technologynetworks.com"
+                    },                
+                
+                    {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "News",
+                    "item": "https://www.technologynetworks.com/tn/news"
+                    },                
+                
+                    {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Content Piece"
+                    }
+                
+        ]
+        }
+    </script>
+
+<script>
+
+    var scrollPos = 0;
+
+    window.addEventListener('scroll', function () {
+
+        if (Math.abs(document.body.getBoundingClientRect().top) > 200) {
+            if (Math.abs(document.body.getBoundingClientRect().top) < Math.abs(scrollPos)) {
+
+                var breadcrumbContainer = document.querySelector(".breadcrumb-container");
+                if (breadcrumbContainer != null) {
+                    breadcrumbContainer.style.opacity = "100";
+                }
+
+                var breadcrumb = document.querySelector(".base_breadcrumb");
+                if (breadcrumb != null) {
+                    breadcrumb.style.opacity = "100";
+                }
+
+            }
+            else if (Math.abs(document.body.getBoundingClientRect().top) > Math.abs(scrollPos)) {
+
+                var breadcrumbContainer = document.querySelector(".breadcrumb-container");
+                if (breadcrumbContainer != null) {
+                    breadcrumbContainer.style.opacity = "0";
+                }
+
+                var breadcrumb = document.querySelector(".base_breadcrumb");
+                if (breadcrumb != null) {
+                    breadcrumb.style.opacity = "0";
+                }
+
+            }
+        }
+
+        scrollPos = (document.body.getBoundingClientRect()).top;
+    });
+</script>
+    </header>
+
+    <main>
+        
+
+
+
+
+
+
+
+
+<div class="desktop-hero-image">
+    <div class="inner_content_hero_image" style="background-image: url(https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.webp?v=10830812), url(https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg?v=10830812)">
+            <div class="blur">
+                <picture>
+                    <source srcset="https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.webp?v=10830812" type="image/webp" height="450" width="800">
+                    <img src="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg?v=10830812" alt="Rectangle Image" height="450" width="800" loading="lazy" decoding="async" />
+                </picture>
+            </div>
+        <div class="container data-container">
+            <div class="inner_content_content_type" style="border-bottom: grey solid 1px;">
+    News
+</div>
+
+            <h1 class="inner_content_title">Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk</h1>
+            <div class="metadata-container">
+                <div class="column-one">
+
+<div class="inner_content_release_date">
+    August 4, 2020&nbsp;
+</div><div class="inner_content_original_source">
+        <span> | </span>
+        <a class="external-link" href="https://www.technologynetworks.com/tn/go/lc/view-source-338209" target="_blank" title="Click here to visit the original source for this content.">
+            Original story from the University of Virginia Health System        
+        </a>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mobile-hero-image">
+    <div class="inner_content_hero_image_mobile">
+            <picture>
+                <source srcset="https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.webp?v=10830812" type="image/webp" height="360" width="640">
+                <img src="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg?v=10830812" alt="Rectangle Image" height="360" width="640" loading="lazy" decoding="async" />
+            </picture>
+        <div class="container data-container">
+            <div class="inner_content_content_type" style="border-bottom: grey solid 1px;">
+    News
+</div>
+
+            <h1 class="inner_content_title">Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk</h1>
+            <div class="metadata-container">
+                <div class="column-one">
+
+<div class="inner_content_release_date">
+    August 4, 2020&nbsp;
+</div><div class="inner_content_original_source">
+        <span> | </span>
+        <a class="external-link" href="https://www.technologynetworks.com/tn/go/lc/view-source-338209" target="_blank" title="Click here to visit the original source for this content.">
+            Original story from the University of Virginia Health System        
+        </a>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container grid-row-gap">
+        <div class="inner_content_image_credit">
+            <a href="https://unsplash.com/@nci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" title="Click here to view where the image above was sourced from.">Photo by National Cancer Institute on Unsplash</a>
+    </div>
+
+    <div class="grid-7-3 grid-column-gap grid-row-gap">
+        <div class="grid-row-gap">
+            <div class="flex flex-justify-content-space-between flex-align-items-center flex-swap content-top-underline">
+                <div class="inner_content_read_time">
+    Read time: <div id="read-time">&nbsp;</div>
+</div>
+
+<script>
+    window.onload = function () {
+        function readingTime(text) {
+
+            const wordsPerMinute = 270;
+            const noOfWords = text.split(/\s/g).length;
+            const minutes = noOfWords / wordsPerMinute;
+            const readTime = Math.ceil(minutes);
+
+            if (minutes < 1) {
+                return "Less than a minute";
+            } else {
+                return `${readTime} minutes`;
+            }
+        }
+
+        var targetDiv = document.querySelector("#read-time");
+        var innerContentBodyText = document.querySelector(".inner_content_body_text").textContent;
+
+        targetDiv.innerHTML += readingTime(innerContentBodyText);
+    }
+</script>
+                <div class="flex flex-column-mobile-only">
+                    
+<div class="inner_content_add_this" style="min-width: 148px; min-height: 45px;">
+            <div class="addthis_sharing_toolbox"></div>
+</div>
+
+                </div>
+            </div>
+            <div class="inner_content_body_text">
+    <p>African-Americans have up to three times the risk of dying from strokes as people of European descent, yet there has been little investigation of if and how genetic variants contribute to their elevated stroke risk. Until now.<br><br>A large international team of scientists has completed the largest analysis of stroke-risk genes ever undertaken in individuals of African descent. The new study examined the genomes of more than 22,000 people of African ancestry, identifying important genetic contributors to stroke risk. These findings will help doctors better understand stroke risk, identify those at high risk and prevent the debilitating condition.<br><br>"Given the undue burden that people of African ancestry endure from stroke and other cerebrovascular disease, the lack of investigation of risk factors in this group has been a substantial gap," said researcher Bradford B. Worrall, MD, a neurologist at UVA Health. "Our work is an important step toward filling that gap, albeit with much more work to be done. These findings will provide greater insight into ethnic-specific and global risk factors to reduce the second leading cause of death worldwide."<br><br></p><h2>Understanding Stroke Risk</h2><br>Stroke is the leading cause of adult disability in the United States. But strokes <a href="https://www.ahajournals.org/doi/full/10.1161/01.CIR.0000157736.19739.D0" target="_blank">strike </a>African-Americans more often and at younger ages than people of European descent. In addition, African-Americans who survive strokes often face greater disability.<br><br>Family history is a major risk factor for stroke, suggesting our genes play a significant role in our stroke risk. But most genetic stroke studies, until now, have primarily focused on people of European descent. And the results have not always held true in African-Americans.<br><br>The new meta-analysis comes from the Consortium of Minority Population genome-wide Association Studies of Stroke (COMPASS). The researchers revisited previous studies to identify genetic risk factors specific to people of African descent. In total, they examined the genomes of 3,734 people who had suffered strokes and more than 18,000 who had not.<br><br>The researchers discovered that a common variation near the HNF1A gene was strongly associated with increased stroke risk in those of African ancestry. The gene previously has been associated to both stroke and cardiovascular disease.<br><br>While that variant had the strongest link to stroke risk, the researchers identified 29 other variants that also appear likely to influence stroke risk.<br><br>The variants occur at 24 different locations on our chromosomes. Sixteen of the "loci," as the locations are known, appeared also to influence stroke risk in other populations, the researchers report.<br><br>"Studies of this nature are critical given the paucity of genetic studies focused on people of African descent and other minority populations and the substantial health disparities related to stroke in these groups," said Keith Keene, PhD, a former UVA researcher and frequent collaborator of Worrall's who now leads the Center for Health Disparities at East Carolina University's Brody School of Medicine. "Furthermore, we increasingly recognize the power of looking at genetic risk factors across different race ethnic groups, known as transethnic analyses, for unlocking the underlying biology of diseases like stroke. If we understand the biology, we can develop new treatment and prevention strategies."<br><br>In a paper outlining their findings, the researchers note the importance of such studies in understanding stroke risk among minorities. These studies have "huge potential to provide insight into the mechanisms underlying stroke disparities," the researchers write. "Our study identified novel associations for stroke that might not otherwise be detected in primarily European cohort studies. Collectively, this highlights the critical nature and importance of genetic studies in a more diverse population with a high stroke burden."<br><br><b>Reference</b>: Keene Keith L., Hyacinth Hyacinth I., Bis Joshua C., Kittner Steven J., Mitchell Braxton D., Cheng Yu-Ching, Pare Guillaume, Chong Michael, O’Donnell Martin, Meschia James F., Chen Wei-Min, Sale Michèle M., Rich Stephen S., Nalls Mike A., Zonderman Alan B., Evans Michele K., Wilson James G., Correa Adolfo, Markus Hugh S., … null null. (2020). Genome-Wide Association Study Meta-Analysis of Stroke in 22 000 Individuals of African Descent Identifies Novel Associations With Stroke. Stroke, 51(8), 2454–2463. <a href="https://doi.org/10.1161/STROKEAHA.120.029123" target="_blank">https://doi.org/10.1161/STROKEAHA.120.029123</a><br><br>This article has been republished from the following <a href="https://newsroom.uvahealth.com/2020/07/31/why-is-stroke-so-deadly-for-people-of-african-descent/" target="_blank">materials</a>. Note: material may have been edited for length and content. For further information, please contact the cited source.<br>
+</div>
+            
+
+            
+        </div>
+        
+
+
+    <div class="adverts_side_advert">
+        <div class="side-advert-container">
+            <small>Advertisement</small>
+            <div class="sticky-side-advert flex flex-justify-content-center flex-align-items-center flex-column">
+                <div class="advertisement" data-zone="TN_WEB_RECTANGLE_INLINE_300x250"></div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    
+    <div class="inner_content_related_content">
+        
+<div class="base_section_title">
+    <div class="content_type">
+Chosen for you    </div>
+</div>
+        <div class="grid grid-column-gap grid-row-gap">
+                <div>
+                    
+<a class="cards_image_top" href="/tn/webinars/geroproteomic-approaches-to-investigate-proteome-dynamics-during-age-related-diseases-354486" title='Click to view "Geroproteomic Approaches To Investigate Proteome Dynamics During Age-Related Diseases"'>
+    <div style="display: flex; flex-direction: column; height: 100%; position: relative;">
+        
+<div class="cards_data_rectangle_image">
+        <picture>
+            <source srcset="https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/geroproteomic-approaches-to-investigate-proteome-dynamics-during-age-related-diseases-354486.webp?v=11448891" type="image/webp" height="360" width="640">
+            <img src="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/geroproteomic-approaches-to-investigate-proteome-dynamics-during-age-related-diseases-354486.jpg?v=11448891" alt="Geroproteomic Approaches To Investigate Proteome Dynamics During Age-Related Diseases" height="360" width="640" loading="lazy" decoding="async" />
+        </picture>
+</div>
+        <div class="details" style="display: flex; flex-direction: column; height: 100%;">
+            <div class="cards_content_type" style="border-bottom: #dadada solid 2px;">
+    Webinar
+</div>
+
+
+            <div class="cards_title">
+    <h2>Geroproteomic Approaches To Investigate Proteome Dynamics During Age-Related Diseases</h2>
+</div>
+
+        <div class="cards_start_date" id="cards_start_date_354486"></div>
+        <script type="text/javascript" src="/Scripts/DateFormatter/dateFormatter.js"></script>
+        <script>
+            dateFormatter('2021-12-01T16:00:00Z', document.querySelectorAll("#cards_start_date_" + 354486));
+        </script>
+            <div class="bottom-of-card" style="margin-top: auto;">
+                    <div>
+                        
+
+
+<div class="base_button">
+    
+        <button data-got=""></button>
+</div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</a>
+                </div>
+                <div>
+                    
+<a class="cards_image_top" href="/tn/blog/early-detection-of-brain-tumors-and-beyond-354432" title='Click to view "Early Detection of Brain Tumors and Beyond"'>
+    <div style="display: flex; flex-direction: column; height: 100%; position: relative;">
+        
+<div class="cards_data_rectangle_image">
+        <picture>
+            <source srcset="https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/early-detection-of-brain-tumors-and-beyond-354432.webp?v=11447203" type="image/webp" height="360" width="640">
+            <img src="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/early-detection-of-brain-tumors-and-beyond-354432.jpg?v=11447203" alt="Early Detection of Brain Tumors and Beyond" height="360" width="640" loading="lazy" decoding="async" />
+        </picture>
+</div>
+        <div class="details" style="display: flex; flex-direction: column; height: 100%;">
+            <div class="cards_content_type" style="border-bottom: #dadada solid 2px;">
+    Industry Insight
+</div>
+
+
+            <div class="cards_title">
+    <h2>Early Detection of Brain Tumors and Beyond</h2>
+</div>
+
+            <div class="bottom-of-card" style="margin-top: auto;">
+                    <div>
+                        
+
+
+<div class="base_button">
+    
+            <a href="/tn/blog/early-detection-of-brain-tumors-and-beyond-354432" >
+                <button data-got=""></button>
+            </a>
+</div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</a>
+                </div>
+                <div>
+                    
+<a class="cards_image_top" href="/tn/articles/could-ketamine-help-tackle-gambling-addiction-354431" title='Click to view "Could Ketamine Help Tackle Gambling Addiction?"'>
+    <div style="display: flex; flex-direction: column; height: 100%; position: relative;">
+        
+<div class="cards_data_rectangle_image">
+        <picture>
+            <source srcset="https://cdn.technologynetworks.com/tn/images/thumbs/webp/640_360/could-ketamine-help-tackle-gambling-addiction-354431.webp?v=11447179" type="image/webp" height="360" width="640">
+            <img src="https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/could-ketamine-help-tackle-gambling-addiction-354431.jpg?v=11447179" alt="Could Ketamine Help Tackle Gambling Addiction?" height="360" width="640" loading="lazy" decoding="async" />
+        </picture>
+</div>
+        <div class="details" style="display: flex; flex-direction: column; height: 100%;">
+            <div class="cards_content_type" style="border-bottom: #dadada solid 2px;">
+    Article
+</div>
+
+
+            <div class="cards_title">
+    <h2>Could Ketamine Help Tackle Gambling Addiction?</h2>
+</div>
+
+            <div class="bottom-of-card" style="margin-top: auto;">
+                    <div>
+                        
+
+
+<div class="base_button">
+    
+            <a href="/tn/articles/could-ketamine-help-tackle-gambling-addiction-354431" >
+                <button data-got=""></button>
+            </a>
+</div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</a>
+                </div>
+        </div>
+    </div>
+
+</div>
+
+    <script type="application/ld+json">
+        {
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Technology Networks",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.technologynetworks.com/tn/images/base/TNLogo_StructuredData_2021.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "African-Americans have up to three times the risk of dying from strokes as people of European descent, yet there has been little investigation of if and how genetic variants contribute to their elevated stroke risk. Until now.<br />",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.technologynetworks.com/neuroscience/news/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208"
+  },
+  "headline": "Gene Variants Help Explain Why People of African Descent Have Far Higher Stroke Risk",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/360_360/gene-variants-help-explain-why-people-of-african-descent-have-far-higher-stroke-risk-338208.jpg",
+    "height": 360,
+    "width": 360
+  },
+  "articleSection": "Neuroscience",
+  "datePublished": "2020-08-04T00:00:00.000+00:00",
+  "dateModified": "2020-08-04T09:32:40.213+00:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Technology Networks",
+    "sameAs": [
+      "https://www.facebook.com/technologynetworks",
+      "https://www.twitter.com/tech_networks",
+      "https://www.linkedin.com/company/1179113",
+      "https://plus.google.com/116847145337997977587"
+    ]
+  },
+  "articleBody": "African-Americans have up to three times the risk of dying from strokes as people of European descent, yet there has been little investigation of if and how genetic variants contribute to their elevated stroke risk. Until now.A large international team of scientists has completed the largest analysis of stroke-risk genes ever undertaken in individuals of African descent. The new study examined the genomes of more than 22,000 people of African ancestry, identifying important genetic contributors to stroke risk. These findings will help doctors better understand stroke risk, identify those at high risk and prevent the debilitating condition.\"Given the undue burden that people of African ancestry endure from stroke and other cerebrovascular disease, the lack of investigation of risk factors in this group has been a substantial gap,\" said researcher Bradford B. Worrall, MD, a neurologist at UVA Health. \"Our work is an important step toward filling that gap, albeit with much more work to be done. These findings will provide greater insight into ethnic-specific and global risk factors to reduce the second leading cause of death worldwide.\"Understanding Stroke RiskStroke is the leading cause of adult disability in the United States. But strokes African-Americans more often and at younger ages than people of European descent. In addition, African-Americans who survive strokes often face greater disability.Family history is a major risk factor for stroke, suggesting our genes play a significant role in our stroke risk. But most genetic stroke studies, until now, have primarily focused on people of European descent. And the results have not always held true in African-Americans.The new meta-analysis comes from the Consortium of Minority Population genome-wide Association Studies of Stroke (COMPASS). The researchers revisited previous studies to identify genetic risk factors specific to people of African descent. In total, they examined the genomes of 3,734 people who had suffered strokes and more than 18,000 who had not.The researchers discovered that a common variation near the HNF1A gene was strongly associated with increased stroke risk in those of African ancestry. The gene previously has been associated to both stroke and cardiovascular disease.While that variant had the strongest link to stroke risk, the researchers identified 29 other variants that also appear likely to influence stroke risk.The variants occur at 24 different locations on our chromosomes. Sixteen of the \"loci,\" as the locations are known, appeared also to influence stroke risk in other populations, the researchers report.\"Studies of this nature are critical given the paucity of genetic studies focused on people of African descent and other minority populations and the substantial health disparities related to stroke in these groups,\" said Keith Keene, PhD, a former UVA researcher and frequent collaborator of Worrall's who now leads the Center for Health Disparities at East Carolina University's Brody School of Medicine. \"Furthermore, we increasingly recognize the power of looking at genetic risk factors across different race ethnic groups, known as transethnic analyses, for unlocking the underlying biology of diseases like stroke. If we understand the biology, we can develop new treatment and prevention strategies.\"In a paper outlining their findings, the researchers note the importance of such studies in understanding stroke risk among minorities. These studies have \"huge potential to provide insight into the mechanisms underlying stroke disparities,\" the researchers write. \"Our study identified novel associations for stroke that might not otherwise be detected in primarily European cohort studies. Collectively, this highlights the critical nature and importance of genetic studies in a more diverse population with a high stroke burden.\"Reference: Keene Keith L., Hyacinth Hyacinth I., Bis Joshua C., Kittner Steven J., Mitchell Braxton D., Cheng Yu-Ching, Pare Guillaume, Chong Michael, O’Donnell Martin, Meschia James F., Chen Wei-Min, Sale Michèle M., Rich Stephen S., Nalls Mike A., Zonderman Alan B., Evans Michele K., Wilson James G., Correa Adolfo, Markus Hugh S., … null null. (2020). Genome-Wide Association Study Meta-Analysis of Stroke in 22 000 Individuals of African Descent Identifies Novel Associations With Stroke. Stroke, 51(8), 2454–2463. This article has been republished from the following . Note: material may have been edited for length and content. For further information, please contact the cited source."
+}
+    </script>
+
+
+    </main>
+
+    <div style="margin-top: auto">
+        
+
+<div class="adverts_footer_advert">
+    <small>Advertisement</small>
+        <div class="advertisement" data-zone="TN_WEB_FOOTER_BOTTOM_468x60"></div>
+</div>
+        
+
+    <div class="adverts_footer_scrolling_advert">
+        <small>Advertisement</small>
+        <div class="advertisement" data-zone="TN_WEB_FOOTER_SCROLLING_960x45"></div>
+    </div>
+
+
+        <footer>
+    <div class="footer">
+        <div class="main container grid grid-column-gap">
+            <div>
+                <div class="footer-section-title">
+                    <span>Technology Networks</span>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/technologynetworks/" title="Link to Technology Networks' facebook page" target="_blank" rel="noopener noreferrer">
+                            <img alt="facebook logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG" width="35" height="35" />
+                        </a>
+                        <a href="http://www.twitter.com/tech_networks" title="Link to Technology Networks' twitter page" target="_blank" rel="noopener noreferrer">
+                            <img alt="twiiter logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/twitter.PNG" width="35" height="35" />
+                        </a>
+                        <a href="https://www.instagram.com/technologynetworks/" title="Link to Technology Networks' instagram page" target="_blank" rel="noopener noreferrer">
+                            <img alt="instagram logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/instagram.PNG" width="35" height="35" />
+                        </a>
+                        <a href="https://www.linkedin.com/company/1179113" title="Link to Technology Networks' linkedin page" target="_blank" rel="noopener noreferrer">
+                            <img alt="linkedin logo" src="https://cdn.technologynetworks.com/tn/images/logo/social/linkedin.PNG" width="35" height="35" />
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-list grid-1-1-1">
+                    <ul>
+                        <li><a href="/tn/about-us">About Us</a></li>
+                        <li><a href="/tn/careers">Careers</a></li>
+                        <li><a href="/tn/contact-us">Contact Us</a></li>
+                        <li><a href="/tn/editorial-policies">Editorial Policies</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/tn/editorial-guidelines">Editorial Guidelines</a></li>
+                        <li><a href="/tn/meet-the-team">Meet The Team</a></li>
+                        <li><a href="/tn/scientific-advisory-board">Scientific Advisory Board</a></li>
+                        <li><a href="https://advertisers.technologynetworks.com/" target="_blank" rel="noopener">Advertise With Us</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/tn/faq">FAQ</a></li>
+                        <li><a href="/tn/terms-conditions">Terms and Conditions</a></li>
+                        <li><a href="/tn/privacy">Privacy Policy &amp; Disclaimer</a></li>
+                        <li><a href="/tn/cookies">Cookie Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+          
+        </div>
+        <div class="sub container">
+            <div class="grid" style="padding-top: 4px; text-align: center;">
+                    <a href="/tn/copyright">&#169;2021 Technology Networks, all rights reserved. Part of the LabX Media Group</a> 
+            </div> 
+        </div>
+    </div>
+</footer>
+    </div>
+
+    <script async defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-568fa9543013cc7f"></script>
+
+    
+
+
+<input id="dfpTargetName" type="hidden" value="TN_Inner_Pages" />
+<input id="dfpTargetValue" type="hidden" value="Neuroscience" />
+<input id="dfpSponsoredQuizTargetValue" type="hidden" />
+
+<script type="text/javascript" src="/Scripts/Legacy/Custom/dfp.js?2021-10-07-16-00"></script>
+<script type="text/javascript">
+        (function (d, s, i, r) {
+            if (d.getElementById(i)) {
+                return;
+            }
+            var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
+            n.id = i;
+            n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/547446.js';
+            e.parentNode.insertBefore(n, e);
+        })(document, "script", "hs-analytics", 300000);
+</script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5993459096563447",
+        enable_page_level_ads: true
+    });
+</script>
+
+
+    <a href="/bottracking" class="botTrack" aria-label="botTrack"></a>
+
+    <script type="text/javascript" src="/Scripts/Legacy/Custom/approved-guid.js?2021-10-07-16-00"></script>
+    <script type="text/javascript" src="/Scripts/ImageModal/ImageModal.js?2021-10-07-16-00"></script>
+</body>
+</html>

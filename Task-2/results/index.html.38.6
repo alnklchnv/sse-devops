@@ -1,0 +1,649 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-AU"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-AU"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-AU"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" lang="en-AU"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-AU"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://www.pickr.com.au/xmlrpc.php" />
+    <meta name="theme-color" content="#ae2024">
+             <meta name="msapplication-navbutton-color" content="#ae2024">
+             <meta name="apple-mobile-web-app-status-bar-style" content="#ae2024"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+			<script type="text/javascript">
+              var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var t=this;t.win=window,t.doc=document,t.globalBody=t.doc.getElementsByTagName("body")[0],t.globalBody=t.globalBody?t.globalBody:t.doc,t.win.jnewsDataStorage=t.win.jnewsDataStorage||{_storage:new WeakMap,put:function(t,e,n){this._storage.has(t)||this._storage.set(t,new Map),this._storage.get(t).set(e,n)},get:function(t,e){return this._storage.get(t).get(e)},has:function(t,e){return this._storage.has(t)&&this._storage.get(t).has(e)},remove:function(t,e){var n=this._storage.get(t).delete(e);return 0===!this._storage.get(t).size&&this._storage.delete(t),n}},t.windowWidth=function(){return t.win.innerWidth||t.docEl.clientWidth||t.globalBody.clientWidth},t.windowHeight=function(){return t.win.innerHeight||t.docEl.clientHeight||t.globalBody.clientHeight},t.requestAnimationFrame=t.win.requestAnimationFrame||t.win.webkitRequestAnimationFrame||t.win.mozRequestAnimationFrame||t.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(t){return setTimeout(t,1e3/60)},t.cancelAnimationFrame=t.win.cancelAnimationFrame||t.win.webkitCancelAnimationFrame||t.win.webkitCancelRequestAnimationFrame||t.win.mozCancelAnimationFrame||t.win.msCancelRequestAnimationFrame||t.win.oCancelRequestAnimationFrame||function(t){clearTimeout(t)},t.classListSupport="classList"in document.createElement("_"),t.hasClass=t.classListSupport?function(t,e){return t.classList.contains(e)}:function(t,e){return t.className.indexOf(e)>=0},t.addClass=t.classListSupport?function(e,n){t.hasClass(e,n)||e.classList.add(n)}:function(e,n){t.hasClass(e,n)||(e.className+=" "+n)},t.removeClass=t.classListSupport?function(e,n){t.hasClass(e,n)&&e.classList.remove(n)}:function(e,n){t.hasClass(e,n)&&(e.className=e.className.replace(n,""))},t.objKeys=function(t){var e=[];for(var n in t)Object.prototype.hasOwnProperty.call(t,n)&&e.push(n);return e},t.isObjectSame=function(t,e){var n=!0;return JSON.stringify(t)!==JSON.stringify(e)&&(n=!1),n},t.extend=function(){for(var t,e,n,i=arguments[0]||{},o=1,a=arguments.length;o<a;o++)if(null!==(t=arguments[o]))for(e in t)i!==(n=t[e])&&void 0!==n&&(i[e]=n);return i},t.dataStorage=t.win.jnewsDataStorage,t.isVisible=function(t){return 0!==t.offsetWidth&&0!==t.offsetHeight||t.getBoundingClientRect().length},t.getHeight=function(t){return t.offsetHeight||t.clientHeight||t.getBoundingClientRect().height},t.getWidth=function(t){return t.offsetWidth||t.clientWidth||t.getBoundingClientRect().width},t.supportsPassive=!1;try{var e=Object.defineProperty({},"passive",{get:function(){t.supportsPassive=!0}});"createEvent"in t.doc?t.win.addEventListener("test",null,e):"fireEvent"in t.doc&&t.win.attachEvent("test",null)}catch(t){}t.passiveOption=!!t.supportsPassive&&{passive:!0},t.addEvents=function(e,n,i){for(var o in n){var a=["touchstart","touchmove"].indexOf(o)>=0&&!i&&t.passiveOption;"createEvent"in t.doc?e.addEventListener(o,n[o],a):"fireEvent"in t.doc&&e.attachEvent("on"+o,n[o])}},t.removeEvents=function(e,n){for(var i in n)"createEvent"in t.doc?e.removeEventListener(i,n[i]):"fireEvent"in t.doc&&e.detachEvent("on"+i,n[i])},t.triggerEvents=function(e,n,i){var o;i=i||{detail:null};return"createEvent"in t.doc?(!(o=t.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||o.initCustomEvent(n,!0,!1,i),void e.dispatchEvent(o)):"fireEvent"in t.doc?((o=t.doc.createEventObject()).eventType=n,void e.fireEvent("on"+o.eventType,o)):void 0},t.getParents=function(e,n){void 0===n&&(n=t.doc);for(var i=[],o=e.parentNode,a=!1;!a;)if(o){var s=o;s.querySelectorAll(n).length?a=!0:(i.push(s),o=s.parentNode)}else i=[],a=!0;return i},t.forEach=function(t,e,n){for(var i=0,o=t.length;i<o;i++)e.call(n,t[i],i)},t.getText=function(t){return t.innerText||t.textContent},t.setText=function(t,e){var n="object"==typeof e?e.innerText||e.textContent:e;t.innerText&&(t.innerText=n),t.textContent&&(t.textContent=n)},t.httpBuildQuery=function(e){return t.objKeys(e).reduce(function e(n){var i=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(o,a){var s=n[a];a=encodeURIComponent(a);var r=i?"".concat(i,"[").concat(a,"]"):a;return null==s||"function"==typeof s?(o.push("".concat(r,"=")),o):["number","boolean","string"].includes(typeof s)?(o.push("".concat(r,"=").concat(encodeURIComponent(s))),o):(o.push(t.objKeys(s).reduce(e(s,r),[]).join("&")),o)}}(e),[]).join("&")},t.scrollTo=function(e,n,i){function o(t,e,n){this.start=this.position(),this.change=t-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=e,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(t,e,n,i){return(t/=i/2)<1?n/2*t*t+e:-n/2*(--t*(t-2)-1)+e},o.prototype.stop=function(){this.finish=!0},o.prototype.move=function(e){t.doc.documentElement.scrollTop=e,t.globalBody.parentNode.scrollTop=e,t.globalBody.scrollTop=e},o.prototype.position=function(){return t.doc.documentElement.scrollTop||t.globalBody.parentNode.scrollTop||t.globalBody.scrollTop},o.prototype.animateScroll=function(){this.currentTime+=this.increment;var e=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(e),this.currentTime<this.duration&&!this.finish?t.requestAnimationFrame.call(t.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new o(e,n,i)},t.unwrap=function(e){var n,i=e;t.forEach(e,(function(t,e){n?n+=t:n=t})),i.replaceWith(n)},t.performance={start:function(t){performance.mark(t+"Start")},stop:function(t){performance.mark(t+"End"),performance.measure(t,t+"Start",t+"End")}},t.instr=function(t,e){for(var n=0;n<e.length;n++)if(-1!==t.toLowerCase().indexOf(e[n].toLowerCase()))return!0},t.winLoad=function(e,n){function i(i){if("complete"===t.doc.readyState||"interactive"===t.doc.readyState)return!i||n?setTimeout(e,n||1):e(i),1}i()||t.addEvents(t.win,{load:i})},t.docReady=function(e,n){function i(i){if("complete"===t.doc.readyState||"interactive"===t.doc.readyState)return!i||n?setTimeout(e,n||1):e(i),1}i()||t.addEvents(t.doc,{DOMContentLoaded:i})},t.fireOnce=function(){t.docReady((function(){t.assets=t.assets||[],t.assets.length&&(t.boot(),t.load_assets())}),50)},t.boot=function(){t.length&&t.doc.querySelectorAll("style[media]").forEach((function(t){"not all"==t.getAttribute("media")&&t.removeAttribute("media")}))},t.create_js=function(e,n){var i=t.doc.createElement("script");switch(i.setAttribute("src",e),n){case"defer":i.setAttribute("defer",!0);break;case"async":i.setAttribute("async",!0);break;case"deferasync":i.setAttribute("defer",!0),i.setAttribute("async",!0)}t.globalBody.appendChild(i)},t.load_assets=function(){"object"==typeof t.assets&&t.forEach(t.assets.slice(0),(function(e,n){var i="";e.defer&&(i+="defer"),e.async&&(i+="async"),t.create_js(e.url,i);var o=t.assets.indexOf(e);o>-1&&t.assets.splice(o,1)})),t.assets=jnewsoption.au_scripts=window.jnewsads=[]},t.docReady((function(){t.globalBody=t.globalBody==t.doc?t.doc.getElementsByTagName("body")[0]:t.globalBody,t.globalBody=t.globalBody?t.globalBody:t.doc}))},window.jnews.library=new window.jnews.library;</script>
+	<!-- This site is optimized with the Yoast SEO plugin v17.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Vivo takes on 5G in Australia with X50 Pro &ndash; Pickr</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A600%2C600italic%2C700%2Citalic%2Cregular&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A600%2C600italic%2C700%2Citalic%2Cregular&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A600%2C600italic%2C700%2Citalic%2Cregular&#038;display=swap" /></noscript><link rel="stylesheet" data-no-minify="" id="wpr-usedcss-css" href="https://cdn.pickr.com.au/wp-content/cache/used-css/1/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/used.min.css?ver=1633552181">
+	<meta name="description" content="A brand you probably don&#039;t know is playing in the 5G space in Australia, as it launches a phone complete with a camera gimbal." />
+	<link rel="canonical" href="https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Vivo takes on 5G in Australia with X50 Pro &ndash; Pickr" />
+	<meta property="og:description" content="A brand you probably don&#039;t know is playing in the 5G space in Australia, as it launches a phone complete with a camera gimbal." />
+	<meta property="og:url" content="https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/" />
+	<meta property="og:site_name" content="Pickr" />
+	<meta property="article:publisher" content="https://www.facebook.com/PickrAU/" />
+	<meta property="article:author" content="http://facebook.com/leighlo" />
+	<meta property="article:published_time" content="2020-08-09T05:49:24+00:00" />
+	<meta property="og:image" content="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-05.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="981" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@leighlo" />
+	<meta name="twitter:site" content="@PickrAU" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Leigh :) Stark" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.pickr.com.au/#website","url":"https://www.pickr.com.au/","name":"Pickr","description":"Australian technology news, reviews, and guides to help you","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.pickr.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"ImageObject","@id":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/#primaryimage","inLanguage":"en-AU","url":"https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-05.jpg","contentUrl":"https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-05.jpg","width":1600,"height":981,"caption":"Vivo X50 Pro"},{"@type":"WebPage","@id":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/#webpage","url":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/","name":"Vivo takes on 5G in Australia with X50 Pro &ndash; Pickr","isPartOf":{"@id":"https://www.pickr.com.au/#website"},"primaryImageOfPage":{"@id":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/#primaryimage"},"datePublished":"2020-08-09T05:49:24+00:00","dateModified":"2020-08-09T05:49:24+00:00","author":{"@id":"https://www.pickr.com.au/#/schema/person/e655807ceb0370daf66fe118f995530b"},"description":"A brand you probably don't know is playing in the 5G space in Australia, as it launches a phone complete with a camera gimbal.","breadcrumb":{"@id":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/"]}]},{"@type":"BreadcrumbList","@id":"https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.pickr.com.au/"},{"@type":"ListItem","position":2,"name":"News and articles","item":"https://www.pickr.com.au/articles/"},{"@type":"ListItem","position":3,"name":"Vivo takes on 5G in Australia with X50 Pro"}]},{"@type":"Person","@id":"https://www.pickr.com.au/#/schema/person/e655807ceb0370daf66fe118f995530b","name":"Leigh :) Stark","image":{"@type":"ImageObject","@id":"https://www.pickr.com.au/#personlogo","inLanguage":"en-AU","url":"https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=96&d=retro&r=r","contentUrl":"https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=96&d=retro&r=r","caption":"Leigh :) Stark"},"description":"A technology journalist working out of Sydney, Australia, Leigh has written for publications including The Australian Financial Review, GadgetGuy, Popular Science, APC, PC &amp; Tech Authority, as well as for radio and TV since 2007.","sameAs":["http://facebook.com/leighlo","https://www.linkedin.com/in/leighlo?trk=nav_responsive_tab_profile","https://twitter.com/leighlo"],"url":"https://www.pickr.com.au/author/leigh/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="manifest" href="https://www.pickr.com.au/pwa-manifest.json">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://www.pickr.com.au/media/2018/11/pickr-icon-ios-144.png">
+<link rel="amphtml" href="https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/amp/" /><link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//adservice.google.com.au' />
+<link rel='dns-prefetch' href='//adservice.google.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.pickr.com.au' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='//cdn.pickr.com.au' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Pickr &raquo; Feed" href="https://www.pickr.com.au/feed/" />
+<!-- pickr.com.au is managing ads with Advanced Ads --><!--noptimize--><script id="pickr-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<!--/noptimize-->
+	
+
+
+
+
+
+<script id="wpacu-preload-async-css-fallback">
+/*! LoadCSS. [c]2020 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/
+(function(w){"use strict";var wpacuLoadCSS=function(href,before,media,attributes){var doc=w.document;var ss=doc.createElement('link');var ref;if(before){ref=before}else{var refs=(doc.body||doc.getElementsByTagName('head')[0]).childNodes;ref=refs[refs.length-1]}
+var sheets=doc.styleSheets;if(attributes){for(var attributeName in attributes){if(attributes.hasOwnProperty(attributeName)){ss.setAttribute(attributeName,attributes[attributeName])}}}
+ss.rel="stylesheet";ss.href=href;ss.media="only x";function ready(cb){if(doc.body){return cb()}
+setTimeout(function(){ready(cb)})}
+ready(function(){ref.parentNode.insertBefore(ss,(before?ref:ref.nextSibling))});var onwpaculoadcssdefined=function(cb){var resolvedHref=ss.href;var i=sheets.length;while(i--){if(sheets[i].href===resolvedHref){return cb()}}
+setTimeout(function(){onwpaculoadcssdefined(cb)})};function loadCB(){if(ss.addEventListener){ss.removeEventListener("load",loadCB)}
+ss.media=media||"all"}
+if(ss.addEventListener){ss.addEventListener("load",loadCB)}
+ss.onwpaculoadcssdefined=onwpaculoadcssdefined;onwpaculoadcssdefined(loadCB);return ss};if(typeof exports!=="undefined"){exports.wpacuLoadCSS=wpacuLoadCSS}else{w.wpacuLoadCSS=wpacuLoadCSS}}(typeof global!=="undefined"?global:this))
+</script>
+
+<link   rel='preload' as='font' type='font/woff2' crossorigin id='font-awesome-webfont-css'  href='https://cdn.pickr.com.au/wp-content/themes/jnews/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0' type='text/css' media='all' />
+<link   rel='preload' as='font' type='font/woff' crossorigin id='jnews-icon-webfont-css'  href='https://cdn.pickr.com.au/wp-content/themes/jnews/assets/fonts/jegicon/fonts/jegicon.woff' type='text/css' media='all' />
+<link   rel='preload' as='font' type='font/woff2' crossorigin id='vc-font-awesome-brands-webfont-css'  href='https://cdn.pickr.com.au/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.woff2' type='text/css' media='all' />
+<link   rel='preload' as='font' type='font/woff2' crossorigin id='vc-font-awesome-regular-webfont-css'  href='https://cdn.pickr.com.au/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.woff2' type='text/css' media='all' />
+<link   rel='preload' as='font' type='font/woff2' crossorigin id='vc-font-awesome-solid-webfont-css'  href='https://cdn.pickr.com.au/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.woff2' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js' defer></script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script   type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-71845768-1' id='google_gtagjs-js' async></script>
+<script   type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.pickr.com.au"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-71845768-1", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.pickr.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.pickr.com.au/wp-json/wp/v2/posts/37473" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pickr.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.pickr.com.au/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.pickr.com.au/?p=37473' />
+
+<!-- begin LH Instant Articles meta output -->
+<meta property="fb:pages" content="1306375316069323" />
+<!-- end LH Instant Articles meta output -->
+
+<link rel="preload" as="font" href="https://cdn.pickr.com.au/wp-content/themes/jnews/assets/fonts/jegicon/fonts/jegicon.woff" crossorigin>
+<script  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7421266024255206" crossorigin="anonymous"></script><script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/www.pickr.com.au\/#organization","url":"https:\/\/www.pickr.com.au\/","name":"Pickr.com.au","logo":{"@type":"ImageObject","url":"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2019\/12\/pickr-xmas-black-point5x.png"},"sameAs":["https:\/\/www.facebook.com\/pickrau","https:\/\/www.instagram.com\/pickrau\/","https:\/\/twitter.com\/pickrau","https:\/\/www.linkedin.com\/company\/17899558\/admin\/"]}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/www.pickr.com.au\/#website","url":"https:\/\/www.pickr.com.au\/","name":"Pickr.com.au","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.pickr.com.au\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="icon" href="https://cdn.pickr.com.au/wp-content/uploads/2016/07/cropped-pickr-2016-icon-trans-512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn.pickr.com.au/wp-content/uploads/2016/07/cropped-pickr-2016-icon-trans-512-192x192.png" sizes="192x192" />
+<meta name="msapplication-TileImage" content="https://cdn.pickr.com.au/wp-content/uploads/2016/07/cropped-pickr-2016-icon-trans-512-270x270.png" />
+<meta name="pwaforwp" content="wordpress-plugin"/>
+        <meta name="theme-color" content="#D5E0EB">
+        <meta name="apple-mobile-web-app-title" content="Pickr">
+        <meta name="application-name" content="Pickr">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content=" Pickr">
+        <meta name="apple-touch-fullscreen" content="YES">
+<link rel="apple-touch-startup-image" href="https://www.pickr.com.au/media/2018/11/pickr-icon-ios-144.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.pickr.com.au/media/2018/11/pickr-icon-ios-144.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://www.pickr.com.au/media/2018/11/pickr-icon-ios-144.png">
+		
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body data-rsssl=1 class="post-template-default single single-post postid-37473 single-format-standard wp-embed-responsive jeg_toggle_dark jnews jnews_boxed_container jsc_normal wpb-js-composer js-comp-ver-6.6.0 vc_responsive aa-prefix-pickr-">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class='ads-wrapper  '></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header normal">
+    <div class="jeg_midbar jeg_container normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+	    	<a href="https://www.pickr.com.au/" style="padding: 0 0 0 0;">
+	    	    <img class='jeg_logo_img' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-200w.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-200w.png 1x, https://www.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-400w.png 2x" data-lazy-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png"><noscript><img class='jeg_logo_img' src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-200w.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-200w.png 1x, https://www.pickr.com.au/wp-content/uploads/2020/12/pickr-nye-2020-white-400w.png 2x"></noscript>	    	</a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_2" data-animation="animate"><li id="menu-item-31678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31678 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/">Latest News &#038; Reviews</a></li>
+<li id="menu-item-42955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42955 bgnav jeg_menu_icon_enable" data-item-row="default" ><a href="https://www.pickr.com.au/guides/wirefree/"><i  class='jeg_font_menu fa fa-bolt'></i>Wireless earphones</a></li>
+<li id="menu-item-25110" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-25110 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/phones/">Phones</a></li>
+<li id="menu-item-8063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8063 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/computers/">PC &#038; Mac</a></li>
+<li id="menu-item-15489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15489 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/sound/">Sound</a></li>
+<li id="menu-item-34975" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-34975 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/tag/4k/">4K</a></li>
+<li id="menu-item-13224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13224 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/the-wrap/">The Wrap</a></li>
+</ul></div></div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_separator separator4"></div><!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.pickr.com.au/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+            <div class="sticky_blankspace"></div>
+<div class="jeg_header normal">
+    <div class="jeg_container">
+        <div data-mode="scroll" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+            <div class="container">
+    <div class="jeg_nav_row">
+        
+            <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                <div class="item_wrap jeg_nav_alignleft">
+                    <div class="jeg_nav_item jeg_logo">
+    <div class="site-title">
+    	<a href="https://www.pickr.com.au/">
+    	    <img class='jeg_logo_img' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-lazy-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png"><noscript><img class='jeg_logo_img' src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x"></noscript>    	</a>
+    </div>
+</div>                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                <div class="item_wrap jeg_nav_aligncenter">
+                                    </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignright">
+                    <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_2" data-animation="animate"><li id="menu-item-31678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31678 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/">Latest News &#038; Reviews</a></li>
+<li id="menu-item-42955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42955 bgnav jeg_menu_icon_enable" data-item-row="default" ><a href="https://www.pickr.com.au/guides/wirefree/"><i  class='jeg_font_menu fa fa-bolt'></i>Wireless earphones</a></li>
+<li id="menu-item-25110" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-25110 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/phones/">Phones</a></li>
+<li id="menu-item-8063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8063 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/computers/">PC &#038; Mac</a></li>
+<li id="menu-item-15489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15489 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/sound/">Sound</a></li>
+<li id="menu-item-34975" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-34975 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/tag/4k/">4K</a></li>
+<li id="menu-item-13224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13224 bgnav" data-item-row="default" ><a href="https://www.pickr.com.au/the-wrap/">The Wrap</a></li>
+</ul></div></div>
+                </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+	    	<a href="https://www.pickr.com.au/">
+		        <img class='jeg_logo_img' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-200.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-200.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-400.png 2x" data-lazy-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png"><noscript><img class='jeg_logo_img' src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" srcset="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" alt="Pickr"data-light-src="https://cdn.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png" data-light-srcset="https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-200w-100h-2018.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/03/pickr-logo-2016-400w-2018.png 2x" data-dark-src="https://cdn.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-200.png" data-dark-srcset="https://www.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-200.png 1x, https://www.pickr.com.au/wp-content/uploads/2019/10/pickr-dark-logo-400.png 2x"></noscript>		    </a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_dark_mode">
+                    <label class="dark_mode_switch">
+                        <input type="checkbox" class="jeg_dark_mode_toggle" >
+                        <span class="slider round"></span>
+                    </label>
+                 </div><div class="jeg_nav_item">
+    <a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div>        </div>
+
+            <div class="post-wrapper">
+
+        <div class="post-wrap" >
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content">
+    <div class="jeg_vc_content custom_post_template">
+        <p><div data-bg="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-05.jpg" data-vc-full-width="true" data-vc-full-width-init="false" style="!important;background-repeat: no-repeat !important;background-position: center center !important;background-attachment: scroll !important;background-size: cover !important"" class="row vc_row wpb_row vc_row-fluid vc_custom_1572174821548 vc_row-o-content-bottom vc_row-flex jeg_relative rocket-lazyload"><div class="jeg-vc-wrapper"><div class="jeg_row_overlay" style="background-color: rgba(10,10,10,0.42);"></div><div class="transback wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_custom_title_wrapper alt '>
+                <h1 class="jeg_post_title">Vivo takes on 5G in Australia with X50 Pro</h1>
+            </div><div  class='jeg_post_meta jeg_custom_meta_wrapper alt '><div class='meta_left'><div class="jeg_meta_author"><img alt='Leigh :) Stark' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=160&#038;d=retro&#038;r=r 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=80&#038;d=retro&#038;r=r" /><noscript><img alt='Leigh :) Stark' src='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=80&#038;d=retro&#038;r=r' srcset='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=160&#038;d=retro&#038;r=r 2x' class='avatar avatar-80 photo' height='80' width='80' /></noscript><span class="meta_text">by</span><a href="https://www.pickr.com.au/author/leigh/">Leigh :) Stark</a></div><div class="jeg_meta_date">
+                <a href="https://www.pickr.com.au/news/2020/vivo-takes-on-5g-in-australia-with-x50-pro/">August 9, 2020</a>
+            </div><div class="jeg_meta_reading_time">
+			            <span>
+			            	3 min read
+			            </span>
+			        </div></div><div class='meta_right'></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-9"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_custom_content_wrapper  '>
+                <div class='entry-content  with-share'>
+                    <div class="jeg_share_button share-float jeg_sticky_share clearfix share-monocrhome">
+                        <div class="jeg_share_float_container"><div class="jeg_sharelist">
+                <a href="https://twitter.com/intent/tweet?text=Vivo+takes+on+5G+in+Australia+with+X50+Pro+via+%40%40PickrAU&url=https%3A%2F%2Fwww.pickr.com.au%2Fnews%2F2020%2Fvivo-takes-on-5g-in-australia-with-x50-pro%2F" rel='nofollow'  class="jeg_btn-twitter expanded"><i class="fa fa-twitter"></i><span>Share on Twitter</span></a><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.pickr.com.au%2Fnews%2F2020%2Fvivo-takes-on-5g-in-australia-with-x50-pro%2F" rel='nofollow'  class="jeg_btn-facebook expanded"><i class="fa fa-facebook-official"></i><span>Share on Facebook</span></a><a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.pickr.com.au%2Fnews%2F2020%2Fvivo-takes-on-5g-in-australia-with-x50-pro%2F&title=Vivo+takes+on+5G+in+Australia+with+X50+Pro" rel='nofollow'  class="jeg_btn-linkedin expanded"><i class="fa fa-linkedin"></i><span>Share on LinkedIn</span></a><a href="mailto:?subject=Vivo+takes+on+5G+in+Australia+with+X50+Pro&amp;body=https%3A%2F%2Fwww.pickr.com.au%2Fnews%2F2020%2Fvivo-takes-on-5g-in-australia-with-x50-pro%2F" rel='nofollow'  class="jeg_btn-email expanded"><i class="fa fa-envelope"></i><span>Share over email</span></a>
+                
+            </div></div>
+                    </div>
+                    <div class='content-inner'>
+                        
+
+
+
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/tiny-slider/tiny-slider.js?ver=1632776044' id='tiny-slider-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/tiny-slider/tiny-slider-noconflict.js?ver=1632776044' id='tiny-slider-noconflict-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/plugins/jnews-gallery/assets/js/jquery.previewslider.js?ver=1632776094' id='jnews-previewslider-js' defer></script>
+<p><strong>A brand you probably don&#8217;t know is playing in the 5G space in Australia, as it launches a phone complete with a camera gimbal. </strong></p>
+<p>You can probably name the most popular and well-known smartphone brands without even trying, but just because you&#8217;re more prone to seeing Apple, Samsung, Google, LG, Motorola, Nokia, Huawei, and Oppo doesn&#8217;t mean they&#8217;re the only choices out there. </p>
+<p>Other smaller brands pop up from time to time, some of them showing ideas others might not have thought of. That could be to save a few dollars or to introduce customisable buttons, but Vivo is trying something a little different with the impending releasing of its first 5G phone in Australia. </p>
+<p><a href="https://www.pickr.com.au/news/2019/australia-gets-a-new-phone-choice-in-vivo/">Vivo has only had a handful of phones in Australia</a>, including <a href="https://www.pickr.com.au/phones/2019/vivo-s1-vivo-1907/">last year&#8217;s Vivo S1</a>, but a new model is heading to our little spot of the world, providing another option for 5G phones locally, and it&#8217;ll arrive with someone no other phone has: a gimbal for its camera setup.</p>
+<p><a href="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06.jpg"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201600%20540'%3E%3C/svg%3E" alt="" width="1600" height="540" class="aligncenter size-full wp-image-37476" data-lazy-srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06.jpg 1600w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1024x346.jpg 1024w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1536x518.jpg 1536w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-750x253.jpg 750w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1140x385.jpg 1140w" data-lazy-sizes="(max-width: 1600px) 100vw, 1600px" data-lazy-src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06.jpg" /><noscript><img src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06.jpg" alt="" width="1600" height="540" class="aligncenter size-full wp-image-37476" srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06.jpg 1600w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1024x346.jpg 1024w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1536x518.jpg 1536w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-750x253.jpg 750w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-06-1140x385.jpg 1140w" sizes="(max-width: 1600px) 100vw, 1600px" /></noscript></a></p>
+<p>The phone is the <a href="https://www.pickr.com.au/track/vivo-x50-pro/">Vivo X50 Pro</a>, a name which will beg the question &#8220;is there an X50 standard?&#8221; &#8212; no, but there is an X50 Lite launching in Australia &#8212; and it&#8217;ll be a phone sporting Android, a 6.56 inch Full HD+ AMOLED screen, and 256GB storage for just under a grand, what is becoming one of the new starting prices for 5G phones locally. </p>
+<p>While Vivo&#8217;s addition joins the whole &#8220;entry level&#8221; 5G world locally, it&#8217;s also attempting to differ from the rest of the crowd with its camera system. There&#8217;s a 48 megapixel camera here alongside a 13 megapixel portrait camera, 8 megapixel ultra-wide and 8 megapixel 5x telephoto camera, but what makes this whole thing stand out a little more is the inclusion of a gimbal, also known as a camera stabilisation gadget. </p>
+<p>Gimbals are typically used to stabilise cameras as they move, holding a camera in place along specific axes, and that&#8217;s largely what the technology is being used for in the Vivo X50 Pro, holding a camera in place for images and video. It&#8217;ll reportedly show up on-screen with an animated ball displaying the gimbal movement, giving you an idea of what the system is doing to keep the imagery stable, something we&#8217;ve not seen on a phone prior. </p>
+<div id='gallery_1' class='gallery galleryid-37473 gallery-columns-3 gallery-size-large'><figure class='gallery-item'>
+                <div class='gallery-icon landscape'>
+                    <a href='https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01.jpg'><img width="1000" height="1000" src="" class="attachment-large size-large lazyload" alt="" data-src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01.jpg" data-sizes="auto" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01.jpg 1000w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-350x350.jpg 350w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-150x150.jpg 150w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-912x912.jpg 912w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-550x550.jpg 550w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-470x470.jpg 470w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-75x75.jpg 75w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-01-750x750.jpg 750w" data-expand="700" /></a>
+                </div></figure><figure class='gallery-item'>
+                <div class='gallery-icon landscape'>
+                    <a href='https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02.jpg'><img width="1000" height="1000" src="" class="attachment-large size-large lazyload" alt="" data-src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02.jpg" data-sizes="auto" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02.jpg 1000w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-350x350.jpg 350w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-150x150.jpg 150w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-912x912.jpg 912w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-550x550.jpg 550w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-470x470.jpg 470w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-75x75.jpg 75w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-02-750x750.jpg 750w" data-expand="700" /></a>
+                </div></figure><figure class='gallery-item'>
+                <div class='gallery-icon landscape'>
+                    <a href='https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03.jpg'><img width="1000" height="1000" src="" class="attachment-large size-large lazyload" alt="" data-src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03.jpg" data-sizes="auto" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03.jpg 1000w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-350x350.jpg 350w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-150x150.jpg 150w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-912x912.jpg 912w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-550x550.jpg 550w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-470x470.jpg 470w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-75x75.jpg 75w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-03-750x750.jpg 750w" data-expand="700" /></a>
+                </div></figure><br style="clear: both" />
+            </div>
+
+<p>&#8220;With stable shooting capabilities, outstanding lenses and sensors, and an overall advanced camera system, the X50 Pro allow users to capture all of life&#8217;s stories with professional quality,&#8221; said Fred Liu, Managing Director of Vivo in Australia. </p>
+<p>&#8220;This is the first X series device to be launched globally and we are excited to share the best of our innovative technology and design with people around the world, and now right here in Australia,&#8221; he said. </p>
+<p>While we&#8217;re not sure we&#8217;d call the phone &#8220;professional quality&#8221;, at least until we see it for ourselves, Vivo&#8217;s addition to the phone world does deliver something else, making it a little different in the market. </p>
+<p>However it&#8217;s one phone you won&#8217;t find available with a telco, with the Vivo X50 Pro snagging an outright price only, fetching $999 in Australia when it launches on August 20. The phone is available from the likes of Big W, JB HiFi, Officeworks, and Mobileciti, with pre-orders snagging a Fitbit Versa 2. </p>
+<p><a href="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07.jpg"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201600%20986'%3E%3C/svg%3E" alt="" width="1600" height="986" class="aligncenter size-full wp-image-37475" data-lazy-srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07.jpg 1600w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1024x631.jpg 1024w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1536x947.jpg 1536w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-750x462.jpg 750w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1140x703.jpg 1140w" data-lazy-sizes="(max-width: 1600px) 100vw, 1600px" data-lazy-src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07.jpg" /><noscript><img src="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07.jpg" alt="" width="1600" height="986" class="aligncenter size-full wp-image-37475" srcset="https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07.jpg 1600w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1024x631.jpg 1024w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1536x947.jpg 1536w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-750x462.jpg 750w, https://cdn.pickr.com.au/wp-content/uploads/2020/08/vivo-x50-pro-5g-2020-07-1140x703.jpg 1140w" sizes="(max-width: 1600px) 100vw, 1600px" /></noscript></a></p>
+
+                    </div>
+                </div>
+            </div><div  class='jeg_custom_author_wrapper jnews_author_box_container jnews_module_37473_4_615febf46e3b8   '>
+	<div class="jeg_authorbox">
+		<div class="jeg_author_image">
+			<img alt='Leigh :) Stark' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=160&#038;d=retro&#038;r=r 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=80&#038;d=retro&#038;r=r" /><noscript><img alt='Leigh :) Stark' src='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=80&#038;d=retro&#038;r=r' srcset='https://secure.gravatar.com/avatar/4a2540c5bfc0c7784682c42214608649?s=160&#038;d=retro&#038;r=r 2x' class='avatar avatar-80 photo' height='80' width='80' /></noscript>		</div>
+		<div class="jeg_author_content">
+			<h3 class="jeg_author_name">
+				<a href="https://www.pickr.com.au/author/leigh/">
+					Leigh :) Stark				</a>
+			</h3>
+			<p class="jeg_author_desc">
+				A technology journalist working out of Sydney, Australia, Leigh has written for publications including The Australian Financial Review, GadgetGuy, Popular Science, APC, PC &amp; Tech Authority, as well as for radio and TV since 2007.			</p>
+
+							<div class="jeg_author_socials">
+												<a target='_blank' href='http://facebook.com/leighlo' class='facebook'><i class='fa fa-facebook-official'></i> </a>
+														<a target='_blank' href='http://leighlo' class='twitter'><i class='fa fa-twitter'></i> </a>
+														<a target='_blank' href='https://www.linkedin.com/in/leighlo?trk=nav_responsive_tab_profile' class='linkedin'><i class='fa fa-linkedin'></i> </a>
+											</div>
+			
+		</div>
+	</div>
+</div><div  class='jnews_related_post_container jeg_custom_related_wrapper  nocat'><div  class="jeg_postblock_15 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_3o3 jnews_module_37473_6_615febf470130   " data-unique="jnews_module_37473_6_615febf470130">
+					<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Related<strong> Posts</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts_wrap"><div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_md_box format-standard">
+                    <div class="box_wrap">
+                        <div class="jeg_thumb">
+                            
+                            <a href="https://www.pickr.com.au/reviews/2021/apple-ipad-mini-2021/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="The Apple Pencil on the iPad Mini." sizes="(max-width: 350px) 100vw, 350px" data-src="https://cdn.pickr.com.au/wp-content/uploads/2021/10/772B11B1-A716-42B2-B95C-D94116D443A8-350x250.jpeg" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2021/10/772B11B1-A716-42B2-B95C-D94116D443A8-350x250.jpeg 350w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/772B11B1-A716-42B2-B95C-D94116D443A8-120x86.jpeg 120w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/772B11B1-A716-42B2-B95C-D94116D443A8-750x536.jpeg 750w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/772B11B1-A716-42B2-B95C-D94116D443A8-1140x815.jpeg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                            <div class="jeg_post_category">
+                                <span><a href="https://www.pickr.com.au/tablets/" class="category-tablets">Tablets</a></span>
+                            </div>
+                        </div>
+                        <div class="jeg_postblock_content">
+                            <h3 class="jeg_post_title">
+                                <a href="https://www.pickr.com.au/reviews/2021/apple-ipad-mini-2021/">Apple&#8217;s 2021 iPad Mini reviewed: easy for wherever</a>
+                            </h3>
+                            <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.pickr.com.au/reviews/2021/apple-ipad-mini-2021/" ><i class="fa fa-clock-o"></i> October 7, 2021</a></div></div>
+                        </div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_box format-standard">
+                    <div class="box_wrap">
+                        <div class="jeg_thumb">
+                            
+                            <a href="https://www.pickr.com.au/reviews/2021/apple-iphone-13-pro/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Apple iPhone 13 Pro reviewed: it stands out in all the right ways" sizes="(max-width: 350px) 100vw, 350px" data-src="https://cdn.pickr.com.au/wp-content/uploads/2021/10/apple-iphone-13-pro-review-2021-06-350x250.jpg" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2021/10/apple-iphone-13-pro-review-2021-06-350x250.jpg 350w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/apple-iphone-13-pro-review-2021-06-120x86.jpg 120w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/apple-iphone-13-pro-review-2021-06-750x536.jpg 750w, https://cdn.pickr.com.au/wp-content/uploads/2021/10/apple-iphone-13-pro-review-2021-06-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                            <div class="jeg_post_category">
+                                <span><a href="https://www.pickr.com.au/reviews/" class="category-reviews">Reviews</a></span>
+                            </div>
+                        </div>
+                        <div class="jeg_postblock_content">
+                            <h3 class="jeg_post_title">
+                                <a href="https://www.pickr.com.au/reviews/2021/apple-iphone-13-pro/">Apple iPhone 13 Pro reviewed: it stands out in all the right ways</a>
+                            </h3>
+                            <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.pickr.com.au/reviews/2021/apple-iphone-13-pro/" ><i class="fa fa-clock-o"></i> October 1, 2021</a></div></div>
+                        </div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_box format-standard">
+                    <div class="box_wrap">
+                        <div class="jeg_thumb">
+                            
+                            <a href="https://www.pickr.com.au/podcast/2021/the-wrap-cut-cost-earphones-apples-iphone-13-reviewed/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="The buttons on the iPhone 13" sizes="(max-width: 350px) 100vw, 350px" data-src="https://cdn.pickr.com.au/wp-content/uploads/2021/09/A30ECF53-37B1-4323-9803-EBB9F3188334-350x250.jpeg" data-srcset="https://cdn.pickr.com.au/wp-content/uploads/2021/09/A30ECF53-37B1-4323-9803-EBB9F3188334-350x250.jpeg 350w, https://cdn.pickr.com.au/wp-content/uploads/2021/09/A30ECF53-37B1-4323-9803-EBB9F3188334-120x86.jpeg 120w, https://cdn.pickr.com.au/wp-content/uploads/2021/09/A30ECF53-37B1-4323-9803-EBB9F3188334-750x536.jpeg 750w, https://cdn.pickr.com.au/wp-content/uploads/2021/09/A30ECF53-37B1-4323-9803-EBB9F3188334-1140x815.jpeg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                            <div class="jeg_post_category">
+                                <span><a href="https://www.pickr.com.au/podcast/" class="category-podcast">The Wrap - Australia's fastest technology roundup</a></span>
+                            </div>
+                        </div>
+                        <div class="jeg_postblock_content">
+                            <h3 class="jeg_post_title">
+                                <a href="https://www.pickr.com.au/podcast/2021/the-wrap-cut-cost-earphones-apples-iphone-13-reviewed/">The Wrap &#8211; Cut-Cost Earphones &#038; Apple’s iPhone 13 Reviewed</a>
+                            </h3>
+                            <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.pickr.com.au/podcast/2021/the-wrap-cut-cost-earphones-apples-iphone-13-reviewed/" ><i class="fa fa-clock-o"></i> October 1, 2021</a></div></div>
+                        </div>
+                    </div>
+                </article></div></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_37473_6_615febf470130 = {"header_icon":"","first_title":"Related","second_title":" Posts","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"3","post_offset":0,"unique_content":"disable","include_post":"","exclude_post":37473,"include_category":"","exclude_category":"","include_author":"","include_tag":"332,1234,1154,1303","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"3","pagination_scroll_limit":3,"el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","excerpt_length":"0","paged":1,"column_class":"jeg_col_3o3","class":"jnews_block_15"};</script>
+				</div></div></div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-3 jeg_sticky_sidebar"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_ad jeg_ad_module jnews_module_37473_7_615febf476013 jeg_ads_hide_phone  '><div class='ads-wrapper'><div class="">
+                        
+                        <ins class="adsbygoogle adsslot_542gEXndmq" style="display:inline-block;" data-ad-client="ca-pub-7421266024255206" data-ad-slot="7175881258"></ins>
+                        <script async defer src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+                        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                    </div><div class='ads-text'>ADVERTISEMENT</div></div></div></div></div></div></div></p>
+        <div class="jnews_popup_post_container"></div>    </div>
+</div>                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-37473 single-format-standard wp-embed-responsive jeg_toggle_dark jnews jnews_boxed_container jsc_normal wpb-js-composer js-comp-ver-6.6.0 vc_responsive aa-prefix-pickr-"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+        <div class="footer-holder" id="footer" data-id="footer">
+            <div class="jeg_footer jeg_footer_4 normal">
+    <div class="jeg_footer_container jeg_container">
+        <div class="jeg_footer_content">
+            <div class="container">
+                <div class="row">
+                    <div class="jeg_footer_primary clearfix">
+                        <div class="col-md-9 footer_column">
+                            <ul class="jeg_menu_footer"><li id="menu-item-36457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36457"><a href="https://www.pickr.com.au/recommended/">Recommendations</a></li>
+<li id="menu-item-33114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33114"><a href="https://www.pickr.com.au/best-picks/">Best Picks</a></li>
+<li id="menu-item-1494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1494"><a href="https://www.pickr.com.au/methodology/">Methodology</a></li>
+<li id="menu-item-32849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32849"><a href="https://www.pickr.com.au/about/">About</a></li>
+<li id="menu-item-40401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40401"><a href="https://www.pickr.com.au/about/media/">Media Appearances</a></li>
+<li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a href="https://www.pickr.com.au/contact/">Contact</a></li>
+</ul>                        </div>
+                        <div class="col-md-3 footer_column footer_right">
+                            <div class="footer-text">
+                                <strong><a href="https://www.pickr.com.au/change-the-way-you-choose/">Change the way you choose.</a></strong>                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div class="jeg_footer_secondary clearfix">
+                        <div class="col-md-9 footer_column">
+                            <p class="copyright"> © 2016 to 2021 Publishr Pty Ltd: ACN 624 227 256<br />
+All rights reserved. </p>
+                        </div>
+                        <div class="col-md-3 footer_column footer_right">
+
+                            			<div class="jeg_social_icon_block socials_widget nobg">
+				<a href="https://www.facebook.com/pickrau" target='_blank' rel='external noopener nofollow' class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/pickrau/" target='_blank' rel='external noopener nofollow' class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://twitter.com/pickrau" target='_blank' rel='external noopener nofollow' class="jeg_twitter"><i class="fa fa-twitter"></i> </a><a href="https://www.linkedin.com/company/17899558/admin/" target='_blank' rel='external noopener nofollow' class="jeg_linkedin"><i class="fa fa-linkedin"></i> </a>			</div>
+			
+                        </div>
+                    </div>
+
+                                        
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- /.footer -->        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand rounded">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.pickr.com.au/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31678"><a href="https://www.pickr.com.au/">Latest News &#038; Reviews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42955"><a href="https://www.pickr.com.au/guides/wirefree/">Wireless earphones</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-25110"><a href="https://www.pickr.com.au/phones/">Phones</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8063"><a href="https://www.pickr.com.au/computers/">PC &#038; Mac</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15489"><a href="https://www.pickr.com.au/sound/">Sound</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-34975"><a href="https://www.pickr.com.au/tag/4k/">4K</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13224"><a href="https://www.pickr.com.au/the-wrap/">The Wrap</a></li>
+</ul></div><div class="jeg_aside_item socials_widget nobg">
+    <a href="https://www.facebook.com/pickrau" target='_blank' rel='external noopener nofollow' class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/pickrau/" target='_blank' rel='external noopener nofollow' class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://twitter.com/pickrau" target='_blank' rel='external noopener nofollow' class="jeg_twitter"><i class="fa fa-twitter"></i> </a><a href="https://www.linkedin.com/company/17899558/admin/" target='_blank' rel='external noopener nofollow' class="jeg_linkedin"><i class="fa fa-linkedin"></i> </a></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item jeg_aside_copyright">
+	<p>© 2016 to 2021 Publishr Pty Ltd: ACN 624 227 256<br />
+All rights reserved.</p>
+</div>    </div>
+</div>    </div>
+</div><script type="text/javascript">var jfla = []</script><span id="lr-check"></span><div class="jeg_read_progress_wrapper"></div><script type="text/html" id="wpb-modifications"></script><script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/ar\/|\/ces\/|\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/www.pickr.com.au","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js' defer></script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js' defer></script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.6.0' id='isotope-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/lazysizes.js?ver=1632776043' id='lazysizes-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/ls.bgset.js?ver=1632776043' id='bgset-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/superfish.js?ver=1632776043' id='superfish-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/theia-sticky-sidebar.js?ver=1632776043' id='theia-sticky-sidebar-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.waypoints.js?ver=1632776043' id='waypoint-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.scrollTo.js?ver=1632776043' id='scrollto-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.parallax.js?ver=1632776043' id='parallax-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.okayNav.js?ver=1632776043' id='okaynav-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.mousewheel.js?ver=1632776043' id='mousewheel-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/modernizr-custom.js?ver=1632776043' id='modernizr-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.smartresize.js?ver=1632776043' id='smartresize-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/chosen.jquery.js?ver=1632776044' id='chosen-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.magnific-popup.js?ver=1632776044' id='magnific-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.jnewsgif.js?ver=1632776044' id='jnews-gif-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.jsticky.js?ver=1632776044' id='jnews-sticky-js' defer></script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/themes/jnews/assets/js/jquery.transit.min.js?ver=9.0.1' id='jquery-transit-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/jquery.module.js?ver=1632776044' id='jnews-landing-module-js' defer></script>
+<script type='text/javascript' id='jnews-main-js-extra'>
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/www.pickr.com.au\/news\/2020\/vivo-takes-on-5g-in-australia-with-x50-pro","popup_script":"magnific","single_gallery":"1","ismobile":"","isie":"","sidefeed_ajax":"","language":"en_AU","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"37473","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"www.pickr.com.au","zoom_button":"0"};
+/* ]]> */
+</script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/main.js?ver=1632776044' id='jnews-main-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/zoom-button.js?ver=1632776055' id='jnews-zoom-button-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/popup-post.js?ver=1632776055' id='jnews-popup-post-js' defer></script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/themes/jnews/assets/js/darkmode.js?ver=1632776044' id='jnews-darkmode-js' defer></script>
+<!--[if lt IE 9]>
+<script data-wpacu-script-handle='html5shiv' type='text/javascript' src='https://www.pickr.com.au/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=9.0.1' id='html5shiv-js'></script>
+<![endif]-->
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/pwa-register-sw.js?ver=1632776044' id='pwa-main-script-js' defer></script>
+<script type='text/javascript' id='jnews-select-share-js-extra'>
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script data-minify="1"   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/cache/min/1/wp-content/plugins/jnews-social-share/assets/js/plugin.js?ver=1632776044' id='jnews-select-share-js' defer></script>
+<script   type='text/javascript' src='https://cdn.pickr.com.au/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.6.0' id='wpb_composer_front_js-js' defer></script>
+<div class="jeg_ad jnews_mobile_sticky_ads "></div><script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.pickr.com.au\/news\/2020\/vivo-takes-on-5g-in-australia-with-x50-pro\/"},"dateCreated":"2020-08-09 15:49:24","datePublished":"2020-08-09 15:49:24","dateModified":"2020-08-09 05:49:24","url":"https:\/\/www.pickr.com.au\/news\/2020\/vivo-takes-on-5g-in-australia-with-x50-pro\/","headline":"Vivo takes on 5G in Australia with X50 Pro","name":"Vivo takes on 5G in Australia with X50 Pro","articleBody":"<strong>A brand you probably don't know is playing in the 5G space in Australia, as it launches a phone complete with a camera gimbal. <\/strong>\r\n\r\nYou can probably name the most popular and well-known smartphone brands without even trying, but just because you're more prone to seeing Apple, Samsung, Google, LG, Motorola, Nokia, Huawei, and Oppo doesn't mean they're the only choices out there. \r\n\r\nOther smaller brands pop up from time to time, some of them showing ideas others might not have thought of. That could be to save a few dollars or to introduce customisable buttons, but Vivo is trying something a little different with the impending releasing of its first 5G phone in Australia. \r\n\r\n<a href=\"https:\/\/www.pickr.com.au\/news\/2019\/australia-gets-a-new-phone-choice-in-vivo\/\">Vivo has only had a handful of phones in Australia<\/a>, including <a href=\"https:\/\/www.pickr.com.au\/phones\/2019\/vivo-s1-vivo-1907\/\">last year's Vivo S1<\/a>, but a new model is heading to our little spot of the world, providing another option for 5G phones locally, and it'll arrive with someone no other phone has: a gimbal for its camera setup.\r\n\r\n<a href=\"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2020\/08\/vivo-x50-pro-5g-2020-06.jpg\"><img src=\"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2020\/08\/vivo-x50-pro-5g-2020-06.jpg\" alt=\"\" width=\"1600\" height=\"540\" class=\"aligncenter size-full wp-image-37476\" \/><\/a>\r\n\r\nThe phone is the <a href=\"https:\/\/www.pickr.com.au\/track\/vivo-x50-pro\/\">Vivo X50 Pro<\/a>, a name which will beg the question \"is there an X50 standard?\" -- no, but there is an X50 Lite launching in Australia -- and it'll be a phone sporting Android, a 6.56 inch Full HD+ AMOLED screen, and 256GB storage for just under a grand, what is becoming one of the new starting prices for 5G phones locally. \r\n\r\nWhile Vivo's addition joins the whole \"entry level\" 5G world locally, it's also attempting to differ from the rest of the crowd with its camera system. There's a 48 megapixel camera here alongside a 13 megapixel portrait camera, 8 megapixel ultra-wide and 8 megapixel 5x telephoto camera, but what makes this whole thing stand out a little more is the inclusion of a gimbal, also known as a camera stabilisation gadget. \r\n\r\nGimbals are typically used to stabilise cameras as they move, holding a camera in place along specific axes, and that's largely what the technology is being used for in the Vivo X50 Pro, holding a camera in place for images and video. It'll reportedly show up on-screen with an animated ball displaying the gimbal movement, giving you an idea of what the system is doing to keep the imagery stable, something we've not seen on a phone prior. \r\n\r\n[gallery link=\"file\" size=\"large\" ids=\"37481,37480,37479\"]\r\n\r\n\"With stable shooting capabilities, outstanding lenses and sensors, and an overall advanced camera system, the X50 Pro allow users to capture all of life's stories with professional quality,\" said Fred Liu, Managing Director of Vivo in Australia. \r\n\r\n\"This is the first X series device to be launched globally and we are excited to share the best of our innovative technology and design with people around the world, and now right here in Australia,\" he said. \r\n\r\nWhile we're not sure we'd call the phone \"professional quality\", at least until we see it for ourselves, Vivo's addition to the phone world does deliver something else, making it a little different in the market. \r\n\r\nHowever it's one phone you won't find available with a telco, with the Vivo X50 Pro snagging an outright price only, fetching $999 in Australia when it launches on August 20. The phone is available from the likes of Big W, JB HiFi, Officeworks, and Mobileciti, with pre-orders snagging a Fitbit Versa 2. \r\n\r\n<a href=\"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2020\/08\/vivo-x50-pro-5g-2020-07.jpg\"><img src=\"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2020\/08\/vivo-x50-pro-5g-2020-07.jpg\" alt=\"\" width=\"1600\" height=\"986\" class=\"aligncenter size-full wp-image-37475\" \/><\/a>","author":{"@type":"Person","name":"Leigh :) Stark","url":"https:\/\/www.pickr.com.au\/author\/leigh\/","sameAs":["http:\/\/facebook.com\/leighlo","leighlo","https:\/\/plus.google.com\/u\/0\/+LeighStark","https:\/\/www.linkedin.com\/in\/leighlo?trk=nav_responsive_tab_profile"]},"articleSection":["Google Android","News","Phones"],"image":{"@type":"ImageObject","url":"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2020\/08\/vivo-x50-pro-5g-2020-05.jpg","width":1600,"height":981},"publisher":{"@type":"Organization","name":"Pickr.com.au","url":"https:\/\/www.pickr.com.au","logo":{"@type":"ImageObject","url":"https:\/\/www.pickr.com.au\/wp-content\/uploads\/2019\/12\/pickr-xmas-black-point5x.png"},"sameAs":["https:\/\/www.facebook.com\/pickrau","https:\/\/www.instagram.com\/pickrau\/","https:\/\/twitter.com\/pickrau","https:\/\/www.linkedin.com\/company\/17899558\/admin\/"]}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"hentry","entry-title":"Vivo takes on 5G in Australia with X50 Pro","published":"2020-08-09 15:49:24","updated":"2020-08-09 05:49:24"}</script>
+<script>
+</script><script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(e.data.counter,(function(e,n){o[n].length&&t.forEach(o[n],(function(n,o){t.setText(n,e)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script><!--noptimize--><script>window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var i=0,length=advanced_ads_ready_queue.length;i<length;i++)advanced_ads_ready(advanced_ads_ready_queue[i]);</script><!--/noptimize--><noscript></noscript>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://cdn.pickr.com.au/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script></body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1633676279 -->

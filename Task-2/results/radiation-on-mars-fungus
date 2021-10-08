@@ -1,0 +1,1121 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({'authors':'Stephen Johnson','tags':'astronauts,biotech,fungus,nasa,space,sun','section':'Hard Science','publishDate':'08/03/2020','type':'article'});
+</script>
+        <!-- Google Optimize -->
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-M4H3VNC"></script>
+<!-- End Google Optimize -->
+            <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZ6VMC5');</script>
+<!-- End Google Tag Manager -->
+		
+	<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v16.7) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Chernobyl fungus could shield astronauts from cosmic radiation - Big Think</title>
+	<link rel="canonical" href="https://bigthink.com/hard-science/radiation-on-mars-fungus/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Chernobyl fungus could shield astronauts from cosmic radiation" />
+	<meta property="og:description" content="A recent study tested how well the fungi species Cladosporium sphaerospermum blocked cosmic radiation aboard the International Space Station." />
+	<meta property="og:url" content="https://bigthink.com/hard-science/radiation-on-mars-fungus/" />
+	<meta property="og:site_name" content="Big Think" />
+	<meta property="article:publisher" content="https://www.facebook.com/BigThinkdotcom/" />
+	<meta property="article:modified_time" content="2021-09-30T20:06:16+00:00" />
+	<meta property="og:image" content="https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg" />
+	<meta property="og:image:width" content="1485" />
+	<meta property="og:image:height" content="1198" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@bigthink" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="18 minutes" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bigthink.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0' href='https://bigthink.com/wp-content/themes/bigthink/build/css/bigthink.css?m=1633639063g' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-css'  href='https://use.typekit.net/oms5dcs.css?ver=0.0.1' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://bigthink.com/wp-content/mu-plugins/jetpack-10.2/css/jetpack.css?m=1633567272g' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://bigthink.com/wp-json/" /><link rel="alternate" type="application/json" href="https://bigthink.com/wp-json/wp/v2/ftm_article/39662" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bigthink.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bigthink.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://bigthink.com/?p=39662' />
+<link rel="alternate" type="application/json+oembed" href="https://bigthink.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbigthink.com%2Fhard-science%2Fradiation-on-mars-fungus" />
+<link rel="alternate" type="text/xml+oembed" href="https://bigthink.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbigthink.com%2Fhard-science%2Fradiation-on-mars-fungus&#038;format=xml" />
+			<meta property="fb:pages" content="46126453526" />
+							<meta property="ia:markup_url" content="https://bigthink.com/hard-science/radiation-on-mars-fungus?ia_markup=1" />
+				<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "NewsMediaOrganization",
+    "name": "Big Think",
+    "id": "https://www.bigthink.com/#publisher",
+    "url": "https://www.bigthink.com/",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.bigthink.com/wp-content/themes/bigthink/build/assets/img/bt-logo-black.svg"
+    },
+    "masthead": "https://www.bigthink.com/about",
+    "sameAs": [
+        "https://plus.google.com/+bigthink",
+        "https://www.pinterest.com/bigthink/",
+        "https://www.instagram.com/bigthinkers/",
+        "https://www.facebook.com/BigThinkdotcom/",
+        "https://www.linkedin.com/company/big-think/",
+        "https://twitter.com/bigthink",
+        "https://www.youtube.com/user/bigthink"
+    ],
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://bigthink.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}</script><script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Chernobyl fungus could shield astronauts from cosmic radiation",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://bigthink.com/hard-science/radiation-on-mars-fungus"
+    },
+    "datePublished": "2020-08-03T15:54:05-04:00",
+    "dateModified": "2021-09-30T16:06:16-04:00",
+    "wordcount": 505,
+    "sourceOrganization": {
+        "@id": "https://www.bigthink.com/#publisher",
+        "name": "Big Think",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.bigthink.com/wp-content/themes/bigthink/build/assets/img/bt-logo-black.svg"
+        }
+    },
+    "copyrightHolder": {
+        "@id": "https://www.bigthink.com/#publisher",
+        "name": "Big Think",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.bigthink.com/wp-content/themes/bigthink/build/assets/img/bt-logo-black.svg"
+        }
+    },
+    "publisher": {
+        "@id": "https://www.bigthink.com/#publisher",
+        "name": "Big Think",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.bigthink.com/wp-content/themes/bigthink/build/assets/img/bt-logo-black.svg"
+        }
+    },
+    "copyrightYear": "2020",
+    "description": "A recent study tested how well the fungi species Cladosporium sphaerospermum blocked cosmic radiation aboard the International Space Station.",
+    "author": {
+        "@type": "Person",
+        "name": "Stephen Johnson"
+    },
+    "articleSection": [
+        "astronauts",
+        "biotech",
+        "fungus",
+        "nasa",
+        "space",
+        "sun",
+        "Hard Science"
+    ],
+    "thumbnailUrl": "https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?w=640"
+}</script><style type='text/css'>img#wpstats{display:none}</style>
+		<meta property="fb:app_id" content="234944721980350" /><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://bigthink.com/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://bigthink.com/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bigthink.com/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1.png?w=180" />
+<meta name="msapplication-TileImage" content="https://bigthink.com/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1.png?w=270" />
+    <link href="/feed/all" rel="alternate" title="RSS Feed for Big Think" type="application/rss+xml">
+    <script src='https://cdn.jwplayer.com/libraries/FvQKszTI.js'></script>
+</head>
+
+<body class="flex flex-col min-h-screen ftm_article-template-default single single-ftm_article postid-39662 text-black-90">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ6VMC5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		    <div id="fb-root"></div>
+    <div id="page" class="container mx-auto container-padding max-w-screen-2xl">
+        <a class="sr-only" href="#primary">Skip to content</a>
+        <header class="relative flex items-center sm:mb-20 h-20 z-[99]                     " x-data="{nav_open: false, search_open: false}" :class="nav_open && 'dark bg-black container-padding container-cover'">
+            <nav class="relative flex flex-row items-center w-1/2 sm:w-1/3">
+                <button class="w-[22px]" aria-controls="primary-menu" :aria-expanded="nav_open" @click="nav_open = ! nav_open">
+                    <span class="text-black-90 dark:text-white-60 w-[22px]" x-show="! nav_open">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18" stroke="currentColor">
+  <path d="M0.613281 1H21.7898" stroke-width="2" stroke-miterlimit="10"></path>
+  <path d="M0.613281 9H16.6133" stroke-width="2" stroke-miterlimit="10"></path>
+  <path d="M0.613281 17H21.7898" stroke-width="2" stroke-miterlimit="10"></path>
+</svg>
+                    </span>
+                    <span class="hidden text-black-90 dark:text-white-90 w-[22px]" :class="{'hidden': !nav_open}" x-show="nav_open" x-cloak>
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <line x1="1.08832" y1="15.329" x2="14.9027" y2="1.51471" stroke-width="1.5" stroke="currentColor"></line>
+  <line x1="1.20123" y1="1.51654" x2="15.0156" y2="15.3309" stroke-width="1.5" stroke="currentColor"></line>
+</svg>
+                    </span>
+                    <span class="sr-only">Open the Main Navigation</span>
+                </button>
+                <button class="ml-5 w-[18px]" @click="search_open = ! search_open">
+                    <span class="text-black-90 dark:text-white-60">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" width="20.45" height="20.8" viewBox="0 0 20.45 20.8">
+  <circle cx="7.64" cy="7.64" r="6.89" fill="none" stroke="currentColor" stroke-width="1.5"></circle>
+  <line x1="12.22" y1="12.58" x2="19.92" y2="20.27" fill="none" stroke="currentColor" stroke-width="1.5"></line>
+</svg>
+                    </span>
+                    <span class="sr-only">Search</span>
+                </button>
+                <form role="search" method="get" class="absolute left-[70px] hidden" action="/" :class="{'inline': search_open, 'hidden': !search_open}" x-data x-show="search_open" x-cloak @click.outside="if (search_open) search_open = false">
+                    <span class="sr-only">Search for:</span>
+                    <input type="search" placeholder="SEARCH" value="" name="s" class="border-0 font-utility-subnav-cta dark:bg-black dark:text-white-90" />
+                </form>
+            </nav>
+            <div class="absolute hidden w-full inset-x-0 top-20 z-50 bg-black text-white-90 px-5 pt-5 pb-10 sm:py-12 lg:py-16 md:px-7.5 lg:px-10" :class="{'bigthink-grid': nav_open, 'hidden': !nav_open}" x-show="nav_open" x-cloak>
+                <div class="grid grid-cols-4 col-span-full lg:col-span-8 md:grid-cols-8">
+                                                <div class="mb-8 col-span-full md:col-span-2">
+                                <div class="mb-4 font-headline-small">
+                                    Video                                </div>
+                                <ul class="font-utility-subtitle-small">
+                                    <li><a href="/series/the-big-think-interview/">The Big Think Interview</a></li><li><a href="/series/your-brain-on-money/">Your Brain on Money</a></li><li><a href="/playlists">Playlists</a></li><li><a href="https://bigthink.com/video-library/">Explore the Library</a></li>                                </ul>
+                            </div>
+                                                        <div class="mb-8 col-span-full md:col-span-2">
+                                <div class="mb-4 font-headline-small">
+                                    Big Questions                                </div>
+                                <ul class="font-utility-subtitle-small">
+                                    <li><a href="/questions/will-true-ai-turn-against-us/">Will true AI turn against us?</a></li><li><a href="/questions/do-we-have-free-will/">Do we have free will?</a></li><li><a href="/questions/why-are-there-conspiracy-theories/">Why are there conspiracy theories?</a></li><li><a href="/questions/is-religion-helping-or-hurting-us/">Is religion helping or hurting us?</a></li><li><a href="/questions/are-we-alone-in-the-universe/">Are we alone in the universe?</a></li><li><a href="/questions/should-we-trust-science/">Should we trust science?</a></li>                                </ul>
+                            </div>
+                                                        <div class="mb-8 col-span-full md:col-span-2">
+                                <div class="mb-4 font-headline-small">
+                                    Big Thinkers                                </div>
+                                <ul class="font-utility-subtitle-small">
+                                    <li><a href="/people/michiokaku/">Michio Kaku</a></li><li><a href="https://bigthink.com/people/neildegrassetyson/">Neil deGrasse Tyson</a></li><li><a href="/people/michelle-thaller/">Michelle Thaller</a></li><li><a href="/people/zenahitz/">Zena Hitz</a></li><li><a href="/people/stevenpinker/">Steven Pinker</a></li><li><a href="/people/paulbloom/">Paul Bloom</a></li><li><a href="/people/RayKurzweil/">Ray Kurzweil</a></li><li><a href="/people/CornelWest/">Cornel West</a></li><li><a href="/people/HelenFisher/">Helen Fisher</a></li>                                </ul>
+                            </div>
+                                                        <div class="mb-8 col-span-full md:col-span-2">
+                                <div class="mb-4 font-headline-small">
+                                    Sections                                </div>
+                                <ul class="font-utility-subtitle-small">
+                                    <li><a href="/neuropsych/">Neuropsych</a></li><li><a href="/thinking/">Thinking</a></li><li><a href="/leadership/">Leadership</a></li><li><a href="/smart-skills/">Smart Skills</a></li><li><a href="/high-culture/">High Culture</a></li><li><a href="/the-past/">The Past</a></li><li><a href="/the-present/">The Present</a></li><li><a href="/the-future/">The Future</a></li><li><a href="/life/">Life</a></li><li><a href="/health/">Health</a></li><li><a href="/hard-science/">Hard Science</a></li>                                </ul>
+                            </div>
+                                                        <div class="mb-8 col-span-full md:col-span-2">
+                                <div class="mb-4 font-headline-small">
+                                    Columns                                </div>
+                                <ul class="font-utility-subtitle-small">
+                                    <li><a href="/13-8/">13.8</a></li><li><a href="/strange-maps/">Strange Maps</a></li>                                </ul>
+                            </div>
+                                            </div>
+                <div class="flex flex-col col-span-full lg:col-span-2 sm:flex-row lg:flex-col bigthink-gutters">
+                    <div class="flex flex-col w-full gap-4 sm:w-1/2 lg:w-full">
+                        <div class="w-1/2"><?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 55" fill="none">
+  <g opacity="1" clip-path="url(#clip0)">
+    <g opacity="1" clip-path="url(#clip1)">
+      <path d="M223.626 13.7969H217.239L210.854 24.8737L206.538 24.8869V13.7969L200.621 13.7974V41.5143H206.538V41.5139V30.5291H210.921L217.239 41.5139H223.626L215.368 27.6553L223.626 13.7969Z" fill="currentColor"></path>
+      <path d="M110.813 41.5143H116.73V19.332H125.946V13.7969H101.598V19.332H110.813V41.5143Z" fill="currentColor"></path>
+      <path d="M135.435 30.4233H147.61V41.5143H153.527V13.7974V13.7969L147.61 13.7974V24.888H135.435V13.7974L129.52 13.7969V41.5143H135.435V30.4233Z" fill="currentColor"></path>
+      <path d="M164.67 13.7969H158.754V41.5137H164.584L164.67 13.7969Z" fill="currentColor"></path>
+      <path d="M175.813 41.5143V21.9332H176.584L187.802 41.5143H195.564V13.7974H195.396V13.7969H189.655V13.7974H189.649V33.3781H188.865L177.647 13.7969L169.896 13.7974V41.5143H175.812H175.813Z" fill="currentColor"></path>
+      <rect x="101.598" y="49.082" width="122.029" height="5.53524" fill="currentColor"></rect>
+      <path d="M62.2144 41.8703C67.8446 41.8703 70.1901 38.8575 71.1641 36.8545H71.9302V41.5158H76.6172V24.8903H62.1769V30.4254H70.5282C70.4598 31.4977 70.0337 32.6232 69.6124 33.2356C68.6276 34.6655 66.2432 36.3352 62.7629 36.3352C57.6756 36.3352 54.2256 32.6427 54.2256 27.7462C54.2256 22.8307 57.8079 18.9807 62.874 18.9807C65.6533 18.9807 68.1865 20.5117 69.2112 21.5408L69.4263 21.7569L73.2212 17.6614L73.024 17.4626C70.5327 14.9467 66.7519 13.4453 62.9106 13.4453C54.4246 13.4453 48.0254 19.2185 48.0254 27.6752C48.0254 36.2982 54.5232 41.8703 62.2144 41.8703L62.2144 41.8703Z" fill="currentColor"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M35.9608 34.1073C35.9608 28.9291 29.8314 27.8976 28.0961 27.8976V26.885C30.7358 26.885 35.2081 26.0169 35.2081 20.9234C35.2081 16.5275 31.7139 13.7969 26.0898 13.7969H13.6328V41.5132H25.5044C32.247 41.5132 35.9608 39.1322 35.9608 34.1073H35.9608ZM19.5493 19.2158H25.1019C27.9313 19.2158 29.3066 20.1434 29.3066 22.0519C29.3066 23.6804 27.8134 24.8178 25.6754 24.8178H19.5493L19.5493 19.2158ZM19.6052 35.8331V30.5284H25.4844C28.2565 30.5284 29.9784 31.4748 29.9784 32.9973C29.9784 34.9058 28.5068 35.8331 25.4799 35.8331H19.6052Z" fill="currentColor"></path>
+      <path d="M39.2353 41.5387H44.9781V41.5137H45.0653V13.7969H39.1484V41.5137H39.2353V41.5387Z" fill="currentColor"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M0.179688 0.695312V54.6178H90.0495H90.0598V0.695312H90.0495H0.179688ZM84.5244 49.0825H5.71521V6.23077H84.5244V49.0825Z" fill="currentColor"></path>
+    </g>
+    <g clip-path="url(#clip2)">
+      <rect x="229.547" y="24.7344" width="26.6316" height="5.84597" fill="currentColor"></rect>
+      <rect x="245.562" y="14.4219" width="26.4724" height="5.39845" transform="rotate(90 245.562 14.4219)" fill="currentColor"></rect>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="256" height="53.9225" fill="white" transform="translate(0.179688 0.695312)"></rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect width="223.446" height="53.9225" fill="white" transform="translate(0.179688 0.695312)"></rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect width="26.6316" height="26.4724" fill="white" transform="translate(229.547 14.4219)"></rect>
+    </clipPath>
+  </defs>
+</svg>
+</div>
+                        <div class="font-utility-subtitle-small">
+                            <span class="font-bold">Get Big Think for Your Business.</span>
+                            Enable transformation and drive culture at your company with lessons from the biggest thinkers in the world.
+                        </div>
+                        <a class="block uppercase font-utility-button" href="https://www.bigthinkedge.com/">
+                            Learn More &rarr;
+                        </a>
+                    </div>
+                    <div class="flex flex-col w-full gap-4 sm:w-1/2 lg:w-full">
+                        <div class="font-headline-small">Follow Us</div>
+                        <div class="flex flex-row flex-nowrap gap-x-4">
+                            <a class="pt-[3px]" href="https://www.youtube.com/user/bigthink">
+                                <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="14" viewBox="0 0 19 14">
+  <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.3445 3.03547C18.3445 3.03547 18.1595 1.73634 17.6217 1.16998C16.9385 0.427594 16.1665 0.417984 15.825 0.368824C13.305 0.183594 9.52515 0.183594 9.52515 0.183594H9.50525C9.50525 0.183594 5.73578 0.183594 3.21515 0.368824C2.85425 0.417984 2.09229 0.427604 1.40869 1.16998C0.87115 1.73634 0.68628 3.03547 0.68628 3.03547C0.68628 3.03547 0.5 4.55901 0.5 6.06298V6.25855V7.49891C0.5 9.02245 0.68628 10.5268 0.68628 10.5268C0.68628 10.5268 0.87116 11.8259 1.40869 12.4019C2.09228 13.1539 2.99145 13.1247 3.40143 13.2027C4.83704 13.3495 9.52515 13.3983 9.52515 13.3983C9.52515 13.3983 13.3051 13.3787 15.825 13.2027C16.1665 13.1539 16.9385 13.1539 17.6217 12.4019C18.1595 11.8259 18.3445 10.5268 18.3445 10.5268C18.3445 10.5268 18.5201 9.02245 18.5201 7.49891V6.33656V6.06299C18.5201 4.55902 18.3445 3.03548 18.3445 3.03548V3.03547ZM12.5234 6.59092L7.64966 9.21766V5.17422V3.94384L9.85718 5.14536L12.5234 6.59092Z"></path>
+</svg>
+                            </a>
+                            <a class="mt-[-2px]" href="https://www.facebook.com/BigThinkdotcom/">
+                                <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6836 20.1016H4.51544C2.0748 20.1016 0.0986328 18.1237 0.0986328 15.6865V4.51837C0.0986328 2.07773 2.0748 0.101562 4.5137 0.101562H15.6818C18.1207 0.101562 20.0969 2.07773 20.0969 4.51663V15.6848C20.0986 18.1237 18.1207 20.1016 15.6836 20.1016Z" fill="none"></path>
+  <path d="M14.0926 6.64214L15.6808 6.68389V3.7927L13.3271 3.71094C11.1144 3.71094 9.32261 5.50445 9.32261 7.71546V10.2761H6.59668V13.3726H9.32261V20.103H12.7496V13.3726H15.185L15.6808 10.2761H12.7479V7.9851C12.7479 7.24403 13.3497 6.64214 14.0926 6.64214Z" fill="currentColor"></path>
+</svg>
+                            </a>
+                            <a href="https://www.instagram.com/bigthinkers/">
+                                    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6815 20.1016H4.51386C2.07453 20.1016 0.0976562 18.1247 0.0976562 15.6854V4.51777C0.0976562 2.07844 2.07453 0.101562 4.51386 0.101562H15.6832C18.1225 0.101562 20.0994 2.07844 20.0994 4.51777V15.6871C20.0977 18.1247 18.1208 20.1016 15.6815 20.1016Z" fill="none"></path>
+  <path d="M12.9928 16.9599H7.20341C5.01649 16.9599 3.2373 15.1807 3.2373 12.9938V7.20439C3.2373 5.01747 5.01649 3.23828 7.20341 3.23828H12.9928C15.1798 3.23828 16.959 5.01747 16.959 7.20439V12.9938C16.9572 15.1825 15.1798 16.9599 12.9928 16.9599ZM7.20165 4.62033C5.77547 4.62033 4.61582 5.77998 4.61582 7.20616V12.9956C4.61582 14.4218 5.77547 15.5814 7.20165 15.5814H12.9911C14.4173 15.5814 15.5769 14.4218 15.5769 12.9956V7.20616C15.5769 5.77998 14.4173 4.62033 12.9911 4.62033H7.20165Z" fill="currentColor"></path>
+  <path d="M10.0977 13.5745C8.18258 13.5745 6.62402 12.0159 6.62402 10.1026C6.62402 8.18746 8.18258 6.62891 10.0977 6.62891C12.0128 6.62891 13.5696 8.18746 13.5696 10.1026C13.5696 12.0159 12.011 13.5745 10.0977 13.5745ZM10.0977 7.78326C8.81801 7.78326 7.77838 8.82289 7.77838 10.1026C7.77838 11.3822 8.81801 12.4219 10.0977 12.4219C11.3774 12.4219 12.417 11.3822 12.417 10.1026C12.4152 8.82289 11.3756 7.78326 10.0977 7.78326Z" fill="currentColor"></path>
+  <path d="M14.4475 6.4547C14.4475 6.90126 14.0856 7.26487 13.6373 7.26487C13.1908 7.26487 12.8271 6.90303 12.8271 6.4547C12.8271 6.00637 13.189 5.64453 13.6373 5.64453C14.0856 5.6463 14.4475 6.00814 14.4475 6.4547Z" fill="currentColor"></path>
+</svg>
+                                </a>
+                                <a href="https://twitter.com/bigthink">
+                                    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6826 20.1016H4.51446C2.07382 20.1016 0.0976562 18.1237 0.0976562 15.6865V4.51837C0.0976562 2.07773 2.07382 0.101562 4.51272 0.101562H15.6809C18.1197 0.101562 20.0959 2.07773 20.0959 4.51663V15.6848C20.0977 18.1237 18.1197 20.1016 15.6826 20.1016Z" fill="none"></path>
+  <path d="M9.93527 8.30262C6.6144 8.21912 4.36686 5.5071 4.36686 5.5071C4.36686 5.5071 3.22221 7.68159 5.17577 9.08543C5.17577 9.08543 4.63476 9.1324 4.03286 8.78622C4.03286 8.78622 3.79976 10.8041 6.09949 11.4443C6.09949 11.4443 5.9464 11.613 4.97571 11.533C4.97571 11.533 5.45062 13.3161 7.43723 13.3718C7.43723 13.3718 6.21604 14.6886 3.55273 14.546C3.55273 14.546 7.77645 17.4059 12.2576 14.292C13.778 13.2343 15.5872 10.331 15.3367 7.67115C15.3367 7.67115 16.156 7.14579 16.6448 6.28992C16.6448 6.28992 16.2934 6.4343 15.9264 6.53868C15.6237 6.62566 15.3123 6.67437 15.1836 6.67785C15.1836 6.67785 16.1873 5.98375 16.2969 5.20616C16.2969 5.20616 15.201 5.80109 14.6287 5.84458L14.6095 5.84632C14.1138 5.32097 13.411 4.99219 12.6299 4.99219C11.1269 4.99219 9.90918 6.2099 9.90918 7.7129C9.90918 7.91469 9.93179 8.11126 9.97354 8.30088L9.93527 8.30262Z" fill="currentColor"></path>
+</svg>
+                                </a>
+                                <a href="https://www.linkedin.com/company/thebigthink/">
+                                    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.7251 20.1016H4.46999C2.05371 20.1016 0.0966797 18.1445 0.0966797 15.73V4.47488C0.0966797 2.05859 2.05371 0.101562 4.46999 0.101562H15.7251C18.1396 0.101562 20.0984 2.05859 20.0984 4.47488V15.73C20.0967 18.1445 18.1396 20.1016 15.7251 20.1016Z" fill="none"></path>
+  <path d="M6.00274 7.57422H3.00195V17.0845H6.00274V7.57422Z" fill="currentColor"></path>
+  <path d="M4.52547 6.23258C5.47853 6.23258 6.25114 5.45998 6.25114 4.50692C6.25114 3.55386 5.47853 2.78125 4.52547 2.78125C3.57241 2.78125 2.7998 3.55386 2.7998 4.50692C2.7998 5.45998 3.57241 6.23258 4.52547 6.23258Z" fill="currentColor"></path>
+  <path d="M13.7377 7.28906C11.4171 7.28906 10.7561 8.87383 10.7561 8.87383V7.57262H7.87012V17.0829H10.8709V12.1008C10.8709 11.4223 11.0779 9.89322 12.6261 9.89322C14.1744 9.89322 14.1726 11.685 14.1726 11.685V17.0812H17.1351C17.1351 17.0812 17.1351 14.1187 17.1351 11.4397C17.1334 8.76075 16.0583 7.28906 13.7377 7.28906Z" fill="currentColor"></path>
+</svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <a class="justify-center hidden w-1/3 sm:flex" href="/">
+                    <span class="stroke-0 path-fill-current text-black-90 dark:text-white-90">
+                        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="35" viewBox="0 0 142 35" fill="none">
+  <path d="M142 8.32935H137.939L133.884 15.377L131.138 15.3841V8.32935H127.381V25.9592H131.138V18.9682H133.926L137.939 25.9592H142L136.75 17.1407L142 8.32935Z"></path>
+  <path d="M70.3106 25.9662H74.0681V11.8567H79.9273V8.33643H64.4585V11.8567H70.3177L70.3106 25.9662Z"></path>
+  <path d="M85.9562 18.9115H93.6906V25.9662H97.4481V8.33643H93.6906V15.3912H85.9562V8.33643H82.1987V25.9662H85.9562V18.9115Z"></path>
+  <path d="M104.538 8.32935H100.781V25.9592H104.489L104.538 8.32935Z"></path>
+  <path d="M111.614 25.9662V13.5142H112.103L119.229 25.9733H124.161V8.34352H120.403V20.7956H119.908L112.782 8.33643H107.857V25.9662H111.614Z"></path>
+  <path d="M142 30.7758H64.4512V34.296H142V30.7758Z"></path>
+  <path d="M39.4297 26.1859C43.0103 26.1859 44.4963 24.2664 45.119 22.9985H45.6073V25.9663H48.5864V15.3842H39.4084V18.9045H44.7157C44.6732 19.542 44.468 20.1511 44.1354 20.6894C42.1611 23.0339 38.6654 23.3314 36.3303 21.3552C35.1061 20.3211 34.3843 18.8053 34.3631 17.1975C34.264 14.2155 36.5992 11.7222 39.5712 11.6231C39.6632 11.6231 39.7623 11.616 39.8542 11.6231C41.3473 11.6656 42.7768 12.2393 43.8807 13.2522L44.0151 13.3868L46.4281 10.7802L46.3008 10.6527C44.5741 8.99524 42.2673 8.07445 39.8755 8.0957C34.4833 8.0957 30.4145 11.7647 30.4145 17.1479C30.2729 21.9927 34.08 26.0372 38.9202 26.1788C39.0829 26.193 39.2528 26.193 39.4297 26.1859Z"></path>
+  <path d="M22.7436 21.2489C22.7436 17.9553 18.8517 17.2965 17.7478 17.2965V16.652C19.4248 16.652 22.2695 16.0995 22.2695 12.8625C22.2695 10.0647 20.0476 8.32935 16.474 8.32935H8.55566V25.9592H16.099C20.3801 25.9592 22.7436 24.4505 22.7436 21.2489ZM12.3132 11.7788H15.8442C17.6416 11.7788 18.5191 12.3667 18.5191 13.585C18.5191 14.6191 17.5709 15.3416 16.2122 15.3416H12.3202V11.7788H12.3132ZM12.3485 22.3539V18.9823H16.0848C17.8468 18.9823 18.9437 19.5844 18.9437 20.5548C18.9437 21.766 18.0096 22.3609 16.0848 22.3609H12.3485V22.3539Z"></path>
+  <path d="M24.824 25.9804H28.4753V25.9662H28.5319V8.33643H24.7744V25.9662H24.831L24.824 25.9804Z"></path>
+  <path d="M0 0V34.3034H57.1199V0H0ZM53.603 30.776H3.51692V3.5132H53.603V30.776Z"></path>
+</svg>
+                    </span>
+                </a>
+
+                            <nav class="justify-end hidden sm:w-1/3 sm:flex md:space-x-5 lg:space-x-8">
+                    <a class="hidden font-utility-subnav-cta text-black-90 dark:text-white-60 md:inline" href="https://bigthink.com/video-library/">Videos</a><a class="font-utility-subnav-cta text-black-90 dark:text-white-60 md:inline" href="https://bigthink.com/subscribe/">Subscribe</a>                </nav>
+                
+            <a class="w-1/2 sm:hidden" href="/">
+                <span class="float-right stroke-0 text-black-90 dark:text-white-90">
+                    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="32" viewBox="0 0 53 32">
+  <g clip-path="url(#clip0)">
+    <path d="M22.3512 19.8293C22.3512 16.7563 18.7353 16.1444 17.7122 16.1444V15.5437C19.2692 15.5437 21.9073 15.0283 21.9073 12.0055C21.9073 9.39702 19.8462 7.776 16.5293 7.776H9.18164V24.2241H16.1843C20.1607 24.2241 22.3512 22.811 22.3512 19.8293ZM12.6711 10.9919H15.9463C17.6156 10.9919 18.4268 11.5424 18.4268 12.675C18.4268 13.6414 17.5457 14.3162 16.2846 14.3162H12.6711V10.9919ZM12.7038 20.8534V17.7056H16.1716C17.8067 17.7056 18.8223 18.2674 18.8223 19.171C18.8223 20.3036 17.9546 20.8541 16.1686 20.8541H12.7038V20.8534Z" fill="currentColor"></path>
+    <path d="M31.801 0H0V32H31.807V0H31.801ZM28.5421 28.7153H3.26487V3.28468H28.5414V28.7153H28.5421Z" fill="currentColor"></path>
+    <path d="M44.0649 24.2241H47.5543V11.0607H52.9903V7.776H38.6289V11.0607H44.0649V24.2241Z" fill="currentColor"></path>
+    <path d="M53.0006 28.7146H38.6191V31.9843H53.0006V28.7146Z" fill="currentColor"></path>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="53" height="32"></rect>
+    </clipPath>
+  </defs>
+</svg>
+                </span>
+            </a>
+        </header><!-- #masthead -->
+
+<main class="pb-20">
+    
+        
+        <article id="post-39662" class="grid clear-both grid-cols-4 md:grid-cols-8 lg:grid-cols-10">
+            <header class="col-span-full">
+                <span class="absolute uppercase font-emphasis-eyebrow"><a href="https://bigthink.com/hard-science">Hard Science</a> &mdash; <time class="entry-date published" datetime="2020-08-03T15:54:05-04:00">August 3, 2020</time></span>                <h1 class="pt-4 mb-4 font-headline-medium sm:font-headline-large lg:font-headline-xlarge">Chernobyl fungus could shield astronauts from cosmic radiation</h1>                <div class="mb-8 font-utility-subtitle-medium sm:w-4/5 md:w-2/3">
+                    <p>A recent study tested how well the fungi species Cladosporium sphaerospermum blocked cosmic radiation aboard the International Space Station.</p>                </div>
+            </header><!-- .entry-header -->
+
+                            <figure class="mb-4 col-span-full">
+                    
+        <picture>
+            <source media='(max-width: 374px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=375,210'><source media='(max-width: 639px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=640,360'><source media='(max-width: 767px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=768,432'><source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=1024,576'><source media='(max-width: 1279px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=1280,720'><source media='(min-width: 1280px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=1536,864'><img src='https://bigthink.com/wp-content/uploads/2020/08/origin-118.jpg?lb=1536,864'>        </picture>
+
+                            <figcaption class="mt-2 mb-4 text-right md:w-1/5 md:float-right lg:w-1/4 font-utility-caption text-black-30">
+                        <p><a href="https://commons.wikimedia.org/wiki/File:Cladosporium_sphaerospermum_colony.jpg" target="_blank" rel="noopener">Medmyco</a> / Wikimedia Commons</p>                    </figcaption>
+                    <figcaption class="mt-2 mb-4 text-right md:w-1/2 md:float-left md:text-left lg:w-1/3 font-utility-caption text-black-30"><p>C. sphaerospermum </p></figcaption>
+                </figure>
+            
+                            <div class="clear-both pt-2 mt-4 border-black col-span-full border-t-10 lg:col-span-9 xl:col-span-7">
+                    <div class="mb-5 uppercase font-utility-headline-xsmall-alt">Key Takeaways</div>
+                    <ul class="mb-4 font-body-medium md:font-body-large key-points">
+                                                    <li class="relative inline pl-[24px]">
+                                <span class="bg-black-90 absolute left-0 top-[2px] md:top-[6px] h-[20px] w-[20px] rounded-full"></span>
+                                Radiation is one of the biggest threats to astronauts' safety during long-term missions.                            </li>
+                                                    <li class="relative inline pl-[24px]">
+                                <span class="bg-black-90 absolute left-0 top-[2px] md:top-[6px] h-[20px] w-[20px] rounded-full"></span>
+                                C. sphaerospermum is known to thrive in high-radiation environments through a process called radiosynthesis.                            </li>
+                                                    <li class="relative inline pl-[24px]">
+                                <span class="bg-black-90 absolute left-0 top-[2px] md:top-[6px] h-[20px] w-[20px] rounded-full"></span>
+                                The results of the study suggest that a thin layer of the fungus could serve as an effective shield against cosmic radiation for astronauts.                            </li>
+                                            </ul>
+                </div>
+            
+                            <div class="clear-both col-span-full lg:col-span-9 xl:col-span-7">
+                    <script type="text/javascript" id="remixd-audio-player-script" src="https://tags.remixd.com/player/v5/index.js?cb=%%CACHEBUSTER%%" charset="utf-8" async></script>                </div>
+            
+            <div class="mb-12 col-span-full md:col-span-2 xl:col-start-1 mt-9 md:mt-14 lg:mt-20">
+                <div class="font-byline"><a href="https://bigthink.com/people/stephen-johnson/">Stephen Johnson</a></div>                
+<div class="flex flex-row mt-2 flex-nowrap gap-x-2" x-data="{permalink: 'https://bigthink.com/hard-science/radiation-on-mars-fungus'}">
+    <button class="path-fill-current" @click="$clipboard(permalink)">
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="13.154" height="13.154" viewBox="0 0 13.154 13.154">
+  <g id="Group_11619" data-name="Group 11619" transform="translate(0)">
+    <g id="Group_10890" data-name="Group 10890" transform="translate(4.423 0)">
+      <g id="Group_10889" data-name="Group 10889" transform="translate(0 0)">
+        <path id="Path_10150" data-name="Path 10150" d="M179.987.9a3.083,3.083,0,0,0-4.36,0L173.051,3.48a3.112,3.112,0,0,0,0,4.36,2.934,2.934,0,0,0,.62.47l.47-.47a1.059,1.059,0,0,0,.194-.929,1.486,1.486,0,0,1-.194-.161,1.558,1.558,0,0,1,0-2.18l2.577-2.577a1.542,1.542,0,1,1,2.18,2.18l-1.7,1.7a4.437,4.437,0,0,1,.193,1.983c.007-.007.016-.012.024-.019l2.577-2.577A3.083,3.083,0,0,0,179.987.9Z" transform="translate(-172.159 0)"></path>
+      </g>
+    </g>
+    <g id="Group_10892" data-name="Group 10892" transform="translate(0 4.644)">
+      <g id="Group_10891" data-name="Group 10891">
+        <path id="Path_10151" data-name="Path 10151" d="M8.04,181.246a2.934,2.934,0,0,0-.62-.47l-.47.47a1.059,1.059,0,0,0-.194.929,1.491,1.491,0,0,1,.194.161,1.558,1.558,0,0,1,0,2.18l-2.776,2.776a1.541,1.541,0,0,1-2.18-2.18l1.9-1.9a4.437,4.437,0,0,1-.193-1.983c-.007.007-.016.012-.024.019L.9,184.023a3.083,3.083,0,1,0,4.36,4.36l2.776-2.776A3.11,3.11,0,0,0,8.04,181.246Z" transform="translate(0 -180.776)"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+        <span class="sr-only">Copy a link to the article entitled http://Chernobyl%20fungus%20could%20shield%20astronauts%20from%20cosmic%20radiation</span>
+    </button>
+    <a class="mt-[-2px]" href="https://www.facebook.com/sharer/sharer.php?u=https://bigthink.com/hard-science/radiation-on-mars-fungus" rel="noopener" target="_blank">
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6836 20.1016H4.51544C2.0748 20.1016 0.0986328 18.1237 0.0986328 15.6865V4.51837C0.0986328 2.07773 2.0748 0.101562 4.5137 0.101562H15.6818C18.1207 0.101562 20.0969 2.07773 20.0969 4.51663V15.6848C20.0986 18.1237 18.1207 20.1016 15.6836 20.1016Z" fill="none"></path>
+  <path d="M14.0926 6.64214L15.6808 6.68389V3.7927L13.3271 3.71094C11.1144 3.71094 9.32261 5.50445 9.32261 7.71546V10.2761H6.59668V13.3726H9.32261V20.103H12.7496V13.3726H15.185L15.6808 10.2761H12.7479V7.9851C12.7479 7.24403 13.3497 6.64214 14.0926 6.64214Z" fill="currentColor"></path>
+</svg>
+        <div class="sr-only">
+            Share Chernobyl fungus could shield astronauts from cosmic radiation on Facebook        </div>
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=https://bigthink.com/hard-science/radiation-on-mars-fungus&text=Chernobyl%20fungus%20could%20shield%20astronauts%20from%20cosmic%20radiation" rel="noopener" target="_blank">
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6826 20.1016H4.51446C2.07382 20.1016 0.0976562 18.1237 0.0976562 15.6865V4.51837C0.0976562 2.07773 2.07382 0.101562 4.51272 0.101562H15.6809C18.1197 0.101562 20.0959 2.07773 20.0959 4.51663V15.6848C20.0977 18.1237 18.1197 20.1016 15.6826 20.1016Z" fill="none"></path>
+  <path d="M9.93527 8.30262C6.6144 8.21912 4.36686 5.5071 4.36686 5.5071C4.36686 5.5071 3.22221 7.68159 5.17577 9.08543C5.17577 9.08543 4.63476 9.1324 4.03286 8.78622C4.03286 8.78622 3.79976 10.8041 6.09949 11.4443C6.09949 11.4443 5.9464 11.613 4.97571 11.533C4.97571 11.533 5.45062 13.3161 7.43723 13.3718C7.43723 13.3718 6.21604 14.6886 3.55273 14.546C3.55273 14.546 7.77645 17.4059 12.2576 14.292C13.778 13.2343 15.5872 10.331 15.3367 7.67115C15.3367 7.67115 16.156 7.14579 16.6448 6.28992C16.6448 6.28992 16.2934 6.4343 15.9264 6.53868C15.6237 6.62566 15.3123 6.67437 15.1836 6.67785C15.1836 6.67785 16.1873 5.98375 16.2969 5.20616C16.2969 5.20616 15.201 5.80109 14.6287 5.84458L14.6095 5.84632C14.1138 5.32097 13.411 4.99219 12.6299 4.99219C11.1269 4.99219 9.90918 6.2099 9.90918 7.7129C9.90918 7.91469 9.93179 8.11126 9.97354 8.30088L9.93527 8.30262Z" fill="currentColor"></path>
+</svg>
+        <div class="sr-only">
+            Share Chernobyl fungus could shield astronauts from cosmic radiation on Twitter        </div>
+    </a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://bigthink.com/hard-science/radiation-on-mars-fungus" rel="noopener" target="_blank">
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.7251 20.1016H4.46999C2.05371 20.1016 0.0966797 18.1445 0.0966797 15.73V4.47488C0.0966797 2.05859 2.05371 0.101562 4.46999 0.101562H15.7251C18.1396 0.101562 20.0984 2.05859 20.0984 4.47488V15.73C20.0967 18.1445 18.1396 20.1016 15.7251 20.1016Z" fill="none"></path>
+  <path d="M6.00274 7.57422H3.00195V17.0845H6.00274V7.57422Z" fill="currentColor"></path>
+  <path d="M4.52547 6.23258C5.47853 6.23258 6.25114 5.45998 6.25114 4.50692C6.25114 3.55386 5.47853 2.78125 4.52547 2.78125C3.57241 2.78125 2.7998 3.55386 2.7998 4.50692C2.7998 5.45998 3.57241 6.23258 4.52547 6.23258Z" fill="currentColor"></path>
+  <path d="M13.7377 7.28906C11.4171 7.28906 10.7561 8.87383 10.7561 8.87383V7.57262H7.87012V17.0829H10.8709V12.1008C10.8709 11.4223 11.0779 9.89322 12.6261 9.89322C14.1744 9.89322 14.1726 11.685 14.1726 11.685V17.0812H17.1351C17.1351 17.0812 17.1351 14.1187 17.1351 11.4397C17.1334 8.76075 16.0583 7.28906 13.7377 7.28906Z" fill="currentColor"></path>
+</svg>
+        <div class="sr-only">
+            Share Chernobyl fungus could shield astronauts from cosmic radiation on LinkedIn        </div>
+    </a>
+</div>
+
+                            </div>
+
+            <div class="col-span-full md:col-span-6 xl:col-span-5 md:mt-14 lg:mt-20">
+                <div x-data="{}" x-init="() => {
+                        const captions = $el.querySelectorAll('.media-caption');
+                        for (const caption of captions) {
+                            const parent = caption.parentNode;
+                            if (parent.tagName.toLowerCase() !== 'p') {
+                                const newPara = document.createElement('p');
+                                const sibling = caption.nextSibling;
+                                newPara.appendChild(caption);
+                                if (sibling) {
+                                    parent.insertBefore(newPara, sibling);
+                                } else {
+                                    parent.appendChild(newPara);
+                                }
+                            }
+                        }
+                    }" class="mb-8 prose with-dropcap">
+                    <h2></h2>
+<p>When astronauts return to the moon or travel to Mars, how will they shield themselves against high levels of cosmic radiation? A recent experiment aboard the International Space Station suggests a surprising solution: a radiation-eating fungus, which could be used as a self-replicating shield against gamma radiation in space.</p>
+<p>The fungus is called <em>Cladosporium sphaerospermum</em>, an extremophile species that thrives in high-radiation areas like the Chernobyl Nuclear Power Plant. For <em>C. sphaerospermum</em>, radiation isn&#8217;t a threat — it&#8217;s food. That&#8217;s because the fungus is able to convert gamma radiation into chemical energy through a process called radiosynthesis. (Think of it like photosynthesis, but swap out sunlight for radiation.)</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Radiotrophic_fungus#:~:text=Radiotrophic%20fungi%20are%20fungi%20which,into%20chemical%20energy%20for%20growth." target="_blank" rel="noopener">radiotrophic fungus</a> performs radiosynthesis by using melanin — the same pigment that gives color to our skin, hair and eyes — to convert X- and gamma rays into chemical energy. Scientists don&#8217;t fully understand this process yet. But the study notes that it&#8217;s &#8220;believed that large amounts of melanin in the cell walls of these fungi mediate electron-transfer and thus allow for a net energy gain.&#8221;</p>
+<h2></h2>
+<div class='flex justify-center mb-4'>
+    <img
+        src="https://bigthink.com/wp-content/uploads/2020/08/23530652.png?w=335"
+        loading="lazy"
+        sizes="(min-width: 1280px) 1200w, (min-width: 1024px) 944w, (min-width: 768px) 708w, calc(100vw - 40px)"
+        srcset="
+            https://bigthink.com/wp-content/uploads/2020/08/23530652.png?fit=1200,675 1200w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530652.png?fit=944,531 944w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530652.png?fit=708,398 708w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530652.png?fit=600,338 600w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530652.png?fit=335,188 335w">
+</div>
+<p><span class="media-photo-credit">Shunk et al.</span></p>
+<p>Additionally, the fungus is self-replicating, meaning astronauts would potentially be able to &#8220;grow&#8221; new radiation shielding on deep-space missions, instead of having to rely on a costly and complicated interplanetary supply chain.</p>
+<p>Still, the researchers weren&#8217;t sure whether <em>C. sphaerospermum</em> would survive on the space station. Nils J.H. Averesch, a co-author of the <a href="https://www.biorxiv.org/content/10.1101/2020.07.16.205534v1.full.pdf" target="_blank" rel="noopener">study published on the preprint server bioRxiv</a>, told <a href="https://www.syfy.com/syfywire/fungus-that-eats-radiation-could-be-cosmic-ray-shield" target="_blank" rel="noopener">SYFY WIRE</a>:</p>
+<p style="margin-left: 20px;">&#8220;While on Earth, most sources of radiation are gamma- and/or X-rays; radiation in space and on Mars (also known as GCR or galactic cosmic radiation) is of a completely different kind and involves highly energetic particles, mostly protons. This radiation is even more destructive than X- and gamma-rays, so not even survival of the fungus on the ISS was a given.&#8221;</p>
+<h2></h2>
+<div class='flex justify-center mb-4'>
+    <img
+        src="https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?w=335"
+        loading="lazy"
+        sizes="(min-width: 1280px) 1200w, (min-width: 1024px) 944w, (min-width: 768px) 708w, calc(100vw - 40px)"
+        srcset="
+            https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?fit=1200,675 1200w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?fit=944,531 944w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?fit=708,398 708w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?fit=600,338 600w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530662.jpg?fit=335,188 335w">
+</div>
+<p><span class="media-caption">C. sphaerospermum</span><span class="media-photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Cladosporium_sphaerospermum_colony.jpg" target="_blank" rel="noopener">Medmyco / Wikimedia Commons</a></span></p>
+<p>To test the &#8220;radio-resistance&#8221; of <em>C. sphaerospermum</em> in space, petri dishes containing a .06-inch layer of the fungus were exposed to cosmic radiation aboard the ISS. Dishes containing no fungus were exposed, too. The results showed that the fungus cut radiation levels by about 2 percent.</p>
+<p>Extrapolating these results, the researchers estimated that a roughly 8-inch layer of <em>C. sphaerospermum</em> &#8220;could largely negate the annual dose-equivalent of the radiation environment on the surface of Mars.&#8221; That would be a significant benefit to astronauts. After all, an astronaut who is one year into a Mars mission would have been exposed to roughly 66 times more radiation than the average person on Earth.</p>
+<h2></h2>
+<div class='flex justify-center mb-4'>
+    <img
+        src="https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?w=335"
+        loading="lazy"
+        sizes="(min-width: 1280px) 1200w, (min-width: 1024px) 944w, (min-width: 768px) 708w, calc(100vw - 40px)"
+        srcset="
+            https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?fit=1200,675 1200w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?fit=944,531 944w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?fit=708,398 708w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?fit=600,338 600w,
+            https://bigthink.com/wp-content/uploads/2020/08/23530663.jpg?fit=335,188 335w">
+</div>
+<p><span class="media-caption">International Space Station</span><span class="media-photo-credit">NASA</span></p>
+<p>To be sure, the researchers said more research is needed, and that <em>C. sphaerospermum</em> would likely be used in combination with other radiation-shielding technology aboard spacecraft. But the findings highlight how relatively simple biotechnologies may offer outsized benefits on upcoming space missions.</p>
+<p style="margin-left: 20px;">&#8220;Often nature has already developed blindly obvious yet surprisingly effective solutions to engineering and design problems faced as humankind evolves – C. sphaerospermum and melanin could thus prove to be invaluable in providing adequate protection of explorers on future missions to the Moon, Mars and beyond,&#8221; the researchers wrote.</p>
+                </div>
+
+                
+                
+                                    <div class="hidden mb-8 sm:block">
+                        <div class="border-t font-utility-button pt-1.5 mb-8 border-black border-opacity-30">
+                            Tags
+                        </div>
+
+                        <div class="flex flex-wrap col-span-full">
+                            <a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/astronauts/">astronauts</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/biotech/">biotech</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/fungus/">fungus</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/nasa/">nasa</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/space/">space</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/sun/">sun</a>                        </div>
+                    </div>
+                
+                
+                                    <div class="sm:hidden">
+                        <div class="border-t font-utility-button pt-1.5 mb-8 border-black border-opacity-30">
+                            In this article
+                        </div>
+
+                        <div class="flex flex-wrap col-span-full">
+                            <a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/astronauts/">astronauts</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/biotech/">biotech</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/fungus/">fungus</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/nasa/">nasa</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/space/">space</a><a class="px-6 py-3 mb-4 mr-2 border rounded-full text-black-90 border-black-30 font-emphasis-xsmall sm:font-emphasis-small" href="https://bigthink.com/tag/sun/">sun</a>                        </div>
+                    </div>
+                            </div>
+
+        </article><!-- #post-39662 -->
+
+    
+        <div class="flex flex-col gap-4 mt-10">
+        
+<div class="bt-block block-divider pb-4 ">
+    <div class="stroke-current text-black-90 dark:text-white-90">
+                                <hr class="border-t-10">
+                            <div class="mt-4 uppercase font-utility-headline-xsmall-alt">Related</div>
+                        </div>
+</div>
+
+        <div class="bigthink-flex-row">
+            
+<article id="post-143528" class="card card-standard card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/hard-science/crispr-development-story">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2021/10/CRISPR.jpeg?resize=80,80'><source media='(min-width: 1024px)' srcset='https://bigthink.com/wp-content/uploads/2021/10/CRISPR.jpeg?resize=320,180'><img src='https://bigthink.com/wp-content/uploads/2021/10/CRISPR.jpeg?resize=320,180'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/hard-science">
+                Hard Science            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/hard-science/crispr-development-story">
+        The incredible origin story of CRISPR    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        The development of the revolutionary gene-engineering tool CRISPR is a tale fit for the big screen.    </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-143528 -->
+
+<article id="post-141163" class="card card-standard card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/the-future/mammoths">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/Woolly.jpeg?resize=80,80'><source media='(min-width: 1024px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/Woolly.jpeg?resize=320,180'><img src='https://bigthink.com/wp-content/uploads/2021/09/Woolly.jpeg?resize=320,180'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/the-future">
+                The Future            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/the-future/mammoths">
+        Why we should resurrect the woolly mammoth    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        A biotech startup has received $15 million in funding to genetically recreate woolly mammoths and rewild them in Siberia.    </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-141163 -->
+
+<article id="post-141918" class="card card-standard card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/the-future/robotic-nose-smartphone-detect-disease">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/Digital-Nose_Feature.jpeg?resize=80,80'><source media='(min-width: 1024px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/Digital-Nose_Feature.jpeg?resize=320,180'><img src='https://bigthink.com/wp-content/uploads/2021/09/Digital-Nose_Feature.jpeg?resize=320,180'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/the-future">
+                The Future            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/the-future/robotic-nose-smartphone-detect-disease">
+        MIT&#8217;s robotic nose can detect first sign of disease    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        One day, this powerful tool could be in millions of smartphones.    </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-141918 -->
+
+<article id="post-141829" class="card card-standard card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/health/gain-of-function-gain-of-virulence">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/louis-reed-pwcKF7L4-no-unsplash.jpg?resize=80,80'><source media='(min-width: 1024px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/louis-reed-pwcKF7L4-no-unsplash.jpg?resize=320,180'><img src='https://bigthink.com/wp-content/uploads/2021/09/louis-reed-pwcKF7L4-no-unsplash.jpg?resize=320,180'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/health">
+                Health            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/health/gain-of-function-gain-of-virulence">
+        Gain-of-function research isn&#8217;t the problem. Gain-of-virulence isn&#8217;t either    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        Smallpox, Ebola, HIV, influenza, the plague, malaria, and a whole host of terrible bacteria, viruses, fungi, and parasites were cooked up by Mother Nature, all on her own. Apparently, Mother Nature hasn't banned gain-of-function research.     </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-141829 -->
+
+<article id="post-141655" class="card card-standard card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/health/tal-golesworthy-engineer-who-fixed-his-own-heart">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/ENGINEERTHYSELF_BLUE_BOILER_TAL_PORTRAIT_0.jpg?resize=80,80'><source media='(min-width: 1024px)' srcset='https://bigthink.com/wp-content/uploads/2021/09/ENGINEERTHYSELF_BLUE_BOILER_TAL_PORTRAIT_0.jpg?resize=320,180'><img src='https://bigthink.com/wp-content/uploads/2021/09/ENGINEERTHYSELF_BLUE_BOILER_TAL_PORTRAIT_0.jpg?resize=320,180'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/health">
+                Health            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/health/tal-golesworthy-engineer-who-fixed-his-own-heart">
+        The engineer who fixed his own heart    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        When Tal Golesworthy was told he was at risk of his aorta bursting, he wasn’t impressed with the surgery on offer – so he came up with his own idea.    </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-141655 -->
+        </div>
+    </div>
+        <div class="flex flex-col gap-4 mt-10">
+            
+<div class="bt-block block-divider pb-4 ">
+    <div class="stroke-current text-black-90 dark:text-white-90">
+                                <hr class="border-t-10">
+                            <div class="mt-4 uppercase font-utility-headline-xsmall-alt">Up Next</div>
+                        </div>
+</div>
+
+<article id="post-39663" class="card card-xlarge-alternate card-narrative">
+
+    
+    <a class="card-media" href="https://bigthink.com/the-present/human-population">
+        <figure>
+            
+        <picture>
+            <source media='(max-width: 1023px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-119.jpg?resize=320,180'><source media='(min-width: 1024px, max-width: 1279px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-119.jpg?resize=480,270'><source media='(min-width: 1280px)' srcset='https://bigthink.com/wp-content/uploads/2020/08/origin-119.jpg?resize=832,468'><img src='https://bigthink.com/wp-content/uploads/2020/08/origin-119.jpg?resize=832,468'>        </picture>
+
+                </figure>
+    </a>
+
+    <div class="card-content">
+    <div class="font-emphasis-eyebrow">
+                    <a href="https://bigthink.com/the-present">
+                The Present            </a>
+            </div>
+
+<h1 class="card-headline">
+    <a href="https://bigthink.com/the-present/human-population">
+        Why are there so many humans?    </a>
+</h1>
+
+
+    <div class="card-excerpt">
+        <p>Having lots of kids is great for the success of the species. But there's a hitch.</p>    </div>
+
+<div class="card-excerpt">
+    </div>
+
+
+
+</div>
+</article><!-- #post-39663 -->
+        </div>
+    
+    </main><!-- #main -->
+
+
+</div><!-- #page -->
+
+<footer class="bg-black-10 text-black-90 dark:bg-white-90">
+    <h2 id="footer-heading" class="sr-only">Footer</h2>
+    <div class="container max-w-screen-2xl h-full pt-16 pb-8 mx-auto overflow-x-hidden container-padding">
+        <div class="bigthink-grid mb-16">
+            <div class="col-span-full flex flex-col bigthink-gutters lg:col-span-3">
+                <div>
+                    <div class="mb-3 uppercase font-utility-button">Subscribe</div>
+                    <div class="mb-8 font-utility-subtitle-small">
+                        Get counterintuitive, surprising, and impactful stories delivered to your inbox every Thursday.
+                    </div>
+                    <div>
+                        <noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-2-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-2" aria-describedby="nf-form-errors-2" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='2';form.settings={"objectType":"Form Setting","editActive":true,"title":"Subscribe Footer","default_label_pos":"above","show_title":"1","clear_complete":"1","hide_complete":"1","logged_in":"","wrapper_class":"","element_class":"","key":"","add_submit":"0","currency":"","repeatable_fieldsets":"","unique_field_error":"A form with this value has already been submitted.","not_logged_in_msg":"","sub_limit_msg":"The form has reached its submission limit.","calculations":[],"container_styles_show_advanced_css":"0","title_styles_show_advanced_css":"0","row_styles_show_advanced_css":"0","row-odd_styles_show_advanced_css":"0","success-msg_styles_show_advanced_css":"0","error_msg_styles_show_advanced_css":"0","formContentData":[{"order":1,"cells":[{"order":0,"fields":["email_1631657977248"],"width":"100"}]},{"order":2,"cells":[{"order":0,"fields":["go_1631658228932"],"width":"100"}]}],"changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","drawerDisabled":false,"allow_public_link":0,"embed_form":"","ninjaForms":"Ninja Forms","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formHoneypot":"If you are a human seeing this field, please leave it empty.","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"idAttribute":"id","label":"Email","type":"email","key":"email_1631657977248","label_pos":"above","required":1,"default":"","placeholder":"Your email address","container_class":"","element_class":"","admin_label":"","help_text":"","custom_name_attribute":"email","personally_identifiable":1,"wrap_styles_show_advanced_css":0,"label_styles_show_advanced_css":0,"element_styles_show_advanced_css":0,"cellcid":"c23446","value":"","wrap_styles_border":"","wrap_styles_width":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_float":"","label_styles_border":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_float":"","element_styles_border":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_float":"","drawerDisabled":"","field_label":"Email","field_key":"email_1631657977248","id":3,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"idAttribute":"id","label":"Go","type":"submit","processing_label":"Wait","container_class":"","element_class":"","key":"go_1631658228932","wrap_styles_border":"","wrap_styles_width":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"element_styles_border":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_float":"","element_styles_show_advanced_css":0,"submit_element_hover_styles_border":"","submit_element_hover_styles_width":"","submit_element_hover_styles_font-size":"","submit_element_hover_styles_margin":"","submit_element_hover_styles_padding":"","submit_element_hover_styles_float":"","submit_element_hover_styles_show_advanced_css":0,"cellcid":"c23450","drawerDisabled":false,"field_label":"Subscribe","field_key":"subscribe_1631658137932","id":4,"beforeField":"","afterField":"","value":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+                <script id="nf-tmpl-cell" type="text/template">
+            <nf-fields></nf-fields>
+        </script>
+
+        <script id="nf-tmpl-row" type="text/template">
+            <nf-cells></nf-cells>
+        </script>
+
+                            </div>
+                </div>
+                <div>
+                    <div class="mb-3 uppercase font-utility-button">Follow Us</div>
+                    <div class="flex flex-row flex-nowrap gap-x-4">
+                        <a class="pt-[3px]" href="https://www.youtube.com/user/bigthink">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="14" viewBox="0 0 19 14">
+  <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M18.3445 3.03547C18.3445 3.03547 18.1595 1.73634 17.6217 1.16998C16.9385 0.427594 16.1665 0.417984 15.825 0.368824C13.305 0.183594 9.52515 0.183594 9.52515 0.183594H9.50525C9.50525 0.183594 5.73578 0.183594 3.21515 0.368824C2.85425 0.417984 2.09229 0.427604 1.40869 1.16998C0.87115 1.73634 0.68628 3.03547 0.68628 3.03547C0.68628 3.03547 0.5 4.55901 0.5 6.06298V6.25855V7.49891C0.5 9.02245 0.68628 10.5268 0.68628 10.5268C0.68628 10.5268 0.87116 11.8259 1.40869 12.4019C2.09228 13.1539 2.99145 13.1247 3.40143 13.2027C4.83704 13.3495 9.52515 13.3983 9.52515 13.3983C9.52515 13.3983 13.3051 13.3787 15.825 13.2027C16.1665 13.1539 16.9385 13.1539 17.6217 12.4019C18.1595 11.8259 18.3445 10.5268 18.3445 10.5268C18.3445 10.5268 18.5201 9.02245 18.5201 7.49891V6.33656V6.06299C18.5201 4.55902 18.3445 3.03548 18.3445 3.03548V3.03547ZM12.5234 6.59092L7.64966 9.21766V5.17422V3.94384L9.85718 5.14536L12.5234 6.59092Z"></path>
+</svg>
+                        </a>
+                        <a class="mt-[-2px]" href="https://www.facebook.com/BigThinkdotcom/">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6836 20.1016H4.51544C2.0748 20.1016 0.0986328 18.1237 0.0986328 15.6865V4.51837C0.0986328 2.07773 2.0748 0.101562 4.5137 0.101562H15.6818C18.1207 0.101562 20.0969 2.07773 20.0969 4.51663V15.6848C20.0986 18.1237 18.1207 20.1016 15.6836 20.1016Z" fill="none"></path>
+  <path d="M14.0926 6.64214L15.6808 6.68389V3.7927L13.3271 3.71094C11.1144 3.71094 9.32261 5.50445 9.32261 7.71546V10.2761H6.59668V13.3726H9.32261V20.103H12.7496V13.3726H15.185L15.6808 10.2761H12.7479V7.9851C12.7479 7.24403 13.3497 6.64214 14.0926 6.64214Z" fill="currentColor"></path>
+</svg>
+                        </a>
+                        <a href="https://www.instagram.com/bigthinkers/">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6815 20.1016H4.51386C2.07453 20.1016 0.0976562 18.1247 0.0976562 15.6854V4.51777C0.0976562 2.07844 2.07453 0.101562 4.51386 0.101562H15.6832C18.1225 0.101562 20.0994 2.07844 20.0994 4.51777V15.6871C20.0977 18.1247 18.1208 20.1016 15.6815 20.1016Z" fill="none"></path>
+  <path d="M12.9928 16.9599H7.20341C5.01649 16.9599 3.2373 15.1807 3.2373 12.9938V7.20439C3.2373 5.01747 5.01649 3.23828 7.20341 3.23828H12.9928C15.1798 3.23828 16.959 5.01747 16.959 7.20439V12.9938C16.9572 15.1825 15.1798 16.9599 12.9928 16.9599ZM7.20165 4.62033C5.77547 4.62033 4.61582 5.77998 4.61582 7.20616V12.9956C4.61582 14.4218 5.77547 15.5814 7.20165 15.5814H12.9911C14.4173 15.5814 15.5769 14.4218 15.5769 12.9956V7.20616C15.5769 5.77998 14.4173 4.62033 12.9911 4.62033H7.20165Z" fill="currentColor"></path>
+  <path d="M10.0977 13.5745C8.18258 13.5745 6.62402 12.0159 6.62402 10.1026C6.62402 8.18746 8.18258 6.62891 10.0977 6.62891C12.0128 6.62891 13.5696 8.18746 13.5696 10.1026C13.5696 12.0159 12.011 13.5745 10.0977 13.5745ZM10.0977 7.78326C8.81801 7.78326 7.77838 8.82289 7.77838 10.1026C7.77838 11.3822 8.81801 12.4219 10.0977 12.4219C11.3774 12.4219 12.417 11.3822 12.417 10.1026C12.4152 8.82289 11.3756 7.78326 10.0977 7.78326Z" fill="currentColor"></path>
+  <path d="M14.4475 6.4547C14.4475 6.90126 14.0856 7.26487 13.6373 7.26487C13.1908 7.26487 12.8271 6.90303 12.8271 6.4547C12.8271 6.00637 13.189 5.64453 13.6373 5.64453C14.0856 5.6463 14.4475 6.00814 14.4475 6.4547Z" fill="currentColor"></path>
+</svg>
+                        </a>
+                        <a href="https://twitter.com/bigthink">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.6826 20.1016H4.51446C2.07382 20.1016 0.0976562 18.1237 0.0976562 15.6865V4.51837C0.0976562 2.07773 2.07382 0.101562 4.51272 0.101562H15.6809C18.1197 0.101562 20.0959 2.07773 20.0959 4.51663V15.6848C20.0977 18.1237 18.1197 20.1016 15.6826 20.1016Z" fill="none"></path>
+  <path d="M9.93527 8.30262C6.6144 8.21912 4.36686 5.5071 4.36686 5.5071C4.36686 5.5071 3.22221 7.68159 5.17577 9.08543C5.17577 9.08543 4.63476 9.1324 4.03286 8.78622C4.03286 8.78622 3.79976 10.8041 6.09949 11.4443C6.09949 11.4443 5.9464 11.613 4.97571 11.533C4.97571 11.533 5.45062 13.3161 7.43723 13.3718C7.43723 13.3718 6.21604 14.6886 3.55273 14.546C3.55273 14.546 7.77645 17.4059 12.2576 14.292C13.778 13.2343 15.5872 10.331 15.3367 7.67115C15.3367 7.67115 16.156 7.14579 16.6448 6.28992C16.6448 6.28992 16.2934 6.4343 15.9264 6.53868C15.6237 6.62566 15.3123 6.67437 15.1836 6.67785C15.1836 6.67785 16.1873 5.98375 16.2969 5.20616C16.2969 5.20616 15.201 5.80109 14.6287 5.84458L14.6095 5.84632C14.1138 5.32097 13.411 4.99219 12.6299 4.99219C11.1269 4.99219 9.90918 6.2099 9.90918 7.7129C9.90918 7.91469 9.93179 8.11126 9.97354 8.30088L9.93527 8.30262Z" fill="currentColor"></path>
+</svg>
+                        </a>
+                        <a href="https://www.linkedin.com/company/thebigthink/">
+                            <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+  <path d="M15.7251 20.1016H4.46999C2.05371 20.1016 0.0966797 18.1445 0.0966797 15.73V4.47488C0.0966797 2.05859 2.05371 0.101562 4.46999 0.101562H15.7251C18.1396 0.101562 20.0984 2.05859 20.0984 4.47488V15.73C20.0967 18.1445 18.1396 20.1016 15.7251 20.1016Z" fill="none"></path>
+  <path d="M6.00274 7.57422H3.00195V17.0845H6.00274V7.57422Z" fill="currentColor"></path>
+  <path d="M4.52547 6.23258C5.47853 6.23258 6.25114 5.45998 6.25114 4.50692C6.25114 3.55386 5.47853 2.78125 4.52547 2.78125C3.57241 2.78125 2.7998 3.55386 2.7998 4.50692C2.7998 5.45998 3.57241 6.23258 4.52547 6.23258Z" fill="currentColor"></path>
+  <path d="M13.7377 7.28906C11.4171 7.28906 10.7561 8.87383 10.7561 8.87383V7.57262H7.87012V17.0829H10.8709V12.1008C10.8709 11.4223 11.0779 9.89322 12.6261 9.89322C14.1744 9.89322 14.1726 11.685 14.1726 11.685V17.0812H17.1351C17.1351 17.0812 17.1351 14.1187 17.1351 11.4397C17.1334 8.76075 16.0583 7.28906 13.7377 7.28906Z" fill="currentColor"></path>
+</svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-span-full md:col-span-4 grid grid-cols-4 gap-4">
+                                        <div class="col-span-full md:col-span-2">
+                            <div class="mb-3 uppercase font-utility-button">
+                                Sections                            </div>
+                            <ul class="font-utility-subtitle-small">
+                                <li><a href="/neuropsych/">Neuropsych</a></li><li><a href="/thinking/">Thinking</a></li><li><a href="/leadership/">Leadership</a></li><li><a href="/smart-skills/">Smart Skills</a></li><li><a href="/high-culture/">High Culture</a></li><li><a href="/the-past/">The Past</a></li><li><a href="/the-present/">The Present</a></li><li><a href="/the-future/">The Future</a></li><li><a href="/life/">Life</a></li><li><a href="/health/">Health</a></li><li><a href="/hard-science/">Hard Science</a></li>                            </ul>
+                        </div>
+                                                <div class="col-span-full md:col-span-2">
+                            <div class="mb-3 uppercase font-utility-button">
+                                Big Questions                            </div>
+                            <ul class="font-utility-subtitle-small">
+                                <li><a href="/questions/will-true-ai-turn-against-us/">Will true AI turn against us?</a></li><li><a href="/questions/do-we-have-free-will/">Do we have free will?</a></li><li><a href="/questions/why-are-there-conspiracy-theories/">Why are there conspiracy theories?</a></li><li><a href="/questions/is-religion-helping-or-hurting-us/">Is religion helping or hurting us?</a></li><li><a href="/questions/are-we-alone-in-the-universe/">Are we alone in the universe?</a></li><li><a href="/questions/should-we-trust-science/">Should we trust science?</a></li>                            </ul>
+                        </div>
+                                                <div class="col-span-full md:col-span-2">
+                            <div class="mb-3 uppercase font-utility-button">
+                                Video                            </div>
+                            <ul class="font-utility-subtitle-small">
+                                <li><a href="/series/the-big-think-interview/">The Big Think Interview</a></li><li><a href="/series/your-brain-on-money/">Your Brain on Money</a></li><li><a href="/playlists">Playlists</a></li><li><a href="https://bigthink.com/video-library/">Explore the Library</a></li>                            </ul>
+                        </div>
+                                                <div class="col-span-full md:col-span-2">
+                            <div class="mb-3 uppercase font-utility-button">
+                                About                            </div>
+                            <ul class="font-utility-subtitle-small">
+                                <li><a href="https://bigthink.com/our-mission/">Our Mission</a></li><li><a href="https://bigthink.com/work-with-us/">Work With Us</a></li><li><a href="https://bigthink.com/contact/">Contact</a></li><li><a href="https://bigthink.com/privacy-policy/">Privacy Policy</a></li><li><a href="https://bigthink.com/terms-of-use/">Terms of Use</a></li><li><a href="https://bigthink.com/accessibility/">Accessibility</a></li>                            </ul>
+                        </div>
+                                    </div>
+            <div class="flex flex-col gap-4 col-span-full md:col-span-4 lg:col-span-3 md:pl-6 md:border-l md:border-black md:border-opacity-30">
+                <div class="w-1/2"><?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 55" fill="none">
+  <g opacity="1" clip-path="url(#clip0)">
+    <g opacity="1" clip-path="url(#clip1)">
+      <path d="M223.626 13.7969H217.239L210.854 24.8737L206.538 24.8869V13.7969L200.621 13.7974V41.5143H206.538V41.5139V30.5291H210.921L217.239 41.5139H223.626L215.368 27.6553L223.626 13.7969Z" fill="currentColor"></path>
+      <path d="M110.813 41.5143H116.73V19.332H125.946V13.7969H101.598V19.332H110.813V41.5143Z" fill="currentColor"></path>
+      <path d="M135.435 30.4233H147.61V41.5143H153.527V13.7974V13.7969L147.61 13.7974V24.888H135.435V13.7974L129.52 13.7969V41.5143H135.435V30.4233Z" fill="currentColor"></path>
+      <path d="M164.67 13.7969H158.754V41.5137H164.584L164.67 13.7969Z" fill="currentColor"></path>
+      <path d="M175.813 41.5143V21.9332H176.584L187.802 41.5143H195.564V13.7974H195.396V13.7969H189.655V13.7974H189.649V33.3781H188.865L177.647 13.7969L169.896 13.7974V41.5143H175.812H175.813Z" fill="currentColor"></path>
+      <rect x="101.598" y="49.082" width="122.029" height="5.53524" fill="currentColor"></rect>
+      <path d="M62.2144 41.8703C67.8446 41.8703 70.1901 38.8575 71.1641 36.8545H71.9302V41.5158H76.6172V24.8903H62.1769V30.4254H70.5282C70.4598 31.4977 70.0337 32.6232 69.6124 33.2356C68.6276 34.6655 66.2432 36.3352 62.7629 36.3352C57.6756 36.3352 54.2256 32.6427 54.2256 27.7462C54.2256 22.8307 57.8079 18.9807 62.874 18.9807C65.6533 18.9807 68.1865 20.5117 69.2112 21.5408L69.4263 21.7569L73.2212 17.6614L73.024 17.4626C70.5327 14.9467 66.7519 13.4453 62.9106 13.4453C54.4246 13.4453 48.0254 19.2185 48.0254 27.6752C48.0254 36.2982 54.5232 41.8703 62.2144 41.8703L62.2144 41.8703Z" fill="currentColor"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M35.9608 34.1073C35.9608 28.9291 29.8314 27.8976 28.0961 27.8976V26.885C30.7358 26.885 35.2081 26.0169 35.2081 20.9234C35.2081 16.5275 31.7139 13.7969 26.0898 13.7969H13.6328V41.5132H25.5044C32.247 41.5132 35.9608 39.1322 35.9608 34.1073H35.9608ZM19.5493 19.2158H25.1019C27.9313 19.2158 29.3066 20.1434 29.3066 22.0519C29.3066 23.6804 27.8134 24.8178 25.6754 24.8178H19.5493L19.5493 19.2158ZM19.6052 35.8331V30.5284H25.4844C28.2565 30.5284 29.9784 31.4748 29.9784 32.9973C29.9784 34.9058 28.5068 35.8331 25.4799 35.8331H19.6052Z" fill="currentColor"></path>
+      <path d="M39.2353 41.5387H44.9781V41.5137H45.0653V13.7969H39.1484V41.5137H39.2353V41.5387Z" fill="currentColor"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M0.179688 0.695312V54.6178H90.0495H90.0598V0.695312H90.0495H0.179688ZM84.5244 49.0825H5.71521V6.23077H84.5244V49.0825Z" fill="currentColor"></path>
+    </g>
+    <g clip-path="url(#clip2)">
+      <rect x="229.547" y="24.7344" width="26.6316" height="5.84597" fill="currentColor"></rect>
+      <rect x="245.562" y="14.4219" width="26.4724" height="5.39845" transform="rotate(90 245.562 14.4219)" fill="currentColor"></rect>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="256" height="53.9225" fill="white" transform="translate(0.179688 0.695312)"></rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect width="223.446" height="53.9225" fill="white" transform="translate(0.179688 0.695312)"></rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect width="26.6316" height="26.4724" fill="white" transform="translate(229.547 14.4219)"></rect>
+    </clipPath>
+  </defs>
+</svg>
+</div>
+                <div class="mt-7 font-utility-subtitle-medium">
+                    <span class="font-bold">Get Big Think for Your Business.</span>
+                    Enable transformation and drive culture at your company with lessons from the biggest thinkers in the world.
+                </div>
+                <a class="block uppercase font-utility-button" href="https://www.bigthinkedge.com/">
+                    Learn More &rarr;
+                </a>
+            </div>
+        </div>
+        <div class="font-utility-caption">
+            &copy; Copyright 2007-2021 &amp; BIG THINK, BIG THINK PLUS, SMARTER FASTER trademarks owned by Freethink Media, Inc. All rights reserved.
+        </div>
+    </div>
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='all-css-0' href='https://bigthink.com/_static/??-eJyNjEEKAjEQBD9kdtCAexLfErKjO5JMQnqC7O+dg3c9NRRVTe8eRHOZG4MyQFvCLrkpliq6ODmRKw6M1aiX+RQFqegrhUcbFZQAtm8s6CUdATZmtjn4nwO3j8LkXZv2++5eb+drjHG9+HwAXIZHtQ==' type='text/css' media='all' />
+<script id='nf-front-end-js-extra'>
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","formHoneypot":"If you are a human seeing this field, please leave it empty.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/bigthink.com\/wp-admin\/admin-ajax.php","ajaxNonce":"44b76be5b5","requireBaseUrl":"https:\/\/bigthink.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listimage":"listimage","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","recaptcha_v3":"recaptcha_v3","repeater":"repeater","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","mailchimp-optin":"mailchimp-optin"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfRepeater = {"add_repeater_child_field_text":"Add "};
+</script>
+<script type='text/javascript' src='https://bigthink.com/_static/??-eJyljt0KwjAMRl/ILkph4IX4LP3JtnZtOpsW2dtbRBHBieBVSL5zwgfXRZhEBalAmTAig3ZjmRzNoKsLFvzr0nneQRMcmVBtQ1vWVowabRcdfcr9pWJeH2MLqmQxs0kZtwitzKwTveXP3kuooyMGcuSVGFKODIoZy91sAgy5oQLJCosL/+H/oAoua0AIak21fHt0jqdDL2Uvj/te+hsG95Gj'></script>
+<script src='https://stats.wp.com/e-202140.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.2',blog:'197113340',post:'39662',tz:'-4',srv:'bigthink.com'} ]);
+	_stq.push([ 'clickTrackerInit', '197113340', '39662' ]);
+</script>
+<script id="tmpl-nf-layout" type="text/template">
+	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
+		{{{ ( 1 == data.settings.show_title ) ? '<h3>' + data.settings.title + '</h3>' : '' }}}
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"></div>
+		<div class="nf-form-layout"></div>
+		<div class="nf-after-form"></div>
+	</div>
+</script>
+
+<script id="tmpl-nf-empty" type="text/template">
+
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
+	{{{ data.beforeForm }}}
+</script><script id="tmpl-nf-after-form" type="text/template">
+	{{{ data.afterForm }}}
+</script><script id="tmpl-nf-before-fields" type="text/template">
+    <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
+    {{{ data.beforeFields }}}
+</script><script id="tmpl-nf-after-fields" type="text/template">
+    {{{ data.afterFields }}}
+    <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"></div>
+    <div class="nf-form-hp"></div>
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-after-field" type="text/template">
+    {{{ data.afterField }}}
+</script><script id="tmpl-nf-form-layout" type="text/template">
+	<form>
+		<div>
+			<div class="nf-before-form-content"></div>
+			<div class="nf-form-content {{{ data.element_class }}}"></div>
+			<div class="nf-after-form-content"></div>
+		</div>
+	</form>
+</script><script id="tmpl-nf-form-hp" type="text/template">
+	<label for="nf-field-hp-{{{ data.id }}}" aria-hidden="true">
+		{{{ nfi18n.formHoneypot }}}
+		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value=""/>
+	</label>
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
+        <div class="nf-before-field"></div>
+        <div class="nf-field"></div>
+        <div class="nf-after-field"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-field-after" type="text/template">
+    <#
+    /*
+     * Render our input limit section if that setting exists.
+     */
+    #>
+    <div class="nf-input-limit"></div>
+    <#
+    /*
+     * Render our error section if we have an error.
+     */
+    #>
+    <div id="nf-error-{{{ data.id }}}" class="nf-error-wrap nf-error" role="alert"></div>
+    <#
+    /*
+     * Render any custom HTML after our field.
+     */
+    #>
+    {{{ data.afterField }}}
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
+	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+		<#
+		/*
+		 * This is our main field template. It's called for every field type.
+		 * Note that must have ONE top-level, wrapping element. i.e. a div/span/etc that wraps all of the template.
+		 */
+        #>
+		<#
+		/*
+		 * Render our label.
+		 */
+        #>
+		{{{ data.renderLabel() }}}
+		<#
+		/*
+		 * Render our field element. Uses the template for the field being rendered.
+		 */
+        #>
+		<div class="nf-field-element">{{{ data.renderElement() }}}</div>
+		<#
+		/*
+		 * Render our Description Text.
+		 */
+        #>
+		{{{ data.renderDescText() }}}
+	</div>
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">{{{ data.renderElement() }}}</div>
+        <div class="nf-error-wrap"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
+
+        {{{ data.renderElement() }}}
+
+        <div class="nf-error-wrap"></div>
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
+	<div class="nf-field-label"><label for="nf-field-{{{ data.id }}}"
+	                                   id="nf-label-field-{{{ data.id }}}"
+	                                   class="{{{ data.renderLabelClasses() }}}">{{{ data.label }}} {{{ ( 'undefined' != typeof data.required && 1 == data.required ) ? '<span class="ninja-forms-req-symbol">*</span>' : '' }}} {{{ data.maybeRenderHelp() }}}</label></div>
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-form-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
+    {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-email" type="text/template">
+	<input
+			type="email"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocompletes ){ #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+			autocomplete="email"
+			<# } else { #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+			{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id='tmpl-nf-field-input' type='text/template'>
+    <input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
+           aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
+	<input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="button" value="{{{ data.label }}}" {{{ ( data.disabled ) ? 'disabled' : '' }}}>
+</script><script id='tmpl-nf-field-button' type='text/template'>
+    <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
+        {{{ data.label }}}
+    </button>
+</script>
+</body>
+
+</html>

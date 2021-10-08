@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" >
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.teslarati.com/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="https://www.teslarati.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://www.teslarati.com/feed/atom/" />
+<link rel="pingback" href="https://www.teslarati.com/xmlrpc.php" />
+
+<script type="text/javascript">var ntv=ntv||{};ntv.cmd=ntv.cmd||[];</script><script type="text/javascript" src="//s.ntv.io/serve/load.js"  ntv-experiment="1*101" async></script><script>(function() { var e = document.createElement("video");document.cookie="ntv_ce_s2p=" + ("playsInline" in e || (navigator.userAgent.match(/Android/i)&&navigator.userAgent.match(/Mobile/i) && "autoplay" in e) || (navigator.userAgent.match(/Android/i)&&!navigator.userAgent.match(/Mobile/i)) ? "1":"0") +";domain=teslarati.com;path=/;max-age=31536001";})();</script><script>dataLayer = [{"author": "Eric Ralph", "postPublishDate": "2020-08-06"}];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTTLH2');</script>
+<!-- End Google Tag Manager -->
+<link rel="shortcut icon" href="https://www.teslarati.com/wp-content/themes/teslarati-mag/images/favicons/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.teslarati.com/wp-content/themes/teslarati-mag/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.teslarati.com/wp-content/themes/teslarati-mag/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.teslarati.com/wp-content/themes/teslarati-mag/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://www.teslarati.com/wp-content/themes/teslarati-mag/images/favicons/site.webmanifest">
+
+<title>SpaceX&#039;s next Starship starts to take shape as Elon Musk talks next steps</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="SpaceX&#039;s next Starship starts to take shape as Elon Musk talks next steps" />
+<meta property="og:description" content="Less than a day after SpaceX successfully hopped a full-scale Starship prototype for the first time, the company has begun stacking the next rocket and Elon Musk is talking next steps. Almost immediately after Starship SN5 took to the sky on a 150m (500 ft) hop debut, SpaceX CEO Elon Musk was talking about the &hellip;" />
+<meta property="og:url" content="https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/" />
+<meta property="og:site_name" content="TESLARATI" />
+<meta property="article:publisher" content="https://www.facebook.com/Teslarati" />
+<meta property="article:author" content="https://www.facebook.com/13ericralph31" />
+<meta property="article:tag" content="Elon Musk" />
+<meta property="article:tag" content="SpaceX" />
+<meta property="article:tag" content="Starship" />
+<meta property="article:tag" content="Top Story" />
+<meta property="article:section" content="SpaceX" />
+<meta property="article:published_time" content="2020-08-06T08:55:00+00:00" />
+<meta property="article:modified_time" content="2020-08-06T07:09:04+00:00" />
+<meta property="og:updated_time" content="2020-08-06T07:09:04+00:00" />
+<meta property="og:image" content="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-1024x629.jpg" />
+<meta property="og:image:secure_url" content="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-1024x629.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="629" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Less than a day after SpaceX successfully hopped a full-scale Starship prototype for the first time, the company has begun stacking the next rocket and Elon Musk is talking next steps. Almost immediately after Starship SN5 took to the sky on a 150m (500 ft) hop debut, SpaceX CEO Elon Musk was talking about the [&hellip;]" />
+<meta name="twitter:title" content="SpaceX&#039;s next Starship starts to take shape as Elon Musk talks next steps" />
+<meta name="twitter:site" content="@teslarati" />
+<meta name="twitter:image" content="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c.jpg" />
+<meta name="twitter:creator" content="@13ericralph31" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.teslarati.com/#website","url":"https://www.teslarati.com/","name":"TESLARATI","inLanguage":"en-US","description":"Exploring the world of Tesla, SpaceX, Elon Musk, and future technologies including the premium electric vehicle market.","potentialAction":[{"@type":"SearchAction","target":"https://www.teslarati.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/#primaryimage","inLanguage":"en-US","url":"https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c.jpg","width":2520,"height":1549},{"@type":"WebPage","@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/#webpage","url":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/","name":"SpaceX&#039;s next Starship starts to take shape as Elon Musk talks next steps","isPartOf":{"@id":"https://www.teslarati.com/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/#primaryimage"},"datePublished":"2020-08-06T08:55:00+00:00","dateModified":"2020-08-06T07:09:04+00:00","author":{"@id":"https://www.teslarati.com/#/schema/person/79464d34eb7601fcc1979e6a293caa63"},"breadcrumb":{"@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/"]}]},{"@type":"BreadcrumbList","@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.teslarati.com/","url":"https://www.teslarati.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.teslarati.com/category/spacex/","url":"https://www.teslarati.com/category/spacex/","name":"SpaceX"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/","url":"https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/","name":"SpaceX&#8217;s next Starship starts to take shape as Elon Musk talks next steps"}}]},{"@type":["Person"],"@id":"https://www.teslarati.com/#/schema/person/79464d34eb7601fcc1979e6a293caa63","name":"Eric Ralph","image":{"@type":"ImageObject","@id":"https://www.teslarati.com/#authorlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/32a8b9a73c15a10684aeb85c7b390dfc?s=96&d=wp_user_avatar&r=pg","caption":"Eric Ralph"},"description":"Eric Ralph is Teslarati's senior spaceflight reporter and has been covering the industry in some capacity for almost half a decade, largely spurred in 2016 by a trip to Mexico to watch Elon Musk reveal SpaceX's plans for Mars in person. Aside from spreading interest and excitement about spaceflight far and wide, his primary goal is to cover humanity's ongoing efforts to expand beyond Earth to the Moon, Mars, and elsewhere.","sameAs":["https://www.facebook.com/13ericralph31","https://www.instagram.com/ericralph/","https://www.linkedin.com/in/13ericralph31/","https://twitter.com/twitter.com/13ericralph31"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="amphtml" href="https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/amp/" /><meta name="generator" content="AMP for WP 0.9.98.21"/><link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TESLARATI &raquo; Feed" href="https://www.teslarati.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TESLARATI &raquo; Comments Feed" href="https://www.teslarati.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.teslarati.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.teslarati.com/wp-content/plugins/gutenberg/build/block-library/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-css'  href='https://www.teslarati.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-default-css'  href='https://www.teslarati.com/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-reset-css'  href='https://www.teslarati.com/wp-content/themes/teslarati-mag/css/reset.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-fontawesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-style-css'  href='https://www.teslarati.com/wp-content/themes/teslarati-mag/style.css' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='mvp-iecss-css'  href='https://www.teslarati.com/wp-content/themes/teslarati-mag/css/iecss.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mvp-fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%7CLato%3A400%2C700%7CWork+Sans%3A900%7CMontserrat%3A400%2C700%7COpen+Sans%3A800%7CPlayfair+Display%3A400%2C700%2C900%7CQuicksand%7CRaleway%3A200%2C400%2C700%7CRoboto+Slab%3A400%2C700%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CLato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-media-queries-css'  href='https://www.teslarati.com/wp-content/themes/teslarati-mag/css/media-queries.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.teslarati.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"nivo","selector":"lightbox","customEvents":"","activeGalleries":"1","effect":"fade","clickOverlayToClose":"1","keyboardNav":"1","errorMessage":"The requested content cannot be loaded. Please try again later.","woocommerce_gallery":"0","ajaxurl":"https:\/\/www.teslarati.com\/wp-admin\/admin-ajax.php","nonce":"6c7617911e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/responsive-lightbox/js/front.js'></script>
+<link rel='https://api.w.org/' href='https://www.teslarati.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teslarati.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.teslarati.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://www.teslarati.com/?p=145998' />
+<link rel="alternate" type="application/json+oembed" href="https://www.teslarati.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-starship-sn8-elon-musk-next-steps%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.teslarati.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-starship-sn8-elon-musk-next-steps%2F&#038;format=xml" />
+
+<style type='text/css'>
+
+#wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+body,
+.blog-widget-text p,
+.feat-widget-text p,
+.post-info-right,
+span.post-excerpt,
+span.feat-caption,
+span.soc-count-text,
+#content-main p,
+#commentspopup .comments-pop,
+.archive-list-text p,
+.author-box-bot p,
+#post-404 p,
+.foot-widget,
+#home-feat-text p,
+.feat-top2-left-text p,
+.feat-wide1-text p,
+.feat-wide4-text p,
+#content-main table,
+.foot-copy p,
+.video-main-text p {
+	font-family: 'Lato', sans-serif;
+	}
+
+a,
+a:visited,
+.post-info-name a {
+	color: #0b86b5;
+	}
+
+a:hover {
+	color: #78b6e6;
+	}
+
+.fly-but-wrap,
+span.feat-cat,
+span.post-head-cat,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover {
+	background: #a9d300;
+	}
+
+.fly-but-wrap {
+	background: #a9d300;
+	}
+
+.fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.woocommerce .star-rating span:before {
+	color: #a9d300;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #a9d300;
+	}
+
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #a9d300;
+	}
+
+span.post-header {
+	border-top: 4px solid #a9d300;
+	}
+
+#main-nav-wrap,
+nav.main-menu-wrap,
+.nav-logo,
+.nav-right-wrap,
+.nav-menu-out,
+.nav-logo-out,
+#head-main-top {
+	-webkit-backface-visibility: hidden;
+	background: #a9d300;
+	}
+
+nav.main-menu-wrap ul li a,
+.nav-menu-out:hover ul li:hover a,
+.nav-menu-out:hover span.nav-search-but:hover i,
+.nav-menu-out:hover span.nav-soc-but:hover i,
+span.nav-search-but i,
+span.nav-soc-but i {
+	color: #555555;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children:hover a:after,
+nav.main-menu-wrap ul li.menu-item-has-children a:after {
+	border-color: #555555 transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li a,
+.nav-menu-out:hover span.nav-search-but i,
+.nav-menu-out:hover span.nav-soc-but i {
+	color: #FFFFFF;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children a:after {
+	border-color: #FFFFFF transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li ul.mega-list li a,
+.side-list-text p,
+.row-widget-text p,
+.blog-widget-text h2,
+.feat-widget-text h2,
+.archive-list-text h2,
+h2.author-list-head a,
+.mvp-related-text a {
+	color: #222222;
+	}
+
+ul.mega-list li:hover a,
+ul.side-list li:hover .side-list-text p,
+ul.row-widget-list li:hover .row-widget-text p,
+ul.blog-widget-list li:hover .blog-widget-text h2,
+.feat-widget-wrap:hover .feat-widget-text h2,
+ul.archive-list li:hover .archive-list-text h2,
+ul.archive-col-list li:hover .archive-list-text h2,
+h2.author-list-head a:hover,
+.mvp-related-posts ul li:hover .mvp-related-text a {
+	color: #0b86b5 !important;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	border: 1px solid #0b86b5;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	color: #0b86b5 !important;
+	}
+
+#comments-button a:hover,
+#comments-button span.comment-but-text:hover,
+a.inf-more-but:hover,
+span.more-posts-text:hover {
+	background: #0b86b5;
+	}
+
+nav.main-menu-wrap ul li a,
+ul.col-tabs li a,
+nav.fly-nav-menu ul li a,
+.foot-menu .menu li a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-top2-right-text h2,
+.side-list-text p,
+.side-full-text p,
+.row-widget-text p,
+.feat-widget-text h2,
+.blog-widget-text h2,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover,
+span.post-header,
+.archive-list-text h2,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.video-main-text h2,
+.mvp-related-text a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-wide-sub-text h2,
+#home-feat-text h2,
+.feat-top2-left-text h2,
+.feat-wide1-text h2,
+.feat-wide4-text h2,
+.feat-wide5-text h2,
+h1.post-title,
+#content-main h1.post-title,
+#post-404 h1,
+h1.post-title-wide,
+#content-main blockquote p,
+#commentspopup #content-main h1 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+h3.home-feat-title,
+h3.side-list-title,
+#infscr-loading,
+.score-nav-menu select,
+h1.cat-head,
+h1.arch-head,
+h2.author-list-head,
+h3.foot-head,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+#content-main h1,
+#content-main h2,
+#content-main h3,
+#content-main h4,
+#content-main h5,
+#content-main h6 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+</style>
+	
+<style type="text/css">
+
+
+.post-cont-out,
+.post-cont-in {
+	margin-right: 0;
+	}
+
+.nav-links {
+	display: none;
+	}
+
+
+
+
+
+
+#main-nav-wrap {
+	border-bottom: none;
+	}
+
+	
+	.feat-info-views {
+		display: none;
+	}
+
+#foot-widget-wrap  a { color: #ccc; }
+#foot-widget-wrap  a:hover { color: #a9d300; }
+
+.home h2 {
+font-weight: bold;
+}
+
+#home-main-wrap h2 {
+color: #555;
+}
+
+/* Hide page view count */
+.feat-info-wrap { display: none; }
+
+
+/* Ads */
+#leader-wrap { background-color: #a9d300; }
+@media screen and (min-width: 768px) {
+#leader-wrap { display: none; }
+}
+
+#foot-ad-wrap { text-align: left !important; z-index: -100; }
+@media screen and (min-width: 768px) {
+#foot-ad-wrap { display: none; }
+}
+
+/* Article */
+
+#post-info-wrap {
+    margin-bottom: 33px;
+}
+
+#content-main figcaption {
+    color: #777;
+    font-size: .8rem;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    max-width: 100%;
+    text-align: left;
+}
+
+#content-main ul li, #content-main ol li {
+line-height: 1.5em;
+}
+
+div.post-tags-hashtag {
+padding:10px;
+border-top:1px solid #ccc;
+border-bottom:1px solid #ccc;
+}
+
+div.post-tags-hashtag a {
+padding-right: 8px;
+font-weight: 500;
+}
+
+div.boa-message  {
+background-color:#fff;
+border-radius: 10px;
+margin-bottom: 30px;
+border: 1px solid #eee;
+padding: 14px;
+height: 100%;
+cursor:pointer;
+}
+
+div.boa-message img {
+height: 30px;
+}
+
+div.boa-message span {
+font-family: 'Montserrat', sans-serif;
+font-weight:bold;
+font-size:14px;
+line-height:16px;
+}
+
+#article-ad h2 {
+    line-height: 120%;
+    margin: 10px 0;
+    overflow: hidden;
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 1.4rem;
+}
+
+#article-ad p {
+    color: #222;
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 155%;
+    margin-bottom: 20px;
+}
+
+#article-ad,
+div.article-ad-part {
+    padding:3px;
+    /* background-color:#eee !important; */
+display: inline-block;
+margin: 20px 0%;
+width:100%;
+border-top: 1px solid #ddd;
+padding-bottom: 0%;
+padding-top:0%;
+text-align: left !important;
+}
+
+/*
+@media screen and (min-width: 768px) {
+div.in-article-ad { display: none; }
+}*/
+
+div.in-article-ad {
+    margin:0 auto;
+    padding:0px 5px 15px 5px !important;
+}
+
+/* Newsletter */
+
+.pico-read-more {
+    border-radius: 5px;
+    width: 300px;
+    color: #FFFFFF;
+    background-color: #0b86b5 !important;
+    opacity: .8;
+    font-size: 1.4em;
+}
+
+.pico-read-more:hover {
+    background-color: #0b86b5 !important;
+    opacity: 1;
+}
+
+/* Article Comments */
+
+#disqus_thread {
+border-radius: 10px;
+background: #F8F8F8 !important;
+padding: 25px;
+}
+
+#comments-button span.comment-but-text:hover {
+opacity:0.9;
+}
+
+#comments-button span.comment-but-text {
+background: #0b86b5 !important;
+color: #fff !important;
+font-size: 1.1em !important;
+}
+
+/* Footer
+#foot-widget-wrap p,
+#foot-widget-wrap h3,
+#foot-widget-wrap li {
+    font-size: 1.6em !important;
+    line-height: 130% !important;
+}*/
+
+/* Fix media query bug that breaks layout on full screen */
+
+@media screen and (min-width: 1601px) {
+	#body-main-wrap {
+		display: block !important;
+	}
+}
+
+/* Branded Content */
+#post-header {
+    margin: 0px !important;
+    padding: 30px;
+}
+</style>
+
+<style>
+    #wp-admin-bar-ampforwp-view-amp a{
+    background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjMxNHB4IiBoZWlnaHQ9IjMxNXB4IiB2aWV3Qm94PSIwIDAgMzE0IDMxNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDEgKDM1MzI2KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5TaGFwZTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSIjODI4NzhjIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSIyNjA3MSIgZmlsbD0iIzgyODc4YyI+CiAgICAgICAgICAgIDxnIGlkPSJDYXBhXzEiPgogICAgICAgICAgICAgICAgPGcgaWQ9Il94MzJfNDAuX1Bvd2VyIj4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTU3LjAwNywwIEM3MC4yOTIsMCAwLDcwLjI5MiAwLDE1Ny4wMDcgQzAsMjQzLjcxNSA3MC4yOTIsMzE0LjAxNCAxNTcuMDA3LDMxNC4wMTQgQzI0My43MTYsMzE0LjAxNCAzMTQuMDE0LDI0My43MTUgMzE0LjAxNCwxNTcuMDA3IEMzMTQuMDE0LDcwLjI5MiAyNDMuNzE2LDAgMTU3LjAwNywwIFogTTE1Ny4wMDcsMjgyLjYxMiBDODcuNjM0LDI4Mi42MTIgMzEuNDAyLDIyNi4zNzIgMzEuNDAyLDE1Ny4wMDcgQzMxLjQwMiw4Ny42MzQgODcuNjM0LDMxLjQwMiAxNTcuMDA3LDMxLjQwMiBDMjI2LjM3MSwzMS40MDIgMjgyLjYxMSw4Ny42MzQgMjgyLjYxMSwxNTcuMDA3IEMyODIuNjEyLDIyNi4zNzIgMjI2LjM3MiwyODIuNjEyIDE1Ny4wMDcsMjgyLjYxMiBaIE0yMDQuMTExLDE0MS4zNjggTDE2My40NzksMTQxLjUzMyBDMTU5LjEzOSwxNDEuNTUzIDE1Ny41NDQsMTM4LjYyMyAxNTkuOTA1LDEzNC45NzkgTDIwMy4zOTcsNjguMTA5IEMyMDguMTI2LDYwLjg0MSAyMDYuOTg0LDU5LjkyMiAyMDAuODYxLDY2LjA1MyBMMTA1LjMwNSwxNjEuNiBDOTkuMTcyLDE2Ny43MzIgMTAxLjIzMiwxNzIuNjc2IDEwOS45MDYsMTcyLjY0MSBMMTQyLjY3OSwxNzIuNTA4IEMxNTEuMzQ3LDE3Mi40NzIgMTU0LjU1MiwxNzguMzM1IDE0OS44MjQsMTg1LjYwNSBMMTA2LjMzNCwyNTIuNDc3IEMxMDMuOTcyLDI1Ni4xMTIgMTA0LjU0MiwyNTYuNTgxIDEwNy42MiwyNTMuNTI3IEwxNzUuOTE1LDE4NS43MTcgQzE3OC45ODgsMTgyLjY1OSAxODMuOTUsMTc3LjY4NiAxODYuOTgzLDE3NC41OTYgTDIwOC43ODgsMTUyLjQ4NSBDMjE0Ljg3NSwxNDYuMzE3IDIxMi43NzUsMTQxLjMzIDIwNC4xMTEsMTQxLjM2OCBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+) !important;
+    background-size: 18px !important;
+    background-repeat: no-repeat !important;
+ 		background-position: 4px 7px !important;
+ 		text-indent: -99999px;
+ 		width: 12px;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+	<link rel="icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-270x270.png" />
+
+
+<script type="text/javascript">
+	var disqus_identifier;
+	var disqus_url;
+	function loadDisqus(source, identifier, url) {
+
+	if (window.DISQUS) {
+		jQuery('.load-comments').show();
+		source.hide();
+		jQuery('#disqus_thread').insertAfter(source);
+   		/** if Disqus exists, call it's reset method with new parameters **/
+		DISQUS.reset({
+			reload: true,
+			config: function () {
+				this.page.identifier = identifier.toString();    //important to convert it to string
+				this.page.url = url;
+			}
+		});
+	} else {
+		//insert a wrapper in HTML after the relevant "show comments" link
+
+		jQuery('<div id="disqus_thread"></div>').insertAfter(source);
+		disqus_identifier = identifier; //set the identifier argument
+		disqus_url = url; //set the permalink argument
+		//append the Disqus embed script to HTML
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+		jQuery('head').append(dsq);
+	}
+	window.DISQUSWIDGETS.getCount({reset: true});
+	};
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-145998 single-format-standard custom-background">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTTLH2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id="site" class="left relative">
+		<div id="site-wrap" class="left relative">
+						<div id="fly-wrap">
+	<div class="fly-wrap-out">
+		<div class="fly-side-wrap">
+			<ul class="fly-bottom-soc left relative">
+									<li class="fb-soc">
+						<a href="https://www.facebook.com/Teslarati/" target="_blank">
+						<i class="fa fa-facebook-square fa-2"></i>
+						</a>
+					</li>
+													<li class="twit-soc">
+						<a href="https://twitter.com/teslarati" target="_blank">
+						<i class="fa fa-twitter fa-2"></i>
+						</a>
+					</li>
+													<li class="pin-soc">
+						<a href="https://www.pinterest.com/teslarati/" target="_blank">
+						<i class="fa fa-pinterest fa-2"></i>
+						</a>
+					</li>
+													<li class="inst-soc">
+						<a href="https://www.instagram.com/teslarati/" target="_blank">
+						<i class="fa fa-instagram fa-2"></i>
+						</a>
+					</li>
+													<li class="goog-soc">
+						<a href="https://plus.google.com/+Teslarati" target="_blank">
+						<i class="fa fa-google-plus fa-2"></i>
+						</a>
+					</li>
+													<li class="yt-soc">
+						<a href="https://www.youtube.com/channel/UCgY_B6vi2610bBkXFwCxcTg" target="_blank">
+						<i class="fa fa-youtube-play fa-2"></i>
+						</a>
+					</li>
+													<li class="link-soc">
+						<a href="https://www.linkedin.com/company/teslaratimedia" target="_blank">
+						<i class="fa fa-linkedin fa-2"></i>
+						</a>
+					</li>
+																	<li class="rss-soc">
+						<a href="https://www.teslarati.com/feed" target="_blank">
+						<i class="fa fa-rss fa-2"></i>
+						</a>
+					</li>
+							</ul>
+		</div><!--fly-side-wrap-->
+		<div class="fly-wrap-in">
+			<div id="fly-menu-wrap">
+				<nav class="fly-nav-menu left relative">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-22341" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-22341"><a title="News" href="https://www.teslarati.com/category/news/">NEWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-109848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109848"><a href="https://www.teslarati.com/tag/membernewsletter/">PREMIUM</a></li>
+	<li id="menu-item-74001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74001"><a href="https://www.teslarati.com/latest-tesla-news/">Latest</a></li>
+	<li id="menu-item-74002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74002"><a href="https://www.teslarati.com/tag/top-story/">Top Stories</a></li>
+	<li id="menu-item-74003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74003"><a href="https://www.teslarati.com/tag/featured/">Featured Stories</a></li>
+</ul>
+</li>
+<li id="menu-item-68918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-68918"><a href="https://www.teslarati.com/tag/tesla/">TESLA</a>
+<ul class="sub-menu">
+	<li id="menu-item-121483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121483"><a href="https://www.teslarati.com/tag/tesla-cybertruck/">Cybertruck</a></li>
+	<li id="menu-item-65429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65429"><a href="https://www.teslarati.com/tag/tesla-roadster/">Roadster</a></li>
+	<li id="menu-item-65398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65398"><a href="https://www.teslarati.com/tag/tesla-semi/">Tesla Semi</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-615"><a title="Tesla Model S" href="https://www.teslarati.com/category/tesla-model-s/">Model S</a>
+	<ul class="sub-menu">
+		<li id="menu-item-21048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21048"><a title="New Owners" href="https://www.teslarati.com/tag/new-owner/">New Owners</a></li>
+		<li id="menu-item-32819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32819"><a title="Autopilot" href="https://www.teslarati.com/tag/autopilot/">Autopilot</a></li>
+		<li id="menu-item-30703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30703"><a title="P90D Ludicrous" href="https://www.teslarati.com/tag/p100d/">P100D</a></li>
+		<li id="menu-item-48381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48381"><a href="https://www.teslarati.com/tag/tesla-drag-race/">Drag Racing Videos</a></li>
+		<li id="menu-item-19995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19995"><a title="Battery" href="https://www.teslarati.com/tag/battery/">Battery / Charging</a></li>
+		<li id="menu-item-10356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10356"><a title="Firmware Updates" href="https://www.teslarati.com/category/tesla-model-s/firmware/">Firmware Updates</a></li>
+		<li id="menu-item-21049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21049"><a title="Tesla Model S Interior" href="https://www.teslarati.com/tag/tesla-model-s-interior/">Interior</a></li>
+		<li id="menu-item-21050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21050"><a title="Tesla Model S Exterior" href="https://www.teslarati.com/tag/tesla-model-s-exterior/">Exterior</a></li>
+		<li id="menu-item-2396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2396"><a title="Tuning" href="https://www.teslarati.com/category/tesla-model-s/tuning/">Tuning</a>
+		<ul class="sub-menu">
+			<li id="menu-item-6943" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6943"><a title="Wheels / Tires" href="https://www.teslarati.com/category/tesla-model-s/aftermarket-wheels/">Wheels / Tires</a></li>
+			<li id="menu-item-11201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11201"><a title="Body Kits" href="https://www.teslarati.com/category/tesla-model-s/aftermarket-body-kits/">Body Kits</a></li>
+			<li id="menu-item-21090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21090"><a href="https://www.teslarati.com/tag/sound-system">Sound System</a></li>
+			<li id="menu-item-10359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10359"><a title="Apps" href="https://www.teslarati.com/category/tesla-model-s/apps/">Apps</a></li>
+		</ul>
+</li>
+		<li id="menu-item-21053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21053"><a title="DIY How To" href="https://www.teslarati.com/category/diy/">DIY How To</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13014"><a title="DIY Videos" href="https://www.teslarati.com/tesla-model-s-do-it-yourself-diy/">Videos</a></li>
+		</ul>
+</li>
+		<li id="menu-item-44728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44728"><a href="https://www.teslarati.com/tag/model-s-product-review/">Product Reviews</a></li>
+	</ul>
+</li>
+	<li id="menu-item-31141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31141"><a title="Tesla Model 3" href="https://www.teslarati.com/category/tesla-model-3/">Model 3</a></li>
+	<li id="menu-item-17885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17885"><a title="Tesla Model X" href="https://www.teslarati.com/category/tesla-model-x/">Model X</a>
+	<ul class="sub-menu">
+		<li id="menu-item-31553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31553"><a title="Falcon Wing Doors" href="https://www.teslarati.com/tag/falcon-wing-doors/">Falcon Wing Doors</a></li>
+		<li id="menu-item-41632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41632"><a href="https://www.teslarati.com/tag/tesla-model-x-firmware-update/">Firmware Updates</a></li>
+		<li id="menu-item-32818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32818"><a title="Autopilot" href="https://www.teslarati.com/tag/autopilot/">Autopilot</a></li>
+		<li id="menu-item-31550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31550"><a title="Tesla Model X Interior" href="https://www.teslarati.com/tag/tesla-model-x-interior/">Interior</a></li>
+		<li id="menu-item-31551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31551"><a title="Tesla Model X Exterior" href="https://www.teslarati.com/tag/tesla-model-x-exterior/">Exterior</a></li>
+		<li id="menu-item-31552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31552"><a title="Towing" href="https://www.teslarati.com/tag/tesla-model-x-towing/">Towing</a></li>
+		<li id="menu-item-44727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44727"><a href="https://www.teslarati.com/tag/model-x-product-review/">Product Reviews</a></li>
+	</ul>
+</li>
+	<li id="menu-item-127549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127549"><a href="https://www.teslarati.com/category/tesla-model-y/">Model Y</a></li>
+	<li id="menu-item-30941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30941"><a href="https://www.teslarati.com/?s=gigafactory">Gigafactory</a></li>
+	<li id="menu-item-55978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55978"><a href="https://www.teslarati.com/category/tesla-energy/">Tesla Energy</a>
+	<ul class="sub-menu">
+		<li id="menu-item-55980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55980"><a href="https://www.teslarati.com/tag/solar-roof/">Solar Roof</a></li>
+		<li id="menu-item-55979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55979"><a href="https://www.teslarati.com/tag/powerwall/">Powerwall</a></li>
+		<li id="menu-item-55982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55982"><a href="https://www.teslarati.com/tag/powerpack/">Powerpack</a></li>
+	</ul>
+</li>
+	<li id="menu-item-44444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44444"><a href="https://www.teslarati.com/tag/tesla-supercharger/">Supercharger</a></li>
+	<li id="menu-item-127493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127493"><a href="https://www.teslarati.com/tag/tsla/">TSLA</a></li>
+</ul>
+</li>
+<li id="menu-item-62917" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62917"><a href="https://www.teslarati.com/category/spacex/">SPACEX</a></li>
+<li id="menu-item-30940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30940"><a href="https://www.teslarati.com/tag/elon-musk/">ELON MUSK</a>
+<ul class="sub-menu">
+	<li id="menu-item-61601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61601"><a href="https://www.teslarati.com/tag/the-boring-company/">The Boring Company</a></li>
+	<li id="menu-item-51520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51520"><a href="https://www.teslarati.com/tag/hyperloop/">Hyperloop</a></li>
+	<li id="menu-item-73997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73997"><a href="https://www.teslarati.com/tag/ai/">Artificial Intelligence</a></li>
+</ul>
+</li>
+<li id="menu-item-73073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73073"><a href="https://shop.teslarati.com/">MARKETPLACE</a></li>
+</ul></div>				</nav>
+			</div><!--fly-menu-wrap-->
+		</div><!--fly-wrap-in-->
+	</div><!--fly-wrap-out-->
+</div><!--fly-wrap-->			<div id="head-main-wrap" class="left relative">
+				<div id="head-main-top" class="left relative">
+																													<div class="leader-wrap-out">
+								<div class="leader-wrap-in">
+									<div id="leader-wrap" class="left relative">
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TESLARATI - Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4672671650557568"
+     data-ad-slot="7496047573"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>									</div><!--leader-wrap-->
+								</div><!--leader-wrap-in-->
+							</div><!--lead-wrap-out-->
+																										</div><!--head-main-top-->
+				<div id="main-nav-wrap">
+					<div class="nav-out">
+						<div class="nav-in">
+							<div id="main-nav-cont" class="left" itemscope itemtype="http://schema.org/Organization">
+								<div class="nav-logo-out">
+									<div class="nav-left-wrap left relative">
+										<div class="fly-but-wrap left relative">
+											<span></span>
+											<span></span>
+											<span></span>
+											<span></span>
+										</div><!--fly-but-wrap-->
+																					<div class="nav-logo left">
+																									<a itemprop="url" href="https://www.teslarati.com/"><img itemprop="logo" src="//www.teslarati.com/wp-content/uploads/2016/05/TeslaratiLogowhite200x110.png" alt="TESLARATI" data-rjs="2" /></a>
+																																					<h2 class="mvp-logo-title">TESLARATI</h2>
+																							</div><!--nav-logo-->
+																			</div><!--nav-left-wrap-->
+									<div class="nav-logo-in">
+										<div class="nav-menu-out">
+											<div class="nav-menu-in">
+												<nav class="main-menu-wrap left">
+													<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-22341"><a title="News" href="https://www.teslarati.com/category/news/">NEWS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109848"><a href="https://www.teslarati.com/tag/membernewsletter/">PREMIUM</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74001"><a href="https://www.teslarati.com/latest-tesla-news/">Latest</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74002"><a href="https://www.teslarati.com/tag/top-story/">Top Stories</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74003"><a href="https://www.teslarati.com/tag/featured/">Featured Stories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-68918"><a href="https://www.teslarati.com/tag/tesla/">TESLA</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121483"><a href="https://www.teslarati.com/tag/tesla-cybertruck/">Cybertruck</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65429"><a href="https://www.teslarati.com/tag/tesla-roadster/">Roadster</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65398"><a href="https://www.teslarati.com/tag/tesla-semi/">Tesla Semi</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-615"><a title="Tesla Model S" href="https://www.teslarati.com/category/tesla-model-s/">Model S</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21048"><a title="New Owners" href="https://www.teslarati.com/tag/new-owner/">New Owners</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32819"><a title="Autopilot" href="https://www.teslarati.com/tag/autopilot/">Autopilot</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30703"><a title="P90D Ludicrous" href="https://www.teslarati.com/tag/p100d/">P100D</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48381"><a href="https://www.teslarati.com/tag/tesla-drag-race/">Drag Racing Videos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19995"><a title="Battery" href="https://www.teslarati.com/tag/battery/">Battery / Charging</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10356"><a title="Firmware Updates" href="https://www.teslarati.com/category/tesla-model-s/firmware/">Firmware Updates</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21049"><a title="Tesla Model S Interior" href="https://www.teslarati.com/tag/tesla-model-s-interior/">Interior</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21050"><a title="Tesla Model S Exterior" href="https://www.teslarati.com/tag/tesla-model-s-exterior/">Exterior</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2396"><a title="Tuning" href="https://www.teslarati.com/category/tesla-model-s/tuning/">Tuning</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6943"><a title="Wheels / Tires" href="https://www.teslarati.com/category/tesla-model-s/aftermarket-wheels/">Wheels / Tires</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11201"><a title="Body Kits" href="https://www.teslarati.com/category/tesla-model-s/aftermarket-body-kits/">Body Kits</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21090"><a href="https://www.teslarati.com/tag/sound-system">Sound System</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10359"><a title="Apps" href="https://www.teslarati.com/category/tesla-model-s/apps/">Apps</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21053"><a title="DIY How To" href="https://www.teslarati.com/category/diy/">DIY How To</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13014"><a title="DIY Videos" href="https://www.teslarati.com/tesla-model-s-do-it-yourself-diy/">Videos</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44728"><a href="https://www.teslarati.com/tag/model-s-product-review/">Product Reviews</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31141"><a title="Tesla Model 3" href="https://www.teslarati.com/category/tesla-model-3/">Model 3</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17885"><a title="Tesla Model X" href="https://www.teslarati.com/category/tesla-model-x/">Model X</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31553"><a title="Falcon Wing Doors" href="https://www.teslarati.com/tag/falcon-wing-doors/">Falcon Wing Doors</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41632"><a href="https://www.teslarati.com/tag/tesla-model-x-firmware-update/">Firmware Updates</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32818"><a title="Autopilot" href="https://www.teslarati.com/tag/autopilot/">Autopilot</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31550"><a title="Tesla Model X Interior" href="https://www.teslarati.com/tag/tesla-model-x-interior/">Interior</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31551"><a title="Tesla Model X Exterior" href="https://www.teslarati.com/tag/tesla-model-x-exterior/">Exterior</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31552"><a title="Towing" href="https://www.teslarati.com/tag/tesla-model-x-towing/">Towing</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44727"><a href="https://www.teslarati.com/tag/model-x-product-review/">Product Reviews</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127549"><a href="https://www.teslarati.com/category/tesla-model-y/">Model Y</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30941"><a href="https://www.teslarati.com/?s=gigafactory">Gigafactory</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55978"><a href="https://www.teslarati.com/category/tesla-energy/">Tesla Energy</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55980"><a href="https://www.teslarati.com/tag/solar-roof/">Solar Roof</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55979"><a href="https://www.teslarati.com/tag/powerwall/">Powerwall</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55982"><a href="https://www.teslarati.com/tag/powerpack/">Powerpack</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44444"><a href="https://www.teslarati.com/tag/tesla-supercharger/">Supercharger</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127493"><a href="https://www.teslarati.com/tag/tsla/">TSLA</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62917"><a href="https://www.teslarati.com/category/spacex/">SPACEX</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30940"><a href="https://www.teslarati.com/tag/elon-musk/">ELON MUSK</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61601"><a href="https://www.teslarati.com/tag/the-boring-company/">The Boring Company</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51520"><a href="https://www.teslarati.com/tag/hyperloop/">Hyperloop</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73997"><a href="https://www.teslarati.com/tag/ai/">Artificial Intelligence</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73073"><a href="https://shop.teslarati.com/">MARKETPLACE</a></li>
+</ul></div>												</nav>
+											</div><!--nav-menu-in-->
+											<div class="nav-right-wrap relative">
+												<div class="nav-search-wrap left relative">
+													<span class="nav-search-but left"><i class="fa fa-search fa-2"></i></span>
+													<div class="search-fly-wrap">
+														<form method="get" id="searchform" action="https://www.teslarati.com/">
+	<input type="text" name="s" id="s" value="Type search term and press enter" onfocus='if (this.value == "Type search term and press enter") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Type search term and press enter"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>													</div><!--search-fly-wrap-->
+												</div><!--nav-search-wrap-->
+																									<a href="https://www.facebook.com/Teslarati/" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-facebook fa-2"></i></span>
+													</a>
+																																					<a href="https://twitter.com/teslarati" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-twitter fa-2"></i></span>
+													</a>
+																							</div><!--nav-right-wrap-->
+										</div><!--nav-menu-out-->
+									</div><!--nav-logo-in-->
+								</div><!--nav-logo-out-->
+							</div><!--main-nav-cont-->
+						</div><!--nav-in-->
+					</div><!--nav-out-->
+				</div><!--main-nav-wrap-->
+			</div><!--head-main-wrap-->
+										<div id="body-main-wrap" class="left relative" itemscope itemtype="http://schema.org/NewsArticle">
+					<meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/"/>
+																																														<div id="post-wide-wrap" class="left relative">
+																					<div class="post-wide-img1 left relative" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+												<img width="2520" height="1549" src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c.jpg" class="attachment- size- wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c.jpg 2520w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-300x184.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-1024x629.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-768x472.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-1536x944.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c-2048x1259.jpg 2048w" sizes="(max-width: 2520px) 100vw, 2520px" />																								<meta itemprop="url" content="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-2-crop-c.jpg">
+												<meta itemprop="width" content="2520">
+												<meta itemprop="height" content="1549">
+												<div class="post-wide-text1">
+													<a class="post-cat-link" href="https://www.teslarati.com/category/news/"><span class="feat-cat">News</span></a>
+													<h1 class="post-title-wide entry-title " itemprop="headline">SpaceX&#8217;s next Starship starts to take shape as Elon Musk talks next steps</h1>
+																																								<span class="feat-caption">SpaceX has begun stacking the next full-scale Starship prototype the day after SN5's hop debut. (NASASpaceflight - bocachicagal)</span>
+																									</div><!--post-wide-text1-->
+											</div><!--post-wide-img1-->
+																			</div><!--post-wide-wrap-->
+																																		<div class="body-main-out relative">
+					<div class="body-main-in">
+						<div id="body-main-cont" class="left relative">
+						<div id="post-main-wrap" class="left relative">
+	<div class="post-wrap-out1 pico_auto_load">
+		<div class="post-wrap-in1">
+			<div id="post-left-col" class="relative">
+									<article id="post-area" class="post-145998 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-spacex tag-elon-musk tag-spacex tag-starship tag-top-story">
+																																														<div id="content-area" itemprop="articleBody" class="post-145998 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-spacex tag-elon-musk tag-spacex tag-starship tag-top-story">
+							<div class="post-cont-out">
+								<div class="post-cont-in">
+									<div id="content-main" class="left relative">
+
+																															
+													<header id="post-header">
+																	<div id="post-info-wrap" class="left relative">
+										<div class="post-info-out">
+											<div class="post-info-img left relative">
+												<img src="https://secure.gravatar.com/avatar/32a8b9a73c15a10684aeb85c7b390dfc?s=50&#038;d=https%3A%2F%2Fwww.teslarati.com%2Fwp-content%2Fplugins%2Fwp-user-avatar%2Fimages%2Fwpua-96x96.png&#038;r=pg" width="50" height="50" alt="Avatar" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 photo avatar-default" />											</div><!--post-info-img-->
+											<div class="post-info-in">
+												<div class="post-info-right left relative">
+													<div class="post-info-name left relative" itemprop="author" itemscope itemtype="https://schema.org/Person">
+														<span class="post-info-text">By</span> <span class="author-name vcard fn author" itemprop="name"><a href="https://www.teslarati.com/author/eric-ralph/" title="Posts by Eric Ralph" rel="author">Eric Ralph</a></span> <span class="author-twitter"><a href="twitter.com/13ericralph31" class="twitter-but" target="_blank"><i class="fa fa-twitter fa-2"></i></a></span> 													</div><!--post-info-name-->
+													<div class="post-info-date left relative">
+														<span class="post-info-text">Posted on</span> <span class="post-date updated"><time class="post-date updated" itemprop="datePublished" datetime="2020-08-06">August 6, 2020</time></span>
+														<meta itemprop="dateModified" content="2020-08-06"/>
+													</div><!--post-info-date-->
+												</div><!--post-info-right-->
+											</div><!--post-info-in-->
+										</div><!--post-info-out-->
+									</div><!--post-info-wrap-->
+															</header><!--post-header-->
+																										
+<p>Less than a day after SpaceX successfully hopped a full-scale Starship prototype for the first time, the company has begun stacking the next rocket and Elon Musk is talking next steps.</p>
+
+
+
+<p>Almost immediately after Starship SN5 took to the sky on a 150m (500 ft) hop debut, SpaceX CEO Elon Musk was talking about the company&#8217;s next near-term goals for the next-generation launch vehicle&#8217;s test program. To an extent, he had already offered a rough overview through various interviews and tweets over the last year or so. Aside from continuing to gradually refine Starship and Super Heavy designs and the processes used to manufacture and test those rockets, a few major proofs of concept stand between SpaceX and total confidence in the current architecture.</p>
+
+
+
+<p>As far as basic rocketry goes, SpaceX&#8217;s 150m Starship hop has functionally proven that the company&#8217;s exotic, rule-of-thumb-breaking approach to Starship production and assembly can be feasibly refined into something capable of producing extraordinarily cheap orbital-class rockets. While a massive achievement, it doesn&#8217;t guarantee that the rockets produced will be reusable &#8211; let alone rapidly and easily reusable.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="SpaceX Boca Chica - Starship SN8 enters Stacking Operations" width="1000" height="563" src="https://www.youtube.com/embed/egDXR8vSwSY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<div class="in-article-ad"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4672671650557568" data-ad-slot="7845413937"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+
+
+<p>As of now, it can be safely stated that SpaceX has solved all major challenges involved in routinely and reliably landing and reusing orbital-class rocket boosters (first stages). It&#8217;s hard and surprises are always a possibility, but the landing records of Falcon 9 and Falcon Heavy boosters speak for themselves. For the colossal booster Starship needs to reach orbit, the Falcon family&#8217;s success means that Super Heavy recovery and reuse is more a question of &#8220;when&#8221; than &#8220;if&#8221;.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-1024x497.jpg" alt="" class="wp-image-146157" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-1024x497.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-300x146.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-768x373.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-1536x746.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080120-NASASpaceflight-bocachicagal-Super-Heavy-VAB-3-crop-c-2048x994.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><em>SpaceX is already at or close to the halfway point of the construction of new building designed for Super Heavy booster assembly.</em> (NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<p>Starship, on the other hand, is going to offer many different challenges &#8211; some unprecedented for SpaceX and others unprecedented in the entire history of spaceflight. For Starship to be able to support a level of reuse compatible with what the Super Heavy booster is likely to achieve, SpaceX will have to create the biggest and most effortlessly reusable orbital-class spacecraft ever built. </p>
+
+
+
+<p>Even heavier than NASA&#8217;s Space Shuttle orbiter, Starship will also rely almost entirely on the unproven technology of on-orbit cryogenic propellant transfer to reach beyond low Earth orbit (LEO). To survive orbital-velocity reentries while still being rapidly and cheaply reusable, Starship will further have to push the envelope of heat shield technologies. Last but certainly not least, in its current iteration, Starship relies on a truly unprecedented style of recovery to efficiently land back on Earth.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c-912x1024.jpg" alt="" class="wp-image-146161" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c-912x1024.jpg 912w, https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c-267x300.jpg 267w, https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c-768x863.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c-1368x1536.jpg 1368w, https://www.teslarati.com/wp-content/uploads/2020/08/BFS-2018-vs-Shuttle-SpaceX-NASA-c.jpg 1754w" sizes="(max-width: 912px) 100vw, 912px" /></a><figcaption><em>While Starship&#8217;s later iteration has removed the tripod fins, this still offers a good size comparison with the Space Shuttle. </em>(SpaceX/NASA)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop-1024x558.jpg" alt="" class="wp-image-116703" srcset="https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop-1024x558.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop-300x164.jpg 300w, https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop-768x419.jpg 768w, https://www.teslarati.com/wp-content/uploads/2019/09/Starship-2019-Mars-Moon-base-render-SpaceX-1-full-crop.jpg 1906w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>It&#8217;s this last bit where CEO Elon Musk&#8217;s recent comments and recent activity at SpaceX&#8217;s Starship factory come in. According to Musk, SpaceX intends to perform at least several more smaller hops (<em>a la</em> SN5) &#8220;to smooth out [the] launch process.&#8221; It&#8217;s unclear which prototype(s) will be involved in that series of hops but after SpaceX is satisfied with the state of launch operations, the plan is to &#8220;go high altitude with body flaps.&#8221; Based on past comments, it&#8217;s safe to assume that Musk is referring to a plan to launch a Starship to 20 km (~12 mi).</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">If 20km works, then orbit</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1179159128708538370?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We’ll do several short hops to smooth out launch process, then go high altitude with body flaps</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1290826885375696899?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">V1.1 legs will be ~60% longer. V2.0 legs will be much wider &amp; taller — like Falcon, but capable of landing on unimproved surfaces &amp; auto-leveling.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1290819191835164672?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>After reaching 20 km, Starship would orient itself belly down &#8211; a bit like a skydiver &#8211; and quite literally fall its way to ~1 km altitude before attempting an aggressive Raptor-powered pitch-over maneuver and last-second landing. By using Earth&#8217;s atmosphere much like a skydiver trying to slow down, Starship will theoretically be able to dramatically reduce the amount of propellant it needs to land. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">SpaceX animation of Starship landing, upright in the same manner as its Falcon 9 rocket boosters. <a href="https://t.co/JEQAYHfnr6">pic.twitter.com/JEQAYHfnr6</a></p>&mdash; Michael Sheetz (@thesheetztweetz) <a href="https://twitter.com/thesheetztweetz/status/1178124009780719618?ref_src=twsrc%5Etfw">September 29, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>That high-altitude launch and landing demonstration will also be the first time a Starship truly needs aerodynamic control surfaces (i.e. &#8220;body flaps&#8221;) to safely complete a flight test. According to NASASpaceflight.com info, Starship SN8 &#8211; also the first full-scale prototype to be built out of a different steel alloy &#8211; will be the first ship to receive functional flaps and a nosecone. If initial tests go according to plan, SN8 will also be the first ship to attempt a skydiver-style landing as described above. As far as full-scale aerodynamics goes, such a landing is loosely understood at best. For an orbital-class spacecraft, it&#8217;s even more of a wildcard.</p>
+
+
+
+<p>Regardless, just hours after Starship SN5&#8217;s successful hop debut, SpaceX began stacking the first of several already finished Starship SN8 sections. Based on the assembly of past prototypes, the ship&#8217;s tank section could reach its full height just a few weeks from now, while subsequent nosecone and flap installations are uncharted territory.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-scaled.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-1024x476.jpg" alt="" class="wp-image-146183" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-1024x476.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-300x139.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-768x357.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-1536x714.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080320-NASASpaceflight-bocachicagal-flap-delivery-1-crop-2048x952.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><em>A pair of upgraded forward flaps arrived in Boca Chica on August 3rd. </em>(NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-1024x530.jpg" alt="" class="wp-image-142060" srcset="https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-1024x530.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-300x155.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-768x398.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-1536x795.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/06/Starship-Boca-Chica-061220-NASASpaceflight-bocachicagal-new-flaps-4-crop-c-2048x1061.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>A pair of upgraded aft flaps arrived in June 2020. (NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-1024x683.jpg" alt="" class="wp-image-146184" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-1024x683.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-300x200.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-768x512.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-1536x1024.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-nose-ring-work-1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><em>A nosecone with a header tank (left; needed for a skydiver-style landing) is more or less complete. Beside it, a new five-ring stack could either sit directly under SN8&#8217;s nose or become the main barrel of its oxygen tank. </em>(NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-1024x567.jpg" alt="" class="wp-image-146146" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-1024x567.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-300x166.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-768x425.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-1536x850.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080220-NASASpaceflight-bocachicagal-ring-work-STX308-1-crop-c-2048x1133.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><em>What is likely SN8&#8217;s upper tank dome (right) is more or less finished and awaiting final installation.</em> (NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-1024x570.jpg" alt="" class="wp-image-146143" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-1024x570.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-300x167.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-768x428.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-1536x856.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-080520-NASASpaceflight-bocachicagal-SN8-stacking-1-crop-c-2048x1141.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><em>SpaceX began stacking Starship SN8 on August 5th. The upper dome (pictured one photo up) will sit on top of this assembly, while </em>(NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-scaled.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-gallery-elEZwAim" data-rl_title="" data-rl_caption="" title=""><img src="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-1024x575.jpg" alt="" class="wp-image-146185" srcset="https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-1024x575.jpg 1024w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-300x168.jpg 300w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-768x431.jpg 768w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-1536x862.jpg 1536w, https://www.teslarati.com/wp-content/uploads/2020/08/Starship-Boca-Chica-071820-NASASpaceflight-bocachicagal-engine-section-ring-work-2-2048x1149.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><em>Likely pictured here on July 18th, Starship SN8&#8217;s engine section &#8211; once topped with five more steel rings &#8211; will sit at the bottom of SN8. </em>(NASASpaceflight &#8211; bocachicagal)</figcaption></figure>
+
+
+
+<p class="has-small-font-size"><a rel="noreferrer noopener" data-unsp-sanitized="clean" href="https://api.pico.tools/pn/teslarati/37r7aa7x" target="_blank"><em>Check out Teslarati’s newsletters</em></a><em>&nbsp;for prompt updates, on-the-ground perspectives, and unique glimpses of SpaceX&#8217;s rocket launch and recovery processes</em>.</p>
+																															<span class="mvp-meta-wide-title" itemprop="headline">SpaceX&#8217;s next Starship starts to take shape as Elon Musk talks next steps</span>
+																				<div class="mvp-org-wrap" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+											<div class="mvp-org-logo" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+																									<img src="//www.teslarati.com/wp-content/uploads/2016/05/TeslaratiLogowhite200x110.png"/>
+													<meta itemprop="url" content="//www.teslarati.com/wp-content/uploads/2016/05/TeslaratiLogowhite200x110.png">
+																							</div><!--mvp-org-logo-->
+											<meta itemprop="name" content="TESLARATI">
+										</div><!--mvp-org-wrap-->
+										<div class="posts-nav-link">
+																					</div><!--posts-nav-link-->
+																					<div class="post-tags">
+											</div><!--post-tags-->
+																																									<div id="article-ad">
+												<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-4672671650557568"
+     data-ad-slot="9351429613"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>											</div><!--article-ad-->
+																															<!-- 											<div id="comments-button" class="left relative comment-click-145998 com-but-145998">
+												<span class="comment-but-text">View Comments</span>
+											</div> -->
+											<div id="disqus_thread" class="disqus-thread-145998"></div>
+    <script type="text/javascript">
+        var disqus_shortname = "teslarati";
+        var disqus_title = "SpaceX's next Starship starts to take shape as Elon Musk talks next steps";
+        var disqus_url = "https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/";
+        var disqus_identifier = "teslarati-145998";
+    </script>											<div class="load-comments" style="display: none" id="comments-button" onclick="loadDisqus(jQuery(this), 'teslarati-145998', 'https://www.teslarati.com/spacex-starship-sn8-elon-musk-next-steps/');">
+												<span class="disqus-comment-count comment-but-text" data-disqus-identifier='teslarati-145998'>Comments</a></span>
+											</div>
+																			</div><!--content-main-->
+								</div><!--post-cont-in-->
+															</div><!--post-cont-out-->
+						</div><!--content-area-->
+					</article>
+										
+						
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.teslarati.com/tesla-ev-uk-drivers-want-gas-cars-gone/" rel="prev">Tesla and EVs poised to hit stride as 82% of UK drivers want gas cars phased out earlier than 2035</a></div><div class="nav-next"><a href="https://www.teslarati.com/tesla-megapack-batteries-crush-fossil-fuel-fud/" rel="next">Tesla Megapack batteries to crush anti-renewables FUD in Canada&#8217;s oil province</a></div></div>
+	</nav>																			</div><!--post-left-col-->
+			</div><!--post-wrap-in1-->
+							<div id="post-right-col" class="relative">
+																		<div id="sidebar-wrap" class="left relative theiaStickySidebar">
+									<div class="widget-ad left relative">
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TESLARATI - 300 x 600 Right Rail -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4672671650557568"
+     data-ad-slot="7343818747"
+     data-ad-format="auto"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div><!--widget-ad-->
+		<div id="mvp_pop_widget-8" class="side-widget mvp_pop_widget"><h4 class="post-header"><span class="post-header">Recent Most Popular</span></h4>			<div class="blog-widget-wrap left relative">
+				<ul class="blog-widget-list left relative">
+											<li>
+							<a href="https://www.teslarati.com/tesla-giga-texas-insane-size-footage/" rel="bookmark">
+															<div class="blog-widget-img left relative">
+									<img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-300x180.jpeg" class="widget-img-main wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" />									<img width="80" height="80" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-80x80.jpeg" class="widget-img-side wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-80x80.jpeg 80w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-150x150.jpeg 150w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-1472x1472.jpeg 1472w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-1104x1104.jpeg 1104w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-912x912.jpeg 912w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-550x550.jpeg 550w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-giga-texas-470x470.jpeg 470w" sizes="(max-width: 80px) 100vw, 80px" />																		<div class="feat-info-wrap">
+										<div class="feat-info-views">
+											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">104.8K</span>
+										</div><!--feat-info-views-->
+																			</div><!--feat-info-wrap-->
+																										</div><!--blog-widget-img-->
+														<div class="blog-widget-text left relative">
+								<span class="side-list-cat">News</span>
+								<h2>Tesla Giga Texas drive-bys show just how massive Elon Musk’s Cybertruck factory really is</h2>
+								<p>The size of Gigafactory Texas is pretty hard to comprehend since updates of the...</p>
+							</div><!--blog-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="https://www.teslarati.com/tesla-model-x-hunted-video/" rel="bookmark">
+															<div class="blog-widget-img left relative">
+									<img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />									<img width="80" height="80" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-80x80.jpg 80w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-150x150.jpg 150w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-550x550.jpg 550w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-x-attacked-470x470.jpg 470w" sizes="(max-width: 80px) 100vw, 80px" />																		<div class="feat-info-wrap">
+										<div class="feat-info-views">
+											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">84.2K</span>
+										</div><!--feat-info-views-->
+																			</div><!--feat-info-wrap-->
+																										</div><!--blog-widget-img-->
+														<div class="blog-widget-text left relative">
+								<span class="side-list-cat">Lifestyle</span>
+								<h2>Tesla captures harrowing footage of Model X hunted and attacked by enraged driver</h2>
+								<p>There are instances of road rage, and there are instances of a full-on attack...</p>
+							</div><!--blog-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="https://www.teslarati.com/tesla-model-s-plaid-yoke-is-better-critic/" rel="bookmark">
+															<div class="blog-widget-img left relative">
+									<img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />									<img width="80" height="80" src="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-80x80.jpg 80w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-150x150.jpg 150w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-550x550.jpg 550w, https://www.teslarati.com/wp-content/uploads/2021/10/tesla-model-s-yoke-470x470.jpg 470w" sizes="(max-width: 80px) 100vw, 80px" />																		<div class="feat-info-wrap">
+										<div class="feat-info-views">
+											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">73.0K</span>
+										</div><!--feat-info-views-->
+																			</div><!--feat-info-wrap-->
+																										</div><!--blog-widget-img-->
+														<div class="blog-widget-text left relative">
+								<span class="side-list-cat">News</span>
+								<h2>Tesla Model S Plaid controversial steering yoke wins over critic</h2>
+								<p>In the months leading up to the launch of the Tesla Model S Plaid,...</p>
+							</div><!--blog-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="https://www.teslarati.com/spacex-snags-european-arianespace-launch-contract/" rel="bookmark">
+															<div class="blog-widget-img left relative">
+									<img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-300x180.jpg" class="widget-img-main wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />									<img width="80" height="80" src="https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-80x80.jpg" class="widget-img-side wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-80x80.jpg 80w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-150x150.jpg 150w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-1104x1104.jpg 1104w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-912x912.jpg 912w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-550x550.jpg 550w, https://www.teslarati.com/wp-content/uploads/2021/07/Starlink-28-Falcon-9-B1063-052621-Richard-Angle-1-c-470x470.jpg 470w" sizes="(max-width: 80px) 100vw, 80px" />																		<div class="feat-info-wrap">
+										<div class="feat-info-views">
+											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">61.3K</span>
+										</div><!--feat-info-views-->
+																			</div><!--feat-info-wrap-->
+																										</div><!--blog-widget-img-->
+														<div class="blog-widget-text left relative">
+								<span class="side-list-cat">News</span>
+								<h2>SpaceX snags launch contract from Arianespace after Vega rocket fails twice</h2>
+								<p>In a rare victory for international launch competition, SpaceX has snagged a contract to...</p>
+							</div><!--blog-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="https://www.teslarati.com/lucid-air-begins-production-october-deliveries/" rel="bookmark">
+															<div class="blog-widget-img left relative">
+									<img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-300x180.jpeg" class="widget-img-main wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" />									<img width="80" height="80" src="https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-80x80.jpeg" class="widget-img-side wp-post-image" alt="" srcset="https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-80x80.jpeg 80w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-150x150.jpeg 150w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-1472x1472.jpeg 1472w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-1104x1104.jpeg 1104w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-912x912.jpeg 912w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-550x550.jpeg 550w, https://www.teslarati.com/wp-content/uploads/2021/09/lucid-inspection-line-470x470.jpeg 470w" sizes="(max-width: 80px) 100vw, 80px" />																		<div class="feat-info-wrap">
+										<div class="feat-info-views">
+											<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">56.7K</span>
+										</div><!--feat-info-views-->
+																			</div><!--feat-info-wrap-->
+																										</div><!--blog-widget-img-->
+														<div class="blog-widget-text left relative">
+								<span class="side-list-cat">News</span>
+								<h2>Lucid begins production of Air sedan, expects October for first deliveries</h2>
+								<p>Lucid Group has announced that it will begin delivering its first sedan, the Air...</p>
+							</div><!--blog-widget-text-->
+							</a>
+						</li>
+									</ul>
+			</div><!--blog-widget-wrap-->
+		</div>			<div class="widget-ad left relative">
+				<script data-cfasync="true" src="//ad.liveburst.com/tags/7693/1070/js/300x600.js" type="text/javascript"></script>			</div><!--widget-ad-->
+					</div><!--sidebar-wrap-->
+															</div><!--post-right-col-->
+					</div><!--post-wrap-out1-->
+</div><!--post-main-wrap-->
+													<div id="foot-ad-wrap" class="left relative">
+								<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TESLARATI - Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4672671650557568"
+     data-ad-slot="7496047573"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>--><script data-cfasync="false" src="//ad.liveburst.com/tags/7693/1070/js/728x90.js" type="text/javascript"></script>							</div><!--foot-ad-wrap-->
+											</div><!--body-main-cont-->
+				</div><!--body-main-in-->
+			</div><!--body-main-out-->
+			<footer id="foot-wrap" class="left relative">
+				<div id="foot-top-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-widget-wrap" class="left relative">
+																							</div><!--foot-widget-wrap-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-top-->
+				<div id="foot-bot-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-bot" class="left relative">
+								<div class="foot-menu relative">
+									<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-20519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-20519"><a href="http://www.teslarati.com/">Home</a></li>
+<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.teslarati.com/about-us/">About Us</a></li>
+<li id="menu-item-40901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40901"><a href="https://www.teslarati.com/contactus/">Contact Us</a></li>
+<li id="menu-item-815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-815"><a href="https://www.teslarati.com/advertise/">Advertise With Us</a></li>
+<li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.teslarati.com/terms/">Terms</a></li>
+<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-950"><a href="https://www.teslarati.com/privacy/">Privacy</a></li>
+</ul></div>								</div><!--foot-menu-->
+								<div class="foot-copy relative">
+									<p>Copyright © TESLARATI. All rights reserved.</p>
+								</div><!--foot-copy-->
+							</div><!--foot-bot-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-bot-->
+			</footer>
+		</div><!--body-main-wrap-->
+	</div><!--site-wrap-->
+</div><!--site-->
+<div class="fly-to-top back-to-top">
+	<i class="fa fa-angle-up fa-3"></i>
+	<span class="to-top-text">To Top</span>
+</div><!--fly-to-top-->
+<div class="fly-fade">
+</div><!--fly-fade-->
+		<div data-theiaStickySidebar-sidebarSelector='"#sidebar-wrap"'
+		     data-theiaStickySidebar-options='{"containerSelector":"#post-main-wrap","additionalMarginTop":0,"additionalMarginBottom":20,"updateSidebarHeight":false,"minWidth":0,"sidebarBehavior":"stick-to-bottom","disableOnResponsiveLayouts":true}'></div>
+		
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	// Back to Top Button
+    	var duration = 500;
+    	$('.back-to-top').click(function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+	});
+
+	// Main Menu Dropdown Toggle
+	$('.menu-item-has-children a').click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$('.menu-item-has-children').click(function(){
+    	  $(this).addClass('toggled');
+    	  if($('.menu-item-has-children').hasClass('toggled'))
+    	  {
+    	  $(this).children('ul').toggle();
+	  $('.fly-nav-menu').getNiceScroll().resize();
+	  }
+	  $(this).toggleClass('tog-minus');
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $('.fly-nav-menu').niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+
+	  	$(".comment-click-145998").on("click", function(){
+  	  $(".com-click-id-145998").show();
+	  $(".disqus-thread-145998").show();
+  	  $(".com-but-145998").hide();
+  	});
+	
+	// Infinite Scroll
+	$('.infinite-content').infinitescroll({
+	  navSelector: ".nav-links",
+	  nextSelector: ".nav-links a:first",
+	  itemSelector: ".infinite-post",
+	  loading: {
+		msgText: "Loading more posts...",
+		finishedMsg: "Sorry, no more posts"
+	  },
+	  errorCallback: function(){ $(".inf-more-but").css("display", "none") }
+	});
+	$(window).unbind('.infscr');
+	$(".inf-more-but").click(function(){
+   		$('.infinite-content').infinitescroll('retrieve');
+        	return false;
+	});
+	$(window).load(function(){
+		if ($('.nav-links a').length) {
+			$('.inf-more-but').css('display','inline-block');
+		} else {
+			$('.inf-more-but').css('display','none');
+		}
+	});
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('.post-gallery-bot').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    itemWidth: 80,
+    itemMargin: 10,
+    asNavFor: '.post-gallery-top'
+  });
+
+  $('.post-gallery-top').flexslider({
+    animation: "fade",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+    sync: ".post-gallery-bot"
+  });
+});
+
+});
+
+</script>
+
+<script type='text/javascript' src='https://www.teslarati.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":{"\/mediakit\/":[0,1,""],"https:\/\/www.teslarati.com\/interactive-tesla-supercharger-map\/":[0,0,""],"https:\/\/www.teslarati.com\/tesla-marketplace\/":[0,0,""]},"siteURL":"https:\/\/www.teslarati.com","siteURLq":"https:\/\/www.teslarati.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/ResizeSensor.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/main.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/themes/teslarati-mag/js/scripts.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/themes/teslarati-mag/js/jquery.infinitescroll.min.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/themes/teslarati-mag/js/autoloadpost.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-content/themes/teslarati-mag/js/retina.js'></script>
+<script type='text/javascript' src='https://www.teslarati.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='//teslarati.disqus.com/embed.js?ver=5.4'></script>
+<script>ntv.cmd.push(function(){var n=function(){var e;PostRelease&&PostRelease.firstPartyTracked?ntv.Util.appendImage("https://jadserve.postrelease.com/ce.gif?do=gci&fpd=www.teslarati.com"):setTimeout(function(){n()},100)};n()});</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"69ae2683cb7f497d","token":"94db66b309fe47cbbcec4eda04df5ef6","version":"2021.9.0","si":100}'></script>
+</body><script type="text/javascript" src="https://s.ntv.io/js/adb.js" id="ntv-adb" ntv-domain="teslarati.com" async></script>
+</html>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: www.teslarati.com @ 2021-10-08 01:40:23 by W3 Total Cache
+-->

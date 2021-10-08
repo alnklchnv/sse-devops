@@ -1,0 +1,889 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="dns-prefetch" href="//cdn.dotmed.com/" >
+
+	
+
+    <link rel="shortcut icon" href="/images/s19/favicon.ico" type="image/x-icon">
+   <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.dotmed.com/style/s19/assets/bootstrap.min.css" rel='preload'>
+ <!-- main style-->
+    <link rel="stylesheet" href="https://cdn.dotmed.com/style/s19/style.min.css" rel='preload'>
+
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700&display=swap" rel="stylesheet" rel='preload' as='font'>
+	<!-- autocomplete -->
+	<link href='https://cdn.dotmed.com/style/s19/jquery-ui-autocomplete-date/jquery-ui.min.css' rel='stylesheet'>	
+    <!-- Flat icon CSS -->
+    <link rel="stylesheet" href="https://cdn.dotmed.com/style/s19/assets/flaticon.css">
+	<!-- font awesome css -->
+	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>  
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="https://cdn.dotmed.com/style/s19/assets/slick.css">  
+ 
+	<script>
+		var domReadyQueue = [];
+	</script>
+
+
+
+        <script src="https://cdn.dotmed.com/js/s19/jquery-3.4.1.min.js"></script>
+	 
+	<script type="application/ld+json">    
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.dotmed.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.dotmed.com/listings/search/equipment.html?key={key}",
+    "query-input": "required name=key"
+  }
+}
+	 </script>
+	
+<meta name="description" content="">
+<meta property="og:title" content="New CT scanning method may improve heart massage" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.dotmed.com/news/story/52115" />
+<meta property="og:site_name" content="dotmed.com" />
+<meta property="fb:app_id" content="200785069952125" />
+
+	
+	<meta http-equiv="content-language" content="en">
+
+	
+	<meta http-equiv="content-language" content="en">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="heart, massage, method, study, hansen, kasper, arrest, university, resuscitation, research, person, deceased, ct, cardiac, people, forensic, videos" />
+
+	
+
+		<link rel='alternate' hreflang='x-default' href="https://www.dotmed.com/news/story/52115" />
+		 <link rel="alternate" hreflang="zh" href="https://zh.dotmed.com/news/story/52115" />
+		 <link rel="alternate" hreflang="fr" href="https://fr.dotmed.com/news/story/52115" />
+		 <link rel="alternate" hreflang="pt" href="https://pt.dotmed.com/news/story/52115" />
+		 <link rel="alternate" hreflang="es" href="https://es.dotmed.com/news/story/52115" />
+		 <link rel="alternate" hreflang="de" href="https://de.dotmed.com/news/story/52115" />
+
+
+	<title>
+New CT scanning method may improve heart massage
+</title>               
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="">
+<div class="top_notification">
+    <div class="container">  
+        <div class="row">        
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="notification_wrapper">
+				<h4>Over 2550 Total Lots Up For Auction at Six Locations - UT <a href='/auctions/featured/10701321.html'>10/12</a>, OK <a href='/auctions/featured/11013304.html'>10/13</a>, France <a href='/auctions/featured/10901315.html'>10/14</a>, CA <a href='/auctions/featured/11015288.html'>10/15</a>, FL <a href='/auctions/featured/10901316.html'>10/18</a>, NY <a href='/auctions/featured/10921302.html'>10/25</a></h4>
+
+				</div>
+            </div> 
+        </div>
+    </div>
+</div><!-- /. top_notification -->
+
+<div class="account_menu">
+    <div class="header-top">
+        <div class="dotmed_account_menu">
+            <div class="container">
+                <nav class="navbar navbar-expand-md navbar-light bg-faded">
+                            <a class='navbar-brand'  href="/news/"><img alt="DOTmed.com" title="DOTmed.com Home" src="https://cdn.dotmed.com/images/emails/news/euro-news-logo-small.png" border="0" /></a>
+
+
+					                    <form class="header-search-form news-search"  action='/news/search.html' method="GET" name="dotmedSearch" id="dotmedSearch" onSubmit="choose_search();">
+                        <input type="search" placeholder="Search HealthCareBusiness News"  id='searchbox' value='' name="key" required/>
+						<ul id='searchDropdown'>
+							<li id='search_selected_box'><a id='search_selected' href='#'>News</a><br>
+								<ul style='display:none'>
+<li id='search_Equipment' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Equipment</a></li><li id='search_Parts' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Parts</a></li><li id='search_People' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>People</a></li><li id='search_Companies' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Companies</a></li><li id='search_Services' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Services</a></li><li id='search_Equipment_Guide' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Equipment Guide</a></li><li id='search_Forums' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Forums</a></li><li id='search_News' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>News</a></li><li id='search_Training' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Training</a></li><li id='search_Bluebook' onclick='choose_search_ul($(this).attr("id"));'><a href='#' onclick='return false'>Bluebook</a></li>								</ul>
+							</li>
+						</ul>
+
+                        <button type="submit" class="search-btn">
+                            <i class="flaticon-search"></i>
+                        </button>
+						<div id="autocomplete_choices" class="autocomplete"></div>
+
+                    </form>
+
+
+
+
+					<div class="mean_menu news-menu">
+                        <ul class="navbar-nav nav ml-auto ">
+												<li class='nav-item'>
+
+<a href="#" class="nav-link"><img alt="English" src="https://cdn.dotmed.com/images/countries/small_flags/en.gif"/> EN <i class="flaticon-arrow-down-sign-to-navigate"></i></a>
+<ul class="dropdown_menu"><li><a href="http://zh.dotmed.com/news/story/52115" title="Chinese (Simplified)"><img alt="Chinese (Simplified)" src="https://cdn.dotmed.com/images/countries/small_flags/zh.gif"/> Chinese (Simplified)</a></li><li><a href="http://fr.dotmed.com/news/story/52115" title="French"><img alt="French" src="https://cdn.dotmed.com/images/countries/small_flags/fr.gif"/> French</a></li><li><a href="http://pt.dotmed.com/news/story/52115" title="Portuguese"><img alt="Portuguese" src="https://cdn.dotmed.com/images/countries/small_flags/pt.gif"/> Portuguese</a></li><li><a href="http://es.dotmed.com/news/story/52115" title="Spanish"><img alt="Spanish" src="https://cdn.dotmed.com/images/countries/small_flags/es.gif"/> Spanish</a></li><li><a href="http://de.dotmed.com/news/story/52115" title="German"><img alt="German" src="https://cdn.dotmed.com/images/countries/small_flags/de.gif"/> German</a></li></ul>                    
+					</li>
+
+
+
+                            <li class="nav-item"><a href="/news/about.html" class='nav-link'>About</a></li>
+                            <li class="nav-item account"><a href="/users/my/" class="nav-link"><i class="fl flaticon-user"></i>My DOTmed</a>
+								<ul class="dropdown_menu">
+       		    	                <li><a href="/login.html?backfromssl=1&refer=https%3A%2F%2Fwww.dotmed.com%2Fnews%2Fstory%2F52115">Log In</a></li>
+            	                    <li><a href="/register">Register</a></li>
+								</ul>
+	                        </li>
+                            <li class="nav-item"><a href="/login.html?backfromssl=1&refer=https%3A%2F%2Fwww.dotmed.com%2Fnews%2Fstory%2F52115" class="nav-link btn btn-primary">Login</a></li>
+							</li>
+                        </ul>
+                    </div>
+
+
+
+                </nav><!-- /.navbar -->
+
+		
+	  	
+
+            </div> 
+        </div>
+    </div>
+</div> <!-- /.account_menu -->
+
+
+<div class='account_menu'><div class='container'><div class='text-lg-center pb-1' style='position:relative' id='top-ad-container'>
+
+
+<script>
+
+domReadyQueue.push(function($){
+	var args = {"ad_type":"top","type":"news","ad_id":"top-ad-container","nid":"52115","divId":"keyadtop"};
+	args['_comp'] = "/components/display_ads/ajax";
+	args["script_name"] = "/news/story/52115";
+	var show = 1;
+	if(screen.width <= 576){
+		args['ad_type'] = 'mobile';
+	}
+
+	if(show){
+		$('#top-ad-container').load("/ajax/components/ajax",args,function(){
+			$.get("/ajax/components/ajax?_comp=/components/display_ads/ajax:sc_a");
+		});	
+	}
+});
+</script>
+
+
+	<div class='social-media-header'>
+		<a href='http://www.facebook.com/dotmedmedicaldevice' class='text-dark btn'><i class='fa fa-facebook'></i></a>
+		<a href='https://twitter.com/DOTmedcom' class='text-dark btn'><i class='fa fa-twitter'></i></a>
+		<a href='http://www.linkedin.com/company/142535' class='text-dark btn'><i class='fa fa-linkedin'></i></a>
+	</div>
+</div></div></div>
+<div class="toplinebg">
+    <div class="container">
+        <div class="topline">
+        </div>
+    </div>
+</div><!-- /.toplinebg -->
+<header class='news-header'>
+	<nav class="navbar navbar-expand-lg header-top">
+        <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
+            <span class="fa fa-bars"></span>
+        </button>
+		<a href='/' class='d-lg-block d-md-block d-sm-block d-xs-block d-xl-none'><img src='https://cdn.dotmed.com/images/dotmed_logo_small_transparent.png'></a>
+        <div class="collapse navbar-collapse navbars" id="collapse_target1">
+            <ul class="navbar-nav mx-auto d-xs-flex-column">
+				<li class='nav-item d-block d-lg-none d-xl-block d-md-none d-sm-none d-xs-none'>
+					<a class='nav-link' href='/' class='d-none d-sm-block d-lg-block d-md-block'><img src='https://cdn.dotmed.com/images/dotmed_logo_small_transparent.png' width='50px'></a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/MRI'>MRI</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Oncology'>Oncology</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Ultrasound'>Ultrasound</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Molecular-Imaging'>Molecular Imaging</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/X-Ray'>X-Ray</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Cardiology'>Cardiology</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Health-IT'>Health IT</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Business-Affairs'>Business Affairs</a>
+				</li>
+            </ul>
+        </div>
+    </nav>
+    <nav class="navbar navbar-expand-lg">
+        <div class="collapse navbar-collapse navbars" id="collapse_target2">
+            <ul class="navbar-nav mx-auto d-xs-flex-column">
+				<li class='nav-item d-block d-lg-none d-xl-block d-md-none d-sm-none d-xs-none' style='visibility:hidden'>
+					<a class='nav-link' href='/' class='d-none d-sm-block d-lg-block d-md-block'><img src='https://cdn.dotmed.com/images/dotmed_logo_small_transparent.png' width='50px'></a>
+				</li>
+
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Parts-And-Service'>Parts &amp; Service</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Operating-Room'>Operating Room</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/CT'>CT</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Women-Health'>Women's Health</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Proton-Therapy'>Proton Therapy</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Endoscopy'>Endoscopy</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/HTMs'>HTM</a>
+				</li>
+				<li class='nav-item'>
+					<a class='nav-link' href='/news/features/category/Pediatrics'>Pediatrics</a>
+				</li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<div class='container '>
+
+<div id="fb-root"></div>
+<style>
+	.newTextAd{
+		margin-top:0;
+	}
+
+</style>
+	See other Editions: <select id='news_region' name='news_region' onChange='window.location.href = "/news/story/52115?news_region=" + $("news_region").value'>
+		<option value='us'>Worldwide Edtion</option>
+		<option value='european' SELECTED>European Edition</option>
+	</select>
+
+<div class='row ml-3 mr-3'>
+	<div class='col-xs-12 col-md-12 col-lg-8'>
+
+<h2>New CT scanning method may improve heart massage
+<a href='/news/pressroom/'><img src="https://images.dotmed.com/images/news/pressroom-75.jpg" style="width: 40px;"></a>
+</h2>
+<em>Press releases may be edited for formatting or style</em> | August    07, 2020
+	<a href='/news/features/category/Cardiology' class='text-white badge badge-danger'>Cardiology</a>
+	<a href='/news/features/category/CT' class='text-white badge badge-danger'>CT</a>
+	<a href='/news/features/category/X-Ray' class='text-white badge badge-danger'>X-Ray</a>
+	<div class='row mt-2'>
+		<div class='col-2'>
+			<a class="twitter-share-button" href="https://www.dotmed.com/news/story/52115" data-size="large">Tweet</a>
+		</div>
+		<div class='col-2'>
+			<div class="fb-share-button" data-href="https://www.dotmed.com/news/story/52115" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dotmed.com%2Fnews%2Fstory%2F52115&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+		</div>
+		<div class='col-2'>
+			<script type="IN/Share" data-url="https://www.dotmed.com/news/story/52115"></script>
+		</div>
+		<div class='col-2'>
+			<a href='/legal/print/story.html?nid=52115' class='black-link'><i class='fa fa-print'></i></a>
+		</div>
+		<div class='col-2' style='display:none' id='rating-col'>
+			<div id='rating-updated' style='display:none'>Rating saved</div>
+		</div>
+	</div>
+	<div id='storyWrapper' class='mt-3'>
+		
+	Rapid first aid during cardiac arrest makes the difference between life and death. But what happens to the heart and the internal organs when people come running and begin to give well-meaning but heavy-handed heart massage as they attempt to keep the person who has suffered a cardiac arrest alive?<br/><br/>A research collaboration between the Department of Forensic Medicine at Aarhus University, Denmark, and the East Midlands Forensic Pathology Unit at the University of Leicester in the UK now offers an answer to this question.<br/><br/>Using a new CT scanning method, the researchers show how the chest and abdominal region of a deceased person move during simulated heart massage.<br/><img style='clear: both;display:inline-block' src='https://cdn.dotmed.com/images/spacer.jpg' height='1' width='1'><img src='https://www.dotmed.com/tracking/img.jpg?track=large&id=52367439&other_id=6894' style='display:none'>		<div class='row text-ad mb-3 ml-0 mr-0 '>		<div class='col-6 col-md-3 text-ad-img'>			<a href="/redirect.html?id=6894&stat_id=52367439">				<img src='https://cdn.dotmed.com/images/ad_logo/ad6894.jpg'>			</a>			<div class='adStats border-dark border bg-white mb-2 mt-2' style='display:none;' id='adStats_6894'>				<h3>Ad Statistics</h3>				Times Displayed: 469466<br>				Times Visited: 3436			</div>		</div>		<div class='col-6 col-md-9 col-lg-8'>			<h4>				<a href="/redirect.html?id=6894&stat_id=52367439"  target="_new">Servicing GE, Philips and Siemens CT equipment with OEM trained engineers</a>			</h4>			<p class='d-none d-md-block'>Numed, a well established company in business since 1975 provides a wide range of service options including time &amp; material service, PM only contracts, full service contracts, labor only contracts &amp; system relocation. Call 800 96 Numed for more info.</p>		</div>		<div class='col-xs-12 col-md-12 col-lg-1 text-right  p-0'>			<img src='https://cdn.dotmed.com/images/statsBarButton.png' style='padding-left:15px' onMouseover='$("#adStats_6894").show();' onMouseout='$("#adStats_6894").hide();'>		</div>	</div>&quot;Specifically, we've simulated heart massage by compressing the chest of a deceased person in a controlled manner in precisely the same way as would happen with heart massage. Though with the difference that this was done gradually and in slow motion while the whole process was CT scanned at the same time,&quot; explains Kasper Hansen, assistant professor at the Department of Forensic Medicine at Aarhus University and the lead author of the study, which has been published in the scientific journal Resuscitation.<br/><br/>The method can be compared with a stop motion video production, but where each image in the video has been replaced by a complete 3D CT scan. The method reproduces the organs movements during heart massage in a very detailed way and makes it possible to perform advanced imaging analysis on the volumetric dynamic CT dataset.<br/><br/>According to the Danish Heart Foundation, in Denmark 5,400 people suffer cardiac arrest outside of the hospitals every year, with approx. 16 per cent of them surviving. Although more people than previously survive thanks to stronger efforts in general resuscitation training and improved rehabilitation, there is still room for improvement in resuscitation techniques and procedures. Kasper Hansen hopes that this is where the new CT scanning method will prove useful.<br/><br/>&quot;The goal of heart massage is blood circulation, but we don't know enough about how the blood is pumped onwards, and why certain characteristic heart massage injuries such as lesions on the internal organs occur,&quot; he says.<br/><br/>&quot;There are many unknowns in connection with resuscitation. The new technique makes it possible to examine different aspects of heart massage. Using the method allows us to directly study the organ movements, and may help to clarify the basis for important physiological mechanisms. Because the scans have been carried out on a deceased person, it hasn't been possible to measure the blood flow directly. However, the method clearly demonstrates how, for example, the heart is affected during heart massage, and we can therefore gain a better understanding of the critical mechanisms during heart massage,&quot; says Kasper Hansen.<br/><div class='pagination justify-content-center clear mt-3'>			<div class='page-item active'><span class='page-link'>1<span class='sr-only'>(current)</span></span></div>			<div class='page-item'><a class='page-link' href="/news/story/52115?p_begin=1">2</a></div></div>
+
+<img src='https://www.dotmed.com/tracking/img.jpg?track=news&id=52115'>
+
+	</div>
+
+
+
+<div class='mb-3 mt-3'>
+    <a href='/news/subscribe/silos.html' class='btn btn-secondary'>Sign up for Cardiology stories</a>
+    <a href='/news/subscribe/silos.html' class='btn btn-red'>Sign up for Weekly Top stories</a>
+</div>
+
+
+
+<table width='100%'>
+	<tr>
+		<td></td>
+	</tr>
+	<script>
+	var use_autogrow = true;
+
+	function thumbs_up(cid,subtype){
+		$.post('/ajax/components/ajax',{'_comp':'/components/generic_ratings/rate',rating:1,type:subtype,target_id:cid});
+		var new_val = $('#rating_count_' + cid).length > 0 ? parseInt($('#rating_count_' + cid).text()) : 0;
+		new_val++;
+		if(new_val > 1){
+			$('#did_rate_'+cid).html('<span>' + new_val + '</span>' + " people liked this");
+		} else {
+			$('#did_rate_'+cid).html('<span>' + new_val + '</span>' + " person liked this");
+		}
+	}
+
+	function show_hidden_autogrow(form){
+		$('#' + form + ' textarea').autogrow();
+	}
+
+	function createNickname(event){
+		var sel = event.target;
+		if(sel.options[sel.selectedIndex].value == -1){
+			$('#createNickname').show();
+			$('html body').animate({
+				scrollTop: $('#createNickname').offset().top
+			});
+			$('#nickname').focus();
+
+		}
+
+	}
+
+
+
+	function createNicknameSelect(){
+		$.post('/ajax/components/ajax',{'_comp':'/components/forums/nicknames/data:form_data',news:1},function(data){
+
+			var nickname = data;
+			$('.nickname_select').each(function(i,seldiv){
+				seldiv = $(seldiv);
+				if(/_[1-9]/.test(seldiv.attr('id'))){
+					seldiv.html("Post Reply As: ");
+				}else{
+					seldiv.html("Post Comment As: ");
+				}
+
+				var sel = $('<select name="use_nickname" id="comment_form_' + seldiv.attr('id') + '" class="form-control">');
+				sel.change(createNickname);
+				seldiv.append(sel);
+				data.forEach(function(row){
+					sel.append($("<option value='" + row.id + "'>" + row.value + "</option>"));
+				});
+
+			});
+
+		},'json');
+	}
+
+	function check_discussion_form(cid){
+		$('#comment_reply_' + cid).attr('disabled',true);
+		if($('#comment_form_nickname_select_' + cid).length > 0 && $('#comment_form_nickname_select_' + cid).val() == -1){
+			alert("please create a nickname or post as yourself");
+			$('comment_reply_' + cid).attr('disabled',false);
+			return;
+		}
+
+		if($('#comment_form_text_' +cid).val().length > 0 && $('#comment_form_text_'+ cid).val() != 'Enter your reply here...'){			
+			$('#comment_form_' +cid).submit();
+		}else{
+			alert("Please enter in a comment");
+			$('#comment_reply_' + cid).attr('disabled',false);
+		}
+
+	}
+
+	function forum_subscribe(pid,did,sid,serviceid){
+		$('#subscribe_button').load('/ajax/components/ajax?_comp=%2Fcomponents%2Fdiscussions/subscribe&sid=' + sid + '&pid='+pid + "&did=" + did + "&serviceid=" + serviceid);
+	}
+
+
+	function rating_details(rate_id,uid){
+		$('#details_' + rate_id).hide();
+		$('#rating_details_' + rate_id).show();
+		$('#rating_details_' + rate_id).load('/ajax/components/ajax?_comp=%2Fcomponents%2Fdiscussions/show_ratings:details&rate_id='+ rate_id + '&uid=' + uid + '&jquery=1&new=');
+	}
+
+	function toggle_tab(id){
+		$('#auctionTabs').children().each(function(tab){
+			if(id == tab.id){
+				$(id).addClass('myButtonMenuPressed');
+				$(id + '_tab').show();
+			}else{
+				$(tab.id).removeClass('myButtonMenuPressed');
+				$(tab.id + '_tab').hide();
+			}	
+		});
+	}
+
+	domReadyQueue.push(function($){
+		if(use_autogrow){
+			$('.autogrow').autogrow();
+		}
+
+		createNicknameSelect();
+
+	});
+
+</script>
+
+	<tr>
+		<td colspan="2"><a name='write_comments'></a>
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+<h3>You Must Be Logged In To Post A Comment</h3><SCRIPT LANGUAGE="JavaScript">
+<!--
+function redirect()
+        {
+				thewindow = window.open('/content/loginhelp.html', 'anew', config='height=600,width=550,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=no,modal=yes');
+				if (thewindow.opener == null) thewindow.opener = self;
+				}
+// -->
+</SCRIPT>
+
+<div class="row mt-3 login-register">
+    <div class="col-12 col-md-6 col-lg-3 offset-lg-3 mt-3 login-form">
+        <form action="/login.html" method="POST" class='new-form'>
+			<div class='card'>
+    		    <h2 class='h3 text-white card-header bg-red'>Sign In</h2>
+				<div class='card-body'>
+			        <p>If you've already created an account, use your email address and password to sign in using the form below.</p>
+			        <input type="hidden" name="refer" value="/news/story/52115#write_comments">
+			        <input type="hidden" name="backfromssl" value="0">
+			        <div class="field block form-group">
+		    	        <label>Email address:</label>
+		        	    <input type="text" name="user" value="" class="input-text form-control" />
+			        </div>
+			        <div class="field block form-group">
+			            <label>Password:</label>
+			            <input type="password" name="pass" class="input-text input-password form-control" />
+			        </div>
+			        <input type="submit" value="Sign In" class="input-btn input-small btn btn-primary" />
+
+		     		<ul class="login-help">
+		            	<li><a href="//www.dotmed.com/forgot-password.html" title="Forget your password?">Forgot your password?</a></li>
+			            <li><a href="#" title="Login Problems?" onClick="javascript:redirect()" >Login Problems?</a></li>
+			        </ul>
+					<div>View our <a target='_blank' href='/legal/legalnotice.html'>Legal Notice</a> and <a target='_blank' href='/legal/privacynotice.html'>Privacy Notice</a></div>
+
+				</div>
+			</div>
+		</form>
+    </div>
+    <div class="col-12 col-md-6 col-lg-3 mt-3 register-form">
+		<div class='card'>
+			<h2 class='card-header bg-red text-white h3'>Register</h2>
+			<div class='card-body'>
+		        <p>Registration is <strong>Free</strong> and <strong>Easy</strong>.</p>
+		        <p>Enjoy the benefits of The World's Leading New &amp; Used Medical Equipment Marketplace.</p>
+		        <a class='btn btn-secondary' href="//www.dotmed.com/register?refer=%2Fnews%2Fstory%2F52115%23write_comments" title="Register Now!">Register Now!</a>
+			</div>
+		</div>
+    </div>
+
+<div style="clear: both;">&nbsp;</div>
+</div>
+
+
+
+
+		</td>
+	</tr>
+</table>
+
+
+	</div>
+	<div class='col-xs-12 col-md-12 col-lg-4'>
+		<div class='m-auto' style='width:300px'>
+			<p><a class='btn btn-red' href='/news/subscribe/silos.html'>Sign up for Weekly Top stories</a></p>
+			<p>
+			<a class='btn btn-secondary' href='/news/subscribe/silos.html'>Sign up for Cardiology stories</a></p>
+		</div>
+
+	<div style='clear:both;width:300px;padding-top:20px' class='m-auto'>
+<a class='display-ad' href="https://www.dotmed.com/redirect.html?did=13585&stat_id=8149275" target="_blank" title=""><img src="https://www.dotmed.com/ads/addisplay.html?id=13585&description=577&pcode=&type=news&key=&header=" alt="advertisement" style="width:300px;height:250px;border:1px solid lightgrey;"></a>
+
+
+
+
+	</div>
+<p class='clear'>&nbsp;</p>
+	<div id='sdgf' class='m-auto' style='max-width:160px;max-height:600px;'>
+		<a class='display-ad' href="https://www.dotmed.com/redirect.html?did=14106&stat_id=8149219" target="_blank" title=""><img src="https://www.dotmed.com/ads/addisplay.html?id=14106&description=&pcode=&type=news&key=&header=" alt="advertisement" style="width:160px;height:600px;border:1px solid lightgrey;"></a>
+
+
+
+
+
+	</div>
+
+	<div class='mt-3'>
+
+		<h2 class='mb-2 news-border'><a class='black-link' href='/news/features/category/Cardiology'>Cardiology Homepage</a></h2>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56084'>ReCor Medical launches the Paradise Ultrasound Renal Denervation for the treatment of hypertension in Europe</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56075'>BrainScope, Aon secure IP-based deal funding full expansion of commercialization, new indications for BrainScope's platform</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56034'>Lankenau Heart Institute, part of Main Line Health, partners with Philips for integrated cardiovascular solutions</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56038'>Study analyzes a decade of cardiac imaging trends</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56039'>Picard Medical, Inc. acquires mechanical heart replacement technology</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56014'>UltraSight collaboration with GE Healthcare will bring wireless cardiac point of care ultrasound to space</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56022'>GE Healthcare introduces MyoSPECT on World Heart Day</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/56005'>Medtronic receives CE mark approval for radial artery access portfolio</a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/55976'>Zebra Medical Vision secures 8th FDA clearance for its coronary artery calcium (CAC) solution </a>
+				</div>
+			</div>
+			<div class='small-story mb-3' style='overflow:hidden'>
+				<div class='small-story-text small-story-text-lg'>
+					<a class='black-link' href='/news/story/55979'>European organisations join forces to shine spotlight on cardiovascular health</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+
+
+
+</div>
+<section class="dot_signup">   
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="signup_wrapper">
+                    <h3>HealthCare Business News is FREE! Sign up now.</h3>
+                    <form action='/register.html' method="POST">
+                        <input type='email' value="" name='email' placeholder="Enter Your Email" />
+                        <div class="signup_btn">
+                            <button type="submit">Sign Up</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>    
+</section> <!-- /.dot_signup -->
+
+<footer>
+    <div class='container'>
+        <div>
+            <div>
+                <div class="single_item_wrapper">
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/advertise.html" title="">Advertise</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/advertise.html" title="">Increase Your<br>Brand Awareness</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/healthcare-providers.html" title="">Auctions + Private Sales</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/healthcare-providers.html" title="">Get The<br>Best Price</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/buyersgohere.html" title="">Buy Equipment/Parts</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/buyersgohere.html" title="">Find The<br>Lowest Price</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/news" title="">Daily News</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/news" title="">Read The<br>Latest News</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/certified/users.html" title="">Directory</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/certified/users.html" title="">Browse All<br>DOTmed Users</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/certified-parts/" title="">Gold Parts Vendor Program</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/certified-parts/" title="">Receive PH<br>Requests</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/auctions/gsd_info.html" title="">Gold Service Dealer Program</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/auctions/gsd_info.html" title="">Receive RFP/PS<br>Requests</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/productivity-tools.html" title="">Healthcare Providers</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/productivity-tools.html" title="">See all<br>HCP Tools</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/careers" title="">Jobs/Training</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/careers" title="">Find/Fill<br>All Jobs</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/partshunter.html" title="">Parts Hunter +EasyPay</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/partshunter.html" title="">Get Parts<br>Quotes</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/certified/" title="">Recently Certified</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/certified/" title="">View Recently<br>Certified Users</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/certified/" title="">Recently Rated</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/certified/" title="">View Recently<br>Certified Users</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/rental/" title="">Rental Central</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/rental/" title="">Rent Equipment<br>For Less</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/sellersgohere.html" title="">Sell Equipment/Parts</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/sellersgohere.html" title="">Get The<br>Most Money</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/forums/?forum=3" title="">Service Technicians Forum</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/forums/?forum=3" title="">Find Help<br>And Advice</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/features/rfp.html" title="">Simple RFP</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/features/rfp.html" title="">Get Equipment<br>Quotes</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/virtual-trade-show/" title="">Virtual Trade Show</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/virtual-trade-show/" title="">Find Service<br>Brand Awareness</a></li>
+                        </ul>
+                    </div>
+                    <div class="fotter_single_col">
+                        <h5><a href="https://www.dotmed.com/certified/" title="">Ethics on DOTmed</a></h5>
+                        <ul>
+                            <li><a href="https://www.dotmed.com/certified/" title="">View Our<br>Ethics Program</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="footer_menu">
+                    <ul>
+                        <li><a href="https://www.dotmed.com/legal/legalnotice.html">Legal</a></li>
+                        <li><a href="https://www.dotmed.com/legal/privacynotice.html">Privacy</a></li> 
+                        <li><a href="https://www.dotmed.com/">Home</a></li> 
+                        <li><a href="https://www.dotmed.com/features/stats.html">Stats</a></li> 
+                        <li><a href="https://www.dotmed.com/forums/subscription.html">Subscription</a></li> 
+                        <li><a href="https://www.dotmed.com/help/">Help</a></li> 
+                        <li><a href="https://www.dotmed.com/contactus.html">Contact Us</a></li>  
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <div class="copyright">
+                    <ul>
+                        <li>Access and use of this site is subject to the terms and conditions of our <a href="https://www.dotmed.com/legal/legalnotice.html">LEGAL NOTICE</a> &amp; <a href='https://www.dotmed.com/legal/privacynotice.html'>PRIVACY NOTICE</a></li>
+                        <li>Property of and Proprietary to DOTmed.com, Inc. <a href='https://www.dotmed.com/copyright.html'>Copyright &copy;2001-2021
+ DOTmed.com, Inc.</a></li>
+                        <li>ALL RIGHTS RESERVED</li> 
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>   
+	<img src='https://www.dotmed.com/listings/images/img.jpg?rnd=7e3946b' width='1' height='1'>
+</footer> <!-- /.Footer -->
+
+
+
+
+   
+    <!-- JavaScript -->
+
+
+
+
+    <script src="https://cdn.dotmed.com/js/s19/all_site.min.js"></script>    
+
+    
+<script type='text/javascript' src='/js/flex.modal.min.js'></script>
+
+<script type='text/javascript' src='/js/jquery.autogrow-textarea.js'></script>
+
+<link rel="stylesheet" href="https://cdn.dotmed.com/js/jquery-lightbox/css/lightbox.css" type="text/css" />
+
+<script type="text/javascript" src="https://cdn.dotmed.com/js/s19/simple-lightbox.js"></script>
+	<link rel='stylesheet' href='https://cdn.dotmed.com/style/s19/assets/simplelightbox.css'>
+<script type='text/javascript' src='https://cdn.dotmed.com/js/s19/star-rating.min.js'></script>
+	<link rel='stylesheet' href='https://cdn.dotmed.com/style/s19/assets/star-rating.min.css'>
+
+<script>
+  domReadyQueue.push(function($){
+	$('.autogrow').autogrow();
+		$('#rating').rating({
+			min:0,
+			max:5,
+			animate:false,
+			showClear:false,
+			showCaption:false,
+			size:'xs',
+			emptyStar: "<i class='fa fa-star-o'></i>",
+			filledStar: "<i class='fa fa-star'></i>",
+			step:1
+			,displayOnly:true
+			});
+			$('#rating-col').show();
+
+
+		var $gallery = $('a[data-lightbox]').simpleLightbox();
+		$('img[hspace]').each(function(i,obj){
+			var dir = $(obj).parent().parent().css('float');
+			var marginDir = (dir == 'right' ?  'marginLeft' : 'marginRight');
+			margin = $(obj).attr('hspace');
+            $(obj).css(marginDir, margin + "px");			
+		});
+
+
+
+});
+</script>
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+ <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=138296479572926"></script>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+
+
+
+<script src='/js/mqnnchat_all.js'></script>
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+  ga('create', 'UA-912056-1', 'auto');
+  ga('require', 'displayfeatures');
+		ga('set', 'dimension1', '2544');
+  ga('send', 'pageview');
+
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-a27_zNj5w4mxQ"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="//pixel.quantserve.com/pixel/p-a27_zNj5w4mxQ.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+    jQuery(function(){
+      while (domReadyQueue.length) {
+        domReadyQueue.shift()(jQuery);
+      }
+    });
+</script>
+
+</body>
+</html>
+

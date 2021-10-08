@@ -1,0 +1,891 @@
+
+<!doctype html>
+<html lang="en">
+<head><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.eventOptions={passive:!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventListener,e.eventOptions)))}_removeUserInteractionListener(e){this.triggerEvents.forEach((t=>window.removeEventListener(t,e.userEventListener,e.eventOptions)))}triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}async _loadEverythingNow(){this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("rocket-allScriptsLoaded"))}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t=>{const n=document.createElement("script");let i;[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type",i=e.nodeValue),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")&&this._isValidScriptType(i)?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}_isValidScriptType(e){return!e||""===e||"string"==typeof e&&["text/javascript","text/x-javascript","text/ecmascript","text/jscript","application/javascript","application/x-javascript","application/ecmascript","application/jscript","module"].includes(e.toLowerCase())}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t=>{const n=t.getAttribute("src");if(n){const t=document.createElement("link");t.href=n,t.rel="preload",t.as="script",e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-load")),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),window.dispatchEvent(new Event("rocket-pageshow")),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript;n||console.error("WPRocket unable to document.write this: "+t);const i=document.createRange(),r=n.parentElement;let a=e.get(n);void 0===a&&(a=n.nextSibling,e.set(n,a));const o=document.createDocumentFragment();i.setStart(o,0),o.appendChild(i.createContextualFragment(t)),r.insertBefore(o,a)}}async _requestAnimFrame(){return new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts(["keydown","mousemove","touchmove","touchstart","touchend","wheel"]);e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/icon/favicon-16x16.png">
+<link rel="mask-icon" href="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/icon/safari-pinned-tab.svg" color="#19202B">
+<link rel="shortcut icon" href="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/icon/favicon.ico">
+<meta name="theme-color" content="#19202B">
+<link rel="manifest" href="https://www.dexerto.com/wp-content/themes/dexerto/pushwoosh/manifest.json">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<noscript>
+						
+		</noscript>
+<link rel="preconnect" href="https://d2zv5rkii46miq.cloudfront.net">
+<link rel="preconnect" href="https://message.sp-prod.net">
+<link rel="preconnect" href="https://secure.gravatar.com">
+<link rel="preconnect" href="https://ccpa-service.sp-prod.net">
+<link rel="preconnect" href="https://sb.scorecardresearch.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<link rel="preconnect" href="https://adservice.google.com">
+<link rel="preconnect" href="https://www.googletagservices.com">
+<link rel="preconnect" href="https://tpc.googlesyndication.com">
+<link rel="preconnect" href="https://connect.facebook.net">
+<meta name="twitter:image" content="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-1024x576.jpg" />
+<link rel="preconnect" href="https://cdn.jwplayer.com">
+<link rel="preconnect" href="https://cdn.syndication.twimg.com">
+<link rel="preconnect" href="https://platform.twitter.com">
+<link rel="preconnect" href="https://syndication.twitter.com">
+<link rel="preconnect" href="https://cdn.taboola.com">
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.dexerto.com/wp-content/cache/min/1/0/latest/cmp_shim.js?ver=1632378448'></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			// GDPR Stub file.
+			!function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+		</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			// CCPA Stub file.
+			(function () { var e = false; var c = window; var t = document; function r() { if (!c.frames["__uspapiLocator"]) { if (t.body) { var a = t.body; var e = t.createElement("iframe"); e.style.cssText = "display:none"; e.name = "__uspapiLocator"; a.appendChild(e) } else { setTimeout(r, 5) } } } r(); function p() { var a = arguments; __uspapi.a = __uspapi.a || []; if (!a.length) { return __uspapi.a } else if (a[0] === "ping") { a[2]({ gdprAppliesGlobally: e, cmpLoaded: false }, true) } else { __uspapi.a.push([].slice.apply(a)) } } function l(t) { var r = typeof t.data === "string"; try { var a = r ? JSON.parse(t.data) : t.data; if (a.__cmpCall) { var n = a.__cmpCall; c.__uspapi(n.command, n.parameter, function (a, e) { var c = { __cmpReturn: { returnValue: a, success: e, callId: n.callId } }; t.source.postMessage(r ? JSON.stringify(c) : c, "*") }) } } catch (a) { } } if (typeof __uspapi !== "function") { c.__uspapi = p; __uspapi.msgHandler = l; c.addEventListener("message", l, false) } })();
+		</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			// GDPR Consent in the EU.
+			window._sp_ = {
+				config: {
+					accountId: 1523,
+					baseEndpoint: "https://sourcepoint.dexerto.com",
+					propertyHref: "https://www.dexerto.com",
+					targetingParams: {
+						type: "GDPR"
+					},
+					stageCampaign: true,
+					events: {
+						// @see https://documentation.sourcepoint.com/web-implementation/web-implementation/sourcepoint-gdpr-and-tcf-v2-support/optional-callbacks-tcfv2.
+						onConsentReady: function (consentUUID, euconsent) {		
+							// Fires on a GDPR page load (if accepted already) and when the GDPR dialog box is closed.			
+							__uspapi('getUSPData', 1 , (uspData, success) => {
+								if(success && uspData.uspString==='1---') {
+												/* send_gtm_on_consent feature flag is off */								}
+							});
+						}
+					},
+				}
+			}
+
+			// CCPA Consent in California.
+			window._sp_ccpa = {
+				config: {
+					mmsDomain: "https://message.sp-prod.net",
+					ccpaOrigin: "https://ccpa-service.sp-prod.net",
+					accountId: 1523,
+					siteHref: "https://www.dexerto.com",
+					getDnsMsgMms: true,
+					alwaysDisplayDns: false,
+					targetingParams: {
+						type: "CCPA"
+					},
+					events:{
+						onConsentReady: function (consentUUID, euconsent) {
+							// Fires on a non-GDPR and non-CCPA pageload.
+							__uspapi('getUSPData', 1 , (uspData, success) => {
+								if(success && uspData.uspString!=='1---') {
+												/* send_gtm_on_consent feature flag is off */								}
+							});
+						},
+						onMessageChoiceSelect: function (choice_id, choice_type_id) {
+							// Fires when the CCPA dialog box with Californian IP addresses is closed. 
+										/* send_gtm_on_consent feature flag is off */						}
+					}
+				}
+			}
+		</script>
+<script type="rocketlazyloadscript" data-minify="1" src="https://www.dexerto.com/wp-content/cache/min/1/wrapperMessagingWithoutDetection.js?ver=1632378448"></script>
+<script type="rocketlazyloadscript" data-minify="1" src="https://www.dexerto.com/wp-content/cache/min/1/ccpa.js?ver=1632378448"></script>
+
+<script type="rocketlazyloadscript">
+			var _comscore = _comscore || [];
+			_comscore.push({ c1: "2", c2: "36119442" });
+			(function() {
+				var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+				s.src = "https://sb.scorecardresearch.com/cs/36119442/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+<noscript>
+			<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=36119442&amp;cv=3.6.0&amp;cj=1">
+		</noscript>
+
+
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MR7KFTJ');</script>
+
+
+<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR7KFTJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+
+<script type="rocketlazyloadscript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+	</script><script type="rocketlazyloadscript" src="https://prebid.openx.net/ox/cdn/dexerto/prebid.dexerto-en-standard.js" async></script>
+<script type="rocketlazyloadscript">
+	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+	apstag.init({ pubID: '1da09ea7-cdc5-4da9-b66d-45d733a8940b', adServer: 'googletag'});        
+</script><script type="rocketlazyloadscript">
+	googletag.cmd.push(function () {
+		var _YB = _YB || {
+			ab: function () { 
+				return _YB.dool ? "b" : "a" + Math.floor(Math.random() * 10);
+			},
+			dool: Math.random() >= 0.1,
+		};
+
+		var yb_ab;
+		if (Math.random() <= 0.9) { 
+			yb_ab = _YB.ab();
+		} else { 
+			yb_ab = "c";
+		}
+		googletag.pubads().setTargeting("yb_ab", yb_ab);
+	});
+</script><script type="rocketlazyloadscript" data-minify="1" async src="https://www.dexerto.com/wp-content/cache/min/1/tag/js/gpt.js?ver=1632378448"></script>
+<script type="rocketlazyloadscript">
+	var googleSlots = [];
+	var apstagSlots = [];
+
+	googletag.cmd.push(function() {
+		var leaderboardMapping = googletag.sizeMapping()
+			.addSize([1280,0], [[728,90], [970,250], [970,90], [1,1]])
+			.addSize([768,0], [[728,90]])
+			.addSize([0,0], [])
+			.build();
+		var mpuMapping = googletag.sizeMapping()
+			.addSize([1280,0], [])
+			.addSize([768,0], [])
+			.addSize([0,0], [[300,250], [320,50]])
+			.build();
+		var smallSidebarMapping = googletag.sizeMapping()
+			.addSize([1280,0], [[300,250]])
+			.addSize([768,0], [[300,250]])
+			.addSize([0,0], [])
+			.build();
+		var largeSidebarMapping = googletag.sizeMapping()
+			.addSize([1280,0], [[300,600], [300,250]])
+			.addSize([768,0], [[300,600], [300,250]])
+			.addSize([0,0], [])
+			.build();
+		var adhesionMapping = googletag.sizeMapping()
+			.addSize([1280,0], [])
+			.addSize([768,0], [])
+			.addSize([0,0], [[320,50]])
+			.build();
+		
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/top-desktop-leaderboard-article-page', [ [728,90], [970,250], [970,90], [1,1] ], 'ad-desktop-article-top-leaderboard')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(leaderboardMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/top-desktop-leaderboard-article-page', 'sizes': [ [728,90], [970,250], [970,90], [1,1] ], 'slotID': 'ad-desktop-article-top-leaderboard'});
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/desktop-article-page-sidebar-ad-1', [ [300,250] ], 'ad-desktop-article-sidebar-1')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(smallSidebarMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/desktop-article-page-sidebar-ad-1', 'sizes': [ [300,250] ], 'slotID': 'ad-desktop-article-sidebar-1'});
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/desktop-article-page-sidebar-ad-2', [ [300,600], [300,250] ], 'ad-desktop-article-sidebar-2')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(largeSidebarMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/desktop-article-page-sidebar-ad-2', 'sizes': [ [300,600], [300,250] ], 'slotID': 'ad-desktop-article-sidebar-2'});
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/mobile-in-article-ad-1', [ [300,250], [320,50] ], 'ad-mobile-article-1')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(mpuMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/mobile-in-article-ad-1', 'sizes': [ [300,250], [320,50] ], 'slotID': 'ad-mobile-article-1'});
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/mobile-in-article-ad-2', [ [300,250], [320,50] ], 'ad-mobile-article-2')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(mpuMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/mobile-in-article-ad-2', 'sizes': [ [300,250], [320,50] ], 'slotID': 'ad-mobile-article-2'});
+googleSlots.push(
+	googletag.defineSlot('/22348890574/dexerto_v1/en/misc/mobile-article-page-bottom-leaderboard', [ [320,50] ], 'ad-mobile-article-bottom-leaderboard')
+		.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+	.defineSizeMapping(adhesionMapping)
+	.addService(googletag.pubads())
+);
+apstagSlots.push({'slotName':'/22348890574/dexerto_v1/en/misc/mobile-article-page-bottom-leaderboard', 'sizes': [ [320,50] ], 'slotID': 'ad-mobile-article-bottom-leaderboard'});
+
+		googletag.pubads().enableLazyLoad({ fetchMarginPercent: 25, renderMarginPercent: 25, mobileScaling: 0.5 });
+		
+		
+	googletag.pubads().disableInitialLoad();
+	googletag.enableServices();
+	apstag.fetchBids({ slots: apstagSlots,timeout: 1000 }, function(bids) {
+		apstag.setDisplayBids();
+		googletag.pubads().refresh(googleSlots);
+	});
+
+	});
+</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+
+
+<title>Respawn respond to complaints about hipfire in Apex Legends - Dexerto</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&#038;display=swap" />
+<meta name="description" content="Respawn Entertainment have explained why they are so careful in balancing hip fire in Apex Legends, following fan complaints over its accuracy." />
+<link rel="canonical" href="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Respawn respond to complaints about hipfire in Apex Legends" />
+<meta property="og:description" content="Respawn Entertainment have explained why they are so careful in balancing hip fire in Apex Legends, following fan complaints over its accuracy." />
+<meta property="og:url" content="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/" />
+<meta property="og:site_name" content="Dexerto" />
+<meta property="article:publisher" content="https://en-gb.facebook.com/Dexerto/" />
+<meta property="article:published_time" content="2020-08-15T12:02:06+00:00" />
+<meta property="og:image" content="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg" />
+<meta property="og:image:width" content="1067" />
+<meta property="og:image:height" content="600" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@JoeWOCraven" />
+<meta name="twitter:site" content="@Dexerto" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Joe Craven" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="2 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","author":{"@type":["Person"],"@id":"https://www.dexerto.com/#/schema/person/7cb31cd09d467ee84b43582af8fa851a","name":"Joe Craven","image":{"@type":"ImageObject","@id":"https://www.dexerto.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=96&d=mm&r=g","caption":"Joe Craven"},"description":"Joe is a writer for Dexerto, a role he began in early 2019. Based in Birmingham, England, he studies History at the University of Birmingham. When not writing about video games, he'll likely be playing them, reading about an obscure 17th century war, or lamenting Leeds United. You can contact Joe at joe.craven@dexerto.com.","sameAs":["https://twitter.com/JoeWOCraven"],"url":"https://www.dexerto.com/author/joecraven/"},"headline":"Respawn respond to complaints about hipfire in Apex Legends","datePublished":"2020-08-15T12:02:06+00:00","dateModified":"2020-08-15T12:02:06+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/"},"wordCount":466,"publisher":{"@type":"Organization","@id":"https://www.dexerto.com/#organization","name":"Dexerto","url":"https://www.dexerto.com/","sameAs":["https://en-gb.facebook.com/Dexerto/","https://www.instagram.com/dexerto/?hl=en","https://www.linkedin.com/company/dexerto-ltd","https://www.youtube.com/channel/UCU9Ra54_MiPLVlhY01pPkag","https://twitter.com/Dexerto"],"logo":{"@type":"ImageObject","@id":"https://www.dexerto.com/#logo","inLanguage":"en-US","url":"https://www.dexerto.com/wp-content/uploads/2020/10/dexerto-logo-1.png","contentUrl":"https://www.dexerto.com/wp-content/uploads/2020/10/dexerto-logo-1.png","width":151,"height":47,"caption":"Dexerto"},"image":{"@id":"https://www.dexerto.com/#logo"}},"image":{"@type":"ImageObject","@id":"https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/#primaryimage","inLanguage":"en-US","url":"https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg","contentUrl":"https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg","width":1067,"height":600,"caption":"Lifeline hipfiring in Season 6 next to logo"},"thumbnailUrl":"https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg","articleSection":["Apex Legends"],"dateline":"Saturday, August 15th, 2020","articleBody":"A Respawn Entertainment developer has explained why they are so careful when balancing hipfire in Apex Legends, following complaints about a lack of accuracy.\n\n\t\t\n\t\t\t\n\t\t\n\t\nOne of the strongest aspects of Apex Legends is its weapon pool, incorporating a host of guns and equipment to make the Titanfall-esque battle royale as varied as it can be.\nHowever, many fans have commented on the relative strength of hipfire, arguing that is too weak on a number of weapons. One of these weapons is the HAVOC assault rifle, which featured in recent trailers for the upcoming Season 6.\nRespawn EntertainmentThe HAVOC was one of the first new weapons to added to Apex Legends last year.\nThe energy ammo assault rifle has varied in its viability, but has settled in mid tier over the course of Season 5. One weakness of the HAVOC is its hipfire, which many players have suggested is below par and almost futile.\nThis was pointed out by Redditor &#8216;ChubbySupreme&#8216;, who lamented the hip fire and pointed out a recent clip that still shows the majority of shots missing.\n\nRead More: Apex Legends devs explain why World&#8217;s Edge train is stopped in Season 6\n\nHowever, one Respawn dev responded, explaining the developer&#8217;s approach to balancing hipfire, and why strengthening it is something they have to tread very carefully around.\n&#8220;There are good combat reasons why guns aren&#8217;t that accurate in hipfire,&#8221; one Respawn designer replied. &#8220;Hipfire accuracy is fundamentally about a stronger tradeoff between movement and accuracy.&#8221;\n\n&#8220;In Titanfall it&#8217;s about constant movement, so hipfire is accurate because you don&#8217;t want a big penalty to movement,&#8221; they said. &#8220;In Apex we want the tradeoff between movement and accuracy. In general, the further the range you can effectively fight, the higher the mobility penalty.&#8221;\nEssentially, Respawn want to ensure that mobility remains key in a gunfight, and players aren&#8217;t able to laser enemies while being incredibly difficult targets to hit.\n\nRead More: First in-game look at Rampart leaked ahead of Apex Legends Season 6\n\nThey finished: &#8220;If we made ARs too accurate with hipfire, they would have too many strengths because they would be strong in mid range while also being too strong in close range &#8212; it&#8217;s important that weapon classes have weaknesses. We choose the hipfire accuracy as a meaningful axis for guns to differ on &#8212; I believe for good reason and in a way that is healthy for the game &#8212; and that means some guns have to have bad hipfire.&#8221;\nIt goes to show the consideration Respawn give to common in-game mechanics, and how they are striving to keep the game&#8217;s weapon pool as balanced as possible.\nAny changes to hipfire will not be rushed, and Respawn clearly have their reasons.","video":[]}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Apex Legends","item":"https://www.dexerto.com/apex-legends/"},{"@type":"ListItem","position":2,"name":"Respawn respond to complaints about hipfire in Apex Legends"}]}</script>
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link data-minify="1" rel='stylesheet' id='dexerto-main-styles-css' href='https://www.dexerto.com/wp-content/cache/min/1/wp-content/themes/dexerto/assets/scss/build/main.css?ver=1632378450' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://www.dexerto.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='sticky_leaderboard_script-js-after'>
+	window.googletag = window.googletag || { cmd: [] };
+	googletag.cmd.push(
+		function() {
+			googletag.pubads().addEventListener(
+				'impressionViewable',
+				function( event ) {
+					var headerContent = document.querySelector( '.ad__header.ad__sticky-desktop:not(.relative)' );
+
+					var stickySeconds = 3000;
+
+					var activateTimeout = false;
+
+					if ( headerContent.classList.contains( 'relative' ) ) return;
+					var adId = event.slot.getSlotElementId();
+
+					if ( adId.indexOf( 'leaderboard') < 0 ) return;
+
+					if ( typeof headerContent !== 'undefined' && headerContent !== null ) {
+						if (activateTimeout === false) headerContent.classList.add( 'sticky' );
+
+						setTimeout(
+							function () {
+								headerContent.classList.remove( 'sticky' );
+								headerContent.classList.add( 'relative' );
+								headerContent.style.top = 0;
+							},
+							stickySeconds
+						);
+
+						activateTimeout = true;
+					}
+				}
+			)
+		}
+	);
+</script>
+<link rel="https://api.w.org/" href="https://www.dexerto.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dexerto.com/wp-json/wp/v2/posts/1406595" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dexerto.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dexerto.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.dexerto.com/?p=1406595' />
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["apex-legends"],"pageAttributes":["apex-legends-season-6","respawn-entertainment"],"pagePostAuthor":"Joe Craven"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<link rel="amphtml" href="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/?amp"> <style type="text/css" id="wp-custom-css">
+			.sponsored .ad__header .dex-adlabel {
+	display: none;
+}
+
+/*
+.ad__header {
+	min-height: calc(90px + .9rem + 1rem + 1rem);
+}
+
+.ad__mobile-footer {
+	min-height: calc(50px + 1rem);
+}
+*/		</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript> </head>
+<body class="leading-normal tracking-normal text-gray-800 gradient font-body relative">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR7KFTJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header id="header" class="static top-0 w-full z-30 text-white bg-gray-800 border-b-2 border-blue-600 sticky">
+<div class="container h-full px-5 z-40 mx-auto flex flex-no-wrap items-center justify-between menu-container relative md:static">
+<div class="w-1/3 lg:hidden flex items-center justify-start">
+<button id="button-header" class="relative nav-toggler" aria-label="Main menu" style="width:37px;height:17px;">
+<svg id="menu-icon" class="absolute inset-0 fill-current text-white" xmlns="http://www.w3.org/2000/svg" width="31" height="17" viewBox="0 0 31 17">
+<g fill-rule="nonzero">
+<rect width="31" height="3" y="14" rx="1.5"></rect>
+<rect width="31" height="3" y="7" rx="1.5"></rect>
+<rect width="31" height="3" rx="1.5"></rect>
+</g>
+</svg>
+<svg id="close-icon" class="absolute inset-0 fill-current text-white" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 15 15">
+<path fill-rule="nonzero" d="M8.875 7.5l5.84 5.84a.972.972 0 1 1-1.375 1.375L7.5 8.875l-5.84 5.84A.972.972 0 1 1 .285 13.34l5.84-5.84-5.84-5.84A.972.972 0 0 1 1.66.285l5.84 5.84 5.84-5.84a.972.972 0 1 1 1.375 1.375L8.875 7.5z">
+</path>
+</svg>
+</button>
+</div>
+<a class="w-1/3 lg:w-auto h-full relative flex-shrink-0 leading-none flex items-center justify-center" href="https://www.dexerto.com">
+<img alt="Logo" class="lg:hidden xl:hidden object-contain h-full py-2" media="(max-width: 979px)" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2035'%3E%3C/svg%3E" width="35" height="35" layout="fixed" data-lazy-srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 45w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 90w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 135w" data-lazy-sizes="35px" data-lazy-src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"><noscript><img alt="Logo"
+						class="lg:hidden xl:hidden object-contain h-full py-2"
+						media="(max-width: 979px)"
+						src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"
+						width="35"
+						height="35"
+						layout="fixed"
+						srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 45w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 90w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 135w"
+						sizes="35px"
+					></noscript>
+<img alt="Logo" class="hidden lg:block object-contain" media="(min-width: 980px)" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2032'%3E%3C/svg%3E" width="150" height="32" layout="fixed" data-lazy-srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@2x.png 150w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@2x.png 300w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@3x.png 450w" data-lazy-sizes="150px" data-lazy-src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary.png"><noscript><img alt="Logo"
+						class="hidden lg:block object-contain"
+						media="(min-width: 980px)"
+						src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary.png"
+						width="150"
+						height="32"
+						layout="fixed"
+						srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@2x.png 150w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@2x.png 300w,
+							https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/primary@3x.png 450w"
+						sizes="150px"
+					></noscript>
+</a>
+<div id="navigation-dropdown" class="navigation-dropdown container lg:w-full h-full bg-gray-800 mx-auto absolute lg:relative inset-x-0 top-0 lg:inset-auto lg:flex-no-wrap lg:flex border-t-2 border-gray-900 lg:border-none md:mt-12 xl:mt-0">
+<ul id="menu-main-menu" class="flex flex-1 flex-col lg:flex-row items-start lg:items-center lg:whitespace-no-wrap py-0 lg:px-4"><li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/esports/'>Esports</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/entertainment/'>Entertainment</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='https://www.dexerto.com/gaming/'>Gaming</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/guides/'>Guides</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/videos/'>Dexerto TV</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/call-of-duty/'>Call of Duty</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/fifa/'>FIFA</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/valorant/'>Valorant</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/apex-legends/'>Apex</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='https://www.dexerto.com/pokemon/'>Pokemon</a></li>
+<li class='text-white w-full lg:w-auto border-b-2 lg:border-none border-gray-900'><a class='block text-xs uppercase tracking-px px-4 py-3 lg:py-0 lg:hover:text-blue-600 color-transition' href='/PUBG/'>PUBG</a></li>
+<li class="w-full lg:w-auto text-white lg:hover:text-blue-600 color-transition relative lg:h-full lg:flex lg:items-center"><button on="tap:AMP.setState({navMoreVisible: !navMoreVisible})" id="more-button" class="flex text-xs font-normal uppercase tracking-px pl-4 py-3 lg:py-0 items-center border-b-2 lg:border-none border-gray-900 w-full lg:w-auto"><span class="mr-2">more</span><span id="more-icon" [class]="(navMoreVisible ? 'rotate-3/4' : 'rotate-1/4') + ' arr-rotate-transition'" class="rotate-1/4 arr-rotate-transition"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 40" class="fill-current"><path fill-rule="nonzero" d="M16 20c0-.407-.151-.814-.454-1.135L2.98 5.54a1.746 1.746 0 0 0-2.426-.097 1.648 1.648 0 0 0-.1 2.367L11.952 20 .454 32.19a1.648 1.648 0 0 0 .1 2.367 1.746 1.746 0 0 0 2.425-.097l12.567-13.325c.303-.32.454-.728.454-1.135"></path></svg></span></button><div [class]="(navMoreVisible ? 'show' : '') + '  more-dropdown flex container mx-auto lg:absolute lg:right-0 lg:top-0 justify-end z-30 lg:flex'" id="more-dropdown" class="more-dropdown flex container mx-auto lg:absolute lg:right-0 lg:top-0 justify-end z-30 lg:flex"><ul id="menu-more-menu" class="w-full lg:w-auto flex flex-wrap lg:flex-no-wrap lg:flex-col lg:bg-blue-600 ml-12 lg:ml-0 mt-3 lg:mt-0 pb-32 lg:pb-0 md:pb-0"><li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/opinion/'>Opinion</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/fortnite/'>Fortnite</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/genshin-impact/'>Genshin Impact</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/league-of-legends/'>League of Legends</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/overwatch/'>Overwatch</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/business/'>Business</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/csgo/'>CS:GO</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/destiny/'>Destiny</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/cosplay/'>Cosplay</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/gta/'>GTA</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/world-of-warcraft/'>World of Warcraft</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/smash/'>Smash</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/reviews/'>Reviews</a></li>
+<li class='w-1/2 lg:w-auto text-white hidden-tablet hidden-desktop'><a class='block text-xs font-light uppercase tracking-px lg:text-right leading-normal' href='https://www.dexerto.com/about/'>About</a></li>
+</ul></div></ul></div>
+<div class="w-1/3 lg:w-auto flex justify-end items-center flex-shrink-0 relative">
+<button id="search-toggler" aria-label="Search the site" on="tap:AMP.setState({searchVisible: !searchVisible})" [class]="(searchVisible ? 'open' : '') + ' search-toggler relative w-5 md:w-4 h-5 md:h-4'" class="search-toggler relative w-5 md:w-4 h-5 md:h-4">
+<svg class="absolute inset-0 fill-current w-5 md:w-4 h-5 md:h-4" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<path fill-rule="nonzero" d="M19.696 18.217l-4.93-4.95a7.884 7.884 0 0 0 1.962-5.192C16.728 3.623 12.976 0 8.364 0 3.752 0 0 3.623 0 8.075c0 4.452 3.752 8.075 8.364 8.075a8.48 8.48 0 0 0 4.792-1.461l4.967 4.988c.208.208.487.323.787.323.283 0 .552-.104.756-.294.433-.403.447-1.07.03-1.49zM8.364 2.107c3.409 0 6.182 2.677 6.182 5.968s-2.773 5.968-6.182 5.968c-3.409 0-6.182-2.677-6.182-5.968s2.773-5.968 6.182-5.968z">
+</path>
+</svg>
+<svg class="absolute inset-0 fill-current text-white w-5 md:w-4 h-5 md:h-4" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+<path fill-rule="nonzero" d="M8.875 7.5l5.84 5.84a.972.972 0 1 1-1.375 1.375L7.5 8.875l-5.84 5.84A.972.972 0 1 1 .285 13.34l5.84-5.84-5.84-5.84A.972.972 0 0 1 1.66.285l5.84 5.84 5.84-5.84a.972.972 0 1 1 1.375 1.375L8.875 7.5z">
+</path>
+</svg>
+</button>
+<button id="language-button" aria-label="Switch language" on="tap:AMP.setState({langVisible: !langVisible})" class="flex items-center ml-3 md:ml-8">
+<span class="w-5 md:w-4 h-5 md:h-4 mr-1">
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+<g fill="none" fill-rule="nonzero">
+<circle cx="7.5" cy="7.5" r="7.5" fill="#F0F0F0" />
+<g fill="#D80027">
+<path d="M7.174 7.5H15c0-.677-.09-1.333-.258-1.957H7.174V7.5zM7.174 3.587h6.725a7.54 7.54 0 0 0-1.73-1.957H7.174v1.957zM7.5 15c1.765 0 3.387-.61 4.669-1.63H2.83A7.468 7.468 0 0 0 7.5 15zM1.1 11.413h12.8a7.455 7.455 0 0 0 .842-1.956H.258c.188.697.474 1.355.843 1.956z" />
+</g>
+<path fill="#0052B4" d="M3.474 1.171h.684l-.636.462.243.747-.636-.461-.636.461.21-.645a7.541 7.541 0 0 0-1.455 1.621h.22l-.405.294a7.488 7.488 0 0 0-.182.32l.193.595-.36-.262c-.09.19-.172.384-.245.582l.213.656h.785l-.635.462.242.747-.635-.462-.381.277A7.572 7.572 0 0 0 0 7.5h7.5V0C6.018 0 4.637.43 3.474 1.171zm.29 5.579l-.635-.462-.636.462.243-.747L2.1 5.54h.786l.243-.748.243.748h.786l-.636.462.243.747zm-.242-2.932l.243.747-.636-.462-.636.462.243-.747-.636-.462h.786l.243-.747.243.747h.786l-.636.462zM6.455 6.75l-.636-.462-.636.462.243-.747-.635-.462h.785l.243-.748.243.748h.786l-.636.462.243.747zm-.243-2.932l.243.747-.636-.462-.636.462.243-.747-.635-.462h.785l.243-.747.243.747h.786l-.636.462zm0-2.185l.243.747-.636-.461-.636.461.243-.747-.635-.462h.785L5.82.424l.243.747h.786l-.636.462z" />
+</g>
+</svg>
+</span>
+<span id="language-icon" [class]="(langVisible ? 'rotate-3/4' : 'rotate-1/4') + ' arr-rotate-transition'" class="rotate-1/4 arr-rotate-transition">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 40" class="fill-current text-white">
+<path fill-rule="nonzero" d="M16 20c0-.407-.151-.814-.454-1.135L2.98 5.54a1.746 1.746 0 0 0-2.426-.097 1.648 1.648 0 0 0-.1 2.367L11.952 20 .454 32.19a1.648 1.648 0 0 0 .1 2.367 1.746 1.746 0 0 0 2.425-.097l12.567-13.325c.303-.32.454-.728.454-1.135">
+</path>
+</svg>
+</span>
+</button>
+</div>
+<div id="search-dropdown" [class]="(searchVisible ? 'show' : '') + ' search-dropdown container mx-auto absolute inset-x-0 top-0 z-30'" class="hidden search-dropdown container mx-auto absolute inset-x-0 top-0 z-30">
+<form [class]="(searchVisible ? 'show' : 'hidden') + ' block relative md:mx-5 bg-blue-600 px-4 py-3'" class="hidden block relative md:mx-5 bg-blue-600 px-4 py-3" id="searchform" method="get" action="https://www.dexerto.com/">
+<input type="text" class="w-full border-2 border-gray-900 h-12 bg-white text-gray-900 text-sm font-normal tracking-px pl-4 pr-12 focus:outline-none uppercase" name="s" placeholder="Search" value="">
+<button class="absolute right-0 top-0 h-full w-12 flex items-center justify-center border-0 focus:outline-none mr-4">
+<svg class="fill-current text-gray-900" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<path fill-rule="nonzero" d="M19.696 18.217l-4.93-4.95a7.884 7.884 0 0 0 1.962-5.192C16.728 3.623 12.976 0 8.364 0 3.752 0 0 3.623 0 8.075c0 4.452 3.752 8.075 8.364 8.075a8.48 8.48 0 0 0 4.792-1.461l4.967 4.988c.208.208.487.323.787.323.283 0 .552-.104.756-.294.433-.403.447-1.07.03-1.49zM8.364 2.107c3.409 0 6.182 2.677 6.182 5.968s-2.773 5.968-6.182 5.968c-3.409 0-6.182-2.677-6.182-5.968s2.773-5.968 6.182-5.968z">
+</path>
+</svg>
+</button>
+</form>
+</div>
+<div id="language-dropdown" [class]="(langVisible ? 'show' : '') + ' language-dropdown container mx-auto absolute inset-x-0 top-0 flex justify-end z-20'" class="language-dropdown container mx-auto absolute inset-x-0 top-0 flex justify-end z-20">
+<ul class="w-auto flex flex-col px-5 py-2 bg-blue-600">
+<li>
+<a class="flex items-center py-2" href="https://www.dexerto.es/">
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+<g fill="none" fill-rule="nonzero">
+<path fill="#FFDA44" d="M0 7.5c0 .917.165 1.796.466 2.609l7.034.652 7.034-.652A7.484 7.484 0 0 0 15 7.5c0-.917-.165-1.796-.466-2.609L7.5 4.24l-7.034.652A7.484 7.484 0 0 0 0 7.5z" />
+<g fill="#D80027">
+<path d="M14.534 4.891a7.503 7.503 0 0 0-14.068 0h14.068zM.466 10.109a7.503 7.503 0 0 0 14.068 0H.466z" />
+</g>
+</g>
+</svg>
+<span class="ml-2 text-xs font-normal uppercase tracking-px">Espanol</span>
+</a>
+</li>
+<li>
+<a class="flex items-center py-2" href="https://www.dexerto.fr/">
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+<g fill="none" fill-rule="nonzero">
+<circle cx="7.5" cy="7.5" r="7.5" fill="#F0F0F0" />
+<path fill="#D80027" d="M15 7.5A7.503 7.503 0 0 0 10.109.466v14.068A7.503 7.503 0 0 0 15 7.5z" />
+<path fill="#0052B4" d="M0 7.5a7.503 7.503 0 0 0 4.891 7.034V.466A7.503 7.503 0 0 0 0 7.5z" />
+</g>
+</svg>
+<span class="ml-2 text-xs font-normal uppercase tracking-px">Francais</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<style type="text/css">.alm-btn-wrap{display:block;text-align:center;padding:10px 0;margin:0 0 15px;position:relative}.alm-btn-wrap:after{display:table;clear:both;height:0;width:100%;content:''}.alm-btn-wrap .alm-load-more-btn{font-size:15px;font-weight:500;width:auto;height:43px;line-height:1;background:#ed7070;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);box-shadow:0 1px 1px rgba(0,0,0,.04);color:#fff;border:none;border-radius:4px;margin:0;padding:0 20px;display:inline-block;position:relative;-webkit-transition:all .3s ease;transition:all .3s ease;text-align:center;text-decoration:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer}.alm-btn-wrap .alm-load-more-btn.loading,.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06161;-webkit-box-shadow:0 1px 3px rgba(0,0,0,.09);box-shadow:0 1px 3px rgba(0,0,0,.09);color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{-webkit-box-shadow:none;box-shadow:none;text-decoration:none}.alm-btn-wrap .alm-load-more-btn.loading{cursor:default;outline:0;padding-left:44px}.alm-btn-wrap .alm-load-more-btn.done{cursor:default;opacity:.15;background-color:#ed7070;outline:0!important;-webkit-box-shadow:none!important;box-shadow:none!important}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before{background:0 0;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif) no-repeat center center;width:30px;height:31px;margin:6px;border-radius:3px;display:inline-block;z-index:0;content:'';position:absolute;left:0;top:0;overflow:hidden;-webkit-transition:width .5s ease-in-out;transition:width .5s ease-in-out}.alm-btn-wrap .alm-elementor-link{display:block;font-size:13px;margin:0 0 15px}@media screen and (min-width:768px){.alm-btn-wrap .alm-elementor-link{position:absolute;left:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);margin:0}}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;color:#787878;border:1px solid #e0e0e0;overflow:hidden;-webkit-transition:none;transition:none;outline:0}.ajax-load-more-wrap.white .alm-load-more-btn.loading,.ajax-load-more-wrap.white .alm-load-more-btn:focus,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#fff;color:#333;border-color:#aaa}.ajax-load-more-wrap.white .alm-load-more-btn.done{background-color:#fff;color:#444;border-color:#ccc}.ajax-load-more-wrap.white .alm-load-more-btn.loading{color:rgba(255,255,255,0)!important;outline:0!important;background-color:transparent;border-color:transparent!important;-webkit-box-shadow:none!important;box-shadow:none!important;padding-left:20px}.ajax-load-more-wrap.white .alm-load-more-btn.loading:before{margin:0;left:0;top:0;width:100%;height:100%;background-color:transparent;background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/ajax-loader-lg.gif);background-size:25px 25px;background-position:center center}.ajax-load-more-wrap.light-grey .alm-load-more-btn{background-color:#efefef;color:#787878;border:1px solid #e0e0e0;overflow:hidden;-webkit-transition:all 75ms ease;transition:all 75ms ease;outline:0}.ajax-load-more-wrap.light-grey .alm-load-more-btn.done,.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading,.ajax-load-more-wrap.light-grey .alm-load-more-btn:focus,.ajax-load-more-wrap.light-grey .alm-load-more-btn:hover{background-color:#f1f1f1;color:#222;border-color:#aaa}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading{color:rgba(255,255,255,0)!important;outline:0!important;background-color:transparent;border-color:transparent!important;-webkit-box-shadow:none!important;box-shadow:none!important;padding-left:20px}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{margin:0;left:0;top:0;width:100%;height:100%;background-color:transparent;background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/ajax-loader-lg.gif);background-size:25px 25px;background-position:center center}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#1b91ca}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn.loading,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#1b84b7}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#80ca7a}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn.loading,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#81c17b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#b97eca}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn.loading,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#a477b1}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#a09e9e}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn.loading,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#888}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{width:100%;background-color:transparent!important;background-position:center center;background-repeat:no-repeat;background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/spinner.gif);border:none!important;opacity:0;-webkit-transition:opacity .2s ease;transition:opacity .2s ease;-webkit-box-shadow:none!important;box-shadow:none!important;overflow:hidden;text-indent:-9999px;cursor:default!important;outline:0!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:active,.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:focus{outline:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/spinner-skype.gif)}.ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/spinner-ring.gif)}.ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-blocks.gif)}.ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-circles.gif)}.ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/img/spinner-chasing-arrows.gif)}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0;margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button{margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button.done{display:none}.alm-listing .alm-reveal{outline:0}.alm-listing .alm-reveal:after{display:table;clear:both;height:0;content:''}.alm-listing{margin:0;padding:0}.alm-listing .alm-paging-content>li,.alm-listing .alm-reveal>li,.alm-listing>li{position:relative}.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{background:0 0;margin:0 0 30px;padding:0 0 0 80px;position:relative;list-style:none}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 100px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 135px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 160px}}.alm-listing .alm-paging-content>li.alm-item h3,.alm-listing .alm-reveal>li.alm-item h3,.alm-listing>li.alm-item h3{margin:0}.alm-listing .alm-paging-content>li.alm-item p,.alm-listing .alm-reveal>li.alm-item p,.alm-listing>li.alm-item p{margin:10px 0 0}.alm-listing .alm-paging-content>li.alm-item p.entry-meta,.alm-listing .alm-reveal>li.alm-item p.entry-meta,.alm-listing>li.alm-item p.entry-meta{opacity:.75}.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{position:absolute;left:0;top:0;border-radius:2px;max-width:65px}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:85px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:115px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:140px}}.alm-listing .alm-paging-content>li.no-img,.alm-listing .alm-reveal>li.no-img,.alm-listing>li.no-img{padding:0}.alm-listing.products li.product{padding-left:inherit}.alm-listing.products li.product img{position:static;border-radius:inherit}.alm-listing.stylefree .alm-paging-content>li,.alm-listing.stylefree .alm-reveal>li,.alm-listing.stylefree>li{padding:inherit;margin:inherit}.alm-listing.stylefree .alm-paging-content>li img,.alm-listing.stylefree .alm-reveal>li img,.alm-listing.stylefree>li img{padding:inherit;margin:inherit;position:static;border-radius:inherit}.alm-listing.rtl .alm-paging-content>li,.alm-listing.rtl .alm-reveal>li{padding:0 170px 0 0;text-align:right}.alm-listing.rtl .alm-paging-content>li img,.alm-listing.rtl .alm-reveal>li img{left:auto;right:0}.alm-listing.rtl.products li.product{padding-right:inherit}.alm-masonry{display:block;overflow:hidden;clear:both}.alm-placeholder{opacity:0;-webkit-transition:opacity .2s ease;transition:opacity .2s ease;display:none}.ajax-load-more-wrap.alm-horizontal{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;width:100%}.ajax-load-more-wrap.alm-horizontal .alm-listing,.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item{padding:0;text-align:center;margin:0 2px;padding:20px 20px 30px;height:auto;background-color:#fff;border:1px solid #efefef;border-radius:4px;width:300px}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item img,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item img{position:static;border-radius:100%;max-width:125px;margin:0 auto 15px;border-radius:4px;-webkit-box-shadow:0 2px 10px rgba(0,0,0,.075);box-shadow:0 2px 10px rgba(0,0,0,.075)}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal:after{display:none}.alm-toc{display:-webkit-box;display:-ms-flexbox;display:flex;width:auto;padding:10px 0}.alm-toc button{background:#f7f7f7;border-radius:4px;-webkit-transition:all .15s ease;transition:all .15s ease;outline:0;border:1px solid #efefef;-webkit-box-shadow:none;box-shadow:none;color:#454545;cursor:pointer;font-size:14px;font-weight:500;padding:7px 10px;line-height:1;margin:0 5px 0 0;height:auto}.alm-toc button:focus,.alm-toc button:hover{border-color:#ccc;color:#222}.alm-toc button:hover{text-decoration:underline}.alm-toc button:focus{-webkit-box-shadow:0 0 0 3px rgba(0,0,0,.05);box-shadow:0 0 0 3px rgba(0,0,0,.05)}</style><style type="text/css">.alm-layouts .alm-listing{margin:0;padding:0}.alm-layouts .alm-listing .alm-layout{width:100%;display:block;clear:both;padding:0;margin:0 0 4%;overflow:visible}.alm-layouts .alm-listing .alm-layout,.alm-layouts .alm-listing .alm-layout *{-webkit-box-sizing:border-box;box-sizing:border-box}.alm-layouts .alm-listing .alm-layout a,.alm-layouts .alm-listing .alm-layout img{-webkit-box-shadow:none;box-shadow:none;border:none}.alm-layouts .alm-listing .alm-layout img{position:static;max-width:100%;height:auto;clear:both;margin:0;-webkit-border-radius:0;border-radius:0;display:block}.alm-layouts .alm-listing .alm-layout h3{font-size:22px;line-height:1.15;font-weight:600;margin:0 0 10px;padding:0}.alm-layouts .alm-listing .alm-layout h3 a{text-decoration:none}.alm-layouts .alm-listing .alm-layout h3 a:focus,.alm-layouts .alm-listing .alm-layout h3 a:hover{text-decoration:underline}.alm-layouts .alm-listing .alm-layout p.entry-meta{font-size:15px;opacity:.7;margin:0 0 10px}.alm-layouts .alm-listing .alm-layout p{font-size:15px;line-height:1.5;margin:0 0 1em}.alm-layouts .alm-listing .alm-layout.alm-2-col,.alm-layouts .alm-listing .alm-layout.alm-3-col,.alm-layouts .alm-listing .alm-layout.alm-4-col{width:48%;display:inline-block;vertical-align:top;clear:none}.alm-layouts .alm-listing .alm-2-col.odd{margin-right:4%}.alm-layouts .alm-listing .alm-layout.alm-2-col.alm-gallery{width:50%;margin:0}.alm-layouts .alm-listing .alm-layout.alm-3-col,.alm-layouts .alm-listing .alm-layout.alm-4-col{width:30.6333%;margin-right:4%}.alm-layouts .alm-listing .alm-layout.alm-3-col.last,.alm-layouts .alm-listing .alm-layout.alm-4-col.last{margin-right:0}.alm-layouts .alm-listing .alm-layout.alm-4-col{width:21.9333%}.alm-layouts .alm-listing .alm-layout.alm-3-col.alm-gallery,.alm-layouts .alm-listing .alm-layout.alm-4-col.alm-gallery{width:33.333%;margin:0}.alm-layouts .alm-listing .alm-layout.alm-4-col.alm-gallery{width:25%}.alm-layouts .alm-listing .alm-default{background:none;list-style:none;padding:0 0 0 170px;-webkit-transition:all .35s ease;-o-transition:all .35s ease;transition:all .35s ease;min-height:150px}.alm-layouts .alm-listing .alm-default img{max-width:100%;clear:both;position:absolute;left:0;top:2px;margin:0;-webkit-border-radius:3px;border-radius:3px}.alm-layouts .alm-listing .alm-default p{text-align:left}.alm-layouts .alm-listing .alm-default.alm-2-col{padding-left:106px;min-height:100px}.alm-layouts .alm-listing .alm-default.alm-2-col img{max-width:85px}.alm-layouts .alm-listing .alm-default.alm-3-col,.alm-layouts .alm-listing .alm-default.alm-4-col{padding-left:80px;min-height:100px}.alm-layouts .alm-listing .alm-default.alm-3-col img,.alm-layouts .alm-listing .alm-default.alm-4-col img{max-width:65px}.alm-layouts .alm-listing .alm-cta{background:none;list-style:none;padding:0;margin-bottom:4%;-webkit-transition:all .35s ease;-o-transition:all .35s ease;transition:all .35s ease}.alm-layouts .alm-listing .alm-cta img{width:100%;clear:both;position:static;margin:0;-webkit-border-radius:0;border-radius:0;-webkit-transition:all .2s ease;-o-transition:all .2s ease;transition:all .2s ease}.alm-layouts .alm-listing .alm-cta a{display:block;color:inherit;text-decoration:none}.alm-layouts .alm-listing .alm-cta a:focus img,.alm-layouts .alm-listing .alm-cta a:hover img{opacity:.7}.alm-layouts .alm-listing .alm-cta a:focus h3,.alm-layouts .alm-listing .alm-cta a:hover h3{text-decoration:underline}.alm-layouts .alm-listing .alm-cta .details{padding:20px;display:block;border-top:none;position:relative}.alm-layouts .alm-listing .alm-cta h3{color:#333;margin:0 0 20px;text-decoration:none}.alm-layouts .alm-listing .alm-cta p{text-align:left}.alm-layouts .alm-listing .alm-card{position:relative}.alm-layouts .alm-listing .alm-card a.card-container{-webkit-perspective:1000px;perspective:1000px;border:1px solid #efefef!important;background:#f7f7f7;display:block;position:relative}.alm-layouts .alm-listing .alm-card a.card-container.hover .card-flip,.alm-layouts .alm-listing .alm-card a.card-container:hover .card-flip{-webkit-transform:rotateY(180deg);transform:rotateY(180deg)}@media (-ms-high-contrast:active),(-ms-high-contrast:none){.alm-layouts .alm-listing .alm-card a.card-container.hover .card-flip,.alm-layouts .alm-listing .alm-card a.card-container:hover .card-flip{-webkit-transform:rotateY(0deg);transform:rotateY(0deg)}}.alm-layouts .alm-listing .alm-card .card-flip{-webkit-transition:.6s;-o-transition:.6s;transition:.6s;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;position:relative}.alm-layouts .alm-listing .alm-card .img-mask{opacity:0;visibility:hidden}.alm-layouts .alm-listing .alm-card .card-back,.alm-layouts .alm-listing .alm-card .card-front{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:.6s;-o-transition:.6s;transition:.6s;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;-webkit-transform:rotateY(0deg);transform:rotateY(0deg)}.alm-layouts .alm-listing .alm-card .card-front{z-index:2;-webkit-transform:rotateY(0deg);transform:rotateY(0deg)}.alm-layouts .alm-listing .alm-card .card-back{-webkit-transform:rotateY(-180deg);transform:rotateY(-180deg)}.alm-layouts .alm-listing .alm-card h3{position:absolute;bottom:0;margin:0;color:#fff;font-size:18px;line-height:20px;padding:14px 20px;background-color:rgba(0,0,0,.6);max-width:90%}.alm-layouts .alm-listing .alm-card h3 span{display:block;opacity:.65;font-weight:400;font-size:14px;color:#fff;padding:4px 0 0}.alm-layouts .alm-listing .alm-card img{height:auto}.alm-layouts .alm-listing .alm-card .text-wrap{width:100%;height:100%;display:block;padding:0 7%;background-color:#222;-webkit-box-shadow:inset 0 0 0 10px #333,inset 0 0 0 11px hsla(0,0%,100%,.1);box-shadow:inset 0 0 0 10px #333,inset 0 0 0 11px hsla(0,0%,100%,.1);text-align:center}.alm-layouts .alm-listing .alm-card .text-wrap,.alm-layouts .alm-listing .alm-card p{position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.alm-layouts .alm-listing .alm-card p{color:#ccc;padding:0 20px;margin:0 0 10px;font-size:14px;text-align:left;max-height:80%;overflow-y:auto;width:86%}.alm-layouts .alm-listing .alm-card span.more{font-weight:700;color:#fff;padding:8px 0 0;margin:0;display:block;font-size:12px;text-transform:uppercase}.alm-layouts .alm-listing .alm-gallery{padding:1px}.alm-layouts .alm-listing .alm-gallery a{display:block;overflow:hidden;position:relative}.alm-layouts .alm-listing .alm-gallery a:hover img{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);transform:scale(1.2)}.alm-layouts .alm-listing .alm-gallery a:hover .alm-gallery-img-wrap{-webkit-filter:blur(5px);filter:blur(5px)}.alm-layouts .alm-listing .alm-gallery a:hover .overlay-details{opacity:1}.alm-layouts .alm-listing .alm-gallery .overlay-details{opacity:0;position:absolute;left:0;top:0;width:100%;height:100%;-webkit-transition:opacity .5s ease .15s;-o-transition:opacity .5s ease .15s;transition:opacity .5s ease .15s;background:rgba(0,0,0,.4);padding:0 10%;text-align:center;text-shadow:0 0 1px rgba(0,0,0,.1)}.alm-layouts .alm-listing .alm-gallery .overlay-details .vertical-align{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.alm-layouts .alm-listing .alm-gallery img{position:static;width:100%;height:auto;-webkit-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05);-webkit-backface-visibility:hidden;backface-visibility:hidden}.alm-layouts .alm-listing .alm-gallery .alm-gallery-img-wrap,.alm-layouts .alm-listing .alm-gallery img{-webkit-transition:all .45s ease-in-out;-o-transition:all .45s ease-in-out;transition:all .45s ease-in-out}.alm-layouts .alm-listing .alm-gallery h3{color:#fff;margin:0 0 15px;font-weight:800}.alm-layouts .alm-listing .alm-gallery p{color:#fff;margin:0;opacity:.85}.alm-layouts .alm-listing .alm-gallery p.entry-date{margin:0 0 5px;opacity:.5;font-weight:300;font-size:12px;text-transform:uppercase}.alm-layouts .alm-listing.flex,.alm-layouts .alm-listing.flex .alm-reveal{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.alm-layouts .alm-listing .alm-blog-card{background:#efefef;border:1px solid #e7e7e7;-webkit-border-radius:5px;border-radius:5px;padding:25px 25px 110px;width:100%;text-align:center;margin-bottom:50px;margin-top:30px}.alm-layouts .alm-listing .alm-blog-card img.wp-post-image{border:3px solid #fff;-webkit-border-radius:100%;border-radius:100%;-webkit-box-shadow:0 0 3px #ccc;box-shadow:0 0 3px #ccc;width:120px;height:120px;margin:-60px auto 25px}.alm-layouts .alm-listing .alm-blog-card h3,.alm-layouts .alm-listing .alm-blog-card p{margin:0 0 15px;padding:0 5%}.alm-layouts .alm-listing .alm-blog-card p.alm-meta{opacity:.75;margin-bottom:0;font-size:13px}.alm-layouts .alm-listing .alm-post-author{display:block;width:100%;height:60px;overflow:visible;position:absolute;left:0;bottom:0;background:#fff;border-top:1px solid #e7e7e7;padding:0 10px;-webkit-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px;font-size:13px}.alm-layouts .alm-listing .alm-post-author span{display:block;vertical-align:top;padding:15px;line-height:30px;width:100%;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis}.alm-layouts .alm-listing .alm-post-author img{max-width:36px;max-height:36px;-webkit-border-radius:100%;border-radius:100%;-webkit-box-shadow:0 0 0 1px #e1e1e1;box-shadow:0 0 0 1px #e1e1e1;position:absolute;left:50%;top:-18px;margin-left:-18px;z-index:2}.alm-layouts .alm-listing .alm-post-author a{text-decoration:none}.alm-layouts .alm-listing .alm-post-author a:focus,.alm-layouts .alm-listing .alm-post-author a:hover{text-decoration:underline}.alm-layouts .alm-listing .alm-blog-card-2{background:#fff;border:1px solid #e7e7e7;-webkit-border-radius:2px;border-radius:2px;padding:0 0 60px;width:100%;text-align:left;margin-bottom:50px}.alm-layouts .alm-listing .alm-blog-card-2 img.wp-post-image{width:100%;margin:0;display:block;-webkit-border-radius:1px 1px 0 0;border-radius:1px 1px 0 0}.alm-layouts .alm-listing .alm-blog-card-2 .alm-card-details{display:block;padding:40px 30px 30px;position:relative}.alm-layouts .alm-listing .alm-blog-card-2 .avatar{width:50px;height:50px;-webkit-border-radius:100%;border-radius:100%;position:absolute;top:-25px;left:30px;z-index:1}.alm-layouts .alm-listing .alm-blog-card-2 h3{margin:0 0 20px}.alm-layouts .alm-listing .alm-blog-card-2 p{margin:0 0 20px;font-size:15px}.alm-layouts .alm-listing .alm-blog-card-2 p.alm-more-link{margin:0;font-weight:600;font-size:13px;text-transform:uppercase}.alm-layouts .alm-listing .alm-blog-card-2 .alm-post-author{background-color:#f7f7f7;-webkit-box-shadow:inset 0 2px 1px rgba(0,0,0,.05);box-shadow:inset 0 2px 1px rgba(0,0,0,.05)}.alm-layouts .alm-listing .alm-blog-card-3{background:#f7f7f7;border:none;-webkit-border-radius:15px;border-radius:15px;padding:0;width:100%;text-align:left;margin-bottom:50px;overflow:hidden;-webkit-box-shadow:0 0 0 1px #efefef;box-shadow:0 0 0 1px #efefef}.alm-layouts .alm-listing .alm-blog-card-3 img.wp-post-image{width:100%;margin:0;display:block;-webkit-border-radius:15px 15px 0 0;border-radius:15px 15px 0 0}.alm-layouts .alm-listing .alm-blog-card-3 .alm-card-details{display:block;padding:30px 30px 70px;position:relative}.alm-layouts .alm-listing .alm-blog-card-3 h3{font-weight:600;font-size:20px;margin:0 0 20px}.alm-layouts .alm-listing .alm-blog-card-3 p{margin:0 0 20px;font-size:15px}.alm-layouts .alm-listing .alm-blog-card-3 .alm-post-author{border-top:none;-webkit-border-radius:0 0 14px 14px;border-radius:0 0 14px 14px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding:20px 30px;border-top:1px solid #efefef}.alm-layouts .alm-listing .alm-blog-card-3 .alm-post-author img,.alm-layouts .alm-listing .alm-blog-card-3 .alm-post-author span{display:inline-block;vertical-align:top}.alm-layouts .alm-listing .alm-blog-card-3 .alm-post-author img{position:static;margin:0 10px 0 0;-webkit-box-shadow:none;box-shadow:none}.alm-layouts .alm-listing .alm-blog-card-3 .alm-post-author span{width:auto;padding:0;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}@media screen and (max-width:1024px){.alm-layouts .alm-listing .alm-overlay .overlay-details{padding:15px}.alm-layouts .alm-listing .alm-overlay .overlay-details h3{font-size:18px}.alm-layouts .alm-listing .alm-overlay .overlay-details p{font-size:14px}.alm-layouts .alm-listing .alm-layout.alm-3-col.alm-gallery,.alm-layouts .alm-listing .alm-layout.alm-4-col.alm-gallery{width:50%}.alm-layouts .alm-listing .alm-layout.alm-4-col{width:48%;margin-right:4%}.alm-layouts .alm-listing .alm-layout.alm-4-col:nth-child(2n){margin-right:0}}@media screen and (max-width:768px){.alm-layouts .alm-listing.flex,.alm-layouts .alm-listing.flex .alm-reveal{display:block}.alm-layouts .alm-listing .alm-layout.alm-2-col,.alm-layouts .alm-listing .alm-layout.alm-3-col,.alm-layouts .alm-listing .alm-layout.alm-4-col{width:100%;display:block;margin-left:0;margin-right:0}.alm-layouts .alm-listing .alm-layout.alm-2-col.odd,.alm-layouts .alm-listing .alm-layout.alm-3-col.last,.alm-layouts .alm-listing .alm-layout.alm-4-col.last{margin-right:0}.alm-layouts .alm-listing .alm-layout{margin:0 0 6%}.alm-layouts .alm-listing .alm-default,.alm-layouts .alm-listing .alm-default.alm-2-col,.alm-layouts .alm-listing .alm-default.alm-3-col,.alm-layouts .alm-listing .alm-default.alm-4-col{min-height:120px;padding:0 0 0 140px}.alm-layouts .alm-listing .alm-default.alm-2-col img,.alm-layouts .alm-listing .alm-default.alm-3-col img,.alm-layouts .alm-listing .alm-default.alm-4-col img,.alm-layouts .alm-listing .alm-default img{max-width:120px;width:120px;height:auto}.alm-layouts .alm-listing .alm-overlay .overlay-details{padding:12px}.alm-layouts .alm-listing .alm-layout .alm-overlay h3{margin:0;font-size:18px;line-height:1}.alm-layouts .alm-listing .alm-layout .alm-overlay p{display:none}.alm-layouts .alm-listing .alm-layout.alm-2-col.alm-gallery,.alm-layouts .alm-listing .alm-layout.alm-3-col.alm-gallery,.alm-layouts .alm-listing .alm-layout.alm-4-col.alm-gallery,.alm-layouts .alm-listing .alm-layout.alm-gallery{float:none;width:100%}.alm-layouts .alm-listing .alm-gallery .overlay-details{padding:0 15%}alm-layouts .alm-gallery h3{color:#fff;font-size:26px}.alm-layouts .alm-listing .alm-gallery p{font-size:16px}.alm-layouts .alm-listing .alm-card img{width:auto;height:auto}.alm-layouts .alm-listing .alm-blog-card{margin-bottom:60px}.alm-layouts .alm-listing .alm-blog-card img.wp-post-image{border:2px solid #fff;width:100px;height:100px;margin:-50px auto 20px}}@media screen and (max-width:480px){.alm-layouts .alm-listing .alm-default,.alm-layouts .alm-listing .alm-default.alm-2-col,.alm-layouts .alm-listing .alm-default.alm-3-col,.alm-layouts .alm-listing .alm-default.alm-4-col{min-height:80px;padding:0 0 0 96px}.alm-layouts .alm-listing .alm-default.alm-2-col img,.alm-layouts .alm-listing .alm-default.alm-3-col img,.alm-layouts .alm-listing .alm-default.alm-4-col img,.alm-layouts .alm-listing .alm-default img{max-width:80px;width:80px;height:auto}.alm-layouts .alm-listing .alm-gallery .overlay-details{padding:0 10%}.alm-layouts .alm-listing .alm-gallery h3{color:#fff;font-size:22px}.alm-layouts .alm-listing .alm-gallery p{font-size:14px}.alm-layouts .alm-listing .alm-gallery p:not(.entry-date){display:none}}</style><div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-alm-id="" data-canonical-url="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/" data-slug="respawn-respond-to-complaints-about-hipfire-in-apex-legends" data-post-id="1406595" data-localized="ajax_load_more_vars"><div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax" data-single-post="true" data-single-post-id="1406595" data-single-post-order="1661516,1525295,1649120,1629276" data-single-post-title-template="{post-title} - {site-title}" data-single-post-site-title="Dexerto" data-single-post-site-tagline="Esports, Gaming &amp; Influencer News" data-single-post-scroll="false" data-single-post-scrolltop="30" data-single-post-controls="1" data-single-post-progress-bar="" data-single-post-pageview="true" data-container-type="div" data-theme-repeater="article-repeater.php" data-post-type="post" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="1" data-scroll="true" data-scroll-distance="75" data-max-pages="0" data-pause-override="true" data-pause="false" data-button-label="Load More" data-destroy-after="5"><div class="alm-reveal alm-single-post post-1406595" data-url="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/" data-title="Respawn respond to complaints about hipfire in Apex Legends" data-id="1406595" data-page="0"><div id="app" class="short ">
+<div id='ad-desktop-article-top-leaderboard' class='ad__header ad__sticky-desktop sticky'>
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-desktop-article-top-leaderboard'); });
+</script>
+</div>
+<div id="main-wrapper" class="container px-5 mx-auto bg-white relative pt-4">
+<div id=	class="js_article-wrapper pb-4" data-url="https://www.dexerto.com/apex-legends/respawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595/" data-title="Respawn respond to complaints about hipfire in Apex Legends">
+<a href="https://www.dexerto.com/apex-legends/" class="text-blue-600 hover:text-blue-700 color-transition text-xs lg:text-sm tracking-px font-black uppercase">
+Apex Legends	</a>
+<h1 class="text-xl lg:text-3xl leading-tight text-gray-800 font-bold mt-2">Respawn respond to complaints about hipfire in Apex Legends</h1>
+<p class="text-xxs md:text-xs mt-2 text-gray-800 flex flex-wrap items-center justify-start">
+<span class="leading-loose md:leading-normal">Published: 15/Aug/2020 13:02</span>
+</p>
+<a href="https://www.dexerto.com/author/joecraven/" class="flex justify-start items-center mt-2">
+<span class="rounded-full border border-blue-500 overflow-hidden leading-none" style="width:30px;height:30px;">
+<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' data-lazy-src="https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=30&#038;d=mm&#038;r=g" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=30&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c0413455a60504e4693a9ea4d3155d11?s=60&#038;d=mm&#038;r=g 2x' class='avatar avatar-30 photo' height='30' width='30' /></noscript> </span>
+<span class="ml-1 text-xs">by <span class="font-bold">Joe Craven</span></span>
+</a>
+<div class="-mx-2b mt-5">
+<div class="flex flex-col md:flex-row justify-between items-stretch pb-4">
+<div class="w-full md:w-2/3">
+<div class="px-2b mobile-video-layout">
+<figure class="relative featured-image">
+<img width="1067" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201067%20600'%3E%3C/svg%3E" class="featured_image wp-post-image" alt="Lifeline hipfiring in Season 6 next to logo" data-lazy-sizes="(max-width: 640px) 95vw, (max-width: 767px) 600px, (max-width: 979px) 479px, 620px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg 1067w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg" /><noscript><img width="1067" height="600" src="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg" class="featured_image wp-post-image" alt="Lifeline hipfiring in Season 6 next to logo" sizes="(max-width: 640px) 95vw, (max-width: 767px) 600px, (max-width: 979px) 479px, 620px" srcset="https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6.jpg 1067w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2020/08/respawn-apex-legends-hipfire-season-6-150x84.jpg 150w" /></noscript> <figcaption>Respawn Entertainment</figcaption>
+</figure>
+<div class="mt-3 flex justify-between items-center">
+<div class="text-xs flex justify-start items-center">
+<p class="uppercase tracking-px">Share</p>
+<a href="https://www.facebook.com/sharer/sharer.php?app_id=&#038;t=Respawn%20respond%20to%20complaints%20about%20hipfire%20in%20Apex%20Legends&#038;u=https%3A%2F%2Fwww.dexerto.com%2Fapex-legends%2Frespawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595%2F%3Futm_campaign%3Darticle%26utm_source%3Dfacebook%26utm_medium%3Dweb" title="Share on Facebook" class="ml-4 leading-none text-gray-800 hover:text-blue-600 color-transition facebook fbc-has-badge fbc-UID_1">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="stroke-current fill-current">
+<g>
+<circle cx="15" cy="15" r="14.25" fill="none" stroke-width="1.5"></circle>
+<path stroke="none" d="M17.732 9.752l-1.429-.002c-1.605 0-2.642 1.087-2.642 2.769v1.276h-1.436a.227.227 0 0 0-.225.23v1.85c0 .126.1.229.225.229h1.436v4.667c0 .126.1.229.225.229h1.874a.227.227 0 0 0 .224-.23v-4.666h1.68a.227.227 0 0 0 .224-.23l.001-1.85c0-.06-.024-.118-.066-.162a.222.222 0 0 0-.159-.067h-1.68v-1.082c0-.52.122-.784.785-.784h.962a.227.227 0 0 0 .225-.23V9.982c0-.127-.1-.23-.224-.23z"></path>
+</g>
+</svg>
+</a>
+<a href="fb-messenger://share/?app_id=&#038;link=https%3A%2F%2Fwww.dexerto.com%2Fapex-legends%2Frespawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595%2F%3Futm_campaign%3Darticle%26utm_source%3Dmessenger%26utm_medium%3Dweb" title="Share on Messenger" class="ml-4 leading-none text-gray-800 hover:text-blue-600 color-transition messenger">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="stroke-current fill-current">
+<g>
+<circle cx="15" cy="15" r="14.25" fill="none" stroke-width="1.5"></circle>
+<path stroke="none" d="M11.862 21a.909.909 0 0 1-.906-.9V18.78A5.517 5.517 0 0 1 9.8 14.573c.326-2.45 2.356-4.459 4.827-4.775a5.646 5.646 0 0 1 4.69 1.552 5.544 5.544 0 0 1 1.646 4.619c-.28 2.5-2.316 4.558-4.84 4.892a5.66 5.66 0 0 1-2.956-.403l-.9.446a.915.915 0 0 1-.406.096zm.735-4.586c-.125.21.11.449.336.34l1.51-1.108a.264.264 0 0 1 .246.01l1.635.941a.26.26 0 0 0 .359-.1l1.476-2.454c.114-.219-.14-.445-.36-.32l-1.49 1.013a.264.264 0 0 1-.285-.014L14.8 13.84a.261.261 0 0 0-.375.074l-1.828 2.5zm2.115-6.182h.017-.017z"></path>
+</g>
+</svg>
+</a>
+<a href="https://twitter.com/intent/tweet?via=Dexerto&#038;text=Respawn%20respond%20to%20complaints%20about%20hipfire%20in%20Apex%20Legends&#038;url=https%3A%2F%2Fwww.dexerto.com%2Fapex-legends%2Frespawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595%2F%3Futm_campaign%3Darticle%26utm_source%3Dtwitter%26utm_medium%3Dweb" title="Share on Twitter" class="ml-4 leading-none text-gray-800 hover:text-blue-600 color-transition twitter">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="stroke-current fill-current">
+<g>
+<circle cx="15" cy="15" r="14.25" fill="none" stroke-width="1.5"></circle>
+<path stroke="none" d="M20.462 11.529a2.848 2.848 0 0 0 1.249-1.571 5.685 5.685 0 0 1-1.804.689 2.84 2.84 0 0 0-4.84 2.59 8.062 8.062 0 0 1-5.854-2.967 2.84 2.84 0 0 0 .879 3.792 2.82 2.82 0 0 1-1.286-.356v.036c0 1.376.98 2.524 2.278 2.784a2.83 2.83 0 0 1-1.282.05 2.843 2.843 0 0 0 2.653 1.972 5.698 5.698 0 0 1-4.205 1.176A8.033 8.033 0 0 0 12.603 21c5.224 0 8.081-4.328 8.081-8.081 0-.123-.003-.246-.008-.367a5.76 5.76 0 0 0 1.417-1.47 5.666 5.666 0 0 1-1.631.447z"></path>
+</g>
+</svg>
+</a>
+<a href="https://reddit.com/submit?title=Respawn%20respond%20to%20complaints%20about%20hipfire%20in%20Apex%20Legends&#038;url=https%3A%2F%2Fwww.dexerto.com%2Fapex-legends%2Frespawn-respond-to-complaints-about-hipfire-in-apex-legends-1406595%2F%3Futm_campaign%3Darticle%26utm_source%3Dreddit%26utm_medium%3Dweb" title="Share on Reddit" class="ml-4 leading-none text-gray-800 hover:text-blue-600 color-transition reddit">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" class="stroke-current fill-current">
+<g>
+<path stroke="none" d="M22.123 14.933c0-.952-.774-1.726-1.726-1.726-.381 0-.743.124-1.038.35-.963-.67-2.226-1.069-3.568-1.17l.724-1.699 2.108.492a1.292 1.292 0 0 0 2.577-.132 1.292 1.292 0 1 0-2.377-.708l-2.463-.576a.431.431 0 0 0-.496.252l-1.002 2.348c-1.45.05-2.83.458-3.874 1.17a1.728 1.728 0 0 0-2.738 1.4c0 .63.344 1.2.873 1.494-.007.075-.01.153-.01.232 0 2.38 2.711 4.316 6.043 4.316 3.332 0 6.044-1.936 6.044-4.316 0-.068-.003-.134-.007-.2a1.71 1.71 0 0 0 .93-1.527zm-2.218-4.316a.432.432 0 1 1-.002.864.432.432 0 0 1 .002-.864zm-7.77 5.611c0-.476.388-.863.863-.863a.864.864 0 1 1-.863.863zm5.015 2.864a3.398 3.398 0 0 1-3.987 0 .431.431 0 1 1 .506-.7c.89.644 2.085.645 2.975 0a.431.431 0 1 1 .506.7zm.165-2a.864.864 0 1 1 0-1.728.864.864 0 0 1 0 1.727z"></path>
+<circle cx="15" cy="15" r="14.25" fill="none" stroke-width="1.5"></circle>
+</g>
+</svg>
+</a>
+</div>
+</div>
+<hr class="my-3 border-b border-gray-500">
+<div class="flex justify-start items-center overflow-hidden">
+<a class="uppercase underline tracking-px text-xs hover:text-blue-700 color-transition whitespace-no-wrap" href="https://www.dexerto.com/tag/apex-legends-season-6/">
+Apex Legends Season 6 </a>
+<span class="inline-block w-1 h-1 bg-gray-500 rounded-full mx-2"></span>
+<a class="uppercase underline tracking-px text-xs hover:text-blue-700 color-transition whitespace-no-wrap" href="https://www.dexerto.com/tag/respawn-entertainment/">
+Respawn Entertainment </a>
+</div>
+<div id="article">
+<article>
+<p><strong>A Respawn Entertainment developer has explained why they are so careful when balancing hipfire in Apex Legends, following complaints about a lack of accuracy.</strong></p>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://www.dexerto.com/wp-content/cache/min/1/libraries/scyvyYe0.js?ver=1632378448"></script>
+<div id="jwplayer_M2IIr5rk_scyvyYe0_div"></div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			if(typeof(jQuery)=="function"){(function($){$.fn.fitVids=function(){}})(jQuery)};
+				jwplayer('jwplayer_M2IIr5rk_scyvyYe0_div').setup(
+				{"playlist":"https:\/\/cdn.jwplayer.com\/feeds\/M2IIr5rk.json","ph":2}
+			);
+		</script>
+<p>One of the strongest aspects of Apex Legends is its weapon pool, incorporating a host of guns and equipment to make the Titanfall-esque battle royale as varied as it can be.</p>
+<p>However, many fans have commented on the relative strength of hipfire, arguing that is too weak on a number of weapons. One of these weapons is the HAVOC assault rifle, which featured in recent trailers for the upcoming Season 6.</p>
+<div class="caption"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" alt="" width="1280" height="720" data-credits="Respawn Entertainment" data-lazy-src="https://s3.us-east-1.amazonaws.com/dexerto-assets-production-cbbdf288/uploads/2020/06/01062805/havoc-energy-rifle-apex-1280x720-1.jpg"><noscript><img src="https://s3.us-east-1.amazonaws.com/dexerto-assets-production-cbbdf288/uploads/2020/06/01062805/havoc-energy-rifle-apex-1280x720-1.jpg" alt="" width="1280" height="720" data-credits="Respawn Entertainment"></noscript><figcaption>Respawn Entertainment</figcaption></figure><span class="block m-1 ml-0">The HAVOC was one of the first new weapons to added to Apex Legends last year.</span></div>
+<p>The energy ammo assault rifle has varied in its viability, but has settled in <a href="https://www.dexerto.com/apex-legends/best-weapons-in-apex-legends-ultimate-tier-list-1094573" target="_blank" rel="noopener noreferrer">mid tier over the course of Season 5.</a> One weakness of the HAVOC is its hipfire, which many players have suggested is below par and almost futile.</p><div id="dex-ad-mobile-article-1">
+<p class="dex-adlabel">Advertisement</p>
+<div id="ad-mobile-article-1" class="ad__in_article">
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-mobile-article-1'); });
+</script>
+</div>
+</div>
+<p>This was pointed out by Redditor &lsquo;<a href="https://www.reddit.com/r/apexlegends/comments/i9pmjb/nice_to_see_the_havoc_is_still_nerfed/" target="_blank" rel="noopener noreferrer">ChubbySupreme</a>&lsquo;, who lamented the hip fire and pointed out a recent clip that still shows the majority of shots missing.</p>
+<ul>
+<li><strong>Read More: </strong><a href="https://www.dexerto.com/apex-legends/apex-legends-devs-explain-why-worlds-edge-train-is-stopped-in-season-6-1406552" target="_blank" rel="noopener noreferrer">Apex Legends devs explain why World&rsquo;s Edge train is stopped in Season 6</a></li>
+</ul>
+<p>However, one Respawn dev responded, explaining the developer&rsquo;s approach to balancing hipfire, and why strengthening it is something they have to tread very carefully around.</p>
+<p>&ldquo;There are good combat reasons why guns aren&rsquo;t that accurate in hipfire,&rdquo; one Respawn designer replied. &ldquo;Hipfire accuracy is fundamentally about a stronger tradeoff between movement and accuracy.&rdquo;</p>
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201040%20898'%3E%3C/svg%3E" alt="" width="1040" height="898" data-lazy-src="https://s3.us-east-1.amazonaws.com/dexerto-assets-production-cbbdf288/uploads/2020/08/15124807/respawn-dev-hip-fire.jpg"><noscript><img src="https://s3.us-east-1.amazonaws.com/dexerto-assets-production-cbbdf288/uploads/2020/08/15124807/respawn-dev-hip-fire.jpg" alt="" width="1040" height="898"></noscript></p>
+<p>&ldquo;In Titanfall it&rsquo;s about constant movement, so hipfire is accurate because you don&rsquo;t want a big penalty to movement,&rdquo; they said. &ldquo;In Apex we <em class="_7s4syPYtk5hfUIjySXcRE">want</em> the tradeoff between movement and accuracy. In general, the further the range you can effectively fight, the higher the mobility penalty.&rdquo;</p><div id="dex-ad-mobile-article-2">
+<p class="dex-adlabel">Advertisement</p>
+<div id="ad-mobile-article-2" class="ad__in_article">
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-mobile-article-2'); });
+</script>
+</div>
+</div>
+<p>Essentially, Respawn want to ensure that mobility remains key in a gunfight, and players aren&rsquo;t able to laser enemies while being incredibly difficult targets to hit.</p>
+<ul>
+<li><strong>Read More: </strong><a href="https://www.dexerto.com/apex-legends/first-in-game-look-rampart-leaked-before-apex-legends-season-6-1406063" target="_blank" rel="noopener noreferrer">First in-game look at Rampart leaked ahead of Apex Legends Season 6</a></li>
+</ul>
+<p>They finished: &ldquo;If we made ARs too accurate with hipfire, they would have too many strengths because they would be strong in mid range while also being too strong in close range &mdash; it&rsquo;s important that weapon classes have weaknesses. We choose the hipfire accuracy as a meaningful axis for guns to differ on &mdash; I believe for good reason and in a way that is healthy for the game &mdash; and that means some guns have to have bad hipfire.&rdquo;</p><div id="dex-ad-mobile-article-3">
+<p class="dex-adlabel">Advertisement</p>
+<div id="ad-mobile-article-3" class="ad__in_article">
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() {
+		let slotMapping = googletag.sizeMapping()
+			.addSize([1280,0], [])
+			.addSize([768,0], [])
+			.addSize([0,0], [[300,250], [320,50]])
+			.build();
+		let slot = googletag.defineSlot('/22348890574/dexerto_v1/en/misc/mobile-in-article-ad-3', [ [300,250], [320,50] ], 'ad-mobile-article-3')
+		.addService(googletag.pubads())
+			.setTargeting('article', '1406595')
+	.setTargeting('tags', ["apex-legends-season-6","respawn-entertainment"])
+	.setTargeting('section', ["apex-legends"])
+	.setTargeting('amp', '0')
+	.setTargeting('page', 'article-waterfall')
+	.setTargeting('author', 'Joe Craven')
+		.defineSizeMapping(slotMapping);
+		googletag.display('ad-mobile-article-3');
+		googletag.pubads().refresh([slot]);
+	});
+</script>
+</div>
+</div>
+<p>It goes to show the consideration Respawn give to common in-game mechanics, and how they are striving to keep the game&rsquo;s weapon pool as balanced as possible.</p>
+<p>Any changes to hipfire will not be rushed, and Respawn clearly have their reasons.</p>
+</article>
+</div>
+</div>
+</div>
+<div class="w-full md:w-1/3">
+<div class="px-2b h-full">
+<div class='ad__wrapper'>
+Advertisement
+<div id='ad-desktop-article-sidebar-1' class='ad__sidebar_small'>
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-desktop-article-sidebar-1'); });
+</script>
+</div>
+</div>
+<div class="w-full mt-4"></div>
+<div class="block w-full mt-4 hidden md:block">
+<div class="block w-full">
+<p class="pb-1 border-b-3 border-gray-800 text-gray-800 uppercase text-xl md:text-2xl leading-tight font-bold">Latest</p>
+<div class="flex flex-wrap flex-col justify-start items-start">
+<div class="px-0 w-full">
+<div class="py-5 border-b border-brand-gray-dark">
+<div class="flex flex-row md:flex-col xl:flex-row justify-start items-start w-full">
+<a class="w-1/2 md:w-full relative" href="https://www.dexerto.com/dota2/dota-2-the-international-10-teams-schedule-results-format-1609916/">
+<picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" />
+<img width="1600" height="900" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" alt="Dota 2 The International 10 Hub" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg" />
+</picture>
+<noscript><picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" srcset="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-150x84.jpg.webp 150w" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px"/>
+<img width="1600" height="900" src="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg" alt="Dota 2 The International 10 Hub" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" srcset="https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/07/11/Dexerto-Header-Template-1-150x84.jpg 150w"/>
+</picture>
+</noscript> </a>
+<div class="w-1/2 md:w-full flex justify-start items-start flex-col ml-3 md:ml-0 xl:ml-5 mt-2 xl:mt-0">
+<a href="https://www.dexerto.com/dota2/" class="text-blue-600 hover:text-blue-700 color-transition text-xxs font-black uppercase tracking-px">
+Dota2 </a>
+<a href="https://www.dexerto.com/dota2/dota-2-the-international-10-teams-schedule-results-format-1609916/" class="text-sm lg:text-sm text-gray-900 font-bold leading-tight line-clamp small-title hover:text-blue-600 color-transition">
+<h2>LIVE: TI 10 &#8211; How to watch, schedule, results</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="px-0 w-full">
+<div class="py-5 border-b border-brand-gray-dark">
+<div class="flex flex-row md:flex-col xl:flex-row justify-start items-start w-full">
+<a class="w-1/2 md:w-full relative" href="https://www.dexerto.com/league-of-legends/worlds-2021-schedule-results-stream-teams-standings-1654305/">
+<picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" />
+<img width="1600" height="900" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" alt="League of Legends World Championship 2021 Worlds to be played in Iceland." data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg" />
+</picture>
+<noscript><picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" srcset="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-150x84.jpg.webp 150w" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px"/>
+<img width="1600" height="900" src="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg" alt="League of Legends World Championship 2021 Worlds to be played in Iceland." sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" srcset="https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/09/16/league-of-legends-world-championship-2021-worlds-groups-scheduled-results-teams-150x84.jpg 150w"/>
+</picture>
+</noscript> </a>
+<div class="w-1/2 md:w-full flex justify-start items-start flex-col ml-3 md:ml-0 xl:ml-5 mt-2 xl:mt-0">
+<a href="https://www.dexerto.com/league-of-legends/" class="text-blue-600 hover:text-blue-700 color-transition text-xxs font-black uppercase tracking-px">
+ League of Legends </a>
+<a href="https://www.dexerto.com/league-of-legends/worlds-2021-schedule-results-stream-teams-standings-1654305/" class="text-sm lg:text-sm text-gray-900 font-bold leading-tight line-clamp small-title hover:text-blue-600 color-transition">
+<h2>Worlds 2021 &#8211; how to watch, schedule, results</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="px-0 w-full">
+<div class="py-5 border-b border-brand-gray-dark">
+<div class="flex flex-row md:flex-col xl:flex-row justify-start items-start w-full">
+<a class="w-1/2 md:w-full relative" href="https://www.dexerto.com/call-of-duty/how-to-get-cod-zombies-chrysalax-wonder-weapon-1670804/">
+<picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg.webp 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-300x167.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1024x571.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-768x428.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1536x856.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1248x695.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-630x351.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-479x267.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202048%201141&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" />
+<img width="2048" height="1141" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202048%201141&#039;%3E%3C/svg%3E" alt="CoD Zombies Chrysalax weapon gameplay" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-300x167.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1024x571.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-768x428.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1536x856.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1248x695.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-630x351.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-479x267.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg" />
+</picture>
+<noscript><picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg.webp 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-300x167.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1024x571.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-768x428.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1536x856.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1248x695.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-630x351.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-479x267.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-150x84.jpg.webp 150w" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px"/>
+<img width="2048" height="1141" src="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg" alt="CoD Zombies Chrysalax weapon gameplay" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-scaled.jpg 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-300x167.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1024x571.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-768x428.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1536x856.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-1248x695.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-630x351.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-479x267.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/Cold-War-Chrysalax-Cod-Zombies-Wonder-Weapon-guide-150x84.jpg 150w"/>
+</picture>
+</noscript> </a>
+<div class="w-1/2 md:w-full flex justify-start items-start flex-col ml-3 md:ml-0 xl:ml-5 mt-2 xl:mt-0">
+<a href="https://www.dexerto.com/call-of-duty/" class="text-blue-600 hover:text-blue-700 color-transition text-xxs font-black uppercase tracking-px">
+Call of Duty </a>
+<a href="https://www.dexerto.com/call-of-duty/how-to-get-cod-zombies-chrysalax-wonder-weapon-1670804/" class="text-sm lg:text-sm text-gray-900 font-bold leading-tight line-clamp small-title hover:text-blue-600 color-transition">
+<h2>How to get CoD Zombies Chrysalax Wonder Weapon in Forsaken: quest, forms</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="px-0 w-full">
+<div class="py-5 border-b border-brand-gray-dark">
+<div class="flex flex-row md:flex-col xl:flex-row justify-start items-start w-full">
+<a class="w-1/2 md:w-full relative" href="https://www.dexerto.com/rainbow-six/rainbow-six-siege-y6s3-3-update-patch-notes-clash-kapkan-buffs-p10-roni-nerfs-1670863/">
+<picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg.webp 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-300x168.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1024x573.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-768x430.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1536x860.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1248x699.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-630x353.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-479x268.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202048%201147&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" />
+<img width="2048" height="1147" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202048%201147&#039;%3E%3C/svg%3E" alt="Rainbow Six Siege character artwork" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-300x168.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1024x573.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-768x430.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1536x860.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1248x699.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-630x353.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-479x268.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg" />
+</picture>
+<noscript><picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg.webp 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-300x168.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1024x573.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-768x430.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1536x860.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1248x699.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-630x353.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-479x268.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-150x84.jpg.webp 150w" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px"/>
+<img width="2048" height="1147" src="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg" alt="Rainbow Six Siege character artwork" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-scaled.jpg 2048w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-300x168.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1024x573.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-768x430.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1536x860.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-1248x699.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-630x353.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-479x268.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/R6-Siege-update-150x84.jpg 150w"/>
+</picture>
+</noscript> </a>
+<div class="w-1/2 md:w-full flex justify-start items-start flex-col ml-3 md:ml-0 xl:ml-5 mt-2 xl:mt-0">
+<a href="https://www.dexerto.com/rainbow-six/" class="text-blue-600 hover:text-blue-700 color-transition text-xxs font-black uppercase tracking-px">
+Rainbow Six </a>
+<a href="https://www.dexerto.com/rainbow-six/rainbow-six-siege-y6s3-3-update-patch-notes-clash-kapkan-buffs-p10-roni-nerfs-1670863/" class="text-sm lg:text-sm text-gray-900 font-bold leading-tight line-clamp small-title hover:text-blue-600 color-transition">
+<h2>Rainbow Six Siege Y6S3.3 update patch notes: Clash, Kapkan buffs, P10 Roni nerfs</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="px-0 w-full">
+<div class="py-5">
+<div class="flex flex-row md:flex-col xl:flex-row justify-start items-start w-full">
+<a class="w-1/2 md:w-full relative" href="https://www.dexerto.com/entertainment/sykkuno-responds-poor-baiting-accusations-twitch-leak-backlash-1670837/">
+<picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" />
+<img width="1600" height="900" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201600%20900&#039;%3E%3C/svg%3E" alt="Sykkuno dumbfounded on Twitch stream on October 7." data-lazy-sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" data-lazy-srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-150x84.jpg 150w" data-lazy-src="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg" />
+</picture>
+<noscript><picture class="image_featured_sidebar w-full wp-post-image">
+<source type="image/webp" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg.webp 1600w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-300x169.jpg.webp 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1024x576.jpg.webp 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-768x432.jpg.webp 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1536x864.jpg.webp 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-800x450.jpg.webp 800w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-175x98.jpg.webp 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1248x702.jpg.webp 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-630x354.jpg.webp 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-479x269.jpg.webp 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-150x84.jpg.webp 150w" sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px"/>
+<img width="1600" height="900" src="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg" alt="Sykkuno dumbfounded on Twitch stream on October 7." sizes="(max-width: 979px) 230px, (max-width: 1299px) 300px, 140px" srcset="https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks.jpg 1600w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-300x169.jpg 300w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1024x576.jpg 1024w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-768x432.jpg 768w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1536x864.jpg 1536w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-800x450.jpg 800w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-175x98.jpg 175w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-1248x702.jpg 1248w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-630x354.jpg 630w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-479x269.jpg 479w, https://www.dexerto.com/wp-content/uploads/2021/10/08/sykkuno-breaks-silence-on-recent-poor-baiting-accusations-after-huge-twitch-earnings-leaks-150x84.jpg 150w"/>
+</picture>
+</noscript> </a>
+<div class="w-1/2 md:w-full flex justify-start items-start flex-col ml-3 md:ml-0 xl:ml-5 mt-2 xl:mt-0">
+<a href="https://www.dexerto.com/entertainment/" class="text-blue-600 hover:text-blue-700 color-transition text-xxs font-black uppercase tracking-px">
+Entertainment </a>
+<a href="https://www.dexerto.com/entertainment/sykkuno-responds-poor-baiting-accusations-twitch-leak-backlash-1670837/" class="text-sm lg:text-sm text-gray-900 font-bold leading-tight line-clamp small-title hover:text-blue-600 color-transition">
+<h2>Sykkuno finally responds to &#8220;poor baiting&#8221; accusations amid Twitch leak backlash</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='ad__sticky-desktop ad__sidebar sticky'>
+Advertisement
+<div id='ad-desktop-article-sidebar-2' class='ad__sidebar'>
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-desktop-article-sidebar-2'); });
+</script>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr class='mid-article-separater border-solid mx-auto mb-4'></hr></div></div><div class="alm-btn-wrap" style="visibility: hidden;"><button class="alm-load-more-btn more " rel="next" type="button">Load More</button></div></div><footer id="footer_main" class="bg-gray-900 relative inset-x-0 bottom-0 z-0 pb-16 md:pb-0">
+<div class="container mx-auto px-8 lg:px-5 py-6 lg:py-3 flex flex-wrap flex-col lg:flex-row items-center justify-center lg:justify-between">
+<a class="lg:w-10 lg:h-10 lg:p-px leading-none" href="https://www.dexerto.com">
+<img alt="Logo" class="lg:hidden xl:hidden" media="(max-width: 979px)" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2050%2050'%3E%3C/svg%3E" width="50" height="50" layout="fixed" data-lazy-srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 98w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 196w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 294w" data-lazy-src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"><noscript><img alt="Logo"
+				class="lg:hidden xl:hidden"
+				media="(max-width: 979px)"
+				src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"
+				width="50"
+				height="50"
+				layout="fixed"
+				srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 98w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 196w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 294w"
+			></noscript>
+<img alt="Logo" class="hidden lg:block" media="(min-width: 980px)" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E" width="42" height="42" layout="responsive" data-lazy-srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 45w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 90w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 135w" data-lazy-src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"><noscript><img alt="Logo"
+				class="hidden lg:block"
+				media="(min-width: 980px)"
+				src="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile.png"
+				width="42"
+				height="42"
+				layout="responsive"
+				srcset="https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 45w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@2x.png 90w,
+					https://www.dexerto.com/wp-content/themes/dexerto/assets/images/logo/mobile@3x.png 135w"
+			></noscript>
+</a>
+<ul id="menu-footer" class="flex flex-wrap justify-center lg:justify-end items-center mt-6 lg:mt-0 lg:order-last lg:flex-grow"><li><a class='block px-3 py-4 text-xs text-gray-300' href='https://www.dexerto.com/about/'>About</a></li>
+<li><a class='block px-3 py-4 text-xs text-gray-300' href='https://www.dexerto.com/cookies-policy/'>Cookies Policy</a></li>
+<li><a class='block px-3 py-4 text-xs text-gray-300' href='https://www.dexerto.com/privacy-policy/'>Privacy Policy</a></li>
+<li><a class='block px-3 py-4 text-xs text-gray-300' href='https://www.dexerto.com/terms-and-conditions/'>Terms and Conditions</a></li>
+</ul> <div class="lg:ml-4 text-center lg:text-left">
+<p class="mt-6 lg:mt-0 text-xs text-gray-300">&copy; Copyright 2021 Dexerto Ltd.</p>
+</div>
+</div>
+</footer>
+
+<div class="fixed bottom-0 left-0 w-full z-110">
+<div class="flex justify-between items-end">
+<div class="bg-gray-800 w-6 h-6 md:hidden" aria-label="Close" tabindex="0" id="close-footer-ad">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" focusable="false"><path fill="#fff" d="M134.8,120l48.6-48.6c2-1.9,2.1-5.2,0.2-7.2c0,0-0.1-0.1-0.2-0.2l-7.4-7.4c-1.9-2-5.2-2.1-7.2-0.2c0,0-0.1,0.1-0.2,0.2L120,105.2L71.4,56.6c-1.9-2-5.2-2.1-7.2-0.2c0,0-0.1,0.1-0.2,0.2L56.6,64c-2,1.9-2.1,5.2-0.2,7.2c0,0,0.1,0.1,0.2,0.2l48.6,48.7l-48.6,48.6c-2,1.9-2.1,5.2-0.2,7.2c0,0,0.1,0.1,0.2,0.2l7.4,7.4c1.9,2,5.2,2.1,7.2,0.2c0,0,0.1-0.1,0.2-0.2l48.7-48.6l48.6,48.6c1.9,2,5.2,2.1,7.2,0.2c0,0,0.1-0.1,0.2-0.2l7.4-7.4c2-1.9,2.1-5.2,0.2-7.2c0,0-0.1-0.1-0.2-0.2L134.8,120z"></path></svg>
+</div>
+<button class="bg-blue-500 items-center px-4 py-2 rounded-t text-white ml-auto flex" role="button" id="gdpr_link" onclick="window._sp_.loadPrivacyManagerModal(304015)">Privacy</button>
+<button class="bg-blue-500 items-center px-4 py-2 rounded-t text-white ml-auto hidden" role="button" id="ccpa_link" onclick="window._sp_ccpa.loadPrivacyManagerModal(null, '5f7b850848611a7328cc6517')">Do Not Sell My Info</button>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		__uspapi('getUSPData',1,function(uspData,success){
+			if(JSON.stringify(uspData).indexOf("---")===-1){
+				document.getElementById("ccpa_link").style.display = "flex";
+				document.getElementById("gdpr_link").style.display = "none";
+			}
+			else{
+				window.__tcfapi('getTCData',2,function(data,success){
+					if(data.gdprApplies){
+						document.getElementById("gdpr_link").style.display = "flex";
+						document.getElementById("ccpa_link").style.display = "none";
+					}
+				});    
+			}        
+		});
+	</script>
+</div>
+<div id='ad-mobile-article-bottom-leaderboard' class='ad__mobile-footer block md:hidden bg-gray-200 py-1 w-full text-center leading-zero'>
+<script type="rocketlazyloadscript">
+	googletag.cmd.push(function() { googletag.display('ad-mobile-article-bottom-leaderboard'); });
+</script>
+</div>
+</div>
+
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type='text/javascript' src='https://www.dexerto.com/wp-content/cache/min/1/wp-content/themes/dexerto/assets/js/build/main.js?ver=1632378448' id='dexerto-main-js-js'></script>
+<script type='text/javascript' id='ajax-load-more-js-extra'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/www.dexerto.com\/wp-admin\/admin-ajax.php","alm_nonce":"2933007546","rest_api":"https:\/\/www.dexerto.com\/wp-json\/","rest_nonce":"b57b12c594","pluginurl":"https:\/\/www.dexerto.com\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"Dexerto","site_tagline":"Esports, Gaming & Influencer News"};
+var ajax_load_more_vars = {"id":"ajax-load-more"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.dexerto.com/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.4.5' id='ajax-load-more-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.dexerto.com/wp-content/plugins/ajax-load-more-pro/pro/ajax-load-more-previous-post/dist/js/alm-single-posts.min.js?ver=1.5.2' id='alm-single-posts-js'></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.dexerto.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script> <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"69ae269a0ce115f6","token":"b7f0df20913642abbf79f9f33bb62128","version":"2021.9.0","si":100}'></script>
+</body>
+</html>

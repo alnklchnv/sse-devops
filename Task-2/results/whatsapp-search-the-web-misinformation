@@ -1,0 +1,1735 @@
+<!doctype html>
+<html xmlns:og="https://opengraphprotocol.org/schema/" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+            <head itemscope itemtype="https://schema.org/Article">
+                <!-- OneTrust Cookies Consent Notice start for www.siliconrepublic.com -->
+        <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="73ee2062-81ba-418b-a873-6ad262fbecd2" ></script>
+        <script type="text/javascript">
+            window.hasConsentFor = function(str) {
+                let re = new RegExp(str, 'g');
+                return (Boolean) (typeof OptanonActiveGroups !== 'undefined' && OptanonActiveGroups.match(re));
+            }
+            window.hasProcessedConsentDialog = function () {
+                return (document.cookie.indexOf("OptanonAlertBoxClosed=") >=0);
+            }
+            function OptanonWrapper() {
+                if (window.hasProcessedConsentDialog() && window.hasConsentFor('C0002')) {
+                    window.AT.enableDispatch();
+                }
+            }
+        </script><!-- OneTrust Cookies Consent Notice end for www.siliconrepublic.com -->
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <meta name="alexaVerifyID" content="f0MPRFGYt7uDmbj7liYcN86BdU8" />
+        <meta name="msvalidate.01" content="68AB9518D1E65E74177E992863BFCA24" />
+        <meta name="language" content="en" />
+
+        <meta http-equiv="content-language" content="en-uk" />
+        <link rel="dns-prefetch" href="//ajax.googleapis.com">
+        <link rel="dns-prefetch" href="//fonts.googleapis.com">
+        <link rel="dns-prefetch" href="//use.typekit.net">
+        <link rel="dns-prefetch" href="//www.googletagmanager.com">
+        <link rel="preload" as="font" href="/wp-content/themes/silicon/fonts/2D4EEF_1_0.woff2" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" as="font" href="/wp-content/themes/silicon/fonts/2D4EEF_0_0.woff2" type="font/woff2" crossorigin="anonymous">
+        
+        <link href='//fonts.googleapis.com/css?family=Merriweather:400,300italic,400italic,700,700italic,300&display=swap' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" media="screen" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="https://www.siliconrepublic.com/wp-content/themes/silicon/css/site.min.css?v=20211001"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Latest News" href="/feed"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Life" href="/category/life/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Trending" href="/category/trending/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Gear" href="/category/gear/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Play" href="/category/play/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Technology" href="/category/technology/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Business" href="/category/business/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Enterprise" href="/category/enterprise/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Comms" href="/category/comms/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Start-ups" href="/category/start-ups/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Science" href="/category/science/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Innovation" href="/category/innovation/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Machines" href="/category/machines/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Climate" href="/category/climate/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Portfolio" href="/category/portfolio/feed/"/>
+        <link rel="alternate" type="application/rss+xml" title="Siliconrepublic - Careers" href="/category/careers/feed/"/>
+
+        <script type="text/plain" class="optanon-category-C0004">
+    var googletag = googletag || {};
+    var refsource = '';
+    // Enable DFP tagging based on referrer
+    if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
+        refsource = 'twitter';
+    } else if (document.referrer.match(/^https?:\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
+        refsource = 'facebook';
+    } else if (document.referrer.match(/^https?:\/\/([^\/]+\.)?linkedin\.com(\/|$)/i)) {
+        refsource = 'linkedin';
+    }
+
+    var dfp_targets = new Object();
+    var dfp_mappings = new Object();
+    
+    if (refsource) {
+        dfp_targets.socref = refsource;
+    }
+
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    googletag.cmd.push(function() {
+        dfp_mappings.mapTopBanner = googletag.sizeMapping()
+            .addSize([758, 200], [728, 90])
+            .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
+            .build();
+
+        dfp_mappings.mapMpu = googletag.sizeMapping()
+            .addSize([100, 100], [[320, 50], [300, 250], [300, 600]])
+            .addSize([758, 200], [[300, 250]])
+            .build();
+
+        googletag.defineSlot('/72697299/sr_leaderboard', [1,1], 'leaderboard')
+            .defineSizeMapping(dfp_mappings.mapTopBanner)
+            .addService(googletag.pubads());
+
+                        dfp_targets.page = 'article';
+                                dfp_targets.article = '887801';
+                                dfp_targets.category = 'business';
+                                dfp_targets.tag = ['media','messaging','search','whatsapp'];
+                
+        for (var key in dfp_targets) {
+            if (dfp_targets.hasOwnProperty(key)) {
+                googletag.pubads().setTargeting(key, dfp_targets[key]);
+            }
+        }
+
+        googletag.pubads().setRequestNonPersonalizedAds(1);
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>WhatsApp prompts users to search for the facts behind forwarded messages</title>
+	<meta name="description" content="A new feature rolling out to WhatsApp users in Ireland will allow them to search the web for information related to forwarded messages." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="WhatsApp prompts users to search for the facts behind forwarded messages" />
+	<meta property="og:description" content="A new feature rolling out to WhatsApp users in Ireland will allow them to search the web for information related to forwarded messages." />
+	<meta property="og:url" content="https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation" />
+	<meta property="og:site_name" content="Silicon Republic" />
+	<meta property="article:published_time" content="2020-08-04T16:13:50+00:00" />
+	<meta property="article:modified_time" content="2020-08-04T17:10:15+00:00" />
+	<meta property="og:image" content="https://www.siliconrepublic.com/wp-content/uploads/2020/08/AdobeStock_283679703_Editorial_Use_Only.jpeg" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="600" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@CriticalRedPen" />
+	<meta name="twitter:site" content="@siliconrepublic" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.siliconrepublic.com/#website","url":"https://www.siliconrepublic.com/","name":"Silicon Republic","description":"Silicon Republic is a leading source for technology, science and start-up news, information and resources for people who are passionate about STEM.","potentialAction":[{"@type":"SearchAction","target":"https://www.siliconrepublic.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation#primaryimage","inLanguage":"en-GB","url":"https://www.siliconrepublic.com/wp-content/uploads/2020/08/AdobeStock_283679703_Editorial_Use_Only.jpeg","width":800,"height":600,"caption":"A close-up of the WhatsApp app icon on a smartphone screen, with a notification indicating that a message has been received."},{"@type":"WebPage","@id":"https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation#webpage","url":"https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation","name":"WhatsApp prompts users to search for the facts behind forwarded messages","isPartOf":{"@id":"https://www.siliconrepublic.com/#website"},"primaryImageOfPage":{"@id":"https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation#primaryimage"},"datePublished":"2020-08-04T16:13:50+00:00","dateModified":"2020-08-04T17:10:15+00:00","author":{"@id":"https://www.siliconrepublic.com/#/schema/person/6335ea59276caab10b1751a03bc6accc"},"description":"A new feature rolling out to WhatsApp users in Ireland will allow them to search the web for information related to forwarded messages.","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.siliconrepublic.com/companies/whatsapp-search-the-web-misinformation"]}]},{"@type":["Person"],"@id":"https://www.siliconrepublic.com/#/schema/person/6335ea59276caab10b1751a03bc6accc","name":"Elaine Burke","image":{"@type":"ImageObject","@id":"https://www.siliconrepublic.com/#personlogo","inLanguage":"en-GB","url":"https://secure.gravatar.com/avatar/a67a23a141c811e6eb39483c42608c2c?s=96&d=mm&r=g","caption":"Elaine Burke"},"description":"Elaine Burke is editor of Silicon Republic, having served a few years as managing editor up to 2019. She joined in 2011 as a journalist covering gadgets, new media and tech jobs. She comes from a background in publishing and is known for being particularly pernickety when it comes to spelling and grammar \u2013 earning her the nickname, Critical Red Pen.","sameAs":["https://www.linkedin.com/in/elaineburkeirl/","https://twitter.com/CriticalRedPen"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.siliconrepublic.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Silicon Republic &raquo; Feed" href="https://www.siliconrepublic.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Silicon Republic &raquo; Comments Feed" href="https://www.siliconrepublic.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.siliconrepublic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.7"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.siliconrepublic.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://www.siliconrepublic.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.siliconrepublic.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.siliconrepublic.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.siliconrepublic.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.siliconrepublic.com/?p=887801' />
+<link rel="alternate" type="application/json+oembed" href="https://www.siliconrepublic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.siliconrepublic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation&#038;format=xml" />
+        <script src="//use.typekit.net/myr1bop.js"></script>
+        <script>try {
+            Typekit.load();
+          } catch (e) {
+        }</script>
+
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+
+        <meta name="application-name" content="Silicon Republic"/>
+        <meta content="https://www.facebook.com/siliconrepublic" data-page-subject="true" property="og:article:publisher" />
+                        <meta property="article:tag" content="premium">
+                            <meta content="Elaine Burke" data-page-subject="true" name="author" />
+            <meta content="04/08/2020" name="published_date" />
+            <meta content="17" name="published_hour" />
+                    <meta name="msapplication-TileColor" content="#ffffff"/>
+        <meta name="msapplication-square70x70logo" content="/ms-tiny.png"/>
+        <meta name="msapplication-square150x150logo" content="/ms-square.png"/>
+        <meta name="msapplication-wide310x150logo" content="/ms-wide.png"/>
+        <meta name="msapplication-square310x310logo" content="/ms-large.png"/>
+        <meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=https://www.siliconrepublic.com/feed/&amp;id=1; cycle=1"/>
+
+        <script>
+            var fb_app_id = '287597001601476';
+        </script>
+        <script type="text/plain" class="optanon-category-C0002">
+          (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+              (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+          })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+          ga('create', 'UA-337752-1', 'auto');ga('set', 'dimension1', 'media,messaging,search,WhatsApp');
+                    ga('set', 'dimension4', 'Elaine Burke');
+                    ga('set', 'dimension5', '04/08/2020');
+                    ga('set', 'dimension6', '17');
+                              ga('set', 'anonymizeIp', true);
+          ga('send', 'pageview');
+        </script>
+        <dimensions data-set="media,messaging,search,WhatsApp"></dimensions>
+                    <script>
+            function anon_event(category, action, label, value = 1, nonInteraction = false) {
+                // Any missing values? Don't send junk to GA, bail now.
+                if (typeof category === 'undefined'
+                    || typeof action === 'undefined'
+                    || typeof label === 'undefined') {
+                    return;
+                }
+
+                let ni = nonInteraction ? 1 : 0;
+
+                let url = 'https://www.google-analytics.com/collect?v=1'+
+                    '&aip=1'+                                          // Anonymise IP
+                    '&tid=UA-337752-12'+ // Analytics account
+                    '&cid='+Math.round(2147483647 * Math.random())+    // User id, randomised
+                    '&t=event'+                                        // Event hit type
+                    '&ec='+category+                                   // Event Category. Required.
+                    '&ea='+action+                                     // Event Action. Required.
+                    '&el='+label+                                      // Event Label.
+                    '&ev='+value+                                      // Event Value.
+                    '&ni='+ni                                          // Non-interactive?
+                    + addCustomDimensions();
+
+                navigator.sendBeacon(url);
+            }
+            function anon_pageview() {
+                let url = 'https://www.google-analytics.com/collect?v=1'+
+                    '&aip=1'+                                          // Anonymise IP
+                    '&tid=UA-337752-12'+ // Analytics account
+                    '&cid='+Math.round(2147483647 * Math.random())+    // User id, randomised
+                    '&dl='+encodeURIComponent(document.location.href)+ // Location
+                    '&dt='+encodeURIComponent(document.title)+         // Title
+                    '&dr='+encodeURIComponent(document.referrer)       // Referrer info
+                    + addCustomDimensions();
+
+                navigator.sendBeacon(url);
+            }
+
+            function addCustomDimensions() {
+                let url = '';
+
+                if (document.querySelector('dimensions')) {
+                    url += '&cd1='+encodeURIComponent(document.querySelector('dimensions').dataset.set);
+                }
+
+                if (document.querySelector('meta[name="author"]')) {
+                    url += '&cd4='+encodeURIComponent(document.querySelector('meta[name="author"]').content);
+                }
+                if (document.querySelector('meta[name="published_date"]')) {
+                    url += '&cd5='+encodeURIComponent(document.querySelector('meta[name="published_date"]').content);
+                }
+                if (document.querySelector('meta[name="published_hour"]')) {
+                    url += '&cd6='+encodeURIComponent(document.querySelector('meta[name="published_hour"]').content);
+                }
+
+                return url;
+            }
+
+            anon_pageview();
+        </script>
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/plain" class="optanon-category-C0002">
+        _atrk_opts = {atrk_acct: "aB3yk1aUy100qK", domain: "siliconrepublic.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=aB3yk1aUy100qK" style="display:none" height="1" width="1" alt=""/></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <script> var Pelcro = window.Pelcro || (window.Pelcro = {}); Pelcro.siteid = "1334"; Pelcro.environment = {}; Pelcro.environment.domain = "https://www.pelcro.com"; Pelcro.environment.ui = "https://js.pelcro.com/ui/plugin/silicon-republic/main.min.js" </script> <script src="//js.pelcro.com/sdk/main.min.js" type="text/javascript"></script><script>
+    document.addEventListener("PelcroSiteLoaded", function (e) {
+        var target = document.querySelector('.pelcro-login-button');
+
+        var observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.type == 'childList' && mutation.addedNodes.length) {
+                    if(mutation.addedNodes[0].data == 'My account') {
+                        setPelcroUserButtons();
+                        unhidePelcroLoginButtons();
+                    }
+                }
+            });
+        });
+        var config = { attributes: true, childList: true, characterData: true };
+        observer.observe(target, config);
+
+        if (!Pelcro.user.isAuthenticated()) {
+            unhidePelcroLoginButtons();
+            toggleSubscribeButtonVisibility(true);
+        }
+    });
+
+    document.addEventListener("PelcroUserLogin", function (e) {
+        toggleSubscribeButtonVisibility(false);
+        setPelcroUserButtons();
+    });
+
+    document.addEventListener("PelcroUserLoaded", function (e) {
+        toggleSubscribeButtonVisibility(false);
+    });
+    document.addEventListener("PelcroUserLogout", function (e) {
+        toggleSubscribeButtonVisibility(true);
+        clearPelcroUserButtons();
+    });
+    document.addEventListener("PelcroPaywallTriggered", function (e) {
+        careerArticles = document.querySelectorAll('article.careers .content-wrapper');
+        if (careerArticles.length == 0) {
+            return;
+        }
+        careerArticles.forEach(elem => {
+            elem.parentNode.querySelector('.social-wrapper').style.height = elem.offsetHeight+"px";
+        });
+        kill_autoload = true;
+        jQuery('article:last').find('.recommendation-box').hide();
+        jQuery('footer').removeClass('hide');
+    });
+
+    function unhidePelcroLoginButtons() {
+        document.querySelectorAll('.community-button.pelcro-login-button').forEach((item) => {
+            item.classList.remove('hide');
+        });
+    }
+    function toggleSubscribeButtonVisibility(show = true) {
+        let pelcroBtns = document.querySelectorAll('.prompt.pelcro-subscribe-button');
+        for (i = 0; i < pelcroBtns.length; ++i) {
+            if (show) {
+                pelcroBtns[i].classList.remove('hide');
+            } else {
+                pelcroBtns[i].classList.add('hide');
+            }
+        }
+    }
+    function setPelcroUserButtons() {
+        let user = Pelcro.user.read();
+        let pelcroMessage = 'My Account';
+
+        if (user.first_name) {
+            pelcroMessage = 'Hi, '+user.first_name;
+        }
+        let content = '<span class="login-name">'+pelcroMessage+'</span><span class="red">></span>';
+        let pelcroBtns = document.querySelectorAll('.community-button.pelcro-login-button');
+        for (i = 0; i < pelcroBtns.length; ++i) {
+            pelcroBtns[i].classList.add('logged-in');
+            pelcroBtns[i].classList.add('circular-std');
+            pelcroBtns[i].innerHTML = content;
+        }
+    }
+
+    function clearPelcroUserButtons() {
+        let pelcroBtns = document.querySelectorAll('.community-button.pelcro-login-button');
+        for (i = 0; i < pelcroBtns.length; ++i) {
+            pelcroBtns[i].classList.remove('logged-in');
+            pelcroBtns[i].classList.remove('circular-std');
+            pelcroBtns[i].innerHTML = 'Login';
+        }
+    }
+</script>
+</head>
+
+<body class="business supertag whatsapp-search-the-web-misinformation" data-single="1">
+<script class="at-tags">
+    window.AT = {
+        enabledDispatch: false,
+        hasQueuedDispatch: false,
+        hasQueuedEvent: false,
+        queuedEvent: null,
+        tag: null,
+        page: {},
+        props: {},
+        search: {},
+        addProp: function(key, value) {
+            this.props[key] = value;
+        },
+        addEntity: function(key, value) {
+            this.page[key] = value;
+        },
+        dispatch: function() {
+            this.page = this.cleanObject(this.page);
+            this.props = this.cleanObject(this.props);
+            if (!this.enabledDispatch) {
+                this.hasQueuedDispatch = true;
+                return;
+            }
+
+            this.tag.page.set(this.page);
+            this.tag.setProps(this.props, false);
+            this.tag.dispatch();
+        },
+        enableDispatch: function () {
+            // Load script
+            this.loadScript('https://tag.aticdn.net/617334/smarttag.js')
+                .then(() => {
+                    this.tag = new ATInternet.Tracker.Tag(),
+                    this.enabledDispatch = true;
+                    this.tag.page.set(this.page);
+                    this.tag.setProps(this.props, false);
+
+                    if (this.hasQueuedDispatch) {
+                        this.tag.dispatch();
+                    }
+
+                    if (this.hasQueuedEvent) {
+                        this.tag.event.send(this.queuedEvent.name, this.queuedEvent.props);
+                    }
+                })
+                .catch(() => {
+                    console.error('Failed script load');
+                });
+        },
+        loadScript(scriptUrl) {
+            const script = document.createElement('script');
+            script.src = scriptUrl;
+            document.body.appendChild(script);
+
+            return new Promise((res, rej) => {
+                script.onload = function() {
+                res();
+                }
+                script.onerror = function () {
+                rej();
+                }
+            });
+        },
+        sendEvent: function(event_name, additional_props) {
+            var eventProps = {
+                page: this.page.name,
+                page_chapter1: this.page.chapter1,
+                page_chapter2: this.page.chapter2
+            };
+            Object.assign(eventProps, this.props);
+            if (additional_props) {
+                Object.assign(eventProps, additional_props);
+            }
+            eventProps = this.cleanObject(eventProps);
+            if (!this.enabledDispatch) {
+                this.hasQueuedEvent = true;
+                this.queuedEvent = {name: event_name, props: eventProps};
+                return;
+            }
+            this.tag.event.send(event_name, eventProps);
+        },
+        setSearch: function(term, page) {
+            this.search.keyword = term;
+            this.tag.internalSearch.set({
+                keyword: term,
+                resultPageNumber: page
+            });
+        },
+        searchClick: function(elem, page, position) {
+            this.tag.internalSearch.send({
+                elem: elem,
+                keyword: this.search.keyword,
+                resultPageNumber: page,
+                resultPosition: position
+            });
+        },
+        cleanItem: function(str) {
+            if (typeof str === "undefined") {
+                return '';
+            }
+
+            if (typeof str === "object") {
+                var self = this;
+                Object.keys(str).forEach(function(key) {
+                    str[key] = self.cleanItem(str[key]);
+                });
+                // Need to send back as a stringified form, as AT won't parse array.
+                return '["' + str.join('","') + '"]';
+            }
+
+            if (str.match(/^\["(.*)"\]$/)) {
+                // Don't double-encode tags, return as-is.
+                return str;
+            }
+
+            if (typeof str !== "string") {
+                return str;
+            }
+            // AT have a very limited set of accepted chars - ensure we comply.
+            // Anglicise chars first (https://stackoverflow.com/a/37511463/2287)
+            return str.normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^\w\s~\.\\\/]/gi, '')
+                .replace(/\s+/g, '_');
+        },
+        cleanObject: function(obj) {
+            var self = this;
+            Object.keys(obj).forEach(function(key) {
+                obj[key] = self.cleanItem(obj[key]);
+            });
+            return obj;
+        }
+    };
+
+            window.AT.props = {
+            'employer': 'No-Employer',
+            'a:s:tags_article': ["media","messaging","search","WhatsApp"],
+            'author_article': 'Elaine Burke',
+            'date_article' : '04/08/2020',
+            'hour_publication_article': '16',
+        };
+            window.AT.page = {
+        name: document.title
+    };
+
+            window.AT.addEntity('chapter1', 'Technology');
+                window.AT.addEntity('chapter2', 'Business');
+        </script>
+<script>
+    window.AT.dispatch();
+</script>
+    <script>
+    var last_scroll = 0;
+    </script>
+        <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4TPL2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start':
+                new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-K4TPL2');</script>
+    <!-- End Google Tag Manager -->
+
+
+
+    <nav class="menu slide-menu-left nocontent" role="navigation">
+        <div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class="nav-menu-sidebar"><li id="menu-item-258755" class="mobile-home menu-item menu-item-type-custom menu-item-object-custom menu-item-258755"><a href="/">Home</a></li>
+<li id="menu-item-944587" class="mobile-technology menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-944587"><a href="#">Technology</a>
+<ul class="sub-menu">
+	<li id="menu-item-239092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239092"><a href="https://www.siliconrepublic.com/business">Business</a></li>
+	<li id="menu-item-239095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239095"><a href="https://www.siliconrepublic.com/enterprise">Enterprise</a></li>
+	<li id="menu-item-239083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239083"><a href="https://www.siliconrepublic.com/comms">Comms</a></li>
+	<li id="menu-item-239098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239098"><a href="https://www.siliconrepublic.com/start-ups">Start-ups</a></li>
+	<li id="menu-item-239080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239080"><a href="https://www.siliconrepublic.com/technology">All</a></li>
+</ul>
+</li>
+<li id="menu-item-258767" class="mobile-science menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-258767"><a href="#">Science</a>
+<ul class="sub-menu">
+	<li id="menu-item-258737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258737"><a href="https://www.siliconrepublic.com/innovation">Innovation</a></li>
+	<li id="menu-item-258740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258740"><a href="https://www.siliconrepublic.com/machines">Machines</a></li>
+	<li id="menu-item-258734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258734"><a href="https://www.siliconrepublic.com/climate">Climate</a></li>
+	<li id="menu-item-258731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258731"><a href="https://www.siliconrepublic.com/science">All</a></li>
+</ul>
+</li>
+<li id="menu-item-611738" class="mobile-careers menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-611738"><a href="#">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-611715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611715"><a href="https://www.siliconrepublic.com/advice">Advice</a></li>
+	<li id="menu-item-611727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611727"><a href="https://www.siliconrepublic.com/people">People</a></li>
+	<li id="menu-item-611721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611721"><a href="https://www.siliconrepublic.com/employers">Employers</a></li>
+	<li id="menu-item-611724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611724"><a href="https://www.siliconrepublic.com/jobs-news">Jobs News</a></li>
+	<li id="menu-item-611732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611732"><a href="https://www.siliconrepublic.com/careers">All</a></li>
+</ul>
+</li>
+<li id="menu-item-261398" class="mobile-home menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-261398"><a href="#">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-945143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945143"><a href="https://www.siliconrepublic.com/video">Video</a></li>
+	<li id="menu-item-261404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261404"><a href="https://www.siliconrepublic.com/advertise">Advertise</a></li>
+	<li id="menu-item-261410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261410"><a href="https://www.siliconrepublic.com/follow-us">Follow Us</a></li>
+	<li id="menu-item-261407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261407"><a href="https://www.siliconrepublic.com/contact">Contact us</a></li>
+	<li id="menu-item-261401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261401"><a href="https://www.siliconrepublic.com/about">About</a></li>
+	<li id="menu-item-757195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-757195"><a href="https://www.siliconrepublic.com/privacy">Cookie &#038; Privacy Policy</a></li>
+</ul>
+</li>
+</ul></div>    </nav>
+
+<div class="site-wrap" draggable="false">
+
+    <div class="searchoverlay nocontent" role="search">
+        <i class="fa fa-close closesearch"></i>
+        <div class="row">
+            <form action="/search-results" method="get">
+                <input class="search-field" type="text" autocomplete="off" placeholder="Type to search" name="q" id="search"/>
+                            </form>
+        </div>
+    </div>
+
+    <div class="headermain sticky nocontent " role="navigation">
+    <div class="row headernav">
+        <div class="medium-1 small-1 columns hide-for-large-up">
+        <label for="nav-trigger"  id="nav-toggle" class="nav-toggler toggle-slide-left hide-for-large-up"><span></span></label>
+        </div>
+        <div class="small-6 large-3 medium-7 columns logotext mobile-non-post-share-holder">
+            <a href="/"><img src="https://www.siliconrepublic.com/wp-content/themes/silicon/img/logoblack.png" alt="Silicon Republic" /></a>
+        </div>
+                <div class="small-4 medium-3 columns hide-for-large-up mobile-social-nav mobile-non-post-share-holder">
+            <div class="header-social-holder right">
+                <button class="community-button pelcro-login-button hide">Login</button>
+
+                <div class="search-icon-container right">
+                    <a href="#"><i class="fa fa-search largesearchico"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="large-9 medium-1 small-2 columns show-for-large-up">
+            <div id="desktop-nav" class="table show-for-large-up">
+                <ul class="social-list headermenu leftmenu">
+                                            <li class="nav-submenu cattechnology hassubnav">
+                            <a href="https://www.siliconrepublic.com/technology">TECHNOLOGY</a>
+                            
+                                <div id="sub-menu-technology"  class="shadow-row show-for-large-up subnav">
+                                    <div class="submenu-link-container">
+                                        <div class="link-holder">
+                                                                                            <a href="https://www.siliconrepublic.com/business" class="subnav-link highlighted-word">BUSINESS</a>
+                                                                                                <a href="https://www.siliconrepublic.com/enterprise" class="subnav-link ">ENTERPRISE</a>
+                                                                                                <a href="https://www.siliconrepublic.com/comms" class="subnav-link ">COMMS</a>
+                                                                                                <a href="https://www.siliconrepublic.com/start-ups" class="subnav-link ">START-UPS</a>
+                                                                                                <a href="https://www.siliconrepublic.com/technology" class="subnav-link ">ALL</a>
+                                                                                        </div>
+                                    </div>
+                                </div>
+                                                        </li>
+                                                <li class="nav-submenu catscience hassubnav">
+                            <a href="https://www.siliconrepublic.com/science">SCIENCE</a>
+                            
+                                <div id="sub-menu-science"  class="shadow-row show-for-large-up subnav">
+                                    <div class="submenu-link-container">
+                                        <div class="link-holder">
+                                                                                            <a href="https://www.siliconrepublic.com/innovation" class="subnav-link ">INNOVATION</a>
+                                                                                                <a href="https://www.siliconrepublic.com/machines" class="subnav-link ">MACHINES</a>
+                                                                                                <a href="https://www.siliconrepublic.com/climate" class="subnav-link ">CLIMATE</a>
+                                                                                                <a href="https://www.siliconrepublic.com/science" class="subnav-link ">ALL</a>
+                                                                                        </div>
+                                    </div>
+                                </div>
+                                                        </li>
+                                                <li class="nav-submenu catcareers hassubnav">
+                            <a href="https://www.siliconrepublic.com/careers">CAREERS</a>
+                            
+                                <div id="sub-menu-careers"  class="shadow-row show-for-large-up subnav">
+                                    <div class="submenu-link-container">
+                                        <div class="link-holder">
+                                                                                            <a href="https://www.siliconrepublic.com/advice" class="subnav-link ">ADVICE</a>
+                                                                                                <a href="https://www.siliconrepublic.com/people" class="subnav-link ">PEOPLE</a>
+                                                                                                <a href="https://www.siliconrepublic.com/employers" class="subnav-link ">EMPLOYERS</a>
+                                                                                                <a href="https://www.siliconrepublic.com/jobs-news" class="subnav-link ">JOBS NEWS</a>
+                                                                                                <a href="https://www.siliconrepublic.com/careers" class="subnav-link ">ALL</a>
+                                                                                        </div>
+                                    </div>
+                                </div>
+                                                        </li>
+                                                <li class="nav-submenu catmore hassubnav">
+                            <a href="#">MORE</a>
+                            
+                                <div id="sub-menu-more"  class="shadow-row show-for-large-up subnav">
+                                    <div class="submenu-link-container">
+                                        <div class="link-holder">
+                                                                                            <a href="https://www.siliconrepublic.com/video" class="subnav-link ">VIDEO</a>
+                                                                                                <a href="https://www.siliconrepublic.com/advertise" class="subnav-link ">ADVERTISE</a>
+                                                                                                <a href="https://www.siliconrepublic.com/follow-us" class="subnav-link ">FOLLOW US</a>
+                                                                                                <a href="https://www.siliconrepublic.com/contact" class="subnav-link ">CONTACT</a>
+                                                                                                <a href="https://www.siliconrepublic.com/about" class="subnav-link ">ABOUT</a>
+                                                                                                <a href="https://www.siliconrepublic.com/privacy" class="subnav-link ">COOKIE &#038; PRIVACY POLICY</a>
+                                                                                        </div>
+                                    </div>
+                                </div>
+                                                        </li>
+                                        </ul>
+                <div class="header-social-holder right">
+                    <button class="community-button pelcro-login-button hide">Login</button>
+                    <button class="community-button prompt pelcro-subscribe-button hide">Subscribe</button>
+                    <div class="search-icon-container right">
+                        <a href="#"><i class="fa fa-search largesearchico"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="technology-subnav"  class="shadow-row show-for-large-up subnav active subnav-on-load">
+        <div class="submenu-link-container">
+            <div class="link-holder large-6 large-offset-6">
+                                    <a href="https://www.siliconrepublic.com/business" class="subnav-link highlighted-word">BUSINESS</a>
+                                        <a href="https://www.siliconrepublic.com/enterprise" class="subnav-link ">ENTERPRISE</a>
+                                        <a href="https://www.siliconrepublic.com/comms" class="subnav-link ">COMMS</a>
+                                        <a href="https://www.siliconrepublic.com/start-ups" class="subnav-link ">START-UPS</a>
+                                        <a href="https://www.siliconrepublic.com/technology" class="subnav-link ">ALL</a>
+                                </div>
+        </div>
+    </div>
+    
+    <div class="inner-wrap">
+    <div class="main-section">
+    <div id="leaderboard" class="show-for-medium-up nocontent">
+        <script type="text/plain" class="optanon-category-C0004">
+            googletag.cmd.push(function() { googletag.display('leaderboard'); });
+        </script>
+    </div>
+        <!--googleoff: all-->
+
+    <article>
+    <div class="singlepostpage" role="main">
+    <div class="row">
+            <pageview data-id="887801"></pageview>
+    
+
+<div class="large-12 columns">
+
+<div class="breadcrumb">
+
+<a href="/business">BUSINESS</a>
+</div></div>
+
+
+        <!--googleon: all-->
+
+
+        <div class="large-12 columns singletitle">
+            <h1 itemprop="name">WhatsApp prompts users to search for the facts behind forwarded messages</h1>
+                                <p class="author" itemprop="author">
+                        <a href="https://www.siliconrepublic.com/author/eburke"
+                            class="at-event"
+                            data-at_type="article.author.click"
+                            data-at_additional="{&quot;click_name&quot;:&quot;keyword&quot;,&quot;click_type&quot;:&quot;navigation&quot;}">by Elaine Burke</a>
+                    </p>
+                                <p class="sharetime">
+                <span class="icon_time "><!--googleoff: all-->4 Aug 2020<!--googleon: all--></span>            </p>
+
+            <button
+                class="pelcro-save-button upper"
+                data-key="articles"
+                data-title="WhatsApp prompts users to search for the facts behind forwarded messages"
+                data-link="https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation"
+                >
+                <i class="fa fa-spinner fa-spin"></i>
+                <i class="fa fa-bookmark-o"></i>
+                <i class="fa fa-bookmark"></i>
+                <span class="label-holder">Save article</span>
+            </button>
+        </div>
+        
+
+        <div class="large-8 collapse pullupmobile columns">
+            <div>
+
+                
+                <div class="large-11 columns article-body-container">
+                    
+                        
+                                <div class="featured">
+                                    <img width="718" height="523" src="https://www.siliconrepublic.com/wp-content/uploads/2020/08/AdobeStock_283679703_Editorial_Use_Only-718x523.jpeg" class="alignleft wp-post-image" alt="A close-up of the WhatsApp app icon on a smartphone screen, with a notification indicating that a message has been received." itemprop="image" />                                </div>
+                            
+                        
+                    
+                    <div class="row collapse">
+                        <div class="large-offset-2 large-10 columns postcontent">
+                            <p class="photocaption">Image: © Aleksei/Stock.adobe.com</p>
+
+                            <div class="postsinglecontent">
+                                <!--googleon: all-->
+
+                                <div itemprop="articleBody">
+                                    <p>A new feature rolling out to WhatsApp users in Ireland will allow them to search the web for information related to forwarded messages.</p>
+<p>WhatsApp is piloting a new feature that will allow users to quickly research the content of a forwarded message.</p>
+<p>The &lsquo;Search the Web&rsquo; feature is the latest effort by the Facebook-owned company to tackle how <a href="https://www.thejournal.ie/the-explainer-podcast-misinformation-whatsapp-5051465-Mar2020/" target="_blank" rel="noopener">misinformation spreads via its messaging app</a>.</p>
+<p>It comes with the simple addition of a search icon next to forwarded messages. When a WhatsApp user taps the magnifying glass beside the message, they will be asked if they want to upload the message to Google and search for further information.</p>
+<p>In graphics illustrating how the new feature works, WhatsApp shows how it intends to help dispel misinformation with reliable facts and authoritative guidance. For example, if a forwarded message contains a URL and headline for an article claiming that Covid-19 can be cured with a bowl of garlic water, a search of this message should ideally lead a user to material from the World Health Organization, news media and fact-checking organisations debunking such a claim.</p>
+<p><img class="aligncenter size-full wp-image-887805" src="https://www.siliconrepublic.com/wp-content/uploads/2020/08/116102205_1686417468193511_1599943398884948642_n.jpg" alt="A sequence of smartphone screens showing the new WhatsApp search feature in action." width="650" height="345" srcset="https://www.siliconrepublic.com/wp-content/uploads/2020/08/116102205_1686417468193511_1599943398884948642_n.jpg 650w, https://www.siliconrepublic.com/wp-content/uploads/2020/08/116102205_1686417468193511_1599943398884948642_n-300x159.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+<p>In a <a href="https://blog.whatsapp.com/search-the-web" target="_blank" rel="noopener">blog post</a>, the company assured users that the message will be uploaded to Google&rsquo;s search engine via the user&rsquo;s default mobile web browser without WhatsApp ever having access to the message itself, maintaining the app&rsquo;s end-to-end encryption.</p>
+<p>The search feature began rolling out to users in Ireland, Brazil, Italy, Mexico, Spain, the UK and the US yesterday (3 August). Users in those regions should see it starting to appear in the latest versions of the app whether on Android, iOS or WhatsApp Web.</p>
+<h2><strong>Limiting the spread</strong></h2>
+<p>In <a href="https://blog.whatsapp.com/more-changes-to-forwarding" target="_blank" rel="noopener">2019</a>, WhatsApp set a forwarding limit to restrict the rapid spread of messages that could be misleading or, at worst, harmful. In April this year, as coronavirus misinformation became an <a href="https://www.siliconrepublic.com/innovation/science-communication-covid-19-coronavirus" target="_blank" rel="noopener">evident danger to public health</a>, this was <a href="https://www.siliconrepublic.com/enterprise/whatsapp-forwarding-limits-coronavirus-misinformation" target="_blank" rel="noopener">further restricted</a> so that messages could be forwarded to just one group at a time.</p>
+<p>WhatsApp has also made tweaks to its interface to alert users to possibly misleading content. Forwarded messages in the app are now labelled clearly as such. A special label with two arrows indicates that a message has been forwarded many times, so users can tell it was not written by a close contact.</p>
+<p>In March, WhatsApp launched a <a href="https://www.whatsapp.com/coronavirus/" target="_blank" rel="noopener">coronavirus information hub</a> offering guidance on using the service and reducing the spread of rumours and misinformation. This hub includes tips on how to stay connected and choose reliable sources of information.</p>
+                                </div>
+                            </div>
+                            <!--googleoff: all-->
+                            
+<div class="clear"></div>
+<div class="social-horizontal-container">
+                <a class="analytics twitter at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;twitter&quot;}"
+                href="http://twitter.com/share?url=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation&amp;text=WhatsApp+prompts+users+to+search+for+the+facts+behind+forwarded+messages&amp;via=siliconrepublic"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Twitter"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-twitter" aria-hidden="true"></i> Tweet</div></a>
+                    <a class="analytics linkedin at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;linkedin&quot;}"
+                href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="LinkedIn"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-linkedin" aria-hidden="true"></i></div></a>
+                    <a class="analytics facebook at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;facebook&quot;}"
+                href="https://www.facebook.com/dialog/share?app_id=287597001601476&display=popup&href=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation&redirect_uri=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Facebook"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-facebook-square" aria-hidden="true"></i> Share</div></a>
+                    <a class="analytics email at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;email&quot;}"
+                href="mailto:?subject=WhatsApp prompts users to search for the facts behind forwarded messages&body=https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Email"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-envelope" aria-hidden="true"></i> Email</div></a>
+                    <a class="analytics whatsapp mobile-only at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;whatsapp&quot;}"
+                href="whatsapp://send?text=WhatsApp%20prompts%20users%20to%20search%20for%20the%20facts%20behind%20forwarded%20messages%20-%20https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Whatsapp"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-whatsapp" aria-hidden="true"></i> Share</div></a>
+                    <a class="analytics telegram mobile-only at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;telegram&quot;}"
+                href="https://t.me/share/url?url=https%3A%2F%2Fwww.siliconrepublic.com%2Fbusiness%2Fwhatsapp-search-the-web-misinformation&amp;text=WhatsApp+prompts+users+to+search+for+the+facts+behind+forwarded+messages"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Telegram"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-telegram" aria-hidden="true"></i>Telegram</div></a>
+            <a class="more-link" href=""><div class="share-holder more">More</div></a>
+
+    <div class="social-horizontal-more-container hidden">
+                    <a class="analytics pinterest at-event"
+                data-at_type="share.click"
+                data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;pinterest&quot;}"
+                href="javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());"
+                target="_blank"
+                data-category="Sharing Button Article [Careers Bottom]"
+                data-label="Pinterest"
+                data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-pinterest" aria-hidden="true"></i> Pin This</div></a>
+                            <a class="analytics reddit at-event"
+                    data-at_type="share.click"
+                    data-at_additional="{&quot;click_type&quot;:&quot;share&quot;,&quot;click_name&quot;:&quot;reddit&quot;}"
+                    href="http://reddit.com/submit?url=https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation&amp;title=WhatsApp prompts users to search for the facts behind forwarded messages"
+                    target="_blank"
+                    data-category="Sharing Button Article [Careers Bottom]"
+                    data-label="Reddit"
+                    data-value="/business/whatsapp-search-the-web-misinformation"><div class="share-holder"><i class="fa fa-reddit" aria-hidden="true"></i> Reddit</div></a>
+                </div>
+    <div class="clear"></div>
+</div>
+
+                            <div id="tagsarea">
+            <p class="posttags">Related:
+                    <a href="https://www.siliconrepublic.com/topics/media"
+                class="at-event"
+                data-at_type="article.keyword.click"
+                data-at_additional="{&quot;click_name&quot;:&quot;keyword&quot;,&quot;click_type&quot;:&quot;navigation&quot;,&quot;keyword_clicked&quot;:&quot;media&quot;}">media</a>,             <a href="https://www.siliconrepublic.com/topics/whatsapp"
+                class="at-event"
+                data-at_type="article.keyword.click"
+                data-at_additional="{&quot;click_name&quot;:&quot;keyword&quot;,&quot;click_type&quot;:&quot;navigation&quot;,&quot;keyword_clicked&quot;:&quot;WhatsApp&quot;}">WhatsApp</a>,             <a href="https://www.siliconrepublic.com/topics/search"
+                class="at-event"
+                data-at_type="article.keyword.click"
+                data-at_additional="{&quot;click_name&quot;:&quot;keyword&quot;,&quot;click_type&quot;:&quot;navigation&quot;,&quot;keyword_clicked&quot;:&quot;search&quot;}">search</a>,             <a href="https://www.siliconrepublic.com/topics/messaging"
+                class="at-event"
+                data-at_type="article.keyword.click"
+                data-at_additional="{&quot;click_name&quot;:&quot;keyword&quot;,&quot;click_type&quot;:&quot;navigation&quot;,&quot;keyword_clicked&quot;:&quot;messaging&quot;}">messaging</a>        </p>
+        </div>
+
+                                                                                                <!--googleon: all-->
+
+                                    <div class="theauthor">
+                                        <div class="large-3 medium-3 columns collapse">
+
+                                            <a href="https://www.siliconrepublic.com/author/eburke">
+                                                <img alt="" src="https://img.resized.co/siliconrepublic/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zaWxpY29ucmVwdWJsaWMuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE1XFxcLzAyXFxcL2VsYWluZS1oZWFkc2hvdC0xLmpwZ1wiLFwid2lkdGhcIjoxMDAsXCJoZWlnaHRcIjoxMDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zaWxpY29ucmVwdWJsaWMuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE0XFxcLzEyXFxcLzIwMTMwMlxcXC9wdXp6bGUuanBnXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImE2Nzg4OTdjMTM2OWMyN2ZmODRhYmM4NTYzZWZmYmM2NjUxMTA1NGYifQ==/elaine-headshot-1.jpg" srcset="https://img.resized.co/siliconrepublic/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zaWxpY29ucmVwdWJsaWMuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE1XFxcLzAyXFxcL2VsYWluZS1oZWFkc2hvdC0xLmpwZ1wiLFwid2lkdGhcIjoxMDAsXCJoZWlnaHRcIjoxMDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zaWxpY29ucmVwdWJsaWMuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE0XFxcLzEyXFxcLzIwMTMwMlxcXC9wdXp6bGUuanBnXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImE2Nzg4OTdjMTM2OWMyN2ZmODRhYmM4NTYzZWZmYmM2NjUxMTA1NGYifQ==/elaine-headshot-1.jpg 2x" class="avatar avatar-100 photo" height="100" width="100">                                            </a>
+                                        </div>
+                                        <div class="large-9 medium-9 columns collapse">
+                                            <p class="author-desciption">
+                                                Elaine Burke is the editor of Silicon Republic                                            </p>
+                                            <p class="authorEmail"><a href="mailto:editorial@siliconrepublic.com">editorial@siliconrepublic.com</a></p>
+
+                                            <ul class="social-list author-social">
+
+                                                                                                    <li><a target="_blank" href="https://twitter.com/CriticalRedPen" class="twitter"></a></li>
+                                                                                                        <li><a target="_blank" href="https://www.linkedin.com/in/elaineburkeirl/" class="linkedin"></a></li>
+                                                                                                </ul>
+                                        </div>
+                                    </div>
+                                    <!-- This one -->
+                                    <!--googleoff: all-->
+                                                                                    </div>
+                   </div>
+                </div>
+
+                <!--googleoff: all-->
+                
+<div id="allposts" class="nocontent">
+
+    <h3 class="youmayalso firstyoumayalso">You May Also Like</h3>
+
+    <div class="ymalwrap">
+
+                    <div class="show-for-small-only clearboxes2 large-6 medium-12 columns" data-equalizer-watch="">
+                <div class="ajaxad load-ad">
+                </div>
+            </div>
+
+            <h3 class="youmayalso show-for-small-only">You May Also Like</h3>
+                        <div class="clearboxes2 business large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/business/whatsapp-business-directory-new-feature">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="WhatsApp tests directory feature to connect customers with businesses" src="https://www.siliconrepublic.com/wp-content/uploads/2021/09/whatsapp-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/business">Business</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/business/whatsapp-business-directory-new-feature"><h3>WhatsApp tests directory feature to connect customers with businesses</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time "><!--googleoff: all-->16 Sep 2021<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                        <div class="clearboxes2 business large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/business/telegram-signal-encrypted-messaging-facebook-outage">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="Telegram adds 70m new users during Facebook outage" src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_308855998_Editorial_Use_Only-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/business">Business</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/business/telegram-signal-encrypted-messaging-facebook-outage"><h3>Telegram adds 70m new users during Facebook outage</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time  aged" data-pub="1633506550"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                                <div class="show-for-small-only clearboxes2 large-6 medium-12 columns" data-equalizer-watch="">
+                        <div class="ajaxad load-ad">
+                        </div>
+                    </div>
+                                <div class="clearboxes2 enterprise large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/enterprise/messenger-voice-video-encryption">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="Facebook Messenger gets fully encrypted voice and video calls" src="https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_288074942_Editorial_Use_Only-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/enterprise">Enterprise</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/enterprise/messenger-voice-video-encryption"><h3>Facebook Messenger gets fully encrypted voice and video calls</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time "><!--googleoff: all-->16 Aug 2021<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                        <div class="clearboxes2 business large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/business/whatsapp-view-once">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="WhatsApp introduces disappearing photo and video messages" src="https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_403016368_Editorial_Use_Only-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/business">Business</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/business/whatsapp-view-once"><h3>WhatsApp introduces disappearing photo and video messages</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time "><!--googleoff: all-->4 Aug 2021<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                                <div class="show-for-small-only clearboxes2 large-6 medium-12 columns" data-equalizer-watch="">
+                        <div class="ajaxad load-ad">
+                        </div>
+                    </div>
+            <div class="clearboxes2 enterprise large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/enterprise/eu-watchdog-complaint-whatsapp-terms-of-service">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="EU consumer watchdog lodges complaint against WhatsApp" src="https://www.siliconrepublic.com/wp-content/uploads/2021/07/AdobeStock_361538351_Editorial_Use_Only-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/enterprise">Enterprise</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/enterprise/eu-watchdog-complaint-whatsapp-terms-of-service"><h3>EU consumer watchdog lodges complaint against WhatsApp</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time "><!--googleoff: all-->12 Jul 2021<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                        <div class="clearboxes2 enterprise large-6 medium-6 small-12 columns end last">
+                <div class="postboxes">
+                    <a href="https://www.siliconrepublic.com/enterprise/facebook-outage-october-2021">
+                                                <div class="imagecontainer">
+                            <div class="overlaycontainer"></div>
+                            <img alt="What brought down Facebook, WhatsApp and Instagram for six hours?" src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_422259837_Editorial_Use_Only-330x251.jpeg" width="330" height="251" loading="lazy" />
+                        </div>
+                    </a>
+                        <div class="category-title">
+                            <a href="/enterprise">Enterprise</a>
+                        </div>
+                                            <a href="https://www.siliconrepublic.com/enterprise/facebook-outage-october-2021"><h3>What brought down Facebook, WhatsApp and Instagram for six hours?</h3> </a>
+                    <p class="sharetime">
+                        <span class="icon_time "><!--googleoff: all-->2 days ago<!--googleon: all--></span>                    </p>
+
+                </div>
+            </div>
+                                <div class="show-for-small-only clearboxes2 large-6 medium-12 columns" data-equalizer-watch="">
+                        <div class="ajaxad load-ad">
+                        </div>
+                    </div>
+                        <div class="clearfix"></div>
+</div>
+            </div>
+
+            <hr/>
+            
+        </div>
+    </div>
+
+    <div class="show-for-large-up">
+        <aside class="large-4 medium-5 columns mainsidebar nocontent">
+
+
+
+
+        <div class="widget" >
+            <ul>
+                <h2 class="widget-title-visible">Latest News</h2>
+
+                
+
+
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/enterprise/machine-learning-surveymonkey-momentive" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/machine-learning-surveymonkey-momentive"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Robin_Ducot_01-70x70.jpg"
+                            alt="Why machine learning is vital for gaining unique data insights"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/enterprise/machine-learning-surveymonkey-momentive" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/machine-learning-surveymonkey-momentive">
+
+                            <div class="title">Why machine learning is vital for gaining unique data insights</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633672835"><!--googleoff: all-->56 minutes ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/start-ups/digital-gaming-hub-sligo" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/digital-gaming-hub-sligo"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_181317873-70x70.jpeg"
+                            alt="Sligo set to get new digital gaming hub worth €1.9m as sod finally turned"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/start-ups/digital-gaming-hub-sligo" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/digital-gaming-hub-sligo">
+
+                            <div class="title">Sligo set to get new digital gaming hub worth €1.9m as sod finally turned</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633669209"><!--googleoff: all-->1 hour ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Financial-institutions-70x70.jpeg"
+                            alt="What tech challenges are facing the financial services sector?"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems">
+
+                            <div class="title">What tech challenges are facing the financial services sector?</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633620642"><!--googleoff: all-->15 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/innovation/nui-galway-scientists-oceanic-squid-research-dna-analysis" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/nui-galway-scientists-oceanic-squid-research-dna-analysis"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/squid-70x70.jpeg"
+                            alt="NUI Galway scientists use DNA analysis to crack squid mystery"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/innovation/nui-galway-scientists-oceanic-squid-research-dna-analysis" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/nui-galway-scientists-oceanic-squid-research-dna-analysis">
+
+                            <div class="title">NUI Galway scientists use DNA analysis to crack squid mystery</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633619726"><!--googleoff: all-->15 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                                        <li>
+                            <div style="width:300px;  margin:auto auto 13px" class="sideads load-ad">
+                            </div>
+                            <div style="clear:both"></div>
+                        </li>
+                        
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/future-human/mark-ferguson-science-foundation-ireland-interview-ann-odea" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/future-human/mark-ferguson-science-foundation-ireland-interview-ann-odea"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/6Z9A9127-70x70.jpg"
+                            alt="Conversations with Leaders: Prof Mark Ferguson, Ireland&#8217;s science lead"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/future-human/mark-ferguson-science-foundation-ireland-interview-ann-odea" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/future-human/mark-ferguson-science-foundation-ireland-interview-ann-odea">
+
+                            <div class="title">Conversations with Leaders: Prof Mark Ferguson, Ireland&#8217;s science lead</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633618956"><!--googleoff: all-->15 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/careers/dublin-remote-working-global-locations" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/careers/dublin-remote-working-global-locations"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_387152784-70x70.jpeg"
+                            alt="Dublin named a top spot for remote work – unless you focus on internet"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/careers/dublin-remote-working-global-locations" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/careers/dublin-remote-working-global-locations">
+
+                            <div class="title">Dublin named a top spot for remote work – unless you focus on internet</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633611402"><!--googleoff: all-->18 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/start-ups/german-digital-insurer-getsafe-funding" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/german-digital-insurer-getsafe-funding"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Screenshot-2021-10-07-at-13.06.22-70x70.png"
+                            alt="German digital insurer Getsafe extends Series B funding to $93m"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/start-ups/german-digital-insurer-getsafe-funding" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/german-digital-insurer-getsafe-funding">
+
+                            <div class="title">German digital insurer Getsafe extends Series B funding to $93m</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633609034"><!--googleoff: all-->18 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/business/google-new-sustainability-features-climate-crisis" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/business/google-new-sustainability-features-climate-crisis"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/google-70x70.jpeg"
+                            alt="Google to make Search, Maps and other services more climate-friendly"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/business/google-new-sustainability-features-climate-crisis" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/business/google-new-sustainability-features-climate-crisis">
+
+                            <div class="title">Google to make Search, Maps and other services more climate-friendly</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633606403"><!--googleoff: all-->19 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/jobs-news/manufacturing-trinseo-dublin-office-130-jobs" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/manufacturing-trinseo-dublin-office-130-jobs"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_44328336-70x70.jpeg"
+                            alt="Global manufacturing firm to create 130 new jobs at Dublin business centre"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/jobs-news/manufacturing-trinseo-dublin-office-130-jobs" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/manufacturing-trinseo-dublin-office-130-jobs">
+
+                            <div class="title">Global manufacturing firm to create 130 new jobs at Dublin business centre</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633603859"><!--googleoff: all-->20 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/people/deloitte-graduate-programme-skills" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/people/deloitte-graduate-programme-skills"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Deloitte-grad-70x70.jpg"
+                            alt="‘I’ve honed my technical skills but also my management skills’"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/people/deloitte-graduate-programme-skills" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/people/deloitte-graduate-programme-skills">
+
+                            <div class="title">‘I’ve honed my technical skills but also my management skills’</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633603834"><!--googleoff: all-->20 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                                        <li>
+                            <div style="width:300px;  margin:auto auto 13px" class="sideads load-ad">
+                            </div>
+                            <div style="clear:both"></div>
+                        </li>
+                        
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/enterprise/hse-cyberattack-hackers-servers-websites-seized-by-gardai" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/hse-cyberattack-hackers-servers-websites-seized-by-gardai"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/hse-70x70.jpeg"
+                            alt="HSE cyberattack: Hackers’ servers, websites seized by Gardaí"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/enterprise/hse-cyberattack-hackers-servers-websites-seized-by-gardai" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/hse-cyberattack-hackers-servers-websites-seized-by-gardai">
+
+                            <div class="title">HSE cyberattack: Hackers’ servers, websites seized by Gardaí</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633601104"><!--googleoff: all-->20 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/jobs-news/cwsi-mobile-cloud-security-jobs-ireland-uk" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/cwsi-mobile-cloud-security-jobs-ireland-uk"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/1_Ronan_Murphy_CEO_CWSI-70x70.jpeg"
+                            alt="Irish mobile and cloud security firm to create 25 new jobs in Ireland and UK"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/jobs-news/cwsi-mobile-cloud-security-jobs-ireland-uk" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/cwsi-mobile-cloud-security-jobs-ireland-uk">
+
+                            <div class="title">Irish mobile and cloud security firm to create 25 new jobs in Ireland and UK</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633598452"><!--googleoff: all-->21 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/enterprise/twitch-hack-breach-leak-creator-payouts" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/twitch-hack-breach-leak-creator-payouts"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_412717631_Editorial_Use_Only-70x70.jpeg"
+                            alt="What’s going on with the Twitch hack?"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/enterprise/twitch-hack-breach-leak-creator-payouts" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/enterprise/twitch-hack-breach-leak-creator-payouts">
+
+                            <div class="title">What’s going on with the Twitch hack?</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633594294"><!--googleoff: all-->22 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/jobs-news/sendoso-jobs-dublin-software-engineering" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/sendoso-jobs-dublin-software-engineering"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/L-R-David-Ryan-European-HQ-Lead-Sendoso-Viki-Baird-Managing-Director-StillGarden-Distillery-Qaseem-Shaikh-Chief-Technology-Officer-Sendoso-70x70.jpg"
+                            alt="Sendoso gives the gift of software engineering jobs at new Dublin HQ"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/jobs-news/sendoso-jobs-dublin-software-engineering" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/sendoso-jobs-dublin-software-engineering">
+
+                            <div class="title">Sendoso gives the gift of software engineering jobs at new Dublin HQ</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633592358"><!--googleoff: all-->23 hours ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/innovation/hubble-space-esa-antonella-nota" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/hubble-space-esa-antonella-nota"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Antonella_framed-70x70.jpeg"
+                            alt="Meet one of the women working with the Hubble Space Telescope"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/innovation/hubble-space-esa-antonella-nota" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/hubble-space-esa-antonella-nota">
+
+                            <div class="title">Meet one of the women working with the Hubble Space Telescope</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633586402"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/jobs-news/wolfgang-digital-marketing-agency-jobs" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/wolfgang-digital-marketing-agency-jobs"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Wolfgang_Digital_Al_Green_Sofa_frame-70x70.jpeg"
+                            alt="Irish marketing firm Wolfgang Digital to double staff numbers in three years"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/jobs-news/wolfgang-digital-marketing-agency-jobs" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/jobs-news/wolfgang-digital-marketing-agency-jobs">
+
+                            <div class="title">Irish marketing firm Wolfgang Digital to double staff numbers in three years</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633582822"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/machines/meps-ban-mass-surveillance-technologies" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/machines/meps-ban-mass-surveillance-technologies"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/AdobeStock_367199929-70x70.jpeg"
+                            alt="MEPs call for ban on mass surveillance technologies"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/machines/meps-ban-mass-surveillance-technologies" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/machines/meps-ban-mass-surveillance-technologies">
+
+                            <div class="title">MEPs call for ban on mass surveillance technologies</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633537717"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/comms/subsea-cables-internet-sustainability" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/comms/subsea-cables-internet-sustainability"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/subsea-cable-70x70.jpeg"
+                            alt="Can subsea cables help create a more sustainable internet?"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/comms/subsea-cables-internet-sustainability" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/comms/subsea-cables-internet-sustainability">
+
+                            <div class="title">Can subsea cables help create a more sustainable internet?</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633528823"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                                        <li>
+                            <div style="width:300px;  margin:auto auto 13px" class="sideads load-ad">
+                            </div>
+                            <div style="clear:both"></div>
+                        </li>
+                        
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/careers/17-companies-four-day-week-ireland-pilot" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/careers/17-companies-four-day-week-ireland-pilot"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Screenshot-2021-10-06-at-13.07.08-70x70.png"
+                            alt="17 companies sign up to Ireland&#8217;s upcoming four-day week pilot scheme"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/careers/17-companies-four-day-week-ireland-pilot" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/careers/17-companies-four-day-week-ireland-pilot">
+
+                            <div class="title">17 companies sign up to Ireland&#8217;s upcoming four-day week pilot scheme</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633525099"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/innovation/nobel-prize-chemistry-2021-benjamin-list-david-macmillan" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/nobel-prize-chemistry-2021-benjamin-list-david-macmillan"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/nobel-70x70.jpg"
+                            alt="Nobel Prize for two scientists who ‘made chemistry greener’"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/innovation/nobel-prize-chemistry-2021-benjamin-list-david-macmillan" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/nobel-prize-chemistry-2021-benjamin-list-david-macmillan">
+
+                            <div class="title">Nobel Prize for two scientists who ‘made chemistry greener’</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633522848"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/innovation/irc-research-funding-e28m-government" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/irc-research-funding-e28m-government"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/NO-FEE-IRISH-RESEARCH-70x70.jpg"
+                            alt="€28m IRC funding to boost next generation of researchers in Ireland"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/innovation/irc-research-funding-e28m-government" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/innovation/irc-research-funding-e28m-government">
+
+                            <div class="title">€28m IRC funding to boost next generation of researchers in Ireland</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633521331"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/people/fidelity-investments-leap-programme-graduate" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/people/fidelity-investments-leap-programme-graduate"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Eileen-Rattigan_cropped-70x70.jpg"
+                            alt="How this graduate bridged the gap between student and employee"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/people/fidelity-investments-leap-programme-graduate" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/people/fidelity-investments-leap-programme-graduate">
+
+                            <div class="title">How this graduate bridged the gap between student and employee</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633519042"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/start-ups/regional-enterprise-transition-scheme-fund-ireland-remote-work" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/regional-enterprise-transition-scheme-fund-ireland-remote-work"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/remotework-70x70.jpeg"
+                            alt="€9.3m boost for 24 regional projects, with a focus on remote working"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/start-ups/regional-enterprise-transition-scheme-fund-ireland-remote-work" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/start-ups/regional-enterprise-transition-scheme-fund-ireland-remote-work">
+
+                            <div class="title">€9.3m boost for 24 regional projects, with a focus on remote working</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633517032"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                
+                                                                                <li>
+                    <div class="large-3 medium-3 small-3 columns nopadding">
+                                              <a href="https://www.siliconrepublic.com/machines/ucd-collaborate-research-zippmobility-safety" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/machines/ucd-collaborate-research-zippmobility-safety"><img
+                            src="https://www.siliconrepublic.com/wp-content/uploads/2021/10/Zipp_UCD_Energy_Institute_2-70x70.jpeg"
+                            alt="UCD to collaborate with Irish e-scooter start-up on safety research"></a>
+                    </div>
+                    <div class="large-9 medium-9 small-9 columns nopadding">
+                        <a href="https://www.siliconrepublic.com/machines/ucd-collaborate-research-zippmobility-safety" class="analytics" data-category="[Article] Content Circulation" data-label="Sidebar [article]" data-value="https://www.siliconrepublic.com/machines/ucd-collaborate-research-zippmobility-safety">
+
+                            <div class="title">UCD to collaborate with Irish e-scooter start-up on safety research</div>
+
+                            <p class="sharetime">
+                                <span class="icon_time  aged" data-pub="1633515627"><!--googleoff: all-->1 day ago<!--googleon: all--></span>                            </p>
+
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                                                        <li>
+                            <div style="width:300px;  margin:auto auto 13px" class="sideads load-ad">
+                            </div>
+                            <div style="clear:both"></div>
+                        </li>
+                        
+                    </ul>
+
+    </div>
+</aside>
+    </div>
+
+
+
+    <div class="row">
+
+        
+        <div class="morefromwrap nocontent">
+
+            <div class="large-12 columns">
+                <h3 class="youmayalso">More from Technology</h3>
+            </div>
+
+
+            <div class="large-4 medium-6 columns mainsidebar nocontent">
+                <div class="widget">
+                    <h2 class="widget-title-visible">Latest News</h2>
+                    <style type="text/css">.alm-btn-wrap .alm-load-more-btn{font-size:15px;font-weight:600;width:auto;height:42px;line-height:42px;background:#ed7070;color:#fff;border:none;border-radius:3px;margin:0 0 4px;padding:0 20px;display:inline-block;position:relative;-webkit-transition:padding .25s ease-in-out,width .25s ease-in-out;transition:padding .25s ease-in-out,width .25s ease-in-out;text-align:center;text-decoration:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer}.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06464;color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{-webkit-box-shadow:inset 0 2px 1px rgba(0,0,0,.1);box-shadow:inset 0 2px 1px rgba(0,0,0,.1);text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active,.alm-btn-wrap .alm-load-more-btn:focus{outline:0}.alm-btn-wrap .alm-load-more-btn.loading{padding-left:44px}.alm-btn-wrap .alm-load-more-btn.done{cursor:default;opacity:.2;background-color:#ed7070;outline:0!important;-webkit-box-shadow:none!important;box-shadow:none!important}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before{background:0 0;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif) no-repeat center center;width:30px;height:30px;margin:6px;border-radius:2px;display:inline-block;z-index:0;content:'';position:absolute;left:0;top:0;overflow:hidden;-webkit-transition:width .5s ease-in-out;transition:width .5s ease-in-out}.alm-btn-wrap,.alm-masonry{display:block;overflow:hidden;clear:both}.alm-btn-wrap{text-align:center;padding:10px 0 25px}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#0081bf}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#0073aa}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#6fca68}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#64b95e}.ajax-load-more-wrap.red .alm-load-more-btn{background-color:#ca4b4b}.ajax-load-more-wrap.red .alm-load-more-btn.done,.ajax-load-more-wrap.red .alm-load-more-btn:hover{background-color:#b13b3b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#a86bb9}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#9963a8}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#888}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#777}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;color:#666;border:1px solid #efefef}.ajax-load-more-wrap.white .alm-load-more-btn.done,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#efefef;color:#333}.ajax-load-more-wrap.white .alm-load-more-btn.done{border-color:#fff}.ajax-load-more-wrap.infinite .alm-load-more-btn{width:100%;background-color:transparent!important;background-position:center center;background-repeat:no-repeat;background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/spinner.gif);border:none!important;opacity:0;-webkit-transition:opacity .25s ease;transition:opacity .25s ease;-webkit-box-shadow:none!important;box-shadow:none!important;overflow:hidden;text-indent:-9999px;cursor:default!important;outline:0!important}.ajax-load-more-wrap.infinite .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite .alm-load-more-btn:active{-webkit-box-shadow:none;box-shadow:none}.ajax-load-more-wrap.infinite .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype .alm-load-more-btn{background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/spinner-skype.gif)}.ajax-load-more-wrap.infinite.ring .alm-load-more-btn{background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/spinner-ring.gif)}.ajax-load-more-wrap.infinite.fading-blocks .alm-load-more-btn{background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-blocks.gif)}.ajax-load-more-wrap.infinite.fading-circles .alm-load-more-btn{background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-circles.gif)}.ajax-load-more-wrap.infinite.chasing-arrows .alm-load-more-btn{background-image:url(https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/img/spinner-chasing-arrows.gif)}.alm-listing{margin:0;padding:0}.alm-listing li{background:0 0;margin:0 0 30px;padding:0 0 0 170px;overflow:hidden;position:relative;list-style:none}.alm-listing li.no-img{padding:0}.alm-listing li p{margin:0}.alm-listing li h3{margin:0 0 10px}.alm-listing li img{position:absolute;left:0;top:0;border-radius:2px}</style><div id="ajax-load-more" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation" data-slug="whatsapp-search-the-web-misinformation" data-post-id="887801" ><ul class="alm-listing alm-ajax" data-repeater="template_1" data-post-type="post" data-sticky-posts="" data-post-format="" data-category="technology,business,enterprise,comms,start-ups" data-category-not-in="" data-tag="" data-tag-not-in="" data-taxonomy="" data-taxonomy-terms="" data-taxonomy-operator="" data-taxonomy-relation="" data-meta-key="" data-meta-value="" data-meta-compare="" data-meta-relation="" data-meta-type="" data-year="" data-month="" data-day="" data-author="" data-post-in="" data-post-not-in="" data-exclude="" data-search="" data-custom-args="" data-post-status="" data-order="DESC" data-orderby="date" data-offset="27" data-posts-per-page="20" data-lang="" data-scroll="true" data-scroll-distance="500" data-scroll-container="" data-max-pages="10" data-pause-override="false" data-pause="false" data-button-label="More" data-destroy-after="" data-transition="slide" data-images-loaded="false"></ul><div class="alm-btn-wrap"><button class="alm-load-more-btn more ">More</button></div></div>                </div>
+            </div>
+
+            <div class="large-8 medium-6 columns nopaddingmobile">
+
+
+                <div id="allposts">
+                    <div id="ajax-load-more-2" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="https://www.siliconrepublic.com/business/whatsapp-search-the-web-misinformation" data-slug="whatsapp-search-the-web-misinformation" data-post-id="887801" ><ul class="alm-listing alm-ajax" data-repeater="default" data-post-type="post" data-sticky-posts="" data-post-format="" data-category="technology,business,enterprise,comms,start-ups" data-category-not-in="" data-tag="" data-tag-not-in="" data-taxonomy="" data-taxonomy-terms="" data-taxonomy-operator="" data-taxonomy-relation="" data-meta-key="" data-meta-value="" data-meta-compare="" data-meta-relation="" data-meta-type="" data-year="" data-month="" data-day="" data-author="" data-post-in="" data-post-not-in="" data-exclude="" data-search="" data-custom-args="" data-post-status="" data-order="DESC" data-orderby="date" data-offset="13" data-posts-per-page="20" data-lang="" data-scroll="true" data-scroll-distance="500" data-scroll-container="" data-max-pages="5" data-pause-override="false" data-pause="false" data-button-label="More" data-destroy-after="" data-transition="slide" data-images-loaded="false"></ul><div class="alm-btn-wrap"><button class="alm-load-more-btn more ">More</button></div></div>                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    </div>
+
+
+    </article>
+
+    </div>
+
+    <!--googleon: all-->
+</div>
+</div>
+
+
+<footer>
+    <div class="row test">
+        
+        <div class="large-3 medium-3 columns hide-for-small nocontent">
+            <a href="/"><img src="https://www.siliconrepublic.com/wp-content/themes/silicon/img/footerlogo.png" alt="Silicon Republic"/></a>
+        </div>
+
+                    <div class="small-12 columns show-for-small nocontent">
+                                <ul id="menu-social-nav" class="social-list">
+                                        <li id="menu-item-149287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149287">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;facebook&quot;}"
+                            href="https://www.facebook.com/siliconrepublic"><i class="fa fa-facebook"></i></a>
+                    </li>
+                                        <li id="menu-item-149347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149347">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;twitter&quot;}"
+                            href="https://twitter.com/siliconrepublic"><i class="fa fa-twitter"></i></a>
+                    </li>
+                                        <li id="menu-item-149479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149479">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;linkedin&quot;}"
+                            href="https://www.linkedin.com/groups?mostPopular=&#038;gid=2910996"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                                        <li id="menu-item-150598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150598">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;youtube&quot;}"
+                            href="https://www.youtube.com/user/siliconrepublic"><i class="fa fa-youtube-play"></i></a>
+                    </li>
+                                        <li id="menu-item-150637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150637">
+                        <a href="/feeds"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;rss&quot;}"><i class="fa fa-rss"></i></a>
+                    </li>
+                </ul>
+                <br />
+            </div>
+            
+        <hr class="show-for-small nocontent">
+        <div class="large-2  medium-2 small-6 columns">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="large-4 medium-3 small-6 columns nocontent">
+            <ul>
+                <li><a href="/advertise">Advertise</a></li>
+                <li><a href="/subscribe">Subscribe</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+                <li><a href="javascript:Optanon.ToggleInfoDisplay();">Privacy Settings</a></li>
+            </ul>
+        </div>
+
+        <div class="large-3 medium-4 columns hide-for-small nocontent">
+                            <ul id="menu-social-nav" class="social-list">
+                                        <li id="menu-item-149287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149287">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;facebook&quot;}"
+                            href="https://www.facebook.com/siliconrepublic"><i class="fa fa-facebook"></i></a>
+                    </li>
+                                        <li id="menu-item-149347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149347">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;twitter&quot;}"
+                            href="https://twitter.com/siliconrepublic"><i class="fa fa-twitter"></i></a>
+                    </li>
+                                        <li id="menu-item-149479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149479">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;linkedin&quot;}"
+                            href="https://www.linkedin.com/groups?mostPopular=&#038;gid=2910996"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                                        <li id="menu-item-150598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150598">
+                        <a target="_blank" rel="noopener noreferrer"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;youtube&quot;}"
+                            href="https://www.youtube.com/user/siliconrepublic"><i class="fa fa-youtube-play"></i></a>
+                    </li>
+                                        <li id="menu-item-150637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150637">
+                        <a href="/feeds"
+                            class="at-event"
+                            data-at_type="socialmedia.click"
+                            data-at_additional="{&quot;click_type&quot;:&quot;social_media&quot;,&quot;click_position&quot;:&quot;footer&quot;,&quot;click_name&quot;:&quot;rss&quot;}"><i class="fa fa-rss"></i></a>
+                    </li>
+                </ul>
+                        </div>
+    </div>
+
+    <div class="row nocontent">
+        <hr/>
+        <div class="large-12 columns">
+            <p>All content copyright 2002-2021 Silicon Republic Knowledge &amp; Events Management Ltd. Reproduction without explicit permission is prohibited. All rights reserved.<br/>
+            Designed by <a href="http://www.zero-g.ie/" target="_blank">Zero-G</a> and <a href="https://www.square1.io" target="_blank">Square1.io</a>  </p>
+        </div>
+    </div>
+
+</footer>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/functions.min.js?v=20211001"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/foundation.min.js"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/foundation/foundation.tab.min.js"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/classie.js"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/nav.min.js"></script>
+<script src="https://www.siliconrepublic.com/wp-content/themes/silicon/js/video.min.js"></script>
+
+
+<script>
+    $(document).foundation();
+</script>
+<script type='text/javascript' src='https://www.siliconrepublic.com/wp-includes/js/wp-embed.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://www.siliconrepublic.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.siliconrepublic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/www.siliconrepublic.com\/wp-admin\/admin-ajax.php","alm_nonce":"46219472bb","pluginurl":"https:\/\/www.siliconrepublic.com\/wp-content\/plugins\/ajax-load-more","scrolltop":"false","ajax_object":{"is_single":true,"is_singular":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.siliconrepublic.com/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=3.3.1'></script>
+</body>
+</html>

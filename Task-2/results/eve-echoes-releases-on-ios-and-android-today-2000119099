@@ -1,0 +1,3344 @@
+
+<!DOCTYPE html><!DOCTYPE js>
+<html class="theme-dark" lang="en">
+<head>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="76492c66-6ed5-4de3-9e78-3a9ba3d399dc" data-blockingmode="auto" data-framework="IAB" type="text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-838064-1"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-838064-1');
+    </script>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="news_keywords" content="mmorpg, mmo" />
+<meta property="og:type" content="article" />
+<meta name="description" content="NetEase Games and CCP Games have launched EVE Echoes, a moble version of the Icelandic developer's popular sandbox space-MMO, EVE Online." />
+<meta property="og:description" content="NetEase Games and CCP Games have launched EVE Echoes, a moble version of the Icelandic developer's popular sandbox space-MMO, EVE Online." />
+<meta name="twitter:description" content="NetEase Games and CCP Games have launched EVE Echoes, a moble version of the Icelandic developer's popular sandbox space-MMO, EVE Online." />
+<meta name="keywords" content="Videos,Sci-Fi,MMORPG" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="MMORPG.com" />
+<meta name="twitter:site" content="@MMORPGcom" />
+<meta name="twitter:title" content="EVE Echoes Releases On iOS and Android Today | MMORPG.com" />
+<meta property="og:title" content="EVE Echoes Releases On iOS and Android Today | MMORPG.com" />
+<meta property='og:image' content='https://img.youtube.com/vi/X9VcYInR65Y/hqdefault.jpg' />
+<meta property="article:published_time" content="2020-08-13T17:58:00-04:00" /> <meta property="article:modified_time" content="2020-08-13T18:12:46-04:00" />
+<meta property="og:updated_time" content="2020-08-13T18:12:46-04:00" />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:image' content='https://img.youtube.com/vi/X9VcYInR65Y/hqdefault.jpg' />
+<meta name="robots" content="max-image-preview:large">
+<meta name="yandex-verification" content="f48d48602b02c169" />
+<meta name="facebook-domain-verification" content="pd4m4clymcdyrht38b86c14o3ea290" />
+<link rel="shortcut icon" href="https://images.mmorpg.com/images/themes/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="//images.mmorpg.com/v2/css/vendors.css?cb=01142021_6" />
+<link rel="stylesheet" href="//images.mmorpg.com/v2/css/app_06292020.css?cb=01142021_6" />
+<link rel="stylesheet" href="//images.mmorpg.com/v2/css/addons.min.css?cb=01142021_6" />
+<link rel='alternate' type='application/rss+xml' title='MMORPG.com Latest Content RSS' href='https://www.mmorpg.com/rss' />
+<title>EVE Echoes Releases On iOS and Android Today | MMORPG.com</title>
+<script>
+      //mobile viewport hack
+      (function(){
+      
+      function apply_viewport(){
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+      
+        var ww = window.screen.width;
+        var mw = 414; // min width of site
+        var ratio =  ww / mw; //calculate ratio
+        var viewport_meta_tag = document.getElementById('viewport');
+        if( ww < mw){ //smaller than minimum size
+            viewport_meta_tag.setAttribute('content', 'initial-scale=' + ratio + ', maximum-scale=' + ratio * 1.4 + ', minimum-scale=' + ratio + ', user-scalable=yes, width=' + mw);
+        }
+        else { //regular size
+            viewport_meta_tag.setAttribute('content', 'initial-scale=1.0, maximum-scale=1, minimum-scale=1.0, user-scalable=yes, width=' + ww);
+        }
+        }
+      }
+      
+      //ok, i need to update viewport scale if screen dimentions changed
+      window.addEventListener('resize', function(){
+        apply_viewport();
+      });
+      
+        apply_viewport();
+      }());
+      
+      ///set theme
+      var theme = localStorage.getItem('theme')
+      if (theme) {
+        theme = JSON.parse(theme);
+        if (theme === 'dark') {
+            document.documentElement.classList.remove('theme-light');
+            document.documentElement.classList.add('theme-dark');
+            document.addEventListener("DOMContentLoaded", function() {
+                [].forEach.call(document.querySelectorAll('.theme-toggle button[type="button"]'), function(el) {
+                    el.classList.remove('toogle-right')
+                })
+            });
+        } else if (theme === 'light') {
+            document.documentElement.classList.add('theme-light');
+            document.documentElement.classList.remove('theme-dark');
+            document.addEventListener("DOMContentLoaded", function() {
+                [].forEach.call(document.querySelectorAll('.theme-toggle button[type="button"]'), function(el) {
+                    el.classList.add('toogle-right')
+                })
+            });
+        }
+      }
+
+      // detect mobile
+      function isMobileDevice() {
+          return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+      }
+
+      // cleanup
+      function viewImage() {
+        return false;
+      }
+      function ccbox(){
+        this.start = function(){ return false; }
+      }
+      zoombox = new ccbox();
+      function trackClick(skinId,location,subSkinId){
+          $.ajax({
+              url: "/ajax/tools.cfc?method=trackSkinClick",
+              data: {
+                  skinId: parseInt(skinId),
+                  location: location,
+                  subSkinId: parseInt(subSkinId)
+              },
+              dataType: 'json',
+              success: function (response) {
+                  // Do nothing
+              },
+              error: function (jqXHR, textStatus, errorThrown) {
+                  // Do nothing
+              }
+          });
+      }
+    </script>
+<style>
+      @media (min-width: 992px) {
+        #uniqueCPMStarMobileSiteskinDiv {
+            display: none!important;
+        }
+      }
+    </style>
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e18c744668efd00128a788e&product=inline-share-buttons&cms=sop' async='async'></script>
+<script>
+        document.domain = 'mmorpg.com';
+    </script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+            window.OneSignal = window.OneSignal || [];
+            OneSignal.push(function() {
+                OneSignal.init({
+                    appId: "7ab03ab7-e3dd-442b-9051-5efb849f9d8e",
+                });
+            });
+        </script>
+<style>
+        .game-info__top-title-wrap h2 {
+            font-size: 24px;
+            font-size: 2.4rem;
+            line-height: 1.16667em;
+            font-weight: 700;
+            letter-spacing: 0;
+            margin: 0;
+        }
+
+        .theme-dark .game-info__top-title-wrap h2 {
+            color: #fff;
+        }
+
+        .theme-light .game-info__top-title-wrap h2 {
+            color: #000;
+        }
+    </style>
+<link rel='canonical' href='https://www.mmorpg.com/videos/eve-echoes-releases-on-ios-and-android-today-2000119099' /><meta property='og:url' content='https://www.mmorpg.com/videos/eve-echoes-releases-on-ios-and-android-today-2000119099' /><link rel='amphtml' href='https://www.mmorpg.com/videos/eve-echoes-releases-on-ios-and-android-today-2000119099?amp=true'>
+<script type="application/ld+json">
+				{
+					"@context" : "http://schema.org",
+					"@graph" :
+					[
+						
+			{
+				"@type" : "Organization",
+				"legalName" : "MMORPG.com",
+				"url" : "https://www.mmorpg.com/",
+				"foundingDate" : "2001",
+				"logo" : "https://images.mmorpg.com/images/mmorpg_logo.png",
+				"sameAs" : [ "https://www.facebook.com/MMORPGcom",
+					"https://www.twitter.com/MMORPGcom",
+					"https://www.youtube.com/MMORPGcom",
+					"http://www.twitch.tv/MMORPGcom",
+					"http://discord.gg/MMORPGcom"
+				]
+			} ,
+		{
+			"@type" : "WebSite",
+			"name" : "MMORPG.com",
+			"description" : "MMORPG gamelist, news, reviews, previews and community site.",
+			"url" : "https://www.mmorpg.com/",
+			"potentialAction" : {
+				"@type" : "SearchAction",
+				"target" : "https://www.mmorpg.com/search?q={search_term}",
+				"query-input" : "required name=search_term"
+			}
+		} ,{"articleSection":"Videos","publisher":{"@type":"Organization","logo":{"@type":"imageObject","url":"https:\/\/images.mmorpg.com\/images\/mmorpg_logo.png"},"name":"MMORPG.com"},"image":["https:\/\/images.mmorpg.com\/images\/heroes\/posts\/119099.jpg"],"dateModified":"2020-08-13T18:12:46-04:00","description":"NetEase Games and CCP Games have launched EVE Echoes, a moble version of the Icelandic developer's popular sandbox space-MMO, EVE Online.","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.mmorpg.com\/videos\/eve-echoes-releases-on-ios-and-android-today-2000119099"},"headline":"EVE Echoes Releases On iOS and Android Today","author":{"@type":"Person","name":"Joseph Bradford"},"datePublished":"2020-08-13T17:58:00-04:00","name":"EVE Echoes Releases On iOS and Android Today"},{"itemListElement":[{"position":1.0,"item":"https:\/\/www.mmorpg.com\/eve-echoes","@type":"ListItem","name":"EVE Echoes"},{"position":2.0,"item":"https:\/\/www.mmorpg.com\/eve-echoes\/videos","@type":"ListItem","name":"Videos"}],"@type":"BreadcrumbList"}
+					]
+				}
+			</script>
+<script>
+			(function(zonefile) { 
+			var y="cpmstarx";
+			var drutObj = window[y] = window[y] || {};
+			function failCpmstarAPI() { var failFn = function(o) { o && typeof(o) === "object" && o.fail && o.fail(); }; drutObj && Array.isArray(drutObj.cmd) && drutObj.cmd.forEach(failFn) && (drutObj.cmd.length = 0);  window.cpmstarAPI = window["_"+zonefile] = failFn; }
+			var rnd = Math.round(Math.random()*999999);
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; 
+			s.onerror=failCpmstarAPI;
+			var proto = document.location.protocol;
+			var host = ( proto == "https:" || proto == "file:")?"https://server":"//cdn";
+			if(window.location.hash=="#cpmstarDev") host = "//dev.server";
+			if(window.location.hash=="#cpmstarStaging") host = "//staging.server"; 
+			s.src = host + ".cpmstar.com/cached/zonefiles/" + zonefile + ".js?rnd="+rnd; 
+			var s2=document.getElementsByTagName('script')[0];
+			s2.parentNode.insertBefore(s, s2);
+			window.cpmstarAPI = function(o) { (drutObj.cmd = drutObj.cmd || []).push(o); }
+			}('15_159_mmorpg'));
+		</script>
+<style>
+                        @media (min-width: 1200px) {
+                            .post_content .carousel, .post_content img {
+                                max-width: 655px;
+                            }
+                        }
+                    </style>
+<style>
+                    .carousel .item figure {
+                        background-size: contain !important;
+                    }
+                    .carousel .item figure:after {
+                        background-image: none !important;
+                    }                    
+                </style>
+<style>.two-line .list__tile>.label.label-rating {width: 60px;}</style></head>
+<body style="overflow: hidden;">
+<div id="page">
+<popup_bg class="jpg"></popup_bg>
+<div class="header-top d-none d-xl-block">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-8">
+<style>
+    .trending-games li a {
+        font-weight: 500 !important;
+    }
+</style>
+<ul class="trending-games">
+<li><b>Trending</b></li>
+<li><a href="/new-world" title="New World - NW">New World</a></li><li><a href="/world-of-warcraft" title="World of Warcraft - WoW">World of Warcraft</a></li><li><a href="/lord-of-the-rings-online" title="Lord of the Rings Online - LotRO">Lord of the Rings Online</a></li><li><a href="/guild-wars-2" title="Guild Wars 2 - GW2">Guild Wars 2</a></li><li><a href="/eve-online" title="EVE Online - EVE">EVE Online</a></li>
+</ul>
+</div>
+<div class="col-4">
+<div class="d-flex w-100 justify-content-end">
+<form class="search-form" action="/search" method="get">
+<p>
+<label class="visually-hidden" for="site-search">Search the site:</label>
+<input id="site-search" type="search" name="q" placeholder="Search the site:" />
+<button type="button">Search</button>
+</p>
+</form>
+<ul class="social-web">
+<li><a class="social-web__facebook" href="https://www.facebook.com/MMORPGcom" title="MMORPG.com Facebook Page" target="_blank" rel="noopener">facebook</a></li>
+<li><a class="social-web__twitter" href="https://www.twitter.com/MMORPGcom" title="MMORPG.com Twitter" target="_blank" rel="noopener">twitter</a></li>
+<li><a class="social-web__youtube" href="https://www.youtube.com/MMORPGcom" title="MMORPG.com YouTube Channel" target="_blank" rel="noopener">youtube</a></li>
+<li><a class="social-web__twitch" href="http://www.twitch.tv/MMORPGcom" title="MMORPG.com Twitch Streams" target="_blank" rel="noopener">twitch</a></li>
+<li><a class="social-web__discord" href="https://discord.gg/MMORPGcom" title="MMORPG.com Discord Server" target="_blank" rel="noopener">discord</a></li>
+</ul>
+<div class="theme-toggle"><span>Dark or Light</span>
+<button type="button">Theme toggle</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-mobile d-xl-none">
+<div class="container container-fluid">
+<div class="row gutter-xxs justify-content-between align-items-center">
+<div class="col-auto d-flex align-items-center"><a class="d-flex align-items-center" href="/" title="MMORPG.com"><img alt="logo" width="180px" src="//images.mmorpg.com/v2/img/logo.svg" /></a></div>
+<div class="col-auto"><button class="hamburger hamburger--spin js-hamburger" type="button">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="header-mobile__menu d-none d-xl-none" id="mobile-menu"><ul>
+<li><a href="/">Home</a></li>
+<li>
+<a href="/games-list">Games</a>
+<ul class="">
+<li><a href="/games-list" title="MMORPG Games 2021">All</a></li>
+<li><a href="/games-list/show/android/platform/14/games-for-android-2021" title="Games for Android 2021">Android</a></li>
+<li><a href="/games-list/show/ios/platform/13/games-for-ios-2021" title="Games for iOS 2021">iOS</a></li>
+<li><a href="/games-list/show/free/paytype/1/free-games-2021" title="Free Games 2021">Free</a></li>
+<li><a href="/games-list/show/released/status/3/released-games-2021" title="Released Games 2021">Released</a></li>
+<li><a href="/games-list/show/beta/status/2,5/games-in-alpha-beta-testing-2021" title="Games in Alpha / Beta Testing 2021">Alpha / Beta Testing</a></li>
+<li><a href="/games-list/show/development/status/1/games-in-development-2021" title="Games in Development 2021">Development</a></li>
+<li><a href="/games-list/show/browser/distributiontype/3/browser-games-2021" title="Browser Games 2021">Browser Games</a></li>
+<li><a href="/games-list/show/mac/platform/2/games-for-mac-2021" title="Games for Mac 2021">Mac</a></li>
+<li><a href="/games-list/show/cancelled/status/4/cancelled-games-2021" title="Cancelled Games 2021">Cancelled</a></li>
+</ul>
+</li>
+<li><a href="/reviews">Reviews</a></li>
+<li><a href="/articles">Articles</a></li>
+<li><a href="/videos">Videos</a></li>
+<li><a href="https://forums.mmorpg.com/">Community</a></li>
+<li><a href="/streams">Live Streams</a></li>
+<li><a href="/play-now">Play Now</a></li>
+<li><a href="/login">
+<i class="fas fa-sign-in-alt"></i>Login</a></li>
+<li><a href="/register">
+<i class="fas fa-user-plus"></i>Register</a></li>
+<ul class="icon-top"><li>
+<a href="https://www.facebook.com/MMORPGcom" title="MMORPG.com FaceBook Page" target="_blank" rel="noopener">
+<i class="fab fa-facebook-f"></i>
+</a>
+</li>
+<li>
+<a href="https://www.twitter.com/MMORPGcom" title="MMORPG.com Twitter" target="_blank" rel="noopener">
+<i class="fab fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/MMORPGcom" title="MMORPG.com YouTube Channel" target="_blank" rel="noopener">
+<i class="fab fa-youtube"></i>
+</a>
+</li>
+<li>
+<a href="https://www.twitch.tv/MMORPGcom" title="MMORPG.com Twitch Streams" target="_blank" rel="noopener">
+<i class="fab fa-twitch"></i>
+</a>
+</li>
+<li>
+<a href="https://discord.gg/MMORPGcom" title="MMORPG.com Discord Server" target="_blank" rel="noopener">
+<i class="fab fa-discord"></i>
+</a>
+</li>
+</ul></ul>
+</div>
+<div class="all-wrapper undefined container" style="position:relative !important;">
+<header class="header" style="position: -webkit-sticky;position: sticky;top: 0;">
+<nav class="d-none d-xl-block">
+<div class="header-middle">
+<ul class="mega-menu">
+<li class="menu-item-has-children"><a href="/games-list">Games</a>
+<div class="mega-menu-sub">
+<div class="row">
+<div class="col-3">
+<aside class="sidebar-menu">
+<ul class="sidebar-menu__list">
+<li class="active"><a href="#">All Games</a></li><li><a href="#">Highest Rated</a></li><li><a href="#">Highest Hyped</a></li><li><a href="#">Newly Added</a></li><li><a href="#">Recently Updated</a></li><li><a href="#">Upcoming Releases</a></li>
+</ul>
+</aside>
+</div>
+<div class="col-9 col-9_sliders"> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper"> 
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/421_32.png?cb=C7C58C8E874FCB7871526EE2D12AF22A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="4Story" onclick="window.location='/4story';">
+<img src="//images.mmorpg.com/images/games/logos/32/421_32.png?cb=C7C58C8E874FCB7871526EE2D12AF22A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="4Story" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 71.7%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>7.17</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/4story">4Story<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-android" title="Android"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fas fa-mobile-alt" title="iOS"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/795_32.png?cb=DCD70D9481F43E84B8D9182F2B419F16), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="8BitMMO" onclick="window.location='/8bitmmo';">
+<img src="//images.mmorpg.com/images/games/logos/32/795_32.png?cb=DCD70D9481F43E84B8D9182F2B419F16" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="8BitMMO" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/8bitmmo">8BitMMO<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/235_32.png?cb=6A0288CDAA0B40353FF4E5FFBD485EA6), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="9Dragons" onclick="window.location='/9dragons';">
+<img src="//images.mmorpg.com/images/games/logos/32/235_32.png?cb=6A0288CDAA0B40353FF4E5FFBD485EA6" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="9Dragons" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 68.6%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>6.86</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/9dragons">9Dragons<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1552_32.png?cb=7FD933CC3B4711438D63A062D479D4FE), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="9Lives Arena" onclick="window.location='/9lives-arena';">
+<img src="//images.mmorpg.com/images/games/logos/32/1552_32.png?cb=7FD933CC3B4711438D63A062D479D4FE" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="9Lives Arena" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/9lives-arena">9Lives Arena<span class="card-i__subtitle"> (Alpha)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/22_32.png?cb=47E14DD32BB39E646CFD820474EFBCA2), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="A Tale in the Desert" onclick="window.location='/a-tale-in-the-desert';">
+<div class="label blue lighten-1 right  label-info" data-lvl="7" title="MMORPG.com Review Score"><span>7.8</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/22_32.png?cb=47E14DD32BB39E646CFD820474EFBCA2" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="A Tale in the Desert" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 69%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>6.90</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+ <h3><a href="/a-tale-in-the-desert">A Tale in the Desert<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-linux" title="Linux"></i></div><div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/178_32.png?cb=5C8F33C7E560416BBE772F0DFE7D92EC), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="A3" onclick="window.location='/a3';">
+<div class="label blue lighten-1 right  label-info" data-lvl="4" title="MMORPG.com Review Score"><span>4.0</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/178_32.png?cb=5C8F33C7E560416BBE772F0DFE7D92EC" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="A3" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 60.4%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>6.04</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/a3">A3<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/446_32.png?cb=22C290E0B348259575EEDABC5567291D), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Final Fantasy XIV" onclick="window.location='/final-fantasy-xiv';">
+<div class="label blue lighten-1 right  label-info" data-lvl="9" title="MMORPG.com Review Score"><span>9.1</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/446_32.png?cb=22C290E0B348259575EEDABC5567291D" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Final Fantasy XIV" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 80.6%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>8.06</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+ <div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/final-fantasy-xiv">Final Fantasy XIV<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/473_32.png?cb=BD825DE32085A5AF202CA6DF9ECC46F7), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Guild Wars 2" onclick="window.location='/guild-wars-2';">
+<div class="label blue lighten-1 right  label-info" data-lvl="9" title="MMORPG.com Review Score"><span>9.0</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/473_32.png?cb=BD825DE32085A5AF202CA6DF9ECC46F7" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Guild Wars 2" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 80%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>8.00</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/guild-wars-2">Guild Wars 2<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+ <figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/821_32.png?cb=CC72DE6D4C8C476904925FB81C4AE4C2), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Elder Scrolls Online" onclick="window.location='/elder-scrolls-online';">
+<div class="label blue lighten-1 right  label-info" data-lvl="7" title="MMORPG.com Review Score"><span>7.5</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/821_32.png?cb=CC72DE6D4C8C476904925FB81C4AE4C2" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Elder Scrolls Online" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 79%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>7.90</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/elder-scrolls-online">Elder Scrolls Online<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-xbox" title="Xbox One"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/404_32.png?cb=9750D66CD373FAFBABDACD55C009B44A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Secret World Legends" onclick="window.location='/secret-world-legends';">
+<div class="label blue lighten-1 right  label-info" data-lvl="8" title="MMORPG.com Review Score"><span>8.5</span></div>
+<img src="//images.mmorpg.com/images/games/logos/32/404_32.png?cb=9750D66CD373FAFBABDACD55C009B44A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Secret World Legends" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+ <div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 78.2%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>7.82</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/secret-world-legends">Secret World Legends<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1658_32.png?cb=3D0DA50EC42EE5F3803D9437ED0F1E3D), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Next Island" onclick="window.location='/next-island';">
+<img src="//images.mmorpg.com/images/games/logos/32/1658_32.png?cb=3D0DA50EC42EE5F3803D9437ED0F1E3D" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Next Island" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 78.1%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>7.81</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/next-island">Next Island<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main"> 
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1380_32.png?cb=1EFADB1DDEB5DB6C51B8C9D6B5B0C423), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Darkfall: Rise of Agon" onclick="window.location='/darkfall-rise-of-agon';">
+<img src="//images.mmorpg.com/images/games/logos/32/1380_32.png?cb=1EFADB1DDEB5DB6C51B8C9D6B5B0C423" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Darkfall: Rise of Agon" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--rating bar--sm" title="Avg. User Rating">
+<div class="bar__track" style="width: 77.8%"></div>
+<div class="bar__content"><i class="fas fa-gamepad"></i><strong>7.78</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/darkfall-rise-of-agon">Darkfall: Rise of Agon<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1630_32.png?cb=07F7AF79F21001EB0E7E4CF22D7C839F), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Blue Protocol" onclick="window.location='/blue-protocol';">
+<img src="//images.mmorpg.com/images/games/logos/32/1630_32.png?cb=07F7AF79F21001EB0E7E4CF22D7C839F" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Blue Protocol" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 89.6%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>8.96</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/blue-protocol">Blue Protocol<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1511_32.png?cb=EE9E20342E62F3A308ACD258CA36A4D5), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Elyon" onclick="window.location='/elyon';">
+<img src="//images.mmorpg.com/images/games/logos/32/1511_32.png?cb=EE9E20342E62F3A308ACD258CA36A4D5" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Elyon" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 74.3%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>7.43</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/elyon">Elyon<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+ <div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1465_32.png?cb=ECE81A8768B6ABCE307A8BB6D4332F34), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Ashes of Creation" onclick="window.location='/ashes-of-creation';">
+<img src="//images.mmorpg.com/images/games/logos/32/1465_32.png?cb=ECE81A8768B6ABCE307A8BB6D4332F34" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Ashes of Creation" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 74.2%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>7.42</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/ashes-of-creation">Ashes of Creation<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1324_32.png?cb=A714BADB1BF70FA12178645D92C6D508), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Lost Ark" onclick="window.location='/lost-ark';">
+<img src="//images.mmorpg.com/images/games/logos/32/1324_32.png?cb=A714BADB1BF70FA12178645D92C6D508" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Lost Ark" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">Action MMO</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 73.9%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>7.39</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/lost-ark">Lost Ark<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1006_32.png?cb=4CA4A2D5773C51B126523B256D8E52DB), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Pantheon: Rise of the Fallen" onclick="window.location='/pantheon-rise-of-the-fallen';">
+<img src="//images.mmorpg.com/images/games/logos/32/1006_32.png?cb=4CA4A2D5773C51B126523B256D8E52DB" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Pantheon: Rise of the Fallen" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 73%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>7.30</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/pantheon-rise-of-the-fallen">Pantheon: Rise of the Fallen<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1543_32.png?cb=E23CBCBAA5B1163D4F5B3C811326EE8B), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Fractured" onclick="window.location='/fractured';">
+<img src="//images.mmorpg.com/images/games/logos/32/1543_32.png?cb=E23CBCBAA5B1163D4F5B3C811326EE8B" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Fractured" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 69.7%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>6.97</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/fractured">Fractured<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-linux" title="Linux"></i></div><div class="col-auto"><i class="fab fa-apple" title="Mac"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1800_32.png?cb=64A94FB8F37431BF15399127C5A38F34), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="MechWarrior 5: Mercenaries" onclick="window.location='/mechwarrior-5-mercenaries';">
+<img src="//images.mmorpg.com/images/games/logos/32/1800_32.png?cb=64A94FB8F37431BF15399127C5A38F34" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="MechWarrior 5: Mercenaries" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMOG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/mechwarrior-5-mercenaries">MechWarrior 5: Mercenaries<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+ <figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1796_32.png?cb=AAB2AB8864E60950D2F8A13C1CC9562A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Star Wars: KOTOR - Remake" onclick="window.location='/star-wars-kotor-remake';">
+<img src="//images.mmorpg.com/images/games/logos/32/1796_32.png?cb=AAB2AB8864E60950D2F8A13C1CC9562A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Star Wars: KOTOR - Remake" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/star-wars-kotor-remake">Star Wars: KOTOR - Remake<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-playstation" title="Playstation 5"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1795_32.png?cb=884B8C550868E4A2A69D05605D0B98B3), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Iron Conflict" onclick="window.location='/iron-conflict';">
+<img src="//images.mmorpg.com/images/games/logos/32/1795_32.png?cb=884B8C550868E4A2A69D05605D0B98B3" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Iron Conflict" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORTS</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/iron-conflict">Iron Conflict<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1794_32.png?cb=9AE1582E8D2CD78885F130AC08C20DA5), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Cinderstone Online" onclick="window.location='/cinderstone-online';">
+<img src="//images.mmorpg.com/images/games/logos/32/1794_32.png?cb=9AE1582E8D2CD78885F130AC08C20DA5" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Cinderstone Online" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/cinderstone-online">Cinderstone Online<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1793_32.png?cb=DE1B045A3CB956FEF7C59E521DCAD714), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Starbase" onclick="window.location='/starbase';">
+
+<img src="//images.mmorpg.com/images/games/logos/32/1793_32.png?cb=DE1B045A3CB956FEF7C59E521DCAD714" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Starbase" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMOG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/starbase">Starbase<span class="card-i__subtitle"> (Early Access)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1792_32.png?cb=1EFE56D8BD0A780067DE2F0E7DE21FDA), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Broken Ranks" onclick="window.location='/broken-ranks';">
+<img src="//images.mmorpg.com/images/games/logos/32/1792_32.png?cb=1EFE56D8BD0A780067DE2F0E7DE21FDA" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Broken Ranks" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">Action MMO</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/broken-ranks">Broken Ranks<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-android" title="Android"></i></div><div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fas fa-mobile-alt" title="iOS"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1455_32.png?cb=E544BD9AD7433DBC0F72DB409F4844C4), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="New World" onclick="window.location='/new-world';">
+<img src="//images.mmorpg.com/images/games/logos/32/1455_32.png?cb=E544BD9AD7433DBC0F72DB409F4844C4" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="New World" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/new-world">New World<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1800_32.png?cb=64A94FB8F37431BF15399127C5A38F34), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="MechWarrior 5: Mercenaries" onclick="window.location='/mechwarrior-5-mercenaries';">
+<img src="//images.mmorpg.com/images/games/logos/32/1800_32.png?cb=64A94FB8F37431BF15399127C5A38F34" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="MechWarrior 5: Mercenaries" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMOG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/mechwarrior-5-mercenaries">MechWarrior 5: Mercenaries<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1751_32.png?cb=353011F53150583DE3FBBD161746413A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Book of Travels" onclick="window.location='/book-of-travels';">
+<img src="//images.mmorpg.com/images/games/logos/32/1751_32.png?cb=353011F53150583DE3FBBD161746413A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Book of Travels" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/book-of-travels">Book of Travels<span class="card-i__subtitle"> (Development)</span></a></h3>
+ </div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1529_32.png?cb=5BFD902EA4FF437D754EE73A033AEE8A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="OrbusVR" onclick="window.location='/orbusvr';">
+<img src="//images.mmorpg.com/images/games/logos/32/1529_32.png?cb=5BFD902EA4FF437D754EE73A033AEE8A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="OrbusVR" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/orbusvr">OrbusVR<span class="card-i__subtitle"> (Early Access)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1740_32.png?cb=07F385443566F916D009B03EC76D5482), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Diablo II: Resurrected" onclick="window.location='/diablo-ii-resurrected';">
+<img src="//images.mmorpg.com/images/games/logos/32/1740_32.png?cb=07F385443566F916D009B03EC76D5482" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Diablo II: Resurrected" />
+</figure>
+ </div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">Action RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/diablo-ii-resurrected">Diablo II: Resurrected<span class="card-i__subtitle"> (Released)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-nintendo-switch" title="Switch"></i></div><div class="col-auto"><i class="fab fa-xbox" title="Xbox Series X/S"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1796_32.png?cb=AAB2AB8864E60950D2F8A13C1CC9562A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Star Wars: KOTOR - Remake" onclick="window.location='/star-wars-kotor-remake';">
+<img src="//images.mmorpg.com/images/games/logos/32/1796_32.png?cb=AAB2AB8864E60950D2F8A13C1CC9562A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Star Wars: KOTOR - Remake" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/star-wars-kotor-remake">Star Wars: KOTOR - Remake<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+ <div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-playstation" title="Playstation 5"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav> <nav class="slider-mega-menu">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1751_32.png?cb=353011F53150583DE3FBBD161746413A), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Book of Travels" onclick="window.location='/book-of-travels';">
+<img src="//images.mmorpg.com/images/games/logos/32/1751_32.png?cb=353011F53150583DE3FBBD161746413A" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Book of Travels" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/book-of-travels">Book of Travels<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1511_32.png?cb=EE9E20342E62F3A308ACD258CA36A4D5), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Elyon" onclick="window.location='/elyon';">
+<img src="//images.mmorpg.com/images/games/logos/32/1511_32.png?cb=EE9E20342E62F3A308ACD258CA36A4D5" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Elyon" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--votes bar--sm" title="Avg. User Hype">
+<div class="bar__track" style="width: 74.3%"></div>
+<div class="bar__content"><i class="fas fa-bullhorn"></i><strong>7.43</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/elyon">Elyon<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1770_32.png?cb=673D3AB0EE55D7B3CC660AEC0F0CCD18), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Riders Republic" onclick="window.location='/riders-republic';">
+<img src="//images.mmorpg.com/images/games/logos/32/1770_32.png?cb=673D3AB0EE55D7B3CC660AEC0F0CCD18" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Riders Republic" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMOG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/riders-republic">Riders Republic<span class="card-i__subtitle"> (Development)</span></a></h3>
+</div>
+</div> 
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-playstation" title="Playstation 4"></i></div><div class="col-auto"><i class="fab fa-xbox" title="Xbox One"></i></div><div class="col-auto"><i class="fab fa-xbox" title="Xbox One"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1680_32.png?cb=8E5D64FE694606BD1FA90DBBD6025796), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="The Waylanders" onclick="window.location='/the-waylanders';">
+<img src="//images.mmorpg.com/images/games/logos/32/1680_32.png?cb=8E5D64FE694606BD1FA90DBBD6025796" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="The Waylanders" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">RPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/the-waylanders">The Waylanders<span class="card-i__subtitle"> (Early Access)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1695_32.png?cb=78B90E48B2A1E01C8A32E03CACBE0DB1), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Blankos Block Party" onclick="window.location='/blankos-block-party';">
+<img src="//images.mmorpg.com/images/games/logos/32/1695_32.png?cb=78B90E48B2A1E01C8A32E03CACBE0DB1" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Blankos Block Party" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMOG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/blankos-block-party">Blankos Block Party<span class="card-i__subtitle"> (Beta Testing)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-windows" title="PC"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="card-i card-i--m">
+<div class="card-i__main">
+<div class="card-i__img">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/games/logos/32/1569_32.png?cb=8739D5CF2527F836E6209886A3E812F2), url(//images.mmorpg.com/v2/img/default_logo.png), url(//images.mmorpg.com/images/heroes/hero_default_1.jpg); background-size: 125px 125px, 125px 125px, 400px;" title="Diablo Immortal" onclick="window.location='/diablo-immortal';">
+<img src="//images.mmorpg.com/images/games/logos/32/1569_32.png?cb=8739D5CF2527F836E6209886A3E812F2" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" alt="Diablo Immortal" />
+</figure>
+</div>
+<div class="card-i__extra">
+<div class="row gutter-xxxs">
+<div class="col-5 d-flex justify-content-center align-items-center">
+<div class="card-i__genre">MMORPG</div>
+</div>
+<div class="col-7">
+<div class="bar bar--empty bar--sm">
+<div class="bar__track" style="width: 0%"></div>
+<div class="bar__content" title="More Votes Required"><strong>Votes Req.</strong></div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-i__content__wrapper">
+<div class="card-i__content">
+<div class="card-i__title">
+<h3><a href="/diablo-immortal">Diablo Immortal<span class="card-i__subtitle"> (Alpha)</span></a></h3>
+</div>
+</div>
+<div class="card-i__req">
+<div class="row gutter-lg justify-content-between">
+<div class="col-auto"><strong>Platforms: </strong></div>
+<div class="col-auto">
+<div class="row gutter-md">
+<div class="col-auto"><i class="fab fa-android" title="Android"></i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/games-list">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item-has-children"><a href="/reviews">Reviews</a>
+<div class="mega-menu-sub">
+<div class="row">
+<div class="col-12">
+<nav class="slider-mega-menu slider-mega-menu--single">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123264_t.jpg?cb=E9AC29E6B3F7A9D3B91FE1472E5E77C4), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/not-so-mmo-far-cry-6-review-2000123264';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123264_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Not So MMO: Far Cry 6 Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/not-so-mmo-far-cry-6-review-2000123264">Not So MMO: Far Cry 6 Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+<div class="col-auto"><a class="chip red darken-1" href="/column?col=56">Not So MMO</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/bigmanfanelli">Jason Fanelli</a> - <span><time datetime="2021-10-06T07:01:00-04:00">Oct 06, 2021 7:01 AM</time></span><span class="mx-2">|</span><a href="/reviews/not-so-mmo-far-cry-6-review-2000123264" vanilla-identifier="news_123264"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123215_t.jpg?cb=A5E054C22B92CF8016F84FA5FA4D0A5E), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/ni-no-kuni-ii-revenant-kingdom-princes-edition-review-2000123215';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123215_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Ni No Kuni II: Revenant Kingdom Prince's Edition Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/ni-no-kuni-ii-revenant-kingdom-princes-edition-review-2000123215">Ni No Kuni II: Revenant Kingdom Prince's Edition Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Nick_Shively">Nick Shively</a> - <span><time datetime="2021-09-30T11:10:00-04:00">Sep 30, 2021 11:10 AM</time></span><span class="mx-2">|</span><a href="/reviews/ni-no-kuni-ii-revenant-kingdom-princes-edition-review-2000123215" vanilla-identifier="news_123215"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123183_t.jpg?cb=A3558302DD50BC20191C121970E9BF43), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/kena-bridge-of-spirits-pc-review-2000123183';">
+<div class="label label-rating " data-lvl="9" title="MMORPG.com Review Score"><span>9.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123183_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Kena: Bridge of Spirits PC Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/kena-bridge-of-spirits-pc-review-2000123183">Kena: Bridge of Spirits PC Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+<div class="col-auto"><a class="chip red darken-1" href="/column?col=56">Not So MMO</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/ShankTheTank">Poorna Shankar</a> - <span><time datetime="2021-09-28T13:00:00-04:00">Sep 28, 2021 1:00 PM</time></span><span class="mx-2">|</span><a href="/reviews/kena-bridge-of-spirits-pc-review-2000123183" vanilla-identifier="news_123183"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123142_t.jpg?cb=70708DA2FADDF4CBA3D9CCB88351C9EF), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/bless-unleashed-pc-review-2000123142';">
+<div class="label label-rating " data-lvl="6" title="MMORPG.com Review Score"><span>6.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123142_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Bless Unleashed PC Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/bless-unleashed-pc-review-2000123142">Bless Unleashed PC Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/bless-unleashed">Bless Unleashed</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Scott_Jeslis">Scott Jeslis</a> - <span><time datetime="2021-09-23T09:30:00-04:00">Sep 23, 2021 9:30 AM</time></span><span class="mx-2">|</span><a href="/reviews/bless-unleashed-pc-review-2000123142" vanilla-identifier="news_123142"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123131_t.jpg?cb=ADB20E637AF5FCBFA1D332AF5B7786F1), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/deathloop-review-2000123131';">
+<div class="label label-rating " data-lvl="9" title="MMORPG.com Review Score"><span>9.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123131_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Deathloop Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/deathloop-review-2000123131">Deathloop Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-22T09:00:00-04:00">Sep 22, 2021 9:00 AM</time></span><span class="mx-2">|</span><a href="/reviews/deathloop-review-2000123131" vanilla-identifier="news_123131"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123096_t.jpg?cb=E03D5B5D56CF89DCBE44C54B5ABE4EB4), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/not-so-mmo-life-is-strange-true-colors-review-2000123096';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123096_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Not So MMO: Life Is Strange: True Colors Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/not-so-mmo-life-is-strange-true-colors-review-2000123096">Not So MMO: Life Is Strange: True Colors Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+<div class="col-auto"><a class="chip red darken-1" href="/column?col=56">Not So MMO</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/riningear">Victoria Rose</a> - <span><time datetime="2021-09-17T12:00:00-04:00">Sep 17, 2021 12:00 PM</time></span><span class="mx-2">|</span><a href="/reviews/not-so-mmo-life-is-strange-true-colors-review-2000123096" vanilla-identifier="news_123096"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/122938_t.jpg?cb=865306C76DE099C1C059D70855D74411), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/no-more-heroes-3-review-2000122938';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/122938_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="No More Heroes 3 Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/no-more-heroes-3-review-2000122938">No More Heroes 3 Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/riningear">Victoria Rose</a> - <span><time datetime="2021-09-01T09:00:00-04:00">Sep 01, 2021 9:00 AM</time></span><span class="mx-2">|</span><a href="/reviews/no-more-heroes-3-review-2000122938" vanilla-identifier="news_122938"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/122879_t.jpg?cb=E5DEAE5F95FFF79C2E3BDF1EA2AEE7F7), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/naraka-bladepoint-review-2000122879';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/122879_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Naraka Bladepoint Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/naraka-bladepoint-review-2000122879">Naraka Bladepoint Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/naraka-bladepoint">Naraka: Bladepoint</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/bigmanfanelli">Jason Fanelli</a> - <span><time datetime="2021-08-25T13:00:00-04:00">Aug 25, 2021 1:00 PM</time></span><span class="mx-2">|</span><a href="/reviews/naraka-bladepoint-review-2000122879" vanilla-identifier="news_122879"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/122869_t.jpg?cb=41ACAD2477640D3ED9A625B7E3F70E28), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/not-so-mmo-humankind-review-2000122869';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/122869_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Not So MMO: HUMANKIND Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/not-so-mmo-humankind-review-2000122869">Not So MMO: HUMANKIND Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/humankind">Humankind</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+<div class="col-auto"><a class="chip red darken-1" href="/column?col=56">Not So MMO</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/MikeBC">Mike BC</a> - <span><time datetime="2021-08-24T14:30:00-04:00">Aug 24, 2021 2:30 PM</time></span><span class="mx-2">|</span><a href="/reviews/not-so-mmo-humankind-review-2000122869" vanilla-identifier="news_122869"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/122857_t.jpg?cb=674DFBE4AD8DB1C56F74F5B438F3EDFF), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/reviews/aliens-fireteam-elite-review-2000122857';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/122857_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Aliens: Fireteam Elite Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/reviews/aliens-fireteam-elite-review-2000122857">Aliens: Fireteam Elite Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/reviews">Reviews</a></div>
+ </div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Splattr">Mitch Gassner</a> - <span><time datetime="2021-08-23T10:01:00-04:00">Aug 23, 2021 10:01 AM</time></span><span class="mx-2">|</span><a href="/reviews/aliens-fireteam-elite-review-2000122857" vanilla-identifier="news_122857"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/reviews">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev" href="#"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next" href="#"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item-has-children"><a href="/articles">Articles</a>
+<div class="mega-menu-sub">
+<div class="row">
+<div class="col-12">
+<nav class="slider-mega-menu slider-mega-menu--single">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/Sweepstakes/124_t.jpg?cb=77E0DA64D247E7BC9245C3D0300C9A1F), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/sweepstakes/bless-unleashed-pc-frontier-pack-sweepstakes-2000000124';">
+<img src="//images.mmorpg.com/images/heroes/Sweepstakes/124_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Bless Unleashed PC Frontier Pack Sweepstakes!" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/sweepstakes/bless-unleashed-pc-frontier-pack-sweepstakes-2000000124">Bless Unleashed PC Frontier Pack Sweepstakes!</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/bless-unleashed">Bless Unleashed</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/sweepstakes">Sweepstakes</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/MMORPGcom">MMORPG.com Staff</a> - <span><time datetime="2021-10-07T19:00:00-04:00">Oct 07, 2021 7:00 PM</time></span><span class="mx-2">|</span><a href="/sweepstakes/bless-unleashed-pc-frontier-pack-sweepstakes-2000000124" vanilla-identifier="sweepstakes_124"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123285_t.jpg?cb=1EC903B71F50FC8E6A0F30A24A154A3D), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/fall-fest-is-back-in-dc-universe-online-with-a-new-race-new-feats-and-free-festive-rewards-2000123285';">
+<img src="//images.mmorpg.com/images/heroes/posts/123285_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Fall Fest is Back in DC Universe Online With a New Race, New Feats, and Free Festive Rewards" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/fall-fest-is-back-in-dc-universe-online-with-a-new-race-new-feats-and-free-festive-rewards-2000123285">Fall Fest is Back in DC Universe Online With a New Race, New Feats, and Free Festive Rewards</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/dc-universe-online">DC Universe Online</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T18:00:00-04:00">Oct 07, 2021 6:00 PM</time></span><span class="mx-2">|</span><a href="/news/fall-fest-is-back-in-dc-universe-online-with-a-new-race-new-feats-and-free-festive-rewards-2000123285" vanilla-identifier="news_123285"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123281_t.jpg?cb=89AC784ADAE7A276108B93E18827204D), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/maplestory-fest-is-virtual-again-coming-in-november-2000123281';">
+<img src="//images.mmorpg.com/images/heroes/posts/123281_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="MapleStory Fest is Virtual Again, Coming in November" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/maplestory-fest-is-virtual-again-coming-in-november-2000123281">MapleStory Fest is Virtual Again, Coming in November</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/maplestory">MapleStory</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T17:15:00-04:00">Oct 07, 2021 5:15 PM</time></span><span class="mx-2">|</span><a href="/news/maplestory-fest-is-virtual-again-coming-in-november-2000123281" vanilla-identifier="news_123281"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123280_t.jpg?cb=6A8525384D8E26FEB77C04226EDB78F3), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/world-of-warcraft-ptr-915-developers-explain-dungeon-tuning-decisions-2000123280';">
+<img src="//images.mmorpg.com/images/heroes/posts/123280_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="World of Warcraft PTR 9.1.5: Developers Explain Dungeon Tuning Decisions" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/world-of-warcraft-ptr-915-developers-explain-dungeon-tuning-decisions-2000123280">World of Warcraft PTR 9.1.5: Developers Explain Dungeon Tuning Decisions</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/world-of-warcraft">World of Warcraft</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T15:00:00-04:00">Oct 07, 2021 3:00 PM</time></span><span class="mx-2">|</span><a href="/news/world-of-warcraft-ptr-915-developers-explain-dungeon-tuning-decisions-2000123280" vanilla-identifier="news_123280"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123279_t.jpg?cb=7D6B1FD258E48057F37D8017768EA15D), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/enter-the-fury-of-the-damned-in-the-sea-of-thieves-halloween-event-2000123279';">
+<img src="//images.mmorpg.com/images/heroes/posts/123279_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Enter the Fury of the Damned in the Sea of Thieves Halloween Event" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/enter-the-fury-of-the-damned-in-the-sea-of-thieves-halloween-event-2000123279">Enter the Fury of the Damned in the Sea of Thieves Halloween Event</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/sea-of-thieves">Sea of Thieves</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T14:00:00-04:00">Oct 07, 2021 2:00 PM</time></span><span class="mx-2">|</span><a href="/news/enter-the-fury-of-the-damned-in-the-sea-of-thieves-halloween-event-2000123279" vanilla-identifier="news_123279"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123278_t.jpg?cb=6AB10E3B501F5DEC2B9D7B14CF87009C), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/blizzard-announces-joe-shely-as-the-new-game-director-for-diablo-iv-2000123278';">
+<img src="//images.mmorpg.com/images/heroes/posts/123278_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Blizzard Announces Joe Shely As The New Game Director For Diablo IV" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/blizzard-announces-joe-shely-as-the-new-game-director-for-diablo-iv-2000123278">Blizzard Announces Joe Shely As The New Game Director For Diablo IV</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/diablo-iv">Diablo IV</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+ </div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-10-07T13:45:00-04:00">Oct 07, 2021 1:45 PM</time></span><span class="mx-2">|</span><a href="/news/blizzard-announces-joe-shely-as-the-new-game-director-for-diablo-iv-2000123278" vanilla-identifier="news_123278"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123277_t.jpg?cb=C9CE793019F62C2ED83A1861561524FD), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/editorials/how-often-does-new-content-bring-you-back-to-an-older-mmo-2000123277';">
+<img src="//images.mmorpg.com/images/heroes/posts/123277_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="How Often Does New Content Bring You Back To An Older MMO?" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/editorials/how-often-does-new-content-bring-you-back-to-an-older-mmo-2000123277">How Often Does New Content Bring You Back To An Older MMO?</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/lord-of-the-rings-online">Lord of the Rings Online</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/editorials">Editorials</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-10-07T13:30:00-04:00">Oct 07, 2021 1:30 PM</time></span><span class="mx-2">|</span><a href="/editorials/how-often-does-new-content-bring-you-back-to-an-older-mmo-2000123277" vanilla-identifier="news_123277"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123276_t.jpg?cb=3C725694CD91AFFDA0C2C87E88FAD6DF), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/star-citizen-reveals-citizencon-schedule-and-panel-details-ahead-of-saturday-event-2000123276';">
+<img src="//images.mmorpg.com/images/heroes/posts/123276_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Star Citizen Reveals CitizenCon Schedule and Panel Details Ahead of Saturday Event" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/star-citizen-reveals-citizencon-schedule-and-panel-details-ahead-of-saturday-event-2000123276">Star Citizen Reveals CitizenCon Schedule and Panel Details Ahead of Saturday Event</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/star-citizen">Star Citizen</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T12:30:00-04:00">Oct 07, 2021 12:30 PM</time></span><span class="mx-2">|</span><a href="/news/star-citizen-reveals-citizencon-schedule-and-panel-details-ahead-of-saturday-event-2000123276" vanilla-identifier="news_123276"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123275_t.jpg?cb=F923629C2D8E80CF587CDED83ED6646D), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/new-detailed-look-released-for-the-brawler-in-lord-of-the-rings-online-2000123275';">
+<img src="//images.mmorpg.com/images/heroes/posts/123275_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="New Detailed Look Released for the Brawler in Lord of the Rings Online" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/new-detailed-look-released-for-the-brawler-in-lord-of-the-rings-online-2000123275">New Detailed Look Released for the Brawler in Lord of the Rings Online</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/lord-of-the-rings-online">Lord of the Rings Online</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T11:00:00-04:00">Oct 07, 2021 11:00 AM</time></span><span class="mx-2">|</span><a href="/news/new-detailed-look-released-for-the-brawler-in-lord-of-the-rings-online-2000123275" vanilla-identifier="news_123275"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123274_t.jpg?cb=0CECDFC68C4766F2F19D1A5DF7CB9CF2), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/news/warframe-celebrates-halloween-all-month-with-spooky-events-and-rewards-2000123274';">
+<img src="//images.mmorpg.com/images/heroes/posts/123274_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Warframe Celebrates Halloween All Month With Spooky Events and Rewards" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/news/warframe-celebrates-halloween-all-month-with-spooky-events-and-rewards-2000123274">Warframe Celebrates Halloween All Month With Spooky Events and Rewards</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/warframe">Warframe</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/news">News</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/Seshat">Christina Gonzalez</a> - <span><time datetime="2021-10-07T09:45:00-04:00">Oct 07, 2021 9:45 AM</time></span><span class="mx-2">|</span><a href="/news/warframe-celebrates-halloween-all-month-with-spooky-events-and-rewards-2000123274" vanilla-identifier="news_123274"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/reviews">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev" href="#"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next" href="#"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item-has-children"><a href="/hardware-reviews">Hardware</a>
+<div class="mega-menu-sub">
+<div class="row">
+<div class="col-12">
+<nav class="slider-mega-menu slider-mega-menu--single">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123239_t.jpg?cb=EA4902B73F3366D53E6C27B5740B3C42), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/govee-starpal-pro-table-lamp-review-2000123239';">
+<div class="label label-rating " data-lvl="9" title="MMORPG.com Review Score"><span>9.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123239_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Govee StarPal Pro Table Lamp Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/govee-starpal-pro-table-lamp-review-2000123239">Govee StarPal Pro Table Lamp Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+ </div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-10-04T13:00:00-04:00">Oct 04, 2021 1:00 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/govee-starpal-pro-table-lamp-review-2000123239" vanilla-identifier="news_123239"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123238_t.jpg?cb=FB6EC7BBEAEE2A2E5D6D0E1950DEC10E), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware/golden-ears-mangird-xenns-up-three-types-of-drivers-one-earphone-2000123238';">
+<img src="//images.mmorpg.com/images/heroes/posts/123238_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt=" Golden Ears: Mangird XENNS UP: Three Types of Drivers, One Earphone" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware/golden-ears-mangird-xenns-up-three-types-of-drivers-one-earphone-2000123238"> Golden Ears: Mangird XENNS UP: Three Types of Drivers, One Earphone</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware">Hardware</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-10-03T16:00:00-04:00">Oct 03, 2021 4:00 PM</time></span><span class="mx-2">|</span><a href="/hardware/golden-ears-mangird-xenns-up-three-types-of-drivers-one-earphone-2000123238" vanilla-identifier="news_123238"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123236_t.jpg?cb=53FCBD57617DB85C09E0085959C07698), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/pwnage-ultra-custom-symm-2-gaming-mouse-review-2000123236';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123236_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Pwnage Ultra Custom Symm 2 Gaming Mouse Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/pwnage-ultra-custom-symm-2-gaming-mouse-review-2000123236">Pwnage Ultra Custom Symm 2 Gaming Mouse Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-10-01T16:00:00-04:00">Oct 01, 2021 4:00 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/pwnage-ultra-custom-symm-2-gaming-mouse-review-2000123236" vanilla-identifier="news_123236"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123185_t.jpg?cb=7A84D921A2EA8FF8C4650C8ED893F5AF), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/acer-aopen-43xv1c-p-43-inch-widescreen-monitor-review-2000123185';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123185_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Acer AOPEN 43XV1C P 43-inch Widescreen Monitor Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/acer-aopen-43xv1c-p-43-inch-widescreen-monitor-review-2000123185">Acer AOPEN 43XV1C P 43-inch Widescreen Monitor Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-10-01T16:00:00-04:00">Oct 01, 2021 4:00 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/acer-aopen-43xv1c-p-43-inch-widescreen-monitor-review-2000123185" vanilla-identifier="news_123185"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123209_t.jpg?cb=4598A187181417E4E79F069B99DEF282), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware/how-to-upgrade-your-ps5-ssd-and-how-it-compares-feat-adata-xpg-gammix-s70-blade-2000123209';">
+<img src="//images.mmorpg.com/images/heroes/posts/123209_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="How to Upgrade Your PS5 SSD and How It Compares (Feat. ADATA XPG Gammix S70 Blade)" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware/how-to-upgrade-your-ps5-ssd-and-how-it-compares-feat-adata-xpg-gammix-s70-blade-2000123209">How to Upgrade Your PS5 SSD and How It Compares (Feat. ADATA XPG Gammix S70 Blade)</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware">Hardware</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/ShankTheTank">Poorna Shankar</a> - <span><time datetime="2021-09-30T13:00:00-04:00">Sep 30, 2021 1:00 PM</time></span><span class="mx-2">|</span><a href="/hardware/how-to-upgrade-your-ps5-ssd-and-how-it-compares-feat-adata-xpg-gammix-s70-blade-2000123209" vanilla-identifier="news_123209"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123211_t.jpg?cb=0D3AC5AB60E40BF1E79EE7A9F400497F), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/razer-basilisk-v3-review-2000123211';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123211_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Razer Basilisk V3 Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/razer-basilisk-v3-review-2000123211">Razer Basilisk V3 Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/waffleflopper">Robert Baddeley</a> - <span><time datetime="2021-09-29T16:00:00-04:00">Sep 29, 2021 4:00 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/razer-basilisk-v3-review-2000123211" vanilla-identifier="news_123211"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123191_t.jpg?cb=C8A7DD21F4E767315E475FC7AEB0B2D4), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/razer-wolverine-v2-chroma-controller-review-2000123191';">
+<div class="label label-rating " data-lvl="9" title="MMORPG.com Review Score"><span>9.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123191_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Razer Wolverine V2 Chroma Controller Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/razer-wolverine-v2-chroma-controller-review-2000123191">Razer Wolverine V2 Chroma Controller Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/bigmanfanelli">Jason Fanelli</a> - <span><time datetime="2021-09-28T13:15:00-04:00">Sep 28, 2021 1:15 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/razer-wolverine-v2-chroma-controller-review-2000123191" vanilla-identifier="news_123191"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123188_t.jpg?cb=01CAA29F0C455D717DEFDDCE5460B505), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/zhiyun-tech-weebill-2-gimbal-review-2000123188';">
+<div class="label label-rating " data-lvl="9" title="MMORPG.com Review Score"><span>9.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123188_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Zhiyun-Tech WEEBILL 2 Gimbal Review" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/zhiyun-tech-weebill-2-gimbal-review-2000123188">Zhiyun-Tech WEEBILL 2 Gimbal Review</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-09-27T22:33:00-04:00">Sep 27, 2021 10:33 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/zhiyun-tech-weebill-2-gimbal-review-2000123188" vanilla-identifier="news_123188"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123170_t.jpg?cb=46388AF1E0A2255E413C9579C3C29591), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/512-audio-skylight-studio-condenser-microphone-accesories-review-pt-2-2000123170';">
+<div class="label label-rating " data-lvl="8" title="MMORPG.com Review Score"><span>8.0</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123170_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="512 Audio Skylight Studio Condenser Microphone / Accesories Review (Pt. 2)" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/512-audio-skylight-studio-condenser-microphone-accesories-review-pt-2-2000123170">512 Audio Skylight Studio Condenser Microphone / Accesories Review (Pt. 2)</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-09-26T18:19:00-04:00">Sep 26, 2021 6:19 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/512-audio-skylight-studio-condenser-microphone-accesories-review-pt-2-2000123170" vanilla-identifier="news_123170"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url(//images.mmorpg.com/images/heroes/posts/123169_t.jpg?cb=08049B0096C14C8312B33E26D9C07EDC), url(//images.mmorpg.com/images/heroes/hero_default_1_t.jpg); max-width:255px;" onclick="window.location='/hardware-reviews/512-audio-limelight-dynamic-broadcast-microphone-review-pt-1-2000123169';">
+<div class="label label-rating " data-lvl="7" title="MMORPG.com Review Score"><span>7.5</span></div>
+<img src="//images.mmorpg.com/images/heroes/posts/123169_t.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="512 Audio Limelight Dynamic Broadcast Microphone Review (Pt. 1)" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/hardware-reviews/512-audio-limelight-dynamic-broadcast-microphone-review-pt-1-2000123169">512 Audio Limelight Dynamic Broadcast Microphone Review (Pt. 1)</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/hardware-reviews">Hardware Reviews</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/GameByNight">Christopher Coke</a> - <span><time datetime="2021-09-26T18:18:00-04:00">Sep 26, 2021 6:18 PM</time></span><span class="mx-2">|</span><a href="/hardware-reviews/512-audio-limelight-dynamic-broadcast-microphone-review-pt-1-2000123169" vanilla-identifier="news_123169"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/reviews">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev" href="#"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next" href="#"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item-has-children"><a href="/videos">Videos</a>
+<div class="mega-menu-sub">
+<div class="row">
+<div class="col-12">
+<nav class="slider-mega-menu slider-mega-menu--single">
+<div class="slider-mega-menu swiper-container slider-mega-menu_active">
+<div class="swiper-wrapper">
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/dksEjd_iGaY/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/guild-wars-2-end-of-dragons-new-location-revealed-2000123263';"><img src="https://img.youtube.com/vi/dksEjd_iGaY/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Guild Wars 2 End of Dragons New Location Revealed" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/guild-wars-2-end-of-dragons-new-location-revealed-2000123263">Guild Wars 2 End of Dragons New Location Revealed</a></h3>
+</div> 
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/guild-wars-2">Guild Wars 2</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/ShankTheTank">Poorna Shankar</a> - <span><time datetime="2021-10-06T09:05:00-04:00">Oct 06, 2021 9:05 AM</time></span><span class="mx-2">|</span><a href="/videos/guild-wars-2-end-of-dragons-new-location-revealed-2000123263" vanilla-identifier="videos_123263"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/WEZHpOVWf9A/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/aion-europe-receives-update-80-raises-level-cap-and-brings-new-legendary-transformation-2000123262';"><img src="https://img.youtube.com/vi/WEZHpOVWf9A/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="AION Europe Receives Update 8.0,  Raises Level Cap and Brings New Legendary Transformation" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/aion-europe-receives-update-80-raises-level-cap-and-brings-new-legendary-transformation-2000123262">AION Europe Receives Update 8.0, Raises Level Cap and Brings New Legendary Transformation</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/aion">Aion</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/ShankTheTank">Poorna Shankar</a> - <span><time datetime="2021-10-06T08:05:00-04:00">Oct 06, 2021 8:05 AM</time></span><span class="mx-2">|</span><a href="/videos/aion-europe-receives-update-80-raises-level-cap-and-brings-new-legendary-transformation-2000123262" vanilla-identifier="videos_123262"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/5_uQINJ-v5Y/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/a-tear-in-the-weave-neverwinters-first-milestone-in-battle-pass-available-today-on-pc-and-consoles-2000123223';"><img src="https://img.youtube.com/vi/5_uQINJ-v5Y/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="A Tear in the Weave, Neverwinter's First Milestone in Battle Pass, Available Today on PC and Consoles" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/a-tear-in-the-weave-neverwinters-first-milestone-in-battle-pass-available-today-on-pc-and-consoles-2000123223">A Tear in the Weave, Neverwinter's First Milestone in Battle Pass, Available Today on PC and Consoles</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/neverwinter">Neverwinter</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-10-01T12:01:00-04:00">Oct 01, 2021 12:01 PM</time></span><span class="mx-2">|</span><a href="/videos/a-tear-in-the-weave-neverwinters-first-milestone-in-battle-pass-available-today-on-pc-and-consoles-2000123223" vanilla-identifier="videos_123223"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/5PAXQyo0W9k/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/new-world-5-ways-to-get-started-in-aeternum-2000123181';"><img src="https://img.youtube.com/vi/5PAXQyo0W9k/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="New World: 5 Ways To Get Started In Aeternum" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/new-world-5-ways-to-get-started-in-aeternum-2000123181">New World: 5 Ways To Get Started In Aeternum</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/new-world">New World</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-28T11:05:00-04:00">Sep 28, 2021 11:05 AM</time></span><span class="mx-2">|</span><a href="/videos/new-world-5-ways-to-get-started-in-aeternum-2000123181" vanilla-identifier="videos_123181"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/xTNrEqmjqmw/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/eve-online-breaks-down-how-to-work-its-player-market-in-latest-video-2000123182';"><img src="https://img.youtube.com/vi/xTNrEqmjqmw/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="EVE Online Breaks Down How To Work Its Player Market In Latest Video" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/eve-online-breaks-down-how-to-work-its-player-market-in-latest-video-2000123182">EVE Online Breaks Down How To Work Its Player Market In Latest Video</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/eve-online">EVE Online</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-27T17:00:00-04:00">Sep 27, 2021 5:00 PM</time></span><span class="mx-2">|</span><a href="/videos/eve-online-breaks-down-how-to-work-its-player-market-in-latest-video-2000123182" vanilla-identifier="videos_123182"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/pTEab_xGLAY/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/new-worlds-soundtrack-inspired-by-game-of-thrones-new-details-in-extensive-video-2000123128';"><img src="https://img.youtube.com/vi/pTEab_xGLAY/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="New World's Soundtrack Inspired By Game Of Thrones, New Details In Extensive Video" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/new-worlds-soundtrack-inspired-by-game-of-thrones-new-details-in-extensive-video-2000123128">New World's Soundtrack Inspired By Game Of Thrones, New Details In Extensive Video</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/new-world">New World</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-21T15:15:00-04:00">Sep 21, 2021 3:15 PM</time></span><span class="mx-2">|</span><a href="/videos/new-worlds-soundtrack-inspired-by-game-of-thrones-new-details-in-extensive-video-2000123128" vanilla-identifier="videos_123128"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/L3AXa45mde8/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/ffxiv-job-actions-trailer-released-during-letter-from-the-producer-live-job-actions-detailed-2000123109';"><img src="https://img.youtube.com/vi/L3AXa45mde8/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="FFXIV Job Actions Trailer Released During Letter from the Producer Live - Job Actions Detailed" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/ffxiv-job-actions-trailer-released-during-letter-from-the-producer-live-job-actions-detailed-2000123109">FFXIV Job Actions Trailer Released During Letter from the Producer Live - Job Actions Detailed</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/final-fantasy-xiv">Final Fantasy XIV</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/StevenWeber">Steven Weber</a> - <span><time datetime="2021-09-19T15:00:00-04:00">Sep 19, 2021 3:00 PM</time></span><span class="mx-2">|</span><a href="/videos/ffxiv-job-actions-trailer-released-during-letter-from-the-producer-live-job-actions-detailed-2000123109" vanilla-identifier="videos_123109"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/Ryc30aghq04/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/uncharted-waters-online-releases-their-first-official-trailer-2000123105';"><img src="https://img.youtube.com/vi/Ryc30aghq04/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Uncharted Waters Online Releases Their 'First Official Trailer'" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/uncharted-waters-online-releases-their-first-official-trailer-2000123105">Uncharted Waters Online Releases Their 'First Official Trailer'</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/uncharted-waters-online">Uncharted Waters Online</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/StevenWeber">Steven Weber</a> - <span><time datetime="2021-09-18T18:30:00-04:00">Sep 18, 2021 6:30 PM</time></span><span class="mx-2">|</span><a href="/videos/uncharted-waters-online-releases-their-first-official-trailer-2000123105" vanilla-identifier="videos_123105"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/G-BSit6Slt4/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/mechwarrior-5-mercenaries-next-expansion-legend-of-the-kestrel-lancers-coming-september-23rd-2000123090';"><img src="https://img.youtube.com/vi/G-BSit6Slt4/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Mechwarrior 5: Mercenaries' Next Expansion, Legend of the Kestrel Lancers, Coming September 23rd" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/mechwarrior-5-mercenaries-next-expansion-legend-of-the-kestrel-lancers-coming-september-23rd-2000123090">Mechwarrior 5: Mercenaries' Next Expansion, Legend of the Kestrel Lancers, Coming September 23rd</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-16T17:00:00-04:00">Sep 16, 2021 5:00 PM</time></span><span class="mx-2">|</span><a href="/videos/mechwarrior-5-mercenaries-next-expansion-legend-of-the-kestrel-lancers-coming-september-23rd-2000123090" vanilla-identifier="videos_123090"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__item swiper-slide">
+<div class="item item--size_md ">
+<figure style="cursor: pointer; background-image: url('https://img.youtube.com/vi/eAIEDm4sUxA/hqdefault.jpg'); max-width:255px;" onclick="window.location='/videos/diablo-ii-resurrected-cinematic-trailer-drops-blizzard-talks-bringing-classic-arpg-to-console-2000123050';"><img src="https://img.youtube.com/vi/eAIEDm4sUxA/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1_t.jpg';" alt="Diablo II Resurrected Cinematic Trailer Drops; Blizzard Talks Bringing Classic ARPG To Console" />
+</figure>
+<div class="item__content">
+<div class="item__content__top">
+<div class="item__content__title">
+<h3><a href="/videos/diablo-ii-resurrected-cinematic-trailer-drops-blizzard-talks-bringing-classic-arpg-to-console-2000123050">Diablo II Resurrected Cinematic Trailer Drops; Blizzard Talks Bringing Classic ARPG To Console</a></h3>
+</div>
+<div class="item__tags mb-4">
+<div class="row gutter-sm">
+<div class="col-auto"><a class="chip blue darken-1" href="/diablo-ii-resurrected">Diablo II: Resurrected</a></div>
+<div class="col-auto"><a class="chip green darken-2" href="/videos">Videos</a></div>
+</div>
+</div>
+</div>
+<div class="item__content__footer"><a href="/profile/lotrlore">Joseph Bradford</a> - <span><time datetime="2021-09-13T17:30:00-04:00">Sep 13, 2021 5:30 PM</time></span><span class="mx-2">|</span><a href="/videos/diablo-ii-resurrected-cinematic-trailer-drops-blizzard-talks-bringing-classic-arpg-to-console-2000123050" vanilla-identifier="videos_123050"><i class="far fa-comments mr-2"></i>0</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="slider-mega-menu__buttons tabs__nav__arrows"><a class="tabs__nav__link" href="/reviews">view more </a><a class="tabs__nav__arrow tabs__nav__arrow--prev" href="#"><i class="fas fa-chevron-left"></i></a><a class="tabs__nav__arrow tabs__nav__arrow--next" href="#"><i class="fas fa-chevron-right"></i></a></div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item-has-children menu menu-simple-dropdown"><a href="https://forums.mmorpg.com/">Community</a>
+<ul class="sub-menu" style="width: auto;">
+<li style="white-space: nowrap;"><a href="/streams">Live Streams</a></li>
+<li style="white-space: nowrap;"><a href="https://forums.mmorpg.com/">Forums Home</a></li>
+<li style="white-space: nowrap;"><a href="https://forums.mmorpg.com//discussions">Recent Discussions</a></li>
+<li style="white-space: nowrap;"><a href="https://forums.mmorpg.com//categories/the-pub-at-mmorpg-com">MMORPG Discussion</a></li>
+<li style="white-space: nowrap;"><a href="https://forums.mmorpg.com//categories/news-features-discussion">News & Features Discussion</a></li>
+<li style="white-space: nowrap;"><a href="https://forums.mmorpg.com//categories/hardware">Hardware Discussion</a></li>
+</ul>
+</li>
+</ul>
+<div class="user-staff">
+<div class="mr-5">
+<a class="user-staff__login" href="/login">
+<i class="fas fa-sign-in-alt"></i><span>Login</span>
+</a>
+<span class="mx-3">|</span>
+<a class="user-staff__register" href="/register">
+<i class="fas fa-user-plus"></i><span>Register</span>
+</a>
+</div>
+<a class="btn user-staff__btn red darken-1 text-uppercase" style="font-weight: 500 !important;" href="/play-now">Play Now</a>
+</div>
+</div>
+</nav>
+</header>
+<div class="header-bottom d-none d-lg-block" style="margin-bottom: 5px !important;">
+<div class="row">
+<div class="col-12 col-lg-5 col-xl-4 d-none d-lg-block"><a class="home-url text-align_center py-4" href="/"><img src="//images.mmorpg.com/v2/img/logo.svg" alt="Logo" /></a></div>
+<div class="col-12 col-lg-7 col-xl-8">
+<div id="B721F240-EDF5-503A-8291ACA224A56A9E" class="">
+
+<div id='mmorpg_horizontal_atf' style='max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84933'></div>
+</div>
+</div>
+</div>
+</div>
+<div class="container container_bgc px-0" style="">
+<div class="d-lg-none banner banner--mini">
+<div id="B721F242-9449-67D7-5AA69E0FF1C167DB" class="">
+
+<div id='mmorpg_vertical_atf_mobile' style='min-height:250px;max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84936'></div>
+</div>
+</div>
+<div class="row" style="margin-left: 0px !important; margin-right: 0px !important; ">
+<div class="col-xs-12 col-lg-8">
+
+<div class="div-84948"></div>
+<main class="single-page single-page_blue">
+<section class="game-info">
+<div class="game-info__top">
+<div class="game-info__top-img"><a href="/eve-echoes" title="EVE Echoes"><img src="//images.mmorpg.com/images/games/logos/32/1670_32.png?cb=EFB89BFB998C42E99C7B827A89C344A5" onerror="this.src='//images.mmorpg.com/v2/img/default_logo.png';" width="110" height="110" alt="EVE Echoes Logo" /></a></div>
+<div class="game-info__top-title">
+<div class="game-info__top-title-wrap">
+ <h2>EVE Echoes</h2>
+<p title="Publisher">CCP Games | <a href="https://www.eveechoes.com/" title="EVE Echoes Official Site">Official Site</a></p>
+<div class="row gutter-sm">
+</div>
+</div>
+<div class="label label--size_lg label-rating label-rating--blue" data-lvl="8" title="MMORPG.com Review Score"><span>8.0</span></div>
+</div>
+</div>
+</section>
+<div class="d-block d-lg-none mt-5">
+<a name="user-rating"></a>
+<div class="mb-5">
+<section class="user-rating rating-widget">
+<div class="user-rating__head">
+<div class="label label--size_lg label-rating" data-lvl="0" title="20 Votes Required to Calculate Rating"><span>0.0</span></div>
+<div class="user-rating__head-title">
+<h3>Average User Rating</h3>
+<p><span class="votes">6</span>
+Votes
+</p>
+</div>
+</div>
+<a class="btn btn--fluid btn--h_sm-2 text-uppercase mb-0" href="/login">Login to cast your rating!</a>
+</section>
+</div>
+</div>
+<script>
+            $(function() {
+                if(!isMobileDevice()) {
+                    $('.tabs__switch').unbind('click');
+                }
+            });
+        </script>
+<div class="tile-header tile-header--rotation mt-40 tabs tabs--with_arrows">
+<div class="swiper-container tile-slider tab-slider--with_arrows tab-slider--rwa">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<a class="tabs__switch" role="listitem" href="/eve-echoes">Overview</a>
+</div>
+<div class="swiper-slide"><a class="tabs__switch" role="listitem" href="/eve-echoes/articles">Articles</a></div> <div class="swiper-slide"><a class="tabs__switch" role="listitem" href="/eve-echoes/reviews">Reviews</a></div> <div class="swiper-slide"><a class="tabs__switch active" role="listitem" href="/eve-echoes/videos">Videos</a></div> <div class="swiper-slide"><a class="tabs__switch" role="listitem" href="/eve-echoes/screens">Screenshots</a></div>
+<div class="swiper-slide">
+<a class="tabs__switch" role="listitem" href="https://forums.mmorpg.com/categories/eve-echoes">Forums</a>
+</div>
+</div>
+<div class=" d-lg-none">
+<div class="tile-slider-button tile-slider-button-prev"><i class="fas fa-arrow-circle-left"></i></div>
+<div class="tile-slider-button tile-slider-button-next"><i class="fas fa-arrow-circle-right"></i></div>
+</div>
+</div>
+</div>
+<div class="single-page single-page_blue">
+<div class="row">
+<div class="col-12"><a class="btn btn--extra_small btn--h_xs btn--fluid text-uppercase mb-20" href="/eve-echoes/videos">back to videos</a></div>
+</div>
+<article>
+<div class="row gutter-sm mb-3">
+<div class="col-auto"><a class="chip chip--md blue darken-1" href="/eve-echoes" title="EVE Echoes Information">EVE Echoes</a></div>
+</div>
+<header style="z-index:0 !important;"><h1>EVE Echoes Releases On iOS and Android Today</h1>
+<h2 style="font-style: italic;color: #0099ff;font-weight:500;">New Eden in the palm of your hand</h2>
+<p class="text-author" style="font-size:1.5em;"><span><i class="far fa-id-card-alt"></i> </span><a href="/profile/lotrlore">Joseph Bradford</a><span> <i class="far fa-file-edit ml-3"></i> Updated: <time datetime="2020-08-13T18:12:46-04:00">Aug 13, 2020 6:12 PM</time> <i class="far fa-file-alt ml-3"></i> Posted: <time datetime="2020-08-13T17:58:00-04:00">Aug 13, 2020 5:58 PM</time><br /><i class="far fa-folders"></i> Category: </span><a href="/eve-echoes/videos">Videos</a><span> </span><a href="#comments" class="ml-3" vanilla-identifier="videos_119099"><i class="far fa-comments mr-2"></i>0</a></p>
+</header>
+<div class="sharethis-inline-share-buttons" style="min-height: 32px;"></div>
+<section>
+<div class="yt-player">
+<figure style="background-image: url('https://img.youtube.com/vi/X9VcYInR65Y/hqdefault.jpg')">
+<img src="https://img.youtube.com/vi/X9VcYInR65Y/hqdefault.jpg" onerror="this.src='//images.mmorpg.com/images/heroes/hero_default_1.jpg';" alt="EVE Echoes Releases On iOS and Android Today" style="display:none;"></img>
+<div class="yt-player__playbtn"><i class="fab fa-youtube"></i></div>
+</figure><iframe src="https://www.youtube.com/embed/X9VcYInR65Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="post_content"><p>NetEase Games and CCP Games have launched <a href="https://www.mmorpg.com/eve-echoes" target="_blank" rel="noopener"><em>EVE Echoes</em></a>, a moble version of the Icelandic developer's popular sandbox space-MMO, <em>EVE Online</em>.&nbsp;<em>EVE Echoes</em> puts the whole of New Eden in the palm of your hand as it brings as close to the full&nbsp;<em>EVE Online</em> experience to<a href="https://apps.apple.com/US/app/id1446384690" target="_blank" rel="noopener"> iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.netease.eve.en&amp;hl=en&amp;utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=echoeslaunch&amp;utm_medium=Email&amp;utm_source=ExactTarget&amp;utm_campaign=" target="_blank" rel="noopener">Android</a> devices.</p>
+<p><div id="B721F1F8-0617-A909-280E033CD1262FCA" class="">
+
+<div id='mmorpg_desktop_list_1' style='min-height:250px;max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84935-desktop'></div>
+</div> </p>
+<p><em>EVE Echoes</em> takes the sandbox gameplay and universe that has made&nbsp;<em>EVE Online</em> a success over the last decade-plus and brings it to the mobile market. Per a press release from CCP Games:</p>
+<p>"<em><a href="https://www.eveechoes.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://click.email.ccpgames.com/?qs%3Df34122242408ce523acc408964f786b1a51ef27777b4ceceba8747eaf41973d434b09c869cfa2aba9087088baa181f3243bda9500df1f56a&amp;source=gmail&amp;ust=1597442391155000&amp;usg=AFQjCNEhTOwpD5GCoJoZfFuWiFMy4VTRZA">EVE Echoes</a>&nbsp;</em>is a next-gen sandbox MMO game for mobile devices based on the award-winning sci-fi spacefaring MMORPG&nbsp;<a href="https://www.eveonline.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://click.email.ccpgames.com/?qs%3Df34122242408ce5277bc12f2f416a81654ff8628eb08ebfc78418aeb7e2de984b766c48f47ccf89de1e543045ccaf32f245fa3d972f26d3d&amp;source=gmail&amp;ust=1597442391155000&amp;usg=AFQjCNGrTZxgVwyPm_uxQ0rnJo5IVmfttg"><em>E</em><em>VE</em><em> Online</em></a>. Featuring a vast persistent universe of over 8,000+ solar systems, players are free to choose their own path from countless options, experiencing space exploration, immense PvP and PvE battles, mining, trading, industry, and a sophisticated player economy in the multiplayer sandbox of New Eden."</p>
+<p>NetEase and CCP are working together on the development of&nbsp;<em>EVE Echoes</em> and players in New Eden will see the team support the mobile game with updates as the months go on, including bringing larger hulls to the MMO, as well as features like Sovereignty.&nbsp;</p>
+<p>We had the chance to <a href="https://www.mmorpg.com/eve-online/editorials/eve-echoes-impressions-from-eve-vegas-2019-2000108842" target="_blank" rel="noopener">hands on with&nbsp;<em>EVE Echoes</em> during&nbsp;<em>EVE&nbsp;</em>Vegas 2019,</a> and it was pretty cool how the team at NetEase and CCP were able to take the&nbsp;<em>EVE</em> experience and make it work for the mobile market. While I got blown up by fellow journalist Brendan Drain from MassivelyOP, it was a fun experience regardless.</p>
+<p>We're currently working on our&nbsp;<em>EVE Echoes</em> review and will have our first review in progress read by tomorrow, so definitely stay tuned.</p>
+</div>
+</section>
+<hr />
+<section>
+<article class="author-info">
+<div class="row">
+<div class="col-sm-3 author-info__img-wrap"><img src="//images.mmorpg.com/images/avatars/2788481_11960017_10153118758011989_3994609160068677035_n.jpg" alt="lotrlore" style="width:160px;height:160px;" /></div>
+<div class="col-sm-9 author-info__content-wrap">
+<h3>Joseph Bradford</h3>
+<p>Joseph has been writing or podcasting about games in some form since about 2012. Having written for multiple major outlets such as IGN, Playboy, and more, Joseph started writing for MMORPG in 2015. When he's not writing or talking about games, you can typically find him hanging out with his 10-year old or playing Magic: The Gathering with his family. Also, don't get him started on why Balrogs *don't* have wings. You can find him on Twitter @LotrLore</p>
+<div class="row gutter-sm">
+<div class="col-auto"><a href="https://twitter.com/LotrLore" target="_blank" rel="noopener" aria-label="Twitter profile"><i class="fab fa-twitter"></i></a></div>
+</div>
+</div>
+</div>
+</article></section>
+</article>
+<hr />
+<div class="tabs   tabs--bordered tabs--theme_blue mb-5">
+<div class="tabs__panel mb-20">
+<div class="tabs__nav__list" role="list"><a class="tabs__switch active" role="listitem" href="javascript:;">You May Also Like</a></div>
+</div>
+<div class="tabs__content" role="list">
+<div class="c">
+<div class="c-list">
+<div class="row">
+<div class="col-12">
+<div id="rc-widget-3e83ee" data-rc-widget data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="144794"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="comments-section">
+<div class="tabs   tabs--bordered tabs--theme_blue mb-5">
+<div class="tabs__panel mb-20">
+<div class="tabs__nav__list" role="list"><a class="tabs__switch active" role="listitem" href="javascript:;">Comments</a>
+</div>
+</div>
+<div id="vanilla-comments"></div>
+</section>
+</div>
+</main>
+<div class="mb-5 mt-5 d-none d-lg-block">
+<div id="zergnet-widget-86131"></div>
+<script language="javascript" type="text/javascript">
+        (function() {
+            var zergnet = document.createElement('script');
+            zergnet.type = 'text/javascript'; zergnet.async = true;
+            zergnet.src = (document.location.protocol == "https:" ? "https:" : "http:") + '//www.zergnet.com/zerg.js?id=86131';
+            var znscr = document.getElementsByTagName('script')[0];
+            znscr.parentNode.insertBefore(zergnet, znscr);
+        })();
+    </script>
+</div>
+</div>
+<div class="col-xs-12 col-lg-4 d-lg-block">
+<sidebar class="sidebar">
+<a name="user-rating"></a>
+<div class="mb-5">
+<section class="user-rating rating-widget">
+<div class="user-rating__head">
+<div class="label label--size_lg label-rating" data-lvl="0" title="20 Votes Required to Calculate Rating"><span>0.0</span></div>
+<div class="user-rating__head-title">
+<h3>Average User Rating</h3>
+<p><span class="votes">6</span>
+Votes
+</p>
+</div>
+</div>
+<a class="btn btn--fluid btn--h_sm-2 text-uppercase mb-0" href="/login">Login to cast your rating!</a>
+</section>
+</div>
+<div class="mb-5 banner banner--mini">
+<div id="B721F253-045E-9A93-3708C5A6B9AB7838" class="">
+
+<div id='mmorpg_vertical_atf' style='min-height:250px;max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84934'></div>
+</div>
+</div>
+<div class="mb-5">
+<div style="min-height:191px;">
+
+<div id="div-84407"></div>
+</div>
+</div>
+<script type="text/javascript">
+            $(function () {
+            $(".gfa_link").click(function() {
+                    window.location='https://forums.mmorpg.com//categories/eve-echoes';
+            });
+        });
+        </script>
+<div class="tabs   tabs--bordered tabs--fill_last tabs--theme_blue mb-5">
+<div class="tabs__panel mb-5 gfa_link" style="cursor: pointer;">
+<div class="tabs__nav__list" role="list"><a class="tabs__switch active" role="listitem" href="javascript:void(0);">EVE Echoes Forums</a>
+</div>
+</div>
+<div class="tabs__content" role="list">
+<div class="tabs__content__element active" role="listitem">
+<div class="list list--transparent three-line" role="list">
+<div class="list__item" role="listitem">
+<div class="list__tile mb-25" href="https://forums.mmorpg.com/discussion/492660/echoes-from-the-front-news-and-state-of-game-for-eve-echoes">
+<div class="list__tile__avatar list__tile__avatar--tile" style="background-image: url('//w6.vanillicon.com/v2/625785d857e04e654d0d8d76f9d7bd2c.svg'), url(//images.mmorpg.com/v2/img/profile_noavatar.png);" title="Posted By vqly"></div>
+<div class="list__tile__content">
+<a class="list__tile__subtitle" href="https://forums.mmorpg.com/discussion/492660/echoes-from-the-front-news-and-state-of-game-for-eve-echoes">Echoes from the Front - News and state of game for Eve Echoes</a>
+<div class="row gutter-sm justify-content-start">
+<div class="col-auto">
+<a class="chip" href="https://forums.mmorpg.com//categories/eve-echoes">EVE Echoes</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="list__item" role="listitem">
+<div class="list__tile mb-25" href="https://forums.mmorpg.com/discussion/492411/eve-echoes-indomitable-sovereignty-expansion-and-new-players-catch-up-event">
+<div class="list__tile__avatar list__tile__avatar--tile" style="background-image: url('//w6.vanillicon.com/v2/625785d857e04e654d0d8d76f9d7bd2c.svg'), url(//images.mmorpg.com/v2/img/profile_noavatar.png);" title="Posted By vqly"></div>
+<div class="list__tile__content">
+<a class="list__tile__subtitle" href="https://forums.mmorpg.com/discussion/492411/eve-echoes-indomitable-sovereignty-expansion-and-new-players-catch-up-event">EVE Echoes: Indomitable - Sovereignty Expansion and New Players Catch Up Event</a>
+<div class="row gutter-sm justify-content-start">
+<div class="col-auto">
+<a class="chip" href="https://forums.mmorpg.com//categories/eve-echoes">EVE Echoes</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="list__item" role="listitem">
+<div class="list__tile mb-25" href="https://forums.mmorpg.com/discussion/492384/enjoying-eve-echoes-a-semi-beginner-guide">
+<div class="list__tile__avatar list__tile__avatar--tile" style="background-image: url('//w6.vanillicon.com/v2/625785d857e04e654d0d8d76f9d7bd2c.svg'), url(//images.mmorpg.com/v2/img/profile_noavatar.png);" title="Posted By vqly"></div>
+<div class="list__tile__content">
+<a class="list__tile__subtitle" href="https://forums.mmorpg.com/discussion/492384/enjoying-eve-echoes-a-semi-beginner-guide">Enjoying EVE Echoes - A semi-beginner guide</a>
+<div class="row gutter-sm justify-content-start">
+<div class="col-auto">
+<a class="chip" href="https://forums.mmorpg.com//categories/eve-echoes">EVE Echoes</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text-align_center mt-20"><a class="btn btn--round btn--small text-uppercase darken-2" href="https://forums.mmorpg.com//categories/eve-echoes">see more posts</a></div>
+</div>
+</div>
+</div>
+<div class="tabs tabs--bordered tabs--fill_last tabs--theme_red mb-5">
+<div class="tabs__panel mb-3">
+<div class="tabs__nav__list" role="list"><a class="tabs__switch active" role="listitem" href="javascript:;">play games now!</a>
+</div>
+</div>
+<div class="tabs__content" role="list">
+<div class="tabs__content__element active" role="listitem">
+<div class="list list--rounded" role="list">
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/promotedLinkClick.cfm?id=555&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/473_32.png?cb=BD825DE32085A5AF202CA6DF9ECC46F7')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Guild Wars 2<img src='https://ad.doubleclick.net/ddm/trackimp/N880306.124002MMORPG.COM/B26382204.311721507;dc_trk_aid=504261560;dc_trk_cid=154976606;ord=1633683308003;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=?' onerror="this.src='//images.mmorpg.com/images/spacer.gif';" width='0' height='0' /></div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/promotedLinkClick.cfm?id=552&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1455_32.png?cb=E544BD9AD7433DBC0F72DB409F4844C4')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">New World<img src='https://server.cpmstar.com/view.aspx?poolid=85093&gif=1&rnd=RANDOM' onerror="this.src='//images.mmorpg.com/images/spacer.gif';" width='0' height='0' /></div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/promotedLinkClick.cfm?id=550&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1511_32.png?cb=EE9E20342E62F3A308ACD258CA36A4D5')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Elyon</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=1714&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1714_32.png?cb=F0E7A8C6801FAAF968C8B236A26D41EB')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Genshin Impact</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=1661&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1661_32.png?cb=66A78D19126E3C6457C3F0F05651B764')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">League of Angels - Heaven's Fury</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=1617&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1617_32.png?cb=A717DFEAF9FD15638BD324E440018E7E')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Dark Knight</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=1669&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1669_32.png?cb=D9A589A26AD0C246E53603C61E3269CA')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Enlisted</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=498&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/498_32.png?cb=EDA1DD8E47E7B0C297269B3EEA4EA847')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Blade & Soul</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=1787&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/1787_32.png?cb=E1A51B3AA3198EF14986023BE2A46185')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Left to Survive</div>
+</div></a></div>
+<div class="list__item" role="listtile"><a class="list__tile mb-3" href="/out/signupLinkClick.cfm?gameId=958&src=game_videos_playnow_box" rel="nofollow">
+<div class="list__tile__avatar list__tile__avatar--bordered" style="background-image: url('//images.mmorpg.com/images/games/logos/32/958_32.png?cb=1DFBD6DED7E2F75164A8D3CB8D03C5B7')"></div>
+<div class="list__tile__content">
+<div class="list__tile__title">Albion Online</div>
+</div></a></div>
+</div>
+<div class="text-align_center mt-20"><a class="btn btn--round btn--small text-uppercase red darken-1" href="/play-now">more offers</a></div>
+</div>
+</div>
+</div>
+<div class="mb-5 banner banner--mini" style="position: -webkit-sticky;position: sticky;top: 62px;">
+<div id="B721F26D-BE92-7757-BA9D295BD8A314A6" class="">
+
+<div id='mmorpg_vertical_btf' style='max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84932'></div>
+</div>
+</div>
+</sidebar>
+</div>
+</div>
+<div class="d-block d-lg-none banner banner--mini mb-5">
+<div id="B721F26F-A348-7F2C-2BC5FD0FCF020A68" class="">
+
+<div id='mmorpg_vertical_btf_mobile' style='max-width:100%; margin:0 auto; text-align:center; overflow: hidden;' class='div-84938'></div>
+</div>
+</div>
+</div></div>
+<footer class="footer-container footer">
+<div class="footer-a-container">
+<div class="footer-wrapper container">
+<div class="row gutter-lg text-align_center text-sm-align_left">
+<div class="col-12 col-sm-6 col-md-4 col-lg-3">
+<h3 class="footer__title">Games</h3>
+<ul class="footer__list">
+<li><a href="/games-list/show/free">FREE GAMES</a></li>
+<li><a href="/games-list/show/browser">BROWSER GAMES</a></li>
+<li><a href="/games-list/show/mobile">MOBILE GAMES</a></li>
+<li><a href="/games-list/show/testing">GAMES IN ALPHA & BETA TESTING</a></li>
+<li><a href="/games-list">ALL GAMES</a></li>
+</ul>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3">
+<h3 class="footer__title">Articles</h3>
+<ul class="footer__list">
+<li><a href="/news">Game News</a></li>
+<li><a href="/reviews">Game Reviews</a></li>
+<li><a href="/videos">Game Videos</a></li>
+<li><a href="/hardware-reviews">Hardware Reviews</a></li>
+<li><a href="/columns">Columns</a></li>
+</ul>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3">
+<h3 class="footer__title">Community</h3>
+<ul class="footer__list">
+<li><a href="https://forums.mmorpg.com">MMORPG.com Forums</a></li>
+<li><a href="https://forums.mmorpg.com/discussions">Recent Discussions</a></li>
+<li><a href="https://forums.mmorpg.com/categories/the-pub-at-mmorpg-com">MMORPG Discussions</a></li>
+<li><a href="https://forums.mmorpg.com/categories/news-features-discussion">News & Features Discussion</a></li>
+<li><a href="https://forums.mmorpg.com/categories/hardware">Hardware Discussions</a></li>
+</ul>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 footer-soc-web"><a class="home-url" href="#"><img src="//images.mmorpg.com/v2/img/logo.svg" alt="Logo" /></a>
+<ul class="social-web">
+<li><a class="social-web__facebook" href="https://www.facebook.com/MMORPGcom" title="MMORPG.com Facebook Page" target="_blank" rel="noopener">facebook</a></li>
+<li><a class="social-web__twitter" href="https://www.twitter.com/MMORPGcom" title="MMORPG.com Twitter" target="_blank" rel="noopener">twitter</a></li>
+<li><a class="social-web__youtube" href="https://www.youtube.com/MMORPGcom" title="MMORPG.com YouTube Channel" target="_blank" rel="noopener">youtube</a></li>
+<li><a class="social-web__twitch" href="http://www.twitch.tv/MMORPGcom" title="MMORPG.com Twitch Streams" target="_blank" rel="noopener">twitch</a></li>
+<li><a class="social-web__discord" href="http://discord.gg/MMORPGcom" title="MMORPG.com Discord Server" target="_blank" rel="noopener">discord</a></li>
+</ul><a class="btn" href="/play-now">Play Games Now</a>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-a-container-network text-align_center">
+<div class="footer-wrapper container">
+<div class="row">
+<div class="col-12 site-logo">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
+<path class="st0" d="M71.07,36.61c-0.98-6.69-3.84-14.28-8.48-19.17c-4.29-4.54-9.72-7.91-15.78-9.48c-5-1.26-10.4-1.39-15.48-0.33
+						c0.48-3.71,2.81-4.89,5.53-7.24c-3.21,1.29-6.33,2.8-8.99,5.02c-1.82,1.49-3.07,2.19-3.9,4.41c-0.2,0.43-0.23,1.01-0.71,1.21
+						c-6.66,3.48-12.45,10.33-15.45,17.22c-2.17,4.95-3.05,10.4-2.65,15.77c0.4,5.78,2.4,11.43,5.68,16.23
+						c3.74,5.48,9.14,9.79,15.29,12.22c5.7,2.25,12.04,2.88,18.07,1.79c4.95-0.86,9.67-2.88,13.73-5.83C64,64.07,68.49,57.66,70.46,50.46
+						C71.72,46.02,71.75,41.22,71.07,36.61z M36.36,24.59c-1.06-3.18-2.83-5.83-4.09-8.83c-0.56-1.34-0.86-1.67-0.96-3.13
+						c6.92-2.12,14.66-0.96,20.7,3.05c3.96,2.62,7.17,5.4,9.04,9.79c1.97,4.54,2.5,9.67,1.54,14.51c-1.41,7.34-6.33,13.83-13,17.19
+						c-3.03,1.59-6.31,2.35-9.69,2.7c4.14-1.16,8-4.11,9.82-8.05c0.96-2.07,1.29-4.64,0.45-6.79c-0.68-1.79-1.92-3-3.31-4.27
+						c1.51,2.25,1.94,5.25,0.73,7.72c-0.71,1.29-1.92,2.32-3.21,3c-1.34,0.66-2.93,0.88-4.27,0.1c-0.86-0.5-1.82-1.34-2.02-2.35
+						c-0.23-1.11,0.4-2.17,1.03-3.03c1.56-2.09,3.99-3.99,5.35-6.31c1.11-1.72,1.03-4.11,0.45-6.01c-0.66-2.02-2.22-3.36-4.09-4.24
+						c0.56,0.5,1.09,0.98,1.51,1.62c0.96,1.46,1.09,3.46,0.25,5c-0.63,1.24-1.72,2.3-2.8,3.15c-1.62,1.29-3.51,1.97-5.3,3.13
+						c-1.62,0.98-3.03,2.25-4.24,3.71c-1.44,1.62-2.5,3.79-2.27,6.01c0.15,1.62,0.98,3,2.15,4.09c-2.12-1.09-3.76-2.88-4.47-5.15
+						c-0.56-1.74-0.53-3.66,0.28-5.33c1.64-3.63,4.54-6.97,7.12-9.97c1.51-1.72,3.05-3.71,3.61-5.96C37.1,28.13,36.89,26.33,36.36,24.59z
+						M25.94,23.33c0.68,1.44,1.44,3.23,1.26,4.85c-0.23,1.59-1.36,2.7-2.47,3.74c0.68-1.09,1.21-2.2,1.36-3.48
+						c0.28-1.99-0.38-4.01-1.69-5.55c-1.36-1.64-3.21-2.62-5.25-3.18c1.16-1.39,2.42-2.6,3.79-3.76C23.31,18.69,24.8,20.83,25.94,23.33z
+						M21.27,30.55c-1.24,2.6-3,4.74-4.54,7.17c-0.88,1.41-1.56,2.93-2.07,4.52c-0.88-3.1-1.21-6.36-0.86-9.59
+						c0.45-4.59,2.27-9.09,5.17-12.7c1.49,0.88,2.6,2.35,3,4.04C22.56,26.18,22.23,28.53,21.27,30.55z M65.49,51.95
+						c-3.23,6.79-9.09,12.22-16.08,14.97c-7.87,3.13-17.01,2.73-24.58-1.11c-5.58-2.8-10.25-7.37-13.12-12.9
+						C9.38,48.52,8.2,43.55,8.3,38.57c0.05-6.16,2.09-12.49,5.73-17.47c2.4-3.31,5.45-6.03,8.93-8.18c-0.05,0.48-0.1,1.21-0.13,1.67
+						c-4.62,3.05-8.33,7.42-10.5,12.52c-2.2,5.07-2.83,10.75-1.84,16.18c0.86,4.77,2.95,9.29,6.06,13.02c3.05,3.68,7.07,6.59,11.51,8.33
+						c5.05,1.97,10.63,2.45,15.93,1.39c4.06-0.81,7.9-2.52,11.23-5c4.27-3.15,7.65-7.52,9.57-12.49c1.97-5.02,2.2-10.63,1.11-15.9
+						c-0.98-4.97-3.15-9.67-6.59-13.4c-3.53-3.86-8.13-6.74-13.17-8.15c-4.82-1.36-9.99-1.44-14.84-0.18c0-0.35-0.06-1.23-0.06-1.58
+						c6.99-1.69,15.02-0.67,21.4,2.69c5.88,3.05,10.31,7.46,13.06,13.49C69.4,33.46,69.33,44.03,65.49,51.95z">
+</path>
+</svg>
+</div>
+</div>
+<div class="row">
+<div class="col-12"><h3>MOBA FIRE NETWORK</h3></div>
+</div>
+<div class="row text-uppercase">
+<div class="col-6 text-align_right" style="border-right: 1px solid #2e2f34;">
+<ul class="footer__list">
+<li><a href="https://www.mobafire.com" target="_blank" rel="noopener">MOBAFire.com</a></li>
+<li><a href="https://www.leaguespy.gg/" target="_blank" rel="noopener">leaguespy.gg</a></li>
+<li><a href="https://www.counterstats.net" target="_blank" rel="noopener">CounterStats.net</a></li>
+<li><a href="https://www.runeterrafire.com/" target="_blank" rel="noopener">RuneterraFire.com</a></li>
+<li><a href="https://www.mobafire.com/teamfight-tactics" target="_blank" rel="noopener">TeamFight Tactics</a></li>
+<li><a href="https://www.mmorpg.com" target="_blank" rel="noopener">MMORPG.com</a></li>
+</ul>
+</div>
+<div class="col-6 text-align_left">
+<ul class="footer__list">
+<li><a href="https://www.smitefire.com" target="_blank" rel="noopener">SMITEFire.com</a></li>
+<li><a href="https://www.dotafire.com" target="_blank" rel="noopener">DOTAFire.com</a></li>
+<li><a href="https://www.artifactfire.com/" target="_blank" rel="noopener">ArtifactFire.com</a></li>
+<li><a href="https://www.vaingloryfire.com" target="_blank" rel="noopener">VaingloryFire.com</a></li>
+<li><a href="https://www.heroesfire.com" target="_blank" rel="noopener">HeroesFire.com</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-12">
+<p>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-b-container">
+<div class="footer-wrapper container">
+<p><a href="/disclaimers#conduct">Rules of Conduct</a>&nbsp;|&nbsp;<a href="/disclaimers#privacy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/advertising-policy">Advertising Policy</a>&nbsp;|&nbsp;<a href="/cookie-policy">Cookie Policy</a>&nbsp;|&nbsp;<a href="/review-policy">Review Policy</a> |&nbsp;<a href="/disclaimers#copyright">Copyright Notice</a>&nbsp;|&nbsp;<a href="/faq">FAQ</a>&nbsp;|&nbsp;<a href="/about-us">About Us</a>&nbsp;|&nbsp;<a href="/contact-us">Contact Us</a></p>
+<p>&nbsp;</p>
+<p><a href="https://player.me/mmorpgdotcom" target="_new"><img src="//images.mmorpg.com/images/Player_Partner_Badge.png" width="68" /></a>&nbsp;<a href="http://goo.gl/EwhGzP" target="_new"><img src="//www.shieldsquare.com/web/wp-content/themes/shieldsquare/assets/img/Shieldsquare-badge.png" width="168"></a>&nbsp;<a href="http://discord.gg/MMORPGcom" target="_blank" rel="noopener"><img src="//images.mmorpg.com/images/discord_badge.png?cb=1" width="68"></a></p>
+<p>Copyright &copy; 2001-2021 MOBA Network AB</p>
+<p>- Page Created in 0.109 seconds -</p>
+</div>
+</div>
+</footer>
+</div>
+<script src="//images.mmorpg.com/v2/lib/chunk-vendors_03242020.js?cb=01142021_6" data-cookieconsent="ignore"></script>
+<script src="//images.mmorpg.com/v2/app_06292020.js?cb=01142021_6" data-cookieconsent="ignore"></script>
+<script src="https://kit.fontawesome.com/567b1369b0.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//images.mmorpg.com/scripts/moment.js?cb=01142021_6"></script>
+<script>$.fancybox.defaults.hideScrollbar = false;</script>
+<script type="text/javascript" src="https://assets.revcontent.com/master/delivery.js" defer="defer"></script>
+<script type="text/javascript">
+
+            var vanilla_url = 'https://www.mmorpg.com/videos/eve-echoes-releases-on-ios-and-android-today-2000119099';
+                var vanilla_forum_url = 'https://forums.mmorpg.com/';
+                var vanilla_identifier = 'videos_119099';
+                var vanilla_sso = '';
+                var vanilla_category_id = '384'; // news&features category
+
+                $(function() {
+                    var vanilla = document.createElement('script');
+                    vanilla.type = 'text/javascript';
+                    var timestamp = new Date().getTime();
+                    vanilla.src = vanilla_forum_url + 'js/embed.js?v=1.0.0';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla);
+                });
+
+                </script>
+<script>
+        $(function() {
+            $("#mobile-menu").removeClass("d-none");
+        });
+      </script>
+
+<script>cpmstarAPI({kind: "go", module:"skin"});</script>
+<script type="text/javascript">
+  var vanilla_forum_url = 'https://forums.mmorpg.com/';
+  var vanilla_comments_none = '<i class="far fa-comments mr-2"></i>0';
+  var vanilla_comments_singular = '<i class="far fa-comments mr-2"></i>1';
+  var vanilla_comments_plural = '<i class="far fa-comments mr-2"></i>[num]';
+
+  (function() {
+      var vanilla_count = document.createElement('script');
+      vanilla_count.type = 'text/javascript';
+      vanilla_count.src = vanilla_forum_url + '/js/count.js';
+      (document.getElementsByTagName('head')[0] ||
+      document.getElementsByTagName('body')[0]).appendChild(vanilla_count);
+  })();
+</script>
+<script>
+    $(function() {
+      var gids = [];
+      $('a[data-giveaway]').each(function(){
+        if($.inArray($(this).data('giveaway'), gids) === -1) gids.push($(this).data('giveaway'));
+      });
+      //console.log(gids.join(','));
+
+      if(gids.length > 0){
+        $.ajax({
+          url: "/ajax/tools.cfc?method=key_counts&gids="+gids.join(','),
+          dataType: "json",
+          success: function (response){
+            //console.log(response);
+            $.each(response, function(key,val) {
+              $('a[data-giveaway="'+key+'"]').html('<i class="far fa-key-skeleton mr-2"></i>'+val);
+              $('span[data-giveaway="'+key+'"]').html(val);
+            });
+          },
+          error: function (jqXHR, textStatus, errorThrown) {
+            console.log('Key Counts Error: Status='+textStatus+', Error:'+errorThrown);
+          }
+        });
+      }
+    });
+  </script>
+</body>
+</html>
+<script>
+			// Open External Links in a new tab / window
+			function ExternalLinks(domain){
+				var hostname = domain.replace("www.", "").toLowerCase();
+				var fhostname = 'forums.mmorpg.com';
+				var i = document.links.length;
+				while ( --i >= 0 ) {
+					var thisLink = document.links[i];
+					var thisHref = thisLink.href.toLowerCase();
+					if ( (thisHref.indexOf("http://") != -1 || thisHref.indexOf("https://") != -1) && thisHref.indexOf(hostname) == -1 && thisHref.indexOf(fhostname) == -1 ){
+						thisLink.target = '_blank';
+						//thisLink.rel = 'nofollow';
+					}
+				}
+			}
+		</script>
+<script>		
+		function onLoads(){
+		ExternalLinks("www.mmorpg.com"); 
+		}
+
+		document.onload = onLoads();
+	</script>

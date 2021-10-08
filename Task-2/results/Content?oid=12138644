@@ -1,0 +1,4420 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+         
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+
+<head>
+  
+  <meta name="viewport" content="width=1000">
+
+  
+  <meta name="layout" content="Content Default" />
+  
+    <meta name="oid" content="12138644" />
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=e86df96a464f96ac46e008549d4fd28c" />
+  <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=e86df96a464f96ac46e008549d4fd28c" />
+  <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=e86df96a464f96ac46e008549d4fd28c" />
+  <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=e86df96a464f96ac46e008549d4fd28c" />
+
+  <style type="text/css">
+    /* Foundation Convenience Styles */
+    /* For programmatic usage only! */
+    .clear { clear: both }
+    .hidden { display: none }
+    .lower { text-transform: lowercase }
+    .upper { text-transform: uppercase }
+
+    /* Foundation Conditional Display Classes */
+    .briefOnly     {  }    /* override in components.css */
+    .longOnly      {  }    /* override in components.css */
+  </style>
+
+  
+    <link rel="stylesheet" type="text/css" href="/foundation/grids/iapetus-10-zone.css" />
+  
+
+  <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie8.css" />
+  <![endif]-->
+  <!--[if gte IE 9]>
+      <link rel="stylesheet" type="text/css" href="/styles/ie9-plus.css">
+  <![endif]-->
+
+  <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print" />
+
+  
+  
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="CITY News RSS: Whole Site" href="https://www.rochestercitynewspaper.com/rochester/Rss.xml" />
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="CITY News RSS: News &amp; Opinion Section" href="https://www.rochestercitynewspaper.com/rochester/Rss.xml?oid=2124539" />
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="CITY News RSS: News" href="https://www.rochestercitynewspaper.com/rochester/Rss.xml?oid=2124545" />
+      
+    
+
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="CITY News RSS: Comments on News" href="https://www.rochestercitynewspaper.com/rochester/Rss.xml?id=comments&amp;oid=2124545" />
+      
+    
+  
+
+  
+
+  
+    <script>window.__FBAPIv__ = 'v3.2'</script>
+  
+
+  
+  
+    <!--[if lte IE 8]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+      <![endif]-->
+      
+      <script>
+        if (!window.Promise) document.write('<scr'+'ipt src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.src.js"></scr'+'ipt>')
+      </script>
+    
+    
+    
+    
+    <script src="/foundation/scripts/common.js?cb=c1c17f098b2a091c40b5c69e58c22037"></script>
+  
+    
+    
+    
+    
+    
+    
+    <script src="/foundation/scripts/desktop-bundle.js?cb=c1c17f098b2a091c40b5c69e58c22037"></script>
+  
+
+  
+  <link rel="stylesheet" href="/foundation/styles/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+  <script>
+    Foundation.documentReady.then(function () {
+        jQuery("a.zoomable").fancybox({"type": "image", "titlePosition": "over"});
+    });
+  </script>
+
+  
+  
+  
+
+  
+  <script>
+    // Smooth scrolling to anchors on the same page.
+    setupGlide();
+    
+    // Modify user's own profile links to go to correct URL.
+    fixupProfileLinks("https:\/\/www.rochestercitynewspaper.com\/rochester\/Profile", "https:\/\/posting.rochestercitynewspaper.com\/rochester\/MyProfile");
+  </script>
+  
+  
+  
+
+  
+  
+    <meta name="google-signin-client_id" content="680739014388-nuf1n6j57rgv8jjra50l5hbad16nactb.apps.googleusercontent.com">
+  
+
+    
+  
+
+  
+  
+
+  <script type='text/javascript'>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            (function() {
+              var gads = document.createElement('script');
+              gads.async = true;
+              gads.type = 'text/javascript';
+              var useSSL = 'https:' == document.location.protocol;
+              gads.src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+              var node = document.getElementsByTagName('script')[0];
+              node.parentNode.insertBefore(gads, node);
+            })();
+          </script>
+          <script type='text/javascript'>
+            googletag.cmd.push(function() {
+              Foundation = Foundation || {};
+              Foundation.Ad = Foundation.Ad || {};
+              Foundation.Ad.slots = Foundation.Ad.slots || {};
+                  Foundation.Ad.slots['div-gpt-ad-city_wallpaper'] = googletag.defineOutOfPageSlot('/1843875/CITY_WALLPAPER', 'div-gpt-ad-city_wallpaper').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_leaderboard'] = googletag.defineSlot('/1843875/CITY_LEADERBOARD', [[728, 90], [970, 90]], 'div-gpt-ad-city_leaderboard').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_med_rect_1'] = googletag.defineSlot('/1843875/CITY_MED_RECT_1', [[300, 250], [300, 600]], 'div-gpt-ad-city_med_rect_1').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_med_rect_2'] = googletag.defineSlot('/1843875/CITY_MED_RECT_2', [[300, 250], [300, 600]], 'div-gpt-ad-city_med_rect_2').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_med_rec_3'] = googletag.defineSlot('/1843875/CITY_MED_REC_3', [[300, 250], [300, 600]], 'div-gpt-ad-city_med_rec_3').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_sitewide_dd_ad'] = googletag.defineSlot('/1843875/CITY_Sitewide_DD_Ad', [300, 100], 'div-gpt-ad-city_sitewide_dd_ad').addService(googletag.pubads());
+                  Foundation.Ad.slots['div-gpt-ad-city_sitewide_ur_ad'] = googletag.defineSlot('/1843875/CITY_Sitewide_UR_Ad', [300, 100], 'div-gpt-ad-city_sitewide_ur_ad').addService(googletag.pubads());
+                  googletag.pubads().setTargeting('template', ["Content"]);
+                  googletag.pubads().setTargeting('media', ["screen"]);
+                  googletag.pubads().setTargeting('section', ["newsopinion"]);
+                  googletag.pubads().setTargeting('category', ["News"]);
+                  googletag.pubads().setTargeting('oid', ["12138644"]);
+                  googletag.pubads().setTargeting('tags', ["University of Rochester","Physics Frontier Center","Center for Matter at Atomic Pressures","CMAP","Gilbert Collins","Adam Frank"]);
+              googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+              Foundation.Ad.refresh = function (id) {
+                if (id && Foundation.Ad.slots[id]) {
+                  // Clean up ad container.
+                  jQuery('#' + id).css({width: '', height: ''});
+                  // Refresh slot.
+                  googletag.pubads().refresh([Foundation.Ad.slots[id]]);
+                }
+                else {
+                  // Clean up all ad containers.
+                  jQuery('[data-content-type="ad"]').css({width: '', height: ''});
+                  // Refresh all (refreshable) slots.  Wish I could use Object.values().
+                  var slots = [];
+                  for (var id in Foundation.Ad.slots) {
+                    if (Foundation.Ad.slots[id].refresh) {
+                      slots.push(Foundation.Ad.slots[id]);
+                    }
+                  }
+                  googletag.pubads().refresh(slots);
+                }
+              };
+              // Refresh on foundation:ad:refresh jQuery event.
+              Foundation.Ad.refreshlockout = false;
+              jQuery(document).on("foundation:ad:refresh", function(event) {
+                if (Foundation.Ad.refreshlockout == false) {
+                  Foundation.Ad.refreshlockout = true;
+                  window.setTimeout(function () {
+                    Foundation.Ad.refreshlockout = false;
+                  }, 2500);
+                  Foundation.Ad.refresh();
+                }
+              });
+              // Mark slots refreshable by default.
+              for (var id in Foundation.Ad.slots) {
+                if (!('refresh' in Foundation.Ad.slots[id])) {
+                  Foundation.Ad.slots[id].refresh = true;
+                }
+              }
+            });
+          </script>
+
+
+
+
+<meta name="google-site-verification" content="MK7p28JZYN3KpFUjlcYNrypzqb2B8kvV16nww69JL-A" />
+<meta name="google-site-verification" content="35VJLgv516kWfGLi6_2MNNwlGOWgSEneL48dbS9mvaI" />
+<meta name="google-site-verification" content="Tw_IYIFDlu_IisIBlHldsSi-cVSL2mP8Izqv4iqzGoE" />
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+
+
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="title" content="UR to receive $13 million in federal funding for new Physics Frontier Center | News | CITY News. Arts. Life." />
+  <meta name="description" content="The Center will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted." />
+  <meta name="keywords" content="University of Rochester, Physics Frontier Center, Center for Matter at Atomic Pressures, CMAP, Gilbert Collins, Adam Frank, News, Arts, Lifestyle, Entertainment, Events, Music, Calendar, Blog, New York, Rochester, Alternative News, Journalism" />
+  <title>UR to receive $13 million in federal funding for new Physics Frontier Center | News | CITY News. Arts. Life.</title>
+
+  
+  
+    <meta name="date" content="2020-08-17 12:19:27" />
+  
+
+  
+  
+  
+    <meta name="author" content="Randy Gorbman">
+  
+
+  
+  
+  <meta name="news_keywords" content="university of rochester, physics frontier center, center for matter at atomic pressures, cmap, gilbert collins, adam frank, news, arts, lifestyle, entertainment" />
+
+  
+  
+
+  
+  
+  
+    <link rel="image_src" href="https://media2.fdncms.com/rochester/imager/u/slideshow/12138649/nsf_grant_ur.jpg" />
+    <meta name="thumbnail" content="https://media2.fdncms.com/rochester/imager/u/slideshow/12138649/nsf_grant_ur.jpg" />
+  
+
+  
+    
+      <link rel="canonical" href="https://www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" />
+      <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" />
+    
+
+    
+    
+    
+      
+      
+      <link rel="amphtml" href="https://www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644&media=AMP+HTML" />
+    
+  
+
+  
+    
+      <meta property="og:url" content="https://www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" />
+    
+  
+
+  
+    <meta property="fb:app_id" content="347460708667425" />
+  
+
+  
+  <meta property="og:site_name" content="CITY News" />
+  <meta property="og:title" content="UR to receive $13 million in federal funding for new Physics Frontier Center" />
+
+   
+  
+    
+
+    
+    
+
+    
+    
+
+    <meta property="og:image" content="https://media2.fdncms.com/rochester/imager/u/slideshow/12138649/nsf_grant_ur.jpg" />
+
+    
+      <meta property="og:image:width" content="640" />
+      <meta property="og:image:height" content="384" />
+    
+  
+
+  
+  
+    <meta property="og:description" content="The Center will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted." />
+  
+
+  
+  
+
+  
+  
+    <meta property="og:type" content="article" />
+  
+
+  
+  
+
+    
+    
+
+    
+    
+    
+
+    
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://media2.fdncms.com/rochester/imager/u/slideshow/12138649/nsf_grant_ur.jpg">
+
+    
+    
+
+    
+
+    <meta name="twitter:site" content="@roccitynews">
+    <meta name="twitter:title" content="UR to receive $13 million in federal funding for new Physics Frontier Center">
+    <meta name="twitter:description" content="The Center will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted.">
+  
+
+  
+  
+  <!--
+    <PageMap>
+      <DataObject type="foundation">
+        <Attribute name="oid">12138644</Attribute>
+        <Attribute name="class">Content</Attribute>
+        <Attribute name="lastmodified">20201014050408</Attribute>
+        <Attribute name="creationdate">20200817121920</Attribute>
+      </DataObject>
+
+      
+        
+          <DataObject type="document">
+            <Attribute name="releasedatetime">20200817123257</Attribute>
+            <Attribute name="releasedate">20200817</Attribute>
+            <Attribute name="releaseepoch">1597681977</Attribute>
+            <Attribute name="title">UR to receive $13 million in federal funding for new Physics Frontier Center</Attribute>
+            <Attribute name="author">9120774</Attribute>
+            <Attribute name="authorname">Randy Gorbman</Attribute>
+            <Attribute name="authorsortname">Gorbman, Randy</Attribute>
+          </DataObject>
+        
+
+        
+      
+    </PageMap>
+  -->
+
+
+  
+  
+  
+  
+    
+    <script type="application/ld+json">
+        {
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id":"https:\/\/www.rochestercitynewspaper.com\/rochester\/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center\/Content?oid=12138644"
+          },
+          "headline": "UR to receive $13 million in federal funding for new Physics Frontier Center",
+          
+            "description": "The Center will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted.",
+          
+          
+            "image": {
+              "url": "https:\/\/media2.fdncms.com\/rochester\/imager\/u\/original\/12138649\/nsf_grant_ur.jpg",
+              "width": 1000,
+              "height": 600,
+              "@type": "ImageObject"
+            },
+          
+          "datePublished": "2020-08-17T12:19:27",
+          "dateModified": "2020-10-14T05:04:08",
+          
+            "author": {
+              "name": "Randy Gorbman",
+              "@type": "Person"
+            },
+          
+          "publisher": {
+            "name": "CITY News",
+            
+              
+              
+              
+              "logo": {
+                "url": "https:\/\/www.rochestercitynewspaper.com\/imager\/b\/google-amp-logo\/808579\/b2b5\/rochester-share.png",
+                "width": 1024,
+                "height": 1024,
+                "@type": "ImageObject"
+              },
+            
+            "@type": "Organization"
+          },
+          "@context": "https://schema.org",
+          "@type": "NewsArticle"
+        }
+      </script>
+  
+
+
+</head>
+
+
+
+
+
+  <body id="Content" class="ContentDefault Iapetus10Zone News newsopinion">
+
+
+
+<div id="fb-root"></div>
+
+
+  <script>
+    (function () {
+        var app = new Foundation.Facebook.Application();
+        app.receiveAuthNotifications();
+        app.receiveLikeNotifications();
+    })();
+  </script>
+
+
+
+
+  <script>
+    (function () {
+      var googAuth = Foundation.Google.loadGoogleOauth().then(function(){
+        //if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
+      }.bind(this), function(){
+        if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth didn't init.")
+      })
+    })()
+  </script>
+    
+
+<!-- Leader -->
+<div id="gridLeader">
+  
+</div><!-- end gridLeader -->
+
+<div id="gridClamp">
+  <!-- Header -->
+  <div id="gridHeader">
+    
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+
+    
+      <div id="MobileDetect" class="GlobalHeader ContentDefault " style="display:none">
+        
+        
+          Switch to the <a href="https://m.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+        
+      </div>
+    
+
+    <script>
+      
+      function setRedirectHash() {
+        if (location.hash) {
+          jQuery("#MobileDetect a[media='handheld']").each(function() {
+            var link = jQuery(this);
+            link.attr('href', link.attr('href').split('#')[0] + location.hash);
+          });
+        }
+      }
+      setRedirectHash();
+
+      new Foundation.MobileDetectComponent("MobileDetect", true);
+    </script>
+  
+
+<!-- NEW Google stats tracking code  April 2014-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-823140-1', 'rochestercitynewspaper.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-63s4LXm0U50e-"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-63s4LXm0U50e-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+<div id="SearchLogin" class="GlobalHeader ContentDefault ">
+
+  
+  
+
+  
+      <div>
+    
+    
+
+    
+      <a href="https://twitter.com/#!/roccitynews" title="Twitter" target="_blank"><img alt="Twitter" src="https://media2.fdncms.com/rochester/imager/twitter/u/original/2137392/twitter_new.gif" width="29"></a>
+    
+
+    
+  
+    
+
+    
+      <a href="https://www.facebook.com/CityNewspaper" title="Facebook" target="_blank"><img alt="Facebook" src="https://media2.fdncms.com/rochester/imager/facebook/u/original/2137427/facebook_new.gif" width="29"></a>
+    
+
+    
+  
+    
+
+    
+      <a href="https://www.instagram.com/roccitynews/" title="Instagram" target="_self"><img alt="Instagram" src="https://media1.fdncms.com/rochester/imager/u/original/10871592/instagram-transparent.jpg" width="29"></a>
+    
+
+    
+  
+    
+
+    
+      <a href="/rochester/Syndication" title="RSS" target="_self"><img alt="RSS" src="https://media2.fdncms.com/rochester/imager/rss/u/original/2124579/rss.gif" width="29"></a>
+    
+
+    
+  
+    
+
+    
+      <a href="http://www.issuu.com/roccitynews" title="Digital Issues" target="_blank"><img alt="Digital Issues" src="https://media1.fdncms.com/rochester/imager/digital-issues/u/original/2124580/issuu.jpg" width="29"></a>
+    
+
+    
+  
+    
+
+    
+      <a href="https://mailchi.mp/rochester-citynews.com/newsletters" title="Subscribe to Newsletter" target="_blank"><img alt="Subscribe to Newsletter" src="https://media1.fdncms.com/rochester/imager/u/original/10871942/enews-icon.png" width="29"></a>
+    
+
+    
+  
+      </div>
+    
+
+
+
+  
+  
+  
+  
+    
+    <ul data-view="loggedin" style="display:none">
+      <li><strong data-label="username">Username</strong> / </li>
+      <li><a href="https://posting.rochestercitynewspaper.com/rochester/MyProfile">View Profile</a> / </li>
+      <li><a href="https://posting.rochestercitynewspaper.com/rochester/Profile/MySettings">Edit Profile</a> / </li>
+      <li><a href="https://www.rochestercitynewspaper.com/rochester/Logout">Log Out</a></li>
+    </ul>
+
+    <ul data-view="loggedout" style="display:none">
+      <li><a href="#LogIn">Log in</a> / </li>
+      <li><a href="#CreateAccount">Create Account</a></li>
+    </ul>
+  
+  
+
+  
+
+  
+
+  <div id="SearchLoginSiteSearchBox">
+    <form class="search-form" action="https://posting.rochestercitynewspaper.com/rochester/Search">
+      <input type="hidden" name="cx" value="017793458706336421686:dgaybk9sose">
+      <input type="hidden" name="cof" value="FORID:9">
+      
+        <input class="search-input" autocomplete="off" type="text" value="" name="q" size="25" placeholder="">
+      
+      <div class="searchIcon">
+        Search
+        <svg version="1.1" id="SearchLoginSiteSearchBoxLayer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve"><path d="M10.171,8.766c0.617-0.888,0.979-1.964,0.979-3.126c0-3.037-2.463-5.5-5.5-5.5s-5.5,2.463-5.5,5.5s2.463,5.5,5.5,5.5 c1.152,0,2.223-0.355,3.104-0.962l3.684,3.683l1.414-1.414L10.171,8.766z M5.649,9.14c-1.933,0-3.5-1.567-3.5-3.5 c0-1.933,1.567-3.5,3.5-3.5c1.933,0,3.5,1.567,3.5,3.5C9.149,7.572,7.582,9.14,5.649,9.14z"></path></svg>
+      </div>
+
+      
+      
+        <input type="submit" name="sa" value="Search">
+      
+
+      <ul class="search-dropdown" style="display:none;">
+        
+        
+          <li class="search-option"><a class="search-all" href="https://posting.rochestercitynewspaper.com/rochester/Search"><span class="search-icon"></span> All</a></li>
+    <li class="search-option"><a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives"><span class="search-icon"></span> in Articles &amp; Posts</a></li>
+    <li class="search-option"><a href="https://www.rochestercitynewspaper.com/rochester/EventSearch"><span class="search-icon"></span> in Events</a></li>
+    <li class="search-option"><a href="https://www.rochestercitynewspaper.com/rochester/LocationSearch"><span class="search-icon"></span> in Locations</a></li>
+    <li class="search-option"><a href="https://www.rochestercitynewspaper.com/rochester/SlideshowArchives"><span class="search-icon"></span> in Slideshows</a></li>
+        
+      </ul>
+    </form>
+
+    
+      <script>
+      "use strict";
+      (function(){
+        var searchPanel = new Foundation.View.Desktop.RevealPanel({
+          hoverSelector: '#SearchLoginSiteSearchBox div.searchIcon',
+          clickSelector: '#SearchLoginSiteSearchBox input.search-input',
+          panelSelector: '#SearchLoginSiteSearchBox ul.search-dropdown',
+          alignSelector: '',
+          alignFunction: function(){}
+        });
+
+        var searchFormSelector = '#SearchLoginSiteSearchBox form.search-form'
+        var searchOptionLinkSelector = '#SearchLoginSiteSearchBox li.search-option a'
+        var searchInputSelector = '#SearchLoginSiteSearchBox input.search-input'
+
+        var canProceed = function(obj, searchAllOption){
+          var emptyKeyword = jQuery(searchInputSelector).val().trim().length === 0
+          // Don't proceed without a keyword on the search-all option
+          if(emptyKeyword && searchAllOption){
+            return true // allow submission without keyword
+          }
+          return true
+        }
+
+        var enterKeywordMessage = function (){
+          jQuery(searchInputSelector).attr('placeholder',"Enter a keyword.")
+          window.setTimeout(function(){
+            jQuery(searchInputSelector).attr('placeholder',"")
+          },1000)
+        }
+
+        // 
+        jQuery(searchFormSelector).submit(function(e){
+          if(!canProceed(e.target, true)){
+            e.preventDefault()
+            enterKeywordMessage()
+          }
+        })
+
+        // 
+        jQuery(searchOptionLinkSelector).on('click', function(e){
+          e.preventDefault()
+          if(canProceed(e.target, jQuery(e.target).hasClass('search-all'))){
+            if(jQuery(e.target).hasClass('search-all')){
+              jQuery(searchFormSelector).submit()
+            } else {
+              var newLocation = jQuery(e.target).attr('href') || ""
+              var catVal = jQuery(e.target).attr('data-category')
+              var catParam = catVal != undefined ? "&category="+catVal : ""
+              window.location = newLocation 
+                              + "?keywords=" + jQuery(searchInputSelector).val() 
+                              + "&submit=Search" 
+                              + catParam
+            }
+          }else{
+            enterKeywordMessage()
+          }
+        })
+      })()
+      </script>
+    
+  </div>
+
+</div>
+
+
+
+  <script>
+    new Foundation.LoginRequiredComponent("SearchLogin");
+  </script>
+
+  
+
+
+
+<div id="LogoandLeaderboard" class="GlobalHeader ContentDefault ">
+  <div id="header-logo" class="admin">
+    
+      <div id="logo"><a href="https://www.rochestercitynewspaper.com/" title="CITY News">Rochester City Newspaper</a></div>
+    
+  </div>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+    Event.observe(document, "dom:loaded", function () {
+      var yOffset = jQuery('#NavigationHorizontal').offset().top
+      jQuery(window).scroll(function(){
+        var pos = jQuery(document).scrollTop() - yOffset
+        if (pos >= 0) {
+          jQuery("#NavigationHorizontal").addClass('sticky')
+        } else {
+          jQuery("#NavigationHorizontal").removeClass('sticky')
+        }
+      })
+    })
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="NavigationHorizontal" class="GlobalHeader ContentDefault  ">
+    
+      
+      
+          <ul id="mainNav">
+        
+        
+
+        
+
+        
+
+        
+
+        <li class="first" id="NavItem_Magazine">
+          <a href="https://issuu.com/roccitynews/docs/cn_cover_october_2021?fr=sNzE5ODM2MjM2NjU"  class="subnav_link" id="SNAVL_Magazine">Magazine</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="navCurrent" id="NavItem_News">
+          <a href="https://www.rochestercitynewspaper.com/rochester/news-and-opinion/Section?oid=2124539"  class="subnav_link" id="SNAVL_News">News</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Arts">
+          <a href="https://www.rochestercitynewspaper.com/rochester/arts-and-entertainment/Section?oid=2124540"  class="subnav_link" id="SNAVL_Arts">Arts</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Life">
+          <a href="https://www.rochestercitynewspaper.com/rochester/life/Section?oid=12795708"  class="subnav_link" id="SNAVL_Life">Life</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Music">
+          <a href="https://www.rochestercitynewspaper.com/rochester/music/Section?oid=2124542"  class="subnav_link" id="SNAVL_Music">Music</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_calendar">
+          <a href="https://www.rochestercitynewspaper.com/rochester/EventSearch"  class="subnav_link" id="SNAVL_calendar">Calendar</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Crossword">
+          <a href="https://www.rochestercitynewspaper.com/rochester/CrosswordPuzzle/Page"  >Crossword</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_Classifieds">
+          <a href="https://classifieds.rochestercitynewspaper.com/" target="_blank" class="subnav_link" id="SNAVL_Classifieds">Classifieds</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_About">
+          <a href="https://www.rochestercitynewspaper.com/rochester/citychampion/Page"  class="subnav_link" id="SNAVL_About">About</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="" id="NavItem_WXXI">
+          <a href="https://www.wxxi.org/"  class="subnav_link" id="SNAVL_WXXI">WXXI</a>
+        </li>
+        
+      
+        
+
+        
+
+        
+
+        
+
+        <li class="last" id="NavItem_Advertise">
+          <a href="https://www.rochestercitynewspaper.com/rochester/Advertisewithus/Page"  >Advertise</a>
+        </li>
+        
+      
+          </ul>
+        
+
+      
+        
+        
+          
+            <h3 class="hidden">Browse News</h3>
+            <ul class="subnav_content" id="SNAV_News" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/news/Category?oid=2124545"  title="">News</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/editors-notebook/Category?oid=10897198"  title="">Editor&#39;s Notebook</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?section=2124539"  title="">News &amp; Opinion Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Music</h3>
+            <ul class="subnav_content" id="SNAV_Music" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/music-features/Category?oid=2124556"  title="">Music Features</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/classical/Category?oid=2124554"  title="">Classical</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/choice-concerts/Category?oid=2124583"  title="">Choice Concerts</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/music-reviews/Category?oid=2124557"  title="">Music Reviews</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/EventSearch?sortType=title&eventSection=2124770"  title="">Local Music Guide</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/homestage/Category?oid=11779711"  title="">Homestage</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?section=2124542"  title="">Music Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Arts</h3>
+            <ul class="subnav_content" id="SNAV_Arts" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/art/Category?oid=2124551"  title="">Art</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/comedy/Category?oid=11289421"  title="">Comedy</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/dance/Category?oid=2124799"  title="">Dance</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=6131363"  title="">Literature</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/theater/Category?oid=2124552"  title="">Theater</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/revel-in-the-details/Category?oid=12799483"  title="">Revel in the Details</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/art-work-episode-5-nick-brandreth/Content?oid=5870406"  title="">art/WORK</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?section=2124540"  title="">Arts &amp; Entertainment Archives</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Calendar</h3>
+            <ul class="subnav_content" id="SNAV_calendar" style="display:none;">
+          
+
+          
+
+          <li class="searchItem">
+            <a href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=Today&sortType=title"  title="">Event Listings</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/choice-events/Category?oid=2124582"  title="">Choice Events</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/choice-concerts/Category?oid=2124583"  title="">Choice Concerts</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="submitItem">
+            <a href="https://www.rochestercitynewspaper.com/rochester/Events/AddEvent"  title="">Submit an Event</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Restaurants</h3>
+            <ul class="subnav_content" id="SNAV_Restaurants" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/dining-reviews/Category?oid=2124559"  title="">Dining Reviews</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/restaurant-news/Category?oid=2124813"  title="">Restaurant News</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Guides</h3>
+            <ul class="subnav_content" id="SNAV_Guides" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/holiday-guide-2018/Content?oid=8768563"  title="">Holiday Guide 2018</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/fall-guide-2019/Content?oid=10829680"  title="">Fall Guide19</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/winter-guide/Content?oid=9410915"  title="">Winter Guide 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/building-a-better-rochester/Content?oid=9837139"  title="">Annual Manual 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ate-days-a-week/Content?oid=10313927"  title="">Dish 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/winter-guide-youve-got-outdoor-options/Content?oid=11347330"  title="">Winter Guide 2020</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/dont-bug-out/Content?oid=10374188"  title="">Summer Guide 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/jazz-festival-guide-2018/Content?oid=6798139"  title="">Jazz Festival 2018</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/jazz-festival-guide-2019/Content?oid=10434165"  title="">Jazz Festival 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/seventh-annual-keybank-rochester-fringe-festival/Content?oid=7851902"  title="">Rochester Fringe Festival 2018</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/life-beyond-the-campus/Content?oid=10740888"  title="">CITY U 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/fall-guide-2018-relishing-the-season/Content?oid=8036655"  title="">Fall Guide 2018</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/fringe-festival-guide-2019/Content?oid=10770875"  title="">Rochester Fringe Festival 2019</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/bah-humbug/Content?oid=11068249"  title="">Holiday Guide 2019</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse About</h3>
+            <ul class="subnav_content" id="SNAV_About" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/AboutUs/Page"  title="">Contact Us</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/citychampion/Page"  title="">Donate</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/where-to-find-city/Content?oid=11274502"  title="">Looking for CITY?</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/homedeliverysignup/Page"  title="">Get Home Delivery</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://mailchi.mp/rochester-citynews.com/newsletters"  title="">Sign up for our Newsletter</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse WXXI</h3>
+            <ul class="subnav_content" id="SNAV_WXXI" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.wxxinews.org/"  title="">Newsroom</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.wxxi.org/tv"  title="">Television</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.wxxi.org/radio"  title="">Radio</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://thelittle.org/"  title="">The Little</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.wxxi.org/education"  title="">Education</a>
+          </li>
+          
+            </ul>
+          
+        
+          
+            <h3 class="hidden">Browse Life</h3>
+            <ul class="subnav_content" id="SNAV_Life" style="display:none;">
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/public-lives/Category?oid=12204813"  title="">Public Lives</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=2124813"  title="">Food News</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/culture/Category?oid=2124804"  title="">Culture</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=2124559"  title="">Food Reviews</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/movies/Section?oid=2124830"  title="">Movies</a>
+          </li>
+          
+        
+          
+
+          
+
+          <li class="">
+            <a href="https://www.rochestercitynewspaper.com/rochester/what-ales-me/Category?oid=12795717"  title="">What Ales Me</a>
+          </li>
+          
+            </ul>
+          
+        
+
+        
+
+        
+        
+        
+      
+    
+  </div>
+
+
+  
+
+  
+  
+  
+    
+    
+
+      
+
+      <script>
+      "use strict";
+      (function(){
+        //
+        if(navigator.userAgent.match(/\b(iPad|iPhone|iPod|Android|Pre|BlackBerry|Windows Phone)\b/i)){
+          //
+          //
+            jQuery('#NavigationHorizontal .subnav_link').each(function(){
+          var navigationID = jQuery(this).attr('id');
+          var navigationSelector = '#'+navigationID;
+          var navMenuSelector = '#NavigationHorizontal #SNAV_'+navigationID.split('_')[1];
+          var navigationTimeout;
+          var focusNavigation = function(e){
+            window.clearTimeout(navigationTimeout);
+            jQuery(navMenuSelector).css('left',Math.round(jQuery(navigationSelector).position().left)+'px');
+            jQuery(navMenuSelector).show();
+          }
+          var blurNavigation = function(e){
+              jQuery(navMenuSelector).hide();
+            navigationTimeout = window.setTimeout(function(){
+            },75);
+          }
+          jQuery(navMenuSelector+', '+navigationSelector).hover(focusNavigation,blurNavigation);
+        });
+          //
+          //
+
+        //
+        }else{
+          jQuery('#NavigationHorizontal .subnav_link').each(function(){
+          var navigationID = jQuery(this).attr('id');
+          var navigationSelector = '#'+navigationID;
+          var navMenuSelector = '#NavigationHorizontal #SNAV_'+navigationID.split('_')[1];
+          var navigationTimeout;
+          var focusNavigation = function(e){
+            window.clearTimeout(navigationTimeout);
+            jQuery(navMenuSelector).css('left',Math.round(jQuery(navigationSelector).position().left)+'px');
+            jQuery(navMenuSelector).show();
+          }
+          var blurNavigation = function(e){
+              jQuery(navMenuSelector).hide();
+            navigationTimeout = window.setTimeout(function(){
+            },75);
+          }
+          jQuery(navMenuSelector+', '+navigationSelector).hover(focusNavigation,blurNavigation);
+        });
+        }
+      })();
+      </script>
+    
+  
+  <!-- true == "true"
+         && true == "devel" -->
+
+
+<!-- End #NavigationHorizontal --><div id="Ad970x90" class="GlobalHeader ContentDefault Ad">
+  <!-- /1843875/CITY_LEADERBOARD -->
+          <div id="div-gpt-ad-city_leaderboard" style="" data-content-type="ad" data-slot="/1843875/CITY_LEADERBOARD" data-output="asynchronous" data-width="728" data-height="90">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_leaderboard');
+                });
+              </script>
+          </div>
+</div>
+  </div><!-- end gridHeader -->
+
+  <div id="gridMain">
+
+    <div id="gridFrame">
+
+      <div id="gridSpanningFeature">
+        
+
+
+
+  
+    <div id="StoryBreadcrumb" class="SpanningFeature ContentDefault  news___opinion news">
+      <p class="issueInfo ">
+        <span class="date">
+          
+            <a href="https://www.rochestercitynewspaper.com/rochester/IssueArchives?issue=12115794">August 17, 2020</a>
+          
+        </span>
+
+  			
+          <a href="https://www.rochestercitynewspaper.com/rochester/news-and-opinion/Section?oid=2124539">News & Opinion</a>
+        
+        
+          &raquo; <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=2124545">News</a>
+        
+      </p>
+    </div> <!-- end StoryBreadcrumb -->
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+ 
+  
+
+
+
+
+  
+
+  
+    
+    
+  
+
+  
+  <style>
+    div.l0.last div:first-child {float:right;}
+  </style>
+  
+  <div id="ToolBarHorizontal" class="SpanningFeature ContentDefault ">
+    <div style="width:100%; height: 20px;">
+      <div class="l0 first" style="width:16%; height: 20px; float:left;">
+        <fb:like href="https://www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" send="false" show_faces="false" action="like" font="tahoma" colorscheme="light" layout="button_count"></fb:like></div> <div class="l0" style="width:16%; height: 20px; float:left;"><a href="https://twitter.com/share?url=https%3A//www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content%3Foid%3D12138644&text=UR%20to%20receive%20%2413%20million%20in%20federal%20funding%20for%20new%20Physics%20Frontier%20Center" class="twitter-share-button" data-count="none">Tweet</a>
+<script>
+  dnLoadScript("https://platform.twitter.com/widgets.js", true);
+</script></div> <div class="l0" style="width:16%; height: 20px; float:left;">
+
+
+  
+
+  
+
+  
+
+  <a href="https://pinterest.com/pin/create/button/?description=UR%20to%20receive%20%2413%20million%20in%20federal%20funding%20for%20new%20Physics%20Frontier%20Center&amp;media=https%3A%2F%2Fmedia2.fdncms.com%2Frochester%2Fimager%2Fu%2Fslideshow%2F12138649%2Fnsf_grant_ur.jpg&amp;url=https%3A%2F%2Fwww.rochestercitynewspaper.com%2Frochester%2Fur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center%2FContent%3Foid%3D12138644" class="pin-it-button" count-layout="none">Pin It</a>
+  <script>
+  Foundation.documentReady.then(function () {
+    new Foundation.Script("https://assets.pinterest.com/js/pinit.js", true);
+  })
+  </script>
+
+</div> <div class="l0" style="width:16%; height: 20px; float:left;">
+
+<a class="emailAction" title="." href="https://posting.rochestercitynewspaper.com/rochester/Tools/EmailFriend?oid=12138644" rel="nofollow" target="_blank" onclick="popupWindow('popupEmailFriend', this.href, 400, 650, 400, 10); return false">.</a>
+
+</div> <div class="l0" style="width:16%; height: 20px; float:left;">
+
+
+  <a class="toggleActivator saveAction requiresLogin" title="My Favorites" href="https://posting.rochestercitynewspaper.com/rochester/Profile/MyFavorites?add=12138644">
+    Favorites
+  </a>
+  <div class="togglePanel" data-toolsoid="12138644" data-toolsajaxmacro="addObject" style="display:none">
+    <div class="loading">Saving&hellip;</div>
+    <div class="ajaxUpdater" style="display:none"></div>
+  </div>
+
+
+</div> <div class="l0 last" style="width:16%; height: 20px; float:right;">
+
+
+
+
+  <div class="addthis_toolbox addthis_default_style"><a href="https://www.addthis.com/bookmark.php?v=300&pubid=xa-503d61bf5addb3a2" addthis:url="https://www.rochestercitynewspaper.com/rochester/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center/Content?oid=12138644" addthis:title="UR to receive $13 million in federal funding for new Physics Frontier Center" addthis:description="The Center will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted." class="addthis_button_compact">Share</a></div>
+  <script type="text/javascript">
+    dnLoadScript("https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-503d61bf5addb3a2", true);
+  </script>
+
+
+      </div>
+    </div>
+  </div>
+
+  
+  
+    <script type="text/javascript">
+      Foundation.Tools.setup();
+    </script>
+  
+
+
+
+
+  
+
+  
+
+  
+    <div id="StoryHeader" class="SpanningFeature ContentDefault   ">
+      <div class="storyHead">
+        
+        <h1 class="headline headline-12138644">UR to receive $13 million in federal funding for new Physics Frontier Center&nbsp;</h1>        
+        
+        
+          
+
+          <cite class="byline">
+            <span class="byAttribute">By</span> <a href="https://www.rochestercitynewspaper.com/author/randy-gorbman" rel="author">Randy Gorbman</a>
+               
+          </cite>
+
+          
+
+        
+      </div>
+    </div> <!-- end StoryHeader -->
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+    
+
+    
+      <div id="MagnumImage" class="SpanningFeature ContentDefault ">
+        <div class="magnumContainer">
+          
+
+          
+          
+          
+          
+          
+            
+          
+
+          
+          
+          
+
+          
+          
+
+          
+          
+            <span class="clicktozoom">click to enlarge</span>
+            <a href="https://media2.fdncms.com/rochester/imager/u/original/12138649/nsf_grant_ur.jpg" class="zoomable"><img src="https://media2.fdncms.com/rochester/imager/u/magnum/12138649/nsf_grant_ur.jpg" width="640" height="384" class="magnum" alt="Artist&#39;s conception of a pair of young, still-forming stars (background) and the fragmentation of material in a larger cloud in which the stars are born." srcset="" /></a>
+          
+          
+          
+            
+            
+              
+                
+                  
+                    
+                    
+                      <p class="credit"><a href="https://www.rochestercitynewspaper.com/rochester/ImageArchives?oid=12138649">IMAGE CREDIT NSF / UNIVERSITY OF ROCHESTER</a></p>
+                    
+                  
+                
+              
+            
+              
+                
+                  <p class="caption">Artist's conception of a pair of young, still-forming stars (background) and the fragmentation of material in a larger cloud in which the stars are born.</p>
+                
+              
+            
+          
+        </div>
+      </div>
+    
+    
+    
+    
+  
+
+
+
+
+  
+  
+
+
+
+
+
+<div id="StoryLayout" class="SpanningFeature ContentDefault ">
+
+  
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+      
+    
+    
+    
+    
+      
+      
+
+      
+              
+    
+
+      
+     
+       
+      
+      
+      
+      
+    
+      <div id="storyBody" class="page1">
+        
+      
+        
+
+        
+        
+          <div>
+  The National Science Foundation is providing nearly $13 million in federal funding for a new Physics Frontier Center at the University of Rochester.<br>
+  <br>
+  University officials say the Center for Matter at Atomic Pressures (CMAP) will focus on understanding the physics and astrophysical implications of matter under pressures so high that the structure of individual atoms is disrupted.<br>
+  <br>
+  U.S. Senators Chuck Schumer and Kirsten Gillibrand say that the funding will also establish the University of Rochester as a pioneer in the field of high energy density science.<br>
+  <br>
+  The research at the new Physics Frontier Center will be done in collaboration with scientists at MIT, Princeton, the Universities of California at Berkeley and Davis, the University at Buffalo and the Lawrence Livermore National Laboratory.<br>
+  <br>
+  Gilbert Collins, associate director of science, technology and academics at the Laboratory for Laser Energetics at UR and principal investigator on the project, says the project is part of a paradigm shift “in how we think about extreme states of matter."  It was previously believed, for example, that materials subjected to very high, atomic-scale pressure, would transition to simple, densely packed metals.<br>
+  <br>
+  "However, recent theoretical and experimental results now suggest such extreme matter can become increasingly more complicated, with extraordinarily exotic properties," Collins says. "Aluminum, for example, may transform from a simple metal to a transparent insulator, hydrogen from a gas into a superconducting superfluid, and traditional hot conducting plasma to an insulating plasma."<br>
+  <br>
+  UR researchers also say that the new CMAP center will also help scientists understand the nature of planets including a deeper look into how the solar system evolved.<br>
+  <br>
+  There’s also an educational component to this work —&nbsp;Adam Frank, professor of physics and astronomy at UR, is leading outreach efforts on bringing high-energy-density science to students in a range of settings from high schools to graduate schools.<br>
+  <br>
+  
+  <div>
+    <i>Randy Gorbman is the news director at WXXI News, a media partner of CITY. He can be reached at <a href="mailto:rgorbman@wxxi.org">rgorbman@wxxi.org</a>.</i>
+  </div>
+
+<div class="contentImageCenter" style="overflow:hidden;">                              <span class="clicktozoom imageHasURL">click image</span>                <a href="http://www.wxxinews.org" target="_blank" title="wxxi_news_partners.png">                  <img src="https://media1.fdncms.com/rochester/imager/u/blog/12138650/wxxi_news_partners.png?cb=1597682150" width="613" height="123" alt="wxxi_news_partners.png" srcset="" />                </a>                                                                                                           <ul style="width:613px;overflow:hidden;margin-left:auto;margin-right:auto;">                                                                                                                                                                                                                                          </ul>                                                       </div>
+
+
+</div>
+        
+
+        
+        
+
+        
+        
+      </div>
+    
+
+  
+  
+</div> <!-- end StoryLayout -->
+
+
+
+
+
+  
+  
+  
+
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" type="text/css" href="/fdn-system/assets/pub/styles/desktop.css?cb=c81cd6851ce2d7395174a38ce572fc82" />
+
+  <!-- UIkit JS -->
+  <script src="/fdn-system/assets/pub/scripts/uikit.min.js?cb=c81cd6851ce2d7395174a38ce572fc82"></script>
+  <script src="/fdn-system/assets/pub/scripts/uikit-icons-fdn.min.js?cb=c81cd6851ce2d7395174a38ce572fc82"></script>
+
+
+  
+
+  <style>
+    @media (min-width: 640px){
+      div[id] .uk-child-width-1-3\@exs > * {
+         width: calc(100% * 1 / 3.001);
+      } 
+    }
+    #gridMainColumn .uk-width-1-2\@es {
+      width: 50%;
+    }
+
+    #gridMainColumn .uk-child-width-auto\@exs > * {
+      width: auto;
+    }
+    
+    .uk-root {
+      font-size: 14px;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+  
+
+  
+    
+  
+
+  
+
+
+
+
+ 
+  <div id="StoryTags" class="SpanningFeature ContentDefault ">
+    <p class="tags">Tags: <a href="/rochester/ArticleArchives?category=2124545" rel="tag">News</a>, <a href="/rochester/ArticleArchives?tag=University%20of%20Rochester" rel="tag">University of Rochester</a>, <a href="/rochester/ArticleArchives?tag=Physics%20Frontier%20Center" rel="tag">Physics Frontier Center</a>, <a href="/rochester/ArticleArchives?tag=Center%20for%20Matter%20at%20Atomic%20Pressures" rel="tag">Center for Matter at Atomic Pressures</a>, <a href="/rochester/ArticleArchives?tag=CMAP" rel="tag">CMAP</a>, <a href="/rochester/ArticleArchives?tag=Gilbert%20Collins" rel="tag">Gilbert Collins</a>, <a href="/rochester/ArticleArchives?tag=Adam%20Frank" rel="tag">Adam Frank</a></p>          
+  </div> <!-- end StoryTags -->
+
+
+
+
+<!-- Custom Macros -->
+  <script>
+  (function() {
+  if(document.getElementById('commitchange-script')) return;
+  var npo = 5423;
+  var script = document.createElement('script');
+  var first = document.getElementsByTagName('script')[0];
+  script.setAttribute('data-npo-id', npo);
+  script.id = 'commitchange-script';
+  script.src = 'https://us.commitchange.com/js/donate-button.v2.js';
+  first.parentNode.insertBefore(script, first);
+  })();
+  </script>
+<!-- Custom Macros -->
+  <a data-amounts='5.85,15.85,58.50,585.00,Other' class='commitchange-donate' data-custom='' data-hide-dedication=''></a>
+
+
+  <div id="ArchiveLink" class="SpanningFeature ContentDefault ">
+    <p class="moreArticles">
+      
+        <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=2124545">More News &raquo;</a>
+      
+      
+    </p>
+  </div> <!-- end ArchiveLink -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  <div class="SpanningFeature ContentDefault CommentsComponent   uk-root fdn-margin-vert DisqusComments comp-shell-disquscomments" data-component-id="DisqusComments">
+    
+
+    <div id="disqus_thread"></div>
+    <script>
+      var disqus_config = function () {
+        this.page.url = "https:\/\/www.rochestercitynewspaper.com\/rochester\/ur-to-receive-13-million-in-federal-funding-for-new-physics-frontier-center\/Content?oid=12138644";
+        this.page.identifier = "rochester:12138644";
+      };
+
+      (function() {
+        var d = document, s = d.createElement('script');
+        s.src = "https://https-roccitynews-com.disqus.com/embed.js";
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div><!-- gridSpanningFeature -->
+      
+      <div id="gridSpanningFeature2">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+      <div id="RecentByTag" class="SpanningFeature ContentDefault ">
+        <h3 class="latestart">
+          <span class="headingText">
+          
+            Speaking of...
+          
+          </span>
+        </h3>
+        
+        <ul class="moduleList">
+
+        
+        
+        
+    
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/arts-change-conference-addresses-bias-advocates-for-equity/Content?oid=13265323">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/13265331/microsoftteams-image_51_.png"
+             alt="ARTs+Change Conference addresses bias, advocates for equity"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/arts-change-conference-addresses-bias-advocates-for-equity/Content?oid=13265323">ARTs+Change Conference addresses bias, advocates for equity</a>
+    </h4>
+    <div class="date"> Jun  2, 2021 </div>
+  </li>
+    
+
+    
+  
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/university-of-rochester-to-hold-hybrid-commencement/Content?oid=12970848">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/12970853/ur_rrl.jpg"
+             alt="University of Rochester to hold hybrid commencement"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/university-of-rochester-to-hold-hybrid-commencement/Content?oid=12970848">University of Rochester to hold hybrid commencement</a>
+    </h4>
+    <div class="date"> Mar 19, 2021 </div>
+  </li>
+    
+
+    
+  
+    
+
+    
+    
+
+    
+
+    
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/biographical-films-and-tv-shows-that-bring-historic-leaders-to-life/Content?oid=12889417">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/12889606/twitter_teaser_juana_ines.png"
+             alt="Biographical films and TV shows that bring historic leaders to life"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/biographical-films-and-tv-shows-that-bring-historic-leaders-to-life/Content?oid=12889417">Biographical films and TV shows that bring historic leaders to life</a>
+    </h4>
+    <div class="date"> Mar  1, 2021 </div>
+  </li>
+    
+
+    
+  
+        
+
+        
+
+        
+          <li class="l0 storyItem more">
+            <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?tag=University%20of%20Rochester%7C%7CPhysics%20Frontier%20Center%7C%7CCenter%20for%20Matter%20at%20Atomic%20Pressures%7C%7CCMAP%7C%7CGilbert%20Collins%7C%7CAdam%20Frank" class="more">More &raquo;</a>
+          </li>
+        
+        </ul>
+      </div>
+    
+  
+
+
+
+
+
+
+
+
+
+  
+  
+      <div id="LatestInCategory" class="SpanningFeature ContentDefault ">
+        <h3 class="latestnews"><span class="headingText">Latest in News</span></h3>
+        <ul class="moduleList ui list grouped expanded">
+    
+    
+    <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/monroe-county-legislature-could-go-either-way-here-are-the-races-to-watch/Content?oid=13718364">
+        <img src="https://media2.fdncms.com/rochester/imager/u/review/13718372/teaser.png"
+             alt="Monroe County Legislature could go either way. Here are the races to watch."
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/monroe-county-legislature-could-go-either-way-here-are-the-races-to-watch/Content?oid=13718364">Monroe County Legislature could go either way. Here are the races to watch.</a>
+    </h4>
+    <div class="date"> Oct  7, 2021 </div>
+  </li>
+    
+  
+    
+    <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/primary-winners-try-to-lock-in-council-seats/Content?oid=13717929">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/13718745/teaser.png"
+             alt="Primary winners try to lock in Council seats"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/primary-winners-try-to-lock-in-council-seats/Content?oid=13717929">Primary winners try to lock in Council seats</a>
+    </h4>
+    <div class="date"> Oct  7, 2021 </div>
+  </li>
+    
+  
+    
+    <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/rpd-says-suspect-shot-and-killed-during-apparent-robbery-at-a-family-dollar-store/Content?oid=13756808">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/13756813/rochester_police_cruiser.jpg"
+             alt="RPD says suspect shot and killed during apparent robbery at a Family Dollar store"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/rpd-says-suspect-shot-and-killed-during-apparent-robbery-at-a-family-dollar-store/Content?oid=13756808">RPD says suspect shot and killed during apparent robbery at a Family Dollar store</a>
+    </h4>
+    <div class="date"> Oct  7, 2021 </div>
+  </li>
+    
+  
+        
+            <li class="l0 storyItem more">
+              <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?category=2124545" class="more">More &raquo;</a>
+            </li>
+          </ul>
+        
+      </div>
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+    <div id="MorebyThisAuthorWrapper" class="SpanningFeature ContentDefault Wrapper">
+
+    
+      
+      
+          <div id="MorebyThisAuthor" class="SpanningFeature ContentDefault ">
+            <h3><span class="headingText">More by Randy Gorbman</span></h3>
+            <ul class="moduleList">
+        
+        
+        
+        <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/rpd-says-suspect-shot-and-killed-during-apparent-robbery-at-a-family-dollar-store/Content?oid=13756808">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/13756813/rochester_police_cruiser.jpg"
+             alt="RPD says suspect shot and killed during apparent robbery at a Family Dollar store"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/rpd-says-suspect-shot-and-killed-during-apparent-robbery-at-a-family-dollar-store/Content?oid=13756808">RPD says suspect shot and killed during apparent robbery at a Family Dollar store</a>
+    </h4>
+    <div class="date"> Oct  7, 2021 </div>
+  </li>
+        
+        
+
+      
+        
+        
+        <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/fire-destroys-back-porch-at-susan-b-anthony-house/Content?oid=13717263">
+        <img src="https://media2.fdncms.com/rochester/imager/u/review/13717272/susan_b_house.jpg"
+             alt="Fire destroys back porch at Susan B. Anthony house"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/fire-destroys-back-porch-at-susan-b-anthony-house/Content?oid=13717263">Fire destroys back porch at Susan B. Anthony house</a>
+    </h4>
+    <div class="date"> Sep 27, 2021 </div>
+  </li>
+        
+        
+
+      
+        
+        
+        <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/one-rpd-officer-in-the-daniel-prude-case-faces-internal-dept-charges/Content?oid=13705223">
+        <img src="https://media2.fdncms.com/rochester/imager/u/review/13705226/daniel_teaser.jpg"
+             alt="One RPD officer in the Daniel Prude case faces internal dept. charges"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/one-rpd-officer-in-the-daniel-prude-case-faces-internal-dept-charges/Content?oid=13705223">One RPD officer in the Daniel Prude case faces internal dept. charges</a>
+    </h4>
+    <div class="date"> Sep 24, 2021 </div>
+  </li>
+        
+        
+
+      
+             <li class="l0 storyItem more">
+               <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives?author=9120774" class="more">More &raquo;</a>
+             </li>
+             </ul>
+          </div>
+        
+    
+   </div>  
+   
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+        <div id="PeopleWhoLiked" class="SpanningFeature ContentDefault ">
+          <h3><span class="headingText">Readers also liked&hellip;</span></h3>
+          <ul>
+      
+      
+      
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/riots-still-haunt-rochester/Content?oid=2408308">
+        <img src="https://media2.fdncms.com/rochester/imager/riots-still-haunt-rochester/u/review/2408310/homefeat.jpg"
+             alt="A look back: Riots of &#39;64 still haunt Rochester"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/riots-still-haunt-rochester/Content?oid=2408308">A look back: Riots of '64 still haunt Rochester</a>
+    </h4>
+    <div class="date"> Jun  1, 2020 </div>
+  </li>
+      
+      
+    
+      
+      
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/council-advocates-push-for-a-publicly-owned-bank-of-rochester/Content?oid=12050187">
+        <img src="https://media2.fdncms.com/rochester/imager/u/review/12050195/bank-of-rochester-teaser.jpg"
+             alt="Council, advocates push for a publicly-owned Bank of Rochester"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/council-advocates-push-for-a-publicly-owned-bank-of-rochester/Content?oid=12050187">Council, advocates push for a publicly-owned Bank of Rochester</a>
+    </h4>
+    <div class="date"> Jul 24, 2020 </div>
+  </li>
+      
+      
+    
+      
+      
+      <li class="l0 storyItem">
+    
+      
+      <a href="https://www.rochestercitynewspaper.com/rochester/hopr-bike-share-could-soon-coast-into-rochester/Content?oid=12093295">
+        <img src="https://media1.fdncms.com/rochester/imager/u/review/12093468/hopr_rts_ebike_1_-web.jpg"
+             alt="HOPR bike share could soon coast into Rochester"
+             width=""
+             height=""
+             srcset="" />
+      </a>
+    
+    <h4 class="headline">
+      <a href="https://www.rochestercitynewspaper.com/rochester/hopr-bike-share-could-soon-coast-into-rochester/Content?oid=12093295">HOPR bike share could soon coast into Rochester</a>
+    </h4>
+    <div class="date"> Aug  5, 2020 </div>
+  </li>
+      
+      
+    
+          </ul>
+        </div>
+      
+               
+
+      </div><!-- gridSpanningFeature2 -->
+
+      <div id="gridColumnContainer" class="clearfix">
+
+        <div id="gridMainColumn1">
+          
+        </div><!-- gridMainColumn1 -->
+        
+        <div id="gridMainColumn2">
+          
+        </div><!-- gridMainColumn2 -->
+
+      </div><!-- end gridColumnContainer -->
+
+    </div><!-- end gridFrame -->
+
+    <div id="gridRightColumn">   
+      <div id="gridSpanningIsland">
+        
+
+
+
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+     
+
+     
+
+  
+  
+
+  
+  
+
+
+  
+
+  
+  
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+  
+
+
+
+<div id="BoxAd1" class="SpanningIsland ContentDefault Ad MediumRectangle">
+  <!-- /1843875/CITY_MED_RECT_1 -->
+          <div id="div-gpt-ad-city_med_rect_1" style="" data-content-type="ad" data-slot="/1843875/CITY_MED_RECT_1" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_med_rect_1');
+                });
+              </script>
+          </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="EventChooser" class="SpanningIsland ContentDefault ">
+  <h3>Browse Listings</h3>
+
+  <div class="tabs">
+    <div class="tabCurrent tabLeft"><a href="#">Events</a></div>
+    <div class="tabBack tabRight"><a href="#">Music</a></div>
+  </div>
+  <div class="clear"><!-- clear --></div>
+
+
+  
+  
+
+  <div id="calendarBody-events" class="eventSearchBody" >
+    <form name="eventSearchForm" method="get" action="https://www.rochestercitynewspaper.com/rochester/EventSearch">
+      <select name="narrowByDate">
+    <option value="">-All Dates-</option>
+    
+    
+      
+      
+        
+        
+          <option value="2021-10-08" selected="selected">Friday, October  8</option>
+        
+      
+        
+        
+          <option value="2021-10-09">Saturday, October  9</option>
+        
+      
+        
+        
+          <option value="2021-10-10">Sunday, October 10</option>
+        
+      
+        
+        
+          <option value="2021-10-11">Monday, October 11</option>
+        
+      
+        
+        
+          <option value="2021-10-12">Tuesday, October 12</option>
+        
+      
+        
+        
+          <option value="2021-10-13">Wednesday, October 13</option>
+        
+      
+        
+        
+          <option value="2021-10-14">Thursday, October 14</option>
+        
+      
+        
+        
+          <option value="2021-10-15">Friday, October 15</option>
+        
+      
+        
+        
+          <option value="2021-10-16">Saturday, October 16</option>
+        
+      
+        
+        
+          <option value="2021-10-17">Sunday, October 17</option>
+        
+      
+        
+        
+          <option value="2021-10-18">Monday, October 18</option>
+        
+      
+        
+        
+          <option value="2021-10-19">Tuesday, October 19</option>
+        
+      
+        
+        
+          <option value="2021-10-20">Wednesday, October 20</option>
+        
+      
+        
+        
+          <option value="2021-10-21">Thursday, October 21</option>
+        
+      
+        
+        
+          <option value="2021-10-22">Friday, October 22</option>
+        
+      
+        
+        
+          <option value="2021-10-23">Saturday, October 23</option>
+        
+      
+        
+        
+          <option value="2021-10-24">Sunday, October 24</option>
+        
+      
+        
+        
+          <option value="2021-10-25">Monday, October 25</option>
+        
+      
+        
+        
+          <option value="2021-10-26">Tuesday, October 26</option>
+        
+      
+        
+        
+          <option value="2021-10-27">Wednesday, October 27</option>
+        
+      
+        
+        
+          <option value="2021-10-28">Thursday, October 28</option>
+        
+      
+        
+        
+          <option value="2021-10-29">Friday, October 29</option>
+        
+      
+        
+        
+          <option value="2021-10-30">Saturday, October 30</option>
+        
+      
+        
+        
+          <option value="2021-10-31">Sunday, October 31</option>
+        
+      
+        
+        
+          <option value="2021-11-01">Monday, November  1</option>
+        
+      
+        
+        
+          <option value="2021-11-02">Tuesday, November  2</option>
+        
+      
+        
+        
+          <option value="2021-11-03">Wednesday, November  3</option>
+        
+      
+        
+        
+          <option value="2021-11-04">Thursday, November  4</option>
+        
+      
+        
+        
+          <option value="2021-11-05">Friday, November  5</option>
+        
+      
+        
+        
+          <option value="2021-11-06">Saturday, November  6</option>
+        
+      
+        
+        
+          <option value="2021-11-07">Sunday, November  7</option>
+        
+      
+    
+  </select>
+
+      <select name="eventCategory">
+        <option value="">-All Categories-</option>
+        
+          
+            <option value="11549839" >*ONLINE</option>
+          
+          
+            <option value="11591202" >&nbsp;&nbsp;Virtual Event</option>
+          
+        
+          
+            <option value="2124768" >LIFE</option>
+          
+          
+            <option value="2924836" >&nbsp;&nbsp;Activism</option>
+          
+        
+          
+          
+            <option value="11352412" >&nbsp;&nbsp;Black History</option>
+          
+        
+          
+          
+            <option value="2390970" >&nbsp;&nbsp;Call for Participants</option>
+          
+        
+          
+          
+            <option value="12142297" >&nbsp;&nbsp;Classes</option>
+          
+        
+          
+          
+            <option value="9325826" >&nbsp;&nbsp;Dr. Martin Luther King, Jr. Remembrance</option>
+          
+        
+          
+          
+            <option value="10190919" >&nbsp;&nbsp;Earth Day</option>
+          
+        
+          
+          
+            <option value="2124776" >&nbsp;&nbsp;Festivals</option>
+          
+        
+          
+          
+            <option value="5465873" >&nbsp;&nbsp;Frederick Douglass</option>
+          
+        
+          
+          
+            <option value="6400527" >&nbsp;&nbsp;Halloween</option>
+          
+        
+          
+          
+            <option value="2474372" >&nbsp;&nbsp;Holiday</option>
+          
+        
+          
+          
+            <option value="13231452" >&nbsp;&nbsp;Juneteenth</option>
+          
+        
+          
+          
+            <option value="2124777" >&nbsp;&nbsp;Kids Events</option>
+          
+        
+          
+          
+            <option value="12142853" >&nbsp;&nbsp;Kids Exhibits</option>
+          
+        
+          
+          
+            <option value="2124782" >&nbsp;&nbsp;Lectures</option>
+          
+        
+          
+          
+            <option value="12127699" >&nbsp;&nbsp;Literary Events &amp; Discussions</option>
+          
+        
+          
+          
+            <option value="2392843" >&nbsp;&nbsp;Meetings</option>
+          
+        
+          
+          
+            <option value="8972602" >&nbsp;&nbsp;New Year&#39;s Eve</option>
+          
+        
+          
+          
+            <option value="2124778" >&nbsp;&nbsp;Recreation</option>
+          
+        
+          
+          
+            <option value="2124781" >&nbsp;&nbsp;Special Events</option>
+          
+        
+          
+          
+            <option value="2124780" >&nbsp;&nbsp;Sports</option>
+          
+        
+          
+          
+            <option value="2124784" >&nbsp;&nbsp;Workshops</option>
+          
+        
+          
+            <option value="9154215" >NEW YEAR&#39;S EVE / DAY</option>
+          
+          
+            <option value="9154216" >&nbsp;&nbsp;Family</option>
+          
+        
+          
+          
+            <option value="9154281" >&nbsp;&nbsp;Laughs</option>
+          
+        
+          
+          
+            <option value="9154282" >&nbsp;&nbsp;On Screen</option>
+          
+        
+          
+          
+            <option value="9154414" >&nbsp;&nbsp;Outdoors</option>
+          
+        
+          
+          
+            <option value="9154283" >&nbsp;&nbsp;Revelry</option>
+          
+        
+          
+            <option value="2124696" >VISUAL &amp; PERFORMING ARTS</option>
+          
+          
+            <option value="2124773" >&nbsp;&nbsp;Art Events</option>
+          
+        
+          
+          
+            <option value="2124771" >&nbsp;&nbsp;Art Exhibits</option>
+          
+        
+          
+          
+            <option value="2124772" >&nbsp;&nbsp;Call for Artists</option>
+          
+        
+          
+          
+            <option value="2131975" >&nbsp;&nbsp;Comedy</option>
+          
+        
+          
+          
+            <option value="2124774" >&nbsp;&nbsp;Dance Events</option>
+          
+        
+          
+          
+            <option value="2457927" >&nbsp;&nbsp;Film</option>
+          
+        
+          
+          
+            <option value="2124783" >&nbsp;&nbsp;Readings &amp; Spoken Word</option>
+          
+        
+          
+          
+            <option value="2124775" >&nbsp;&nbsp;Theater</option>
+          
+        
+          
+          
+            <option value="2136681" >&nbsp;&nbsp;Theater Audition</option>
+          
+        
+      </select>
+
+      <select name="neighborhood">
+    <option value="">-All Neighborhoods-</option>
+    
+      
+        
+          <option value="2134278" >CITY OF ROCHESTER</option>
+        
+        <option value="2229831" >&nbsp;&nbsp;College Town</option>
+      
+        
+        <option value="2124863" >&nbsp;&nbsp;Downtown</option>
+      
+        
+        <option value="2134282" >&nbsp;&nbsp;19th Ward</option>
+      
+        
+        <option value="2134285" >&nbsp;&nbsp;Alphabet Streets</option>
+      
+        
+        <option value="2134286" >&nbsp;&nbsp;Beechwood</option>
+      
+        
+        <option value="2134287" >&nbsp;&nbsp;Brown Square</option>
+      
+        
+        <option value="2134288" >&nbsp;&nbsp;Browncroft</option>
+      
+        
+        <option value="2134289" >&nbsp;&nbsp;Bull&#39;s Head</option>
+      
+        
+        <option value="2134291" >&nbsp;&nbsp;COTS</option>
+      
+        
+        <option value="2134292" >&nbsp;&nbsp;Charlotte</option>
+      
+        
+        <option value="2134293" >&nbsp;&nbsp;Cobbs Hill</option>
+      
+        
+        <option value="2134294" >&nbsp;&nbsp;Corn Hill</option>
+      
+        
+        <option value="2134295" >&nbsp;&nbsp;East Avenue</option>
+      
+        
+        <option value="2134296" >&nbsp;&nbsp;East End</option>
+      
+        
+        <option value="2134297" >&nbsp;&nbsp;Edgerton</option>
+      
+        
+        <option value="2134298" >&nbsp;&nbsp;Genesee-Jefferson</option>
+      
+        
+        <option value="2134299" >&nbsp;&nbsp;Group 14621</option>
+      
+        
+        <option value="2134300" >&nbsp;&nbsp;Grove Place</option>
+      
+        
+        <option value="2134301" >&nbsp;&nbsp;High Falls</option>
+      
+        
+        <option value="2134302" >&nbsp;&nbsp;Highland Park</option>
+      
+        
+        <option value="2134303" >&nbsp;&nbsp;Homestead Heights</option>
+      
+        
+        <option value="2134304" >&nbsp;&nbsp;JOSANA</option>
+      
+        
+        <option value="2134323" >&nbsp;&nbsp;Lyell-Otis</option>
+      
+        
+        <option value="2134324" >&nbsp;&nbsp;Maplewood</option>
+      
+        
+        <option value="2134325" >&nbsp;&nbsp;Marketview Heights</option>
+      
+        
+        <option value="2134327" >&nbsp;&nbsp;Monroe Village</option>
+      
+        
+        <option value="2125238" >&nbsp;&nbsp;Mount Hope</option>
+      
+        
+        <option value="2124698" >&nbsp;&nbsp;Neighborhood of the Arts</option>
+      
+        
+        <option value="2134329" >&nbsp;&nbsp;North Winton Village</option>
+      
+        
+        <option value="2134330" >&nbsp;&nbsp;Northland-Lyceum</option>
+      
+        
+        <option value="2125223" >&nbsp;&nbsp;Park Avenue</option>
+      
+        
+        <option value="2134331" >&nbsp;&nbsp;Pearl-Meigs-Monroe</option>
+      
+        
+        <option value="2134332" >&nbsp;&nbsp;Plymouth-Exchange</option>
+      
+        
+        <option value="12606013" >&nbsp;&nbsp;Seabreeze</option>
+      
+        
+        <option value="2134333" >&nbsp;&nbsp;South Wedge</option>
+      
+        
+        <option value="2134343" >&nbsp;&nbsp;St. Paul Quarter</option>
+      
+        
+        <option value="2134334" >&nbsp;&nbsp;Susan B. Anthony</option>
+      
+        
+        <option value="2134336" >&nbsp;&nbsp;Swillburg</option>
+      
+        
+        <option value="2134337" >&nbsp;&nbsp;U.N.I.T.</option>
+      
+        
+        <option value="2134338" >&nbsp;&nbsp;Upper Falls</option>
+      
+        
+        <option value="2134339" >&nbsp;&nbsp;Upper Monroe Avenue</option>
+      
+        
+        <option value="2134340" >&nbsp;&nbsp;Upper Mount Hope</option>
+      
+        
+        <option value="2134341" >&nbsp;&nbsp;Wadsworth Square</option>
+      
+        
+        <option value="2216396" >&nbsp;&nbsp;Laurelton</option>
+      
+        
+          <option value="2134317" >GREATER ROCHESTER</option>
+        
+        <option value="2131964" >&nbsp;&nbsp;Brighton</option>
+      
+        
+        <option value="2125582" >&nbsp;&nbsp;Brockport</option>
+      
+        
+        <option value="2136431" >&nbsp;&nbsp;Bushnell&#39;s Basin</option>
+      
+        
+        <option value="2134250" >&nbsp;&nbsp;Chili</option>
+      
+        
+        <option value="2134261" >&nbsp;&nbsp;Churchville</option>
+      
+        
+        <option value="2125260" >&nbsp;&nbsp;East Rochester</option>
+      
+        
+        <option value="2125282" >&nbsp;&nbsp;Fairport</option>
+      
+        
+        <option value="2125274" >&nbsp;&nbsp;Gates</option>
+      
+        
+        <option value="2134080" >&nbsp;&nbsp;Greece</option>
+      
+        
+        <option value="2134255" >&nbsp;&nbsp;Hamlin</option>
+      
+        
+        <option value="2125267" >&nbsp;&nbsp;Henrietta</option>
+      
+        
+        <option value="2125298" >&nbsp;&nbsp;Hilton</option>
+      
+        
+        <option value="2125347" >&nbsp;&nbsp;Honeoye Falls</option>
+      
+        
+        <option value="2125731" >&nbsp;&nbsp;Irondequoit</option>
+      
+        
+        <option value="2134267" >&nbsp;&nbsp;Mendon</option>
+      
+        
+        <option value="2138341" >&nbsp;&nbsp;North Chili</option>
+      
+        
+        <option value="2134257" >&nbsp;&nbsp;Ogden</option>
+      
+        
+        <option value="2125270" >&nbsp;&nbsp;Park Point</option>
+      
+        
+        <option value="2131978" >&nbsp;&nbsp;Penfield</option>
+      
+        
+        <option value="2125579" >&nbsp;&nbsp;Perinton</option>
+      
+        
+        <option value="2125244" >&nbsp;&nbsp;Pittsford</option>
+      
+        
+        <option value="2134266" >&nbsp;&nbsp;Rush</option>
+      
+        
+        <option value="2125783" >&nbsp;&nbsp;Scottsville</option>
+      
+        
+        <option value="2134258" >&nbsp;&nbsp;Spencerport</option>
+      
+        
+        <option value="2134275" >&nbsp;&nbsp;Sweden</option>
+      
+        
+        <option value="2125277" >&nbsp;&nbsp;Webster</option>
+      
+        
+        <option value="2134272" >&nbsp;&nbsp;Wheatland</option>
+      
+        
+          <option value="13672859" >ROCHESTER REGION</option>
+        
+        <option value="2184747" >&nbsp;&nbsp;Albion</option>
+      
+        
+        <option value="2142743" >&nbsp;&nbsp;Alton</option>
+      
+        
+        <option value="2134491" >&nbsp;&nbsp;Auburn</option>
+      
+        
+        <option value="2201937" >&nbsp;&nbsp;Aurora</option>
+      
+        
+        <option value="2161507" >&nbsp;&nbsp;Avon</option>
+      
+        
+        <option value="2131961" >&nbsp;&nbsp;Batavia</option>
+      
+        
+        <option value="11064499" >&nbsp;&nbsp;Bloomfield</option>
+      
+        
+        <option value="4446507" >&nbsp;&nbsp;Caledonia</option>
+      
+        
+        <option value="2125199" >&nbsp;&nbsp;Canandaigua</option>
+      
+        
+        <option value="2216252" >&nbsp;&nbsp;Clifton Springs</option>
+      
+        
+        <option value="2250745" >&nbsp;&nbsp;Corning</option>
+      
+        
+        <option value="2125263" >&nbsp;&nbsp;Darien</option>
+      
+        
+        <option value="2136578" >&nbsp;&nbsp;Farmington</option>
+      
+        
+        <option value="2139668" >&nbsp;&nbsp;Geneseo</option>
+      
+        
+        <option value="2125585" >&nbsp;&nbsp;Geneva</option>
+      
+        
+        <option value="2227154" >&nbsp;&nbsp;Holley</option>
+      
+        
+        <option value="2331864" >&nbsp;&nbsp;Honeoye</option>
+      
+        
+        <option value="2138112" >&nbsp;&nbsp;Interlaken</option>
+      
+        
+        <option value="2125230" >&nbsp;&nbsp;Letchworth</option>
+      
+        
+        <option value="2141052" >&nbsp;&nbsp;Lima</option>
+      
+        
+        <option value="11536619" >&nbsp;&nbsp;Linwood</option>
+      
+        
+        <option value="2138244" >&nbsp;&nbsp;Lyons</option>
+      
+        
+        <option value="2134365" >&nbsp;&nbsp;Macedon</option>
+      
+        
+        <option value="2139353" >&nbsp;&nbsp;Medina</option>
+      
+        
+        <option value="2144826" >&nbsp;&nbsp;Middlesex</option>
+      
+        
+        <option value="2125566" >&nbsp;&nbsp;Mumford</option>
+      
+        
+        <option value="2134495" >&nbsp;&nbsp;Naples</option>
+      
+        
+        <option value="9863757" >&nbsp;&nbsp;Palmyra</option>
+      
+        
+        <option value="2139627" >&nbsp;&nbsp;Penn Yan</option>
+      
+        
+        <option value="2144625" >&nbsp;&nbsp;Perry</option>
+      
+        
+        <option value="2255802" >&nbsp;&nbsp;Phelps</option>
+      
+        
+        <option value="2125461" >&nbsp;&nbsp;Pultneyville</option>
+      
+        
+        <option value="2286124" >&nbsp;&nbsp;Romulus</option>
+      
+        
+        <option value="2138091" >&nbsp;&nbsp;Seneca Falls</option>
+      
+        
+        <option value="2138131" >&nbsp;&nbsp;Shortsville</option>
+      
+        
+        <option value="13384852" >&nbsp;&nbsp;Skaneateles</option>
+      
+        
+        <option value="2125540" >&nbsp;&nbsp;Sodus</option>
+      
+        
+        <option value="2142982" >&nbsp;&nbsp;Sterling</option>
+      
+        
+        <option value="2125287" >&nbsp;&nbsp;Victor</option>
+      
+        
+        <option value="13673026" >&nbsp;&nbsp;Wyoming</option>
+      
+        
+        <option value="2146479" >&nbsp;&nbsp;Pavillon</option>
+      
+        
+        <option value="2247719" >&nbsp;&nbsp;Livonia</option>
+      
+    
+  </select>
+      <input type="text" size="18" name="keywords" title="Enter keyword" class="text" value="" />
+      <input type="hidden" name="ongoing" value="Timely" />
+      <input type="submit" value="go" />
+    </form>
+      <a href="https://posting.rochestercitynewspaper.com/rochester/Events/AddEvent">Submit an event</a>
+  </div>
+
+
+  
+
+  <div id="calendarBody-music" class="eventSearchBody" style="display:none">
+    <form name="musicEventSearchForm" method="get" action="https://www.rochestercitynewspaper.com/rochester/EventSearch">
+      <input type="hidden" name="eventSection" value="2124770" />
+
+      <select name="narrowByDate">
+    <option value="">-All Dates-</option>
+    
+    
+      
+      
+        
+        
+          <option value="2021-10-08" selected="selected">Friday, October  8</option>
+        
+      
+        
+        
+          <option value="2021-10-09">Saturday, October  9</option>
+        
+      
+        
+        
+          <option value="2021-10-10">Sunday, October 10</option>
+        
+      
+        
+        
+          <option value="2021-10-11">Monday, October 11</option>
+        
+      
+        
+        
+          <option value="2021-10-12">Tuesday, October 12</option>
+        
+      
+        
+        
+          <option value="2021-10-13">Wednesday, October 13</option>
+        
+      
+        
+        
+          <option value="2021-10-14">Thursday, October 14</option>
+        
+      
+        
+        
+          <option value="2021-10-15">Friday, October 15</option>
+        
+      
+        
+        
+          <option value="2021-10-16">Saturday, October 16</option>
+        
+      
+        
+        
+          <option value="2021-10-17">Sunday, October 17</option>
+        
+      
+        
+        
+          <option value="2021-10-18">Monday, October 18</option>
+        
+      
+        
+        
+          <option value="2021-10-19">Tuesday, October 19</option>
+        
+      
+        
+        
+          <option value="2021-10-20">Wednesday, October 20</option>
+        
+      
+        
+        
+          <option value="2021-10-21">Thursday, October 21</option>
+        
+      
+        
+        
+          <option value="2021-10-22">Friday, October 22</option>
+        
+      
+        
+        
+          <option value="2021-10-23">Saturday, October 23</option>
+        
+      
+        
+        
+          <option value="2021-10-24">Sunday, October 24</option>
+        
+      
+        
+        
+          <option value="2021-10-25">Monday, October 25</option>
+        
+      
+        
+        
+          <option value="2021-10-26">Tuesday, October 26</option>
+        
+      
+        
+        
+          <option value="2021-10-27">Wednesday, October 27</option>
+        
+      
+        
+        
+          <option value="2021-10-28">Thursday, October 28</option>
+        
+      
+        
+        
+          <option value="2021-10-29">Friday, October 29</option>
+        
+      
+        
+        
+          <option value="2021-10-30">Saturday, October 30</option>
+        
+      
+        
+        
+          <option value="2021-10-31">Sunday, October 31</option>
+        
+      
+        
+        
+          <option value="2021-11-01">Monday, November  1</option>
+        
+      
+        
+        
+          <option value="2021-11-02">Tuesday, November  2</option>
+        
+      
+        
+        
+          <option value="2021-11-03">Wednesday, November  3</option>
+        
+      
+        
+        
+          <option value="2021-11-04">Thursday, November  4</option>
+        
+      
+        
+        
+          <option value="2021-11-05">Friday, November  5</option>
+        
+      
+        
+        
+          <option value="2021-11-06">Saturday, November  6</option>
+        
+      
+        
+        
+          <option value="2021-11-07">Sunday, November  7</option>
+        
+      
+    
+  </select>
+
+      <select name="eventCategory">
+        <option value="">-All Categories-</option>
+        
+          <option value="2124786" >Acoustic/Folk</option>
+        
+          <option value="5494922" >Americana</option>
+        
+          <option value="2125068" >Blues</option>
+        
+          <option value="2125069" >Classical</option>
+        
+          <option value="8025273" >Contemporary Classical</option>
+        
+          <option value="2125393" >Country</option>
+        
+          <option value="2125070" >DJ/Electronic</option>
+        
+          <option value="11123705" >Funk/Groove</option>
+        
+          <option value="11119979" >Gospel</option>
+        
+          <option value="8486889" >Halloween Theme</option>
+        
+          <option value="2125201" >Hip-Hop/Rap</option>
+        
+          <option value="9546606" >Indie</option>
+        
+          <option value="8953008" >Industrial</option>
+        
+          <option value="10887782" >Jam Band</option>
+        
+          <option value="2125057" >Jazz</option>
+        
+          <option value="2125071" >Karaoke</option>
+        
+          <option value="11552258" >Live Stream</option>
+        
+          <option value="2392846" >Metal</option>
+        
+          <option value="9155532" >New Year&#39;s</option>
+        
+          <option value="7534692" >Noise/Experimental</option>
+        
+          <option value="2125072" >Open Mic</option>
+        
+          <option value="2124790" >Pop/Rock</option>
+        
+          <option value="12954518" >Pops/Standards</option>
+        
+          <option value="5557259" >Punk/Hardcore</option>
+        
+          <option value="2125073" >R&amp;B/ Soul</option>
+        
+          <option value="9977503" >Record Store Day</option>
+        
+          <option value="2125074" >Reggae</option>
+        
+          <option value="7610550" >Rockabilly</option>
+        
+          <option value="10897401" >Seasonal</option>
+        
+          <option value="9607901" >Ska</option>
+        
+          <option value="2392844" >Traditional</option>
+        
+          <option value="9435273" >Tropical</option>
+        
+          <option value="9948971" >Various</option>
+        
+          <option value="2392845" >Vocals</option>
+        
+          <option value="9033633" >World</option>
+        
+          <option value="5494919" >Zydeco</option>
+        
+      </select>
+
+      <select name="neighborhood">
+    <option value="">-All Neighborhoods-</option>
+    
+      
+        
+          <option value="2134278" >CITY OF ROCHESTER</option>
+        
+        <option value="2229831" >&nbsp;&nbsp;College Town</option>
+      
+        
+        <option value="2124863" >&nbsp;&nbsp;Downtown</option>
+      
+        
+        <option value="2134282" >&nbsp;&nbsp;19th Ward</option>
+      
+        
+        <option value="2134285" >&nbsp;&nbsp;Alphabet Streets</option>
+      
+        
+        <option value="2134286" >&nbsp;&nbsp;Beechwood</option>
+      
+        
+        <option value="2134287" >&nbsp;&nbsp;Brown Square</option>
+      
+        
+        <option value="2134288" >&nbsp;&nbsp;Browncroft</option>
+      
+        
+        <option value="2134289" >&nbsp;&nbsp;Bull&#39;s Head</option>
+      
+        
+        <option value="2134291" >&nbsp;&nbsp;COTS</option>
+      
+        
+        <option value="2134292" >&nbsp;&nbsp;Charlotte</option>
+      
+        
+        <option value="2134293" >&nbsp;&nbsp;Cobbs Hill</option>
+      
+        
+        <option value="2134294" >&nbsp;&nbsp;Corn Hill</option>
+      
+        
+        <option value="2134295" >&nbsp;&nbsp;East Avenue</option>
+      
+        
+        <option value="2134296" >&nbsp;&nbsp;East End</option>
+      
+        
+        <option value="2134297" >&nbsp;&nbsp;Edgerton</option>
+      
+        
+        <option value="2134298" >&nbsp;&nbsp;Genesee-Jefferson</option>
+      
+        
+        <option value="2134299" >&nbsp;&nbsp;Group 14621</option>
+      
+        
+        <option value="2134300" >&nbsp;&nbsp;Grove Place</option>
+      
+        
+        <option value="2134301" >&nbsp;&nbsp;High Falls</option>
+      
+        
+        <option value="2134302" >&nbsp;&nbsp;Highland Park</option>
+      
+        
+        <option value="2134303" >&nbsp;&nbsp;Homestead Heights</option>
+      
+        
+        <option value="2134304" >&nbsp;&nbsp;JOSANA</option>
+      
+        
+        <option value="2134323" >&nbsp;&nbsp;Lyell-Otis</option>
+      
+        
+        <option value="2134324" >&nbsp;&nbsp;Maplewood</option>
+      
+        
+        <option value="2134325" >&nbsp;&nbsp;Marketview Heights</option>
+      
+        
+        <option value="2134327" >&nbsp;&nbsp;Monroe Village</option>
+      
+        
+        <option value="2125238" >&nbsp;&nbsp;Mount Hope</option>
+      
+        
+        <option value="2124698" >&nbsp;&nbsp;Neighborhood of the Arts</option>
+      
+        
+        <option value="2134329" >&nbsp;&nbsp;North Winton Village</option>
+      
+        
+        <option value="2134330" >&nbsp;&nbsp;Northland-Lyceum</option>
+      
+        
+        <option value="2125223" >&nbsp;&nbsp;Park Avenue</option>
+      
+        
+        <option value="2134331" >&nbsp;&nbsp;Pearl-Meigs-Monroe</option>
+      
+        
+        <option value="2134332" >&nbsp;&nbsp;Plymouth-Exchange</option>
+      
+        
+        <option value="12606013" >&nbsp;&nbsp;Seabreeze</option>
+      
+        
+        <option value="2134333" >&nbsp;&nbsp;South Wedge</option>
+      
+        
+        <option value="2134343" >&nbsp;&nbsp;St. Paul Quarter</option>
+      
+        
+        <option value="2134334" >&nbsp;&nbsp;Susan B. Anthony</option>
+      
+        
+        <option value="2134336" >&nbsp;&nbsp;Swillburg</option>
+      
+        
+        <option value="2134337" >&nbsp;&nbsp;U.N.I.T.</option>
+      
+        
+        <option value="2134338" >&nbsp;&nbsp;Upper Falls</option>
+      
+        
+        <option value="2134339" >&nbsp;&nbsp;Upper Monroe Avenue</option>
+      
+        
+        <option value="2134340" >&nbsp;&nbsp;Upper Mount Hope</option>
+      
+        
+        <option value="2134341" >&nbsp;&nbsp;Wadsworth Square</option>
+      
+        
+        <option value="2216396" >&nbsp;&nbsp;Laurelton</option>
+      
+        
+          <option value="2134317" >GREATER ROCHESTER</option>
+        
+        <option value="2131964" >&nbsp;&nbsp;Brighton</option>
+      
+        
+        <option value="2125582" >&nbsp;&nbsp;Brockport</option>
+      
+        
+        <option value="2136431" >&nbsp;&nbsp;Bushnell&#39;s Basin</option>
+      
+        
+        <option value="2134250" >&nbsp;&nbsp;Chili</option>
+      
+        
+        <option value="2134261" >&nbsp;&nbsp;Churchville</option>
+      
+        
+        <option value="2125260" >&nbsp;&nbsp;East Rochester</option>
+      
+        
+        <option value="2125282" >&nbsp;&nbsp;Fairport</option>
+      
+        
+        <option value="2125274" >&nbsp;&nbsp;Gates</option>
+      
+        
+        <option value="2134080" >&nbsp;&nbsp;Greece</option>
+      
+        
+        <option value="2134255" >&nbsp;&nbsp;Hamlin</option>
+      
+        
+        <option value="2125267" >&nbsp;&nbsp;Henrietta</option>
+      
+        
+        <option value="2125298" >&nbsp;&nbsp;Hilton</option>
+      
+        
+        <option value="2125347" >&nbsp;&nbsp;Honeoye Falls</option>
+      
+        
+        <option value="2125731" >&nbsp;&nbsp;Irondequoit</option>
+      
+        
+        <option value="2134267" >&nbsp;&nbsp;Mendon</option>
+      
+        
+        <option value="2138341" >&nbsp;&nbsp;North Chili</option>
+      
+        
+        <option value="2134257" >&nbsp;&nbsp;Ogden</option>
+      
+        
+        <option value="2125270" >&nbsp;&nbsp;Park Point</option>
+      
+        
+        <option value="2131978" >&nbsp;&nbsp;Penfield</option>
+      
+        
+        <option value="2125579" >&nbsp;&nbsp;Perinton</option>
+      
+        
+        <option value="2125244" >&nbsp;&nbsp;Pittsford</option>
+      
+        
+        <option value="2134266" >&nbsp;&nbsp;Rush</option>
+      
+        
+        <option value="2125783" >&nbsp;&nbsp;Scottsville</option>
+      
+        
+        <option value="2134258" >&nbsp;&nbsp;Spencerport</option>
+      
+        
+        <option value="2134275" >&nbsp;&nbsp;Sweden</option>
+      
+        
+        <option value="2125277" >&nbsp;&nbsp;Webster</option>
+      
+        
+        <option value="2134272" >&nbsp;&nbsp;Wheatland</option>
+      
+        
+          <option value="13672859" >ROCHESTER REGION</option>
+        
+        <option value="2184747" >&nbsp;&nbsp;Albion</option>
+      
+        
+        <option value="2142743" >&nbsp;&nbsp;Alton</option>
+      
+        
+        <option value="2134491" >&nbsp;&nbsp;Auburn</option>
+      
+        
+        <option value="2201937" >&nbsp;&nbsp;Aurora</option>
+      
+        
+        <option value="2161507" >&nbsp;&nbsp;Avon</option>
+      
+        
+        <option value="2131961" >&nbsp;&nbsp;Batavia</option>
+      
+        
+        <option value="11064499" >&nbsp;&nbsp;Bloomfield</option>
+      
+        
+        <option value="4446507" >&nbsp;&nbsp;Caledonia</option>
+      
+        
+        <option value="2125199" >&nbsp;&nbsp;Canandaigua</option>
+      
+        
+        <option value="2216252" >&nbsp;&nbsp;Clifton Springs</option>
+      
+        
+        <option value="2250745" >&nbsp;&nbsp;Corning</option>
+      
+        
+        <option value="2125263" >&nbsp;&nbsp;Darien</option>
+      
+        
+        <option value="2136578" >&nbsp;&nbsp;Farmington</option>
+      
+        
+        <option value="2139668" >&nbsp;&nbsp;Geneseo</option>
+      
+        
+        <option value="2125585" >&nbsp;&nbsp;Geneva</option>
+      
+        
+        <option value="2227154" >&nbsp;&nbsp;Holley</option>
+      
+        
+        <option value="2331864" >&nbsp;&nbsp;Honeoye</option>
+      
+        
+        <option value="2138112" >&nbsp;&nbsp;Interlaken</option>
+      
+        
+        <option value="2125230" >&nbsp;&nbsp;Letchworth</option>
+      
+        
+        <option value="2141052" >&nbsp;&nbsp;Lima</option>
+      
+        
+        <option value="11536619" >&nbsp;&nbsp;Linwood</option>
+      
+        
+        <option value="2138244" >&nbsp;&nbsp;Lyons</option>
+      
+        
+        <option value="2134365" >&nbsp;&nbsp;Macedon</option>
+      
+        
+        <option value="2139353" >&nbsp;&nbsp;Medina</option>
+      
+        
+        <option value="2144826" >&nbsp;&nbsp;Middlesex</option>
+      
+        
+        <option value="2125566" >&nbsp;&nbsp;Mumford</option>
+      
+        
+        <option value="2134495" >&nbsp;&nbsp;Naples</option>
+      
+        
+        <option value="9863757" >&nbsp;&nbsp;Palmyra</option>
+      
+        
+        <option value="2139627" >&nbsp;&nbsp;Penn Yan</option>
+      
+        
+        <option value="2144625" >&nbsp;&nbsp;Perry</option>
+      
+        
+        <option value="2255802" >&nbsp;&nbsp;Phelps</option>
+      
+        
+        <option value="2125461" >&nbsp;&nbsp;Pultneyville</option>
+      
+        
+        <option value="2286124" >&nbsp;&nbsp;Romulus</option>
+      
+        
+        <option value="2138091" >&nbsp;&nbsp;Seneca Falls</option>
+      
+        
+        <option value="2138131" >&nbsp;&nbsp;Shortsville</option>
+      
+        
+        <option value="13384852" >&nbsp;&nbsp;Skaneateles</option>
+      
+        
+        <option value="2125540" >&nbsp;&nbsp;Sodus</option>
+      
+        
+        <option value="2142982" >&nbsp;&nbsp;Sterling</option>
+      
+        
+        <option value="2125287" >&nbsp;&nbsp;Victor</option>
+      
+        
+        <option value="13673026" >&nbsp;&nbsp;Wyoming</option>
+      
+        
+        <option value="2146479" >&nbsp;&nbsp;Pavillon</option>
+      
+        
+        <option value="2247719" >&nbsp;&nbsp;Livonia</option>
+      
+    
+  </select>
+
+      <input type="text" size="18" name="keywords" title="Enter keyword" class="text" value="" />
+      <input type="submit" value="go" />
+    </form>
+
+    <a href="https://posting.rochestercitynewspaper.com/rochester/Events/AddEvent">Submit an event</a>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+  Event.observe(document, "dom:loaded", function () {
+      dnSetupTabGroup(
+          $$("#EventChooser div.tabs>div"),
+          $$("#EventChooser div.eventSearchBody"),
+          "tabCurrent", "tabBack", 0
+      );
+
+      // Deactivate links.
+      $$("#EventChooser div.tabs>div a").each(function (a) {
+          a.onclick = function () { return false; };
+      });
+  });
+//--></script>
+
+
+<div id="Ad_300x100_2" class="SpanningIsland ContentDefault ShortRectangle Ad">
+  <!-- /1843875/CITY_Sitewide_DD_Ad -->
+          <div id="div-gpt-ad-city_sitewide_dd_ad" style="" data-content-type="ad" data-slot="/1843875/CITY_Sitewide_DD_Ad" data-output="asynchronous" data-width="300" data-height="100">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_sitewide_dd_ad');
+                });
+              </script>
+          </div>
+</div>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div id="EventsToday" class="SpanningIsland ContentDefault ">
+
+  <div class="headerBar">
+    <a href="https://www.rochestercitynewspaper.com/rochester/EventSearch"><h2>Upcoming Events</h2></a>
+  </div>
+  <div class="calendarDays">
+    <a class="calCurrent" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-08%2004%3A00%3A00">Fri<br /><span> 8</span></a>
+    
+      <a class="calDay" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-09%2004%3A00%3A00">Sat<br /><span> 9</span></a>
+    
+      <a class="calDay" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-10%2004%3A00%3A00">Sun<br /><span>10</span></a>
+    
+      <a class="calDay" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-11%2004%3A00%3A00">Mon<br /><span>11</span></a>
+    
+      <a class="calDay" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-12%2004%3A00%3A00">Tue<br /><span>12</span></a>
+    
+      <a class="calDay" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-13%2004%3A00%3A00">Wed<br /><span>13</span></a>
+    
+      <a class="calDay last" href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=2021-10-14%2004%3A00%3A00">Thu<br /><span>14</span></a>
+    
+  </div>
+
+  
+
+  
+
+  
+  
+    <div class="storyItem">
+     
+     
+     <h4 class="headline"><a href="https://www.rochestercitynewspaper.com/rochester/ganondagan-storytellers-circle/Event?oid=13698456">Ganondagan Storytellers Circle</a>  <span class="smaller">@ Fairport Library</span></h4>
+     <h5 class="subhead">Registration required....</h5>
+   </div>
+  
+    <div class="storyItem">
+     
+       <a href="https://www.rochestercitynewspaper.com/rochester/carved-in-stone-a-walking-tour/Event?oid=13664223">
+         <img src="https://media2.fdncms.com/rochester/imager/u/square/13664222/riverside_cherub_portrait.jpg" alt="Carved in Stone: A Walking Tour @ Mount Hope Cemetery" class="picksImg" width="50" height="50" />
+       </a>
+     
+     
+     <h4 class="headline"><a href="https://www.rochestercitynewspaper.com/rochester/carved-in-stone-a-walking-tour/Event?oid=13664223">Carved in Stone: A Walking Tour</a>  <span class="smaller">@ Mount Hope Cemetery</span></h4>
+     <h5 class="subhead">North Gatehouse....</h5>
+   </div>
+  
+    <div class="storyItem">
+     
+       <a href="https://www.rochestercitynewspaper.com/rochester/hope-heroes-toast-for-hope-virtual-gala/Event?oid=13698126">
+         <img src="https://media2.fdncms.com/rochester/imager/u/square/13698125/hope_heroes_square.png" alt="Hope Heroes Toast for Hope Virtual Gala @ Online" class="picksImg" width="50" height="50" />
+       </a>
+     
+     
+     <h4 class="headline"><a href="https://www.rochestercitynewspaper.com/rochester/hope-heroes-toast-for-hope-virtual-gala/Event?oid=13698126">Hope Heroes Toast for Hope Virtual Gala</a>  <span class="smaller">@ Online</span></h4>
+     <h5 class="subhead">This year’s Hope Heroes Toast for Hope Gala will be honoring Dr....</h5>
+   </div>
+  
+
+    <p class="more"><a href="https://www.rochestercitynewspaper.com/rochester/EventSearch?narrowByDate=today">View all of today's events</a> &raquo;</p>
+
+  <p class="submitLink"><a href="https://posting.rochestercitynewspaper.com/rochester/Events/AddEvent">&raquo; SUBMIT AN EVENT &laquo;</a></p>
+</div><div id="BoxAd2" class="SpanningIsland ContentDefault Ad MediumRectangle">
+  <!-- /1843875/CITY_MED_RECT_2 -->
+          <div id="div-gpt-ad-city_med_rect_2" style="" data-content-type="ad" data-slot="/1843875/CITY_MED_RECT_2" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_med_rect_2');
+                });
+              </script>
+          </div>
+</div><div id="Ad_300x100_1" class="SpanningIsland ContentDefault ShortRectangle Ad">
+  <!-- /1843875/CITY_Sitewide_UR_Ad -->
+          <div id="div-gpt-ad-city_sitewide_ur_ad" style="" data-content-type="ad" data-slot="/1843875/CITY_Sitewide_UR_Ad" data-output="asynchronous" data-width="300" data-height="100">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_sitewide_ur_ad');
+                });
+              </script>
+          </div>
+</div>
+      </div><!-- end gridSpanningIsland -->  
+     
+      <div id="gridMainSidebar">
+        
+      </div><!-- end gridMainSidebar -->
+
+      <div id="gridAdSidebar">
+        
+      </div><!-- end gridAdSidebar -->
+      
+      <div id="gridBottomSidebar">
+        <div id="TwitterWidgetRochester" class="MainSidebar ContentDefault ">
+  <h3>Tweets @RocCityNews</h3>
+  <a class="twitter-timeline"  href="https://twitter.com/roccitynews"  data-widget-id="345637461659095041" data-chrome="noheader nofooter noborders" width="310" height="300">Tweets by @roccitynews</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div><div id="BoxAd3" class="MainSidebar ContentDefault Ad MediumRectangle">
+  <!-- /1843875/CITY_MED_REC_3 -->
+          <div id="div-gpt-ad-city_med_rec_3" style="" data-content-type="ad" data-slot="/1843875/CITY_MED_REC_3" data-output="asynchronous" data-width="300" data-height="250">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_med_rec_3');
+                });
+              </script>
+          </div>
+</div>
+      </div>
+    </div><!-- end gridRightColumn -->
+    
+    <!-- Footer -->
+    <div id="gridFooter">
+      
+<!-- Custom Macros -->
+  <script>
+  (function() {
+  if(document.getElementById('commitchange-script')) return;
+  var npo = 5423;
+  var script = document.createElement('script');
+  var first = document.getElementsByTagName('script')[0];
+  script.setAttribute('data-npo-id', npo);
+  script.id = 'commitchange-script';
+  script.src = 'https://us.commitchange.com/js/donate-button.v2.js';
+  first.parentNode.insertBefore(script, first);
+  })();
+  </script>
+<!-- Custom Macros -->
+  <a data-amounts='5.85,10,50,100,585' class='commitchange-donate' data-fixed='' data-hide-dedication=''></a>
+
+
+    <div id="FooterNavigation" class="GlobalFooter ContentDefault ">
+      <ul>
+  
+  
+  <li class="">
+    <a href="https://www.rochestercitynewspaper.com/rochester/ArticleArchives" target="_self">
+      
+        Article Archives
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.rochestercitynewspaper.com/rochester/IssueArchives" target="_self">
+      
+        Issue Archives
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="http://www.issuu.com/roccitynews" target="_blank">
+      
+        PDF Archives
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.rochestercitynewspaper.com/rochester/AboutUs/Page" target="_self">
+      
+        Contact Us
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.rochestercitynewspaper.com/rochester/PrivacyPolicy/Page" target="_self">
+      
+        Privacy Policy
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://mailchi.mp/rochester-citynews.com/newsletters" target="_blank">
+      
+        Subscribe to our Email Newsletter
+      
+    </a>
+    
+    
+      <span>|</span>
+    
+  </li> 
+  
+
+  
+  <li class="">
+    <a href="https://www.rochestercitynewspaper.com/rochester/work-with-us/Content?oid=10888717" target="_self">
+      
+        Work with Us
+      
+    </a>
+    
+    
+  </li> 
+  
+
+      </ul>
+    </div>
+  
+
+
+
+
+
+<div id="footerCopyright">
+  <p>
+   Website powered by <a href="https://publishwithfoundation.com/gyrobase/site/showcase" target="_blank">Foundation</a>
+   &nbsp; &nbsp; | &nbsp; &nbsp; 
+   &copy; 2021
+   <a href="/rochester/AboutUs/Page">CITY News</a>
+  </p>
+</div><!-- GOOGLE ANALYTICS & QUANTCAST TAGS MOVED TO CODE FIELD OF SEARCH LOGIN COMPONENT -->
+
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setAccountId', '9222291968715708015']);
+cX.callQueue.push(['setSiteId', '9222304501162646030']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end --><div id="AdWallpaper" class="GlobalFooter ContentDefault Ad MediumRectangle">
+  <!-- /1843875/CITY_WALLPAPER -->
+          <div id="div-gpt-ad-city_wallpaper" style="" data-content-type="ad" data-slot="/1843875/CITY_WALLPAPER" data-output="asynchronous" data-width="1" data-height="1">
+              <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                  googletag.display('div-gpt-ad-city_wallpaper');
+                });
+              </script>
+          </div>
+</div>
+    </div><!-- end gridFooter -->
+
+  </div><!-- end gridMain -->
+
+</div><!-- end gridClamp -->
+
+<!-- Closer -->
+<div id="gridCloser">
+  
+</div><!-- end gridCloser -->
+    </body>
+</html>
+  
+
+

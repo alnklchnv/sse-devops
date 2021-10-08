@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.helpnetsecurity.com/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ways AI could be used to facilitate crime over the next 15 years - Help Net Security</title>
+	<meta name="description" content="A new study identified 20 ways AI could be used to facilitate crime over the next 15 years. Fake content is difficult to detect and stop." />
+	<link rel="canonical" href="https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Ways AI could be used to facilitate crime over the next 15 years - Help Net Security" />
+	<meta property="og:description" content="A new study identified 20 ways AI could be used to facilitate crime over the next 15 years. Fake content is difficult to detect and stop." />
+	<meta property="og:url" content="https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" />
+	<meta property="og:site_name" content="Help Net Security" />
+	<meta property="article:published_time" content="2020-08-05T03:30:09+00:00" />
+	<meta property="article:modified_time" content="2020-08-04T12:30:45+00:00" />
+	<meta property="og:image" content="https://img.helpnetsecurity.com/wp-content/uploads/2019/06/09094216/brain.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="1167" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@helpnetsecurity" />
+	<meta name="twitter:site" content="@helpnetsecurity" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Help Net Security" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.helpnetsecurity.com/#website","url":"https://www.helpnetsecurity.com/","name":"Help Net Security","description":"Daily information security news with a focus on enterprise security.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.helpnetsecurity.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/#primaryimage","inLanguage":"en-US","url":"https://img.helpnetsecurity.com/wp-content/uploads/2019/06/09094216/brain.jpg","contentUrl":"https://img.helpnetsecurity.com/wp-content/uploads/2019/06/09094216/brain.jpg","width":1600,"height":1167,"caption":"brain"},{"@type":"WebPage","@id":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/#webpage","url":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/","name":"Ways AI could be used to facilitate crime over the next 15 years - Help Net Security","isPartOf":{"@id":"https://www.helpnetsecurity.com/#website"},"primaryImageOfPage":{"@id":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/#primaryimage"},"datePublished":"2020-08-05T03:30:09+00:00","dateModified":"2020-08-04T12:30:45+00:00","author":{"@id":"https://www.helpnetsecurity.com/#/schema/person/11629e7a57fede5b2b1f79661d173e5d"},"description":"A new study identified 20 ways AI could be used to facilitate crime over the next 15 years. Fake content is difficult to detect and stop.","breadcrumb":{"@id":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/"]}]},{"@type":"BreadcrumbList","@id":"https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.helpnetsecurity.com/"},{"@type":"ListItem","position":2,"name":"Ways AI could be used to facilitate crime over the next 15 years"}]},{"@type":"Person","@id":"https://www.helpnetsecurity.com/#/schema/person/11629e7a57fede5b2b1f79661d173e5d","name":"Help Net Security","image":{"@type":"ImageObject","@id":"https://www.helpnetsecurity.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/a8ab2bf54c13c3cd8e74e0f350431672?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a8ab2bf54c13c3cd8e74e0f350431672?s=96&d=mm&r=g","caption":"Help Net Security"},"sameAs":["https://www.helpnetsecurity.com","https://twitter.com/helpnetsecurity"],"url":"https://www.helpnetsecurity.com/author/helpnet/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Help Net Security &raquo; Feed" href="https://www.helpnetsecurity.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Help Net Security &raquo; Comments Feed" href="https://www.helpnetsecurity.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.helpnetsecurity.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hns20-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox2-css'  href='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css?ver=2.11.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hns-style-css'  href='https://www.helpnetsecurity.com/wp-content/themes/hns20/style.css?ver=5.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.helpnetsecurity.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.helpnetsecurity.com/wp-json/wp/v2/posts/153297" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.helpnetsecurity.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.helpnetsecurity.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://www.helpnetsecurity.com/?p=153297' />
+<link rel="alternate" type="application/json+oembed" href="https://www.helpnetsecurity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.helpnetsecurity.com%2F2020%2F08%2F05%2Fways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.helpnetsecurity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.helpnetsecurity.com%2F2020%2F08%2F05%2Fways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years%2F&#038;format=xml" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://www.helpnetsecurity.com/wp-content/themes/hns20/favicon.ico">
+
+<!-- MTM -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['trackAllContentImpressions']);
+  (function() {
+    var u="https://helpnetsecurity.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src='//cdn.matomo.cloud/helpnetsecurity.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End MTN -->
+
+<link rel="icon" href="https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093400/cropped-hns2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093400/cropped-hns2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093400/cropped-hns2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093400/cropped-hns2-270x270.png" />
+
+<meta property="article:tag" content="artificial intelligence"><meta property="article:tag" content="fake"><meta property="article:tag" content="research">
+<style>
+
+@media (min-width: 0) {
+  .fx-hidden-xx-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 0) {
+  .fx-hidden-xx-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 319px) {
+  .fx-hidden-xs-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 319px) {
+  .fx-hidden-xs-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 479px) {
+  .fx-hidden-sm-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 479px) {
+  .fx-hidden-sm-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 679px) {
+  .fx-hidden-xm-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 679px) {
+  .fx-hidden-xm-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 767px) {
+  .fx-hidden-md-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .fx-hidden-md-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 991px) {
+  .fx-hidden-lg-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .fx-hidden-lg-down {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1119px) {
+  .fx-hidden-xl-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1119px) {
+  .fx-hidden-xl-down {
+    display: none !important;
+  }
+}
+</style>
+
+</head>
+
+
+<body class="post-template-default single single-post postid-153297 single-format-standard post-category-209 post-category-4 ">
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><symbol id="hic-search" viewBox="0 0 512 512"><title>search</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"/></g></g></symbol><symbol id="hic-twitter" viewBox="0 0 512 512"><title>twitter</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></g></g></symbol><symbol id="hic-arrow-right" viewBox="0 0 448 512"><title>arrow right</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M218.101 38.101L198.302 57.9c-4.686 4.686-4.686 12.284 0 16.971L353.432 230H12c-6.627 0-12 5.373-12 12v28c0 6.627 5.373 12 12 12h341.432l-155.13 155.13c-4.686 4.686-4.686 12.284 0 16.971l19.799 19.799c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L235.071 38.101c-4.686-4.687-12.284-4.687-16.97 0z"/></g></g></symbol><symbol id="hic-mail-stroke" viewBox="0 0 512 512"><title>mail stroke</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M464 64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zM48 96h416c8.8 0 16 7.2 16 16v41.4c-21.9 18.5-53.2 44-150.6 121.3-16.9 13.4-50.2 45.7-73.4 45.3-23.2.4-56.6-31.9-73.4-45.3C85.2 197.4 53.9 171.9 32 153.4V112c0-8.8 7.2-16 16-16zm416 320H48c-8.8 0-16-7.2-16-16V195c22.8 18.7 58.8 47.6 130.7 104.7 20.5 16.4 56.7 52.5 93.3 52.3 36.4.3 72.3-35.5 93.3-52.3 71.9-57.1 107.9-86 130.7-104.7v205c0 8.8-7.2 16-16 16z"/></g></g></symbol><symbol id="hic-arrow-left" viewBox="0 0 448 512"><title>arrow left</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M229.9 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L94.569 282H436c6.627 0 12-5.373 12-12v-28c0-6.627-5.373-12-12-12H94.569l155.13-155.13c4.686-4.686 4.686-12.284 0-16.971L229.9 38.101c-4.686-4.686-12.284-4.686-16.971 0L3.515 247.515c-4.686 4.686-4.686 12.284 0 16.971L212.929 473.9c4.686 4.686 12.284 4.686 16.971-.001z"/></g></g></symbol><symbol id="hic-mail-solid" viewBox="0 0 512 512"><title>mail solid</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></g></g></symbol><symbol id="hic-facebook" viewBox="0 0 264 512"><title>facebook</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"/></g></g></symbol><symbol id="hic-linkedin" viewBox="0 0 448 512"><title>linkedin</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"/></g></g></symbol><symbol id="hic-plus" viewBox="0 0 384 512"><title>plus</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M376 232H216V72c0-4.42-3.58-8-8-8h-32c-4.42 0-8 3.58-8 8v160H8c-4.42 0-8 3.58-8 8v32c0 4.42 3.58 8 8 8h160v160c0 4.42 3.58 8 8 8h32c4.42 0 8-3.58 8-8V280h160c4.42 0 8-3.58 8-8v-32c0-4.42-3.58-8-8-8z"/></g></g></symbol><symbol id="hic-angle-up" viewBox="0 0 256 512"><title>angle up</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M136.5 185.1l116 117.8c4.7 4.7 4.7 12.3 0 17l-7.1 7.1c-4.7 4.7-12.3 4.7-17 0L128 224.7 27.6 326.9c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17l116-117.8c4.7-4.6 12.3-4.6 17 .1z"/></g></g></symbol><symbol id="hic-magazine-plus" viewBox="0 0 512 512"><title>magazine plus</title><g><g class="nc-icon-wrapper" fill="currentColor"><path d="M45.8 45.8h113.1V0H0v512h158.9v-45.8H45.8V45.8zM353.1 0v45.8h113.1v420.4H353.1V512H512V0H353.1z"/><path d="M371.5 248.8H271.4v-100h-24.1v100.1H147.2V273h100.1v100.1h24.1V273h100.1v-24.2z"/></g></g></symbol></svg>
+<div id="wrapper" class="main-wrapper">
+
+    <header id="mainHeader" class="main-header">
+
+        <nav class="navbar navbar-expand-lg navbar-dark main-navbar">
+            <a class="navbar-brand" href="https://www.helpnetsecurity.com/" rel="home" title="Help Net Security - Daily information security news with a focus on enterprise security.">
+                <img src="https://www.helpnetsecurity.com/wp-content/themes/hns20/assets/images/logo.svg" alt="Help Net Security - Daily information security news with a focus on enterprise security." class="hns-logo" width="170" height="20">
+            </a>
+
+            <button type="button" class="btn-squared btn-squared--search search-toggler search-toggler--mobile" data-target="#headerSearchPanel" aria-controls="headerSearchPanel" aria-expanded="false" aria-label="Toggle search"><svg class="hic"><use href="#hic-search" xlink:href="#hic-search"/></svg></button>
+
+            <button class="navbar-toggler btn-squared" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+            
+                <ul id="headerNavPrimary" class="navbar-nav navbar-nav--primary mr-auto"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-38762" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-38762 nav-item"><a title="News" href="https://www.helpnetsecurity.com/view/news/" class="nav-link">News</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-88693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88693 nav-item"><a title="Features" href="https://www.helpnetsecurity.com/view/features/" class="nav-link">Features</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-45296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45296 nav-item"><a title="Expert analysis" href="https://www.helpnetsecurity.com/view/articles/" class="nav-link">Expert analysis</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-38757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38757 nav-item"><a title="Reviews" href="https://www.helpnetsecurity.com/view/reviews/" class="nav-link">Reviews</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-42255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42255 nav-item"><a title="Events" href="/all-events/" class="nav-link">Events</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-75939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75939 nav-item"><a title="Whitepapers" href="/tag/w/" class="nav-link">Whitepapers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-83372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83372 nav-item"><a title="Industry news" href="https://www.helpnetsecurity.com/view/industry-news/" class="nav-link">Industry news</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-187123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187123 nav-item"><a title="Product showcase" href="https://www.helpnetsecurity.com/tag/product-showcase/" class="nav-link">Product showcase</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-38765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38765 nav-item"><a title="Newsletters" href="https://www.helpnetsecurity.com/newsletter/" class="nav-link">Newsletters</a></li>
+</ul>
+            
+                <ul id="headerNavSecondary" class="navbar-nav align-items-center navbar-nav--secondary ml-auto">
+                    <li class="nav-item nav-item--search"><button type="button" class="btn-squared btn-squared--search search-toggler" data-target="#headerSearchPanel" aria-controls="headerSearchPanel" aria-expanded="false" aria-label="Toggle search" id="headerSearchToggle"><svg class="hic"><use href="#hic-search" xlink:href="#hic-search"/></svg></button></li>
+                    <li class="nav-item nav-item--twitter">
+                        <a href="https://twitter.com/helpnetsecurity" class="btn-squared btn-squared--twitter"><svg class="hic"><use href="#hic-twitter" xlink:href="#hic-twitter"/></svg></a>
+                    </li>
+                    <li class="nav-item nav-item--magazine"><a class="nav-link" href="https://www.helpnetsecurity.com/insecuremag-archive/" title="(IN)SECURE Magazine">(IN)SECURE Magazine</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="headerSearchPanel" class="main-header__search">
+            <div class="header-search">
+
+
+                <form id="searchform" name="searchform" class="searchform" method="get" action="https://www.helpnetsecurity.com/" role="form">
+                    <div class="input-group">
+                        <input type="search" name="s" id="headerSearchField" class="form-control" placeholder="What are you looking for?" aria-label="Search" value="" tabindex="1">
+                        <span class="input-group-append">
+                            <button class="btn btn-search input-addon-item" type="submit" id="headerSearchSubmit" tabindex="2"><svg class="hic"><use href="#hic-search" xlink:href="#hic-search"/></svg></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </header>
+
+    <aside id="magicBox_l1" data-position="l1" class="mbw magic_box_l1"></aside>
+    
+    <div class="main-wrapper__in">
+
+    
+	<section class="section main-content" id="mainContent">
+		<div class="row main-content--row main-content--row-out">
+			<div class="col main-left">
+				<div class="row flex-column flex-lg-row main-content--row main-content--row-in">
+
+					<div class="col main-tertiary">
+
+
+    
+    
+        <aside class="widget widget--small" role="widget">
+            <header class="widget-header">
+                <div class="widget-icon background-blue">
+                    <svg class="hic"><use href="#hic-plus" xlink:href="#hic-plus"/></svg>
+                </div>
+                <h4 class="widget-title">
+                    <small>Featured</small> news
+                </h4>
+            </header>
+
+            <div class="widget-body">
+                <ul class="category-otherposts fs-6 lh-4 category-otherposts--variant-A">
+                                    <li>
+                        <a href="https://www.helpnetsecurity.com/2021/10/08/new-infosec-products-of-the-week-october-8-2021/" title="New infosec products of the week: October 8, 2021" rel="bookmark">New infosec products of the week: October 8, 2021</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="bookmark">(ISC)² goes to school: CISSP preparation and training as part of a specialist study</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.helpnetsecurity.com/2021/10/08/patch-management-complexity/" title="Patch management complexity increased by remote work is putting organizations at risk" rel="bookmark">Patch management complexity increased by remote work is putting organizations at risk</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.helpnetsecurity.com/2021/10/08/virtual-collaboration-technology-issues/" title="Virtual collaboration technology issues plaguing the hybrid workforce" rel="bookmark">Virtual collaboration technology issues plaguing the hybrid workforce</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.helpnetsecurity.com/2021/10/08/cloud-infrastructure-spending-2q21/" title="Cloud infrastructure spending decreased 2.4% YOY in 2Q21" rel="bookmark">Cloud infrastructure spending decreased 2.4% YOY in 2Q21</a>
+                    </li>
+                                </ul>
+            </div>
+        </aside>
+
+    
+
+</div><!-- /.col main-tertiary -->
+					<div class="col main-primary">
+						<main id="main" class="main">
+						<article role="article" id="entrySingle" data-id="153297" class="entry entry--single entry--page post-153297 post type-post status-publish format-standard has-post-thumbnail hentry category-featured-news category-news tag-artificial-intelligence tag-fake tag-research">
+
+    <header class="entry-header">
+
+        <div class="entry-meta entry-meta--v2">
+
+        
+            <div class="entry-meta__author">
+                <div class="author author--inline author--v2">
+                    <div class="author-avatar">
+                        <a href="https://twitter.com/helpnetsecurity" title="Follow me on Twitter @helpnetsecurity" target="_blank" class="author-twitter"><svg class="hic"><use href="#hic-twitter" xlink:href="#hic-twitter"/></svg></a>                        <img alt="Help Net Security" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2015/12/09195727/1450275992_key-100x100.png" class="avatar avatar-45 lazyload" height="45" width="45">                    </div>
+                    <div class="author-info">
+                        <div class="author-byline"><a href="https://www.helpnetsecurity.com/author/helpnet/" target="_blank" title="Author archive: https://www.helpnetsecurity.com/author/helpnet/">Help Net Security</a></div>
+                        <div class="author-meta">
+                            <time class="time entry-date" pubdate datetime="2020-08-05T05:30:09+02:00" title="August 5, 2020">August 5, 2020</time>                        </div>
+                    </div><!-- /.author-info -->
+                </div><!-- /.author author--inline -->
+            </div><!-- /.entry-meta__author -->
+            <div class="entry-meta__share">
+                <div class="entry-share entry-share entry-share--small entry-share--v2">
+    <span>Share</span>    <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&amp;title=Ways AI could be used to facilitate crime over the next 15 years" title="Share Ways AI could be used to facilitate crime over the next 15 years on Facebook" class="facebook">
+        <svg class="hic icon"><use href="#hic-facebook" xlink:href="#hic-facebook"/></svg>
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&text=Ways+AI+could+be+used+to+facilitate+crime+over+the+next+15+years" title="Share Ways AI could be used to facilitate crime over the next 15 years on Twitter" class="twitter">
+        <svg class="hic icon"><use href="#hic-twitter" xlink:href="#hic-twitter"/></svg>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&title=Ways AI could be used to facilitate crime over the next 15 years&source=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" title="Share Ways AI could be used to facilitate crime over the next 15 years on LinkedIn" class="linkedin">
+        <svg class="hic icon"><use href="#hic-linkedin" xlink:href="#hic-linkedin"/></svg>
+    </a>
+    <a href="mailto:?subject=Ways AI could be used to facilitate crime over the next 15 years&amp;body=Check out this site I came across: https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" title="Share Ways AI could be used to facilitate crime over the next 15 years via E-mail" class="email">
+        <svg class="hic icon"><use href="#hic-mail-solid" xlink:href="#hic-mail-solid"/></svg>
+    </a>
+</div>
+                </div><!-- /.entry-meta__share -->
+        </div><!-- /.entry-meta -->
+
+        <h1 id="entryTitle" class="entry-title">Ways AI could be used to facilitate crime over the next 15 years</h1>    </header>
+
+    <aside id="magicBox_t1" data-position="t1" class="mbw magic_box_t1"></aside>
+    <div class="entry-content" id="entryContent">
+        <p>Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for <a href="https://www.helpnetsecurity.com/2019/07/16/abuse-artificial-intelligence/">crime or terrorism</a>, according to a new <a href="https://www.ucl.ac.uk">UCL</a> report.</p>
+<p><img loading=lazy src="https://img2.helpnetsecurity.com/posts2019/ai-yellow.jpg" class="aligncenter" alt="AI crime" title="AI"></p>
+<p>The study identified 20 ways AI could be used to facilitate crime over the next 15 years. These were ranked in order of concern &#8211; based on the harm they could cause, the potential for criminal profit or gain, how easy they would be to carry out and how difficult they would be to stop.</p>
+<p>Authors said fake content would be difficult to detect and stop, and that it could have a variety of aims &#8211; from discrediting a public figure to extracting funds by impersonating a couple&#8217;s son or daughter in a video call. Such content, they said, may lead to a widespread distrust of audio and visual evidence, which itself would be a societal harm.</p>
+<p>Aside from fake content, five other AI-enabled crimes were judged to be of high concern. These were using driverless vehicles as weapons, helping to craft more tailored phishing messages (spear phishing), disrupting AI-controlled systems, harvesting online information for the purposes of large-scale blackmail, and AI-authored fake news.</p>
+<p>&#8220;As the capabilities of AI-based technologies expand, so too has their potential for criminal exploitation. To adequately prepare for possible AI threats, we need to identify what these threats might be, and how they may impact our lives,&#8221; said <a href="https://www.linkedin.com/in/lewis-griffin-290b433/">Lewis Griffin</a>, senior author Professor, UCL Computer Science.</p>
+<p>Researchers compiled the 20 AI-enabled crimes from academic papers, news and current affairs reports, and fiction and popular culture. They then gathered 31 people with an expertise in AI for two days of discussions to rank the severity of the potential crimes. The participants were drawn from academia, the private sector, the police, the government and state security agencies.</p>
+<p>Crimes that were of medium concern included the sale of items and services fraudulently labelled as &#8220;AI&#8221;, such as security screening and targeted advertising. These would be easy to achieve, with potentially large profits.</p>
+<p>Crimes of low concern included burglar bots &#8211; small robots used to gain entry into properties through access points such as letterboxes or cat flaps &#8211; which were judged to be easy to defeat, for instance through letterbox cages, and AI-assisted stalking, which, although extremely damaging to individuals, could not operate at scale.</p>
+<p>First author <a href="https://www.ucl.ac.uk/~ucbpmbc/">Dr Matthew Caldwell</a>, UCL Computer Science, said: &#8220;People now conduct large parts of their lives online and their online activity can make and break reputations. Such an online environment, where data is property and information power, is ideally suited for exploitation by AI-based criminal activity.</p>
+<p>&#8220;Unlike many traditional crimes, crimes in the digital realm can be easily shared, repeated, and even sold, allowing criminal techniques to be marketed and for crime to be provided as a service. This means criminals may be able to outsource the more challenging aspects of their AI-based crime.&#8221;</p>
+<p>Professor <a href="https://www.linkedin.com/in/shane-johnson-34822310/">Shane Johnson</a>, Director of the Dawes Centre for Future Crimes at UCL, which funded the study, said: &#8220;We live in an ever changing world which creates new opportunities &#8211; good and bad. As such, it is imperative that we anticipate future crime threats so that policy makers and other stakeholders with the competency to act can do so before new &#8216;crime harvests&#8217; occur. This report is the first in a series that will identify the future crime threats associated with new and emerging technologies and what we might do about them.&#8221;</p>
+<div class="hnst-tag-specific-content">
+</div><!--/.hnst-tag-specific-content-->
+
+ <script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.6 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-195955 mc4wp-ajax" method="post" data-id="195955" data-name="Bottom of the posts Exp_04" ><div class="mc4wp-form-fields">  <center><img src="https://img.helpnetsecurity.com/wp-content/uploads/2021/08/05092721/newsletters-head.jpg"></center>
+<br>
+<div class="form-check pb-2">
+<input class="form-check-input" type="checkbox" name="_mc4wp_lists[]" value="520ac2f639" id="mcs1">
+<label class="form-check-label" for="mcs1">
+<B>Daily Newsletter</B> - E-mail sent every business day with a recap of the last 24 hours
+</label>
+</div>
+
+<div class="form-check pb-2">
+<input class="form-check-input" type="checkbox" name="_mc4wp_lists[]" value="d2d471aafa" id="mcs2">
+<label class="form-check-label" for="mcs2">
+<B>Weekly Newsletter</B> - E-mail sent every Monday with a recap of the last 7 days
+</label>
+</div>
+
+<div class="form-check pb-3">
+<input class="form-check-input" type="checkbox" name="_mc4wp_lists[]" value="28abe5d9ef" id="mcs3">
+<label class="form-check-label" for="mcs3">
+<B>(IN)SECURE Magazine</B> - E-mail sent when a new issue is released
+</label>
+</div>
+<p></p>
+<p>
+    <label>
+        <input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> <a href="https://www.helpnetsecurity.com/newsletter/" target="_blank" rel="noopener">I have read and agree to the terms &amp; conditions</a>
+    </label>
+</p>
+
+
+<div class="input-group">
+<input type="email" name="email" id="email" class="form-control border-danger" placeholder="Please enter your e-mail address" required="">
+<div class="input-group-append">
+<button class="btn btn-danger rounded-0" type="submit">Subscribe</button>
+</div>
+  </div>
+  <BR><hr>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1633683315" /><input type="hidden" name="_mc4wp_form_id" value="195955" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->        <div class="clearfix"></div>
+    </div><!--/.entry-content-->
+
+    
+    <aside id="magicBox_t2" data-position="t2" class="mbw magic_box_t2"></aside>
+    
+        <div class="entry-tags">
+
+            <div class="entry-tags__title">More about</div>
+
+            <ul>
+            <li><a href="https://www.helpnetsecurity.com/tag/artificial-intelligence/" rel="tag" title="artificial intelligence">artificial intelligence</a></li>
+<li><a href="https://www.helpnetsecurity.com/tag/fake/" rel="tag" title="fake">fake</a></li>
+<li><a href="https://www.helpnetsecurity.com/tag/research/" rel="tag" title="research">research</a></li>
+            </ul>
+        </div><!--/.entry-tags-->
+
+    
+    <div class="entry-share__bottom">
+        <div class="entry-share entry-share--center entry-share--small">
+    <span>Share this</span>    <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&amp;title=Ways AI could be used to facilitate crime over the next 15 years" title="Share Ways AI could be used to facilitate crime over the next 15 years on Facebook" class="facebook">
+        <svg class="hic icon"><use href="#hic-facebook" xlink:href="#hic-facebook"/></svg>
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&text=Ways+AI+could+be+used+to+facilitate+crime+over+the+next+15+years" title="Share Ways AI could be used to facilitate crime over the next 15 years on Twitter" class="twitter">
+        <svg class="hic icon"><use href="#hic-twitter" xlink:href="#hic-twitter"/></svg>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/&title=Ways AI could be used to facilitate crime over the next 15 years&source=https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" title="Share Ways AI could be used to facilitate crime over the next 15 years on LinkedIn" class="linkedin">
+        <svg class="hic icon"><use href="#hic-linkedin" xlink:href="#hic-linkedin"/></svg>
+    </a>
+    <a href="mailto:?subject=Ways AI could be used to facilitate crime over the next 15 years&amp;body=Check out this site I came across: https://www.helpnetsecurity.com/2020/08/05/ways-ai-could-be-used-to-facilitate-crime-over-the-next-15-years/" title="Share Ways AI could be used to facilitate crime over the next 15 years via E-mail" class="email">
+        <svg class="hic icon"><use href="#hic-mail-solid" xlink:href="#hic-mail-solid"/></svg>
+    </a>
+</div>
+        </div><!--/.entry-share-->
+</article>						</main>
+					</div><!-- /.col main-primary -->
+				</div><!-- /.row -->
+			</div><!-- /.col main-left -->
+
+			<div class="col main-secondary">
+
+
+    <aside class="widget widget--sidebar-promoted" role="widget">
+
+    
+    
+        <div class="widget-body background-black">
+
+        
+            
+            <div class="entry-preview has-overlay has-overlay--small entry-variant-S">
+                <div class="entry-preview__media">
+                    <img width="400" height="200" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-400x200.jpg" class="lazyload wp-post-image" alt="patch" loading="lazy" />                </div><!-- /.entry-preview__media -->
+                <div class="entry-preview__overlay">
+                    <header class="entry-preview__header">
+                        <h3 class="entry-title">
+                            <a href="https://www.helpnetsecurity.com/2021/10/08/october-2021-patch-tuesday-forecast/" title="October 2021 Patch Tuesday forecast: Halloween came early this year" rel="bookmark">October 2021 Patch Tuesday forecast: Halloween came early this year</a>
+                        </h3>
+                    </header>
+                </div><!-- /.entry-preview__overlay -->
+            </div><!-- /.entry-preview -->
+
+            
+        
+            
+            
+            <ul class="category-otherposts fs-6 lh-4 text-white border-top--1 border-white mx-2">
+                                                            <li><a href="https://www.helpnetsecurity.com/2021/10/07/improve-healthcare-cybersecurity/" title="Finding the right mix: Leveraging policy and incentives to improve healthcare cybersecurity" rel="bookmark">Finding the right mix: Leveraging policy and incentives to improve healthcare cybersecurity</a></li>
+                                            <li><a href="https://www.helpnetsecurity.com/2021/10/06/digital-key/" title="Digital key builds on past practices to create a more secure future" rel="bookmark">Digital key builds on past practices to create a more secure future</a></li>
+                        </ul>
+        </div><!--/.widget-body -->
+
+    
+    
+        <footer class="widget__footer">
+            <div class="small-spotlight">
+                                <a class="small-spotlight__title" href="https://www.helpnetsecurity.com/2021/10/07/electronic-warfare/" title="Electronic warfare: The critical capability of dominating the electromagnetic spectrum" rel="bookmark">Electronic warfare: The critical capability of dominating the electromagnetic spectrum</a>
+                            </div><!--/.small-spotlight-->
+        </footer>
+
+    
+    </aside>
+
+<aside id="magicBox_r1" data-position="r1" class="mbw magic_box_r1"></aside>
+
+
+
+    <aside class="widget widget--whats-new" role="widget">
+        <header class="widget-header">
+            <div class="widget-icon background-blue">
+                <svg class="hic"><use href="#hic-plus" xlink:href="#hic-plus"/></svg>
+            </div>
+            <h4 class="widget-title">
+                <small>What's</small> new
+            </h4>
+        </header>
+
+        <div class="widget-body">
+
+        
+            <article class="entry-preview entry-preview--horizontal entry-variant-G">
+                <div class="entry-preview__media">
+                    <a href="https://www.helpnetsecurity.com/2021/10/08/new-infosec-products-of-the-week-october-8-2021/" title="New infosec products of the week: October 8, 2021" rel="nofollow"><img width="100" height="100" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/07092933/product_week_08102021-100x100.jpg" class="lazyload wp-post-image" alt="" loading="lazy" srcset="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/07092933/product_week_08102021-100x100.jpg 100w, https://img.helpnetsecurity.com/wp-content/uploads/2021/10/07092933/product_week_08102021-200x200.jpg 200w, https://img.helpnetsecurity.com/wp-content/uploads/2021/10/07092933/product_week_08102021-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                </div>
+                <div class="entry-preview__body">
+                    <header class="entry-preview__header">
+                        <h3 class="entry-title"><a href="https://www.helpnetsecurity.com/2021/10/08/new-infosec-products-of-the-week-october-8-2021/" title="New infosec products of the week: October 8, 2021" rel="bookmark">New infosec products of the week: October 8, 2021</a></h3>
+                    </header>
+                </div>
+            </article>
+
+            
+        
+            <article class="entry-preview entry-preview--horizontal entry-variant-G">
+                <div class="entry-preview__media">
+                    <a href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="nofollow"><img width="100" height="100" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/01134933/renata_mekovec_2-foi-100x100.jpg" class="lazyload wp-post-image" alt="Renata Mekovec" loading="lazy" srcset="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/01134933/renata_mekovec_2-foi-100x100.jpg 100w, https://img.helpnetsecurity.com/wp-content/uploads/2021/10/01134933/renata_mekovec_2-foi-200x200.jpg 200w, https://img.helpnetsecurity.com/wp-content/uploads/2021/10/01134933/renata_mekovec_2-foi-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                </div>
+                <div class="entry-preview__body">
+                    <header class="entry-preview__header">
+                        <h3 class="entry-title"><a href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="bookmark">(ISC)² goes to school: CISSP preparation and training as part of a specialist study</a></h3>
+                    </header>
+                </div>
+            </article>
+
+            
+        
+            <article class="entry-preview entry-preview--horizontal entry-variant-G">
+                <div class="entry-preview__media">
+                    <a href="https://www.helpnetsecurity.com/2021/10/08/october-2021-patch-tuesday-forecast/" title="October 2021 Patch Tuesday forecast: Halloween came early this year" rel="nofollow"><img width="100" height="100" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-100x100.jpg" class="lazyload wp-post-image" alt="patch" loading="lazy" srcset="https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-100x100.jpg 100w, https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-200x200.jpg 200w, https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                </div>
+                <div class="entry-preview__body">
+                    <header class="entry-preview__header">
+                        <h3 class="entry-title"><a href="https://www.helpnetsecurity.com/2021/10/08/october-2021-patch-tuesday-forecast/" title="October 2021 Patch Tuesday forecast: Halloween came early this year" rel="bookmark">October 2021 Patch Tuesday forecast: Halloween came early this year</a></h3>
+                    </header>
+                </div>
+            </article>
+
+            
+        
+            <article class="entry-preview entry-preview--horizontal entry-variant-G">
+                <div class="entry-preview__media">
+                    <a href="https://www.helpnetsecurity.com/2021/10/08/patch-management-complexity/" title="Patch management complexity increased by remote work is putting organizations at risk" rel="nofollow"><img width="100" height="100" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2020/12/08184752/patch_bkg5-100x100.jpg" class="lazyload wp-post-image" alt="patch" loading="lazy" srcset="https://img.helpnetsecurity.com/wp-content/uploads/2020/12/08184752/patch_bkg5-100x100.jpg 100w, https://img.helpnetsecurity.com/wp-content/uploads/2020/12/08184752/patch_bkg5-200x200.jpg 200w, https://img.helpnetsecurity.com/wp-content/uploads/2020/12/08184752/patch_bkg5-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                </div>
+                <div class="entry-preview__body">
+                    <header class="entry-preview__header">
+                        <h3 class="entry-title"><a href="https://www.helpnetsecurity.com/2021/10/08/patch-management-complexity/" title="Patch management complexity increased by remote work is putting organizations at risk" rel="bookmark">Patch management complexity increased by remote work is putting organizations at risk</a></h3>
+                    </header>
+                </div>
+            </article>
+
+            
+        </div><!--/.widget-body -->
+    </aside>
+
+
+<aside id="magicBox_r2" data-position="r2" class="mbw magic_box_r2"></aside>
+</div><!-- /.col main-secondary -->
+		</div><!-- /.row.main-content--row.main-content--row-out -->
+
+		    <div class="section section--m-y mb-3">
+
+    	<div class="section-title border-top--4 border-grey-light mb-0">
+    		<div class="section-title__icon background-grey-light">
+    			<svg class="hic"><use href="#hic-plus" xlink:href="#hic-plus"/></svg>
+    		</div>
+    		<h3 class="section-title__text text-grey-light">
+    			<strong>Don't</strong> miss
+    		</h3>
+    	</div><!-- /.section-title -->
+
+        <div class="kartice-wrap kartice-wrap--spacer kartice-wrap--scroll fp--x-s">
+            <div class="row px1-gutters flex-nowrap">
+                            <div class="col">
+                    <article class="entry-preview entry-variant-R">
+    <div class="entry-preview__media">
+        <a href="https://www.helpnetsecurity.com/2021/10/08/october-2021-patch-tuesday-forecast/" title="October 2021 Patch Tuesday forecast: Halloween came early this year" rel="nofollow"><img width="227" height="164" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2019/07/09093955/patch2-227x164.jpg" class="lazyload wp-post-image" alt="patch" loading="lazy" /></a>
+    </div><!-- /.entry-preview__media -->
+    <div class="entry-preview__body">
+        <header class="entry-preview__header" style="padding-right: 10px;">
+            <h3 class="entry-title">
+                <a href="https://www.helpnetsecurity.com/2021/10/08/october-2021-patch-tuesday-forecast/" title="October 2021 Patch Tuesday forecast: Halloween came early this year" rel="bookmark">October 2021 Patch Tuesday forecast: Halloween came early this year</a>
+            </h3>
+        </header>
+    </div><!-- /.entry-preview__body -->
+</article>                </div><!-- /.col -->
+                            <div class="col">
+                    <article class="entry-preview entry-variant-R">
+    <div class="entry-preview__media">
+        <a href="https://www.helpnetsecurity.com/2021/10/08/new-infosec-products-of-the-week-october-8-2021/" title="New infosec products of the week: October 8, 2021" rel="nofollow"><img width="227" height="164" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/07092933/product_week_08102021-227x164.jpg" class="lazyload wp-post-image" alt="" loading="lazy" /></a>
+    </div><!-- /.entry-preview__media -->
+    <div class="entry-preview__body">
+        <header class="entry-preview__header" style="padding-right: 10px;">
+            <h3 class="entry-title">
+                <a href="https://www.helpnetsecurity.com/2021/10/08/new-infosec-products-of-the-week-october-8-2021/" title="New infosec products of the week: October 8, 2021" rel="bookmark">New infosec products of the week: October 8, 2021</a>
+            </h3>
+        </header>
+    </div><!-- /.entry-preview__body -->
+</article>                </div><!-- /.col -->
+                            <div class="col">
+                    <article class="entry-preview entry-variant-R">
+    <div class="entry-preview__media">
+        <a href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="nofollow"><img width="227" height="164" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/01134933/renata_mekovec_2-foi-227x164.jpg" class="lazyload wp-post-image" alt="Renata Mekovec" loading="lazy" /></a>
+    </div><!-- /.entry-preview__media -->
+    <div class="entry-preview__body">
+        <header class="entry-preview__header" style="padding-right: 10px;">
+            <h3 class="entry-title">
+                <a href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="bookmark">(ISC)² goes to school: CISSP preparation and training as part of a specialist study</a>
+            </h3>
+        </header>
+    </div><!-- /.entry-preview__body -->
+</article>                </div><!-- /.col -->
+                            <div class="col">
+                    <article class="entry-preview entry-variant-R">
+    <div class="entry-preview__media">
+        <a href="https://www.helpnetsecurity.com/2021/10/07/electronic-warfare/" title="Electronic warfare: The critical capability of dominating the electromagnetic spectrum" rel="nofollow"><img width="227" height="164" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/10/05104201/nick_myers_3-bae_systems-227x164.png" class="lazyload wp-post-image" alt="Nick Myers" loading="lazy" /></a>
+    </div><!-- /.entry-preview__media -->
+    <div class="entry-preview__body">
+        <header class="entry-preview__header" style="padding-right: 10px;">
+            <h3 class="entry-title">
+                <a href="https://www.helpnetsecurity.com/2021/10/07/electronic-warfare/" title="Electronic warfare: The critical capability of dominating the electromagnetic spectrum" rel="bookmark">Electronic warfare: The critical capability of dominating the electromagnetic spectrum</a>
+            </h3>
+        </header>
+    </div><!-- /.entry-preview__body -->
+</article>                </div><!-- /.col -->
+                            <div class="col">
+                    <article class="entry-preview entry-variant-R">
+    <div class="entry-preview__media">
+        <a href="https://www.helpnetsecurity.com/2021/10/07/improve-healthcare-cybersecurity/" title="Finding the right mix: Leveraging policy and incentives to improve healthcare cybersecurity" rel="nofollow"><img width="227" height="164" data-src="https://img.helpnetsecurity.com/wp-content/uploads/2018/07/09100605/healthcare-227x164.jpg" class="lazyload wp-post-image" alt="healthcare" loading="lazy" /></a>
+    </div><!-- /.entry-preview__media -->
+    <div class="entry-preview__body">
+        <header class="entry-preview__header" style="padding-right: 10px;">
+            <h3 class="entry-title">
+                <a href="https://www.helpnetsecurity.com/2021/10/07/improve-healthcare-cybersecurity/" title="Finding the right mix: Leveraging policy and incentives to improve healthcare cybersecurity" rel="bookmark">Finding the right mix: Leveraging policy and incentives to improve healthcare cybersecurity</a>
+            </h3>
+        </header>
+    </div><!-- /.entry-preview__body -->
+</article>                </div><!-- /.col -->
+                        </div><!--/.row-->
+        </div><!-- /.kartice-wrap kartice-wrap--scroll -->
+
+    </div><!--/.section-->
+
+	</section><!-- /#mainContent.section main-content -->
+
+    </div><!--/.main-wrapper__in -->
+    <aside id="magicBox_w1" data-position="w1" class="mbw magic_box_w1"></aside></div><!-- /#wrapper -->
+
+
+    <footer id="mainFooter" class="section main-footer">
+        <div class="footer-addon">
+            <aside id="magicBox_l2" data-position="l2" class="mbw magic_box_l2"></aside>        </div><!-- /.footer-addons -->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-auto">
+                        <a class="navbar-brand navbar-brand--footer" href="https://www.helpnetsecurity.com/" rel="home" title="Help Net Security - Daily information security news with a focus on enterprise security.">
+                            <img data-src="https://www.helpnetsecurity.com/wp-content/themes/hns20/assets/images/logo.svg" alt="Help Net Security - Daily information security news with a focus on enterprise security." class="hns-logo lazyload" width="170" height="20">
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <div class="d-flex align-items-center footer-follow">
+                            <span>Follow us</span> <a href="https://twitter.com/helpnetsecurity" class="btn-squared btn-squared--twitter"><svg class="hic"><use href="#hic-twitter" xlink:href="#hic-twitter"/></svg></a>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.container -->
+        </div><!-- /.footer-top -->
+
+
+        <div class="footer-middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4 col-md-3 col-lg-2">
+
+                    
+                        <ul id="footerNavPrimary" class="footer-nav"><li id="menu-item-125681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125681"><a href="/view/features/">Features</a></li>
+<li id="menu-item-125682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125682"><a href="/view/news/">News</a></li>
+<li id="menu-item-125683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125683"><a href="/view/articles/">Expert Analysis</a></li>
+<li id="menu-item-125684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125684"><a href="/view/reviews/">Reviews</a></li>
+<li id="menu-item-125685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125685"><a href="/all-events/">Events</a></li>
+<li id="menu-item-125686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125686"><a href="/tag/w/">Whitepapers</a></li>
+<li id="menu-item-125687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125687"><a href="/view/industry-news/">Industry news</a></li>
+<li id="menu-item-125688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125688"><a href="/newsletter/">Newsletters</a></li>
+<li id="menu-item-187127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187127"><a href="https://www.helpnetsecurity.com/tag/product-showcase/">Product showcase</a></li>
+<li id="menu-item-125690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125690"><a href="https://twitter.com/helpnetsecurity">Twitter</a></li>
+</ul>
+                    
+                    </div><!-- /.col-lg-2 -->
+                    <div class="col-sm-8 col-md-4 col-lg-4">
+                        <div class="footer-category">
+                            <h4 class="footer-title text-uppercase"><strong>In case you’ve missed it</strong></h4>
+                                                            <ul class="footer-otherposts">
+                                                                    <li><a class="fs-5 fw-light" href="https://www.helpnetsecurity.com/2021/10/08/cissp-preparation-training-foi/" title="(ISC)² goes to school: CISSP preparation and training as part of a specialist study" rel="nofollow">(ISC)² goes to school: CISSP preparation and training as part of a specialist study</a></li>
+                                                                    <li><a class="fs-5 fw-light" href="https://www.helpnetsecurity.com/2021/10/07/electronic-warfare/" title="Electronic warfare: The critical capability of dominating the electromagnetic spectrum" rel="nofollow">Electronic warfare: The critical capability of dominating the electromagnetic spectrum</a></li>
+                                                                    <li><a class="fs-5 fw-light" href="https://www.helpnetsecurity.com/2021/10/07/legal-compliance-technologies/" title="Which technologies can help legal and compliance teams navigate a changing landscape of risk?" rel="nofollow">Which technologies can help legal and compliance teams navigate a changing landscape of risk?</a></li>
+                                                                    <li><a class="fs-5 fw-light" href="https://www.helpnetsecurity.com/2021/10/06/critical-infrastructure-iot-security/" title="Critical infrastructure IoT security: Going back to basics" rel="nofollow">Critical infrastructure IoT security: Going back to basics</a></li>
+                                                                </ul>
+                                                        </div><!-- /.footer-category -->
+                    </div><!-- /.col-lg-4 -->
+                    <div class="col-md-5 col-lg-5 offset-lg-1">
+                                                <div class="footer-magazine">
+                                                                    <h4 class="footer-title"><a href="https://www.helpnetsecurity.com/insecuremag-archive/"  title="(IN)SECURE Magazine"><strong>(IN)SECURE</strong> Magazine</a> <strong>ISSUE 69</strong> (July 2021)</h4>
+
+                                    <article class="entry-preview entry-preview--horizontal entry-variant-M">
+                                        <div class="entry-preview__media">
+                                            <a href="https://www.helpnetsecurity.com/insecuremag/issue-69-july-2021/" title="Issue 69: July 2021" rel="nofollow">
+                                                                                                    <img data-src="https://img.helpnetsecurity.com/wp-content/uploads/2021/07/11143656/insecure-69.jpg" class="lazyload">
+                                                                                            </a>
+                                        </div><!-- /.entry-preview__media -->
+                                        <div class="entry-preview__body">
+                                            <div class="entry-preview__text">
+                                                <ul>
+<li>Why threat hunting is obsolete without context</li>
+<li>Defending against Windows RDP attacks</li>
+<li>Navigating the waters of maritime cybersecurity</li>
+</ul>
+                                            </div><!-- /.entry-preview__text -->
+
+                                            <a href="https://www.helpnetsecurity.com/insecuremag/issue-69-july-2021/" title="Issue 69: July 2021" class="btn btn-danger btn-rounded btn-mini" rel="nofollow">Read online</a>
+                                        </div><!-- /.entry-preview__body -->
+                                    </article>
+                                                            </div><!-- /.footer-magazine -->
+                                            </div><!-- /.col-lg-5 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.footer-middle -->
+
+<!-- CACHED ON: 08.10.2021 09:22:28 -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-auto">
+                        &copy; Copyright 1998-2021 by <a href="https://www.helpnetsecurity.com/">Help Net Security</a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="https://www.helpnetsecurity.com/privacy-policy/">Read our privacy policy</a> <span class="delimiter">|</span> <a href="https://www.helpnetsecurity.com/about-us/">About us</a> <span class="delimiter">|</span> <a href="https://www.helpnetsecurity.com/advertise/">Advertise</a>
+                    </div>
+                </div>
+            </div><!-- /.container -->
+        </div><!-- /.footer-bottom -->
+    </footer>
+
+<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><div class="modal fade hmb-modal" id="habModal" tabindex="-1" role="dialog" aria-labelledby="habModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+
+            <div class="modal-body" id="habModalContent" style="padding:0;"><aside id="magicBox_m1" data-position="m1" class="mbw magic_box_m1"></aside></div>
+        </div>
+    </div>
+</div>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-content/themes/hns20/dist/lib/js/lazysizes.min.js?ver=5.8.1' id='lazysizes-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js?ver=1.16.0' id='poper-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js?ver=4.5.3' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js?ver=2.11.3' id='lightbox2-js'></script>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-content/themes/hns20/dist/js/ads.min.js?ver=1.0' id='ads-js'></script>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-content/themes/hns20/assets/js/init.js?ver=5.8.1' id='hns20-init-js'></script>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' defer src='https://www.helpnetsecurity.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.6' id='mc4wp-forms-api-js'></script>
+<script type='text/javascript' id='mc4wp-ajax-forms-js-extra'>
+/* <![CDATA[ */
+var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"https:\/\/www.helpnetsecurity.com\/wp-admin\/admin-ajax.php?action=mc4wp-form","error_text":"Oops. Something went wrong. Please try again later."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.helpnetsecurity.com/wp-content/plugins/mc4wp-premium/ajax-forms/assets/js/ajax-forms.js?ver=4.8.19' id='mc4wp-ajax-forms-js'></script>
+<script>if (!window.hnsMagicBoxes) hnsMagicBoxes = [];hnsMagicBoxes.push({
+    "hmb_advanced_200455": {
+        "title": "R1_CIS_SC",
+        "slot": "R1",
+        "link": {
+            "title": "",
+            "url": "http:\/\/helpnet.pro\/2zxj",
+            "target": ""
+        },
+        "campaign": {
+            "term_id": 5435,
+            "name": "2021-67 CIS SecureSuite",
+            "slug": "2021-67-cis-securesuite",
+            "term_group": 0,
+            "term_taxonomy_id": 5433,
+            "taxonomy": "ad_campaign",
+            "description": "",
+            "parent": 0,
+            "count": 5,
+            "filter": "raw"
+        },
+        "displayType": "aside",
+        "deviceType": "advanced",
+        "advancedDisplay": {
+            "triggerWidth": 991,
+            "mobilePosition": "after_3rd_p_in_content"
+        },
+        "container": "",
+        "width": "300px",
+        "height": "250px",
+        "beacon": "<a target='_blank' href='http:\/\/helpnet.pro\/2zxj' data-track-content data-content-name='2021-67 CIS SecureSuite'><img data-src='https:\/\/img.helpnetsecurity.com\/wp-content\/uploads\/2021\/09\/15114016\/cis-securesuite_r.png' width='300' height='250' class='lazyload' data-content-piece='2021-67 CIS SecureSuite R1_CIS_SC'><\/a>",
+        "fallback": false,
+        "loaded": false,
+        "weight": 100,
+        "displayRules": {
+            "countries": [],
+            "show_or_hide_country": "hide",
+            "start_date": "2021-10-07 08:43:16",
+            "end_date": "2021-10-31 00:00:00",
+            "relation": "OR",
+            "action": "hide",
+            "rules": [
+                {
+                    "type": "location",
+                    "value": [
+                        "tag-1399"
+                    ]
+                },
+                {
+                    "type": "tags",
+                    "value": [
+                        "Whitepapers"
+                    ]
+                }
+            ]
+        },
+        "wrapperVars": [],
+        "vars": {
+            "id": 200455,
+            "device-type": "advanced"
+        },
+        "showOnce": false,
+        "countDown": 0,
+        "customParentClass": ""
+    }
+});hnsMagicBoxes.push({
+    "hmb_desktop_199948": {
+        "title": "W1_05_06",
+        "slot": "W1",
+        "link": {
+            "title": "",
+            "url": "http:\/\/helpnet.pro\/6kg5",
+            "target": ""
+        },
+        "campaign": {
+            "term_id": 5390,
+            "name": "2021-18 CyberPion",
+            "slug": "2021-18-cyberpion",
+            "term_group": 0,
+            "term_taxonomy_id": 5388,
+            "taxonomy": "ad_campaign",
+            "description": "",
+            "parent": 0,
+            "count": 10,
+            "filter": "raw"
+        },
+        "displayType": "wallpaper",
+        "deviceType": "desktop",
+        "advancedDisplay": [],
+        "container": "",
+        "width": "100%",
+        "height": "100%",
+        "beacon": "<a target='_blank' href='http:\/\/helpnet.pro\/6kg5' rel='nofollow' class='hmb-wallpaper' style='background: #ffffff url(https:\/\/img.helpnetsecurity.com\/wp-content\/uploads\/2021\/08\/30133649\/cyberpion_w.jpg) no-repeat fixed 50% 0;width:100%;height:100%;position:fixed;display:block;top:0;left:0;z-index:-1;' data-track-content data-content-name='2021-18 CyberPion' data-content-piece='2021-18 CyberPion W1_05_06'><\/a>",
+        "fallback": false,
+        "loaded": false,
+        "weight": 100,
+        "displayRules": {
+            "countries": [],
+            "show_or_hide_country": "hide",
+            "start_date": "2021-10-08 09:00:00",
+            "end_date": "2021-10-11 02:00:00"
+        },
+        "wrapperVars": [],
+        "vars": {
+            "id": 199948,
+            "device-type": "desktop"
+        },
+        "showOnce": false,
+        "countDown": 0,
+        "customParentClass": ""
+    }
+});hnsMagicBoxes.push({
+    "hmb_all_198333": {
+        "title": "L1",
+        "slot": "L1",
+        "link": {
+            "title": "",
+            "url": "http:\/\/helpnet.pro\/oiwx",
+            "target": ""
+        },
+        "campaign": {
+            "term_id": 5435,
+            "name": "2021-67 CIS SecureSuite",
+            "slug": "2021-67-cis-securesuite",
+            "term_group": 0,
+            "term_taxonomy_id": 5433,
+            "taxonomy": "ad_campaign",
+            "description": "",
+            "parent": 0,
+            "count": 5,
+            "filter": "raw"
+        },
+        "displayType": "aside",
+        "deviceType": "all",
+        "advancedDisplay": [],
+        "container": "",
+        "width": "728px",
+        "height": "90px",
+        "beacon": "<a target='_blank' href='http:\/\/helpnet.pro\/oiwx' data-track-content data-content-name='2021-67 CIS SecureSuite'><img data-src='https:\/\/img.helpnetsecurity.com\/wp-content\/uploads\/2021\/09\/15114011\/cis-securesuite_l1.png' width='728' height='90' class='lazyload' data-content-piece='2021-67 CIS SecureSuite L1'><\/a>",
+        "fallback": false,
+        "loaded": false,
+        "weight": 80,
+        "displayRules": {
+            "countries": [],
+            "show_or_hide_country": "hide",
+            "start_date": "2021-09-20 12:35:30",
+            "end_date": "2021-10-31 00:00:00"
+        },
+        "wrapperVars": [],
+        "vars": {
+            "id": 198333,
+            "device-type": "all"
+        },
+        "showOnce": false,
+        "countDown": 0,
+        "customParentClass": ""
+    }
+});hnsMagicBoxes.push({
+    "hmb_all_197886": {
+        "title": "L2 CISSP Quiz",
+        "slot": "L2",
+        "link": {
+            "title": "",
+            "url": "http:\/\/helpnet.pro\/1b31",
+            "target": ""
+        },
+        "campaign": {
+            "term_id": 4468,
+            "name": "2020-02 CISSP yearly",
+            "slug": "2020-02-cissp-yearly",
+            "term_group": 0,
+            "term_taxonomy_id": 4466,
+            "taxonomy": "ad_campaign",
+            "description": "",
+            "parent": 0,
+            "count": 25,
+            "filter": "raw"
+        },
+        "displayType": "aside",
+        "deviceType": "all",
+        "advancedDisplay": [],
+        "container": "",
+        "width": "728px",
+        "height": "90px",
+        "beacon": "<a target='_blank' href='http:\/\/helpnet.pro\/1b31' data-track-content data-content-name='2020-02 CISSP yearly'><img data-src='https:\/\/img.helpnetsecurity.com\/wp-content\/uploads\/2021\/08\/20110310\/quzsissp.jpg' width='728' height='90' class='lazyload' data-content-piece='2020-02 CISSP yearly L2 CISSP Quiz'><\/a>",
+        "fallback": false,
+        "loaded": false,
+        "weight": 100,
+        "displayRules": {
+            "countries": [],
+            "show_or_hide_country": "hide",
+            "start_date": "2021-09-15 12:27:20",
+            "end_date": "2021-11-30 11:02:49"
+        },
+        "wrapperVars": [],
+        "vars": {
+            "id": 197886,
+            "device-type": "all"
+        },
+        "showOnce": false,
+        "countDown": 0,
+        "customParentClass": ""
+    }
+});hnsMagicBoxes.push({
+    "hmb_advanced_198338": {
+        "title": "R2",
+        "slot": "R2",
+        "link": {
+            "title": "",
+            "url": "http:\/\/helpnet.pro\/nvqk",
+            "target": ""
+        },
+        "campaign": {
+            "term_id": 5435,
+            "name": "2021-67 CIS SecureSuite",
+            "slug": "2021-67-cis-securesuite",
+            "term_group": 0,
+            "term_taxonomy_id": 5433,
+            "taxonomy": "ad_campaign",
+            "description": "",
+            "parent": 0,
+            "count": 5,
+            "filter": "raw"
+        },
+        "displayType": "aside",
+        "deviceType": "advanced",
+        "advancedDisplay": {
+            "triggerWidth": 991,
+            "mobilePosition": "below_post_content"
+        },
+        "container": "",
+        "width": "300px",
+        "height": "250px",
+        "beacon": "<a target='_blank' href='http:\/\/helpnet.pro\/nvqk' data-track-content data-content-name='2021-67 CIS SecureSuite'><img data-src='https:\/\/img.helpnetsecurity.com\/wp-content\/uploads\/2021\/09\/15114016\/cis-securesuite_r.png' width='300' height='250' class='lazyload' data-content-piece='2021-67 CIS SecureSuite R2'><\/a>",
+        "fallback": false,
+        "loaded": false,
+        "weight": 80,
+        "displayRules": {
+            "countries": [],
+            "show_or_hide_country": "hide",
+            "start_date": "2021-09-20 13:39:05",
+            "end_date": "2021-12-31 14:53:15",
+            "relation": "OR",
+            "action": "hide",
+            "rules": [
+                {
+                    "type": "location",
+                    "value": [
+                        "tag-1399"
+                    ]
+                },
+                {
+                    "type": "tags",
+                    "value": [
+                        "Whitepapers"
+                    ]
+                }
+            ]
+        },
+        "wrapperVars": [],
+        "vars": {
+            "id": 198338,
+            "device-type": "advanced"
+        },
+        "showOnce": false,
+        "countDown": 0,
+        "customParentClass": ""
+    }
+});console.log( hnsMagicBoxes );</script>
+</body>
+</html>

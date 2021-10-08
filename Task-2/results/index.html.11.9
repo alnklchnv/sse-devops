@@ -1,0 +1,1445 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+	
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://quantcast.mgr.consensu.org'
+    .concat('/choice/', 'CWej69n6WDWnD', '/', host, '/choice.js')
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->	
+	
+<meta charset="UTF-8" >
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<meta property="fb:pages" content="20973952603" />
+<link rel="pingback" href="https://bloody-disgusting.com/xmlrpc.php" />
+<meta property="og:type" content="article" />
+					<meta property="og:image" content="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?resize=830%2C535&#038;ssl=1" />
+		<meta name="twitter:image" content="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?resize=830%2C535&#038;ssl=1" />
+	<meta property="og:url" content="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/" />
+<meta property="og:title" content="&#8216;Resident Evil 3&#8217; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#8216;Resident Evil 2&#8217; Sales" />
+<meta property="og:description" content="In the latest quarterly results for Capcom, as expected, Resident Evil leads the way. However, despite being referred to as &#8220;solid&#8221;, the numbers for the Resident Evil 3 remake (which we reviewed here) unfortunately pale in comparison to its predecessor. RE3 recorded 2.7 million sales in three months since its launch back in March, which [&hellip;]" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/">
+<meta name="twitter:title" content="&#8216;Resident Evil 3&#8217; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#8216;Resident Evil 2&#8217; Sales">
+<meta name="twitter:description" content="In the latest quarterly results for Capcom, as expected, Resident Evil leads the way. However, despite being referred to as &#8220;solid&#8221;, the numbers for the Resident Evil 3 remake (which we reviewed here) unfortunately pale in comparison to its predecessor. RE3 recorded 2.7 million sales in three months since its launch back in March, which [&hellip;]">
+<title>&#039;Resident Evil 3&#039; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#039;Resident Evil 2&#039; Sales - Bloody Disgusting</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="In the latest quarterly results for Capcom, as expected, Resident Evil leads the way. However, despite being referred to as &quot;solid&quot;, the numbers for the Re"/>
+<link rel="canonical" href="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&#039;Resident Evil 3&#039; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#039;Resident Evil 2&#039; Sales - Bloody Disgusting" />
+<meta property="og:description" content="In the latest quarterly results for Capcom, as expected, Resident Evil leads the way. However, despite being referred to as &quot;solid&quot;, the numbers for the Re" />
+<meta property="og:url" content="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/" />
+<meta property="og:site_name" content="Bloody Disgusting!" />
+<meta property="article:publisher" content="https://www.facebook.com/BloodyDisgusting/" />
+<meta property="article:tag" content="Capcom" />
+<meta property="article:tag" content="PC" />
+<meta property="article:tag" content="playstation 4" />
+<meta property="article:tag" content="resident evil 2" />
+<meta property="article:tag" content="resident evil 3" />
+<meta property="article:tag" content="steam" />
+<meta property="article:tag" content="xbox one" />
+<meta property="article:section" content="Video Games" />
+<meta property="article:published_time" content="2020-08-04T06:46:12-05:00" />
+<meta property="fb:app_id" content="452886758230029" />
+<meta property="og:image" content="https://bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg" />
+<meta property="og:image:width" content="830" />
+<meta property="og:image:height" content="535" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="In the latest quarterly results for Capcom, as expected, Resident Evil leads the way. However, despite being referred to as &quot;solid&quot;, the numbers for the Re" />
+<meta name="twitter:title" content="&#039;Resident Evil 3&#039; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#039;Resident Evil 2&#039; Sales - Bloody Disgusting" />
+<meta name="twitter:site" content="@bdisgusting" />
+<meta name="twitter:image" content="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?fit=830%2C535&#038;ssl=1" />
+<meta name="twitter:creator" content="@bdisgusting" />
+<meta property="DC.date.issued" content="2020-08-04T06:46:12-05:00" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Bloody Disgusting! &raquo; Feed" href="https://bloody-disgusting.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bloody Disgusting! &raquo; Comments Feed" href="https://bloody-disgusting.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bloody Disgusting! &raquo; &#8216;Resident Evil 3&#8217; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#8216;Resident Evil 2&#8217; Sales Comments Feed" href="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bloody-disgusting.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.6"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.6/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://bloody-disgusting.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://bloody-disgusting.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-custom-style-css'  href='https://bloody-disgusting.com/wp-content/themes/zox-news/style.css?ver=5.5.6' type='text/css' media='all' />
+<style id='mvp-custom-style-inline-css' type='text/css'>
+
+
+#mvp-wallpaper {
+	background: url(https://bloody-disgusting.com/wp-content/uploads/2018/06/body-bg-2.png) no-repeat 50% 0;
+	}
+
+#mvp-foot-copy a {
+	color: #cc0000;
+	}
+
+#mvp-content-main p a,
+.mvp-post-add-main p a {
+	box-shadow: inset 0 -4px 0 #cc0000;
+	}
+
+#mvp-content-main p a:hover,
+.mvp-post-add-main p a:hover {
+	background: #cc0000;
+	}
+
+a,
+a:visited,
+.post-info-name a,
+.woocommerce .woocommerce-breadcrumb a {
+	color: #cc0000;
+	}
+
+#mvp-side-wrap a:hover {
+	color: #cc0000;
+	}
+
+.mvp-fly-top:hover,
+.mvp-vid-box-wrap,
+ul.mvp-soc-mob-list li.mvp-soc-mob-com {
+	background: #cc0000;
+	}
+
+nav.mvp-fly-nav-menu ul li.menu-item-has-children:after,
+.mvp-feat1-left-wrap span.mvp-cd-cat,
+.mvp-widget-feat1-top-story span.mvp-cd-cat,
+.mvp-widget-feat2-left-cont span.mvp-cd-cat,
+.mvp-widget-dark-feat span.mvp-cd-cat,
+.mvp-widget-dark-sub span.mvp-cd-cat,
+.mvp-vid-wide-text span.mvp-cd-cat,
+.mvp-feat2-top-text span.mvp-cd-cat,
+.mvp-feat3-main-story span.mvp-cd-cat,
+.mvp-feat3-sub-text span.mvp-cd-cat,
+.mvp-feat4-main-text span.mvp-cd-cat,
+.woocommerce-message:before,
+.woocommerce-info:before,
+.woocommerce-message:before {
+	color: #cc0000;
+	}
+
+#searchform input,
+.mvp-authors-name {
+	border-bottom: 1px solid #cc0000;
+	}
+
+.mvp-fly-top:hover {
+	border-top: 1px solid #cc0000;
+	border-left: 1px solid #cc0000;
+	border-bottom: 1px solid #cc0000;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #cc0000;
+	}
+
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+	border-top-color: #cc0000;
+	}
+
+ul.mvp-feat1-list-buts li.active span.mvp-feat1-list-but,
+span.mvp-widget-home-title,
+span.mvp-post-cat,
+span.mvp-feat1-pop-head {
+	background: #cc0000;
+	}
+
+.woocommerce span.onsale {
+	background-color: #cc0000;
+	}
+
+.mvp-widget-feat2-side-more-but,
+.woocommerce .star-rating span:before,
+span.mvp-prev-next-label,
+.mvp-cat-date-wrap .sticky {
+	color: #cc0000 !important;
+	}
+
+#mvp-main-nav-top,
+#mvp-fly-wrap,
+.mvp-soc-mob-right,
+#mvp-main-nav-small-cont {
+	background: #000000;
+	}
+
+#mvp-main-nav-small .mvp-fly-but-wrap span,
+#mvp-main-nav-small .mvp-search-but-wrap span,
+.mvp-nav-top-left .mvp-fly-but-wrap span,
+#mvp-fly-wrap .mvp-fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.mvp-nav-top-right .mvp-nav-search-but,
+span.mvp-fly-soc-head,
+.mvp-soc-mob-right i,
+#mvp-main-nav-small span.mvp-nav-search-but,
+#mvp-main-nav-small .mvp-nav-menu ul li a  {
+	color: #ffffff;
+	}
+
+#mvp-main-nav-small .mvp-nav-menu ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+#mvp-nav-top-wrap span.mvp-nav-search-but:hover,
+#mvp-main-nav-small span.mvp-nav-search-but:hover {
+	color: #cc0000;
+	}
+
+#mvp-nav-top-wrap .mvp-fly-but-wrap:hover span,
+#mvp-main-nav-small .mvp-fly-but-wrap:hover span,
+span.mvp-woo-cart-num:hover {
+	background: #cc0000;
+	}
+
+#mvp-main-nav-bot-cont {
+	background: #000000;
+	}
+
+#mvp-nav-bot-wrap .mvp-fly-but-wrap span,
+#mvp-nav-bot-wrap .mvp-search-but-wrap span {
+	background: #ffffff;
+	}
+
+#mvp-nav-bot-wrap span.mvp-nav-search-but,
+#mvp-nav-bot-wrap .mvp-nav-menu ul li a {
+	color: #ffffff;
+	}
+
+#mvp-nav-bot-wrap .mvp-nav-menu ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+.mvp-nav-menu ul li:hover a {
+	border-bottom: 5px solid #0be6af;
+	}
+
+#mvp-nav-bot-wrap .mvp-fly-but-wrap:hover span {
+	background: #0be6af;
+	}
+
+#mvp-nav-bot-wrap span.mvp-nav-search-but:hover {
+	color: #0be6af;
+	}
+
+body,
+.mvp-feat1-feat-text p,
+.mvp-feat2-top-text p,
+.mvp-feat3-main-text p,
+.mvp-feat3-sub-text p,
+#searchform input,
+.mvp-author-info-text,
+span.mvp-post-excerpt,
+.mvp-nav-menu ul li ul.sub-menu li a,
+nav.mvp-fly-nav-menu ul li a,
+.mvp-ad-label,
+span.mvp-feat-caption,
+.mvp-post-tags a,
+.mvp-post-tags a:visited,
+span.mvp-author-box-name a,
+#mvp-author-box-text p,
+.mvp-post-gallery-text p,
+ul.mvp-soc-mob-list li span,
+#comments,
+h3#reply-title,
+h2.comments,
+#mvp-foot-copy p,
+span.mvp-fly-soc-head,
+.mvp-post-tags-header,
+span.mvp-prev-next-label,
+span.mvp-post-add-link-but,
+#mvp-comments-button a,
+#mvp-comments-button span.mvp-comment-but-text,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce div.product p.price,
+.woocommerce div.product p.price ins,
+.woocommerce div.product p.price del,
+.woocommerce ul.products li.product .price del,
+.woocommerce ul.products li.product .price ins,
+.woocommerce ul.products li.product .price,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce span.onsale,
+.woocommerce-review-link,
+#woo-content p.woocommerce-result-count,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+a.mvp-inf-more-but,
+span.mvp-cont-read-but,
+span.mvp-cd-cat,
+span.mvp-cd-date,
+.mvp-feat4-main-text p,
+span.mvp-woo-cart-num,
+span.mvp-widget-home-title2,
+.wp-caption,
+#mvp-content-main p.wp-caption-text,
+.gallery-caption,
+.mvp-post-add-main p.wp-caption-text,
+#bbpress-forums,
+#bbpress-forums p,
+.protected-post-form input,
+#mvp-feat6-text p {
+	font-family: 'Titillium Web', sans-serif;
+	}
+
+.mvp-blog-story-text p,
+span.mvp-author-page-desc,
+#mvp-404 p,
+.mvp-widget-feat1-bot-text p,
+.mvp-widget-feat2-left-text p,
+.mvp-flex-story-text p,
+.mvp-search-text p,
+#mvp-content-main p,
+.mvp-post-add-main p,
+#mvp-content-main ul li,
+#mvp-content-main ol li,
+.rwp-summary,
+.rwp-u-review__comment,
+.mvp-feat5-mid-main-text p,
+.mvp-feat5-small-main-text p {
+	font-family: 'Titillium Web', sans-serif;
+	}
+
+.mvp-nav-menu ul li a,
+#mvp-foot-menu ul li a {
+	font-family: 'Titillium Web', sans-serif;
+	}
+
+
+.mvp-feat1-sub-text h2,
+.mvp-feat1-pop-text h2,
+.mvp-feat1-list-text h2,
+.mvp-widget-feat1-top-text h2,
+.mvp-widget-feat1-bot-text h2,
+.mvp-widget-dark-feat-text h2,
+.mvp-widget-dark-sub-text h2,
+.mvp-widget-feat2-left-text h2,
+.mvp-widget-feat2-right-text h2,
+.mvp-blog-story-text h2,
+.mvp-flex-story-text h2,
+.mvp-vid-wide-more-text p,
+.mvp-prev-next-text p,
+.mvp-related-text,
+.mvp-post-more-text p,
+h2.mvp-authors-latest a,
+.mvp-feat2-bot-text h2,
+.mvp-feat3-sub-text h2,
+.mvp-feat3-main-text h2,
+.mvp-feat4-main-text h2,
+.mvp-feat5-text h2,
+.mvp-feat5-mid-main-text h2,
+.mvp-feat5-small-main-text h2,
+.mvp-feat5-mid-sub-text h2,
+#mvp-feat6-text h2,
+.alp-related-posts-wrapper .alp-related-post .post-title {
+	font-family: 'Roboto Condensed', sans-serif;
+	}
+
+.mvp-feat2-top-text h2,
+.mvp-feat1-feat-text h2,
+h1.mvp-post-title,
+h1.mvp-post-title-wide,
+.mvp-drop-nav-title h4,
+#mvp-content-main blockquote p,
+.mvp-post-add-main blockquote p,
+#mvp-404 h1,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.alp-related-posts .current .post-title {
+	font-family: 'Roboto', sans-serif;
+	}
+
+span.mvp-feat1-pop-head,
+.mvp-feat1-pop-text:before,
+span.mvp-feat1-list-but,
+span.mvp-widget-home-title,
+.mvp-widget-feat2-side-more,
+span.mvp-post-cat,
+span.mvp-page-head,
+h1.mvp-author-top-head,
+.mvp-authors-name,
+#mvp-content-main h1,
+#mvp-content-main h2,
+#mvp-content-main h3,
+#mvp-content-main h4,
+#mvp-content-main h5,
+#mvp-content-main h6,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+.mvp-feat5-side-list .mvp-feat1-list-img:after {
+	font-family: 'Roboto', sans-serif;
+	}
+
+	
+
+	@media screen and (min-width: 1200px) {
+	#mvp-site {
+		float: none;
+		margin: 0 auto;
+		width: 1200px;
+		}
+	#mvp-leader-wrap {
+		left: auto;
+		width: 1200px;
+		}
+	.mvp-main-box {
+		width: 1160px;
+		}
+	#mvp-main-nav-top,
+	#mvp-main-nav-bot,
+	#mvp-main-nav-small {
+		width: 1200px;
+		}
+	}
+		
+
+	#mvp-leader-wrap {
+		position: relative;
+		}
+	#mvp-site-main {
+		margin-top: 0;
+		}
+	#mvp-leader-wrap {
+		top: 0 !important;
+		}
+		
+
+	.mvp-nav-links {
+		display: none;
+		}
+		
+
+	.alp-advert {
+		display: none;
+	}
+	.alp-related-posts-wrapper .alp-related-posts .current {
+		margin: 0 0 10px;
+	}
+		
+
+ 	#mvp-comments-button {
+display: none;
+}
+#disqus_thread,
+#comments {
+display: block;
+}
+
+#smartbanner {
+position: fixed!important;
+}
+
+#mvp-foot-wrap {
+    background: #000;
+}
+
+#mvp-content-main p a, .mvp-post-add-main p a { box-shadow: none; color: #cc0000;}
+
+#mvp-content-main p a:hover, .mvp-post-add-main p a { box-shadow: none; background-color: #fff; color: #cc9999;} 
+
+#mvp-post-feat-img-wide #mvp-post-feat-img img {
+	opacity: .8;
+	width: 100%;
+	}
+
+#ctoolbar {
+z-index: 999999 !important;
+}
+
+		
+</style>
+<link rel='stylesheet' id='mvp-reset-css'  href='https://bloody-disgusting.com/wp-content/themes/zox-news/css/reset.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://bloody-disgusting.com/wp-content/themes/zox-news/font-awesome/css/font-awesome.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-fonts-css'  href='//fonts.googleapis.com/css?family=Advent+Pro%3A700%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7COpen+Sans%3A700%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CAnton%3A400%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CRoboto+Condensed%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CTitillium+Web%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CTitillium+Web%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%7CTitillium+Web%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-media-queries-css'  href='https://bloody-disgusting.com/wp-content/themes/zox-news/css/media-queries.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.4.2/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.6/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://bloody-disgusting.com/wp-json/" /><link rel="alternate" type="application/json" href="https://bloody-disgusting.com/wp-json/wp/v2/posts/3626185" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bloody-disgusting.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bloody-disgusting.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.6" />
+<link rel='shortlink' href='https://wp.me/p2zxX7-fdkR' />
+<link rel="alternate" type="application/json+oembed" href="https://bloody-disgusting.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbloody-disgusting.com%2Fvideo-games%2F3626185%2Fresident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bloody-disgusting.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbloody-disgusting.com%2Fvideo-games%2F3626185%2Fresident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales%2F&#038;format=xml" />
+<!-- Catalyst | Begin head script -->
+<!-- Complex Catalyst plugin ver: 0.0.6 -->
+<script data-cfasync="false" type="text/javascript">
+    window.catalyst = window.catalyst || {cmd: []};
+
+    var catalystConfig = {
+        site: 'bloodydisgusting', // set in admin
+        silo: 's_pop', // set in admin
+        zone: 'video-games',
+        tier: 'to,t2,internal',
+        kw: 'capcom,pc,playstation-4,resident-evil-2,resident-evil-3,steam,xbox-one,',
+        exclude: 'ugc',
+        toolbar: {
+            theme: 'dark', // set in admin
+        }
+    };
+</script>
+<script async type="text/javascript" src="https://media.complex.com/common/catalyst.js"></script>
+<!-- Catalyst | End head script -->
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)
+[0],t.async=1,t.src="https://colossalcoat.com/v2izxupJ5CBKg2Uqg565eSYJKyyKjNFs2zVGQANBOsC1GSzrHjw4_UgZ1c3zup-XR",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){function t(){(t.q=t.q||
+[]).push(arguments)}t.v=1,o.admiral=o.admiral||t})(window);!(function(o,t,n,c){function e(n){(function()
+{try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&
+(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof
+c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9406077438414715",
+    enable_page_level_ads: true
+  });
+</script>
+
+<script type="text/javascript">
+(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+branch.init('key_live_oaCi4WCJUi5gUxwYcyLr3ahdErclR8XL');
+</script>
+
+<!-- Bloody-Disgusting -- FieldTest Pixel -->
+<script id="ft743582195743â€ type="application/javascript" >
+    !function(w,d,e,u,t,s){if(w.ft_data){return;}
+    t=d.createElement(e);t.async=!0;t.src=u;
+    s=d.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)
+    }(window,document,'script','https://curated.fieldtest.cc/t/BLDI/bdunvpx.js');
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15882884" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15882884&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"uHbFn1QolK10uG", domain:"bloody-disgusting.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uHbFn1QolK10uG" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+																														
+																																		  <script>
+  (function(w, d, t, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var e = d.createElement(t);
+    var h = '?v=' + new Date().getTime();
+    e.async = true;
+    e.src = s + h;
+    f.parentNode.insertBefore(e, f);
+  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');
+  window.fd('form', {
+    formId: '610d6345e9f26f46e2fe9731'
+  });
+</script><style type='text/css'>img#wpstats{display:none}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	<link rel="icon" href="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2016/04/cropped-bd_circlelogo.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2016/04/cropped-bd_circlelogo.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2016/04/cropped-bd_circlelogo.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2016/04/cropped-bd_circlelogo.png?fit=270%2C270&#038;ssl=1" />
+<!-- Jetpack Google Analytics -->
+			<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-1852483-1']);
+_gaq.push(['_trackPageview']);
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+			<!-- End Jetpack Google Analytics -->
+</head>
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="https://player.complex.com/tv/js/kw-widget.js" id="cmplx-kw-widget-js"></script> <script> document.addEventListener('DOMContentLoaded', function() { (new CTVKwWidget()).init({ useScraper: true }); }); </script>
+
+<body class="post-template-default single single-post postid-3626185 single-format-standard custom-background">
+	<div id="mvp-fly-wrap">
+	<div id="mvp-fly-menu-top" class="left relative">
+		<div class="mvp-fly-top-out left relative">
+			<div class="mvp-fly-top-in">
+				<div id="mvp-fly-logo" class="left relative">
+											<a href="https://bloody-disgusting.com/"><img src="https://bloody-disgusting.com/wp-content/uploads/2018/11/bd_nav-3.png" alt="Bloody Disgusting!" data-rjs="2" /></a>
+									</div><!--mvp-fly-logo-->
+			</div><!--mvp-fly-top-in-->
+			<div class="mvp-fly-but-wrap mvp-fly-but-menu mvp-fly-but-click">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div><!--mvp-fly-but-wrap-->
+		</div><!--mvp-fly-top-out-->
+	</div><!--mvp-fly-menu-top-->
+	<div id="mvp-fly-menu-wrap">
+		<nav class="mvp-fly-nav-menu left relative">
+			<div class="menu-bd_mobile-container"><ul id="menu-bd_mobile" class="menu"><li id="menu-item-3380630" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380630"><a href="https://bloody-disgusting.com/movie/">Movies</a></li>
+<li id="menu-item-3384231" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384231"><a href="https://bloody-disgusting.com/tv/">TV</a></li>
+<li id="menu-item-3380632" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380632"><a href="https://bloody-disgusting.com/reviews/">Reviews</a></li>
+<li id="menu-item-3484469" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3484469"><a href="https://bloody-disgusting.com/editorials/">Editorials</a></li>
+<li id="menu-item-3380635" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380635"><a href="https://bloody-disgusting.com/videos/">Videos</a></li>
+<li id="menu-item-3380634" class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3380634"><a href="https://bloody-disgusting.com/video-games/">Video Games</a></li>
+<li id="menu-item-3443483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3443483"><a href="https://bloody-disgusting.com/podcastnetwork/">PODCASTS</a></li>
+<li id="menu-item-3384232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3384232"><a href="https://bloodydisgusting.tv">BLOODY DISGUSTING TV</a></li>
+</ul></div>		</nav>
+	</div><!--mvp-fly-menu-wrap-->
+	<div id="mvp-fly-soc-wrap">
+		<span class="mvp-fly-soc-head">Connect with us</span>
+		<ul class="mvp-fly-soc-list left relative">
+							<li><a href="https://facebook.com/bloodydisgusting" target="_blank" class="fa fa-facebook fa-2"></a></li>
+										<li><a href="https://twitter.com/bdisgusting" target="_blank" class="fa fa-twitter fa-2"></a></li>
+													<li><a href="https://instagram.com/bdisgusting" target="_blank" class="fa fa-instagram fa-2"></a></li>
+													<li><a href="https://www.youtube.com/user/bloodydisgustingtv" target="_blank" class="fa fa-youtube-play fa-2"></a></li>
+											</ul>
+	</div><!--mvp-fly-soc-wrap-->
+</div><!--mvp-fly-wrap-->	<div id="mvp-site" class="left relative">
+		<div id="mvp-search-wrap">
+			<div id="mvp-search-box">
+				<form method="get" id="searchform" action="https://bloody-disgusting.com/">
+	<input type="text" name="s" id="s" value="Search" onfocus='if (this.value == "Search") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>			</div><!--mvp-search-box-->
+			<div class="mvp-search-but-wrap mvp-search-click">
+				<span></span>
+				<span></span>
+			</div><!--mvp-search-but-wrap-->
+		</div><!--mvp-search-wrap-->
+					<div id="mvp-wallpaper">
+							</div><!--mvp-wallpaper-->
+				<div id="mvp-site-wall" class="left relative">
+											<div id="mvp-leader-wrap">
+
+					<div id="top-ad-0"></div>
+<script>window.catalyst.cmd.push('loadAds',[['top', 'top-ad-0']]);</script>				</div><!--mvp-leader-wrap-->
+							<div id="mvp-leader-wrap">
+
+</div><!--mvp-leader-wrap-->
+			<div id="mvp-site-main" class="left relative">
+			<header id="mvp-main-head-wrap" class="left relative">
+									<nav id="mvp-main-nav-wrap" class="left relative">
+						<div id="mvp-main-nav-top" class="left relative">
+							<div class="mvp-main-box">
+								<div id="mvp-nav-top-wrap" class="left relative">
+									<div class="mvp-nav-top-right-out left relative">
+										<div class="mvp-nav-top-right-in">
+											<div class="mvp-nav-top-cont left relative">
+												<div class="mvp-nav-top-left-out relative">
+													<div class="mvp-nav-top-left">
+														<div class="mvp-nav-soc-wrap">
+																															<a href="https://facebook.com/bloodydisgusting" target="_blank"><span class="mvp-nav-soc-but fa fa-facebook fa-2"></span></a>
+																																														<a href="https://twitter.com/bdisgusting" target="_blank"><span class="mvp-nav-soc-but fa fa-twitter fa-2"></span></a>
+																																														<a href="https://instagram.com/bdisgusting" target="_blank"><span class="mvp-nav-soc-but fa fa-instagram fa-2"></span></a>
+																																														<a href="https://www.youtube.com/user/bloodydisgustingtv" target="_blank"><span class="mvp-nav-soc-but fa fa-youtube-play fa-2"></span></a>
+																													</div><!--mvp-nav-soc-wrap-->
+														<div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+															<span></span>
+															<span></span>
+															<span></span>
+															<span></span>
+														</div><!--mvp-fly-but-wrap-->
+													</div><!--mvp-nav-top-left-->
+													<div class="mvp-nav-top-left-in">
+														<div class="mvp-nav-top-mid left relative" itemscope itemtype="http://schema.org/Organization">
+																															<a class="mvp-nav-logo-reg" itemprop="url" href="https://bloody-disgusting.com/"><img itemprop="logo" src="https://bloody-disgusting.com/wp-content/uploads/2018/11/BD_HEADER-2.png" alt="Bloody Disgusting!" data-rjs="2" /></a>
+																																														<a class="mvp-nav-logo-small" href="https://bloody-disgusting.com/"><img src="https://bloody-disgusting.com/wp-content/uploads/2018/11/bd_nav-3.png" alt="Bloody Disgusting!" data-rjs="2" /></a>
+																																														<h2 class="mvp-logo-title">Bloody Disgusting!</h2>
+																																														<div class="mvp-drop-nav-title left">
+																	<h4>&#8216;Resident Evil 3&#8217; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#8216;Resident Evil 2&#8217; Sales</h4>
+																</div><!--mvp-drop-nav-title-->
+																													</div><!--mvp-nav-top-mid-->
+													</div><!--mvp-nav-top-left-in-->
+												</div><!--mvp-nav-top-left-out-->
+											</div><!--mvp-nav-top-cont-->
+										</div><!--mvp-nav-top-right-in-->
+										<div class="mvp-nav-top-right">
+																						<span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+										</div><!--mvp-nav-top-right-->
+									</div><!--mvp-nav-top-right-out-->
+								</div><!--mvp-nav-top-wrap-->
+							</div><!--mvp-main-box-->
+						</div><!--mvp-main-nav-top-->
+						<div id="mvp-main-nav-bot" class="left relative">
+							<div id="mvp-main-nav-bot-cont" class="left">
+								<div class="mvp-main-box">
+									<div id="mvp-nav-bot-wrap" class="left">
+										<div class="mvp-nav-bot-right-out left">
+											<div class="mvp-nav-bot-right-in">
+												<div class="mvp-nav-bot-cont left">
+													<div class="mvp-nav-bot-left-out">
+														<div class="mvp-nav-bot-left left relative">
+															<div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+																<span></span>
+																<span></span>
+																<span></span>
+																<span></span>
+															</div><!--mvp-fly-but-wrap-->
+														</div><!--mvp-nav-bot-left-->
+														<div class="mvp-nav-bot-left-in">
+															<div class="mvp-nav-menu left">
+																<div class="menu-bd_mobile-container"><ul id="menu-bd_mobile-1" class="menu"><li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380630"><a href="https://bloody-disgusting.com/movie/">Movies</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/movie/3686358/listen-v-h-s-94-boo-crew-podcast-speaks-directors-simon-barrett-chloe-okuno-jennifer-reeder-ryan-prows/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3684682" data-permalink="https://bloody-disgusting.com/v-h-s-94-photo-credit-shudder/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?fit=1200%2C675&amp;ssl=1" data-orig-size="1200,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Shudder&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;- V\/H\/S\/94 - Photo Credit: Shudder&quot;,&quot;created_timestamp&quot;:&quot;1630514991&quot;,&quot;copyright&quot;:&quot;\u00a9 2021 Shudder&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;- V\/H\/S\/94 - Photo Credit: Shudder&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="&#8211; V/H/S/94 &#8211; Photo Credit: Shudder" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_SD_01-RT.jpg?fit=740%2C416&amp;ssl=1" /></div><p>[Listen] &#8216;V/H/S/94&#8217;: The Boo Crew Podcast Speaks to Directors Simon Barrett, Chloe Okuno, Jennifer Reeder, and Ryan Prows!</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686338/stan-mechanic-hosting-trio-horror-classics-including-scream-bloody-murder-bat/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686342" data-permalink="https://bloody-disgusting.com/movie/3686338/stan-mechanic-hosting-trio-horror-classics-including-scream-bloody-murder-bat/attachment/stan-the-mechanic/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?fit=1173%2C667&amp;ssl=1" data-orig-size="1173,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stan the mechanic" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?fit=300%2C171&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/stan-the-mechanic.png?fit=740%2C421&amp;ssl=1" /></div><p>Stan the Mechanic Hosting a Trio of Horror Classics Including &#8216;Scream Bloody Murder&#8217; and &#8216;The Bat&#8217;</p></a></li><li><a href="https://bloody-disgusting.com/exclusives/3686334/escape-room-tournament-champions-exclusive-clip-looks-production-design-acid-rain-room/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686336" data-permalink="https://bloody-disgusting.com/exclusives/3686334/escape-room-tournament-champions-exclusive-clip-looks-production-design-acid-rain-room/attachment/acid-rain/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=1818%2C904&amp;ssl=1" data-orig-size="1818,904" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="acid rain" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=300%2C149&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=740%2C368&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>‘Escape Room: Tournament of Champions’ – Exclusive Clip Looks at the Production Design of the Acid Rain Room</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686321/resident-evil-welcome-racoon-city-trailer-breakdown-game-nods-references-explained/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?resize=1000%2C598&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686332" data-permalink="https://bloody-disgusting.com/movie/3686321/resident-evil-welcome-racoon-city-trailer-breakdown-game-nods-references-explained/attachment/resident-evil-trailer-breakdown/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?fit=1053%2C598&amp;ssl=1" data-orig-size="1053,598" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="resident evil trailer breakdown" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?fit=300%2C170&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/resident-evil-trailer-breakdown.png?fit=740%2C421&amp;ssl=1" /></div><p>&#8216;Resident Evil: Welcome to Raccoon City’ Trailer Breakdown &#8211; The Game Nods and References Explained</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686255/david-bruckners-hellraiser-detailed-hulu-jamie-clayton-pinhead-clive-barker-producing/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3677282" data-permalink="https://bloody-disgusting.com/exclusives/3677280/writer-peter-briggs-opens-puzzle-box-discuss-unmade-sequel-hellraiser-lament-phantom-limbs/attachment/pinhead-and-his-cenobites-from-hellraiser-1987/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?fit=1800%2C906&amp;ssl=1" data-orig-size="1800,906" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pinhead and his Cenobites from Hellraiser (1987)" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?fit=300%2C151&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.jpg?fit=740%2C373&amp;ssl=1" /></div><p>David Bruckner&#8217;s &#8216;Hellraiser&#8217; Detailed By Hulu; Jamie Clayton is Pinhead and Clive Barker is Producing!</p></a></li></ul></div></div></li>
+<li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384231"><a href="https://bloody-disgusting.com/tv/">TV</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/tv/3686354/shudders-creepshow-unleashes-deadly-spiders-week-watch-clip-segment-ok-ill-bite/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Creepshow OK I&#039;ll Bite" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685803" data-permalink="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/attachment/creepshow-ok-ill-bite/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Creepshow-OK-Ill-Bite" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=740%2C416&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>Shudder&#8217;s &#8220;Creepshow&#8221; Unleashes Deadly Spiders This Week; Watch a Clip from the Segment &#8220;Ok I&#8217;ll Bite&#8221;</p></a></li><li><a href="https://bloody-disgusting.com/tv/3686308/celebrate-netflixs-squid-games-fully-customizable-shirts/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686316" data-permalink="https://bloody-disgusting.com/tv/3686308/celebrate-netflixs-squid-games-fully-customizable-shirts/attachment/squidgame_unit_103_1076_1632761726-0/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?fit=1200%2C800&amp;ssl=1" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="squidgame_unit_103_1076_1632761726.0" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/squidgame_unit_103_1076_1632761726.0.jpg?fit=740%2C494&amp;ssl=1" /></div><p>Celebrate Netflix&#8217;s &#8220;Squid Games&#8221; With Fully Customizable Shirts!</p></a></li><li><a href="https://bloody-disgusting.com/tv/3686300/kiernan-shipkas-sabrina-spellman-coming-riverdale/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3600018" data-permalink="https://bloody-disgusting.com/tv/3599986/fun-music-video-trailer-chilling-adventures-sabrina-season-3-knocks-gates-hell/attachment/sabrina-part-3-2/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?fit=1524%2C827&amp;ssl=1" data-orig-size="1524,827" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sabrina part 3" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?fit=300%2C163&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/01/sabrina-part-3.png?fit=740%2C402&amp;ssl=1" /></div><p>Kiernan Shipka&#8217;s Sabrina Spellman is Coming to &#8220;Riverdale&#8221;!</p></a></li><li><a href="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Creepshow The Last Tsuburaya" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685795" data-permalink="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/attachment/creepshow-the-last-tsuburaya-featured/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Creepshow-The-Last-Tsuburaya-Featured" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=740%2C416&amp;ssl=1" /></div><p>[Review] &#8220;Creepshow&#8221; Season 3 Delivers a Double Dose of Creature Horror This Week</p></a></li><li><a href="https://bloody-disgusting.com/tv/3686265/wandavision-kathryn-hahn-will-return-agatha-harkness-dark-comedy-spinoff-series/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?resize=1000%2C600&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686266" data-permalink="https://bloody-disgusting.com/tv/3686265/wandavision-kathryn-hahn-will-return-agatha-harkness-dark-comedy-spinoff-series/attachment/agatha-4/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?fit=1197%2C664&amp;ssl=1" data-orig-size="1197,664" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="agatha" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?fit=300%2C166&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/agatha.png?fit=740%2C410&amp;ssl=1" /></div><p>&#8220;WandaVision&#8221;: Kathryn Hahn Will Return as Agatha Harkness in a &#8220;Dark Comedy&#8221; Spinoff Series</p></a></li></ul></div></div></li>
+<li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380632"><a href="https://bloody-disgusting.com/reviews/">Reviews</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Creepshow The Last Tsuburaya" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685795" data-permalink="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/attachment/creepshow-the-last-tsuburaya-featured/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Creepshow-The-Last-Tsuburaya-Featured" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-The-Last-Tsuburaya-Featured.jpg?fit=740%2C416&amp;ssl=1" /></div><p>[Review] &#8220;Creepshow&#8221; Season 3 Delivers a Double Dose of Creature Horror This Week</p></a></li><li><a href="https://bloody-disgusting.com/reviews/3686093/review-chucky-premiere-brings-killer-doll-home-play-multiple-sandboxes/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3682698" data-permalink="https://bloody-disgusting.com/tv/3682696/chucky-looks-better-ever-new-shot-syfys-childs-play-series-photo/attachment/chucky-season-1-2/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?fit=1200%2C782&amp;ssl=1" data-orig-size="1200,782" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;Steve Wilkie\/USA Network&quot;,&quot;camera&quot;:&quot;ILCE-9&quot;,&quot;caption&quot;:&quot;CHUCKY -- \&quot;Death by Misadventure\&quot; Episode 101 -- Pictured: (l-r) Zackary Arthur as Jake Wheeler, Chucky -- (Photo by: Steve Wilkie\/USA Network)&quot;,&quot;created_timestamp&quot;:&quot;1624179600&quot;,&quot;copyright&quot;:&quot;2021 USA Network Media, LLC&quot;,&quot;focal_length&quot;:&quot;58&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;Chucky - Season 1&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Chucky &#8211; Season 1" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?fit=300%2C196&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/NUP_194776_2134.jpg?fit=740%2C482&amp;ssl=1" /></div><p>[Review] “Chucky” Premiere Brings the Killer Doll Home to Play in Multiple Sandboxes at Once</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3685631/review-alan-wake-remastered-shines-fresh-light-remedys-intoxicating-horror-game-classic/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685632" data-permalink="https://bloody-disgusting.com/video-games/3685631/review-alan-wake-remastered-shines-fresh-light-remedys-intoxicating-horror-game-classic/attachment/alan-wake-remastered-review-02/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?fit=3840%2C2160&amp;ssl=1" data-orig-size="3840,2160" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="alan-wake-remastered-review-02" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?fit=300%2C169&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/alan-wake-remastered-review-02.png?fit=740%2C416&amp;ssl=1" /></div><p>[Review] &#8216;Alan Wake Remastered&#8217; Shines Fresh Light on Remedy&#8217;s Intoxicating Horror Game Classic</p></a></li><li><a href="https://bloody-disgusting.com/reviews/3685101/fantastic-fest-review-alone-with-you/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Alone With You Review" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685102" data-permalink="https://bloody-disgusting.com/reviews/3685101/fantastic-fest-review-alone-with-you/attachment/alone-with-you/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?fit=800%2C433&amp;ssl=1" data-orig-size="800,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Alone With You" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?fit=300%2C162&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Alone-With-You.jpeg?fit=740%2C401&amp;ssl=1" /></div><p>[Fantastic Fest Review] &#8216;Alone With You&#8217; Is a Mixed Bag of Queer Paranoia</p></a></li><li><a href="https://bloody-disgusting.com/reviews/3684734/review-addams-family-2-trades-macabre-hyper-candy-coated-comedy-kids/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3684293" data-permalink="https://bloody-disgusting.com/movie/3684272/addams-family-2-clip-plans-family-road-trip-check-20-images-video/attachment/the-addams-family-2-2021-22/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?fit=1200%2C648&amp;ssl=1" data-orig-size="1200,648" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Metro Goldwyn Mayer Pictures&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;(L to R) Chlo\u00eb Grace Moretz as the voice of Wednesday Addams, Charlize Theron as the voice of Morticia Addams, Oscar Isaac as the voice of Gomez Addams, and Javon Walton as the voice of Pugsley Addams in THE ADDAMS FAMILY 2, directed by Greg Tiernan and Conrad Vernon, a Metro Goldwyn Mayer Pictures film.  \r\rCredit: Metro Goldwyn Mayer Pictures  \r\r\u00a9 2021 Metro-Goldwyn-Mayer Pictures Inc.  All Rights Reserved.&quot;,&quot;created_timestamp&quot;:&quot;1626946531&quot;,&quot;copyright&quot;:&quot;\u00a9 2021 Metro-Goldwyn-Mayer Pictures Inc.  All Rights Reserved.&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;THE ADDAMS FAMILY 2 (2021)&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="THE ADDAMS FAMILY 2 (2021)" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?fit=300%2C162&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/addams-family-2-TAF2_TP_00066_rgb.jpg?fit=740%2C400&amp;ssl=1" /></div><p>[Review] ‘The Addams Family 2’ Trades the Macabre for Hyper Candy-Coated Comedy for Kids</p></a></li></ul></div></div></li>
+<li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3484469"><a href="https://bloody-disgusting.com/editorials/">Editorials</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/editorials/3685154/screaming-live-snapchat-6-unique-found-footage-movies/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?resize=1000%2C600&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685165" data-permalink="https://bloody-disgusting.com/editorials/3685154/screaming-live-snapchat-6-unique-found-footage-movies/attachment/wnuf-halloween-special-news-1242663-1280x0/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="wnuf-halloween-special" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/wnuf-halloween-special-news-1242663-1280x0-1.jpeg?fit=740%2C416&amp;ssl=1" /></div><p>Screaming Live on Snapchat: 6 of the Most Unique Found Footage Movies!</p></a></li><li><a href="https://bloody-disgusting.com/editorials/3686095/malignant-james-wan-created-yet-another-horror-icon-gabriel/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3674755" data-permalink="https://bloody-disgusting.com/movie/3674723/trailer-james-wans-new-horror-movie-malignant-looks-like-wild-supernatural-slasher/attachment/james-wan-malignant-trailer/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?fit=1479%2C686&amp;ssl=1" data-orig-size="1479,686" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="james wan malignant trailer" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?fit=300%2C139&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/07/james-wan-malignant-trailer.png?fit=740%2C343&amp;ssl=1" /></div><p>&#8216;Malignant&#8217;: Has James Wan Created Yet Another Horror Icon With Gabriel?</p></a></li><li><a href="https://bloody-disgusting.com/editorials/3684238/rob-zombies-halloween-ii-paved-way-new-kind-horror/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?w=1000&amp;ssl=1 1000w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=300%2C180&amp;ssl=1 300w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=768%2C461&amp;ssl=1 768w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=400%2C240&amp;ssl=1 400w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3684239" data-permalink="https://bloody-disgusting.com/editorials/3684238/rob-zombies-halloween-ii-paved-way-new-kind-horror/attachment/rob-zombie-halloween-ii-2/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=1000%2C600&amp;ssl=1" data-orig-size="1000,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Halloween II" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=300%2C180&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=740%2C444&amp;ssl=1" /></div><p>How Rob Zombie&#8217;s &#8216;Halloween II&#8217; Paved the Way for a New Kind of Horror</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3685822/new-secrets-alan-wake-remastered-set-fan-theory-brain-fire/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3574513" data-permalink="https://bloody-disgusting.com/video-games/3574512/remedys-sam-lake-holding-hope-alan-wake-2/attachment/alanwake-11/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="alanwake" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/alanwake.jpg?fit=740%2C477&amp;ssl=1" /></div><p>New Secrets In &#8216;Alan Wake Remastered&#8217; Have Set My Fan-Theory Brain On Fire</p></a></li><li><a href="https://bloody-disgusting.com/editorials/3685555/stay-home-watch-horror-5-halloween-horror-movies-stream-week-celebrate-trick-treaters/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685556" data-permalink="https://bloody-disgusting.com/editorials/3685555/stay-home-watch-horror-5-halloween-horror-movies-stream-week-celebrate-trick-treaters/attachment/anything-for-jackson-3/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?fit=1615%2C809&amp;ssl=1" data-orig-size="1615,809" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Anything for Jackson" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?fit=300%2C150&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Anything-for-Jackson.jpg?fit=740%2C371&amp;ssl=1" /></div><p>Stay Home, Watch Horror: 5 Horror Movies to Stream This Week That Spotlight Trick or Treaters</p></a></li></ul></div></div></li>
+<li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380635"><a href="https://bloody-disgusting.com/videos/">Videos</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/tv/3686354/shudders-creepshow-unleashes-deadly-spiders-week-watch-clip-segment-ok-ill-bite/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Creepshow OK I&#039;ll Bite" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685803" data-permalink="https://bloody-disgusting.com/tv/3685794/review-creepshow-season-3-delivers-double-dose-creature-horror-week/attachment/creepshow-ok-ill-bite/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Creepshow-OK-Ill-Bite" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/Creepshow-OK-Ill-Bite.jpg?fit=740%2C416&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>Shudder&#8217;s &#8220;Creepshow&#8221; Unleashes Deadly Spiders This Week; Watch a Clip from the Segment &#8220;Ok I&#8217;ll Bite&#8221;</p></a></li><li><a href="https://bloody-disgusting.com/exclusives/3686334/escape-room-tournament-champions-exclusive-clip-looks-production-design-acid-rain-room/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=1000%2C600&amp;ssl=1 1000w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686336" data-permalink="https://bloody-disgusting.com/exclusives/3686334/escape-room-tournament-champions-exclusive-clip-looks-production-design-acid-rain-room/attachment/acid-rain/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=1818%2C904&amp;ssl=1" data-orig-size="1818,904" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="acid rain" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=300%2C149&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/acid-rain.png?fit=740%2C368&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>‘Escape Room: Tournament of Champions’ – Exclusive Clip Looks at the Production Design of the Acid Rain Room</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686277/halloween-kills-featurette-promises-intense-sequel-nonstop-action-blood/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686292" data-permalink="https://bloody-disgusting.com/movie/3686277/halloween-kills-featurette-promises-intense-sequel-nonstop-action-blood/attachment/halloween-kills-1978-mask/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?fit=1245%2C592&amp;ssl=1" data-orig-size="1245,592" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="halloween kills 1978 mask" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?fit=300%2C143&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/halloween-kills-1978-mask.png?fit=740%2C352&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>&#8216;Halloween Kills&#8217; Featurette Promises an Intense Sequel With &#8220;Nonstop Action and Blood&#8221; [Video]</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686253/resident-evil-welcome-raccoon-city-trailer-loads-zombies-monsters-bloody-horror/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686284" data-permalink="https://bloody-disgusting.com/movie/3686253/resident-evil-welcome-raccoon-city-trailer-loads-zombies-monsters-bloody-horror/attachment/welcome-to-raccoon-city-trailer/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?fit=1297%2C589&amp;ssl=1" data-orig-size="1297,589" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="welcome to raccoon city trailer" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?fit=300%2C136&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/welcome-to-raccoon-city-trailer.png?fit=740%2C336&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>&#8216;Resident Evil: Welcome to Raccoon City&#8217; Trailer Loads Up On Zombies, Monsters, and Bloody Horror!</p></a></li><li><a href="https://bloody-disgusting.com/movie/3686082/halloween-kills-clips/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?resize=1000%2C600&amp;ssl=1 1000w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?resize=590%2C354&amp;ssl=1 590w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?zoom=3&amp;resize=400%2C240&amp;ssl=1 1200w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3685990" data-permalink="https://bloody-disgusting.com/movie/3685987/halloween-kills-image-gallery/attachment/halloween-kills-11/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?fit=1200%2C800&amp;ssl=1" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Photo Credit: Ryan Green\/Universal Pictures&quot;,&quot;camera&quot;:&quot;ILCE-9&quot;,&quot;caption&quot;:&quot;Anthony Michael Hall as Tommy Doyle in Halloween Kills, directed by David Gordon Green.&quot;,&quot;created_timestamp&quot;:&quot;1569057084&quot;,&quot;copyright&quot;:&quot;\u00a9 2021 UNIVERSAL STUDIOS.  All Rights Reserved.&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;Halloween Kills&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Halloween Kills" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D005_00282R.jpg?fit=740%2C494&amp;ssl=1" /><div class="mvp-vid-box-wrap mvp-vid-box-small mvp-vid-marg-small"><i class="fa fa-play fa-3"></i></div></div><p>Laurie Strode and Tommy Doyle Reunite in Three New Clips from &#8216;Halloween Kills&#8217;!</p></a></li></ul></div></div></li>
+<li class="mvp-mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3380634"><a href="https://bloody-disgusting.com/video-games/">Video Games</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686350" data-permalink="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/attachment/houseofashes-7/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="houseofashes" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=740%2C477&amp;ssl=1" /></div><p>[Watch] &#8216;House of Ashes&#8217; Receives Trailer Detailing The Protagonists</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3686230/watch-latest-dying-2-know-more-episode-for-dying-light-2-focuses-on-the-games-soundtrack/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686244" data-permalink="https://bloody-disgusting.com/video-games/3686230/watch-latest-dying-2-know-more-episode-for-dying-light-2-focuses-on-the-games-soundtrack/attachment/dyinglight2-30/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dyinglight2" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=740%2C477&amp;ssl=1" /></div><p>[Watch] Latest &#8220;Dying 2 Know More&#8221; Episode For &#8216;Dying Light 2&#8217; Focuses on The Game&#8217;s Soundtrack</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3686226/new-upcoming-hunt-showdown-update-adds-new-weapons-and-health-regen-item/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686228" data-permalink="https://bloody-disgusting.com/video-games/3686226/new-upcoming-hunt-showdown-update-adds-new-weapons-and-health-regen-item/attachment/huntshowdown-22/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="huntshowdown" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=740%2C477&amp;ssl=1" /></div><p>New Upcoming &#8216;Hunt: Showdown&#8217; Update Adds New Weapons And Health Regen Item</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3686223/trailer-lovecraftian-indie-horror-adventure-the-alien-cube-arrives-october-14/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686224" data-permalink="https://bloody-disgusting.com/video-games/3686223/trailer-lovecraftian-indie-horror-adventure-the-alien-cube-arrives-october-14/attachment/aliencube/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aliencube" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/aliencube.jpg?fit=740%2C477&amp;ssl=1" /></div><p>[Trailer] Lovecraftian Indie Horror Adventure &#8216;The Alien Cube&#8217; Arrives October 14</p></a></li><li><a href="https://bloody-disgusting.com/video-games/3686161/scream-and-donnie-darko-joining-time-limited-event-for-call-of-duty-warzone-and-black-ops-cold-war/"><div class="mvp-mega-img"><img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?resize=400%2C240&amp;ssl=1" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686166" data-permalink="https://bloody-disgusting.com/video-games/3686161/scream-and-donnie-darko-joining-time-limited-event-for-call-of-duty-warzone-and-black-ops-cold-war/attachment/scream-51/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="scream" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/scream.jpg?fit=740%2C477&amp;ssl=1" /></div><p>&#8216;Scream&#8217; and &#8216;Donnie Darko&#8217; Joining Time-Limited Event for &#8216;Call of Duty Warzone&#8217; and &#8216;Black Ops Cold War&#8217;</p></a></li></ul></div></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3443483"><a href="https://bloody-disgusting.com/podcastnetwork/">PODCASTS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3384232"><a href="https://bloodydisgusting.tv">BLOODY DISGUSTING TV</a></li>
+</ul></div>															</div><!--mvp-nav-menu-->
+														</div><!--mvp-nav-bot-left-in-->
+													</div><!--mvp-nav-bot-left-out-->
+												</div><!--mvp-nav-bot-cont-->
+											</div><!--mvp-nav-bot-right-in-->
+											<div class="mvp-nav-bot-right left relative">
+												<span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+											</div><!--mvp-nav-bot-right-->
+										</div><!--mvp-nav-bot-right-out-->
+									</div><!--mvp-nav-bot-wrap-->
+								</div><!--mvp-main-nav-bot-cont-->
+							</div><!--mvp-main-box-->
+						</div><!--mvp-main-nav-bot-->
+					</nav><!--mvp-main-nav-wrap-->
+							</header><!--mvp-main-head-wrap-->
+			<div id="mvp-main-body-wrap" class="left relative">	<article id="mvp-article-wrap" itemscope itemtype="http://schema.org/NewsArticle">
+			<meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/"/>
+						<div id="mvp-article-cont" class="left relative">
+			<div class="mvp-main-box">
+				<div id="mvp-post-main" class="left relative">
+										<header id="mvp-post-head" class="left relative">
+						<h3 class="mvp-post-cat left relative"><a class="mvp-post-cat-link" href="https://bloody-disgusting.com/video-games/"><span class="mvp-post-cat left">Video Games</span></a></h3>
+						<h1 class="mvp-post-title left entry-title" itemprop="headline">&#8216;Resident Evil 3&#8217; Remake Sells 2.7 Million in First Three Months, But Lags Behind &#8216;Resident Evil 2&#8217; Sales</h1>
+																			<div class="mvp-author-info-wrap left relative">
+								<div class="mvp-author-info-thumb left relative">
+									<img alt='' src='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=46&#038;d=mm&#038;r=r' srcset='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=92&#038;d=mm&#038;r=r 2x' class='avatar avatar-46 photo' height='46' width='46' loading='lazy'/>								</div><!--mvp-author-info-thumb-->
+								<div class="mvp-author-info-text left relative">
+									<div class="mvp-author-info-date left relative">
+										<p>Published</p> <span class="mvp-post-date">1 year ago</span> <p>on</p> <span class="mvp-post-date updated"><time class="post-date updated" itemprop="datePublished" datetime="2020-08-04">August 4, 2020</time></span>
+										<meta itemprop="dateModified" content="2020-08-04"/>
+									</div><!--mvp-author-info-date-->
+									<div class="mvp-author-info-name left relative" itemprop="author" itemscope itemtype="https://schema.org/Person">
+										<p>By</p> <span class="author-name vcard fn author" itemprop="name"><a href="https://bloody-disgusting.com/author/theaxegrinder/" title="Posts by Mike Wilson" rel="author">Mike Wilson</a></span> 									</div><!--mvp-author-info-name-->
+								</div><!--mvp-author-info-text-->
+							</div><!--mvp-author-info-wrap-->
+											</header>
+										<div class="mvp-post-main-out left relative">
+						<div class="mvp-post-main-in">
+							<div id="mvp-post-content" class="left relative">
+																																																														<div id="mvp-post-feat-img" class="left relative mvp-post-feat-img-wide2" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+												<img width="830" height="535" src="https://bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg" class="attachment- size- wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?w=830&amp;ssl=1 830w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?resize=300%2C193&amp;ssl=1 300w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?resize=768%2C495&amp;ssl=1 768w" sizes="(max-width: 830px) 100vw, 830px" data-attachment-id="3626195" data-permalink="https://bloody-disgusting.com/video-games/3626185/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales/attachment/re3-33/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re3" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?fit=740%2C477&amp;ssl=1" />																								<meta itemprop="url" content="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/re3.jpg?resize=830%2C535&#038;ssl=1">
+												<meta itemprop="width" content="830">
+												<meta itemprop="height" content="535">
+											</div><!--mvp-post-feat-img-->
+																																																														<div id="mvp-content-wrap" class="left relative">
+									<div class="mvp-post-soc-out right relative">
+																				<div class="mvp-post-soc-in">
+											<div id="mvp-content-body" class="left relative">
+												<div id="mvp-content-body-top" class="left relative">
+																																							<div id="mvp-content-main" class="left relative">
+														<p>In the <a href="http://www.capcom.co.jp/ir/english/data/pdf/explanation/2020/1st/explanation_2020_1st_01.pdf" rel="noopener noreferrer" target="_blank">latest quarterly results</a> for Capcom, as expected, <strong><em>Resident Evil</em></strong> leads the way. However, despite being referred to as &#8220;solid&#8221;, the numbers for the <strong><em>Resident Evil 3</em></strong> remake (<a href="https://bloody-disgusting.com/reviews/3610862/review-reimagined-resident-evil-3-exciting-slice-survival-horror-leaves-hungering/" rel="noopener noreferrer" target="_blank">which we reviewed here</a>) unfortunately pale in comparison to its predecessor.</p>
+<p><em>RE3</em> recorded 2.7 million sales in three months since its launch back in March, which is still quite good for any game. However, given Capcom&#8217;s reliance on the recent enthusiasm for the franchise (and its <a href="https://bloody-disgusting.com/video-games/3616964/resident-evil-franchise-crosses-100-million-units-sold-milestone-re3-ships-two-million-five-days/" rel="noopener noreferrer" target="_blank">recent 100 million achievement</a>) sales of the remake fall behind <strong><em>Resident Evil 2</em></strong> remake&#8217;s sales across the same length of time, which boasted more than 4 million sales.</p>
+<p>Things get more suspect when you compare sales to <strong><em>Resident Evil 5</em></strong>, <strong><em>6</em></strong> and <strong><em>7</em></strong>, according to business development manager <a href="https://twitter.com/cvxfreak/status/1290207408631844866" rel="noopener noreferrer" target="_blank">Alex Aniel</a>. <em>RE3</em> also lags behind those three in comparing their post-launch numbers at this point. <em>RE5</em> moved 4.4 million copies in its first three weeks, while <em>RE6</em>, with its troubled launch, moved 4.5 million in 3 months. <em>RE7</em> managed 3.5 million in two months.</p>
+<p>Capcom&#8217;s statement regarding <em>RE3</em> as being a <a href="https://bloody-disgusting.com/video-games/3618851/capcom-resident-evil-3-finished-product-no-post-launch-content/" rel="noopener noreferrer" target="_blank">&#8220;finished product&#8221;</a> with no post-launch content may also have been a factor for some, but this might be a bit of a concern for them, especially with <strong><em>Resident Evil Village</em></strong> on the way.</p>
+																											</div><!--mvp-content-main-->
+													<div id="mvp-content-bot" class="left">
+																												<div class="mvp-post-tags">
+															<span class="mvp-post-tags-header">Related Topics:</span><span itemprop="keywords"><a href="https://bloody-disgusting.com/tag/capcom/" rel="tag">Capcom</a><a href="https://bloody-disgusting.com/tag/pc/" rel="tag">PC</a><a href="https://bloody-disgusting.com/tag/playstation-4/" rel="tag">playstation 4</a><a href="https://bloody-disgusting.com/tag/resident-evil-2/" rel="tag">resident evil 2</a><a href="https://bloody-disgusting.com/tag/resident-evil-3/" rel="tag">resident evil 3</a><a href="https://bloody-disgusting.com/tag/steam/" rel="tag">steam</a><a href="https://bloody-disgusting.com/tag/xbox-one/" rel="tag">xbox one</a></span>
+														</div><!--mvp-post-tags-->
+														<div class="posts-nav-link">
+																													</div><!--posts-nav-link-->
+																																											<div id="mvp-author-box-wrap" class="left relative">
+																<div class="mvp-author-box-out right relative">
+																	<div id="mvp-author-box-img" class="left relative">
+																		<img alt='' src='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=60&#038;d=mm&#038;r=r' srcset='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=120&#038;d=mm&#038;r=r 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy'/>																	</div><!--mvp-author-box-img-->
+																	<div class="mvp-author-box-in">
+																		<div id="mvp-author-box-head" class="left relative">
+																			<span class="mvp-author-box-name left relative"><a href="https://bloody-disgusting.com/author/theaxegrinder/" title="Posts by Mike Wilson" rel="author">Mike Wilson</a></span>
+																			<div id="mvp-author-box-soc-wrap" class="left relative">
+																																									<a href="mailto:ptorfe@gmail.com"><span class="mvp-author-box-soc fa fa-envelope-square fa-2"></span></a>
+																																																																																																																																																															</div><!--mvp-author-box-soc-wrap-->
+																		</div><!--mvp-author-box-head-->
+																	</div><!--mvp-author-box-in-->
+																</div><!--mvp-author-box-out-->
+																<div id="mvp-author-box-text" class="left relative">
+																	<p>Writer/Artist/Gamer from the Great White North. I try not to be boring.</p>
+																</div><!--mvp-author-box-text-->
+															</div><!--mvp-author-box-wrap-->
+																												<div class="mvp-org-wrap" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+															<div class="mvp-org-logo" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+																																	<img src="https://bloody-disgusting.com/wp-content/uploads/2018/11/BD_HEADER-2.png"/>
+																	<meta itemprop="url" content="https://bloody-disgusting.com/wp-content/uploads/2018/11/BD_HEADER-2.png">
+																															</div><!--mvp-org-logo-->
+															<meta itemprop="name" content="Bloody Disgusting!">
+														</div><!--mvp-org-wrap-->
+													</div><!--mvp-content-bot-->
+												</div><!--mvp-content-body-top-->
+												<div class="mvp-cont-read-wrap">
+																																								<div id="mvp-post-bot-ad" class="left relative">
+															<span class="mvp-ad-label">Advertisement</span>
+															 <div id="incontent-ad-0"></div>
+<script>window.catalyst.cmd.push('loadAds',[['incontent', 'incontent-ad-0']]);</script>
+<br /><h4 class="mvp-widget-home-title"><span class="mvp-widget-home-title">AROUND THE WEB</span></h4><br />
+
+<div id="zergnet-widget-35342"></div>
+
+<script language="javascript" type="text/javascript">
+    (function() {
+        var zergnet = document.createElement('script');
+        zergnet.type = 'text/javascript'; zergnet.async = true;
+        zergnet.src = 'https://www.zergnet.com/zerg.js?id=35342';
+        var znscr = document.getElementsByTagName('script')[0];
+        znscr.parentNode.insertBefore(zergnet, znscr);
+    })();
+</script><br />
+
+														</div><!--mvp-post-bot-ad-->
+																																								<div id="mvp-related-posts" class="left relative">
+															<h4 class="mvp-widget-home-title">
+																<span class="mvp-widget-home-title">Related Posts</span>
+															</h4>
+																			<ul class="mvp-related-posts-list left related">
+            								<a href="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/" rel="bookmark">
+            			<li>
+							                				<div class="mvp-related-img left relative">
+									<img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=400%2C240&amp;ssl=1" class="mvp-reg-img wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686350" data-permalink="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/attachment/houseofashes-7/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="houseofashes" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=740%2C477&amp;ssl=1" />									<img width="80" height="80" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=80%2C80&amp;ssl=1" class="mvp-mob-img wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=80%2C80&amp;ssl=1 80w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3686350" data-permalink="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/attachment/houseofashes-7/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="houseofashes" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=740%2C477&amp;ssl=1" />																	</div><!--mvp-related-img-->
+														<div class="mvp-related-text left relative">
+								<p>[Watch] &#8216;House of Ashes&#8217; Receives Trailer Detailing The Protagonists</p>
+							</div><!--mvp-related-text-->
+            			</li>
+						</a>
+            								<a href="https://bloody-disgusting.com/video-games/3686230/watch-latest-dying-2-know-more-episode-for-dying-light-2-focuses-on-the-games-soundtrack/" rel="bookmark">
+            			<li>
+							                				<div class="mvp-related-img left relative">
+									<img width="400" height="240" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=400%2C240&amp;ssl=1" class="mvp-reg-img wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=590%2C354&amp;ssl=1 590w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=400%2C240&amp;ssl=1 400w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686244" data-permalink="https://bloody-disgusting.com/video-games/3686230/watch-latest-dying-2-know-more-episode-for-dying-light-2-focuses-on-the-games-soundtrack/attachment/dyinglight2-30/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dyinglight2" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=740%2C477&amp;ssl=1" />									<img width="80" height="80" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=80%2C80&amp;ssl=1" class="mvp-mob-img wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?resize=80%2C80&amp;ssl=1 80w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3686244" data-permalink="https://bloody-disgusting.com/video-games/3686230/watch-latest-dying-2-know-more-episode-for-dying-light-2-focuses-on-the-games-soundtrack/attachment/dyinglight2-30/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dyinglight2" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/dyinglight2.jpg?fit=740%2C477&amp;ssl=1" />																	</div><!--mvp-related-img-->
+														<div class="mvp-related-text left relative">
+								<p>[Watch] Latest &#8220;Dying 2 Know More&#8221; Episode For &#8216;Dying Light 2&#8217; Focuses on The Game&#8217;s Soundtrack</p>
+							</div><!--mvp-related-text-->
+            			</li>
+						</a>
+            								<a href="https://bloody-disgusting.com/video-games/3686226/new-upcoming-hunt-showdown-update-adds-new-weapons-and-health-regen-item/" rel="bookmark">
+            			<li>
+							                				<div class="mvp-related-img left relative">
+									<img width="400" height="240" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=400%2C240&amp;ssl=1" class="mvp-reg-img wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=590%2C354&amp;ssl=1 590w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=400%2C240&amp;ssl=1 400w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?zoom=2&amp;resize=400%2C240&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" data-attachment-id="3686228" data-permalink="https://bloody-disgusting.com/video-games/3686226/new-upcoming-hunt-showdown-update-adds-new-weapons-and-health-regen-item/attachment/huntshowdown-22/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="huntshowdown" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=740%2C477&amp;ssl=1" />									<img width="80" height="80" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=80%2C80&amp;ssl=1" class="mvp-mob-img wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?resize=80%2C80&amp;ssl=1 80w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3686228" data-permalink="https://bloody-disgusting.com/video-games/3686226/new-upcoming-hunt-showdown-update-adds-new-weapons-and-health-regen-item/attachment/huntshowdown-22/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="huntshowdown" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/huntshowdown.jpg?fit=740%2C477&amp;ssl=1" />																	</div><!--mvp-related-img-->
+														<div class="mvp-related-text left relative">
+								<p>New Upcoming &#8216;Hunt: Showdown&#8217; Update Adds New Weapons And Health Regen Item</p>
+							</div><!--mvp-related-text-->
+            			</li>
+						</a>
+            		</ul>														</div><!--mvp-related-posts-->
+																																																																						<div id="mvp-comments-button" class="left relative mvp-com-click">
+																<span class="mvp-comment-but-text"><span class="dsq-postid" data-dsqidentifier="3626185 https://bloody-disgusting.com/?p=3626185">Click to comment</span></span>
+															</div><!--mvp-comments-button-->
+															
+<div id="disqus_thread"></div>
+																																							</div><!--mvp-cont-read-wrap-->
+											</div><!--mvp-content-body-->
+										</div><!--mvp-post-soc-in-->
+									</div><!--mvp-post-soc-out-->
+								</div><!--mvp-content-wrap-->
+													<div id="mvp-post-add-box">
+								<div id="mvp-post-add-wrap" class="left relative">
+																			<div class="mvp-post-add-story left relative">
+											<div class="mvp-post-add-head left relative">
+												<h3 class="mvp-post-cat left relative"><a class="mvp-post-cat-link" href="https://bloody-disgusting.com/video-games/"><span class="mvp-post-cat left">Video Games</span></a></h3>
+												<h1 class="mvp-post-title left">[Watch] &#8216;House of Ashes&#8217; Receives Trailer Detailing The Protagonists</h1>
+																																					<div class="mvp-author-info-wrap left relative">
+														<div class="mvp-author-info-thumb left relative">
+															<img alt='' src='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=46&#038;d=mm&#038;r=r' srcset='https://secure.gravatar.com/avatar/4e8553713f8d6ff574a013126070c2bf?s=92&#038;d=mm&#038;r=r 2x' class='avatar avatar-46 photo' height='46' width='46' loading='lazy'/>														</div><!--mvp-author-info-thumb-->
+														<div class="mvp-author-info-text left relative">
+															<div class="mvp-author-info-date left relative">
+																<p>Published</p> <span class="mvp-post-date">14 hours ago</span> <p>on</p> <span class="mvp-post-date">October 7, 2021</span>
+															</div><!--mvp-author-info-date-->
+															<div class="mvp-author-info-name left relative">
+																<p>By</p> <span class="author-name vcard fn author" itemprop="name"><a href="https://bloody-disgusting.com/author/theaxegrinder/" title="Posts by Mike Wilson" rel="author">Mike Wilson</a></span> 															</div><!--mvp-author-info-name-->
+														</div><!--mvp-author-info-text-->
+													</div><!--mvp-author-info-wrap-->
+																							</div><!--mvp-post-add-head-->
+											<div class="mvp-post-add-body left relative">
+																																							<div class="mvp-post-add-img left relative">
+															<img width="830" height="535" src="https://bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg" class="attachment- size- wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?w=830&amp;ssl=1 830w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=300%2C193&amp;ssl=1 300w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?resize=768%2C495&amp;ssl=1 768w" sizes="(max-width: 830px) 100vw, 830px" data-attachment-id="3686350" data-permalink="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/attachment/houseofashes-7/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=830%2C535&amp;ssl=1" data-orig-size="830,535" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="houseofashes" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/houseofashes.jpg?fit=740%2C477&amp;ssl=1" />														</div><!--mvp-post-feat-img-->
+																																																			<div class="mvp-post-add-cont left relative">
+													<div class="mvp-post-add-main right relative">
+														
+<p>Supermassive is gearing up for the next chapter in <strong><em>The Dark Pictures Anthology</em></strong> with <strong><em>House of Ashes</em></strong> later this month. In doing so, they&#8217;ve dropped a new trailer for the game that focuses on introducing the characters.</p>
+
+
+
+<p>Of course, the trailer also offers up glimpses of the horror that awaits. For those who need a refresher, House of Ashes centers on a US military unit that comes under fire from Iraqi forces. The resulting firefight causes an earth tremor where both sides fall into the ruins of a buried Sumerian temple. With all communication severed, the team must try to escape the temple. If working with the enemy wasn&#8217;t hard enough, both groups must contend with an ancient evil lurking in the darkness.</p>
+
+
+
+<p><em>House of Ashes</em> will release on <strong>October 22nd</strong> for PC, PlayStation 4, PlayStation 5, Xbox One and Xbox Series. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' width='740' height='417' src='https://www.youtube.com/embed/PpdgRPRIdnY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe></span>
+</div></figure>
+													</div><!--mvp-post-add-main-->
+													<div class="mvp-post-add-link">
+														<a href="https://bloody-disgusting.com/video-games/3686246/watch-house-of-ashes-receives-trailer-detailing-the-protagonists/" rel="bookmark"><span class="mvp-post-add-link-but">Continue Reading</span></a>
+													</div><!--mvp-post-add-link-->
+												</div><!--mvp-post-add-cont-->
+											</div><!--mvp-post-add-body-->
+										</div><!--mvp-post-add-story-->
+																	</div><!--mvp-post-add-wrap-->
+							</div><!--mvp-post-add-box-->
+													</div><!--mvp-post-content-->
+						</div><!--mvp-post-main-in-->
+													<div id="mvp-side-wrap" class="left relative theiaStickySidebar">
+						<section id="mvp_ad_widget-3" class="mvp-side-widget mvp_ad_widget">			<div class="mvp-widget-ad left relative">
+				<span class="mvp-ad-label">Advertisement</span>
+				<div id="rect-ad-0"></div>
+<script>window.catalyst.cmd.push('loadAds',[['rect', 'rect-ad-0']]);</script>			</div><!--mvp-widget-ad-->
+		</section><section id="custom_html-2" class="widget_text mvp-side-widget widget_custom_html"><div class="mvp-widget-home-head"><h4 class="mvp-widget-home-title"><span class="mvp-widget-home-title">BD PODCAST NETWORK</span></h4></div><div class="textwidget custom-html-widget"><iframe width="100%" height="188" src="https://embed.acast.com/the-boo-crew" scrolling="no" frameborder="0" style="border:none;overflow:hidden;"></iframe></div></section><section id="mvp_tabber_widget-2" class="mvp-side-widget mvp_tabber_widget">
+			<div class="mvp-widget-tab-wrap left relative">
+				<div class="mvp-feat1-list-wrap left relative">
+					<div class="mvp-feat1-list-head-wrap left relative">
+						<ul class="mvp-feat1-list-buts left relative">
+							<li class="mvp-feat-col-tab"><a href="#mvp-tab-col1"><span class="mvp-feat1-list-but">Trending</span></a></li>
+																				</ul>
+					</div><!--mvp-feat1-list-head-wrap-->
+					<div id="mvp-tab-col1" class="mvp-feat1-list left relative mvp-tab-col-cont">
+																					<a href="https://bloody-disgusting.com/toys/3685570/neca-celebrates-40-years-elvira-incredible-new-mistress-dark-figure/" rel="bookmark">
+								<div class="mvp-feat1-list-cont left relative">
+																			<div class="mvp-feat1-list-out relative">
+											<div class="mvp-feat1-list-img left relative">
+												<img width="80" height="80" src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?resize=80%2C80&amp;ssl=1" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?resize=80%2C80&amp;ssl=1 80w, https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3685574" data-permalink="https://bloody-disgusting.com/toys/3685570/neca-celebrates-40-years-elvira-incredible-new-mistress-dark-figure/attachment/elvira-neca/" data-orig-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?fit=1125%2C677&amp;ssl=1" data-orig-size="1125,677" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="elvira neca" data-image-description="" data-medium-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?fit=300%2C181&amp;ssl=1" data-large-file="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/elvira-neca.png?fit=740%2C445&amp;ssl=1" />											</div><!--mvp-feat1-list-img-->
+											<div class="mvp-feat1-list-in">
+												<div class="mvp-feat1-list-text">
+													<div class="mvp-cat-date-wrap left relative">
+														<span class="mvp-cd-cat left relative">Toys</span><span class="mvp-cd-date left relative">6 days ago</span>
+													</div><!--mvp-cat-date-wrap-->
+													<h2>NECA Celebrates 40 Years of Elvira With Incredible New Mistress of the Dark Figure</h2>
+												</div><!--mvp-feat1-list-text-->
+											</div><!--mvp-feat1-list-in-->
+										</div><!--mvp-feat1-list-out-->
+																	</div><!--mvp-feat1-list-cont-->
+								</a>
+															<a href="https://bloody-disgusting.com/movie/3685347/12-new-horror-movies-shows-releasing-first-weekend-october/" rel="bookmark">
+								<div class="mvp-feat1-list-cont left relative">
+																			<div class="mvp-feat1-list-out relative">
+											<div class="mvp-feat1-list-img left relative">
+												<img width="80" height="80" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?resize=80%2C80&amp;ssl=1" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?resize=80%2C80&amp;ssl=1 80w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3683190" data-permalink="https://bloody-disgusting.com/movie/3683180/beyond-fest-returns-theaters-screenings-titane-halloween-kills-black-phone-lamb/attachment/titane-neon/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?fit=1200%2C674&amp;ssl=1" data-orig-size="1200,674" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Titane &#8211; NEON" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?fit=300%2C169&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/Titane-NEON.png?fit=740%2C416&amp;ssl=1" />											</div><!--mvp-feat1-list-img-->
+											<div class="mvp-feat1-list-in">
+												<div class="mvp-feat1-list-text">
+													<div class="mvp-cat-date-wrap left relative">
+														<span class="mvp-cd-cat left relative">Movies</span><span class="mvp-cd-date left relative">7 days ago</span>
+													</div><!--mvp-cat-date-wrap-->
+													<h2>12 New Horror Movies and Shows Releasing in the First Weekend of October!</h2>
+												</div><!--mvp-feat1-list-text-->
+											</div><!--mvp-feat1-list-in-->
+										</div><!--mvp-feat1-list-out-->
+																	</div><!--mvp-feat1-list-cont-->
+								</a>
+															<a href="https://bloody-disgusting.com/movie/3685650/18-new-horror-movies-shows-releasing-week-including-v-h-s-94/" rel="bookmark">
+								<div class="mvp-feat1-list-cont left relative">
+																			<div class="mvp-feat1-list-out relative">
+											<div class="mvp-feat1-list-img left relative">
+												<img width="80" height="80" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?resize=80%2C80&amp;ssl=1" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?resize=80%2C80&amp;ssl=1 80w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3684699" data-permalink="https://bloody-disgusting.com/vhs_thesubject4-rt/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?fit=1200%2C722&amp;ssl=1" data-orig-size="1200,722" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="VHS_TheSubject4-RT" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?fit=300%2C181&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/VHS_TheSubject4-RT.png?fit=740%2C445&amp;ssl=1" />											</div><!--mvp-feat1-list-img-->
+											<div class="mvp-feat1-list-in">
+												<div class="mvp-feat1-list-text">
+													<div class="mvp-cat-date-wrap left relative">
+														<span class="mvp-cd-cat left relative">Movies</span><span class="mvp-cd-date left relative">4 days ago</span>
+													</div><!--mvp-cat-date-wrap-->
+													<h2>18 New Horror Movies and Shows Releasing This Week, Including &#8216;V/H/S/94&#8217;!</h2>
+												</div><!--mvp-feat1-list-text-->
+											</div><!--mvp-feat1-list-in-->
+										</div><!--mvp-feat1-list-out-->
+																	</div><!--mvp-feat1-list-cont-->
+								</a>
+															<a href="https://bloody-disgusting.com/editorials/3684238/rob-zombies-halloween-ii-paved-way-new-kind-horror/" rel="bookmark">
+								<div class="mvp-feat1-list-cont left relative">
+																			<div class="mvp-feat1-list-out relative">
+											<div class="mvp-feat1-list-img left relative">
+												<img width="80" height="80" src="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=80%2C80&amp;ssl=1" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" alt="" loading="lazy" srcset="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?resize=80%2C80&amp;ssl=1 80w, https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3684239" data-permalink="https://bloody-disgusting.com/editorials/3684238/rob-zombies-halloween-ii-paved-way-new-kind-horror/attachment/rob-zombie-halloween-ii-2/" data-orig-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=1000%2C600&amp;ssl=1" data-orig-size="1000,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Halloween II" data-image-description="" data-medium-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=300%2C180&amp;ssl=1" data-large-file="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2021/09/rob-zombie-halloween-II.jpg?fit=740%2C444&amp;ssl=1" />											</div><!--mvp-feat1-list-img-->
+											<div class="mvp-feat1-list-in">
+												<div class="mvp-feat1-list-text">
+													<div class="mvp-cat-date-wrap left relative">
+														<span class="mvp-cd-cat left relative">Editorials</span><span class="mvp-cd-date left relative">3 days ago</span>
+													</div><!--mvp-cat-date-wrap-->
+													<h2>How Rob Zombie&#8217;s &#8216;Halloween II&#8217; Paved the Way for a New Kind of Horror</h2>
+												</div><!--mvp-feat1-list-text-->
+											</div><!--mvp-feat1-list-in-->
+										</div><!--mvp-feat1-list-out-->
+																	</div><!--mvp-feat1-list-cont-->
+								</a>
+															<a href="https://bloody-disgusting.com/the-further/3685391/halloween-horror-collection-vans-now-available-including-freddy-krueger-shoes/" rel="bookmark">
+								<div class="mvp-feat1-list-cont left relative">
+																			<div class="mvp-feat1-list-out relative">
+											<div class="mvp-feat1-list-img left relative">
+												<img width="80" height="80" src="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?resize=80%2C80&amp;ssl=1" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?resize=80%2C80&amp;ssl=1 80w, https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?zoom=3&amp;resize=80%2C80&amp;ssl=1 240w" sizes="(max-width: 80px) 100vw, 80px" data-attachment-id="3685392" data-permalink="https://bloody-disgusting.com/the-further/3685391/halloween-horror-collection-vans-now-available-including-freddy-krueger-shoes/attachment/freddy-krueger-vans/" data-orig-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?fit=981%2C674&amp;ssl=1" data-orig-size="981,674" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="freddy krueger vans" data-image-description="" data-medium-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?fit=300%2C206&amp;ssl=1" data-large-file="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/freddy-krueger-vans.png?fit=740%2C508&amp;ssl=1" />											</div><!--mvp-feat1-list-img-->
+											<div class="mvp-feat1-list-in">
+												<div class="mvp-feat1-list-text">
+													<div class="mvp-cat-date-wrap left relative">
+														<span class="mvp-cd-cat left relative">The Further</span><span class="mvp-cd-date left relative">7 days ago</span>
+													</div><!--mvp-cat-date-wrap-->
+													<h2>The Halloween Horror Collection from Vans is Now Available Including Freddy Krueger Shoes and More</h2>
+												</div><!--mvp-feat1-list-text-->
+											</div><!--mvp-feat1-list-in-->
+										</div><!--mvp-feat1-list-out-->
+																	</div><!--mvp-feat1-list-cont-->
+								</a>
+																		</div><!--mvp-tab-col1-->
+														</div><!--mvp-feat1-list-wrap-->
+			</div><!--mvp-widget-tab-wrap-->
+
+		</section>			</div><!--mvp-side-wrap-->											</div><!--mvp-post-main-out-->
+				</div><!--mvp-post-main-->
+						</div><!--mvp-main-box-->
+		</div><!--mvp-article-cont-->
+		</article><!--mvp-article-wrap-->
+			</div><!--mvp-main-body-wrap-->
+			<footer id="mvp-foot-wrap" class="left relative">
+				<div id="mvp-foot-top" class="left relative">
+					<div class="mvp-main-box">
+						<div id="mvp-foot-logo" class="left relative">
+															<a href="https://bloody-disgusting.com/"><img src="https://bloody-disgusting.com/wp-content/uploads/2018/11/BD_Footer-Lopo.png" alt="Bloody Disgusting!" data-rjs="2" /></a>
+													</div><!--mvp-foot-logo-->
+						<div id="mvp-foot-soc" class="left relative">
+							<ul class="mvp-foot-soc-list left relative">
+																	<li><a href="https://facebook.com/bloodydisgusting" target="_blank" class="fa fa-facebook fa-2"></a></li>
+																									<li><a href="https://twitter.com/bdisgusting" target="_blank" class="fa fa-twitter fa-2"></a></li>
+																																	<li><a href="https://instagram.com/bdisgusting" target="_blank" class="fa fa-instagram fa-2"></a></li>
+																																	<li><a href="https://www.youtube.com/user/bloodydisgustingtv" target="_blank" class="fa fa-youtube-play fa-2"></a></li>
+																															</ul>
+						</div><!--mvp-foot-soc-->
+						<div id="mvp-foot-menu-wrap" class="left relative">
+							<div id="mvp-foot-menu" class="left relative">
+								<div class="menu-network-container"><ul id="menu-network" class="menu"><li id="menu-item-3664250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3664250"><a href="https://media.bloody-disgusting.com">About</a></li>
+<li id="menu-item-3663863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3663863"><a href="https://media.bloody-disgusting.com/">Advertise</a></li>
+<li id="menu-item-3451353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3451353"><a href="https://bloody-disgusting.com/contact-us/">Contact</a></li>
+<li id="menu-item-3451350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3451350"><a href="https://bloody-disgusting.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-3451351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3451351"><a href="https://bloody-disgusting.com/terms/">Terms Of Use</a></li>
+</ul></div>							</div><!--mvp-foot-menu-->
+						</div><!--mvp-foot-menu-wrap-->
+					</div><!--mvp-main-box-->
+				</div><!--mvp-foot-top-->
+				<div id="mvp-foot-bot" class="left relative">
+					<div class="mvp-main-box">
+						<div id="mvp-foot-copy" class="left relative">
+							<p>Copyright © 2021 Bloody Disgusting, LLC</p>
+						</div><!--mvp-foot-copy-->
+					</div><!--mvp-main-box-->
+				</div><!--mvp-foot-bot-->
+			</footer>
+		</div><!--mvp-site-main-->
+	</div><!--mvp-site-wall-->
+</div><!--mvp-site-->
+<div class="mvp-fly-top back-to-top">
+	<i class="fa fa-angle-up fa-3"></i>
+</div><!--mvp-fly-top-->
+<div class="mvp-fly-fade mvp-fly-but-click">
+</div><!--mvp-fly-fade-->
+		<div data-theiaStickySidebar-sidebarSelector='"#mvp-side-wrap, #mvp-post-soc-wrap"'
+		     data-theiaStickySidebar-options='{"containerSelector":"","additionalMarginTop":124,"additionalMarginBottom":0,"updateSidebarHeight":false,"minWidth":0,"sidebarBehavior":"modern","disableOnResponsiveLayouts":true}'></div>
+		<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.4.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.6/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://bloody-disgusting.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/bloody-disgusting.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"bloodydisgusting"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.22' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.22"},"disqusIdentifier":"3626185 https:\/\/bloody-disgusting.com\/?p=3626185","disqusShortname":"bloodydisgusting","disqusTitle":"\u2018Resident Evil 3\u2019 Remake Sells 2.7 Million in First Three Months, But Lags Behind \u2018Resident Evil 2\u2019 Sales","disqusUrl":"https:\/\/bloody-disgusting.com\/video-games\/3626185\/resident-evil-3-remake-sells-2-7-million-first-three-months-lags-behind-resident-evil-2-sales\/","postId":"3626185"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.22' id='disqus_embed-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/theia-sticky-sidebar/js/ResizeSensor.js?ver=1.7.0' id='theia-sticky-sidebar/ResizeSensor.js-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.7.0' id='theia-sticky-sidebar/theia-sticky-sidebar.js-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/theia-sticky-sidebar/js/main.js?ver=1.7.0' id='theia-sticky-sidebar/main.js-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/themes/zox-news/js/mvpcustom.js?ver=5.5.6' id='mvp-custom-js'></script>
+<script type='text/javascript' id='mvp-custom-js-after'>
+	jQuery(document).ready(function($) {
+	$(window).load(function(){
+	var leaderHeight = $("#mvp-leader-wrap").outerHeight();
+	var logoHeight = $("#mvp-main-nav-top").outerHeight();
+	var botHeight = $("#mvp-main-nav-bot").outerHeight();
+	var navHeight = $("#mvp-main-head-wrap").outerHeight();
+	var headerHeight = navHeight + leaderHeight;
+	var aboveNav = leaderHeight + logoHeight;
+	var totalHeight = logoHeight + botHeight;
+	var previousScroll = 0;
+	$(window).scroll(function(event){
+			var scroll = $(this).scrollTop();
+			if ($(window).scrollTop() > aboveNav){
+				$("#mvp-main-nav-top").addClass("mvp-nav-small");
+				$("#mvp-main-nav-bot").css("margin-top", logoHeight );
+			} else {
+				$("#mvp-main-nav-top").removeClass("mvp-nav-small");
+				$("#mvp-main-nav-bot").css("margin-top","0");
+			}
+			if ($(window).scrollTop() > headerHeight){
+				$("#mvp-main-nav-top").addClass("mvp-fixed");
+				$("#mvp-main-nav-bot").addClass("mvp-fixed1");
+				$("#mvp-main-body-wrap").css("margin-top", totalHeight );
+				$("#mvp-main-nav-top").addClass("mvp-fixed-shadow");
+				$(".mvp-nav-top-mid").addClass("mvp-fixed-post");
+				$(".mvp-drop-nav-title").show();
+				$(".mvp-fly-top").addClass("mvp-to-top");
+	    		if(scroll < previousScroll) {
+					$("#mvp-main-nav-bot").addClass("mvp-fixed2");
+					$("#mvp-main-nav-top").removeClass("mvp-fixed-shadow");
+					$("#mvp-main-nav-top").removeClass("mvp-soc-mob-up");
+					$("#mvp-soc-mob-wrap").removeClass("mvp-soc-mob-up");
+				} else {
+					$("#mvp-main-nav-bot").removeClass("mvp-fixed2");
+					$("#mvp-main-nav-top").addClass("mvp-fixed-shadow");
+					$("#mvp-main-nav-top").addClass("mvp-soc-mob-up");
+					$("#mvp-soc-mob-wrap").addClass("mvp-soc-mob-up");
+				}
+			} else {
+				$("#mvp-main-nav-top").removeClass("mvp-fixed");
+				$("#mvp-main-nav-bot").removeClass("mvp-fixed1");
+				$("#mvp-main-nav-bot").removeClass("mvp-fixed2");
+				$("#mvp-main-body-wrap").css("margin-top","0");
+				$("#mvp-main-nav-top").removeClass("mvp-fixed-shadow");
+				$(".mvp-nav-top-mid").removeClass("mvp-fixed-post");
+				$(".mvp-drop-nav-title").hide();
+	    		$(".mvp-fly-top").removeClass("mvp-to-top");
+			}
+			previousScroll = scroll;
+	});
+	});
+	});
+	
+
+	jQuery(document).ready(function($) {
+	// Video Post Scroll
+	$(window).on("scroll.video", function(event){
+		var scrollTop     = $(window).scrollTop();
+    	var elementOffset = $("#mvp-content-wrap").offset().top;
+    	var distance      = (elementOffset - scrollTop);
+		var aboveHeight = $("#mvp-video-embed-wrap").outerHeight();
+		if ($(window).scrollTop() > distance + aboveHeight + screen.height){
+			$("#mvp-video-embed-cont").addClass("mvp-vid-fixed");
+			$("#mvp-video-embed-wrap").addClass("mvp-vid-height");
+			$(".mvp-video-close").show();
+		} else {
+			$("#mvp-video-embed-cont").removeClass("mvp-vid-fixed");
+			$("#mvp-video-embed-wrap").removeClass("mvp-vid-height");
+			$(".mvp-video-close").hide();
+		}
+	});
+
+ 	$(".mvp-video-close").on("click", function(){
+		$("iframe").attr("src", $("iframe").attr("src"));
+		$("#mvp-video-embed-cont").removeClass("mvp-vid-fixed");
+		$("#mvp-video-embed-wrap").removeClass("mvp-vid-height");
+		$(".mvp-video-close").hide();
+		$(window).off("scroll.video");
+  	});
+
+	});
+  	
+
+	jQuery(document).ready(function($) {
+	$(".menu-item-has-children a").click(function(event){
+	  event.stopPropagation();
+	  
+  	});
+
+	$(".menu-item-has-children").click(function(){
+    	  $(this).addClass("toggled");
+    	  if($(".menu-item-has-children").hasClass("toggled"))
+    	  {
+    	  $(this).children("ul").toggle();
+	  $(".mvp-fly-nav-menu").getNiceScroll().resize();
+	  }
+	  $(this).toggleClass("tog-minus");
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $(".mvp-fly-nav-menu").niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+	});
+	
+
+	jQuery(document).ready(function($) {
+	$(".infinite-content").infinitescroll({
+	  navSelector: ".mvp-nav-links",
+	  nextSelector: ".mvp-nav-links a:first",
+	  itemSelector: ".infinite-post",
+	  errorCallback: function(){ $(".mvp-inf-more-but").css("display", "none") }
+	});
+	$(window).unbind(".infscr");
+	$(".mvp-inf-more-but").click(function(){
+   		$(".infinite-content").infinitescroll("retrieve");
+        	return false;
+	});
+	$(window).load(function(){
+		if ($(".mvp-nav-links a").length) {
+			$(".mvp-inf-more-but").css("display","inline-block");
+		} else {
+			$(".mvp-inf-more-but").css("display","none");
+		}
+	});
+	});
+	
+</script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/themes/zox-news/js/scripts.js?ver=5.5.6' id='zoxnews-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/themes/zox-news/js/retina.js?ver=5.5.6' id='retina-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/themes/zox-news/js/flexslider.js?ver=5.5.6' id='flexslider-js'></script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/themes/zox-news/js/jquery.infinitescroll.min.js?ver=5.5.6' id='infinitescroll-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.6/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lf8mpwUAAAAAL-zKLSak2Kae91nlfkOqbgN2Yiq&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lf8mpwUAAAAAL-zKLSak2Kae91nlfkOqbgN2Yiq","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bloody-disgusting.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.6/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script src='https://stats.wp.com/e-202140.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4.2',blog:'38024669',post:'3626185',tz:'-5',srv:'bloody-disgusting.com'} ]);
+	_stq.push([ 'clickTrackerInit', '38024669', '3626185' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using memcached (SSL caching disabled) 
+Content Delivery Network via cdn.bloody-disgusting.com
+Database Caching 42/211 queries in 0.096 seconds using redis
+
+Served from: bloody-disgusting.com @ 2021-10-08 03:55:09 by W3 Total Cache
+-->

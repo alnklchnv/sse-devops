@@ -1,0 +1,1081 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META name="keywords" content="4G/3G/WiFi, 5G, Africa, Cable Tech, Companies, Europe, FTTX, Geography, Optical/IP, Services, Topics">
+<META name="description" content="Also in today's EMEA regional roundup: Telkom/Airtel merger in Kenya is off; Sparkle's shiny new CEO; Call of Duty update puts strain on UK networks.">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="image_src" href="https://img.lightreading.com/lightreading/LR_fb_button.jpg" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PVDXQ5');</script>
+<!-- End Google Tag Manager -->
+
+<title>Eurobites: UK is (almost) totally wired, finds ONS Internet study | Light Reading</title>
+
+<link rel="shortcut icon" href="https://img.lightreading.com/lightreading/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="https://img.lightreading.com/lightreading/favicon.ico" type="image/vnd.microsoft.icon">
+
+<link rel="meta" type="application/rdf+xml" title="RDF Metadata" href="/rdf_simple.asp?the_docid=763036&the_url=https%3A%2F%2Fwww%2Elightreading%2Ecom%2Fservices%2Feurobites%2Duk%2Dis%2D%28almost%29%2Dtotally%2Dwired%2Dfinds%2Dons%2Dinternet%2Dstudy%2Fd%2Fd%2Did%2F763036" />
+<link rel="canonical" href="https://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036"/><meta property="og:title" content="Eurobites: UK is (almost) totally wired, finds ONS Internet study | Light Reading"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://img.lightreading.com/2020/08/763036/1921.jpg"/>
+<meta property="og:url" content="https://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036"/>
+<meta property="og:site_name" content="Light Reading"/>
+<meta property="og:description" content="Also in today's EMEA regional roundup: Telkom/Airtel merger in Kenya is off; Sparkle's shiny new CEO; Call of Duty update puts strain on UK networks."/>
+<meta property="fb:app_id" content="595831373837690"/>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Light_Reading">
+<meta name="twitter:title" content="Eurobites: UK is (almost) totally wired, finds ONS Internet study | Light Reading">
+<meta name="twitter:description" content="Also in today's EMEA regional roundup: Telkom/Airtel merger in Kenya is off; Sparkle's shiny new CEO; Call of Duty update puts strain on UK networks.">
+<meta name="twitter:image" content="https://img.lightreading.com/2020/08/763036/1921.jpg">
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto+Slab&display=swap" rel="stylesheet">
+<!--<link type="text/css" rel="stylesheet" href="https://img.lightreading.com/styles/lightreading-r1.css?v=1"/>-->
+<link type="text/css" rel="stylesheet" href="/styles/style.css?v=24"/>
+<link type="text/css" rel="stylesheet" href="https://img.lightreading.com/lightreading/css/informa-brand.css?v=1"/>
+<link rel="stylesheet" href="https://use.typekit.net/mhd1czk.css">
+<link rel="stylesheet" href="https://img.lightreading.com/fonts/fontawesome/css/all.min.css"/>
+<link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css"/>
+
+
+<script language="JavaScript" src="https://img.lightreading.com/commonscript/complete.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://parsleyjs.org/dist/parsley.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script language="JavaScript" src="/script/lightreading.js"></script>
+<script language="JavaScript">
+theSiteDomain = 'www.lightreading.com';
+thePageTitle = 'Eurobites: UK is (almost) totally wired, finds ONS Internet study | Light Reading';
+</script>
+
+<script type='text/javascript'>
+     (function () {
+        /** CONFIGURATION START **/
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+        _sf_async_config.uid = 53678;
+        _sf_async_config.domain = 'www.lightreading.com';   //CHANGE THIS TO SITE DOMAIN
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.sections = 'services';  //CHANGE THIS TO YOUR SECTION NAME(s)
+        _sf_async_config.authors = '';    //CHANGE THIS TO YOUR AUTHOR NAME(s)
+        /** CONFIGURATION END **/
+       function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+     })();
+</script>
+
+
+<!--<script language="JavaScript" src="https://www.lightreading.com/script/news_ticker.js"></script>
+<script language="Javascript">
+$(document).ready(function() {
+'theNewsTicker();
+});
+</script>-->
+
+<script language = "Javascript"> 
+function SubmitInPageSurvey(inSurvey, inWidth) { 
+	var theForm = GetObject('survey_' + inSurvey); 
+	var theFormSubmitURL = '//www.lightreading.com/survey_jspage.asp?survey_submit=yes&survey_width='+ inWidth +'&cbust=30673&survey_async=yes&survey_async_ip=10%2E0%2E5%2E25&'; 
+	for (var felt = 0; felt <  theForm.elements.length; felt++) {
+		var thisElt = theForm.elements[felt]; 
+		if (thisElt.type == 'checkbox' || thisElt.type == 'radio') { 
+			if (thisElt.checked) { 
+				theFormSubmitURL = theFormSubmitURL + thisElt.name + '=' + URLEncodeString(thisElt.value) + '&'; 
+			} 
+		} 
+		else { 
+			theFormSubmitURL = theFormSubmitURL + thisElt.name + '=' + URLEncodeString(thisElt.value) + '&'; 
+		} 
+	} 
+	//alert(theFormSubmitURL); 
+	LoadScript(theFormSubmitURL); 
+	return false; 
+} 
+</script>
+
+
+<script type="text/javascript">
+var _doubleclickRand = 2148629398149911;
+</script>
+
+
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//securepubads.g.doubleclick.net/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type="text/javascript">
+   var networkCode = 52681147;
+   var topLevelAdUnit = "lightreading";
+   var s1 = "services";
+   var s2 = "";
+   if ( s2 == "" ) {
+   var adUnit = topLevelAdUnit + "/" + s1;
+   } else {
+   var adUnit = topLevelAdUnit + "/" + s1 + "/" + s2;
+   }
+   var slotName = "/" + networkCode + "/" + adUnit;
+   var url_path = s1;
+   var page = "";
+   var kw = "";
+   var cid = "";
+   var test = "";
+   var directCall = slotName;
+   var topExtraAd = "&sz=240x90&t=pos%3Dtopxtra";
+   var topExtraAdCalled = false;
+
+ googletag.cmd.push(function() {
+  
+googletag.defineSlot(slotName,[1,1], "div-id-for-welcome-ad")
+   .addService(googletag.pubads())
+   .setTargeting("pos", "welcome");
+
+  
+
+	var mapping = googletag.sizeMapping().
+	  addSize([990, 0], [[970,90],[728,90]]).
+	  addSize([745, 0], [728, 90]).
+	  addSize([0, 0], [320, 100]).
+	  build();
+
+	  googletag.defineSlot(slotName, [[970,90],[728,90],[320,100]], "div-id-for-top-leaderboard-ad")
+	   .defineSizeMapping(mapping)
+	   .addService(googletag.pubads())
+	   .setTargeting("pos", "top");
+
+   //googletag.defineOutOfPageSlot(slotName, "div-id-for-wallpaper-ad")
+   //.addService(googletag.pubads())
+   //.setTargeting("pos", "wallpaper");
+
+  googletag.defineSlot(slotName, [1,2], "div-id-for-wallpaper-ad")
+   .addService(googletag.pubads())
+   .setTargeting("pos", "wallpaper");
+
+  googletag.defineSlot(slotName, [[300,250], [336, 280]], "div-id-for-rec1-300x250-ad")
+   .addService(googletag.pubads())
+   .setTargeting("pos", "rec1");
+
+  googletag.defineSlot(slotName, [[300,250], [336, 280]], "div-id-for-rec2-300x250-ad")
+   .addService(googletag.pubads())
+   .setTargeting("pos", "rec2");
+
+  //googletag.defineSlot(slotName, [160,600], "div-id-for-skyscraper-ad")
+  // .addService(googletag.pubads())
+  // .setTargeting("pos", "skyscraper");
+
+	if ( page == "landing") {
+	  googletag.defineSlot(slotName, [212,212], "div-id-for-mid-1-ad")
+	   .addService(googletag.pubads())
+	   .setTargeting("pos", "mid_column_1");
+
+	  googletag.defineSlot(slotName, [212,212], "div-id-for-mid-2-ad")
+	   .addService(googletag.pubads())
+	   .setTargeting("pos", "mid_column_2");
+
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			if (event.slot.getTargeting('pos')=='mid_column_1' && !event.isEmpty) {
+				$('#div-container-for-mid-1-ad').addClass('adspacer');
+				$('#div-container-for-mid-1-ad').removeClass('nospacer');
+				}
+
+			if (event.slot.getTargeting('pos')=='mid_column_2' && !event.isEmpty) {
+				$('#div-container-for-mid-2-ad').addClass('adspacer');
+				$('#div-container-for-mid-2-ad').removeClass('nospacer');
+				}
+
+			});
+	}
+
+	
+
+    googletag.pubads().setTargeting("s1",s1);
+   if ( s2 != "" ) {
+   	googletag.pubads().setTargeting("s2",s2);
+   }
+    googletag.pubads().setTargeting("url_path",url_path);
+    googletag.pubads().setTargeting("page",page);
+   if ( kw != "" ) {
+   	googletag.pubads().setTargeting("kw",kw);
+   	topExtraAd += "%26kw%3D" + kw;
+   }
+   if ( cid != "" ) {
+	googletag.pubads().setTargeting("cid",cid);
+   }
+   if ( test != "" ) {
+		googletag.pubads().setTargeting("test",test);
+   }
+
+	googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+		if (!topExtraAdCalled) {
+			if (event.slot.getTargeting('pos')=='top' && event.isEmpty === false) {
+				if (event.size[0]==728) {
+					$('#div-id-for-top-leaderboard-ad').css('float','left');
+					$('#leaderboardcontainer').append('<div class="second-banner"><a href="https://pubads.g.doubleclick.net/gampad/jump?iu='+directCall+topExtraAd+'"><img src="https://pubads.g.doubleclick.net/gampad/ad?iu='+directCall+topExtraAd+'"></a></div>');
+					}
+					topExtraAdCalled = true;
+				}
+			}
+		});
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+   });
+</script>
+
+
+<script charset="UTF-8" src="https://cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/9b2ae012ab21f4a0d18a6f25b2be4d69_1.js" async></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="sitedefault" border="0"  >
+<!-- Beginning Sync AdSlot  -->
+<div id="div-id-for-welcome-ad">
+ <script type='text/javascript'>
+ googletag.cmd.push(function() {
+  googletag.display('div-id-for-welcome-ad');
+ });
+ </script>
+</div>
+<!-- End AdSlot -->
+
+
+<!-- Beginning Sync AdSlot  -->
+<div id="div-id-for-wallpaper-ad">
+ <script type='text/javascript'>
+ googletag.cmd.push(function() {
+  googletag.display('div-id-for-wallpaper-ad');
+ });
+ </script>
+</div>
+<!-- End AdSlot -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVDXQ5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--Begin Mega Menu Component-->
+<div class="mega-menu">
+   <div class="top-bar">
+      <div class="left-links">
+         <div class="mega-menu-close-icon"><i class="fas fa-times fa-2x"></i></div>
+      </div>
+      <div class="logo"><img src="https://img.lightreading.com/lightreading/lr-red_white_logo.png" alt="Light Reading Logo" class="logoimg"></div>
+      <div class="right-links"><a href="/login.asp?piddl_nexturl=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fservices%2Feurobites%2Duk%2Dis%2D%28almost%29%2Dtotally%2Dwired%2Dfinds%2Dons%2Dinternet%2Dstudy%2Fd%2Fd%2Did%2F763036%3F%5Fmc%3DRSS%255FLR%255FEDT" class="link">Sign In</a> <a href='/register.asp' class='link'>Register</a> <a href="#" class="link search-open-icon link-icon"><i class="fas fa-search"></i></a></div>
+   </div>
+   <div class="main-menu-container">
+      <div class="menu-column column-1">
+         <div class="menu-group"><a href="/5g.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> 5G</span></a></div>
+         <div class="menu-group"><a href="/6g.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> 6G</span></a></div>
+         <div class="menu-group"><a href="/the-core.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> The Core</span></a></div>
+         <div class="menu-group"><a href="/the-edge.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> The Edge</span></a></div>
+         <div class="menu-group"><a href="/open-ran.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Open RAN</span></a></div>
+         <div class="menu-group"><a href="/private-networks.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Private Networks</span></a></div>
+         <div class="menu-group"><a href="/service-provider-cloud.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> The Cloud</span></a></div>
+         <div class="menu-group"><a href="/security.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Security</span></a></div>
+         <div class="menu-group"><a href="/ai-automation
+.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> AI/Automation</span></a></div>
+         <div class="menu-group">
+            <a href="/cable-video.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Cable Tech</span></a>
+            <div class="dropdown-group"><a href="/docsis.asp"><span class="menu-item">DOCSIS</span></a>
+            <a href="/ccap.asp"><span class="menu-item">CCAP</span></a>
+            <a href="/cable-business-services.asp"><span class="menu-item">Cable Business Services</span></a>
+            <a href="/10g.asp"><span class="menu-item">10G</span></a>
+            <a href="/the-bauminator.asp"><span class="menu-item">The Bauminator</span></a></div>
+         </div>
+         <div class="menu-group"><a href="/iot.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> IoT</span></a></div>
+         <div class="menu-group"><a href="/oss-bss.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> OSS/BSS/CX</span></a></div>
+         <div class="menu-group"><a href="/sd-wan.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> SD-WAN</span></a></div>
+         <div class="menu-group">
+            <a href="/optical.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Optical/IP</span></a>
+            <div class="dropdown-group">
+            	<a href="/fttx.asp"><span class="menu-item">FTTX</span></a>
+            	<a href="/dci.asp"><span class="menu-item">DCI</span></a>
+            	<a href="/routing.asp"><span class="menu-item">Routing</span></a>
+            	<a href="/xhaul.asp"><span class="menu-item">Any Haul/X-Haul</span></a></div>
+         </div>
+         <div class="menu-group"><a href="/test-measurement.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Test & Measurement</span></a></div>
+         <div class="menu-group"><a href="/services.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Services</span></a></div>
+         <div class="menu-group"><a href="/4g-3g-wifi
+.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> 4G/3G/WiFi</span></a></div>
+         <div class="menu-group"><a href="/satellite.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Satellite</span></a></div>
+         <div class="menu-group"><a href="/video-media.asp"><span class="menu-title"><i class="fas fa-chevron-right"></i> Video/Media</span></a></div>
+
+         <div class="menu-group">
+            <a href="#"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Regions</span></a>
+            <div class="dropdown-group">
+            	<a href="/asia.asp"><span class="menu-item">Asia</span></a>
+            	<a href="http://www.connectingafrica.com" target="_blank"><span class="menu-item">Africa</span></a>
+            	<a href="/europe.asp"><span class="menu-item">Europe</span></a>
+            	<a href="/india.asp"><span class="menu-item">India</span></a>
+            	<a href="/middle-east-africa.asp"><span class="menu-item">Middle East</span></a>
+            </div>
+         </div>
+
+         <div class="menu-group">
+            <a href="#"><span class="menu-title"><i class="fas fa-chevron-right"></i> Industry Show News</span></a>
+            <div class="dropdown-group">
+            	<a href="/mobile-world-congress.asp"><span class="menu-item">Mobile World Congress</span></a>
+				<a href="/big5gevent.asp"><span class="menu-item">Big 5G Event</span></a>
+            </div>
+         </div>
+
+		</div>
+      <div class="menu-column column-5">
+         <div class="menu-group">
+            <a href="/events.asp"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i> Events</span></a>
+<div class="dropdown-group">
+<a href="https://tmt.knect365.com/transforming-the-cable-hfc-network/" target="new"><span class="menu-item">Transforming the Cable HFC Network Breakfast Event at SCTE Cable-Tec Expo</span></a><a href="https://tmt.knect365.com/5g-cables-friend-or-foe/" target="new"><span class="menu-item">Cable: 5G's Friend or Foe? Breakfast Event at SCTE Cable-Tec Expo</span></a><a href="https://event.on24.com/wcc/r/3349000/EB1E99C92A52779174E58364150F4167/2776876?partnerref=LReventlisting" target="new"><span class="menu-item">5G Next Wave and Service Evolution</span></a><a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2840988?partnerref=LReventpage" target="new"><span class="menu-item">5G Transport & Networking Strategies</span></a><a href="https://event.on24.com/wcc/r/3319369/D0101FAB96879F894095A9937A8EB8BA/2713754?partnerref=LReventspage" target="new"><span class="menu-item">The Programmable Telco Digital Symposium</span></a>
+		</div>
+	
+	</div>
+	        <div class="menu-group">
+            <a href="/events.asp"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i> Events Archives</span></a>
+				<div class="dropdown-group">
+					<a href="/digital-archive.asp"><span class="menu-item">Digital Event Archives</span></a>
+			<a href="https://event.on24.com/wcc/r/3299634/5196363096DE572B11520E89D9C93462/2670458" target="new"><span class="menu-item">Edge Computing Digital Symposium</span></a>			<a href="https://event.on24.com/wcc/r/3299440/0DBD07EBD87C741DC3A0B3663B0C948C/2669986" target="new"><span class="menu-item">Optical Networking Digital Symposium</span></a>			<a href="https://event.on24.com/wcc/r/3095951/E7B42E3D1C1FA7AF543C748623F6E641/2246221" target="new"><span class="menu-item">Cable Next-Gen Europe Digital Symposium</span></a>
+		</div>
+	</div>
+         <div class="menu-group">
+            <a href="#"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Webinars</span></a>
+            <div class="dropdown-group">
+            	<a href="/webinars.asp"><span class="menu-item">Upcoming Webinars</span></a>
+				<a href="/webinar_archives.asp"><span class="menu-item">Archived Webinars</span></a>
+				<a href="/webinar_archives.asp?tag_id=433"><span class="menu-item">5G Webinars</span></a>
+				<a href="/webinars.asp?tag_id=1106"><span class="menu-item">Live Learning Webinars</span></a>
+            </div>
+         </div>
+         <div class="menu-group">
+            <a href="/archives.asp?section_id=3"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i> White Papers</span></a>
+         </div>
+         <div class="menu-group">
+            <a href="#"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Tech Centers</span></a>
+            <div class="dropdown-group">
+            	<a href="/fv-tech.asp"><span class="menu-item">Future Vision Tech Center</span></a>
+            </div>
+         </div>
+         <div class="menu-group">
+            <a href="/mlp.asp"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Market Leader Programs</span></a>
+            <div class="dropdown-group">
+            	<a href="/mlp.asp?tag_id=1266"><span class="menu-item">Internet for the Future</span></a>
+            </div>
+         </div>
+         <div class="menu-group">
+            <a href="#"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Communities</span></a>
+            <div class="dropdown-group">
+            	<a href="https://www.the5gexchange.com" target="_blank"><span class="menu-item">The 5G Exchange</span></a>
+            	<a href="/asia.asp"><span class="menu-item">LR Asia</span></a>
+            	<a href="http://www.broadbandworldnews.com" target="_blank"><span class="menu-item">Broadband World News</span></a>
+            	<a href="http://www.connectingafrica.com" target="_blank"><span class="menu-item">Connecting Africa</span></a>
+            	<a href="https://www.telecoms.com" target="_blank"><span class="menu-item">Telecoms.com</span></a>
+            	<a href="/women-in-comms.asp"><span class="menu-item">Women In Comms</span></a>
+            </div>
+         </div>
+         <div class="menu-group">
+            <a href="/videos.asp"><span class="menu-title redtitle"><i class="fas fa-chevron-right"></i>Light Reading Video</span></a>
+            <div class="dropdown-group">
+            <a href="/telecom-innovators-video-showcase.asp"><span class="menu-item">Telecom Innovators Showcase</span></a>
+            <!--<a href="/huawei-resource-center.asp"><span class="menu-item">Huawei Resource Center</span></a>--></div>
+         </div>
+         <div class="menu-group"><a href="#"><span class="menu-title"><i class="fas fa-chevron-right"></i>Light Reading Audio</span></a>
+            <div class="dropdown-group">
+				<a href="/lr-podcast.asp"><span class="menu-item">Light Reading Podcast</span></a>
+				<a href="/archives.asp?section_id=785"><span class="menu-item">Executive Spotlight Q&A</span></a>
+            </div>
+		 </div>
+      </div>
+   </div>
+   <div class="lower-bar">
+      <div class="social-icons"><a href="https://twitter.com/Light_Reading" target="_blank" title="Twitter Link"><i class="fab fa-twitter"></i></a>
+      <a href="https://www.linkedin.com/company/37707?trk=tyah" title="LinkedIn Link"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://www.facebook.com/pages/Light-Reading/96273887524" title="Facebook Link"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://www.youtube.com/user/LightReadingTV" title="YouTube Link"><i class="fab fa-youtube"></i></a>
+      <a href="https://www.lightreading.com/rss_simple.asp" title="RSS Link"><i class="fas fa-rss"></i></a></div>
+      <div class="page-links"><a href="/archives.asp?newsandviews=yes">News & Views</a>  <a href="/events.asp">Events</a> <a href="https://tmt.knect365.com/leading-lights/#utm_source=LighReading&utm_medium=megamenu">Leading Lights Awards</a> <a href="/document.asp?doc_id=1">About Us</a> <a href="https://get.knect365.com/light-reading-media-kit/">Advertise With Us</a> <a href="/newsletter_signup.asp" target="_blank">Newsletter Signup</a></div>
+   </div>
+</div>
+<!-- End Mega Menu Component-->
+<div class="search-overlay">
+	<div class="search-container"><span class="search-close-btn" title="Close Overlay">x</span>
+		<div class="overlay-content">
+			<form action="/search.asp" method="Post"><input type="text" placeholder="Search.." name="q"> <button type="submit"><i class="fas fa-search"></i></button></form>
+		</div>
+	</div>
+</div>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=595831373837690";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- <section class="informa-brand">
+<div class="full-width">
+<div class="brand-row">
+<div class="columns small-12">
+<div class="brand-ribbon">
+<a href="#"></a>
+<div class="brand-text">
+<div class="row">
+<div class="columns small-12 medium-6">
+<p class="white-text site-name">Light Reading is part of the Informa Tech Division of Informa PLC</p>
+<ul class="no-bullet">
+<li><a href="http://informa.com/" target="_blank" title="Go to Informa website">Informa PLC</a></li>
+<li><a href="http://informa.com/about-us/" target="_blank" title="Learn more about Informa">About us</a></li>
+<li><a href="http://informa.com/investors/" target="_blank" title="Learn more about Informa's Investor relations">Investor relations</a></li>
+<li><a href="http://informa.com/talent/" target="_blank" title="Careers at Informa">Talent</a></li>
+</ul>
+</div>
+<div class="columns small-12 medium-6">
+<p class="white-text">This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 3099067.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+-->
+<section style="height: 28px">
+</section>
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var localizedscript = {"site_name":"Light Reading","template_name":"lightreading.com","stylesheet_url":"https:\/\/www.lightreading.com\/styles\/informa-brand.css"};
+	/* ]]> */
+	  if( localizedscript.site_name.length > 23 ) {
+		$(".informa-brand .site-name").css();
+	  }
+
+	  $(".brand-ribbon").on("click tap", function() {
+		  $(".brand-ribbon").toggleClass("show", 1000, "easeOut");
+	  });
+
+	  if(!$(".brand-ribbon").hasClass("show")) {
+
+		  $(window).scroll(function() {
+			  var scroll = $(window).scrollTop();
+
+			  if (scroll > 28) {
+				$(".brand-bar, .brand-padding").css();
+				$(".brand-ribbon").css();
+			  } else if (scroll < 28){
+				$(".brand-bar, .brand-padding").css();
+				$(".brand-ribbon").css();
+			  }
+		  });
+  }
+  window.onscroll = function() {
+  	scrollFunction();
+  }
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+      document.getElementById("top-bar").style.paddingTop = "5px";
+    } else {
+      document.getElementById("top-bar").style.paddingTop = "30px";
+    }
+	}
+</script>
+<!-- Begin Page Header Component-->
+<div class="page-header">
+   <div class="top-bar" id="top-bar">
+      <div class="mega-menu-open-icon"><i class="fas fa-bars fa-2x"></i></div>
+      <div class="brand-container">
+         <div class="logo"><a href="/"><img src="https://img.lightreading.com/lightreading/lr-red_white_logo.png" alt="Light Reading Logo"></a></div>
+         <!--<span class="strapline">Networking the Communications Industry</span>-->
+      </div>
+      <div class="right-links"><a href="/newsletter_signup.asp" target="_blank" class="link">Newsletter Signup</a> <a href="/login.asp?piddl_nexturl=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fservices%2Feurobites%2Duk%2Dis%2D%28almost%29%2Dtotally%2Dwired%2Dfinds%2Dons%2Dinternet%2Dstudy%2Fd%2Fd%2Did%2F763036%3F%5Fmc%3DRSS%255FLR%255FEDT" class="link">Sign In</a> <a href='/register.asp' class='link'>Register</a> <a href="#" class="link search-open-icon link-icon"><i class="fas fa-search"></i></a> <a href="/register.asp" class="signup-mobile-button">Sign Up Free</a></div>
+   </div>
+   <div class="navbar">
+      <nav>
+         <ul class="main-menu">
+            <li class="top-level-nav-item"><a href="/5g.asp">5G</a></li>
+            <li class="top-level-nav-item"><a href="/6g.asp">6G</a></li>
+            <li class="top-level-nav-item"><a href="/the-edge.asp">The Edge</a></li>
+            <li class="top-level-nav-item"><a href="/open-ran.asp">Open RAN</a></li>
+            <li class="top-level-nav-item"><a href="/service-provider-cloud.asp">The Cloud</a></li>
+            <li class="top-level-nav-item"><a href="/security.asp">Security</a></li>
+            <li class="top-level-nav-item"><a href="/ai-automation
+.asp">AI/Automation</a></li>
+            <li class="top-level-nav-item"><a href="/cable-video.asp">Cable Tech</a></li>
+            <li class="top-level-nav-item"><a href="/optical.asp">Optical/IP</a></li>
+            <li class="top-level-nav-item"><a href="/sd-wan.asp">SD-WAN</a></li>
+            <li class="top-level-nav-item"><a href="/oss-bss.asp">OSS/BSS/CX</a></li>
+            <li class="top-level-nav-item">
+               <a href="/events.asp">Events</a>
+               <div class="dropdown-menu-container">
+                  <ul class="dropdown-menu">
+                  <li class="sub-level-nav-item"><a href="/digital-archive.asp">Digital Event Archives</a>
+			   <li class="sub-level-nav-item"><a href="https://tmt.knect365.com/transforming-the-cable-hfc-network/" target="_blank">Transforming the Cable HFC Network Breakfast Event at SCTE Cable-Tec Expo</a><li class="sub-level-nav-item"><a href="https://tmt.knect365.com/5g-cables-friend-or-foe/" target="_blank">Cable: 5G's Friend or Foe? Breakfast Event at SCTE Cable-Tec Expo</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3349000/EB1E99C92A52779174E58364150F4167/2776876?partnerref=LReventlisting" target="_blank">5G Next Wave and Service Evolution</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2840988?partnerref=LReventpage" target="_blank">5G Transport & Networking Strategies</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3319369/D0101FAB96879F894095A9937A8EB8BA/2713754?partnerref=LReventspage" target="_blank">The Programmable Telco Digital Symposium</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3379768/26778C3D8FB32E9382CE70C4BF4DA2B3/2845962?partnerref=LReventpage" target="_blank">Asia Tech 2021 Digital Symposium</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2846962?partnerref=LReventpage" target="_blank">Open RAN Digital Symposium</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3382678/D6339E2B56E57F12915C4691CD4B38ED/2846407?partnerref=LReventpage" target="_blank">Service Provider Security Strategies for the Hybrid Era Digital Symposium</a><li class="sub-level-nav-item"><a href="https://event.on24.com/wcc/r/3348853/E6E9D5A66E63CF456363DC952A04E0F7/2776500?partnerref=LReventlisting" target="_blank">Cable Next-Gen Business Services Digital Symposium</a>
+					  </ul>
+				   </div>
+				
+            </li>
+            <li class="top-level-nav-item">
+               <a href="#">Resources</a>
+               <div class="dropdown-menu-container">
+                  <ul class="dropdown-menu">
+                     <li class="sub-level-nav-item"><a href="https://tmt.knect365.com/leading-lights/" target="_blank">Leading Lights</a></li>
+                     <li class="sub-level-nav-item"><a href="/videos.asp">Light Reading Video</a></li>
+                     <li class="sub-level-nav-item"><a href="/archives.asp?section_id=3">White Papers</a></li>
+                     <li class="sub-level-nav-item"><a href="/lr-podcast.asp">LR Podcasts</a></li>
+                     <li class="sub-level-nav-item"><a href="/webinars.asp">Upcoming Webinars</a></li>
+                     <li class="sub-level-nav-item"><a href="/webinar_archives.asp">Webinar Archives</a></li>
+                     <li class="sub-level-nav-item"><a href="/webinar_archives.asp?tag_id=433">5G Webinars</a></li>
+                     <li class="sub-level-nav-item"><a href="https://5g-testing-resource-center.lightreading.com/" target="_blank">5G Testing Resource Center</a></li>
+                     <li class="sub-level-nav-item"><a href="https://ix.informaengage.com/lr-juniper-5g-real-talk/p/1" target="_blank">5G Real Talk Video</a></li>
+                     <li class="sub-level-nav-item"><a href="/mlp.asp">Market Leader Programs</a></li>
+                     <li class="sub-level-nav-item"><a href="/webinars.asp?tag_id=1106">Live Learning Webinars</a></li>
+                     <li class="sub-level-nav-item"><a href="/fv-tech.asp">Future Vision Tech Center</a></li>
+                     <li class="sub-level-nav-item"><a href="/lrpod">Podcasts</a></li>
+                  </ul>
+               </div>
+            </li>
+            <li class="top-level-nav-item">
+               <a href="#">Communities</a>
+               <div class="dropdown-menu-container">
+                  <ul class="dropdown-menu">
+                     <li class="sub-level-nav-item"><a href="https://www.the5gexchange.com" target="_blank">The 5G Exchange</a></li>
+                     <li class="sub-level-nav-item"><a href="http://www.broadbandworldnews.com" target="_blank">Broadband World News</a></li>
+                     <li class="sub-level-nav-item"><a href="http://www.connectingafrica.com" target="_blank">Connecting Africa</a></li>
+                     <li class="sub-level-nav-item"><a href="/asia.asp">LR Asia</a></li>
+                     <li class="sub-level-nav-item"><a href="https://www.telecoms.com" target="_blank">Telecoms.com</a></li>
+                     <li class="sub-level-nav-item"><a href="/women-in-comms.asp">Women In Comms</a></li>
+                  </ul>
+               </div>
+            </li>
+         </ul>
+      </nav>
+   </div>
+</div>
+<div class="allow-for-fixed-nav"></div>
+<div class="leaderboard-banner-container" id="leaderboardcontainer">
+	<div class="clearfix" align="center">
+	<!-- Beginning Sync AdSlot  -->
+<div id="div-id-for-top-leaderboard-ad">
+ <script type='text/javascript'>
+ googletag.cmd.push(function() {
+  googletag.display('div-id-for-top-leaderboard-ad');
+ });
+ </script>
+</div>
+<!-- End AdSlot -->
+
+	</div>
+</div>
+<div class="category-title-bar">
+		<span class="title"><a href="/services.asp" title="Key developments in traditional telecom and emerging Internet-based communications services.">Services</a></span></div>
+<!-- End Page Header Component -->
+<div class="page-container">
+<div class="main-well">
+
+<!-- start responsive -->
+<div class="article-main-content">
+    <h1 class="article-title">Eurobites: UK is (almost) totally wired, finds ONS Internet study</h1>
+    <div class="addthis_inline_share_toolbox"></div>
+    <div class="article-container">
+        <div class="article-profile">
+            <img src="//img.lightreading.com/blogs/Paul-Rainford.jpg" class="profile-image"
+                 alt="">
+            <div class="byline">
+                <span class="title">News Analysis</span>
+                <a href="/profile.asp?piddl_userid=31" class="link"><span class="allcaps">Paul Rainford</span>, Assistant Editor, Europe</a>
+                <span class="date">8/7/2020</span>
+            </div>
+            <div class="profile-comment"><img src="https://img.lightreading.com/lightreading/comment-icon.gif"> <a href="#msgs">Comment (0)</a></div>
+        </div>
+        <div class="article-main-body-container with-author">
+            <div class="article-main-body">
+                <article><P>Also in today's EMEA regional roundup: Telkom/Airtel merger in Kenya is off; Sparkle's shiny new CEO; Call of Duty update puts strain on UK networks.</p>
+
+<p><li>Internet access isn't yet universal for UK households, but it's getting there. <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2020">New figures from the Office for National Statistics (ONS)</a> reveal that 96% of households in Great Britain had Internet access in January to February 2020, up from 93% in 2019 and 57% in 2006, when comparable records began. However, in those households with at least one adult aged 65 and over the figure slides down to 80% &ndash; though that is still seven percentage points up on 2019. Other nuggets: Nearly half (49%) of adults in Britain aged 25 to 34 now regularly shout at a smart speaker or app, though, again, this figure slips to 17% for those aged 65 and over; 87% of all adults say they shopped online in the last 12 months; and 17% said they did not have security on their smartphone, while a further 32% did not know whether they had security (we'll take that as a "no" then).</p>
+
+<p><li>The proposed merger between Telkom Kenya and Airtel Networks Kenya has been called off by mutual agreement. In a <a href="https://telkom.co.ke/combination-transaction-between-telkom-kenya-limited-and-airtel-networks-kenya-limited">statement</a>, Telkom said: "After carefully reviewing the available options, Telkom has opted to adopt an alternative strategic direction and will no longer be pursuing the proposed joint venture transaction." Telkom also said that planned redundancies have been withdrawn, claiming that the "accelerated digital transformation" and increased demand for data and broadband brought on by the COVID-19 pandemic has changed Telkom's outlook and prospects. See <a href="http://www.connectingafrica.com/author.asp?section_id=530&doc_id=749407"target="new">this story</a> on our sister site, Connecting Africa, for more background.</p>
+
+<P><li>Sparkle, Telecom Italia's international services arm, has appointed Elisabetta Romano as CEO. Prior to joining Telecom Italia in 2018, Romano spent six years at Ericsson in a range of roles.</p>
+
+
+<p>
+<div align="center">
+<a href="http://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036?_mc=RSS%5FLR%5FEDT&image_number=1" target="new"><img style="max-width: 100%" src="https://img.lightreading.com/2020/08/763036/1921.jpg" alt="Elisabetta Romano: Ready to Sparkle" border="0"></a>
+<div style="margin-top: 5px;"><span class="docimagecaptiontext">Elisabetta Romano: Ready to Sparkle</span></div>
+</div>
+</p>
+
+
+<P><li>South Africa based MTN has decided to make an "orderly exit" out of its Middle Eastern markets, with the MTN Syria business first to be handing back the keys. Outgoing CEO Rob Shuter said: "As part of our ongoing portfolio review, we believe the group is best served to focus in the future on our pan-African strategy," seeking to assure investors that the exit was not "some kind of fire sale." Shuter added that macro-economic pressures and currency depreciation in the Middle Eastern markets meant that they were still "a very small contributor to the group." For more details, see <a href=" http://www.connectingafrica.com/author.asp?section_id=761&doc_id=762995& ">this story</a> on Connecting Africa.</p>
+
+<P><li>The strain that gaming puts on broadband networks has been illustrated this week with the release of Call of Duty: Modern Warfare Season 5. UK operators TalkTalk and Virgin Media both reported massive spikes in Internet traffic following the release of the update, with the former reporting a <a href=" https://www.talktalkgroup.com/article/talktalkgroup/2020/56-riseinnetworktraffic ">56% rise in traffic</a> and the latter a <a href=" https://www.virginmedia.com/corporate/media-centre/press-releases/latest-call-of-duty-warzone-update-sparks-60-uplift-in-traffic-on-virgin-media ">60% uplift</a>. According to Virgin, Fortnite also released a 2GB update on the same day that could have contributed to the increase in traffic.</p>
+
+<p>— Paul Rainford, Assistant Editor, Europe, <a href="http://www.lightreading.com">Light Reading</a></p>
+
+
+</article>
+               
+            </div><!-- article-main-body -->
+
+            <div class="links-below-article">
+
+                <a class="newsletter-link" href="/newsletter_signup.asp"
+                   target="_blank">Like what we have to say? Click here to sign up to our daily newsletter</a>
+
+                <!-- <div class="link-bar">
+                    <img src="https://img.lightreading.com/lightreading/comment-icon.gif"> <a href="#msgs">(0)</a> &nbsp;|
+                    <a href="#msgs">Comment</a> &nbsp;|&nbsp;
+                    <div style="float: left; margin-right: 2px;"><span class="bigmidtall blue allcaps"><a href="/email.asp" onclick="window.open('/email.asp?url='+encodeURIComponent(thispage_sharelink)+'&title='+encodeURIComponent(document.title),'',''); return false;">Email This</a> &nbsp;|&nbsp;</span></div>
+                    <a href="#">Print</a>
+                    &nbsp;|&nbsp;
+                    <a href="#">RSS</a>
+                </div> -->
+				<!--<div class="related-stories">
+					<span class="related-stories-title">Related Stories</span>
+					<div class="bib--rcm-init" data-recommendation-key="4c8956f9-f8c3-47df-bf63-a5db6fabc8af" data-style-classes="bib--row-3 bib--split bib--wide bib--size-16 bib--image-top bib--author-show">
+					</div>
+				</div> -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end responsive -->
+
+	<div class="article-comment">
+
+
+    <div class="top-bar">
+        <span class="comments-title" id="msgs">COMMENTS</span>
+        <div class="link-bar">
+            <a class="selected" href="http://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036?_mc=RSS%5FLR%5FEDT&piddl_msgorder=#msgs">Newest First</a> |
+            <a  href="http://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036?_mc=RSS%5FLR%5FEDT&piddl_msgorder=asc#msgs">Oldest First</a> |
+            <a  href="http://www.lightreading.com/services/eurobites-uk-is-(almost)-totally-wired-finds-ons-internet-study/d/d-id/763036?_mc=RSS%5FLR%5FEDT&piddl_msgorder=thrd#msgs">Threaded View</a>
+        </div>
+        
+        <a href="/message.asp?piddl_fieldsmode=new&piddl_msgtopicid=1&piddl_msgparentid=1455126" class="add-comment">Add Comment</a>
+        
+    </div>
+
+					<a href="/message.asp?piddl_fieldsmode=new&piddl_msgtopicid=1&piddl_msgparentid=1455126">Be the first to <u>post a comment</u> regarding this story.</a>
+				
+</div><!-- end article-comment -->
+
+		</div> <!-- close main well-->
+        <div class="sidebar">
+
+
+<div class="sidebar-educational-resources sidebar-mobile-left">
+    <div class="sidebar-section-title">
+        <strong>EDUCATIONAL RESOURCES</strong>
+    </div>
+
+    <div class="educational-resources-container sidebar-card-container">
+        <span class="subtitle">sponsor supplied content</span>
+
+        
+        <div class="educational-resource-card">
+            <span class="bullet"></span>
+            <a href="/lg_redirect.asp?piddl_lgid_docid=768704&piddl_lg_pcode=wprightcolumn">eBook: Monetize the Enterprise - 6 Ways to Capture the B2B Opportunity</a>
+        </div>
+        
+        <div class="educational-resource-card">
+            <span class="bullet"></span>
+            <a href="/lg_redirect.asp?piddl_lgid_docid=768705&piddl_lg_pcode=wprightcolumn">eBook: The 3 Key Digital Mediation Challenges - And How to Solve Them</a>
+        </div>
+        
+        <div class="educational-resource-card">
+            <span class="bullet"></span>
+            <a href="/lg_redirect.asp?piddl_lgid_docid=768706&piddl_lg_pcode=wprightcolumn">Case Study: APAC CSP Boosts Efficiency of Enterprise Operations with CSG</a>
+        </div>
+        
+        <div class="educational-resource-card">
+            <span class="bullet"></span>
+            <a href="/lg_redirect.asp?piddl_lgid_docid=765928&piddl_lg_pcode=wprightcolumn">vRAN Value Proposition and Cost Modeling</a>
+        </div>
+        
+        <!--Remove on Category Page -->
+
+        <a class="read-more-link educational-resources-archive" href="/archives.asp?section_id=3">Educational Resources Archive</a>
+
+        <!-- End Remove on Category Page -->
+
+    </div>
+</div>
+<div align="center"><!-- Beginning Sync AdSlot  -->
+<div id="div-id-for-rec1-300x250-ad">
+ <script type='text/javascript'>
+ googletag.cmd.push(function() {
+  googletag.display('div-id-for-rec1-300x250-ad');
+ });
+ </script>
+</div>
+<!-- End AdSlot -->
+<div class="divsplitter" style="height: 15px;"></div></div>
+
+
+
+<div class="sidebar-featured-video sidebar-mobile-right">
+    <div class="sidebar-section-title">
+        <strong>FEATURED VIDEO</strong>
+    </div>
+    <div class="featured-video-container sidebar-card-container">
+    	<div id="bc-embed-5978b7929f573c0010caaebd" style="height: 650px;"></div>
+    	<script src="https://players.brightcove.net/3565746760001/experience_5978b7929f573c0010caaebd/live.js" async></script>
+    </div>
+</div>
+	<div align="center"><!-- Beginning Sync AdSlot  -->
+<div id="div-id-for-rec2-300x250-ad">
+ <script type='text/javascript'>
+ googletag.cmd.push(function() {
+  googletag.display('div-id-for-rec2-300x250-ad');
+ });
+ </script>
+</div>
+<!-- End AdSlot -->
+<div class="divsplitter" style="height: 15px;"></div></div>
+
+<!-- upcoming live events -->
+<div class="sidebar-live-events sidebar-mobile-right">
+    <div class="sidebar-section-title">
+        <strong>UPCOMING LIVE EVENTS</strong>
+    </div>
+
+    <div class="live-events-container sidebar-card-container">
+
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://tmt.knect365.com/transforming-the-cable-hfc-network/">Transforming the Cable HFC Network Breakfast Event at SCTE Cable-Tec Expo</a>
+            </div>
+            <div class="live-event-location">
+                October 12, 2021, Breakfast Event 
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://tmt.knect365.com/5g-cables-friend-or-foe/">Cable: 5G's Friend or Foe? Breakfast Event at SCTE Cable-Tec Expo</a>
+            </div>
+            <div class="live-event-location">
+                October 13, 2021, Breakfast Event 
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3349000/EB1E99C92A52779174E58364150F4167/2776876?partnerref=LReventlisting">5G Next Wave and Service Evolution</a>
+            </div>
+            <div class="live-event-location">
+                October 19-21, 2021, Two Day Digital Symposium
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2840988?partnerref=LReventpage">5G Transport & Networking Strategies</a>
+            </div>
+            <div class="live-event-location">
+                November 2-4, 2021, Two Day Digital Symposium
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3319369/D0101FAB96879F894095A9937A8EB8BA/2713754?partnerref=LReventspage">The Programmable Telco Digital Symposium</a>
+            </div>
+            <div class="live-event-location">
+                November 16-18, 2021, Two Day Digital Symposium
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3379768/26778C3D8FB32E9382CE70C4BF4DA2B3/2845962?partnerref=LReventpage">Asia Tech 2021 Digital Symposium</a>
+            </div>
+            <div class="live-event-location">
+                November 23, 2021, Digital Symposium 
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2846962?partnerref=LReventpage">Open RAN Digital Symposium</a>
+            </div>
+            <div class="live-event-location">
+                November 30 - December 2, 2021, Digital Symposium
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3382678/D6339E2B56E57F12915C4691CD4B38ED/2846407?partnerref=LReventpage">Service Provider Security Strategies for the Hybrid Era Digital Symposium</a>
+            </div>
+            <div class="live-event-location">
+                December 8, 2021, Digital Symposium
+            </div>
+        </div>
+        
+        <div class="live-events-card">
+            <div class="live-event-title">
+                <a href="https://event.on24.com/wcc/r/3348853/E6E9D5A66E63CF456363DC952A04E0F7/2776500?partnerref=LReventlisting">Cable Next-Gen Business Services Digital Symposium</a>
+            </div>
+            <div class="live-event-location">
+                December 9, 2021, Digital Symposium 
+            </div>
+        </div>
+        
+        <a class="read-more-link all-events" href="/events.asp">All Upcoming Live Events</a>
+
+    </div>
+
+</div>
+<!-- end upcoming live events -->
+
+<div class="sidebar-upcoming-webinars sidebar-mobile-right">
+    <div class="sidebar-section-title">
+        <strong>UPCOMING WEBINARS</strong>
+    </div>
+
+    <div class="upcoming-webinars-container sidebar-card-container">
+    
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 12, 2021</span>
+            <a href="https://event.on24.com/wcc/r/3426813/D4FAF1541E30FED46852ADBD5C323EAB?partnerref=LRWEBINARS" class="upcoming-webinar-title">Delivering the 5G Promises to the Success of Industry Digital Transformation</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 14, 2021</span>
+            <a href="https://event.on24.com/wcc/r/3422579/E9695923F45EF097700CADA7A54CAC7F?partnerref=LRWEBINARS" class="upcoming-webinar-title">Intelligent Orchestration and Management of 5G Edge Services</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 14, 2021</span>
+            <a href="/webinar.asp?webinar_id=1965" class="upcoming-webinar-title">Managing the Home Broadband Experience - Taking your Subscribers to the next generation of Wi-Fi</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 19, 2021</span>
+            <a href="https://event.on24.com/wcc/r/3349000/EB1E99C92A52779174E58364150F4167/2776876?partnerref=LRWEBINARS" class="upcoming-webinar-title">5G Next Wave Digital Symposium</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 20, 2021</span>
+            <a href="/webinar.asp?webinar_id=1946" class="upcoming-webinar-title">Quantifying and collecting the benefits of IP network automation</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 21, 2021</span>
+            <a href="/webinar.asp?webinar_id=1787" class="upcoming-webinar-title">SCTE® LiveLearning for Professionals Webinar™ Series: Lighting Up Coherent Optics</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 27, 2021</span>
+            <a href="https://event.on24.com/wcc/r/3422749/09CBEAC0199B4C700A6643488D4F17AA?partnerref=LRWEBINARS" class="upcoming-webinar-title">Migrating OSS to Public Cloud - Why and How to Do It</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 27, 2021</span>
+            <a href="/webinar.asp?webinar_id=1942" class="upcoming-webinar-title">Coherent Optics at 400G, 800G and Beyond</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">October 28, 2021</span>
+            <a href="/webinar.asp?webinar_id=1954" class="upcoming-webinar-title">Building a webscale-class packet core</a>
+        </div>
+        <div class="upcoming-webinar-card">
+            <span class="upcoming-webinar-date">November 2, 2021</span>
+            <a href="https://event.on24.com/wcc/r/3379661/CEF343E283E33F4B6D685AE7F1B025EB/2840988?partnerref=LRWEBINARS" class="upcoming-webinar-title">5G Transport Symposium - Next-Gen IP Backhaul Networks for 5G</a>
+        </div>
+        <a class="read-more-link webinar-archive" href="/webinar_archives.asp">Webinar Archive</a>
+
+    </div>
+
+</div>
+
+<div class="sidebar-partner-perspectives sidebar-mobile-left">
+    <div class="sidebar-section-title">
+        <strong>PARTNER PERSPECTIVES</strong><span> - content from our sponsors</span>
+    </div>
+    <div class="partner-perspectives-container sidebar-card-container">
+        
+        <div class="partner-perspectives-card">
+            <a href="/partner-perspectives-(sponsored-content)/how-to-untangle-operational-complexity-to-maximize-sd-wan-service-revenues/a/d-id/772566" class="card-link-title">How to Untangle Operational Complexity to Maximize SD-WAN Service Revenues</a>
+            <span class="byline">By Ofer Farkash, Product and Solutions Marketing Director, Amdocs </span>
+        </div>
+        
+        <div class="partner-perspectives-card">
+            <a href="/partner-perspectives-(sponsored-content)/redefining-cost-models-for-apac-broadband-operators/a/d-id/772548" class="card-link-title">Redefining the Cost Models for APAC Broadband Operators</a>
+            <span class="byline">By Chris W. Silberberg, Senior Analyst, Service Provider Transformation, Omdia</span>
+        </div>
+        
+        <div class="partner-perspectives-card">
+            <a href="/partner-perspectives-(sponsored-content)/super-charge-your-5g-network-by-moving-dns-to-edge/a/d-id/772494" class="card-link-title">Super-Charge Your 5G Network by Moving DNS to the Edge</a>
+            <span class="byline">By Neil Cook, Head of Product, OX PowerDNS, Open-Xchange</span>
+        </div>
+        
+        <div class="partner-perspectives-card">
+            <a href="/partner-perspectives-(sponsored-content)/network-automation-at-domain-controller-layer-drives-significant-benefits-to-operators/a/d-id/772492" class="card-link-title">Network Automation at the Domain Controller Layer Drives Significant Benefits to Operators</a>
+            <span class="byline">By Larry Goldman and Andrew Killeen, Nokia</span>
+        </div>
+        
+        <div class="partner-perspectives-card">
+            <a href="/partner-perspectives-(sponsored-content)/unlock-5g-network-potential-with-predictive-analytics/a/d-id/772389" class="card-link-title">Unlock 5G Network Potential With Predictive Analytics</a>
+            <span class="byline">By RADCOM</span>
+        </div>
+        
+        <a class="read-more-link more-partner-perspectives" href="/partner-perspectives.asp">All Partner Perspectives</a>
+
+    </div>
+</div>
+    
+<div class="sidebar-partner-perspectives sidebar-mobile-left">
+    <div class="sidebar-section-title">
+        <strong>GUEST PERSPECTIVES</strong><span> - curated contributions</span>
+    </div>
+    <div class="partner-perspectives-container sidebar-card-container">
+        
+        <div class="partner-perspectives-card">
+            <a href="/opticalip/fttx/the-future-of-broadband-and-fiber-as-infrastructure/a/d-id/772409" class="card-link-title">The future of broadband and fiber as infrastructure</a>
+            <span class="byline">By Gary Bolton, Fiber Broadband Association</span>
+        </div>
+        
+        <div class="partner-perspectives-card">
+            <a href="/a-new-king-is-crowned-in-cloud/a/d-id/772276" class="card-link-title">A new king is crowned in the cloud</a>
+            <span class="byline">By John Giere, President and CEO of Optiva, Inc.</span>
+        </div>
+        
+        <a class="read-more-link more-partner-perspectives" href="/archives.asp?section_id=802">All Guest Perspectives</a>
+
+    </div>
+</div>
+    
+                        </div>
+    
+                    </div>
+                    </div>
+					<div style="clear:both"></div>
+                    <footer class="footer">
+                    <div class="footer-col column-1">
+						<div class="logo"><img src="https://img.lightreading.com/lightreading/lr-white-logo.png" title="LightReading"/></div>
+						<p>&copy; 2021 Light Reading, part of Informa Tech, a division of Informa PLC.</p>
+						<p>All rights reserved.</p>
+						<ul>
+						<li><a href="https://tech.informa.com/privacy-policy" title="Privacy Policy" target="_blank">Privacy Policy</a>
+						<li><a href="https://privacyportal-eu-cdn.onetrust.com/dsarwebform/c1f53e84-9f05-4169-a854-85052b63c50b/5f26b553-52cc-4973-a761-295d5634a6b6.html" title="Privacy Policy" target="_blank">CCPA: "Do not sell my personal info"</a>
+						<li><a href="https://tech.informa.com/cookie-policy" title="Cookie Policy" target="_blank">Cookie Policy</a>
+						<li><a href="/light-reading-llc-terms-of-service/d/d-id/709995" title="Terms of Use" target="_blank">Terms of Use</a>
+						</ul>
+                    </div>
+                    <div class="footer-col column-2">
+                            <h4>Company</h4>
+                            <ul>
+                            <li><a href="/document.asp?doc_id=1" title="About Us">About Us</a>
+                            <li><a href="/light-reading-in-the-news/d/d-id/709715" title="In the News">In the News</a>
+                            <li><a href="/awards/d/d-id/709735" title="Awards">Awards</a>
+                            <li><a href="/cdn-cgi/l/email-protection#d1a2a4a1a1bea3a591bdb8b6b9a5a3b4b0b5b8bfb6ffb2bebc" title="Help">Help</a>
+                            <li><a href="/register.asp">Register</a>
+                            </ul>
+                    </div>
+                    <div class="footer-col column-3">
+                            <h4>Featured Sites</h4>
+							<ul>
+                            <li><a href="http://bit.ly/2EDaFxB" title="Big 5G Event" target="new">Big 5G Event</a>
+                            <li><a href="https://www.the5gexchange.com/" title="The 5G Exchange" target="new">The 5G Exchange</a>
+                            <li><a href="http://www.broadbandworldnews.com" title="Broadband World News" target="new">Broadband World News</a>
+                            <li><a href="http://www.connectingafrica.com" title="Connecting Africa" target="new">Connecting Africa</a>
+                            </ul>
+                    </div>
+                    <div class="footer-col column-4">
+                            <h4>Working with Us</h4>
+                            <ul>
+                            <li><a href="https://get.knect365.com/light-reading-media-kit/" target="_blank" title="Advertise With Us">Advertise With Us</a>
+                            <li><a href="http://www.lightreading.com/events.asp" title="Upcoming Events">Upcoming Events</a>
+                            <li><a href="http://wrightsmedia.com/reprints/licensing_and_permissions.cfm?magid=2237&urlx=&title" title="Editorial Reprints" target="new">Editorial Reprints</a><br />
+                            <li><a href="https://www.lightreading.com/media-kit---sponsorship-specifications/d/d-id/709251" target="new" title="Sponsorship Specifications">Sponsorship Specifications</a>
+                            </ul>
+                    </div>
+                    <div class="footer-col column-5">
+                            <h4>Connect With Us</h4>
+                            <ul>
+                            <li><a href="https://twitter.com/Light_Reading" target="new">Twitter</a>
+                            <li><a href="https://www.facebook.com/pages/Light-Reading/96273887524" target="new">Facebook</a>
+                            <li><a href="https://www.linkedin.com/company/37707?trk=tyah" target="new">LinkedIn</a>
+                            <li><a href="https://www.lightreading.com/rss_simple.asp">RSS</a>
+                            </ul>
+                    </div>
+                    </footer>
+            </div>
+      </div>
+
+<div class="mobile-lower-bar">
+	<div class="icon"><a class="link" href="/"><i class="fas fa-home"></i> <span class="text">HOME</span></a></div>
+	<div class="icon"><a class="link" href="/login.asp?piddl_nexturl=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fservices%2Feurobites%2Duk%2Dis%2D%28almost%29%2Dtotally%2Dwired%2Dfinds%2Dons%2Dinternet%2Dstudy%2Fd%2Fd%2Did%2F763036%3F%5Fmc%3DRSS%255FLR%255FEDT"><i class="fas fa-user-circle"></i> <span class="text">Sign In</span></a></div>
+	<div class="icon search-icon"><a class="link" href="#"><i class="fas fa-search"></i> <span class="text">SEARCH</span></a></div>
+	<div class="icon search-close-icon inactive"><a class="link" href="#"><i class="fas fa-times"></i> <span class="text">CLOSE</span></a></div>
+	<div class="icon more-icon active"><a class="link" href="#"><i class="fas fa-bars"></i> <span class="text">MORE</span></a></div>
+	<div class="icon more-close-icon inactive"><a class="link" href="#"><i class="fas fa-times"></i> <span class="text">CLOSE</span></a></div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+	// Sends page custom dimensions to GA.
+	window.dataLayer = window.dataLayer || [];
+	window.dataLayer.push({'Author': 'Paul Rainford',
+		'Title': 'Eurobites: UK is (almost) totally wired, finds ONS Internet study',
+		'Published': '20200807',
+		'LoggedIn': 'Un-Registered',
+		'Section': 'Light Reading|Services',
+		'Category': 'Services',
+		'ParentCategory': 'services',
+		'SpecialCategory': '',
+		'DocId': 763036,
+		'UserTitle': '',
+		'UserBizType': '',
+		'UserCompany': '',
+		'ITC Code': ''
+		});
+</script>
+<script src="/script/scripts.js"></script>
+
+<img src="https://www.lightreading.com/client_pathlog.asp?p=%2Flightreading%2Fsection%2F121&f=%2Flightreading%2Fsection%2F121%2F763036&rndserial=17704" border="0" width="1" height="1">
+
+
+
+
+<div style="display: none;">
+<img src="https://img.lightreading.com/images/spacer.gif">
+</div>
+
+<script type="text/javascript">
+adroll_adv_id = "N72QH347HBCTRGBPOMS34T";
+adroll_pix_id = "T5MJMOEIL5AQVLWCND7UBP";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){ oldonload() }};
+}());
+</script>
+
+<script type="text/javascript">
+adroll_segments = "services";
+</script>
+
+
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5961b66a8b325564" async></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'69ae264c2dbb4c8b',m:'iOJIRN3L6zRSiiT7T8.KJIbdZ99HkjGMAF73h1jD6HU-1633683320-0-AZnAg8QrHXWB9iIrYrzrAZb3XBrmxmDaKLysIMsKHjzHWQZoVGJF5WIYWUk5gRflJ8IEVO/eb75ulGqXP/nThJaPhc2zS+O4mF/npPSynqQqC+9+AMlfK0fOuPUjj/WuD4K4n3P/Hh202m3RV0+uJ3FTU8NznhZ2c3q1/+M4skbHAK2pxJO63RC5EvorKCiI4y1RpGdsaP/jFxwmvA5f0n/qArFfzrHfIzir/QA+QdFJocrjCzUMS0ylZY77CCBp8A==',s:[0xa780647bd6,0x80061efe98],}})();</script></body>
+</html>

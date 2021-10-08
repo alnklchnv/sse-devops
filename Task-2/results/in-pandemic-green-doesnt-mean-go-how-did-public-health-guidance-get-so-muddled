@@ -1,0 +1,747 @@
+<!doctype html><html class="no-js" lang="en"><head>
+
+
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://n.pr/tech-jobs
+
+-->
+
+
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Open? Closed? Safe? Scary? Mixed Messages On Coronavirus Confuse : Shots - Health News : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow,max-image-preview:large" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2020-08-04" /><link rel="canonical" href="https://www.npr.org/sections/health-shots/2020/08/04/896647937/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled" /><meta name="description" content="Public officials continue to send mixed messages about the pandemic: We're open for business, but also, stay home if you can. Without clear guidance, people feel confused or stop trying to be safe." /><link rel="alternate" type="application/rss+xml" title="Health" href="https://feeds.npr.org/1128/rss.xml" /><link rel="alternate" type="application/rss+xml" title="Shots - Health News" href="https://feeds.npr.org/103537970/rss.xml" /><link rel="alternate" type="application/json" title="Health" href="https://feeds.npr.org/feeds/1128/feed.json" /><link rel="alternate" type="application/json" title="Shots - Health News" href="https://feeds.npr.org/feeds/103537970/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?" /><meta property="og:url" content="https://www.npr.org/sections/health-shots/2020/08/04/896647937/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled" /><meta property="og:type" content="article" /><meta property="og:description" content="Public officials continue to send mixed messages about the pandemic: We're open for business, but also, stay home if you can. Without clear guidance, people feel confused or stop trying to be safe." /><meta property="og:image" content="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_wide-e9fc60caeeee8fa76f536d750f81f9c894d76696.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_wide-e9fc60caeeee8fa76f536d750f81f9c894d76696.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org","cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"896647937","isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"d630daacb5a62e543f23359525a6ac01","isBuildOut":true,"topicIds":["P1128","1001","1002","1027","1031"],"primaryTopic":"Health","topics":["Health","News","Home Page Top Stories","Health Care","Global Health"],"blog":"Shots - Health News","theme":"103537970","aggIds":["1001","1002","1027","1031","1128","103537970","133188449","434975886","812054919","815664269","897848570","897849130","897849414","914131100"],"tagIds":["health communications","phased shut downs","quarantine shaming","social distancing"],"byline":["Nina Feldman"],"contentPartnerOrg":"WHYY","gtmContentPartnerOrg":"432 | WHYY","pubDate":"2020080406","pageTypeId":"1","title":"In Pandemic, Green Doesn\u0027t Mean \u0027Go.\u0027 How Did Public Health Guidance Get So Muddled?","publisherOrgId":"432"};
+</script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function r(r){for(var t,o,f=r[0],b=r[1],d=r[2],i=0,l=[];i<f.length;i++)o=f[i],Object.prototype.hasOwnProperty.call(n,o)&&n[o]&&l.push(n[o][0]),n[o]=0;for(t in b)Object.prototype.hasOwnProperty.call(b,t)&&(e[t]=b[t]);for(u&&u(r);l.length;)l.shift()();return c.push.apply(c,d||[]),a()}function a(){for(var e,r=0;r<c.length;r++){for(var a=c[r],t=!0,f=1;f<a.length;f++){var b=a[f];0!==n[b]&&(t=!1)}t&&(c.splice(r--,1),e=o(o.s=a[0]))}return e}var t={},n={0:0},c=[];function o(r){if(t[r])return t[r].exports;var a=t[r]={i:r,l:!1,exports:{}};return e[r].call(a.exports,a,a.exports,o),a.l=!0,a.exports}o.e=function(e){var r=[],a=n[e];if(0!==a)if(a)r.push(a[2]);else{var t=new Promise((function(r,t){a=n[e]=[r,t]}));r.push(a[2]=t);var c,f=document.createElement("script");f.charset="utf-8",f.timeout=120,o.nc&&f.setAttribute("nonce",o.nc),f.src=function(e){return o.p+""+e+"."+{1:"7de010fe6c781c2c0d7a",2:"cc10f63734dbe4313aba",3:"2c4660e1f066b592613a",4:"badb54e74a538eb7e4c5",5:"c0d601dca2bc7dc0da07",6:"00504efe5d172bbbd6d9",7:"b85b1db643b876bf63e2",8:"98c2c453716f17bd49ea",69:"7125014a948bb3370d1f",70:"ae2a7201493e4ca9aa7a",71:"269b74f20c86579ca7cb",72:"b9c6c5161d66677b31d6",73:"5d74083166a0a7ba69a3",74:"e355fec4c5050f025b80",75:"d5c0d495c5dbf2401fab",76:"777592aa0c43540914e5",77:"893eb62a4137dfd08e6b",78:"9dfbdbf26062f0786363",79:"891bea3f0bae3d68c653",80:"0a0eba5cf6cc5f81909f",81:"3440bbb009edd043cf9c",82:"aa3b4f428c39d0a032f1",83:"456437dd9036bcf77f6c",84:"a10b79ba8761d8bc2970",85:"823c42ee71a0f14ab74b",86:"25cf09a9617149935ee2",87:"e009942a9ddcc6a88c2c",88:"b62407d3b087bcf81270",89:"52a3c211334ff1cb8ab0",90:"08247b34926bca1c5a6e",91:"af2bce3b4a7349f78501",92:"3e41d0f66ee604033159",93:"2ed3f8752834acfbf31b",94:"940aaea11ca3d30ffbc0",95:"74ab9e5aeafb1f36a7d5",96:"133ed992ad89def42046"}[e]+".chunk.js"}(e);var b=new Error;c=function(r){f.onerror=f.onload=null,clearTimeout(d);var a=n[e];if(0!==a){if(a){var t=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;b.message="Loading chunk "+e+" failed.\n("+t+": "+c+")",b.name="ChunkLoadError",b.type=t,b.request=c,a[1](b)}n[e]=void 0}};var d=setTimeout((function(){c({type:"timeout",target:f})}),12e4);f.onerror=f.onload=c,document.head.appendChild(f)}return Promise.all(r)},o.m=e,o.c=t,o.d=function(e,r,a){o.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:a})},o.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.t=function(e,r){if(1&r&&(e=o(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var a=Object.create(null);if(o.r(a),Object.defineProperty(a,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var t in e)o.d(a,t,function(r){return e[r]}.bind(null,t));return a},o.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return o.d(r,"a",r),r},o.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},o.p="/dist/bundles/",o.oe=function(e){throw console.error(e),e};var f=window.webpackJsonp=window.webpackJsonp||[],b=f.push.bind(f);f.push=r,f=f.slice();for(var d=0;d<f.length;d++)r(f[d]);var u=b;a()}([]);
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/31.6579496e8ccee38a5514.chunk.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-7e49b2c1a149bcec88fe.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 768px)" href="https://bundles.npr.org/dist/bundles/persistent_medium-css-7e49b2c1a149bcec88fe.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 1025px)" href="https://bundles.npr.org/dist/bundles/persistent_large-css-7e49b2c1a149bcec88fe.css" /><link rel="preload" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/fonts-css-7e49b2c1a149bcec88fe.css" as="style" onload="this.onload=null;this.rel='stylesheet'"  /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-7e49b2c1a149bcec88fe.css" /><link rel="stylesheet" media="screen" href="https://static-assets.npr.org/branding/sections/health-shots/branding.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"WHYY","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/images\/stations\/nprone_logos\/whyy.png"}},"headline":"In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"},"datePublished":"2020-08-04T06:00:55-04:00","dateModified":"2020-08-04T06:00:55-04:00","author":{"@type":"Person","name":["Nina Feldman"]},"description":"Public officials continue to send mixed messages about the pandemic: We're open for business, but also, stay home if you can. Without clear guidance, people feel confused or stop trying to be safe.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2020\/07\/29\/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2020\/07\/30\/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+</head><body id="news" class="news tmplBlogNewsStory  story-layout is-buildout no-transcript  blog catId133188449 id896647937  " data-pjax-modules="util/env images/lazy-load metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts we-are-hiring ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/climate/" data-metrics-action="click climate">Climate</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race">Race</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                        <li class="submenu__item"><a href="/lifekit" data-metrics-action="click life kit">Life Kit</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying">
+        #NowPlaying
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" loading="lazy" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" loading="lazy" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" loading="lazy" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" loading="lazy" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510364/daily-books" data-metrics-action="click npr's book of the day">
+        <img src="https://media.npr.org/assets/img/2021/09/23/bookoftheday_final_sq-25cfc93bf5c78739cf6b8264f1ab75e7266536dd.png?s=100" loading="lazy" alt="" />
+        NPR's Book of the Day
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510363/wisdom-from-the-top" data-metrics-action="click wisdom from the top">
+        <img src="https://media.npr.org/assets/img/2021/09/20/wftt_cobrandedtile2021_sq-93306ad7b2f270cb584d6916f998efdd63efb5d2.png?s=100" loading="lazy" alt="" />
+        Wisdom From The Top
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510307/invisibilia" data-metrics-action="click invisibilia">
+        <img src="https://media.npr.org/assets/img/2021/09/10/invisibilia-season-8_sq-57cf62b40026f36cfa218f85472ee6bf7e087023.png?s=100" loading="lazy" alt="" />
+        Invisibilia
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders" data-metrics-action="click it's been a minute with sam sanders">
+        <img src="https://media.npr.org/assets/img/2020/05/29/ibam_arttile_final_sq-950e6ea8f9885c23ad8d40b1b2713e24b7d4c04b.png?s=100" loading="lazy" alt="" />
+        It's Been a Minute with Sam Sanders
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying">
+        #NowPlaying
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-diversity"><a href="/diversity/" data-metrics-action="click diversity">Diversity</a></li>
+                <li class="menu__item menu__item--about-organization"><a href="/organization/" data-metrics-action="click organization">Organization</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Open? Closed? Safe? Scary? Mixed Messages On Coronavirus Confuse : Shots - Health News</b>   <b data-is-speakable>Public officials continue to send mixed messages about the pandemic: We're open for business, but also, stay home if you can. Without clear guidance, people feel confused or stop trying to be safe.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"Shots - Health News"}' ><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/health-shots/" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.webp?s=1000" type="image/webp" /><source srcset="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.png" type="image/png" /><img src="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.png" class="branding__image-icon" alt="Shots - Health News" /></picture><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-text"><b>Shots</b></h2>
+   <b class="branding__mini-teaser">Health News From NPR</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+<div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation" role="navigation" aria-label="sub-navigation">
+            <div id="res341873289" class="bucketwrap statichtml">
+                  <div class="subtopics">
+  <ul class="animated fadeInRight">
+    <li><a href="/sections/health/126567525/your-health">Your Health</a></li>
+    <li><a href="/sections/health/133188451/treatments-tests">Treatments &amp; Tests</a></li>
+    <li><a href="/sections/health/133188447/health-inc">Health Inc.</a></li>
+    <li><a href="/sections/health/133188445/policy-ish">Policy-ish</a></li>
+    <li><a href="/sections/health/133188449/public-health">Public Health</a></li>
+  </ul>
+</div>
+
+<div class="roller-overlay"></div>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="https://twitter.com/nprhealth" data-metrics='{"action":"Click Twitter"}'>Twitter</a></li>
+</ul>
+      </div>
+      
+<!-- END ID="RES341873289" CLASS="BUCKETWRAP STATICHTML" -->
+   </div>
+</div>
+</header>   <section id="main-section"><article class="story story-blogpost"><a id="mainContent"></a><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/health-shots/133188449/public-health">Public Health</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?</h1>
+   <input type="hidden" id="title896647937" value="In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?" />
+   <input type="hidden" id="shortTitle896647937" value="In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?" />
+   <input type="hidden" id="modelFullUrl896647937" value="https://www.npr.org/sections/health-shots/2020/08/04/896647937/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory896647937" data-share-facebook='{"storyId": 896647937 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story896647937" data-share-twitter='{"storyId": 896647937 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story896647937" data-share-flipboard='{"storyId": 896647937 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='896647937'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline has-org">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2020-08-04T06:00:55-04:00">
+            <span class="date">August 4, 2020</span><span class="time">6:00 AM ET</span>
+    </time>
+</div>
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline" id="res896647940" previewTitle="bylines">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/919089313/nina-feldman" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Nina Feldman
+    </a>
+  </p>
+
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES896647940" PREVIEWTITLE="BYLINES" -->
+      </div>
+      <div class="station">
+                  <p> <b>From</b><a class="station" href="https://whyy.org?utm_source=npr.org&utm_medium=referral&utm_campaign=click%2Bstation&utm_term=local-story"  data-metrics='{"action":"Click Org Association","category":"Story Metadata"}' ><img src='https://media.npr.org/images/stations/logos/whyy.gif' alt='WHYY' /></a></p>
+      </div>
+      
+<!-- END CLASS="STATION" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE HAS-ORG" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <article id="res901339170" class="bucketwrap resaudio primaryaudio insecure" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance Get So Muddled?</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"896647937:901339170","available":true,"duration":241,"title":"In Pandemic, Green Doesn\u0027t Mean \u0027Go.\u0027 How Did Public Health Guidance Get So Muddled?","audioUrl":"aHR0cHM6Ly9vbmRlbWFuZC5ucHIub3JnL2Fub24ubnByLW1wMy9ucHIvd2VzdW4vMjAyMC8wNy8yMDIwMDcyNl93ZXN1bl9jb25mbGljdGluZ19jb3ZpZF9ydWxlc19hcmVfY29uZnVzaW5nLm1wMz9vcmdJZD00MzImdG9waWNJZD0xMTI4JmFnZ0lkcz05MTQxMzExMDAsODEyMDU0OTE5JmQ9MjQxJnN0b3J5PTg5NjY0NzkzNyZkbD0xJnNjPXNpdGVwbGF5ZXImc2l6ZT0zODYxMDAz","storyUrl":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled","slug":"shots - health news","program":"","affiliation":"WHYY","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+
+                <time class="audio-module-duration" datetime="P4M,1S">
+                  <span class="audio-module-duration__initial-value">4:01</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/896647937/901339170"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;896647937&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/896647937/901339170&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/896647937/901339170" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+</div>
+</article>
+</div>
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res896648879" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 3000;
+        --source-height: 1993;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1800-c85.webp 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1800-c85.jpg 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1100-c50.jpg" class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                A mid-April sign in Philadelphia reminds passersby that current social distancing measures are for their own good.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Cory Clark/ NurPhoto via Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Cory Clark/ NurPhoto via Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2020/07/29/gettyimages-1210188775_custom-082d2c65687c99045c8dfcf80dbab0ebe0c4db27-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">A mid-April sign in Philadelphia reminds passersby that current social distancing measures are for their own good.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Cory Clark/ NurPhoto via Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>When Marquita Burnett heard Philadelphia was moving to the "green" phase of reopening, she was confused. First of all, she was pretty sure the city had already earned the green label from Pennsylvania's governor (it had). The next thing she knew, the city was <em>scaling back </em>on plans it had made to allow some businesses to reopen (namely, indoor dining and gyms). But it was still calling that phase "restricted green."</p>   <p>"I feel like it's been back and forth – the mayor says one thing, the governor says another. So who do you really listen to?" asks Burnett, a 32-year-old teacher's assistant.</p>   <p>Looking for something to do with her 6-year-old son at the end of June, Burnett saw a mayoral announcement that libraries could open in the new, modified "green" phase. But people who worked at the library were posting on Twitter that they were <em>not </em>open.</p>   <p>"The lines are very blurred," says Burnett. "Are we completely in the green, or not?"</p>   <p>When the coronavirus shutdown was ordered in March, the message was straightforward and simple: Stay at home and don't leave the house except to perform essential work or shop at essential businesses. However hard those restrictions were to stomach, they were clear.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_Health" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Health","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"896647937","agg":["914131100","812054919","434975886","103537970"],"blog":"103537970"},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <p>Skip ahead four months. As businesses started to reopen, mixed messages started raining down from every level of government, making what's permissible and safe feel like a matter of interpretation.</p>   <p>Absent any overarching or consistent national messaging, elected officials are left to come up with localized rules. These rules often contradict one another, presenting a false choice between personal freedoms and protecting one's health. The upshot is that individuals are constantly forced to assess risk on their own and make decisions about actions that have serious safety and moral implications.</p>   <p><strong>Drowning in color-coded confusion</strong></p>   <p>Pennsylvania's <a href="https://www.governor.pa.gov/process-to-reopen-pennsylvania/">reopening plan</a> is structured like a stoplight, with "red," "yellow" and "green" phases. The guidance is built around two main factors: the amount of virus circulating in the community and the degree to which the economy is open.</p>   <p>"In the beginning, we had a plan where there was pretty tight linkage between level of viral transmission and reopening activities," says <a href="https://cpce.research.chop.edu/about-us/team-members/susan-coffin-md-mph">Susan Coffin</a>, a pediatric infectious disease specialist who has helped create the pandemic response plan for Children's Hospital of Philadelphia.</p>   <p>But over time, she says, the reopening system began to falter. The color-coded phases remained a good indicator for which businesses were opening up, but it stopped reflecting the ongoing viral risk, as the number of new cases ebbed and flowed. That divergence has resulted in confusion, she says.</p>   <aside id="ad-secondary-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-secondary-News_Health" class="ad-secondary" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Health","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"896647937","agg":["914131100","812054919","434975886","103537970"],"blog":"103537970"},"location":"secondary","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <p>By late July, Philadelphia found itself – at least officially – in a phase called "modified, restricted green." Gyms were allowed to reopen. Indoor dining remained off-limits.</p>   <p>"Now, we are seeing what might sound like a contradictory message," Coffin says, "Yes, we are reopening, but, no, we don't want you to stop behaving as though there is virus in our community."</p>   <div id="res896648306" class="bucketwrap twitter large graphic624" aria-label="Tweet">
+            <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I continue to work with health experts to update <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> safety guidance.<br> <br>These current restrictions are designed to keep Pennsylvanians safe at this moment, when we are seeing an unfortunate uptick in illnesses.<br> <br>More: <a href="https://t.co/wuDJVn21xS">https://t.co/wuDJVn21xS</a>. <a href="https://t.co/408mTZvIXc">pic.twitter.com/408mTZvIXc</a></p>&mdash; Governor Tom Wolf (@GovernorTomWolf) <a href="https://twitter.com/GovernorTomWolf/status/1285545059258007552?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   </div>
+   
+<!-- END ID="RES896648306" CLASS="BUCKETWRAP TWITTER LARGE GRAPHIC624" ARIA-LABEL="TWEET" -->
+   <p>In neighboring New Jersey, by contrast, the <a href="https://covid19.nj.gov/faqs/nj-information/general-public/when-and-how-is-new-jersey-lifting-restrictions-what-does-a-responsible-and-strategic-restart-of-new-jerseys-economy-look-like">phased reopening </a>takes a more fine-grained, incremental approach. There is no overall color scheme. Instead, each phase offers not only a broad overview of what will change, but also industry-by-industry specifics of which restrictions will be lifted and when.</p>   <p>For his part, Philadelphia Health Commissioner Thomas Farley says he wished people could have ignored Pennsylvania's color coding altogether.</p>   <p>"The governor came up with this high-level plan with these three different colors, but clearly Philadelphia is unique," Farley told reporters at a June 30 press conference, during which he announced the city would pause before entering the full green phase.</p>   <p>"So we're calling it 'green,' but I would rather have people focus less on the color and more on what activities are allowed and not allowed."</p>   <p>Part of the issue is that as the science continued to evolve, so did the recommendations. Masks, for example, were explicitly discouraged for the general public, at first. This was partly because supplies were limited, but also because scientists didn't think the SARS-CoV-2 virus could be easily transmitted via "airborne" aerosolized particles, at least outside hospital settings. But once masks became more available, and more research emerged supporting their use, masks were back in full force.</p>   <p>Though health departments do their best to keep up with the research — and to explain <em>why</em> the recommendations change and when they do — it can be hard to keep track. And it doesn't help when politicians explicitly and vociferously contradict the science-backed recommendations.</p>   <p>"We can't be out there, [with] the secretary of health telling you to wear a mask and <a href="https://whyy.org/articles/wolfs-mask-order-inflames-partisan-fight-over-virus/">your local elected official is telling you</a>, 'Don't wear a mask. You'll be fine,'" says April Hutcheson, communications director for Pennsylvania Department of Health. "It makes the job more challenging."</p>   <p>But there is some messaging health departments <em>can </em>control. Pennsylvania had laid out what many interpreted to be <a href="https://www.cmu.edu/news/stories/archives/2020/april/dashboard-will-help-inform-state-decision-makers.html">specific metrics</a> for assessing how well a community was doing. The measures looked at testing capacity, contact tracing resources and infection rates in nursing home. To move on to a less-restrictive phase, each county would have to reach a specific benchmark, by a certain date, on the number of new confirmed in that county.</p>   <p>In May, many counties in the southeastern part of the state didn't meet those benchmarks, but <a href="https://whyy.org/articles/philly-is-yellow-now-is-it-ready/">transitioned to the next phase, anyway</a>. Gov. Tom Wolf later said the metrics were not hard targets but would be considered with other <a href="https://www.spotlightpa.org/news/2020/05/pennsylvania-counties-reopen-york-adams-carbon-beaver/">"subjective information"</a> provided by health officials to determine each county's overall risk.</p>   <p>Then all counties in Pennsylvania moved from red to yellow in early June. Weeks later, case counts began to <a href="https://experience.arcgis.com/experience/cfb3803eb93d42f7ab1c2cfccca78bf7/">creep up</a> again.</p>   <p>Proving the transition was rushed and therefore caused the spike may never be possible. But setting that aside, the experience probably contributed to more distrust in government, says Ellen Peters, who runs the <a href="https://scr.uoregon.edu/">Media Center for Science Communication Research</a> at the University of Oregon.</p>   <p>"It gives people inconsistent information, so you're being told, 'Eh, that didn't happen, but we're going to go ahead and do it anyway,' " says Peters, whose own county in Oregon failed to meet its benchmarks, but moved into a new phase anyway. "And so people are left with 'Well, the guidelines don't matter, then. If they don't matter, what else can I not trust that this city or state entity is telling me?' "</p>   <p>Research has shown that when people are stuck at an impasse, they are more likely to just <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.11.1.109">opt for doing what they want to</a>.</p>   <p><strong>How safe is safe?</strong></p>   <p>Health departments in cities and at the state level have come to rely heavily on regular news briefings, where they advise residents which activities are safe and how to do them safely. But asking people to constantly evaluate what they consider safe is a tall order.</p>   <p>"What does it mean to be careful right now? I don't think that's actually a meaningful instruction," says <a href="https://www.law.upenn.edu/cf/faculty/twilkins/">Tess Wilkinson-Ryan</a>, a professor of law and psychology at the University of Pennsylvania.</p>   <p>"The level of care we are asking of individuals is really high — we would never ask this in normal life."</p>   <p>At the start of the pandemic, what it meant to be safe was easier to grasp, says Wilkinson-Ryan. Concepts like "flattening the curve" gave people new language they needed to understand the broader reasoning behind shutting down the economy. They felt like they were doing something by doing nothing — it created a behavioral norm. In this new era of partial or "paused" reopenings, the norm has disappeared — leaving many people unsure how to keep themselves and others safe.</p>   <p>Wilkinson-Ryan faced her own safety dilemma about six weeks into a period of strict stay-at-home orders in Philadelphia. Her husband, Caleb Furnas, went out to walk the dog; the leash got tangled around his ankle and he fell back and hit his head. Furnas told her what had happened, and she asked him, half-jokingly, who the president was. "He said, deadpan, 'George Bush,' " she recalls. "And he wasn't joking."</p>   <p>Wilkinson-Ryan spent the next few hours frantically trying to determine how severe her husband's concussion might be and trying to decide whether she should take him to an emergency room that <em>might </em>be overwhelmed with contagious coronavirus patients, and pose its own health risks.</p>   <p>Luckily, she was able to reach a friend who is a pediatrician. The friend advised her to take Furnas to the hospital. During triage, he was sent to a wing designated for non-COVID patients. He's home now and doing fine.</p>   <p>While grateful that she had a friend with expertise to call upon, Wilkinson-Ryan knows not everyone has that kind of resource. And she still longed for more clear-cut rules to serve as a guide in moments of crisis like that one.</p>   <p><strong>Making their own decisions</strong></p>   <p>Without those clear rules, Wilkinson-Ryan, Marquita Burnett and countless others have been left on their own to make critical decisions. They might combine various inputs to reach a decision, such as the emerging science around the virus (if they're aware of it), the advice of people they know and trust, and their own values and priorities.</p>   <div id="res897353950" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 959;
+        --source-height: 960;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1800-c85.webp 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1800-c85.jpg 1800w" sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2020/07/30/20200729-twr-and-cf-and-dog-2_sq-6763a9fca635d9130be8dc4f0dbbae3c079b5db6-s1100-c50.jpg" class="img" alt="" loading="lazy" />
+        </picture>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Caleb Furnas tripped over the dog leash and sustained a concussion while strict stay-at-home orders were in effect in Pennsylvania. His wife, Tess Wilkinson-Ryan, says she was so confused by the mixed messages from various public officials that she didn't know whether to take him to the hospital or not.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Tess Wilkinson-Ryan
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Tess Wilkinson-Ryan
+        
+    </span>
+</div>
+   </div>
+   <p>Burnett, for instance, has decided that during the pandemic she can take her son to get his hair cut outside, on the barber's front porch. The barber always wore a mask and took the virus seriously, so when the barbershop reopened, she felt comfortable taking her son there.</p>   <p>But she's not comfortable with many of their other typical summer activities, like going to the zoo, amusement parks or outdoor restaurants. If she can't predict how a crowd of strangers will act, she's not taking the risk.</p>   <p>But that's how Burnett figured it out. It's easy to imagine someone else, confronted with the same choices, coming to the opposite decisions: skipping the close contact of the haircut, but hitting the zoo because it's outside.</p>   <p>"It's sort of like asking everyone to decide their own speed limit based on, like, the make and model of their car," says Wilkinson-Ryan, or telling them: "Think about who you're gonna drive with, think about the importance of your destination. Good luck!"</p>   <p>Because one person's idea of "careful" in a pandemic is different from another's, she says, the most helpful instructions are those that are clear and specific: designating maximum capacities in public spaces; using marks on the ground to denote 6 feet of distance; issuing specific instructions for people on how often they should go grocery shopping.</p>   <p>Otherwise, people are likely to come to different conclusions based on the same information, which in turn, leads to public shaming. And that has its own risks.</p>   <p>"When someone gets angry, they shut down to new information. They react and simply do what they want to do," says Ellen Peters of the University of Oregon. "I could see where you could get much worse health behaviors from shaming other people."</p>   <p>Peters pointed to photographs of people on beaches, which then were circulated online and used to publicly shame the beachgoers. The perspective of some of the photos, though, may have made beaches look more crowded than they were. "Maybe in reality, people are pretty far apart," she says, "and they're outdoors."</p>   <p>Wilkinson-Ryan explain that shaming can occur naturally, when there's a lack of cultural norms in a new and changing environment.</p>   <p>When people are overburdened with decisions, shaming also provides a cognitive shortcut.</p>   <p>"It's easy and salient to think about what people in my neighborhood are doing wrong," says Wilkinson-Ryan. "They're sitting at the park, they're playing, they're touching each other. That's an availability bias: It comes easily to mind because it's part of my everyday life. You tend to place blame on the causes that come to mind quickly and easily."</p>   <p>But when people spend a lot of energy blaming or shaming their neighbors, it distracts from another goal: holding state legislatures, Congress and the president accountable for managing the pandemic.</p>   <p>Other countries managed to avoid these issues to some degree because they had <a href="https://pubmed.ncbi.nlm.nih.gov/32347772/">coordinated federal responses</a>. National messaging meant there was no need to deputize hundreds of local health officials to distribute hyperlocal and often conflicting messages.</p>   <p>"It really is kind of ridiculous, that idea of asking all of these people to come up with their own experts and their own way of guiding behavior in the states or cities, rather than having <em>the </em>experts in the country come together and decide what is the best guidance for all of us and having the politicians stick with that," says Peters.</p>   <p>To streamline her own decision-making, Peters says, she adopted a approach that she calls the <a href="https://www.washingtonpost.com/health/how-fauci-5-other-health-specialists-deal-with-covid-19-risks-in-their-everyday-lives/2020/07/02/d4665ed6-b6fb-11ea-a510-55bf26485c93_story.html">"What Would Anthony Fauci Do?"</a> approach. Fauci is the government's infectious disease expert.</p>   <p>But that's just her. When everyone chooses their own way to navigate — whether that's by map, polestar, dowsing stick or gut instinct — people are bound to crash into one another.</p>   <p><em>This story comes from NPR's reporting partnership with WHYY and Kaiser Health News.</em></p>
+</div>
+<div class="tags">
+      <ul>
+            <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/897849414/health-communications">health communications</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/897849130/quarantine-shaming">quarantine shaming</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/897848570/phased-shut-downs">phased shut downs</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/815664269/social-distancing">social distancing</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory896647937" data-share-facebook='{"storyId": 896647937 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story896647937" data-share-twitter='{"storyId": 896647937 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story896647937" data-share-flipboard='{"storyId": 896647937 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='896647937'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/health-shots\/2020\/08\/04\/896647937\/in-pandemic-green-doesnt-mean-go-how-did-public-health-guidance-get-so-muddled"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;the-new-normal&quot;,&quot;title&quot;:&quot;New Normal&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The New Normal Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;Find the latest news on the coronavirus crisis and help getting through whatever comes next. Sent twice a week.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for The New Normal newsletter and get the latest news on the coronavirus crisis and more.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2021\/02\/09\/the-new-normal.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/blogs\/thisisnpr\/subnav.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/series\/812054919\/the-coronavirus-crisis&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/series\/812054919\/the-coronavirus-crisis&quot;,&quot;organizationId&quot;:432,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;THE-NEW-NORMAL&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;NEW NORMAL&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NEW NORMAL NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;FIND THE LATEST NEWS ON THE CORONAVIRUS CRISIS AND HELP GETTING THROUGH WHATEVER COMES NEXT. SENT TWICE A WEEK.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE NEW NORMAL NEWSLETTER AND GET THE LATEST NEWS ON THE CORONAVIRUS CRISIS AND MORE.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2021\/02\/09\/THE-NEW-NORMAL.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/THISISNPR\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SERIES\/812054919\/THE-CORONAVIRUS-CRISIS&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SERIES\/812054919\/THE-CORONAVIRUS-CRISIS&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:432,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="station-data" data-station="{&quot;id&quot;:&quot;432&quot;,&quot;name&quot;:&quot;WHYY&quot;,&quot;abbr&quot;:&quot;WHYY&quot;,&quot;donationUrl&quot;:&quot;https:\/\/us.netdonor.net\/page\/32842\/donate\/1?supporter.appealCode=TMI0000NPR01&amp;utm_source=npr.org&amp;utm_medium=referral&amp;utm_content=donate&amp;utm_campaign=stationstory&quot;,&quot;homepageUrl&quot;:&quot;https:\/\/whyy.org?utm_source=npr.org&amp;utm_medium=referral&amp;utm_content=website&amp;utm_campaign=stationstory&quot;}">
+   </div>
+
+<!-- END ID="STATION-DATA" DATA-STATION="{&QUOT;ID&QUOT;:&QUOT;432&QUOT;,&QUOT;NAME&QUOT;:&QUOT;WHYY&QUOT;,&QUOT;ABBR&QUOT;:&QUOT;WHYY&QUOT;,&QUOT;DONATIONURL&QUOT;:&QUOT;HTTPS:\/\/US.NETDONOR.NET\/PAGE\/32842\/DONATE\/1?SUPPORTER.APPEALCODE=TMI0000NPR01&AMP;UTM_SOURCE=NPR.ORG&AMP;UTM_MEDIUM=REFERRAL&AMP;UTM_CONTENT=DONATE&AMP;UTM_CAMPAIGN=STATIONSTORY&QUOT;,&QUOT;HOMEPAGEURL&QUOT;:&QUOT;HTTPS:\/\/WHYY.ORG?UTM_SOURCE=NPR.ORG&AMP;UTM_MEDIUM=REFERRAL&AMP;UTM_CONTENT=WEBSITE&AMP;UTM_CAMPAIGN=STATIONSTORY&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Shots - Health News"}' ><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/health-shots/" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.webp?s=1000" type="image/webp" /><source srcset="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.png" type="image/png" /><img src="https://media.npr.org/branding/sections/health-shots/branding_icon-9d5c5798fbff8351e5c796ffe65e5e8246c166fb.png" class="branding__image-icon" alt="Shots - Health News" /></picture><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-text"><b>Shots</b></h2>
+   <b class="branding__mini-teaser">Health News From NPR</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+</header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org/contact/s/" data-metrics-action="Click Contact & Help">Contact & Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/diversity/" data-metrics-action="Click Diversity">Diversity</a></li>
+                <li class="npr-footer__item"><a href="/ethics/" data-metrics-action="Click Ethics">Ethics</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/sections/npr-extra/" data-metrics-action="Click NPR Extra">NPR Extra</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_Health" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE","sponsor_content":"npr_sponsor_content","default_secondary":"NPRSecondary","mobile_secondary":"NPRMobileSecondary"},"zone":"News_Health","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"896647937","agg":["914131100","812054919","434975886","103537970"],"blog":"103537970"},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[17],{1078:function(e,n,c){e.exports=c(288)},288:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(3),c.e(85),c.e(2),c.e(69)]).then(function(e){c(2),c(1053),c(41),c(103),c(30),c(163),c(123),c(60),c(1054),c(62),c(1055),c(83),c(1056),c(281),c(1057),c(75)}.bind(null,c)).catch(c.oe)}},[[1078,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

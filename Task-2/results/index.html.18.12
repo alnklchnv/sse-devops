@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta property="fb:app_id" content="58923144965" />
+<meta property="fb:pages" content="71411645007" />
+<meta name="author" content="Keith May" />
+<link rel="shortcut icon" type='image/x-icon' href="https://wccftech.com/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://wccftech.com/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://wccftech.com/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://wccftech.com/icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://wccftech.com/icons/manifest.json">
+<link rel="mask-icon" href="https://wccftech.com/icons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="Wccftech">
+<meta name="application-name" content="Wccftech">
+<meta name="theme-color" content="#ffffff">
+
+<style>@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500|Open+Sans:400,700');</style>
+
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v17.2 (Yoast SEO v17.2.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Horizon Zero Dawn PC Performance Analysis - You Love To See It Here</title>
+	<meta name="description" content="Horizon Zero Dawn Complete Edition is the latest in PS4 exclusives to come to the PC world. We dig into performance of the smash hit." />
+	<link rel="canonical" href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Horizon Zero Dawn PC Performance Analysis - You Love To See It Here" />
+	<meta property="og:description" content="Horizon Zero Dawn Complete Edition is the latest in PS4 exclusives to come to the PC world. We dig into performance of the smash hit." />
+	<meta property="og:url" content="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/" />
+	<meta property="og:site_name" content="Wccftech" />
+	<meta property="article:publisher" content="https://www.facebook.com/wccftech" />
+	<meta property="article:author" content="https://www.facebook.com/jackalopeater" />
+	<meta property="article:published_time" content="2020-08-07T00:28:19+00:00" />
+	<meta property="article:modified_time" content="2020-08-07T10:05:33+00:00" />
+	<meta property="og:image" content="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1062" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@keithplayspc" />
+	<meta name="twitter:site" content="@wccftech" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Keith May" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="10 minutes" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Wccftech &raquo; Feed" href="https://wccftech.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wccftech &raquo; Comments Feed" href="https://wccftech.com/comments/feed/" />
+<link rel='stylesheet' id='wccf-main-css'  href='https://cdn.wccftech.com/wp-content/themes/wccf2016/style.css?ver=1632502839' type='text/css' media='all' />
+<link rel='stylesheet' id='wccf-style-single-css'  href='https://cdn.wccftech.com/wp-content/themes/wccf2016/style-single.css?ver=1632502839' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://wccftech.com/wp-json/" /><link rel="alternate" type="application/json" href="https://wccftech.com/wp-json/wp/v2/posts/1192928" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wccftech.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.wccftech.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://wccftech.com/?p=1192928' />
+<link rel="alternate" type="application/json+oembed" href="https://wccftech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwccftech.com%2Fhorizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://wccftech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwccftech.com%2Fhorizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here%2F&#038;format=xml" />
+<script type='text/javascript'>window.presslabs = {"home_url":"https:\/\/wccftech.com"}</script><script type='text/javascript'>
+	(function () {
+		var pl_beacon = document.createElement('script');
+		pl_beacon.type = 'text/javascript';
+		pl_beacon.async = true;
+		var host = 'https://wccftech.com';
+		if ('https:' == document.location.protocol) {
+			host = host.replace('http://', 'https://');
+		}
+		pl_beacon.src = host + '/' + 'cnt7vfDVvWa3' + '.js?ts=' + Math.floor((Math.random() * 100000) + 1);
+		var first_script_tag = document.getElementsByTagName('script')[0];
+		first_script_tag.parentNode.insertBefore(pl_beacon, first_script_tag);
+	})();
+</script>		<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+		<link rel="amphtml" href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/amp/">
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-3244067-1', 'auto');
+	  ga('set', 'dimension1', 'Keith May');
+  ga('set', 'dimension2', 'Featured,News');
+  ga('set', 'dimension3', '1596745699');
+  ga('set', 'dimension4', 'post');
+  ga('set', 'dimension8', 'Hardware');
+	ga('send', 'pageview');
+</script>
+
+<style>
+	@font-face {font-family: 'icomoon';  src: url('//cdn.wccftech.com/fonts/icomoon10.eot'); src: url('//cdn.wccftech.com/fonts/icomoon10.eot#iefix') format('embedded-opentype'), url('//cdn.wccftech.com/fonts/icomoon10.ttf') format('truetype'), url('//cdn.wccftech.com/fonts/fonts/icomoon10.woff') format('woff'), url('//cdn.wccftech.com/fonts/icomoon10.svg#icomoon') format('svg'); font-weight: normal; font-style: normal; }
+</style>
+
+
+
+<script>var mypage = 'news';
+var mytopic = 'hardware';
+</script>
+
+
+	
+		<script src="https://cmp.uniconsent.com/v2/stub.min.js"></script>
+		<script async src='https://cmp.uniconsent.com/v2/4d73da7830/cmp.js'></script>
+		<script type="text/javascript">
+		window.googletag = window.googletag || {};
+		window.googletag.cmd = window.googletag.cmd || [];
+		window.googletag.cmd.push(function () {
+		    window.googletag.pubads().enableAsyncRendering();
+		    window.googletag.pubads().disableInitialLoad();
+		});
+		(adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 1;
+		</script>
+		<script>
+		__tcfapi("addEventListener", 2, function(tcData, success) {
+		    if (success && tcData.unicLoad  === true) {
+		        if(!window._initAds) {
+					window._initAds = true;
+
+					var script = document.createElement('script');
+					script.async = true;
+					script.src = 'https://dsh7ky7308k4b.cloudfront.net/publishers/wccftechcom_new.min.js?234568';
+					document.head.appendChild(script);
+
+					var script = document.createElement('script');
+					script.async = true;
+					script.src = 'https://pubgalaxy-com.videoplayerhub.com/gallery.js';
+					document.head.appendChild(script);
+
+		        }
+		    }
+		});
+		</script>
+
+	
+
+
+<!--[if lt IE 9]>
+    <script src="//cdn.wccftech.com/files/html5shiv.min.js"></script>
+<![endif]-->
+
+
+	<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+	<script type="text/javascript" src="https://native.sharethrough.com/assets/sfp.js"></script>
+
+
+
+	<meta name="twitter:image" content="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover-740x409.jpg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/"
+  },
+  "headline": "Horizon Zero Dawn PC Performance Analysis &#8211; You Love To See It Here",
+  "image": [
+    "https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg"
+   ],
+  "datePublished": "2020-08-07T00:28:19+00:00",
+  "dateModified": "2020-08-07T10:05:33+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Keith May"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Wccftech",
+    "url": "https://wccftech.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.wccftech.com/wp-content/uploads/images/wccftech-logo.png"
+    }
+  },
+  "description": "EDITORS NOTE: Our performance evaluation was done entirely post-patch that was issued after we had access to the game for several days resulting in retesting most of our cards. When viewing performance issues with this game it's important to know whether the evaluation was made on the original build of the game or the patched [&amp;hellip;]"
+}
+</script>
+
+
+
+
+</head>
+
+<body class="post-template-default single single-post postid-1192928 single-format-standard">
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1503230403325633');
+fbq('track', 'PageView');
+</script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1503230403325633&ev=PageView&noscript=1"/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<header>
+	<section class="wrap clearfix">
+		<a href="https://wccftech.com/"  rel="home"><div class="logo">Wccftech</div></a>
+
+		<ul class="nav widget-analytics" data-event="Menu" data-page="Single">
+			<li><a href="/category/news/"   title="See all news">News</a></li>
+			<li><a href="/topic/hardware/"  title="See all hardware news">Hardware</a></li>
+			<li><a href="/topic/games/"     title="See all gaming news">Gaming</a></li>
+			<li><a href="/topic/gadgets/"   title="See all mobile news">Mobile</a></li>
+			<li><a href="/topic/finance/"   title="See all finance news">Finance</a></li>
+			<li><a href="/topic/deals/"     title="See all our deals posts">Deals</a></li>
+			<li><a href="/review/"          title="See all reviews">Reviews</a></li>
+			<li><a href="/videos/"  title="See all our youtube videos">Videos</a></li>
+			<!--<li><a href="/topic/exclusive/"  title="See all our exclusive stories">Exclusives</a></li>-->
+			<!--<li><a href="/pc-builder/"      title="PC Builder by Wccftech">PC Builder</a></li>-->
+		</ul>
+		<div class="toggle-search" title="Search"></div>
+	</section>
+	<div class="search-form">
+		<form class="wrap" action="/find/"><input id="q" name="q" type="text" placeholder="What do you want to search for?" autocomplete="off"><input type="submit"></form>
+	</div>
+</header>
+
+<div class="banner-ad">
+	<div id='div-gpt-ad-1454066633851-0'></div>
+	<div id='div-gpt-ad-wccftechcom38568'></div>
+</div>
+
+<main class="wrap clearfix" style="">	
+
+	<div class="clearfix">
+	
+    <section class="content">
+	    		
+		<div class="topics"><a href="https://wccftech.com/topic/hardware/" rel="tag">Hardware</a></div>
+	
+		<h1 class="page-heading">Horizon Zero Dawn PC Performance Analysis &#8211; You Love To See It Here</h1>
+			
+	    <div class="single-meta">
+		    <div class="meta-left">
+				<div class="meta-author">By <a href="https://wccftech.com/author/keith/">Keith May</a></div>
+			    <div class="meta-time">
+					<time datetime="2020-08-07T00:28:19+00:00" title="Aug 6, 2020 20:28 EDT">
+						Aug 6, 2020 20:28 EDT					</time>
+														</div>
+		    </div>
+		    <div class="meta-share meta-share-top">
+			    			    <span class="facebook"><i class="icon-facebook"></i> Share</span><span class="twitter"><i class="icon-twitter"></i> Tweet</span><span class="reddit"><i class="icon-reddit"></i> Submit</span>
+			</div>
+	    </div>
+		
+		<div class="body clearfix">
+		
+			<div class="wp-caption aligncenter featured-image"><div class="wp-lightbox"><a href="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg"><img width="1480" height="819" src="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg" class="attachment-large-2x size-large-2x wp-post-image" alt="Horizon Zero Dawn" loading="lazy" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg 1920w, https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover-410x227.jpg 410w, https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover-740x409.jpg 740w, https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover-768x425.jpg 768w" sizes="(max-width: 1480px) 100vw, 1480px" /></a></div></div>
+			<blockquote><p><strong>EDITORS NOTE</strong>: Our performance evaluation was done entirely post-patch that was issued after we had access to the game for several days resulting in retesting most of our cards. When viewing performance issues with this game it's important to know whether the evaluation was made on the original build of the game or the patched version that matches what will be released when the game goes live.</p></blockquote>
+<p>Hot on the heels of <a href="https://wccftech.com/death-stranding-and-dlss-2-0-gives-a-serious-boost-all-around/" target="_blank" rel="noopener noreferrer">Death Stranding</a> we PC Gamers get access to another hot exclusive to the Playstation 4 world, Horizon Zero Dawn Complete Edition. Horizon Zero Dawn has been out since February of 2017, so it's not like it's a new game, but it's a very welcome addition to the PC universe. If you're looking for a review of the game itself may I direct you to our review of the original release by <a href="https://wccftech.com/review/horizon-zero-dawn-welcome-future/" target="_blank" rel="noopener noreferrer">Chris Wray</a> because the Horizon Zero Dawn PC release is essentially the same game therefore the original review of the game itself still holds up. But, this is all about the technical side of things.</p>
+<p>Horizon Zero Dawn for PC is still powered by the Decima engine, just like Death Stranding, but it comes with fewer bells and whistles, most notably is the absence of DLSS 2.0, and unfortunately no FidelityFX as well. But, unlike early reporting, I'm happy to say that ultrawide support is present as well as a FOV slider, these were originally said that they were not going to be included in order to 'preserve the original experience of the game', but I'm very happy to see them included. As you'll see down the way, Ultrawide is a bit more stressful than usual in this open-world adventure. The biggest benefit of this game on PC (outside of increased resolution and framerate) is the ability to crank way beyond the original release in draw distance as well as the excellently enhanced ambient occlusion implementation that really makes the world pop.</p>
+<p id="" class="wccf_related_post"><a class="wccf_related_post" href="https://wccftech.com/horizon-forbidden-west-delayed-2022-horizon-zero-dawn-60fps-patch/"> Horizon Forbidden West Has Been Delayed to 2022, Horizon Zero Dawn 60fps PS5 Patch Out Now</a></p><h2>Testing Methodology</h2>
+<p>First, I want to make a request to Sony and Guerrilla, GET RID OF THE 10 MINUTE OPTIMIZATION WINDOW for when you update your driver or change any hardware. Okay, got that out of my system. I want to drop a good tip on this game when you launch it, alt+enter to take it out of full-screen and then alt+enter back in, there is a weird bug that 'should' be addressed where the game is rendered at the set resolution but is downscaled then upscaled back and it just looks odd.</p>
+<p>Horizon Zero Dawn comes to us with several arrays of presets; Favor Performance, Original, Favor Quality, and Ultimate Quality. But, that being said, there seems to be a change in presets across GPU configurations resulting in the Ambient Occlusion settings being variable, so for our testing, we used the Ultimate Quality settings but changed the Ambient Occlusion setting to 'Original' for consistency. Horizon Zero Dawn also included a very solid and representative (from my experience post-patch) built-in benchmarking utility. We used that for our testing and took the results from the 176-second run.</p>
+<p>Once we had the results from 3 runs, after discarding an initial burner run for loading purposes, we took the average of average frame rates as well as the 1% Percentile results from the run. We report our performance metrics as average frames per second and have moved away from the 1% and .1% reporting and are now using the 1% Percentile. For those uncertain of what the 1% Percentile is, representing is easily explained as showing only 1 frame out of 100 is slower than this frame rate. Put another way, 99% of the frames will achieve at least this frame rate.</p>
+<p>*at the time of our review a known issue with the game is that Anisotropic Filtering is not functioning, but in previous games we found this setting to be superfluous in affecting overall performance.</p>
+<p><iframe loading="lazy" title="Horizon Zero Dawn PC Benchmark 4K Ultimate Quality 3900X + RTX 2080Ti" width="500" height="281" src="https://www.youtube.com/embed/Xgx2uPi03Bc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p id="" class="wccf_related_post"><a class="wccf_related_post" href="https://wccftech.com/horizon-forbideen-west-gameplay-ps5-14-minutes/"> Horizon Forbidden West Showcased with 14 Minutes of Truly-Next-Gen PS5 Gameplay</a></p><div id="" class="wccf_video_tag"><div id="div-gpt-ad-1586516229806-0"></div></div><div class="wccf-gallery"><ul class="lightslider"><li data-thumb="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.02-06.40.07.72-1-240x135.jpg" data-src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.02-06.40.07.72-1-1480x833.jpg" data-sub-html="{" source : share><img src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.02-06.40.07.72-1-1480x833.jpg" alt="horizon-zero-dawn-complete-edition-screenshot-2020-08-02-06-40-07-72-2"></li><li data-thumb="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.06-17.08.07.06-240x135.png" data-src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.06-17.08.07.06-1480x833.png" data-sub-html=""><img src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Horizon-Zero-Dawn-Complete-Edition-Screenshot-2020.08.06-17.08.07.06-1480x833.png" alt="horizon-zero-dawn-complete-edition-screenshot-2020-08-06-17-08-07-06"></li></ul></div>
+
+
+<h2 id="tablepress-1185-name" class="tablepress-table-name tablepress-table-name-id-1185">Test System</h2>
+
+<table id="tablepress-1185" class="tablepress tablepress-id-1185 tablepress-responsive" aria-labelledby="tablepress-1185-name"><thead><tr class="row-1 odd"><th class="column-1">Components</th><th class="column-2">Z370</th>
+</tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">CPU</td><td class="column-2">Intel Core i9-9900k @ 5GHz</td>
+</tr><tr class="row-3 odd"><td class="column-1">Memory </td><td class="column-2">32GB Mushkin Redline DDR4 3600 </td>
+</tr><tr class="row-4 even"><td class="column-1">Motherboard</td><td class="column-2">EVGA Z370 Classified K</td>
+</tr><tr class="row-5 odd"><td class="column-1">Storage</td><td class="column-2">Kingston KC2000 1TB NVMe SSD</td>
+</tr><tr class="row-6 even"><td class="column-1">PSU</td><td class="column-2">Cooler Master V1200 Platinum</td>
+</tr><tr class="row-7 odd"><td class="column-1">Windows Version</td><td class="column-2">Latest verion of windows at the time of testing</td>
+</tr><tr class="row-8 even"><td class="column-1">Hardware-Accelerated GPU Scheduling</td><td class="column-2">On if supported by GPU and driver.</td>
+</tr></tbody></table><!-- #tablepress-1185 from cache --><h2 id="tablepress-1186-name" class="tablepress-table-name tablepress-table-name-id-1186">Graphics Cards Tested</h2>
+
+<table id="tablepress-1186" class="tablepress tablepress-id-1186 tablepress-responsive" aria-labelledby="tablepress-1186-name"><thead><tr class="row-1 odd"><th class="column-1">GPU</th><th class="column-2">Architecture</th><th class="column-3">Core Count<br></th><th class="column-4">Clock Speed</th><th class="column-5">Memory Capacity<br></th><th class="column-6">Memory Speed</th>
+</tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">NVIDIA RTX 2080ti FE</td><td class="column-2">Turing</td><td class="column-3">4352</td><td class="column-4">1350/1635</td><td class="column-5">11GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-3 odd"><td class="column-1">NVIDIA RTX 2080 SUPER FE</td><td class="column-2">Turing</td><td class="column-3">3072</td><td class="column-4">1650/1815</td><td class="column-5">8GB GDDR6</td><td class="column-6">15.5Gbps</td>
+</tr><tr class="row-4 even"><td class="column-1">NVIDIA RTX 2070 SUPER FE</td><td class="column-2">Turing</td><td class="column-3">2560</td><td class="column-4">1605/1770</td><td class="column-5">8GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-5 odd"><td class="column-1">NVIDIA RTX 2060 SUPER</td><td class="column-2">Turing</td><td class="column-3">2176</td><td class="column-4">1470/1650</td><td class="column-5">8GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-6 even"><td class="column-1">NVIDIA RTX 2060 FE</td><td class="column-2">Turing</td><td class="column-3">1904</td><td class="column-4">1365/168</td><td class="column-5">6GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-7 odd"><td class="column-1">ZOTAC Gaming GTX 1660</td><td class="column-2">Turing</td><td class="column-3">1408</td><td class="column-4">1530/1785</td><td class="column-5">6GB GDDR5</td><td class="column-6">8Gbps</td>
+</tr><tr class="row-8 even"><td class="column-1">ZOTAC GTX 1650 SUPER</td><td class="column-2">Turing</td><td class="column-3">1280</td><td class="column-4">1530/1725</td><td class="column-5">4GB GDDR6</td><td class="column-6">12Gbps</td>
+</tr><tr class="row-9 odd"><td class="column-1">NVIDIA GTX 1080 FE</td><td class="column-2">Pascal<br></td><td class="column-3">2560</td><td class="column-4">1607/1733</td><td class="column-5">8GB GDDR5X</td><td class="column-6">10Gbps</td>
+</tr><tr class="row-10 even"><td class="column-1">NVIDIA GTX 1070 FE</td><td class="column-2">Pascal<br></td><td class="column-3">1920</td><td class="column-4">1506/1683</td><td class="column-5">8GB GDDR5</td><td class="column-6">8Gbps</td>
+</tr><tr class="row-11 odd"><td class="column-1">NVIDIA GTX 1060 FE 6GB</td><td class="column-2">Pascal<br></td><td class="column-3">1280<br></td><td class="column-4">1506/1708</td><td class="column-5">6GB GDDR5</td><td class="column-6">8Gbps<br></td>
+</tr><tr class="row-12 even"><td class="column-1">AMD Radeon RX 5700XT</td><td class="column-2">Navi 10</td><td class="column-3">2560</td><td class="column-4">1605/1755/1905</td><td class="column-5">8GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-13 odd"><td class="column-1">AMD Radeon RX 5700</td><td class="column-2">Navi 10</td><td class="column-3">2304</td><td class="column-4">1465/1625/1725</td><td class="column-5">8GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-14 even"><td class="column-1">Sapphire RX 5600 XT</td><td class="column-2">Navi 10</td><td class="column-3">2304</td><td class="column-4">1130/1660/1750</td><td class="column-5">6GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-15 odd"><td class="column-1">AMD RX Vega 64 </td><td class="column-2">Vega 10</td><td class="column-3">4096</td><td class="column-4">1247/1546</td><td class="column-5">8GB HBM2</td><td class="column-6">945Mbps</td>
+</tr><tr class="row-16 even"><td class="column-1">AMD RX Vega 56</td><td class="column-2">Vega 10</td><td class="column-3">3584</td><td class="column-4">1156/1471</td><td class="column-5">8GB HBM2</td><td class="column-6">800Mbs</td>
+</tr><tr class="row-17 odd"><td class="column-1">Sapphire RX 5500 XT 4GB</td><td class="column-2">Navi 14</td><td class="column-3">1408</td><td class="column-4">1737/1845</td><td class="column-5">4GB GDDR6</td><td class="column-6">14Gbps</td>
+</tr><tr class="row-18 even"><td class="column-1">MSI RX 580 Armor 8GB </td><td class="column-2">Polaris 20</td><td class="column-3">2304</td><td class="column-4">1366</td><td class="column-5">8GB GDDR5</td><td class="column-6">8Gbps<br></td>
+</tr><tr class="row-19 odd"><td class="column-1">Sapphire Nitro+  RX 570 4GB</td><td class="column-2">Polaris 20</td><td class="column-3">2048</td><td class="column-4">1340</td><td class="column-5">4GB GDDR5</td><td class="column-6">7Gbps</td>
+</tr></tbody></table><h2 id="tablepress-1280-name" class="tablepress-table-name tablepress-table-name-id-1280">Drivers Used</h2>
+
+<table id="tablepress-1280" class="tablepress tablepress-id-1280 tablepress-responsive" aria-labelledby="tablepress-1280-name"><thead><tr class="row-1 odd"><th class="column-1">Drivers</th><th class="column-2"> </th>
+</tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Radeon Settings </td><td class="column-2">20.8.1</td>
+</tr><tr class="row-3 odd"><td class="column-1">GeForce</td><td class="column-2">451.67</td>
+</tr></tbody></table><h2>Preset Scaling At 4K</h2>
+<p>Testing presets at 4K gives us a couple of quick metrics before diving into the game too deeply.  First off, it shows us how the game looks at various presets as well as how performance scales with those settings. Horizon Zero Dawn scales quite well in visuals with the Favoring Performance setting still looking decent enough to not feel like you're missing out on much, but the detail draw distance on the Ultimate Quality is worth the sacrifice if you can muster over the 45 FPS mark, yes 60+ is preferred but the pacing of the game, and especially if you're using a controller, is quite comfortably played.</p>
+<p>But, clawing back performance is not that difficult, moving to Original quality can gain you nearly 50% performance increase but I would wager you might be better off using the in-game slider and moving to around the 80% resolution mark and applying either the GeForce Sharpening filter or the Radeon Image Sharpening feature to gain back some of that sharpness. This game could have certainly benefited from either DLSS 2.0 or FidelityFX, both of which could be ported into the game with FidelityFX likely being the easier implementation. We've seen both at work in the engine with Death Stranding and it would be wonderful to see it here as well.</p>
+<div class="wp-caption clearfix aligncenter"><div class="wp-lightbox"><a href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/favor-performance/" rel="attachment wp-att-1192933"><img loading="lazy" class="size-full wp-image-1192933" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-scaled.jpg" alt="" width="2560" height="1440" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-scaled.jpg 2560w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-410x231.jpg 410w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-740x416.jpg 740w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-240x135.jpg 240w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-768x432.jpg 768w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-1536x864.jpg 1536w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-2048x1152.jpg 2048w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-480x270.jpg 480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-820x461.jpg 820w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-1480x833.jpg 1480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-1030x579.jpg 1030w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Performance-1920x1080.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px"></a></div><div class="wp-caption-text">Favor Performance</div></div>
+<div class="wp-caption clearfix aligncenter"><div class="wp-lightbox"><a href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/original-11/" rel="attachment wp-att-1192934"><img loading="lazy" class="size-full wp-image-1192934" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-scaled.jpg" alt="" width="2560" height="1440" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-scaled.jpg 2560w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-410x231.jpg 410w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-740x416.jpg 740w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-240x135.jpg 240w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-768x432.jpg 768w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-1536x864.jpg 1536w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-2048x1152.jpg 2048w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-480x270.jpg 480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-820x461.jpg 820w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-1480x833.jpg 1480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-1030x579.jpg 1030w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Original-1920x1080.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px"></a></div><div class="wp-caption-text">Original</div></div>
+<div class="wp-caption clearfix aligncenter"><div class="wp-lightbox"><a href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/favor-quality/" rel="attachment wp-att-1192935"><img loading="lazy" class="size-full wp-image-1192935" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-scaled.jpg" alt="" width="2560" height="1440" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-scaled.jpg 2560w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-410x231.jpg 410w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-740x416.jpg 740w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-240x135.jpg 240w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-768x432.jpg 768w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-1536x864.jpg 1536w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-2048x1152.jpg 2048w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-480x270.jpg 480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-820x461.jpg 820w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-1480x833.jpg 1480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-1030x579.jpg 1030w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Favor-Quality-1920x1080.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px"></a></div><div class="wp-caption-text">Favor Quality</div></div>
+<div class="wp-caption clearfix aligncenter"><div class="wp-lightbox"><a href="https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/ultimate-quality/" rel="attachment wp-att-1192939"><img loading="lazy" class="size-full wp-image-1192939" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-scaled.jpg" alt="" width="2560" height="1440" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-scaled.jpg 2560w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-410x231.jpg 410w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-740x416.jpg 740w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-240x135.jpg 240w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-768x432.jpg 768w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-1536x864.jpg 1536w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-2048x1152.jpg 2048w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-480x270.jpg 480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-820x461.jpg 820w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-1480x833.jpg 1480w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-1030x579.jpg 1030w, https://cdn.wccftech.com/wp-content/uploads/2020/08/Ultimate-Quality-1920x1080.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px"></a></div><div class="wp-caption-text">Ultimate Quality</div></div>
+<p><iframe loading="lazy" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=901f7b22-d708-11ea-bf88-a15b6c7adf9a" width="100%" height="2160" frameborder="0"></iframe></p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 400px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_uhd4kpresetscaling" width="740" height="400" style="display: block; height: 400px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_uhd4kpresetscaling = new Chart(document.getElementById("wccf_chart_uhd4kpresetscaling"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["Favor Perf", "Original", "Favor Quality", "Ultimate Quality"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[85,75,62,56]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[70,61,52,46]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "UHD 4K Preset Scaling"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 400px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_hd1080ppresetscaling" width="740" height="400" style="display: block; height: 400px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_hd1080ppresetscaling = new Chart(document.getElementById("wccf_chart_hd1080ppresetscaling"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["Favor Perf", "Original", "Favor Quality", "Ultimate Quality"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[73,69,58,57]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[53,53,46,45]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "HD 1080p Preset Scaling"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>Intel Core Scaling Performance</h2>
+<p>While this test won’t tell just how many cores and threads the game can and will use, it does show how the game performs as you move up in cores and threads available. These were tested at the 1080p settings that we tested the rest of the results while pairing the CPU with the RTX 2080 Ti Founders Edition.  While this does not take into account the cache difference you would see with Intel CPUs as you move through their offering stack it does give us a better idea of how the game benefits and behaves from more cores and threads.</p>
+<p>Scaling in Horizon Zero Dawn isn't that exciting to look at when viewed at 1080p, it shows performance hitting its side at six cores, but maintaining decent at quad-core arrangements. If you're rocking a dual-core with quad threads on this one you're likely to see issues, but without multi-threading, you'll be left out in the cold on a dual-core. The game will launch on a dual-core, at least the menus as the game never loaded into a playable scene. The most interesting note is that on six and eight-core arrangements the inclusion of multi-threading doesn't seem to help and at the high end, actually hurts performance slightly. One thing is clear, this game is exceptionally GPU heavy and is relatively unaffected at even 1080p with the RTX 2080Ti when reducing core and thread count.</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 400px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_corei99900kcoreandthreadscaling" width="740" height="400" style="display: block; height: 400px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_corei99900kcoreandthreadscaling = new Chart(document.getElementById("wccf_chart_corei99900kcoreandthreadscaling"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["8c/16t", "8c/8t", "6c/12t", "6c/6t", "4c/8t", "4c/4t", "2c/4t", "2c/2t"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[126,130,132,132,125,122,91,0]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[85,87,87,88,78,78,57,0]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "Core i9-9900K Core and Thread Scaling"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2 style="text-align: center;">Graphics Card Results</h2>
+<h2>1080p</h2>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 750px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_standard1080pperformance" width="740" height="750" style="display: block; height: 750px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_standard1080pperformance = new Chart(document.getElementById("wccf_chart_standard1080pperformance"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["RTX 2080ti FE", "RTX 2080 SUPER", "RX 5700 XT", "RTX 2070 SUPER", "RX 5700", "RX 5600 XT", "RTX 2060 SUPER", "RTX 2060 FE", "GTX 1080 FE", "GTX 1070 FE", "RX Vega 64", "RX Vega 56", "GTX 1660", "RX 5500 XT 4GB", "GTX 1650 SUPER", "RX 580 8GB", "GTX 1060 6GB FE", "RX 570 4GB"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[126,107,102,97,93,87,86,78,77,66,65,59,59,57,54,52,51,48]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[85,71,74,66,69,67,59,55,46,38,49,45,44,45,40,39,30,36]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "Standard 1080p Performance"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>Ultrawide 1080p</h2>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 750px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_ultrawide1080pperformance" width="740" height="750" style="display: block; height: 750px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_ultrawide1080pperformance = new Chart(document.getElementById("wccf_chart_ultrawide1080pperformance"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["RTX 2080ti FE", "RTX 2080 SUPER", "RX 5700 XT", "RTX 2070 SUPER", "RX 5700", "RX 5600 XT", "RTX 2060 SUPER", "RTX 2060 FE", "GTX 1080 FE", "GTX 1070 FE", "RX Vega 64", "GTX 1660", "RX Vega 56", "GTX 1650 SUPER", "RX 580 8GB", "RX 5500 XT 4GB", "GTX 1060 6GB FE", "RX 570 4GB"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[106,90,83,81,76,72,71,64,62,53,52,49,47,42,42,42,41,39]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[74,62,61,55,57,56,50,45,35,34,40,39,35,34,32,31,29,30]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "Ultrawide 1080p Performance"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>1440p</h2>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 750px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_standard1440pperformance" width="740" height="750" style="display: block; height: 750px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_standard1440pperformance = new Chart(document.getElementById("wccf_chart_standard1440pperformance"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["RTX 2080ti FE", "RTX 2080 SUPER", "RTX 2070 SUPER", "RX 5700 XT", "RX 5700", "RX 5600 XT", "RTX 2060 SUPER", "RTX 2060 FE", "GTX 1080 FE", "GTX 1070 FE", "RX Vega 64", "RX Vega 56", "GTX 1660", "RX 5500 XT 4GB", "RX 580 8GB", "GTX 1650 SUPER", "GTX 1060 6GB FE", "RX 570 4GB"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[95,79,73,72,64,62,61,55,55,46,46,43,42,39,37,36,35,34]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[67,53,50,53,51,49,43,38,32,27,36,32,32,33,28,27,21,26]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "Standard 1440p Performance"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>Ultrawide 1440p</h2>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 750px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_ultrawide1440pperformance" width="740" height="750" style="display: block; height: 750px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_ultrawide1440pperformance = new Chart(document.getElementById("wccf_chart_ultrawide1440pperformance"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["RTX 2080ti FE", "RTX 2080 SUPER", "RX 5700 XT", "RTX 2070 SUPER", "RX 5700", "RTX 2060 SUPER", "RTX 2060 FE", "GTX 1080 FE", "RX Vega 64", "GTX 1070 FE", "RX Vega 56", "GTX 1660", "GTX 1650 SUPER", "RX 580 8GB", "GTX 1060 6GB FE", "RX 5600 XT", "RX 5500 XT 4GB", "RX 570 4GB"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[79,65,62,57,53,49,45,44,37,37,35,34,30,29,28,0,0,0]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[58,46,41,42,43,37,35,28,28,24,26,28,22,21,18,0,0,0]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "Ultrawide 1440p Performance"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>UHD 4K</h2>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.6.0"></script><script src="https://cdn.wccftech.com/wp-content/themes/wccf2016/chartjs-plugin-watermark.min.js"></script><div class="wccf-chart" style="margin-bottom: 20px; width:100%; height: 750px; position: relative; ">
+					<canvas class="wccf_chart_canvas" id="wccf_chart_uhd4kperformance" width="740" height="750" style="display: block; height: 750px;"></canvas></div>
+					<script>
+					var image = new Image(); image.src = "https://cdn.wccftech.com/wp-content/uploads/2019/07/logo-transparent-2.png";
+					var mychart_uhd4kperformance = new Chart(document.getElementById("wccf_chart_uhd4kperformance"), {
+						type: "horizontalBar",
+						data: {
+							labels: ["RTX 2080ti FE", "RTX 2080 SUPER", "RX 5700 XT", "RTX 2070 SUPER", "RX 5700", "RTX 2060 SUPER", "RTX 2060 FE", "GTX 1080 FE", "RX Vega 64", "RX Vega 56", "GTX 1070 FE", "GTX 1660", "GTX 1650 SUPER", "RX 580 8GB", "GTX 1060 6GB FE", "RX 5600 XT", "RX 5500 XT 4GB", "RX 570 4GB"],
+							datasets: [{label:"AVG FPS",backgroundColor:"rgba(244,67,54,0.75)",data:[56,47,39,41,36,35,32,30,26,25,25,23,22,20,18,0,0,0]}, {label:"1% Percentile",backgroundColor:"rgba(255,160,0,0.75)",data:[46,37,31,33,29,28,24,18,19,18,14,18,16,15,12,0,0,0]}],
+						},
+						options: {
+							maintainAspectRatio: false,
+							legend: { display: true, position: "bottom" },
+							title: {display: true, text: "UHD 4K Performance"},
+							tooltips: {mode: "index", intersect: false},
+							hover: {mode: "nearest", intersect: true},
+							scales: {
+								xAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true}  }],
+								yAxes: [{ display: true, scaleLabel: {display: false, labelString: ""}, ticks: {beginAtZero:true} }]
+							},
+							plugins: { 
+								datalabels: { align: "end", anchor: "end", offset: 0, color: "#222", clamp: true }
+							},
+							watermark: {
+								image: image,
+
+								x: 0,
+								y: 0,
+
+								width: 223,
+								height: 40,
+
+								opacity: 1,
+
+								alignX: "middle",
+								alignY: "middle",
+
+								position: "back",
+							}
+						}
+					});
+					</script><h2>Conclusion</h2>
+<p>Overall the PC performance of Horizon Zero Dawn would have been pretty shoddy if we had gone off the original build of the game so we're glad they've cleaned things up in time for the launch. This gives us hope that issues like the nonworking Anisotropic Filtering adjustment will be fixed, but this isn't giving the game a pass for that being missed. The other oddity you'll find pretty apparent here is going to be the 30 fps facial animations, that really cause cutscenes to feel odd, especially when, at times, the eyes are moving at full speed.</p>
+<p>BUT, performance is not quite as good as I hoped for and really shows that something like DLSS 2.0 or FidelityFX would make an excellent addition here to claw back some performance on some cards at higher resolutions. Ultrawide resolutions are unusually difficult to run at levels they do in other games, there seems to be a bigger hit than usual. Neither GPU vendor has any major issues with the launch of the game, so any problems to be uncovered will likely be with the game itself and could, hopefully, be patched in the future</p>
+<p>The Navi cards did spectacular here delivering better than anticipated performance numbers when putting up against their direct competitors. Showing greater than a 10% performance advantage in with the recent GPUs. Their Vega lineup and Polaris do okay against the Pascal counterparts. One of the more interesting points is how utilizing Hardware Accelerated GPU Scheduling really pushes the GeForce GTX 1650 to parity with the RX 5500XT and kisses the GTX 1660 despite it being the more powerful card with more VRAM.</p>
+<p>Something of note in the results in where cards register a Zero number. What I found was a few cards in the Radeon lineup seem to fall victim to assets not loading. I recorded them as Zero because it's essentially unplayable because all that will load in are characters, the skybox, and land formations. This is an unfortunate effect that only seems to affect the Radeon cards, the GeForce cards handle the game perfectly fine across the board. Something to consider is it is only happening at resolutions above and beyond what those cards are designed for.</p>
+<p>Before the patch there were stability issues abound, sometimes the game would stutter at a strange interval no matter what was going on, and often would simply not launch properly. I'm glad I waited until after the patch dropped to start recording data and found the game to be in a much more attractive state. I can't defend the odd 30 FPS facial animations but it is a game you'll probably want to cap at around 60 FPS anyway to smooth the fluctuations out. The issue with the Anisotropic Filtering bug should be alleviated by the time the game goes live. But, for now, I'll be back in and exploring the world with Aloy.</p>			
+						
+		</div>
+
+		
+				
+		
+	    <div class="meta-share meta-share-bottom clearfix">
+		    <span class="facebook"><i class="icon-facebook"></i> Share</span>
+		    <span class="twitter"><i class="icon-twitter"></i> Tweet</span>
+		    <span class="reddit"><i class="icon-reddit"></i> Submit</span>
+		</div>
+
+		
+
+				
+
+				
+		<div style="margin: 50px auto" class="ad">
+						<div class="subscribe clearfix">
+	<div class="subscribe-cover">
+		<p>Stay in the loop</p>
+		<h3>GET A DAILY DIGEST OF LATEST TECHNOLOGY NEWS</h3>
+		<p>Straight to your inbox</p>
+	</div>
+	<div class="subscribe-form">
+		<p class="status">Subscribe to our newsletter</p>
+		<form class="traqli" data-page="Single">
+			<input type="email" id="sub_email" name="sub_email" placeholder="Enter your email" required /><input type="submit" value="Subscribe">
+			<input type="hidden" name="action" value="submit_traqli">
+		</form>		
+	</div>
+</div>
+
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap&text=GET%20A%20DAILY%20DIGEST%20OF%20LATEST%20TECHNOLOGY%20NEWS" rel="stylesheet">
+
+<style>
+.subscribe { border: 2px solid #EB0254; position: relative; margin: 125px 0; margin-left: -62px; margin-right: -62px; min-height: 100px }
+.subscribe-cover { float:left; width:150px; background-color: #222; margin: -65px 0 -65px 35px; text-align: center; padding: 50px 15px; color: white; min-width: 290px; }
+	.subscribe-cover img { margin-bottom: 20px }
+	.subscribe-cover h3 { font-family: 'DM Serif Text', serif; margin-bottom: 15px; font-weight: normal; font-size: 30px }
+	.subscribe-cover p { font-size: 12px;  color: #aaa; margin-bottom: 0; }
+	.subscribe-cover p:first-child { margin-bottom: 15px; }
+
+.subscribe-form  { padding: 40px; width: 100%; padding-left: 361px; }
+	.subscribe-form p { font-weight: bold; margin-bottom: 15px; }
+	.subscribe-form form { width: 100%; background: #eee; padding: 10px; border-radius: 10px }
+	.subscribe-form form input { font-size: 14px; border:none; border-radius: 0; background-color: #eee }
+	.subscribe-form form input:-webkit-autofill, .subscribe-form form input:focus:-webkit-autofill { -webkit-box-shadow: 0 0 0 100px rgb(238, 238, 238) inset; }
+	.subscribe-form form input[type=email]  { width: 75%; padding: 10px; }
+	.subscribe-form form input[type=submit] { width: 25%; padding: 10px 0; background: #EB0254; color: #fff; -webkit-appearance: none; border-radius: 25px }
+	.subscribe-form form input[type=submit]:hover { background: #d2024b  }
+
+@media only screen and (max-width: 1850px) {
+	.subscribe {margin-left: -46px; margin-right: -46px;}
+	.subscribe-cover { margin-left: 20px; }
+	.subscribe-form { padding: 40px 23px; padding-left: 333px; }
+}
+</style>
+		</div>
+
+		<style>.subscribe { margin-top: 100px; }</style>
+		
+		
+						
+								
+				<div class="related-posts widget-analytics clearfix" data-event="Related" data-page="Single" style="margin-top: 30px;">
+					<h2 class="sub-head"><span>Related</span></h2>
+					
+	<div id='div-gpt-ad-1583497834297-0'></div>
+		
+			
+		<article class="post clearfix">
+			<div class="thumb" style="background-image:url('//cdn.wccftech.com/wp-content/uploads/images/post-thumb.png')">
+				<a href="https://wccftech.com/sony-reiterates-its-goal-to-expand-first-party-titles-to-pc-to-grow-profitability/"><img width="240" height="135" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/horizon_pc_art-e1598717949984-240x135.jpg" alt="horizon_pc_art" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/horizon_pc_art-e1598717949984-480x270.jpg 2x" /></a>
+			</div>
+			<div class="text">
+				<h3><a href="https://wccftech.com/sony-reiterates-its-goal-to-expand-first-party-titles-to-pc-to-grow-profitability/">Sony Reiterates Its Goal to Expand First-Party Titles to PC to Grow Profitability</a></h3>
+				<div class="meta">
+					<a href="https://wccftech.com/author/alessio/">Alessio Palumbo</a> &nbsp;•&nbsp; Aug 29, 2020					<div class="float-right">
+						<span class="disqus-comment-count" data-disqus-identifier="1198956 http://wccftech.com/?p=1198956"></span> &nbsp;&nbsp;
+						<i class="icon-share"></i> 10					</div>		
+				</div>
+			</div>
+		</article>
+			
+		<article class="post clearfix">
+			<div class="thumb" style="background-image:url('//cdn.wccftech.com/wp-content/uploads/images/post-thumb.png')">
+				<a href="https://wccftech.com/horizon-zero-dawn-pc-is-the-first-game-to-support-amds-fidelityfx-spd-in-addition-to-tressfx-and-async-compute/"><img width="240" height="135" src="https://cdn.wccftech.com/wp-content/uploads/2020/08/hzd_bundle_QHD-240x135.jpg" alt="hzd_bundle_qhd" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/08/hzd_bundle_QHD-480x270.jpg 2x" /></a>
+			</div>
+			<div class="text">
+				<h3><a href="https://wccftech.com/horizon-zero-dawn-pc-is-the-first-game-to-support-amds-fidelityfx-spd-in-addition-to-tressfx-and-async-compute/">Horizon Zero Dawn PC Is the First Game to Support AMD&#8217;s FidelityFX SPD, in Addition to TressFX and Async Compute</a></h3>
+				<div class="meta">
+					<a href="https://wccftech.com/author/alessio/">Alessio Palumbo</a> &nbsp;•&nbsp; Aug 9, 2020					<div class="float-right">
+						<span class="disqus-comment-count" data-disqus-identifier="1193898 http://wccftech.com/?p=1193898"></span> &nbsp;&nbsp;
+						<i class="icon-share"></i> 10					</div>		
+				</div>
+			</div>
+		</article>
+			
+		<article class="post clearfix">
+			<div class="thumb" style="background-image:url('//cdn.wccftech.com/wp-content/uploads/images/post-thumb.png')">
+				<a href="https://wccftech.com/horizon-zero-dawn-pc-closer-release/"><img width="240" height="135" src="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover-240x135.jpg" alt="horizon_zero_dawn_cover" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/01/horizon_zero_dawn_cover.jpg 2x" /></a>
+			</div>
+			<div class="text">
+				<h3><a href="https://wccftech.com/horizon-zero-dawn-pc-closer-release/">Horizon Zero Dawn PC Releases August 7th; Unlocked Frame Rate, System Requirements, Benchmark Tool Confirmed</a></h3>
+				<div class="meta">
+					<a href="https://wccftech.com/author/francesco/">Francesco De Meo</a> &nbsp;•&nbsp; Jul 3, 2020					<div class="float-right">
+						<span class="disqus-comment-count" data-disqus-identifier="1184595 http://wccftech.com/?p=1184595"></span> &nbsp;&nbsp;
+						<i class="icon-share"></i> 10					</div>		
+				</div>
+			</div>
+		</article>
+			
+		<article class="post clearfix">
+			<div class="thumb" style="background-image:url('//cdn.wccftech.com/wp-content/uploads/images/post-thumb.png')">
+				<a href="https://wccftech.com/new-details-emerge-for-horizon-forbidden-west-virtually-no-load-times-new-tribes/"><img width="240" height="135" src="https://cdn.wccftech.com/wp-content/uploads/2020/06/Horizon-Forbidden-West-Sunset-240x135.jpg" alt="horizon-forbidden-west-sunset" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/06/Horizon-Forbidden-West-Sunset-480x270.jpg 2x" /></a>
+			</div>
+			<div class="text">
+				<h3><a href="https://wccftech.com/new-details-emerge-for-horizon-forbidden-west-virtually-no-load-times-new-tribes/">New Details Emerge For Horizon Forbidden West &#8211; Virtually No Load Times, New Tribes</a></h3>
+				<div class="meta">
+					<a href="https://wccftech.com/author/kai/">Kai Powell</a> &nbsp;•&nbsp; Jun 17, 2020					<div class="float-right">
+						<span class="disqus-comment-count" data-disqus-identifier="1179666 http://wccftech.com/?p=1179666"></span> &nbsp;&nbsp;
+						<i class="icon-share"></i> 10					</div>		
+				</div>
+			</div>
+		</article>
+			
+		<article class="post clearfix">
+			<div class="thumb" style="background-image:url('//cdn.wccftech.com/wp-content/uploads/images/post-thumb.png')">
+				<a href="https://wccftech.com/horizon-zero-dawn-complete-edition-pc-bundled-with-select-amd-ryzen-cpus-release-must-be-near/"><img width="240" height="135" src="https://cdn.wccftech.com/wp-content/uploads/2020/06/amd_horizon_pc_bundle-240x135.jpg" alt="amd_horizon_pc_bundle" srcset="https://cdn.wccftech.com/wp-content/uploads/2020/06/amd_horizon_pc_bundle-480x270.jpg 2x" /></a>
+			</div>
+			<div class="text">
+				<h3><a href="https://wccftech.com/horizon-zero-dawn-complete-edition-pc-bundled-with-select-amd-ryzen-cpus-release-must-be-near/">Horizon Zero Dawn Complete Edition PC Bundled with Select AMD Ryzen CPUs; Release Must Be Near</a></h3>
+				<div class="meta">
+					<a href="https://wccftech.com/author/alessio/">Alessio Palumbo</a> &nbsp;•&nbsp; Jun 10, 2020					<div class="float-right">
+						<span class="disqus-comment-count" data-disqus-identifier="1177299 http://wccftech.com/?p=1177299"></span> &nbsp;&nbsp;
+						<i class="icon-share"></i> 10					</div>		
+				</div>
+			</div>
+		</article>
+					</div>
+
+				
+		
+				<div id="disqus_thread"></div>
+		<script>
+			var disquspageurl = 'https://wccftech.com/horizon-zero-dawn-pc-performance-analysis-you-love-to-see-it-here/';
+			var disqus_config = function () {
+				this.page.url = disquspageurl;
+				this.page.identifier = '1192928 http://wccftech.com/?p=1192928';
+				this.callbacks.onNewComment = [function(comment) {
+					if (typeof ga !== 'undefined') ga( 'send', 'event', 'Comments', 'Single', disquspageurl );
+				}];
+			};
+
+			(function() {
+				var d = document, s = d.createElement('script');
+				s.src = '//wccftech.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+			})();
+		</script>
+		<noscript>Please enable JavaScript to view the comments.</noscript>
+				
+
+	</section>
+    
+        
+	<aside class="sidebar">
+		
+	
+		<div class="sidebar-ad">
+			<div id='div-gpt-ad-1454066633851-2' style='height:250px; width:300px;'></div>
+		</div>
+
+		
+
+		
+
+	<section class="trending-posts sidebar-trending widget-analytics" data-event="Trending" data-page="Single">
+		<h3 class="sub-head"><span>Trending Stories</span></h3>
+		<ul><li><a href="https://wccftech.com/nvidia-geforce-rtx-3090-ti-flagship-gaming-graphics-card-rumored-to-feature-21-gbps-single-sided-memory-450w-tdp-new-power-connector/">NVIDIA GeForce RTX 3090 Ti Flagship Gaming Graphics Card Rumored To Feature 21 Gbps Single-Sided Memory, 450W TDP &#038; New Power Connector</a></li>
+<li><a href="https://wccftech.com/dvt-macbook-pro-image-reveals-m1x-16gb-ram-specs/">DVT Unit Image of Upcoming Redesigned MacBook Pro Reveals M1X Chip, 16GB Unified RAM Specs</a></li>
+<li><a href="https://wccftech.com/battlefield-2042-qa-with-dice/">Battlefield 2042 Q&#038;A with DICE &#8211; Character Progression Changes Discussed, Player Visibility Concerns Acknowledged and More</a></li>
+<li><a href="https://wccftech.com/gamestop-amc-short-sellers-recover-close-to-1-billion-in-two-weeks/">GameStop &#038; AMC Short Sellers Recover Close To $1 Billion In Two Weeks </a></li>
+<li><a href="https://wccftech.com/intel-core-i7-12700k-12-core-alder-lake-cpu-z-benchmark-leaks-out-up-to-45-faster-than-amd-ryzen-7-5800x-core-i9-11900k/">Intel Core i7-12700K 12 Core Alder Lake CPU-z Benchmark Leaks Out, Up To 45% Faster Than AMD Ryzen 7 5800X &#038; Core i9-11900K</a></li>
+</ul>	</section>
+
+	
+	
+		
+		<div class="sidebar-ad">
+			<!-- TAGNAME: 300x250_AR_SB1 -->
+			<div id='div-gpt-ad-wccftechcom38563'></div>
+		</div>
+
+		<div class="sidebar-ad">
+			<!-- TAGNAME: 300x250_AR_SB2 -->
+			<div id='div-gpt-ad-wccftechcom38564'></div>
+		</div>
+
+		
+	<section class="popular-posts sidebar-popular widget-analytics" data-event="Popular" data-page="Single">
+		<h3 class="sub-head"><span>Popular Discussions</span></h3>
+		<ul><li class="popular-post-1"><a href="https://wccftech.com/intel-12th-gen-alder-lake-mobility-cpu-roadmap-confirms-alder-lake-p-with-14-cores-alder-lake-m-with-10-cores-first-laptops-with-ddr5-support/">Intel 12th Gen Alder Lake Mobility CPU Roadmap Confirms Alder Lake-P With 14 Cores &#038; Alder Lake-M With 10 Cores, First Laptops With DDR5 Support</a><span>3538</span></li>
+<li class="popular-post-2"><a href="https://wccftech.com/intel-core-i9-12900k-alder-lake-cpu-gets-pictured-in-high-res-top-skus-to-feature-new-hardware-guided-scheduling/">Intel Core i9-12900K Alder Lake CPU Gets Pictured In High-Res, Hybrid SKUs To Feature New Hardware Guided Scheduling</a><span>1740</span></li>
+<li class="popular-post-3"><a href="https://wccftech.com/nvidia-geforce-rtx-3090-ti-flagship-gaming-graphics-card-rumored-to-feature-21-gbps-single-sided-memory-450w-tdp-new-power-connector/">NVIDIA GeForce RTX 3090 Ti Flagship Gaming Graphics Card Rumored To Feature 21 Gbps Single-Sided Memory, 450W TDP &#038; New Power Connector</a><span>1695</span></li>
+<li class="popular-post-4"><a href="https://wccftech.com/amd-radeon-rx-6600-non-xt-official-specs-performance-leak-on-par-with-geforce-rtx-3060/">AMD Radeon RX 6600 Non-XT Official Specs &#038; Performance Leak Out &#8211; Right On Par With GeForce RTX 3060</a><span>1198</span></li>
+<li class="popular-post-5"><a href="https://wccftech.com/gigabyte-z690-aorus-elite-ax-ddr4-motherboard-pictured-lga-1700-socket-with-16-phase-vrm-for-intel-alder-lake-cpus/">Gigabyte Z690 AORUS Elite AX DDR4 Motherboard Pictured, LGA 1700 Socket With 16 Phase VRM For Intel Alder Lake CPUs</a><span>1031</span></li>
+</ul>	</section>
+
+	<section class="latest-posts sidebar-deals widget-analytics" data-event="Deals (Sidebar)" data-page="Single">
+	<h3 class="sub-head"><span>Wccftech Store</span></h3>
+
+<ul>
+		
+	<li class="clearfix first">
+		<a href="https://wccftech.com/mastering-linux-and-git-certification-bundle-discount/" class="clearfix">
+			<div class="thumb"><img src="https://cdn.wccftech.com/wp-content/uploads/2021/10/Mastering-Linux-and-Git-Certification-Bundle.v1-480x270.jpg"></div>
+			<h4>Mastering Linux and Git Certification Bundle Is Up For A 98% Discount Offer &#8211; Avail Now</h4>
+		</a>
+	</li>
+	
+		
+	<li class="clearfix ">
+		<a href="https://wccftech.com/ipvanish-vpn-2-yr-subscription-discount/" class="clearfix">
+			<div class="thumb"><img src="https://cdn.wccftech.com/wp-content/uploads/2021/09/IPVanish-VPN-2-Yr-Subscription.v1-86x60.jpg"></div>
+			<h4>IPVanish VPN 2-Yr Subscription Is Up For A Massive 70% Discount Offer For A Few Days</h4>
+		</a>
+	</li>
+	
+		
+	<li class="clearfix ">
+		<a href="https://wccftech.com/black-ylr-c-s32t-hd-4k-single-camera-drone-discount/" class="clearfix">
+			<div class="thumb"><img src="https://cdn.wccftech.com/wp-content/uploads/2021/09/4K-Single-Camera-Drone.v1-86x60.jpg"></div>
+			<h4>Black YLR/C S32T HD 4K Single Camera Drone Is Up For A Massive 75% Discount Offer This Week</h4>
+		</a>
+	</li>
+	
+		
+	<li class="clearfix ">
+		<a href="https://wccftech.com/innodude-gaming-wireless-earphones-discount/" class="clearfix">
+			<div class="thumb"><img src="https://cdn.wccftech.com/wp-content/uploads/2021/09/Innodude-Gaming-Wireless-Earphones.v1-86x60.jpg"></div>
+			<h4>Innodude Gaming Wireless Earphones Can Be Yours For Just $43.99 &#8211; Avail Discount Now</h4>
+		</a>
+	</li>
+	
+		
+	<li class="clearfix ">
+		<a href="https://wccftech.com/isc2-cissp-2021-course-discount-limited/" class="clearfix">
+			<div class="thumb"><img src="https://cdn.wccftech.com/wp-content/uploads/2021/09/ISC²-CISSP-2021-Course.v1-86x60.jpg"></div>
+			<h4>(ISC)2 CISSP – 2021 Course Can Be Yours For Just $29 If You Avail This Offer Right Away</h4>
+		</a>
+	</li>
+	
+	</ul>	</section>
+
+	
+	<!-- TAGNAME: 300x600_sidebar_bot -->
+	<!-- /8095840/.2_A.38567.7_wccftech.com_tier1 -->
+	<div id='div-gpt-ad-wccftechcom38567'></div>
+
+</aside><!-- end aside class sidebar -->
+    </div><!-- end clearfix -->
+
+</main>
+
+<footer data-nosnippet>
+
+    <section class="wrap clearfix">
+				
+				
+		<div class="footer-1">
+			<!--<i class="fa fa-folder-open-o"></i>-->
+			<h3>Sections</h3>
+			<ul>
+				<li><a href="/review/">Reviews</a></li>
+				<li><a href="/videos/">Videos</a></li>
+				<li><a href="/how-to/">How To's</a></li>
+				<li><a href="/topic/exclusive/">Exclusives</a></li>
+				<li><a href="/topic/interview/">Interviews</a></li>
+				<li><a href="/topic/deals/">Deals</a></li>
+				<li><a href="/topic/entertainment/">Entertainment</a></li>
+				<li><a href="/pc-builder/">PC Builder</a></li>
+			</ul>
+		</div>
+		
+		<div class="footer-2">
+			<!--<i class="fa fa-hashtag"></i>-->
+			<h3>Topics</h3>
+			<ul>
+				<li><a href="/topic/hardware/">Hardware</a></li>
+				<li><a href="/topic/games/">Gaming</a></li>
+				<li><a href="/topic/gadgets/">Mobile</a></li>
+				<li><a href="/topic/finance/">Finance</a></li>
+				<li><a href="/topic/software/">Software</a></li>
+				<li><a href="/topic/security/">Security</a></li>
+				<li><a href="/topic/web/">Web</a></li>
+			</ul>
+		</div>
+		
+		<div class="footer-3">
+			<!--<i class="fa fa-info"></i>-->
+			<h3>Know Us</h3>
+			<ul>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/advertise/">Advertise</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><a href="/tip-us/">Tip Us</a></li>
+				<li><a href="/jobs/">Careers</a></li>
+				<li><a href="/legal-disclaimer/">Terms of Use</a></li>
+				<li><a href="/privacy-policy/">Privacy &amp; Cookie Policy</a></li>
+				<li><a href="/ethics-statement/">Ethics Statement</a></li>
+				<li><a href="/moderation/">Appeal Moderation</a></li>
+				<li>
+					<script>
+					(function waitGEO() {
+					    var readyGEO;
+					    if (window['UnicI'] && window['UnicI'].geo && window['UnicI'].geo !== '-' ) {
+					        readyGEO = true;
+					        console.log(window['UnicI'].geo);
+					        if (window['UnicI'].geo === 'EU') {
+					            if(document.getElementById("unic-gdpr")) {
+					              document.getElementById("unic-gdpr").style.display = 'block';
+					            }
+					        }
+					        if (window['UnicI'].geo === 'CA') {
+					            if(document.getElementById("unic-ccpa")) {
+					              document.getElementById("unic-ccpa").style.display = 'block';
+					            }
+					        }
+					    }
+					    if (!readyGEO) {
+					        setTimeout(waitGEO, 200);
+					    }
+					})();
+					</script>
+					<a id='unic-gdpr' onclick='__tcfapi("openunic");return false;' style='display:none;cursor:pointer;'>Change Ad Consent</a>
+					<a id='unic-ccpa' onclick="window.__uspapi('openunic')" style='display:none;cursor:pointer;'>Do not sell my data</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="footer-4">
+			<!--<i class="fa"></i>-->
+			<h3>Follow US</h3>
+			<ul>
+				<li class="twitter"><a href="https://twitter.com/wccftech"><i class="icon-twitter"></i> Twitter</a></li>
+				<li class="facebook"><a href="https://www.facebook.com/wccftech"><i class="icon-facebook"></i> Facebook</a></li>
+				<li class="youtube"><a href="https://www.youtube.com/wccftechtv"><i class="icon-youtube"></i> YouTube</a></li>
+			</ul><br><br>
+
+			<div>
+				<h3 style="margin-bottom: 10px;">Subscribe</h3>
+				<p class="status">For latest tech news in your inbox, once a day!</p>
+				<form class="traqli" data-page="Single">
+					<input type="email" id="sub_email" name="sub_email" placeholder="Email address" required /><input type="submit" value="Subscribe">
+					<input type="hidden" name="action" value="submit_traqli">
+				</form>
+			</div>
+		</div>
+
+		<div class="copyright">
+			<span class="logo"><a href="https://wccftech.com/" rel="home">Wccftech</a></span>
+			<span class="text">
+				&copy; 2021 WCCF TECH INC. All rights reserved.
+			</span>
+			<span class="preload-images"></span>
+		</div>
+
+		<div class="disclaimer">Some posts on Wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com</div>
+
+		
+    </section>
+</footer>
+
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"JP6Z5G2P43","search_api_key":"4784f5ddc534ec220ede8a86867f33c7","powered_by_enabled":false,"query":"","autocomplete":{"sources":[{"index_id":"searchable_posts","index_name":"wp_searchable_posts","label":"All posts","admin_name":"All posts","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"wp_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script type='text/javascript' src='https://cdn.wccftech.com/wp-content/themes/wccf2016/script.js?ver=1632502839' id='wccf-script-js'></script>
+<script type='text/javascript' src='https://cdn.wccftech.com/wp-content/themes/wccf2016/footer.js?ver=1632502839' id='wccf-footer-js'></script>
+
+<script type="text/javascript" src="https://s.skimresources.com/js/31026X886738.skimlinks.js"></script>
+<div id="amzn-assoc-ad-54373194-91c7-4e61-b9a0-12cad6711106"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=54373194-91c7-4e61-b9a0-12cad6711106"></script>
+
+<!-- /8095840/.2_12459.46_wccftech.com_tier1 -->
+<div id='div-gpt-ad-1559306343883-0' style='height:1px; width:1px;'>
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559306343883-0'); });</script>
+</div>
+
+<script id="dsq-count-scr" src="//wccftech.disqus.com/count.js" async></script>
+
+<script type="text/javascript">
+;!function(){
+    window.PianoESPConfig = {
+        id: 301
+    }
+    var e=document.createElement("script");e.setAttribute("id","pnesplucidsdksel"),e.type="text/javascript",e.src="//api-esp.piano.io/public/sdk/v04/sdk.js?v="+(localStorage&&localStorage.lucidsdkver||"xxx"),e.async=!0,document.getElementsByTagName("script")[0].parentNode.appendChild(e);
+}();
+</script>
+
+
+<style>
+	.mpp-toc-container { max-width: 100%; padding: 0; width: 100%; border: none; margin: 0; }
+	.mpp-toc-title h2 { text-align: left; margin-top: 0; margin-bottom: 0; color: white; }
+	.mpp-toc-title { padding: 10px 15px; background: #EB0254; color: white; }
+	.mpp-toc { padding: 15px; background: white; border: 1px solid #EB0254; }
+	.mpp-toc-container ul li { margin-bottom: 5px; }
+	.mpp-page-link { display: inline; float: right; }
+	.mpp-page-link a { color: white }
+	nav.mpp-post-navigation .nav-links a { font-size: 80%; text-transform: uppercase; padding: 5px 0; width: auto; }
+	nav.mpp-post-navigation .nav-links a:hover { border: none; text-decoration: underline; }
+	nav.mpp-post-navigation .nav-links a[rel="next"]:after { content: '\00bb'; padding-left: 10px; }
+	nav.mpp-post-navigation .nav-links a[rel="previous"]:before { content: '\00ab'; padding-right: 10px; }
+</style>
+
+<script src="//dsh7ky7308k4b.cloudfront.net/autoads/wccftechcom-single.min.js"></script>
+
+<style>
+.qc-cmp-persistent-link {display: none !important;}
+</style>
+</body>
+</html>

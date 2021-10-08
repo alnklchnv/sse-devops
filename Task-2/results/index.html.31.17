@@ -1,0 +1,1080 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<link rel='dns-prefetch' href='//bigeasymagazine.b-cdn.net' /><style>
+	/* Custom BSA_PRO Styles */
+
+	/* fonts */
+
+	/* form */
+	.bsaProOrderingForm {   }
+	.bsaProInput input,
+	.bsaProInput input[type='file'],
+	.bsaProSelectSpace select,
+	.bsaProInputsRight .bsaInputInner,
+	.bsaProInputsRight .bsaInputInner label {   }
+	.bsaProPrice  {  }
+	.bsaProDiscount  {   }
+	.bsaProOrderingForm .bsaProSubmit,
+	.bsaProOrderingForm .bsaProSubmit:hover,
+	.bsaProOrderingForm .bsaProSubmit:active {   }
+
+	/* alerts */
+	.bsaProAlert,
+	.bsaProAlert > a,
+	.bsaProAlert > a:hover,
+	.bsaProAlert > a:focus {  }
+	.bsaProAlertSuccess {  }
+	.bsaProAlertFailed {  }
+
+	/* stats */
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-slice.ct-donut { stroke: #673AB7 !important; }
+
+	.bsaStatsWrapper  .ct-chart .ct-series.ct-series-a .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-slice.ct-donut { stroke: #FBCD39 !important; }
+
+	/* Custom CSS */
+	
+</style>
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Ethics Of AI And Death - Big Easy Magazine</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The Ethics Of AI And Death - Big Easy Magazine" />
+	<meta property="og:description" content="AI can now accurately predict death, but is that a prediction we want to hear? In almost every industry, artificial intelligence (AI) is on the fast track to outpacing human [&hellip;]" />
+	<meta property="og:url" content="https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/" />
+	<meta property="og:site_name" content="Big Easy Magazine" />
+	<meta property="article:published_time" content="2020-08-10T15:09:55+00:00" />
+	<meta property="og:image" content="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="900" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="bigeasy">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="4 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bigeasymagazine.com/#website","url":"https://www.bigeasymagazine.com/","name":"Big Easy Magazine","description":"Unapologetically Progressive. Uniquely New Orleans","potentialAction":[{"@type":"SearchAction","target":"https://www.bigeasymagazine.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/#primaryimage","inLanguage":"en-US","url":"https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor.jpg","width":1600,"height":900},{"@type":"WebPage","@id":"https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/#webpage","url":"https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/","name":"The Ethics Of AI And Death - Big Easy Magazine","isPartOf":{"@id":"https://www.bigeasymagazine.com/#website"},"primaryImageOfPage":{"@id":"https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/#primaryimage"},"datePublished":"2020-08-10T15:09:55+00:00","dateModified":"2020-08-10T15:09:55+00:00","author":{"@id":"https://www.bigeasymagazine.com/#/schema/person/9394df0b909afe0bd50cf9dbc0b97fa3"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/"]}]},{"@type":"Person","@id":"https://www.bigeasymagazine.com/#/schema/person/9394df0b909afe0bd50cf9dbc0b97fa3","name":"bigeasy","image":{"@type":"ImageObject","@id":"https://www.bigeasymagazine.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9bcba9eeb3205d3335a8d977318a8ef9?s=96&d=blank&r=g","caption":"bigeasy"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//clientcdn.pushengage.com' />
+<link rel='dns-prefetch' href='//fh-kit.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Big Easy Magazine &raquo; Feed" href="https://www.bigeasymagazine.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Big Easy Magazine &raquo; Comments Feed" href="https://www.bigeasymagazine.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Big Easy Magazine &raquo; iCal Feed" href="https://www.bigeasymagazine.com/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bigeasymagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- bigeasymagazine.com is managing ads with Advanced Ads 1.26.0 – https://wpadvancedads.com/ --><script>
+			advanced_ads_ready=function(){var e,t=[],n="object"==typeof document&&document,d=n&&n.documentElement.doScroll,o="DOMContentLoaded",a=n&&(d?/^loaded|^c/:/^loaded|^i|^c/).test(n.readyState);return!a&&n&&(e=function(){for(n.removeEventListener(o,e),window.removeEventListener("load",e),a=1;e=t.shift();)e()},n.addEventListener(o,e),window.addEventListener("load",e)),function(e){a?setTimeout(e,0):t.push(e)}}();		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://bigeasymagazine.b-cdn.net/wp-includes/css/dist/block-library/style.min.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_main_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/style.css?v=4.2.74&#038;ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_user_panel-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/user-panel.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_template_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/all.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_animate_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/animate.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_chart_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/chart.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_carousel_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/bsa.carousel.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='buy_sell_ads_pro_materialize_stylesheet-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/material-design.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/ui-datapicker.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hm-wcdon-frontend-styles-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/donations-for-woocommerce/css/frontend.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.8.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.8.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='hamburger.css-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/assets/css/wpr-hamburger.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/assets/css/wprmenu.css?ver=3.1.4' type='text/css' media='all' />
+<style id='wprmenu.css-inline-css' type='text/css'>
+@media only screen and ( max-width: 980px ) {html body div.wprm-wrapper {overflow: scroll;}html body div.wprm-overlay{ background: rgba(0,0,0,0.83) }#mg-wprm-wrap ul li {border-top: solid 1px rgba(255,255,255,0.05);border-bottom: solid 1px rgba(255,255,255,0.05);}#wprmenu_bar {background-image: url();background-size: cover ;background-repeat: repeat;}#wprmenu_bar {background-color: #39014f;}html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {color: #FFFFFF;}#wprmenu_bar .menu_title,#wprmenu_bar .wprmenu_icon_menu {color: #FFFFFF;}#wprmenu_bar .menu_title {font-size: 20px;font-weight: normal;}#mg-wprm-wrap li.menu-item a {font-size: 15px;text-transform: uppercase;font-weight: normal;}#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {font-size: 15px;text-transform: uppercase;font-weight: normal;}#mg-wprm-wrap li.current-menu-item > a {background: #8224e3;}#mg-wprm-wrap li.current-menu-item > a,#mg-wprm-wrap li.current-menu-item span.wprmenu_icon{color: #FFFFFF !important;}#mg-wprm-wrap {background-color: #39014f;}.cbp-spmenu-push-toright,.cbp-spmenu-push-toright .mm-slideout {left: 80% ;}.cbp-spmenu-push-toleft {left: -80% ;}#mg-wprm-wrap.cbp-spmenu-right,#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right.custom,#mg-wprm-wrap.cbp-spmenu-left.custom,.cbp-spmenu-vertical {width: 80%;max-width: 400px;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,div#mg-wprm-wrap ul li span.wprmenu_icon {color: #FFFFFF !important;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {background: #000000;color: #FFFFFF !important;}div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {color: #FFFFFF !important;}.wprmenu_bar .hamburger-inner,.wprmenu_bar .hamburger-inner::before,.wprmenu_bar .hamburger-inner::after {background: #FFFFFF;}.wprmenu_bar .hamburger:hover .hamburger-inner,.wprmenu_bar .hamburger:hover .hamburger-inner::before,.wprmenu_bar .hamburger:hover .hamburger-inner::after {background: #FFFFFF;}div.wprmenu_bar div.hamburger{padding-right: 6px !important;}#wprmenu_menu.left {width:80%;left: -80%;right: auto;}#wprmenu_menu.right {width:80%;right: -80%;left: auto;}html body div#wprmenu_bar {height : 42px;}#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right,#mg-widgetmenu-wrap.cbp-spmenu-widget-left,#mg-widgetmenu-wrap.cbp-spmenu-widget-right {top: 42px !important;}.wprmenu_bar .hamburger {float: left;}.wprmenu_bar #custom_menu_icon.hamburger {top: 0px;left: 0px;float: left !important;background-color: #CCCCCC;}.top-bar-right{ display: none !important; }.wpr_custom_menu #custom_menu_icon {display: block;}html { padding-top: 42px !important; }#wprmenu_bar,#mg-wprm-wrap { display: block; }div#wpadminbar { position: fixed; }}
+</style>
+<link rel='stylesheet' id='wpr_icons-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/inc/assets/icons/wpr-icons.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='subscriptio_frontend-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/plugins/subscriptio/assets/css/frontend.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='big-easy-style-css'  href='https://bigeasymagazine.b-cdn.net/wp-content/themes/big-easy/style.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fh-buttons-css'  href='https://fh-kit.com/buttons/v2/?blue=1361E7' type='text/css' media='all' />
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/jquery-1.12.4-wp.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.bigeasymagazine.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-includes/js/shortcode.min.js?ver=5.5' id='shortcode-js'></script>
+<script type='text/javascript' src='https://www.bigeasymagazine.com/wp-admin/js/media-upload.min.js?ver=5.5' id='media-upload-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/script.js?ver=5.5' id='buy_sell_ads_pro_js_script-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/jquery.viewportchecker.js?ver=5.5' id='buy_sell_ads_pro_viewport_checker_js_script-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/chart.js?ver=5.5' id='buy_sell_ads_pro_chart_js_script-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/bsa.carousel.js?ver=5.5' id='buy_sell_ads_pro_carousel_js_script-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/jquery.simplyscroll.js?ver=5.5' id='buy_sell_ads_pro_simply_scroll_js_script-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/assets/js/modernizr.custom.js?ver=3.1.4' id='modernizr-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/assets/js/jquery.touchSwipe.min.js?ver=3.1.4' id='touchSwipe-js'></script>
+<script type='text/javascript' id='wprmenu.js-js-extra'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"no","from_width":"980","push_width":"400","menu_width":"80","parent_click":"yes","swipe":"yes","enable_overlay":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/wp-responsive-menu/assets/js/wprmenu.js?ver=3.1.4' id='wprmenu.js-js'></script>
+<script type='text/javascript' id='subscriptio_frontend-js-extra'>
+/* <![CDATA[ */
+var subscriptio_vars = {"confirm_pause":"Are you sure you want to pause this subscription?","confirm_resume":"Are you sure you want to resume this subscription?","confirm_cancel":"Are you sure you want to cancel this subscription?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/subscriptio/assets/js/frontend.js?ver=2.3.8' id='subscriptio_frontend-js'></script>
+<link rel="https://api.w.org/" href="https://www.bigeasymagazine.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.bigeasymagazine.com/wp-json/wp/v2/posts/94099" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bigeasymagazine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bigeasymagazine.b-cdn.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5" />
+<meta name="generator" content="WooCommerce 4.8.0" />
+<link rel='shortlink' href='https://www.bigeasymagazine.com/?p=94099' />
+<link rel="alternate" type="application/json+oembed" href="https://www.bigeasymagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bigeasymagazine.com%2F2020%2F08%2F10%2Fthe-ethics-of-ai-and-death%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.bigeasymagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bigeasymagazine.com%2F2020%2F08%2F10%2Fthe-ethics-of-ai-and-death%2F&#038;format=xml" />
+<meta name="wot-verification" content="661574447964722596b6"/><style type="text/css" media="screen">
+   .woocommerce #customer_details .col-1,.woocommerce #customer_details .col-2{
+    width: 48%;
+   }
+    .cart-collaterals .cross-sells{
+    display: none;
+   }
+   
+@media (max-width:640px) {
+     .woocommerce #customer_details .col-1,.woocommerce #customer_details .col-2{
+    width: 100% !important;
+   }
+}
+</style>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.bigeasymagazine.com"><link rel="https://theeventscalendar.com/" href="https://www.bigeasymagazine.com/wp-json/tribe/events/v1/" />
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = 'fbfcd58644';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.bigeasymagazine.com/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="amphtml" href="https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/?amp"><link rel="icon" href="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/cropped-site-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/cropped-site-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/cropped-site-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/cropped-site-icon-270x270.png" />
+	<link href="https://fonts.googleapis.com/css?family=Exo|Open+Sans:300,400" rel="stylesheet">
+	<link rel="stylesheet" href="https://bigeasymagazine.b-cdn.net/wp-content/themes/big-easy/font-awesome.min.css">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7760645046851241",
+    enable_page_level_ads: true
+  });
+</script>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+</head>
+
+<body class="post-template-default single single-post postid-94099 single-format-standard theme-big-easy woocommerce-no-js tribe-no-js elementor-default elementor-kit-106051 aa-prefix-bigea-">
+
+	<header class="top-section sticky" id="navbar">
+		<!--<div class="top-banner"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/700x60.png"></div>-->
+	<div class="top-bar-left"><a href="https://www.bigeasymagazine.com" data-wpel-link="internal">
+		<img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/05/big-easy-main-logo-1.png">
+	</a></div>
+
+	<div class="top-bar-right">
+		<div class="menu-nav-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-75584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75584"><a href="https://www.bigeasymagazine.com/" data-wpel-link="internal">Home</a></li>
+<li id="menu-item-87824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-87824"><a href="https://www.bigeasymagazine.com/category/monthly" data-wpel-link="internal">Editions</a>
+<ul class="sub-menu">
+	<li id="menu-item-89296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89296"><a href="https://www.bigeasymagazine.com/category/monthly/december-2019/" data-wpel-link="internal">December 2019</a></li>
+	<li id="menu-item-89297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89297"><a href="https://www.bigeasymagazine.com/category/monthly/october-2019/" data-wpel-link="internal">October 2019</a></li>
+	<li id="menu-item-89298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89298"><a href="https://www.bigeasymagazine.com/category/monthly/september-2019/" data-wpel-link="internal">September 2019</a></li>
+	<li id="menu-item-89299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89299"><a href="https://www.bigeasymagazine.com/category/monthly/august-2019/" data-wpel-link="internal">August 2019</a></li>
+	<li id="menu-item-89300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89300"><a href="https://www.bigeasymagazine.com/category/monthly/july-2019/" data-wpel-link="internal">July 2019</a></li>
+	<li id="menu-item-89301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89301"><a href="https://www.bigeasymagazine.com/category/monthly/june-2019/" data-wpel-link="internal">June 2019</a></li>
+	<li id="menu-item-89302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89302"><a href="https://www.bigeasymagazine.com/category/monthly/may-2019/" data-wpel-link="internal">May 2019</a></li>
+	<li id="menu-item-89303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89303"><a href="https://www.bigeasymagazine.com/category/monthly/april-2019/" data-wpel-link="internal">April 2019</a></li>
+	<li id="menu-item-89304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89304"><a href="https://www.bigeasymagazine.com/category/monthly/march-2019/" data-wpel-link="internal">March 2019</a></li>
+	<li id="menu-item-89305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89305"><a href="https://www.bigeasymagazine.com/category/monthly/february-2019/" data-wpel-link="internal">February 2019</a></li>
+	<li id="menu-item-89306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89306"><a href="https://www.bigeasymagazine.com/category/monthly/january-2019/" data-wpel-link="internal">January 2019</a></li>
+	<li id="menu-item-89307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89307"><a href="https://www.bigeasymagazine.com/category/monthly/december-2018/" data-wpel-link="internal">December 2018</a></li>
+	<li id="menu-item-89308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89308"><a href="https://www.bigeasymagazine.com/category/november-2018/" data-wpel-link="internal">November 2018</a></li>
+	<li id="menu-item-89309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89309"><a href="https://www.bigeasymagazine.com/category/october-2018/" data-wpel-link="internal">October 2018</a></li>
+	<li id="menu-item-89310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89310"><a href="https://www.bigeasymagazine.com/category/september-2018/" data-wpel-link="internal">September 2018</a></li>
+	<li id="menu-item-89311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89311"><a href="https://www.bigeasymagazine.com/category/august/" data-wpel-link="internal">August 2018</a></li>
+	<li id="menu-item-89312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89312"><a href="https://www.bigeasymagazine.com/category/july-2018/" data-wpel-link="internal">July 2018</a></li>
+	<li id="menu-item-89313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89313"><a href="https://www.bigeasymagazine.com/category/june-2018/" data-wpel-link="internal">June 2018</a></li>
+</ul>
+</li>
+<li id="menu-item-75590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75590"><a href="#category-modal">Categories</a></li>
+<li id="menu-item-86424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86424"><a href="https://uniquelyneworleans.net" data-wpel-link="external" target="_blank" rel="external noopener">Shop</a></li>
+<li id="menu-item-89526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89526"><a href="#">Support Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-85008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85008"><a href="https://www.bigeasymagazine.com/monthly-donations/" data-wpel-link="internal">Donate</a></li>
+	<li id="menu-item-80821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80821"><a href="https://www.bigeasymagazine.com/big-easy-magazine-memberships/" data-wpel-link="internal">Memberships</a></li>
+	<li id="menu-item-90665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90665"><a href="https://www.bigeasymagazine.com/add-some-progress-to-your-inbox-2/" data-wpel-link="internal">Subscribe Now</a></li>
+</ul>
+</li>
+<li id="menu-item-75586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75586"><a href="https://www.bigeasymagazine.com/advertise-with-big-easy-magazine-2/" data-wpel-link="internal">Advertise</a></li>
+<li id="menu-item-85227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85227"><a href="https://www.bigeasymagazine.com/events/" data-wpel-link="internal">Calendar</a></li>
+<li id="menu-item-75585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75585"><a href="https://www.bigeasymagazine.com/about-us/" data-wpel-link="internal">About Us</a></li>
+<li id="menu-item-75587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75587"><a href="https://www.bigeasymagazine.com/74699-2/" data-wpel-link="internal">Contact</a></li>
+<li id="menu-item-89446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89446"><a href="https://www.bigeasymagazine.com/history-tours/" data-wpel-link="internal">Things To Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-89418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89418"><a href="https://www.bigeasymagazine.com/walking-tours/" data-wpel-link="internal">Walking Tours</a></li>
+	<li id="menu-item-89415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89415"><a href="https://www.bigeasymagazine.com/history-tours/" data-wpel-link="internal">History Tours</a></li>
+	<li id="menu-item-89417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89417"><a href="https://www.bigeasymagazine.com/haunted-tours/" data-wpel-link="internal">Haunted Tours</a></li>
+	<li id="menu-item-89411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89411"><a href="https://www.bigeasymagazine.com/swamp-tours/" data-wpel-link="internal">Swamp Tours</a></li>
+	<li id="menu-item-89414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89414"><a href="https://www.bigeasymagazine.com/plantation-tours/" data-wpel-link="internal">Plantation Tours</a></li>
+	<li id="menu-item-89413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89413"><a href="https://www.bigeasymagazine.com/food-tours/" data-wpel-link="internal">Food Tours</a></li>
+	<li id="menu-item-89416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89416"><a href="https://www.bigeasymagazine.com/music-tours/" data-wpel-link="internal">Music Tours</a></li>
+</ul>
+</li>
+</ul></div>		<h1><span>Unapologetically Progressive.<br>Uniquely New Orleans.</span></h1>
+	</div>
+	</header>
+
+	<div class="amp-header"><a href="https://www.bigeasymagazine.com" data-wpel-link="internal"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/05/big-easy-main-logo-1.png"></a></div>
+
+	
+
+<div id="page" class="site">
+
+	
+
+	<div id="content" class="site-content">
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		<div class="mobile-top">
+	<div id="bsa-block-332--208" class="bsaProContainerNew bsaProContainer-2 bsa-block-332--208 bsa-pro-col-1" style="display: block !important"><div class="bsaProItems bsaGridNoGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a class="bsaProItem__url" href="https://www.bigeasymagazine.com?bsa_pro_id=102&amp;bsa_pro_url=1" target="_blank" data-wpel-link="internal"><div class="bsaProItemInner__img" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1610656852-Big Easy Banner Ad.png&#39;)"></div></a></div></div></div></div></div></div><script>
+			(function($){
+				function bsaProResize() {
+					var sid = "2";
+					var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+					var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+					var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+					var parentWidth = "332";
+					var parentHeight = "208";
+					var objectWidth = object.width();
+					if ( objectWidth < parentWidth ) {
+						var scale = objectWidth / parentWidth;
+						if ( objectWidth > 0 && objectWidth !== 100 && scale > 0 ) {
+							animateThumb.height(parentHeight * scale);
+							innerThumb.height(parentHeight * scale);
+							object.height(parentHeight * scale);
+						} else {
+							animateThumb.height(parentHeight);
+							innerThumb.height(parentHeight);
+							object.height(parentHeight);
+						}
+					} else {
+						animateThumb.height(parentHeight);
+						innerThumb.height(parentHeight);
+						object.height(parentHeight);
+					}
+				}
+				$(document).ready(function(){
+					bsaProResize();
+					$(window).resize(function(){
+						bsaProResize();
+					});
+				});
+			})(jQuery);
+		</script><style>
+		.bsaProContainer-2 .bsaProItem {
+			clear: both;
+			width: 100% !important;
+			margin-left: 0 !important;
+			margin-right: 0 !important;
+		}
+		</style><div class="bottomLink">Powered by <a target="_blank" href="https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010?ref=bigeasy" title="Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager" data-wpel-link="external" rel="external noopener">Ads Pro</a></div>						<script>
+							(function ($) {
+								var bsaProContainer = $('.bsaProContainer-2');
+								var number_show_ads = "0";
+								var number_hide_ads = "0";
+								if ( number_show_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeIn(); }, number_show_ads * 1000);
+								}
+								if ( number_hide_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeOut(); }, number_hide_ads * 1000);
+								}
+							})(jQuery);
+						</script>
+							
+</div>
+
+<article id="post-94099" class="post-94099 post type-post status-publish format-standard has-post-thumbnail hentry category-guest-posts category-health-care tag-ai tag-ethics tag-healthcare tag-molly-crockett tag-technology">
+	<header class="entry-header">
+		
+<div class="ad-row-01">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:100%;height:90px"
+     data-ad-client="ca-pub-7760645046851241"
+     data-ad-slot="9503005338"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>		<div class="loop-category">
+						<span><a href="https://www.bigeasymagazine.com/category/guest-posts/" alt="View all posts in Guest Posts" data-wpel-link="internal">Guest Posts</a></span> <span><a href="https://www.bigeasymagazine.com/category/health-care/" alt="View all posts in Health Care" data-wpel-link="internal">Health Care</a></span>				</div>
+
+		<h1 class="entry-title">The Ethics Of AI And Death</h1>
+<hr style="background-color: #39014f;height: 2px;width: 150px;">
+
+			<div class="entry-meta">
+				<p><a href="" data-wpel-link="internal">Molly Crockett- Guest Contributor</a></p>
+				August 10th 2020				
+			</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	
+
+	<div class="entry-content">
+		<p><img class="aligncenter size-large wp-image-94100" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor-1024x576.jpg" alt="" width="640" height="360" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor-1024x576.jpg 1024w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor-300x169.jpg 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor-768x432.jpg 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor-600x338.jpg 600w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2020/07/heart-monitor.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />
+<p style="text-align: center;"><i><span style="font-weight: 400;">AI can now accurately predict death, but is that a prediction we want to hear?</span></i>
+<p><span style="font-weight: 400;">In almost every industry, artificial intelligence (AI) is on the fast track to outpacing human endeavor. Machine learning technologies are already </span><a href="https://wiredelta.com/5-things-ai-does-better-than-humans/" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">better than the average person at gaming, creating content and even building AI</span></a><span style="font-weight: 400;">, and it appears they are only going from strength to strength.</span>
+<p><span style="font-weight: 400;">As a result of their developing intelligence, the most common question AI critics have been asking is whether it’s ethical to be putting ourselves out of a job. </span><a href="https://www.youtube.com/watch?v=7Pq-S557XQU" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">YouTube video essayist CGP Grey put it best</span></a><span style="font-weight: 400;"> when he said that, by investing in AI development, we are steaming ahead towards a market in which “humans need not apply” without adequately preparing the population for that scenario.</span><div id="bsa-block-336--280" class="bsaProContainerNew bsaProContainer-5 bsa-block-336--280 bsa-pro-col-1" style="display: block !important"><div class="bsaProHeader" style="background-color:"><h3 class="bsaProHeader__title" style="color:"><span>-ADVERTISEMENT-</span></h3><a class="bsaProHeader__formUrl" href="https://www.bigeasymagazine.com/ad-buy-test/?sid=5" target="_blank" style="color:" data-wpel-link="internal"><span></span></a></div><div class="bsaProItems bsaGridGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a class="bsaProItem__url" href="https://www.bigeasymagazine.com?bsa_pro_id=103&amp;bsa_pro_url=1" target="_blank" data-wpel-link="internal"><div class="bsaProItemInner__img" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1610656890-Big Easy Banner Ad.png&#39;)"></div></a></div></div></div></div></div></div><script>
+			(function($){
+				function bsaProResize() {
+					var sid = "5";
+					var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+					var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+					var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+					var parentWidth = "336";
+					var parentHeight = "280";
+					var objectWidth = object.width();
+					if ( objectWidth < parentWidth ) {
+						var scale = objectWidth / parentWidth;
+						if ( objectWidth > 0 && objectWidth !== 100 && scale > 0 ) {
+							animateThumb.height(parentHeight * scale);
+							innerThumb.height(parentHeight * scale);
+							object.height(parentHeight * scale);
+						} else {
+							animateThumb.height(parentHeight);
+							innerThumb.height(parentHeight);
+							object.height(parentHeight);
+						}
+					} else {
+						animateThumb.height(parentHeight);
+						innerThumb.height(parentHeight);
+						object.height(parentHeight);
+					}
+				}
+				$(document).ready(function(){
+					bsaProResize();
+					$(window).resize(function(){
+						bsaProResize();
+					});
+				});
+			})(jQuery);
+		</script><div class="bottomLink">Powered by <a target="_blank" href="https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010?ref=bigeasy" title="Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager" data-wpel-link="external" rel="external noopener">Ads Pro</a></div>						<script>
+							(function ($) {
+								var bsaProContainer = $('.bsaProContainer-5');
+								var number_show_ads = "0";
+								var number_hide_ads = "0";
+								if ( number_show_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeIn(); }, number_show_ads * 1000);
+								}
+								if ( number_hide_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeOut(); }, number_hide_ads * 1000);
+								}
+							})(jQuery);
+						</script>
+					
+<p><span style="font-weight: 400;">However, there is another ethical question to ask about superhuman AI: do we truly want all our questions answered? Is there some knowledge that, given the option, we’d actually prefer not to have? Perhaps the most profound piece of knowledge any one of us could have would be knowing when we die. The idea that we could predict death with 100% accuracy has been the subject of art and literature from Ancient Greece to modern science fiction and beyond, and it’s no wonder. The preservation of life is an evolutionary instinct and knowing whether and when that life will end is necessarily part of preserving it.</span>
+<h3><b>AI And Healthcare</b></h3>
+<p><span style="font-weight: 400;">With regard to preserving and prolonging life, AI already has a very good track record. Frances AI in the hands of medical experts is a truly powerful tool to detect and deter disease. Deep learning technology based on retinal scans was shown to be </span><a href="https://www.nature.com/articles/s41551-018-0195-0.epdf?referrer_access_token=MmJiEJqflvMytkA9L7syDtRgN0jAjWel9jnR3ZoTv0OMsbBDq-7d5VZef-dAA8S4RQsQYwNgp-ieQ2mtltSWAn_CpW5mu7D8U-0vja2MemiWGJtjzRYqwPtYhb1UggCxd1hR9NoxBTW5kkJs3SiwSMDZzjV8SIVCc9-jWFgg8ecUaObJbYOZ0ITurUKs_Rf-TnsMnJVWvQQe0lH_CR8jQuIZv_ENU5oEoPppoJtFSa8zl2eXuC19poETvwemXPem-SkVR5UgjJ8nZDRGoLEMtQ%3D%3D&amp;tracking_referrer=www.livescience.com" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">a good indicator of cardiovascular health and a predictor of potential heart attacks</span></a><span style="font-weight: 400;">, and also </span><a href="https://www.ncbi.nlm.nih.gov/pubmed/29224926." data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">supremely accurate at indicating diabetes</span></a><span style="font-weight: 400;"> with the addition of expert assessment.</span>
+<p><span style="font-weight: 400;">The greatest advantage of these early warning systems was the ability to anticipate treatment plans, particularly for conditions with potentially precipitous declines. One such disease is Alzheimer’s, the appearance of which can be hard to notice before the effects are irreversible.  That’s why </span><a href="https://www.sciencedirect.com/science/article/pii/S0197458017302294" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">a 2017 study</span></a><span style="font-weight: 400;"> attempted to use machine learning to identify incipient Alzheimer’s dementia in patients. The system predicted the progression of dementia within the next 24 months and was accurate 84% of the time.</span>
+<h2><b>AI And Death</b></h2>
+<p><span style="font-weight: 400;">Considering all of this, it’s not all that surprising that AI is getting very good at predicting death. The most-quoted example of this was the University of Nottingham’s study last year, which developed a deep- and machine-learning algorithm to predict premature death in patients aged 40 to 69. </span>
+<p><span style="font-weight: 400;">Based on health data from 2006 to 2010 from over half a million people within the age range, the deep learning program was “</span><a href="https://www.eurekalert.org/pub_releases/2019-03/uon-aic032519.php" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">significantly more accurate in predicting death than the standard prediction models developed by a human expert.</span></a><span style="font-weight: 400;">” What this means in numbers is that the two AI algorithms were able to accurately identify 76% and 64% of subjects who died, respectively, while the human-generated prediction model predicted only 44%.</span>
+<p><span style="font-weight: 400;">One of the lessons from the University of Nottingham study is that AI can be used to enhance human predictive models. The two systems used in the study arrived at their predictions by looking at different variables than the human model. While the human model leaned heavily on the ethnicity, gender, age, and physical activity of the subjects, one algorithm focussed on factors like body fat percentage and fruit and vegetable intake, while the most accurate algorithm looked mostly at job-related hazards and the consumption of alcohol and medication. </span>
+<p><span style="font-weight: 400;">This means, that far from replacing scientists and healthcare professionals, AI can be used to shed new light on old problems, creating a partnership of humans and machines that could lead to new innovations.</span>
+<h2><b>The Ethical Question</b></h2>
+<p><span style="font-weight: 400;">However, the question still stands, how much do we want to know about our own mortality? Of course, the ability to identify life-risking habits and behaviors is an invaluable way to prevent unnecessary death and ease the burden on the healthcare industry worldwide. As systems become more sophisticated they will likely be able to identify specific actions and individual decisions that lead to a prolonged or foreshortened life. Insofar as prolonging life is the purpose of healthcare, AI certainly has a future as a tool to enhance the vital work of doctors and health scientists.</span>
+<p><span style="font-weight: 400;">But at what point do we begin to shape our lives around the algorithm? Progressing to its logical conclusion, AI systems will likely soon have the ability to accurately predict the life expectancy of anyone. If you know you have 40 more years to live, how will that change the way you live those 40 years? What if it was 2 years? </span>
+<p><span style="font-weight: 400;">Furthermore, is it possible that we are building a world in which we allow the predictions of machines to interfere with our ethical choices? A pregnant mother could know with near certainty that their baby will be born disabled from the moment of conception. </span><a href="http://www.bbc.co.uk/ethics/abortion/philosophical/disability.shtml" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">How will that affect the ethical debate on abortion?</span></a>
+<p><span style="font-weight: 400;">I do not have the answers to any of these questions — I don’t think anyone does — but they begging to be asked. As we develop our technological abilities further, we need to assess how they affect our social and ethical lives.</span>
+<hr />
+<p><b>Sources</b>
+<ol>
+<li style="font-weight: 400;"><a href="https://wiredelta.com/5-things-ai-does-better-than-humans/" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">5 Things AI Does Better Than Humans</span></a><span style="font-weight: 400;"> (2019), WireDelta</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CGP Grey, </span><a href="https://www.youtube.com/watch?v=7Pq-S557XQU" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Humans Need Not Apply</span></a><span style="font-weight: 400;"> (2014), YouTube</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Poplin et al., </span><a href="https://www.nature.com/articles/s41551-018-0195-0.epdf?referrer_access_token=MmJiEJqflvMytkA9L7syDtRgN0jAjWel9jnR3ZoTv0OMsbBDq-7d5VZef-dAA8S4RQsQYwNgp-ieQ2mtltSWAn_CpW5mu7D8U-0vja2MemiWGJtjzRYqwPtYhb1UggCxd1hR9NoxBTW5kkJs3SiwSMDZzjV8SIVCc9-jWFgg8ecUaObJbYOZ0ITurUKs_Rf-TnsMnJVWvQQe0lH_CR8jQuIZv_ENU5oEoPppoJtFSa8zl2eXuC19poETvwemXPem-SkVR5UgjJ8nZDRGoLEMtQ%3D%3D&amp;tracking_referrer=www.livescience.com" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning</span></a><span style="font-weight: 400;"> (2018), Nature.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Schlegl et. al., </span><a href="https://www.ncbi.nlm.nih.gov/pubmed/29224926." data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Fully Automated Detection and Quantification of Macular Fluid in OCT Using Deep Learning</span></a><span style="font-weight: 400;"> (2018), PubMed.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sulantha Mathotaarachchi et. al., </span><a href="https://www.sciencedirect.com/science/article/pii/S0197458017302294" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Identifying incipient dementia individuals using machine learning and amyloid imaging</span></a><span style="font-weight: 400;"> (2017), ScienceDirect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">University of Nottingham, </span><a href="https://www.eurekalert.org/pub_releases/2019-03/uon-aic032519.php" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Artificial intelligence can predict premature death, study finds </span></a><span style="font-weight: 400;">(2019), EurekAlert!</span></li>
+<li style="font-weight: 400;"><a href="http://www.bbc.co.uk/ethics/abortion/philosophical/disability.shtml" data-wpel-link="external" target="_blank" rel="external noopener"><span style="font-weight: 400;">Ethics guide: Disability in the foetus</span></a><span style="font-weight: 400;"> (2014), BBC.</span></li>
+</ol>
+<hr />
+<p><i><span style="font-weight: 400;">Molly Crockett writes for </span></i><a href="https://ukwritings.com/do-my-coursework" data-wpel-link="external" target="_blank" rel="external noopener"><i><span style="font-weight: 400;">UK writings</span></i></a><i><span style="font-weight: 400;"> and </span></i><a href="https://academized.com/writing-services/cheap-research-paper" data-wpel-link="external" target="_blank" rel="external noopener"><i><span style="font-weight: 400;">Academized</span></i></a><i><span style="font-weight: 400;">. She is also an editor for </span></i><a href="https://essayroo.com/buy-assignment" data-wpel-link="external" target="_blank" rel="external noopener"><i><span style="font-weight: 400;">Essay Roo</span></i></a><i><span style="font-weight: 400;">. As a marketing writer, she shares her lifestyle and personal development advice with readers.</span></i>
+<p>&nbsp;
+		
+	</div><!-- .entry-content -->
+
+	<div class="letter">
+		<h3>Help Keep Big Easy Magazine Alive</h3>
+		<p>Hey guys!</p>
+                <p>Covid-19 is challenging the way we conduct business. As small businesses suffer economic losses, they aren’t able to spend money advertising. </p>
+                <p>Please donate today to help us sustain local independent journalism and allow us to continue to offer subscription-free coverage of progressive issues.</p>
+		<p>Thank you,<br>Scott Ploof<br>Publisher<br>Big Easy Magazine</p>
+		<div class="donate-button">
+			<a href="https://www.bigeasymagazine.com/monthly-donations/" data-wpel-link="internal">Donate Now</a>
+		</div>
+		<hr>
+		<!--<div class="timer">
+			<h3>Time Left to Donate:</h3>
+			<img src="https://gen.sendtric.com/countdown/wfqypsntyl" style="display: block;margin:auto auto 2rem" /> 
+		</div>-->
+	</div>
+
+	<div class="loop-category">
+						<span><a href="https://www.bigeasymagazine.com/category/guest-posts/" alt="View all posts in Guest Posts" data-wpel-link="internal">Guest Posts</a></span> <span><a href="https://www.bigeasymagazine.com/category/health-care/" alt="View all posts in Health Care" data-wpel-link="internal">Health Care</a></span>				</div>
+
+
+
+<div class="article-share">
+	<h3 class="cat-title">Share this Article</h3>
+	<ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bigeasymagazine.com&amp;quote=" title="Share on Facebook" target="_blank" onclick="window.open(&#039;https://www.facebook.com/sharer/sharer.php?u=&#039; + encodeURIComponent(document.URL) + &#039;&amp;quote=&#039; + encodeURIComponent(document.URL)); return false;" data-wpel-link="external" rel="external noopener"><img alt="Share on Facebook" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Facebook.png" /></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bigeasymagazine.com&amp;text=:%20https%3A%2F%2Fwww.bigeasymagazine.com&amp;via=bigeasy_mag" target="_blank" title="Tweet" onclick="window.open(&#039;https://twitter.com/intent/tweet?text=&#039; + encodeURIComponent(document.title) + &#039;:%20&#039;  + encodeURIComponent(document.URL)); return false;" data-wpel-link="external" rel="external noopener"><img alt="Tweet" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Twitter.png" /></a></li>
+  <li><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.bigeasymagazine.com" target="_blank" title="Share on Google+" onclick="window.open(&#039;https://plus.google.com/share?url=&#039; + encodeURIComponent(document.URL)); return false;" data-wpel-link="external" rel="external noopener">
+  	<img alt="Share on Google+" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Google.png" /></a></li>
+  <li><a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.bigeasymagazine.com&amp;description=" target="_blank" title="Pin it" onclick="window.open(&#039;http://pinterest.com/pin/create/button/?url=&#039; + encodeURIComponent(document.URL) + &#039;&amp;description=&#039; +  encodeURIComponent(document.title)); return false;" data-wpel-link="external" rel="external noopener"><img alt="Pin it" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Pinterest.png" /></a></li>
+  <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fwww.bigeasymagazine.com&amp;title=" target="_blank" title="Add to Pocket" onclick="window.open(&#039;https://getpocket.com/save?url=&#039; + encodeURIComponent(document.URL) + &#039;&amp;title=&#039; +  encodeURIComponent(document.title)); return false;" data-wpel-link="external" rel="external noopener"><img alt="Add to Pocket" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Pocket.png" /></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.bigeasymagazine.com&amp;title=" target="_blank" title="Submit to Reddit" onclick="window.open(&#039;http://www.reddit.com/submit?url=&#039; + encodeURIComponent(document.URL) + &#039;&amp;title=&#039; +  encodeURIComponent(document.title)); return false;" data-wpel-link="external" rel="external noopener"><img alt="Submit to Reddit" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Reddit.png" /></a></li>
+  <li><a href="mailto:?subject=&body=:%20https%3A%2F%2Fwww.bigeasymagazine.com" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/Email.png" /></a></li>
+</ul>
+</div>
+<div class="amp-comment">
+	<a href="https://www.bigeasymagazine.com/2020/08/10/the-ethics-of-ai-and-death/#respond" data-wpel-link="internal">Leave a Comment</a>
+	<a href="https://www.bigeasymagazine.com/add-some-progress-to-your-inbox-2/" data-wpel-link="internal">Subscribe to Our Newsletter</a>
+</div>
+<div class="mobile-top">
+	<div id="bsa-block-332--208" class="bsaProContainerNew bsaProContainer-2 bsa-block-332--208 bsa-pro-col-1" style="display: block !important"><div class="bsaProItems bsaGridNoGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a class="bsaProItem__url" href="https://www.bigeasymagazine.com?bsa_pro_id=102&amp;bsa_pro_url=1" target="_blank" data-wpel-link="internal"><div class="bsaProItemInner__img" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1610656852-Big Easy Banner Ad.png&#39;)"></div></a></div></div></div></div></div></div><script>
+			(function($){
+				function bsaProResize() {
+					var sid = "2";
+					var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+					var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+					var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+					var parentWidth = "332";
+					var parentHeight = "208";
+					var objectWidth = object.width();
+					if ( objectWidth < parentWidth ) {
+						var scale = objectWidth / parentWidth;
+						if ( objectWidth > 0 && objectWidth !== 100 && scale > 0 ) {
+							animateThumb.height(parentHeight * scale);
+							innerThumb.height(parentHeight * scale);
+							object.height(parentHeight * scale);
+						} else {
+							animateThumb.height(parentHeight);
+							innerThumb.height(parentHeight);
+							object.height(parentHeight);
+						}
+					} else {
+						animateThumb.height(parentHeight);
+						innerThumb.height(parentHeight);
+						object.height(parentHeight);
+					}
+				}
+				$(document).ready(function(){
+					bsaProResize();
+					$(window).resize(function(){
+						bsaProResize();
+					});
+				});
+			})(jQuery);
+		</script><style>
+		.bsaProContainer-2 .bsaProItem {
+			clear: both;
+			width: 100% !important;
+			margin-left: 0 !important;
+			margin-right: 0 !important;
+		}
+		</style><div class="bottomLink">Powered by <a target="_blank" href="https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010?ref=bigeasy" title="Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager" data-wpel-link="external" rel="external noopener">Ads Pro</a></div>						<script>
+							(function ($) {
+								var bsaProContainer = $('.bsaProContainer-2');
+								var number_show_ads = "0";
+								var number_hide_ads = "0";
+								if ( number_show_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeIn(); }, number_show_ads * 1000);
+								}
+								if ( number_hide_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeOut(); }, number_hide_ads * 1000);
+								}
+							})(jQuery);
+						</script>
+							
+</div>
+<div class="mobile-top">
+	<div id="bsa-block-332--208" class="bsaProContainerNew bsaProContainer-2 bsa-block-332--208 bsa-pro-col-1" style="display: block !important"><div class="bsaProItems bsaGridNoGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a class="bsaProItem__url" href="https://www.bigeasymagazine.com?bsa_pro_id=102&amp;bsa_pro_url=1" target="_blank" data-wpel-link="internal"><div class="bsaProItemInner__img" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1610656852-Big Easy Banner Ad.png&#39;)"></div></a></div></div></div></div></div></div><script>
+			(function($){
+				function bsaProResize() {
+					var sid = "2";
+					var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+					var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+					var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+					var parentWidth = "332";
+					var parentHeight = "208";
+					var objectWidth = object.width();
+					if ( objectWidth < parentWidth ) {
+						var scale = objectWidth / parentWidth;
+						if ( objectWidth > 0 && objectWidth !== 100 && scale > 0 ) {
+							animateThumb.height(parentHeight * scale);
+							innerThumb.height(parentHeight * scale);
+							object.height(parentHeight * scale);
+						} else {
+							animateThumb.height(parentHeight);
+							innerThumb.height(parentHeight);
+							object.height(parentHeight);
+						}
+					} else {
+						animateThumb.height(parentHeight);
+						innerThumb.height(parentHeight);
+						object.height(parentHeight);
+					}
+				}
+				$(document).ready(function(){
+					bsaProResize();
+					$(window).resize(function(){
+						bsaProResize();
+					});
+				});
+			})(jQuery);
+		</script><style>
+		.bsaProContainer-2 .bsaProItem {
+			clear: both;
+			width: 100% !important;
+			margin-left: 0 !important;
+			margin-right: 0 !important;
+		}
+		</style><div class="bottomLink">Powered by <a target="_blank" href="https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010?ref=bigeasy" title="Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager" data-wpel-link="external" rel="external noopener">Ads Pro</a></div>						<script>
+							(function ($) {
+								var bsaProContainer = $('.bsaProContainer-2');
+								var number_show_ads = "0";
+								var number_hide_ads = "0";
+								if ( number_show_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeIn(); }, number_show_ads * 1000);
+								}
+								if ( number_hide_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeOut(); }, number_hide_ads * 1000);
+								}
+							})(jQuery);
+						</script>
+							
+</div>
+<div class="mobile-top">
+	<a href="https://www.bigeasymagazine.com/big-easy-magazine-memberships/" data-wpel-link="internal"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/01/Membership-Ad.png"></a>	
+</div>
+</article><!-- #post-94099 -->
+
+		</main><!-- #main -->
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="TF_6"></div>
+	</div><!-- #primary -->
+	
+
+<aside id="secondary" class="widget-area">
+	<div id="bsa-block-1920--1200" class="bsaProContainerNew bsaProContainer-1 bsa-block-1920--1200 bsa-pro-col-1" style="display: block !important"><div class="bsaProItems bsaGridNoGutter " style="background-color:"><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://uniquelyneworleans.net/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=70&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1594830858-uniquely new orleans banner ad.png&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://betway.com/en/sports" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=113&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="sports betting site Betway Canada" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1626390474-sports betting site betway 640x400.jpg.png&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://www.bigeasymagazine.com/advertise-with-big-easy-magazine-2/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=101&amp;bsa_pro_url=1" target="_blank" data-wpel-link="internal"><div alt="This is for yall logo here image" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1610656804-Big Easy Banner Ad.png&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://henolaforlife.com/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=117&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1629306632-New Orleans Born & Raised (3).png&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://m.facebook.com/LouisianaLefty/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=109&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1619552317-Lefty_BannerAd_640x225.JPG&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="http://keashermanlaw.com/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=72&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="This is for keashermanlaw site." class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1594848381-kea sherman ad.jpg&#39;)"></div></a></div></div></div></div><div class="bsaProItem bsaReset" data-animation="none" style="opacity:1"><div class="bsaProItemInner" style="background-color:"><div class="bsaProItemInner__thumb"><div class="bsaProAnimateThumb"><a href="https://www.orleanslegal.com/" class="bsaProItem__url customlinkto2" data-href="https://www.bigeasymagazine.com?bsa_pro_id=111&amp;bsa_pro_url=1" target="_blank" data-wpel-link="external" rel="external noopener"><div alt="" class="bsaProItemInner__img zcxvvzxdfsdf88" style="background-image: url(&#39;https://www.bigeasymagazine.com/wp-content/uploads/bsa-pro-upload/1625331803-castrogiovanni and associates2 (1).png&#39;)"></div></a></div></div></div></div></div></div><script>
+			(function($){
+				function bsaProResize() {
+					var sid = "1";
+					var object = $(".bsaProContainer-" + sid + " .bsaProItemInner__img");
+					var animateThumb = $(".bsaProContainer-" + sid + " .bsaProAnimateThumb");
+					var innerThumb = $(".bsaProContainer-" + sid + " .bsaProItemInner__thumb");
+					var parentWidth = "1920";
+					var parentHeight = "1200";
+					var objectWidth = object.width();
+					if ( objectWidth < parentWidth ) {
+						var scale = objectWidth / parentWidth;
+						if ( objectWidth > 0 && objectWidth !== 100 && scale > 0 ) {
+							animateThumb.height(parentHeight * scale);
+							innerThumb.height(parentHeight * scale);
+							object.height(parentHeight * scale);
+						} else {
+							animateThumb.height(parentHeight);
+							innerThumb.height(parentHeight);
+							object.height(parentHeight);
+						}
+					} else {
+						animateThumb.height(parentHeight);
+						innerThumb.height(parentHeight);
+						object.height(parentHeight);
+					}
+				}
+				$(document).ready(function(){
+					bsaProResize();
+					$(window).resize(function(){
+						bsaProResize();
+					});
+				});
+			})(jQuery);
+		</script><div class="bottomLink">Powered by <a target="_blank" href="https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010?ref=bigeasy" title="Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager" data-wpel-link="external" rel="external noopener">Ads Pro</a></div>						<script>
+							(function ($) {
+								var bsaProContainer = $('.bsaProContainer-1');
+								var number_show_ads = "0";
+								var number_hide_ads = "0";
+								if ( number_show_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeIn(); }, number_show_ads * 1000);
+								}
+								if ( number_hide_ads > 0 ) {
+									setTimeout(function () { bsaProContainer.fadeOut(); }, number_hide_ads * 1000);
+								}
+							})(jQuery);
+						</script>
+					<section id="media_image-10" class="widget widget_media_image"><img width="300" height="28" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png" class="image wp-image-87426  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-768x71.png 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-1024x94.png 1024w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-600x55.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></section><section id="custom_html-7" class="widget_text widget widget_custom_html"><h2 class="widget-title">Search</h2><div class="textwidget custom-html-widget"><hr>
+<script async src="https://cse.google.com/cse.js?cx=000259141630592524598:4eebmcd8tgm"></script>
+<div class="gcse-searchbox-only"></div>
+
+<hr />
+</div></section><section id="media_image-9" class="widget widget_media_image"><img width="300" height="28" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png" class="image wp-image-87426  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-768x71.png 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-1024x94.png 1024w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-600x55.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></section><section id="media_image-11" class="widget widget_media_image"><img width="300" height="28" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png" class="image wp-image-87426  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-300x28.png 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-768x71.png 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-1024x94.png 1024w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2019/09/white-space-600x55.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></section><section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+	<h3 class="cat-title">Subscribe to Our Mailing List	
+	</h3><hr>
+<form action="https://bigeasymagazine.us18.list-manage.com/subscribe/post?u=6abd02a31067c3e654104b45e&amp;id=668b97a91b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6abd02a31067c3e654104b45e_668b97a91b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup--></div></section><section id="media_image-6" class="widget widget_media_image"><img width="300" height="20" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/10/whitespace-300x20.png" class="image wp-image-77279  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/10/whitespace-300x20.png 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/10/whitespace-600x41.png 600w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/10/whitespace-768x52.png 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/10/whitespace.png 957w" sizes="(max-width: 300px) 100vw, 300px" /></section><section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><h2 class="cat-title">
+	Stay Connected
+</h2>
+<hr>
+
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/bigeasy_mag?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="external noopener">Tweets by bigeasy_mag</a>
+
+<hr />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header banner -->
+<ins class="adsbygoogle" style="display: inline-block; width: 250px; height: 250px;" data-ad-client="ca-pub-7760645046851241" data-ad-slot="9503005338"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<hr /></div></section><section id="media_image-8" class="widget widget_media_image"><a href="https://blog.feedspot.com/new_orleans_news_websites/" data-wpel-link="external" target="_blank" rel="external noopener"><img width="1000" height="1000" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px.png" class="image wp-image-79484  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px.png 1000w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px-150x150.png 150w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px-300x300.png 300w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px-768x768.png 768w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px-600x600.png 600w, https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/12/new_orleans_news_1000px-100x100.png 100w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></section><section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:251px"
+     data-ad-client="ca-pub-7760645046851241"
+     data-ad-slot="9676349430"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section></aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<footer class="bottom">
+	<div class="footer-left"><p>Copyright © 2021 Big Easy Magazine - Voice of New Orleans</p></div>
+	<div class="footer-right">
+		<a href="https://www.facebook.com/BigEasyMagazine/" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/facebook-4-32.png"></a>
+		<a href="https://twitter.com/bigeasy_mag" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/twitter-4-32.png"></a>
+        <a href="https://www.youtube.com/channel/UC0JGTDfXkl8oKpwy1WLfRiA/featured" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/youtube-4-32.png"></a>
+        <a href="https://www.linkedin.com/company/big-easy-magazine-llc/" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/linkedin-4-32.png"></a>
+        <a href="https://www.instagram.com/bigeasymagazine/" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/instagram-4-32.png"></a>
+        <a href="https://plus.google.com/113356260425299094631" target="_blank" data-wpel-link="external" rel="external noopener"><img src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/08/google-plus-4-32.png"></a>		
+	</div>         
+</footer>
+
+<div id="category-modal" class="modal-window">
+  		<div>
+    			<a href="#modal-close" title="Close" class="modal-close">Close</a>
+    			
+    			
+    				<div class="cat-row-cont">
+    						<div class="cat-row-col">
+			    				<h4><a href="https://www.bigeasymagazine.com/category/politics/" data-wpel-link="internal">Politics</a></h4>
+								<a href="https://www.bigeasymagazine.com/category/economy/" data-wpel-link="internal">Economy</a>
+								<a href="https://www.bigeasymagazine.com/category/health-care/" data-wpel-link="internal">Health Care</a>
+								<a href="https://www.bigeasymagazine.com/category/social-issues/" data-wpel-link="internal">Social Issues</a>
+							</div>
+
+							<div class="cat-row-col">
+								<h4><a href="https://www.bigeasymagazine.com/category/culture-lifestyle/" data-wpel-link="internal">Culture/Lifestyle</a></h4>
+								<a href="https://www.bigeasymagazine.com/category/art/" data-wpel-link="internal">Art</a>
+								<a href="https://www.bigeasymagazine.com/category/film/" data-wpel-link="internal">Film</a>
+								<a href="https://www.bigeasymagazine.com/category/food/" data-wpel-link="internal">Food</a>
+								<a href="https://www.bigeasymagazine.com/category/music/" data-wpel-link="internal">Music</a>
+								<a href="https://www.bigeasymagazine.com/category/the-progressives-weekend/" data-wpel-link="internal">The Progressive's Weekend</a>
+								<a href="https://www.bigeasymagazine.com/category/the-progressives-lifestyle-in-new-orleans/" data-wpel-link="internal">The Progressive's Lifestyle in New Orleans</a>
+
+							</div>
+
+							<div class="cat-row-col">
+								<h4><a href="https://www.bigeasymagazine.com/category/environment/" data-wpel-link="internal">Environment</a></h4>
+								<a href="https://www.bigeasymagazine.com/category/environment/air-and-water-quality/" data-wpel-link="internal">Air & Water Quality</a>
+								<a href="https://www.bigeasymagazine.com/category/coastal-restoration/" data-wpel-link="internal">Coastal Restoration</a>
+							</div>
+
+							<div class="cat-row-col">
+								<h4><a href="https://www.bigeasymagazine.com/category/op-ed-lagniappe/" data-wpel-link="internal">Op-Ed/Lagniappe</a></h4>
+							</div>
+
+							<div class="cat-row-col">
+								<h4><a href="https://www.bigeasymagazine.com/category/sports/" data-wpel-link="internal">Sports</a></h4>
+							</div>							
+					</div>
+    			
+    	</div>
+	</div>
+
+<div id="edition-modal" class="modal-window">
+  		<div>
+    			<a href="#modal-close" title="Close" class="modal-close">Close</a>
+    			
+    			
+    				<div class="cat-row-cont">
+    						<div class="cat-row-col">
+			    				<h4>Monthly Editions</h4>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/october-2019/" data-wpel-link="internal">October 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/september-2019/" data-wpel-link="internal">September 2019</a>
+								<a href="https://www.bigeasymagazine.com/category/monthly/august-2019/" data-wpel-link="internal">August 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/july-2019/" data-wpel-link="internal">July 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/june-2019/" data-wpel-link="internal">June 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/may-2019/" data-wpel-link="internal">May 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/april-2019/" data-wpel-link="internal">April 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/march-2019/" data-wpel-link="internal">March 2019</a>
+			    				<a href="https://www.bigeasymagazine.com/category/monthly/february-2019/" data-wpel-link="internal">February 2019</a>				
+								<a href="https://www.bigeasymagazine.com/category/monthly/january-2019/" data-wpel-link="internal">January 2019</a>
+								<a href="https://www.bigeasymagazine.com/category/monthly/december-2018/" data-wpel-link="internal">December 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/november-2018/" data-wpel-link="internal">November 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/october-2018/" data-wpel-link="internal">October 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/september-2018/" data-wpel-link="internal">September 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/august/" data-wpel-link="internal">August 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/july-2018/" data-wpel-link="internal">July 2018</a>
+								<a href="https://www.bigeasymagazine.com/category/june-2018/" data-wpel-link="internal">June 2018</a>
+
+							</div>
+
+					</div>
+    			
+    	</div>
+</div>
+
+</div><!-- #page -->
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-120490707-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script>
+jQuery( document ).ready(function() {
+    jQuery(document).on("click","a.bsaProItem__url.customlinkto2",function(event) {
+        event.preventDefault();
+        var newurl = jQuery(this).data('href');
+        console.log(newurl)
+    window.open(newurl, '_blank');
+
+});
+});
+	jQuery(window).scroll(function() {
+		jQuery('#sticky-sub').each(function(){
+		var imagePos = jQuery(this).offset().top;
+
+		var topOfWindow = jQuery(window).scrollTop();
+			if (imagePos < topOfWindow+400) {
+				jQuery(this).addClass("slideDown");
+			}
+		});
+	});
+
+
+function hideSticky() {
+  var x = document.getElementById("sticky-sub");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+} 
+</script>
+
+<script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<a href="https://www.bigeasymagazine.com/things-to-do" class="fh-button-flat-blue fh-fixed--bottom fh-icon--arrow" data-wpel-link="internal">Things to Do</a>
+<script>  
+  jQuery(document).ready(function($){
+$('.fh-fixed--bottom').attr('href', 'https://www.bigeasymagazine.com/walking-tours/')
+  });
+</script>
+			<div class="wprm-wrapper">
+        
+        <!-- Overlay Starts here -->
+			 			   <div class="wprm-overlay"></div>
+			         <!-- Overlay Ends here -->
+			
+			         <div id="wprmenu_bar" class="wprmenu_bar normalslide left">
+  <div class="hamburger hamburger--slider">
+    <span class="hamburger-box">
+      <span class="hamburger-inner"></span>
+    </span>
+  </div>
+  <div class="menu_title">
+          <a href="https://www.bigeasymagazine.com" data-wpel-link="internal"><img class="bar_logo" alt="logo" src="https://bigeasymagazine.b-cdn.net/wp-content/uploads/2018/05/big-easy-main-logomain-1.png"/></a>  </div>
+</div>			 
+			<div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left default " id="mg-wprm-wrap">
+				
+				
+				<ul id="wprmenu_menu_ul">
+  
+  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75584"><a href="https://www.bigeasymagazine.com/" data-wpel-link="internal">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-87824"><a href="https://www.bigeasymagazine.com/category/monthly" data-wpel-link="internal">Editions</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89296"><a href="https://www.bigeasymagazine.com/category/monthly/december-2019/" data-wpel-link="internal">December 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89297"><a href="https://www.bigeasymagazine.com/category/monthly/october-2019/" data-wpel-link="internal">October 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89298"><a href="https://www.bigeasymagazine.com/category/monthly/september-2019/" data-wpel-link="internal">September 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89299"><a href="https://www.bigeasymagazine.com/category/monthly/august-2019/" data-wpel-link="internal">August 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89300"><a href="https://www.bigeasymagazine.com/category/monthly/july-2019/" data-wpel-link="internal">July 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89301"><a href="https://www.bigeasymagazine.com/category/monthly/june-2019/" data-wpel-link="internal">June 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89302"><a href="https://www.bigeasymagazine.com/category/monthly/may-2019/" data-wpel-link="internal">May 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89303"><a href="https://www.bigeasymagazine.com/category/monthly/april-2019/" data-wpel-link="internal">April 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89304"><a href="https://www.bigeasymagazine.com/category/monthly/march-2019/" data-wpel-link="internal">March 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89305"><a href="https://www.bigeasymagazine.com/category/monthly/february-2019/" data-wpel-link="internal">February 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89306"><a href="https://www.bigeasymagazine.com/category/monthly/january-2019/" data-wpel-link="internal">January 2019</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89307"><a href="https://www.bigeasymagazine.com/category/monthly/december-2018/" data-wpel-link="internal">December 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89308"><a href="https://www.bigeasymagazine.com/category/november-2018/" data-wpel-link="internal">November 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89309"><a href="https://www.bigeasymagazine.com/category/october-2018/" data-wpel-link="internal">October 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89310"><a href="https://www.bigeasymagazine.com/category/september-2018/" data-wpel-link="internal">September 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89311"><a href="https://www.bigeasymagazine.com/category/august/" data-wpel-link="internal">August 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89312"><a href="https://www.bigeasymagazine.com/category/july-2018/" data-wpel-link="internal">July 2018</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89313"><a href="https://www.bigeasymagazine.com/category/june-2018/" data-wpel-link="internal">June 2018</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75590"><a href="#category-modal">Categories</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86424"><a href="https://uniquelyneworleans.net" data-wpel-link="external" target="_blank" rel="external noopener">Shop</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89526"><a href="#">Support Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85008"><a href="https://www.bigeasymagazine.com/monthly-donations/" data-wpel-link="internal">Donate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80821"><a href="https://www.bigeasymagazine.com/big-easy-magazine-memberships/" data-wpel-link="internal">Memberships</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90665"><a href="https://www.bigeasymagazine.com/add-some-progress-to-your-inbox-2/" data-wpel-link="internal">Subscribe Now</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75586"><a href="https://www.bigeasymagazine.com/advertise-with-big-easy-magazine-2/" data-wpel-link="internal">Advertise</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85227"><a href="https://www.bigeasymagazine.com/events/" data-wpel-link="internal">Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75585"><a href="https://www.bigeasymagazine.com/about-us/" data-wpel-link="internal">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75587"><a href="https://www.bigeasymagazine.com/74699-2/" data-wpel-link="internal">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89446"><a href="https://www.bigeasymagazine.com/history-tours/" data-wpel-link="internal">Things To Do</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89418"><a href="https://www.bigeasymagazine.com/walking-tours/" data-wpel-link="internal">Walking Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89415"><a href="https://www.bigeasymagazine.com/history-tours/" data-wpel-link="internal">History Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89417"><a href="https://www.bigeasymagazine.com/haunted-tours/" data-wpel-link="internal">Haunted Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89411"><a href="https://www.bigeasymagazine.com/swamp-tours/" data-wpel-link="internal">Swamp Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89414"><a href="https://www.bigeasymagazine.com/plantation-tours/" data-wpel-link="internal">Plantation Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89413"><a href="https://www.bigeasymagazine.com/food-tours/" data-wpel-link="internal">Food Tours</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89416"><a href="https://www.bigeasymagazine.com/music-tours/" data-wpel-link="internal">Music Tours</a></li>
+</ul>
+</li>
+
+        <li class="wprm_after_menu_content"><hr />
+
+<script async src="https://cse.google.com/cse.js?cx=000259141630592524598:4eebmcd8tgm"></script>
+<div class="gcse-searchbox-only"></div></li>
+     
+</ul>
+				
+				</div>
+			</div>
+					<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/6abd02a31067c3e654104b45e/c0c3c14d584a5a983619bd683.js");</script><!-- FareHarbor plugin activated --><script src="https://fareharbor.com/embeds/api/v1/?autolightframe=yes"></script><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/mailchimp-wp/assets/pagecount.min.js?ver=2.5.1' id='fca_eoi_pagecount_js-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/core.min.js?ver=1.11.4-wp' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/datepicker.min.js?ver=1.11.4-wp' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.bigeasymagazine.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='pushengage-core-js-before'>
+window._peq = window._peq || []; window._peq.push(['init']);
+</script>
+<script type='text/javascript' async src='https://clientcdn.pushengage.com/core/a5a84dc109a731ae68c2640768b264bf.js?ver=5.5' id='pushengage-core-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.bigeasymagazine.com\/checkout\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.8.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8af315b49a6661b01321ddc8853298a3","fragment_name":"wc_fragments_8af315b49a6661b01321ddc8853298a3","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.8.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/www.bigeasymagazine.com","ajax_url":"https:\/\/www.bigeasymagazine.com\/wp-admin\/admin-ajax.php","language":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.0' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/themes/big-easy/js/navigation.js?ver=20151215' id='big-easy-navigation-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-content/themes/big-easy/js/skip-link-focus-fix.js?ver=20151215' id='big-easy-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://bigeasymagazine.b-cdn.net/wp-includes/js/wp-embed.min.js?ver=5.5' id='wp-embed-js'></script>
+<script type="text/javascript" id="flying-images">"use strict";window.FIConfig={lazyMethod:"nativejavascript",lazyMargin:500};var flyingImages=function(){var a=document.querySelectorAll("[data-loading=\"lazy\"]");if(window.FIConfig.lazyMethod.includes("native")&&"loading"in HTMLImageElement.prototype)a.forEach(function(a){a.removeAttribute("data-loading"),a.setAttribute("loading","lazy"),a.dataset.srcset&&(a.srcset=a.dataset.srcset),a.src=a.dataset.src});else if(window.IntersectionObserver){var b=new IntersectionObserver(function(a){a.forEach(function(a){a.isIntersecting&&(b.unobserve(a.target),a.target.dataset.srcset&&(a.target.srcset=a.target.dataset.srcset),a.target.src=a.target.dataset.src,a.target.classList.add("lazyloaded"),a.target.removeAttribute("data-loading"))})},{rootMargin:window.FIConfig.lazyMargin+"px"});a.forEach(function(a){b.observe(a)})}else for(var c=0;c<a.length;c++)a[c].dataset.srcset&&(a[c].srcset=a[c].dataset.srcset),a[c].src=a[c].dataset.src};flyingImages();function throttle(a,b){var c=!1;return function(){c||(a.apply(null,arguments),c=!0,setTimeout(function(){c=!1},b))}}var dynamicContentObserver=new MutationObserver(throttle(flyingImages,125));dynamicContentObserver.observe(document.body,{attributes:!0,childList:!0,subtree:!0}),function(){var a=document.querySelectorAll("[data-loading=\"lazy-background\"]");if(window.IntersectionObserver){var d=new IntersectionObserver(function(a){a.forEach(function(a){if(a.isIntersecting){d.unobserve(a.target);var b=a.target.getAttribute("style"),c=b.replace("background:none;","");a.target.setAttribute("style",c),a.target.removeAttribute("data-loading")}})},{rootMargin:window.FIConfig.lazyMargin+"px"});a.forEach(function(a){d.observe(a)})}else for(var e=0;e<a.length;e++){var b=a[e].target.getAttribute("style"),c=b.replace("background:none;","");a[e].target.setAttribute("style",c),a[e].target.removeAttribute("data-loading")}}();</script>
+    
+<script type='text/javascript'>
+    /*Google Tag Manager for Collective Bias*/
+
+    dataLayerCBias = [{
+        'trackingID': 'UA-156998026-40',
+        'javaScriptVersion': 'analytics.js',
+        'homePageURL': 'https://www.bigeasymagazine.com'
+    }];
+</script>
+<noscript>
+    <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PBN79J' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+</noscript>
+<script type='text/javascript'>
+    /*<![CDATA[*/
+    (function() {
+      window.setTimeout(function() {
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.'+'js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayerCBias', 'GTM-PBN79J');
+      });
+    })();
+    /*]]>*/
+
+    /*End Google Tag Manager for Collective Bias*/
+</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.589 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-10-08 01:57:38 -->
+
+<!-- Compression = gzip -->

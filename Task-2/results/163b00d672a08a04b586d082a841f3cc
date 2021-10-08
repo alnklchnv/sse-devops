@@ -1,0 +1,769 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link data-rh="true" rel="manifest" href="/manifest.json"/><link data-rh="true" rel="icon" sizes="16x16" href="/branding/favicon/16.png"/><link data-rh="true" rel="icon" sizes="24x24" href="/branding/favicon/24.png"/><link data-rh="true" rel="icon" sizes="32x32" href="/branding/favicon/32.png"/><link data-rh="true" rel="icon" sizes="64x64" href="/branding/favicon/64.png"/><link data-rh="true" rel="icon" sizes="128x128" href="/branding/favicon/128.png"/><link data-rh="true" rel="icon" sizes="256x256" href="/branding/favicon/256.png"/><link data-rh="true" rel="apple-touch-icon" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-rh="true" rel="apple-touch-icon" sizes="152x152" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-rh="true" rel="apple-touch-icon" sizes="180x180" href="/branding/apple-touch/ap-news-apple-touch-180.png"/><link data-rh="true" rel="apple-touch-icon" sizes="167x167" href="/branding/apple-touch/ap-news-apple-touch-167.png"/><link data-rh="true" rel="preload" href="/fonts/GoodOT-CondMedium.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="preload" href="/fonts/FreightText-Medium.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="preload" href="/fonts/GoodOT-Book.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="preload" href="/fonts/GoodOT-Bold.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="preload" href="/fonts/GoodOT-Medium.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="preload" href="/fonts/GoodOT-CondBold.woff2" as="font" type="font/woff2" crossOrigin="true"/><link data-rh="true" rel="search" href="/OpenSearchDescription.xml" title="AP News" type="application/opensearchdescription+xml"/><link data-rh="true" rel="canonical" href="https://apnews.com/163b00d672a08a04b586d082a841f3cc"/><meta data-rh="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-rh="true" name="apple-mobile-web-app-status-bar-style" content="black"/><meta data-rh="true" name="theme-color" content="#dedede"/><meta data-rh="true" name="msapplication-config" content="browserconfig.xml"/><meta data-rh="true" name="afs_etag" content data-rh="true"/><meta data-rh="true" name="description" content="Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer... "/><meta data-rh="true" name="keywords" content="Health,Science,U.S. News,AP Top News,Virus Outbreak,Understanding the Outbreak"/><meta data-rh="true" name="twitter:card" content="summary_large_image"/><meta data-rh="true" name="twitter:site" content="@ap"/><meta data-rh="true" property="twitter:title" content="Study hints, can&#x27;t prove, survivor plasma fights COVID-19"/><meta data-rh="true" property="twitter:description" content="Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer... "/><meta data-rh="true" property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/d33ca3ebbc524de7943bcbc82ec49597/3000.jpeg"/><meta data-rh="true" property="twitter:url" content="https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc"/><meta data-rh="true" property="og:title" content="Study hints, can&#x27;t prove, survivor plasma fights COVID-19"/><meta data-rh="true" property="og:description" content="Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer... "/><meta data-rh="true" property="og:type" content="article"/><meta data-rh="true" property="og:url" content="https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc"/><meta data-rh="true" property="og:image" content="https://storage.googleapis.com/afs-prod/media/d33ca3ebbc524de7943bcbc82ec49597/3000.jpeg"/><meta data-rh="true" property="og:image:width" content="4509"/><meta data-rh="true" property="og:image:height" content="3000"/><meta data-rh="true" property="og:site_name" content="AP NEWS"/><meta data-rh="true" property="fb:app_id" content="870613919693099"/><meta data-rh="true" property="fb:pages" content="249655421622"/><meta data-rh="true" property="article:published_time" content="2021-04-20T11:08:55Z"/><meta data-rh="true" property="article:modified_time" content="2020-08-14T19:38:12Z"/><meta data-rh="true" property="article:section" content="Health"/><meta data-rh="true" property="article:tag" content="Health"/><meta data-rh="true" property="article:tag" content="Science"/><meta data-rh="true" property="article:tag" content="U.S. News"/><meta data-rh="true" property="article:tag" content="AP Top News"/><meta data-rh="true" property="article:tag" content="Virus Outbreak"/><meta data-rh="true" property="article:tag" content="Understanding the Outbreak"/><script data-rh="true" type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","author":["Lauran Neergaard"],"dateModified":"2020-08-14T19:38:12Z","datePublished":"2021-04-20T11:08:55Z","description":"Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer... ","headline":"Study hints, can't prove, survivor plasma fights COVID-19","image":"https://storage.googleapis.com/afs-prod/media/d33ca3ebbc524de7943bcbc82ec49597/2000.jpeg","mainEntityOfPage":{"@id":"https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc","@type":"WebPage"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","height":60,"url":"http://apcontextual.appspot.com/Support/AMPLogo.png","width":600},"name":"Associated Press"}}</script><title data-rh="true">Study hints, can&#x27;t prove, survivor plasma fights COVID-19</title><meta name="google-site-verification" content="XvG-YKlyyPmG2x0J9-rdS-zI8LhL4d75ZQoccETD2qA"><link rel="stylesheet" type="text/css" href="/dist/index.css?hash=17c27d2f55f"><style id="server-side-styles" type="text/css">.Component-list-0-2-17 {
+  margin: 1.125rem 0 -1.5rem 0;
+  display: inline-flex;
+  padding: 0;
+  flex-flow: wrap;
+  list-style: none;
+}
+.Component-item-0-2-18 {
+  margin-bottom: 1.5rem;
+}
+.Component-item-0-2-18:not(:last-child) {
+  margin-right: 1.5rem;
+}
+.Component-icon-0-2-19 {
+  width: 1.5625rem;
+  height: 1.5625rem;
+  display: block;
+}
+.Component-list-0-2-13 {
+  margin: 1.5rem 0 -0.5rem 0;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-list-0-2-13 {
+    display: flex;
+    flex-flow: wrap;
+  }
+}
+  .Component-item-0-2-14 {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  .Component-item-0-2-14:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+  .Component-ios-0-2-15 {
+    width: 8.125rem;
+    height: 2.75rem;
+  }
+  .Component-android-0-2-16 {
+    width: 9.375rem;
+    height: 2.75rem;
+  }
+@media only screen and (min-width: 64rem) {
+  .Component-legalStuff-0-2-20 {
+    display: flex;
+    padding: 0 0 6.25rem;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-legalStuff-0-2-20 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-legalStuff-0-2-20 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-legalStuffNav-0-2-21 {
+    display: flex;
+  }
+}
+  .Component-list-0-2-22 {
+    margin: 0;
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  .Component-listItem-0-2-23 {
+    padding: 0.5rem 1rem 0.5rem 0;
+  }
+  .Component-title-0-2-24 {
+    font-size: 0.75rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-title-0-2-24 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-title-0-2-24 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-copyright-0-2-25 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-span-0-2-26 {
+    display: block;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-span-0-2-26 {
+    display: block;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-spaceBelow-0-2-27 {
+    margin-bottom: 1rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-spaceBelow-0-2-27 {
+    margin-bottom: 1rem;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-spaceAbove-0-2-28 {
+    margin-top: 1rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-spaceAbove-0-2-28 {
+    margin-top: 1rem;
+  }
+}
+  .Component-divider-0-2-12 {
+    width: 100%;
+    height: 1px;
+    background: rgba(236, 236, 236, 0.19999999999999996);
+  }
+@media only screen and (min-width: 64rem) {
+  .Component-divider-0-2-12 {
+    margin: 2.25rem 0 1.75rem 0;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-divider-0-2-12 {
+    margin: 1.5rem 0 1.25rem 0;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-divider-0-2-12 {
+    margin: 1.125rem 0 0.75rem 0;
+  }
+}
+  .Component-footer-0-2-1 {
+    color: #fff;
+    padding: 2.1875rem 0 0 0;
+    font-size: 1rem;
+    background: #2c2c2c;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+  }
+  .Component-footer-0-2-1 a, .Component-footer-0-2-1 a:link, .Component-footer-0-2-1 a:visited, .Component-footer-0-2-1 a:hover, .Component-footer-0-2-1 a:active {
+    text-decoration: none;
+  }
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-grid-0-2-2 {
+    display: grid;
+    grid-template-rows: auto 1.875rem auto auto auto;
+    grid-template-areas: "nav nav nav . . . apps apps apps . ." ". . . . . . . . . . ." "moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(5, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-grid-0-2-2 {
+    display: grid;
+    grid-template-areas: "nav nav nav . . . apps apps apps . . . moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(11, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+  .Component-nav-0-2-3 {
+    grid-area: nav;
+  }
+  .Component-apps-0-2-4 {
+    grid-area: apps;
+  }
+  .Component-moreFromAp-0-2-5 {
+    grid-area: moreFromAp;
+  }
+  .Component-followAp-0-2-6 {
+    grid-area: followAp;
+  }
+  .Component-divider-0-2-7 {
+    grid-area: divider;
+  }
+  .Component-legalStuff-0-2-8 {
+    grid-area: legalStuff;
+  }
+  .Component-title-0-2-9 {
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .Component-list-0-2-10 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 2;
+  }
+  .Component-downloadDescription-0-2-11 {
+    padding-top: 0.3125rem;
+  }
+  .Component-button-0-2-95 {
+    top: 1rem;
+    right: var(--fluid-wrapper-padding);
+    width: auto;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    outline: none;
+    padding: 0 1rem;
+    position: absolute;
+    font-size: 1rem;
+    background: #104ba5;
+    text-align: left;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 2rem;
+  }
+  .Component-button-0-2-95, .Component-button-0-2-95:link, .Component-button-0-2-95:visited, .Component-button-0-2-95:hover, .Component-button-0-2-95:active {
+    color: white;
+    text-decoration: none;
+  }
+  .Component-loader-0-2-96 {
+    display: none;
+    --colour: white;
+    margin-left: 6px;
+  }
+  .Component-loader-0-2-96 .sk-fading-circle {
+    width: 1rem;
+    height: 1rem;
+  }
+  .Component-loader-0-2-96.searching {
+    display: inline-block;
+  }
+  .Component-arrow-0-2-97 {
+    width: 0.78125rem;
+    height: 0.78125rem;
+    display: inline;
+    margin-left: 0.625rem;
+  }
+  .Component-arrow-0-2-97.searching {
+    display: none;
+  }
+@keyframes keyframes-delayedScroll-0-2-89 {
+  0% {
+    overflow-y: hidden;
+  }
+  99% {
+    overflow-y: hidden;
+  }
+  100% {
+    overflow-y: auto;
+  }
+}
+  .overlay-0-2-90 {
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+    position: fixed;
+  }
+  .topicsDropdown-0-2-91 {
+    top: 2.8125rem;
+    right: 0;
+    display: none;
+    z-index: 4;
+    --height: 0;
+    position: absolute;
+    background: #ececec;
+    box-shadow: 0 2px 3px 0 #b5b5b6;
+    text-align: left;
+  }
+@media only screen and (min-width: 64.0625rem) {
+  .topicsDropdown-0-2-91 {
+    display: block;
+  }
+}
+  .dropdownWrapper-0-2-92 {
+    height: var(--height);
+    overflow: hidden;
+    max-height: calc(80vh - 100px);
+    transition: height 0.2s;
+  }
+  .dropdownWrapper-0-2-92.opened {
+    animation: keyframes-delayedScroll-0-2-89 0.2s forwards;
+    overflow-y: auto;
+  }
+  .dropdown-0-2-93 {
+    margin: 0;
+    padding: 1.125rem 1.5rem;
+    font-size: 1rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 500;
+    line-height: 2rem;
+  }
+  .dropdown-0-2-93, .dropdown-0-2-93:link, .dropdown-0-2-93:visited, .dropdown-0-2-93:hover, .dropdown-0-2-93:active {
+    text-decoration: none;
+  }
+  .dropdownItem-0-2-94 {
+    list-style: none;
+    white-space: nowrap;
+  }
+  .headerNavigationForm-0-2-87 {
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    padding-top: 1rem;
+  }
+@media only screen and (min-width: 64.0625rem) {
+  .headerNavigationForm-0-2-87 {
+    width: auto;
+    margin-top: auto;
+    margin-left: auto;
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+  }
+}
+  .headerNavigationUtilities-0-2-88 {
+    right: 0;
+    height: 2rem;
+    display: flex;
+    position: relative;
+    background: whitesmoke;
+    align-items: center;
+  }
+  .headerNavigationUtilities-0-2-88.-isdesktop {
+    display: none;
+  }
+@media only screen and (min-width: 64.0625rem) {
+  .headerNavigationUtilities-0-2-88.-isdesktop {
+    display: flex;
+  }
+}
+@media only screen and (min-width: 64.0625rem) {
+  .headerNavigationUtilities-0-2-88.-ismobile {
+    display: none;
+  }
+}
+  .apLine-0-2-57 {
+    width: 3.75rem;
+    height: 0.5rem;
+    background: #ff322e;
+    transform-origin: left top;
+  }
+  .Component-title-0-2-48 {
+    color: #787878;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  .Component-headline-0-2-49, .Component-headline-0-2-49:link, .Component-headline-0-2-49:visited, .Component-headline-0-2-49:hover, .Component-headline-0-2-49:active {
+    color: #2c2c2c;
+    text-decoration: none;
+  }
+  .Component-h1-0-2-50 {
+    left: -0.125rem;
+    margin: 0;
+    position: relative;
+    font-size: 1.75rem;
+    font-family: 'GoodOT-Cond', Arial Narrow, Arial, sans-serif;
+    font-weight: 500;
+  }
+  .Component-root-0-2-56 {
+    color: #828282;
+  }
+  .Component-signature-0-2-53 {
+    left: -0.0625rem;
+    margin: 0.5rem 0 1rem 0;
+    display: inline-flex;
+    position: relative;
+    flex-flow: row wrap;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+  }
+  .Component-bylines-0-2-54 {
+    padding-right: 1.375rem;
+  }
+  .Component-headline-0-2-51 {
+    display: block;
+  }
+  .Component-headline-0-2-51, .Component-headline-0-2-51:link, .Component-headline-0-2-51:visited, .Component-headline-0-2-51:hover, .Component-headline-0-2-51:active {
+    color: #2c2c2c;
+    text-decoration: none;
+  }
+  .Component-heading-0-2-52 {
+    left: -0.125rem;
+    margin: 0;
+    position: relative;
+    font-size: 1.75rem;
+    font-family: 'GoodOT-Cond', Arial Narrow, Arial, sans-serif;
+    font-weight: 500;
+  }
+  .image-0-2-67 {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    max-width: 100%;
+    text-indent: 100%;
+    white-space: nowrap;
+  }
+  .root-0-2-82 {
+    clear: both;
+  }
+  .title-0-2-83 {
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+  }
+  .link-0-2-84 {
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+  }
+  .link-0-2-84.overrideArticle.overrideArticle.overrideArticle, .link-0-2-84.overrideArticle.overrideArticle.overrideArticle:link, .link-0-2-84.overrideArticle.overrideArticle.overrideArticle:visited, .link-0-2-84.overrideArticle.overrideArticle.overrideArticle:hover, .link-0-2-84.overrideArticle.overrideArticle.overrideArticle:active {
+    color: #0a3175;
+    text-decoration: none;
+  }
+  .Component-root-0-2-41 {
+    width: 2rem;
+    height: 2rem;
+    display: block;
+    font-size: 0;
+  }
+  .Component-root-0-2-42 {
+    width: 2rem;
+    height: 2rem;
+    display: block;
+    font-size: 0;
+  }
+  .Component-root-0-2-43 {
+    width: 2rem;
+    height: 2rem;
+    display: block;
+    font-size: 0;
+  }
+  .Component-root-0-2-44 {
+    width: 2rem;
+    cursor: pointer;
+    height: 2rem;
+    display: block;
+    font-size: 0;
+  }
+  .Component-rootBig-0-2-45 {
+    width: 8.25rem;
+    overflow: hidden;
+    position: relative;
+  }
+  .Component-message-0-2-46 {
+    top: 0;
+    left: 2rem;
+    color: var(--colour, #777878);
+    position: absolute;
+    font-size: 0.875rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 2rem;
+  }
+  .Component-area-0-2-47 {
+    top: -1000000px;
+    left: -1000000px;
+    width: 10px;
+    height: 10px;
+    opacity: 0;
+    position: fixed;
+    pointer-events: none;
+  }
+  .Component-root-0-2-38 {
+    width: 7rem;
+    display: flex;
+    --colour: #0a3175;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .Component-copyLink-0-2-39 {
+    width: 100%;
+    margin-top: 1.125rem;
+  }
+  .Component-oneLineDisplay-0-2-40 {
+    width: 17.5rem;
+    align-items: center;
+  }
+  .Component-root-0-2-68 {
+    color: #787878;
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    background: #fff;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    pointer-events: none;
+  }
+  .placeholder-0-2-66 {
+    overflow: hidden;
+    position: relative;
+    background: lightgrey;
+  }
+  .Component-leadFeature-0-2-58 {
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 0.75rem;
+  }
+  .Component-leadFeature-0-2-58.LeadFeature_video .count-caption {
+    display: none;
+  }
+  .Component-leadFeature-0-2-58:hover .count-caption {
+    opacity: 1;
+  }
+  .Component-countCaption-0-2-59 {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 5.75rem 0.75rem 0.75rem 0.75rem;
+    position: absolute;
+    transition: opacity 0.15s;
+    background-clip: initial;
+    background-size: initial;
+    background-color: initial;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
+    background-origin: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+  }
+@media only screen and (max-width: 53.0625rem) {
+  .Component-countCaption-0-2-59 {
+    display: none;
+  }
+}
+  .Component-visible-0-2-60 {
+    opacity: 1;
+  }
+  .Component-hidden-0-2-61 {
+    opacity: 0;
+  }
+  .Component-embedCaption-0-2-62 {
+    color: #fff;
+    background: transparent;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+  .Component-galleryArrow-0-2-63 {
+    top: 50%;
+    right: 0.75rem;
+    width: 2.5rem;
+    cursor: pointer;
+    height: 2.5rem;
+    --colour: #fff;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  .Component-video-0-2-64 {
+    pointer-events: none;
+  }
+  .Component-imageCaption-0-2-65 {
+    overflow: auto;
+    max-height: 10.625rem;
+  }
+  .Component-imageCaption-0-2-65::-webkit-scrollbar {
+    width: 5px;
+  }
+  .Component-imageCaption-0-2-65::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px #727272;
+  }
+  .Component-imageCaption-0-2-65::-webkit-scrollbar-thumb {
+    outline: 1px solid slategrey;
+    background-color: darkgray;
+  }
+  .Component-ad-0-2-31 {
+    width: 100%;
+    display: flex;
+    z-index: 1;
+    justify-content: center;
+  }
+  .Component-ad-0-2-31 div {
+    width: 100% !important;
+    margin: 0 auto;
+  }
+  .Component-ad-0-2-31 div iframe {
+    margin: 0 auto;
+  }
+  .Component-adTitle-0-2-32 {
+    color: #9b9b9b;
+    font-size: 0.75rem;
+    margin-top: 0.625rem;
+    text-align: center;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1rem;
+  }
+  .Component-visualPlaceholder-0-2-33 {
+    width: 300px !important;
+    height: 30px;
+    position: absolute;
+    margin-top: 20px;
+    background-color: #D8D8D8;
+  }
+  .Component-rectangleVisualPlaceholder-0-2-34 {
+    height: 230px;
+  }
+  .Component-placeholderWrapper-0-2-35 {
+    display: flex;
+    position: relative;
+    min-width: 300px;
+    min-height: 50px;
+    justify-content: center;
+  }
+  .Component-rectanglePlaceholderWrapper-0-2-36 {
+    min-height: 250px;
+  }
+  .Component-belowArticle-0-2-37 {
+    padding: 2rem 0;
+  }
+  .relatedStory-0-2-85 {
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    padding-bottom: 0.5rem;
+  }
+  .link-0-2-86 {
+    display: block;
+  }
+  .link-0-2-86, .link-0-2-86:link, .link-0-2-86:visited, .link-0-2-86:hover, .link-0-2-86:active {
+    color: #0a3175;
+    text-decoration: none;
+  }
+  .intro-0-2-80 {
+    color: #2c2c2c;
+    padding: 0.5rem 0;
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .list-0-2-81 {
+    margin: 0;
+    list-style: none;
+    padding-left: 2.625rem;
+  }
+  .Component-p-0-2-69 {
+    margin: 0.75rem 0;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-p-0-2-69 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-p-0-2-69 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-p-0-2-69 {
+    width: 85.71428571428571%;
+  }
+}
+  .Component-tallImage-0-2-70 {
+    float: right;
+    width: 42.857142857142854%;
+    margin: 0 0 0.75rem 0.75rem;
+  }
+  .Component-image-0-2-71 {
+    clear: right;
+  }
+  .Component-imageImg-0-2-72 {
+    z-index: 1;
+  }
+  .Component-dfp-0-2-73 {
+    clear: both;
+    width: 100%;
+    padding: 1.5rem 0;
+    justify-content: left;
+  }
+  .Component-block-0-2-74 {
+    margin: 0.75rem 0;
+  }
+  .Component-hubLink-0-2-75 {
+    clear: both;
+    margin: 0.75rem 0;
+  }
+  .Component-audioEmbed-0-2-76 {
+    margin: 0.75rem 0;
+  }
+  .Component-hubPeekEmbed-0-2-77 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-hubPeekEmbed-0-2-77 {
+    margin-top: 35px;
+    border-bottom: 1px solid #b5b5b6;
+    margin-bottom: 35px;
+    padding-bottom: 18px;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-hubPeekEmbed-0-2-77 {
+    margin-top: 35px;
+    border-bottom: 1px solid #b5b5b6;
+    margin-bottom: 35px;
+    padding-bottom: 18px;
+  }
+}
+  .Component-hubPeekEmbed-0-2-77 div {
+    width: unset;
+    margin-left: unset;
+  }
+  .Component-hubPeekEmbed-0-2-77 .overrideArticle {
+    font-size: 1.125rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 500;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-hubPeekEmbed-0-2-77 .overrideArticle {
+    font-size: 1rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 500;
+  }
+}
+  .leaderboard-0-2-29 {
+    height: 8.875rem;
+    display: flex;
+    padding: 2rem 0;
+    overflow: hidden;
+    position: relative;
+    box-sizing: content-box;
+    justify-content: center;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .leaderboard-0-2-29 {
+    height: 4.75rem;
+    padding: 1rem 0;
+  }
+}
+  .dfpSlot-0-2-30 {
+    position: absolute;
+  }
+  .Component-root-0-2-78 {
+    font-size: 1.125rem;
+    font-family: 'FreightText', Georgia, serif;
+    font-weight: 300;
+    line-height: 1.6875rem;
+  }
+  .Component-root-0-2-78 a, .Component-root-0-2-78 a:link, .Component-root-0-2-78 a:visited, .Component-root-0-2-78 a:hover, .Component-root-0-2-78 a:active {
+    color: #104ba5;
+    text-decoration: none;
+  }</style></head><body><div id="root"><div class="App" data-reactroot=""><noscript style="display:none;visibility:hidden"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNXLD4" width="0" height="0" title="Google Tag Manager iframe"></iframe></noscript><noscript style="display:none;visibility:hidden"><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3005041&amp;cv=2.0&amp;cj=1" alt="Comscore beacon"/></noscript><main class="Main"><div class="Header"><div class="header-container fluid-wrapper"><div class="header-background"></div><div class="header"><a class="header-logo" href="/"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-logo"></use></svg></a><div class="header-title title ">AP NEWS</div><div class="optional-header-title hub" style="opacity:0"></div></div><div class="header-navigation-utilities headerNavigationUtilities-0-2-88 -ismobile"><div class="header-navigation-item search"><div class="nav-action"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-search"></use></svg></div></div><div class="header-navigation-item sections"><button type="button" class="hamburger hamburger--collapse "><span class="header-navigation-item-section-text">Sections</span><span class="hamburger-box"><span class="hamburger-inner"></span></span></button><nav class="topicsDropdown-0-2-91 TopicsDropdown"><div class="dropdown-wrapper dropdownWrapper-0-2-92" style="--height:0"><ol class="dropdown-0-2-93 dropdown"><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/us-news?utm_source=apnewsnav&amp;utm_medium=sections">U.S. News</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/world-news?utm_source=apnewsnav&amp;utm_medium=sections">World News</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/politics?utm_source=apnewsnav&amp;utm_medium=sections">Politics</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/sports?utm_source=apnewsnav&amp;utm_medium=sections">Sports</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/entertainment?utm_source=apnewsnav&amp;utm_medium=sections">Entertainment</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/oddities?utm_source=apnewsnav&amp;utm_medium=sections">Oddities</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/lifestyle?utm_source=apnewsnav&amp;utm_medium=sections">Lifestyle</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/health?utm_source=apnewsnav&amp;utm_medium=sections">Health</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/science?utm_source=apnewsnav&amp;utm_medium=sections">Science</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/business?utm_source=apnewsnav&amp;utm_medium=sections">Business</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/technology?utm_source=apnewsnav&amp;utm_medium=sections">Technology</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/photography?utm_source=apnewsnav&amp;utm_medium=sections">Photography</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/religion?utm_source=apnewsnav&amp;utm_medium=sections">Religion</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/travel?utm_source=apnewsnav&amp;utm_medium=sections">Travel</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/press-releases?utm_source=apnewsnav&amp;utm_medium=sections">Press Releases</a></li></ol></div></nav></div></div><div class="header-navigation-container "><nav class="header-navigation-wrapper "><ul class="header-navigation fluid-wrapper"><li class="header-navigation-item"><a class="topic-link" href="/hub/us-news?utm_source=apnewsnav&amp;utm_medium=navigation">U.S. News</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/world-news?utm_source=apnewsnav&amp;utm_medium=navigation">World News</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/politics?utm_source=apnewsnav&amp;utm_medium=navigation">Politics</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/entertainment?utm_source=apnewsnav&amp;utm_medium=navigation">Entertainment</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/sports?utm_source=apnewsnav&amp;utm_medium=navigation">Sports</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/oddities?utm_source=apnewsnav&amp;utm_medium=navigation">Oddities</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/lifestyle?utm_source=apnewsnav&amp;utm_medium=navigation">Lifestyle</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/health?utm_source=apnewsnav&amp;utm_medium=navigation">Health</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/science?utm_source=apnewsnav&amp;utm_medium=navigation">Science</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/business?utm_source=apnewsnav&amp;utm_medium=navigation">Business</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/technology?utm_source=apnewsnav&amp;utm_medium=navigation">Technology</a></li><li class="header-navigation-item"><a class="topic-link" href="/hub/photography?utm_source=apnewsnav&amp;utm_medium=navigation">Photography</a></li><li class="header-navigation-item radio"><div class="Radio" style="height:100px;width:100%;left:auto"><div class="radio-content"><audio class="radio-player"></audio><div class="radio-text"><div class="radio-title">AP RADIO</div><div class="radio-subtitle">Update hourly</div></div><div class="radio-control radio-play"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-play"></use></svg></div></div></div></li><div class="header-navigation-utilities headerNavigationUtilities-0-2-88 -isdesktop"><div class="header-navigation-item search"><div class="nav-action"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-search"></use></svg></div></div><div class="header-navigation-item sections"><button type="button" class="hamburger hamburger--collapse "><span class="header-navigation-item-section-text">Sections</span><span class="hamburger-box"><span class="hamburger-inner"></span></span></button><nav class="topicsDropdown-0-2-91 TopicsDropdown"><div class="dropdown-wrapper dropdownWrapper-0-2-92" style="--height:0"><ol class="dropdown-0-2-93 dropdown"><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/us-news?utm_source=apnewsnav&amp;utm_medium=sections">U.S. News</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/world-news?utm_source=apnewsnav&amp;utm_medium=sections">World News</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/politics?utm_source=apnewsnav&amp;utm_medium=sections">Politics</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/sports?utm_source=apnewsnav&amp;utm_medium=sections">Sports</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/entertainment?utm_source=apnewsnav&amp;utm_medium=sections">Entertainment</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/oddities?utm_source=apnewsnav&amp;utm_medium=sections">Oddities</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/lifestyle?utm_source=apnewsnav&amp;utm_medium=sections">Lifestyle</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/health?utm_source=apnewsnav&amp;utm_medium=sections">Health</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/science?utm_source=apnewsnav&amp;utm_medium=sections">Science</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/business?utm_source=apnewsnav&amp;utm_medium=sections">Business</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/technology?utm_source=apnewsnav&amp;utm_medium=sections">Technology</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/photography?utm_source=apnewsnav&amp;utm_medium=sections">Photography</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/religion?utm_source=apnewsnav&amp;utm_medium=sections">Religion</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/travel?utm_source=apnewsnav&amp;utm_medium=sections">Travel</a></li><li class="dropdownItem-0-2-94"><a class="topic-link" href="/hub/press-releases?utm_source=apnewsnav&amp;utm_medium=sections">Press Releases</a></li></ol></div></nav></div></div></ul></nav></div></div><div class="header-featured-wrapper"><ul class="header-featured-topics fluid-wrapper"><li class="header-featured-item"><a class="featured-link" href="/hub/abortion?utm_source=apnewsnav&amp;utm_medium=featured">Abortion</a></li><li class="header-featured-item"><a class="featured-link" href="/hub/nobel-prizes?utm_source=apnewsnav&amp;utm_medium=featured">Nobel Prizes</a></li><li class="header-featured-item"><a class="featured-link" href="/hub/oil-spills?utm_source=apnewsnav&amp;utm_medium=featured">Oil spills</a></li><li class="header-featured-item"><a class="featured-link" href="/hub/coronavirus-pandemic?utm_source=apnewsnav&amp;utm_medium=featured">Coronavirus pandemic</a></li><li class="header-featured-item"><a class="featured-link" href="/hub/congress?utm_source=apnewsnav&amp;utm_medium=featured">Congress</a></li><li class="header-featured-item"><a class="featured-link" href="/hub/mlb?utm_source=apnewsnav&amp;utm_medium=featured">MLB</a></li></ul></div><div class="search-wrapper"><div class="SearchPopover" style="--height:0"><div class="inner"><input class="input" placeholder="Search" value=""/><button class="Component-button-0-2-95"><span>Search</span><div class="Loader Component-loader-0-2-96"><div class="sk-fading-circle"><div class="sk-circle1 sk-circle"></div><div class="sk-circle2 sk-circle"></div><div class="sk-circle3 sk-circle"></div><div class="sk-circle4 sk-circle"></div><div class="sk-circle5 sk-circle"></div><div class="sk-circle6 sk-circle"></div><div class="sk-circle7 sk-circle"></div><div class="sk-circle8 sk-circle"></div><div class="sk-circle9 sk-circle"></div><div class="sk-circle10 sk-circle"></div><div class="sk-circle11 sk-circle"></div><div class="sk-circle12 sk-circle"></div></div></div><svg class="SvgSprite Component-arrow-0-2-97"><use xlink:href="/dist/spritemap.svg#sprite-arrow"></use></svg></button><section class="search-results"></section></div></div></div></div><div class="header-placeholder "></div><div class="Body"><div class="Content WireStory fluid-wrapper with-lead"><div class="Leaderboard leaderboard-0-2-29"><div class="dfpSlot-0-2-30"><div class="Component-adTitle-0-2-32">ADVERTISEMENT</div><div class="Component-placeholderWrapper-0-2-35"><div class="Component-visualPlaceholder-0-2-33"></div><div data-key="ad-placeholder" id="div-gpt-ad_site_article_leaderboard" class="DFPSlot Component-ad-0-2-31"></div></div></div></div><div class="SocialShare Component-root-0-2-38 tablet-view"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;display=popup&amp;href=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-41"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?url=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-42"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Study hints, can&#x27;t prove, survivor plasma fights COVID-19&amp;body=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" class="Component-root-0-2-43"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><div class="Component-root-0-2-44 Component-copyLink-0-2-39 Component-rootBig-0-2-45"><textarea tabindex="-1" class="Component-area-0-2-47">https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc</textarea><div class="Component-message-0-2-46">Click to copy</div><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg></div></div><div class="ContentView-LeftRail"><div></div><div class="sticky-part"><div class="SocialShare Component-root-0-2-38"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;display=popup&amp;href=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-41"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?url=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-42"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Study hints, can&#x27;t prove, survivor plasma fights COVID-19&amp;body=https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc" class="Component-root-0-2-43"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><div class="Component-root-0-2-44 Component-copyLink-0-2-39 Component-rootBig-0-2-45"><textarea tabindex="-1" class="Component-area-0-2-47">https://apnews.com/article/virus-outbreak-ap-top-news-understanding-the-outbreak-health-science-163b00d672a08a04b586d082a841f3cc</textarea><div class="Component-message-0-2-46">Click to copy</div><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg></div></div><div class="RelatedTopics"><div class="heading">Related topics</div><ul class="tag-list"><li class="tag"><a data-key="related-tag" href="/hub/health">Health</a></li><li class="tag"><a data-key="related-tag" href="/hub/science">Science</a></li><li class="tag"><a data-key="related-tag" href="/hub/us-news">U.S. News</a></li><li class="tag"><a data-key="related-tag" href="/hub/ap-top-news">AP Top News</a></li><li class="tag"><a data-key="related-tag" href="/hub/virus-outbreak">Virus Outbreak</a></li><li class="tag"><a data-key="related-tag" href="/hub/understanding-the-outbreak">Understanding the Outbreak</a></li></ul></div></div></div><div class="CardHeadline"><div class="Component-headline-0-2-51" data-key="card-headline"><h1 class="Component-heading-0-2-52">Study hints, can’t prove, survivor plasma fights COVID-19</h1></div><div class="Component-signature-0-2-53"><span class="Component-bylines-0-2-54">By LAURAN NEERGAARD</span><span class="Timestamp Component-root-0-2-56 Component-timestamp-0-2-55" data-key="timestamp" data-source="2020-08-14T19:38:12Z" title="2020-08-14 19:38:12 - Fri Aug 14 2020 19:38:12 GMT+0000 (Coordinated Universal Time)">August 14, 2020 GMT</span></div><div class="apLine-0-2-57 -apLine" style="transform:scale(1)"></div></div><div class="divider"></div><div class="LeadFeature Component-leadFeature-0-2-58"><div class="placeholder-0-2-66 undefined" data-key="media-placeholder"><img class="image-0-2-67" src="" alt="FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it&#x27;s not proof, and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer. (AP Photo/Juan Karita)" width="2000" height="1300" style="opacity:0"/></div><div class="count-caption Component-countCaption-0-2-59 ssr-desktop"><div class="Component-imageCaption-0-2-65"><div class="embed-caption Component-root-0-2-68 Component-embedCaption-0-2-62" data-key="embed-caption">FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it&#x27;s not proof, and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer. (AP Photo/Juan Karita)</div></div></div><div class="count-caption Component-countCaption-0-2-59 ssr-tablet"><div class="Component-imageCaption-0-2-65"><div class="embed-caption Component-root-0-2-68 Component-embedCaption-0-2-62" data-key="embed-caption">FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it&#x27;s not proof, and some experts worry if, amid clamor for the treatment, they&#x27;ll ever get a clear answer. (AP Photo/Juan Karita)</div></div></div></div><div class="Article" data-key="article"><p class="Component-root-0-2-78 Component-p-0-2-69">Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they’ll ever get a clear answer.</p><p class="Component-root-0-2-78 Component-p-0-2-69">More than 64,000 patients in the U.S. have been given convalescent plasma, a century-old approach to fend off flu and measles before vaccines. It’s a go-to tactic when new diseases come along, and history suggests it works against some, but not all, infections.</p><p class="Component-root-0-2-78 Component-p-0-2-69">There’s no solid evidence yet that it fights the coronavirus and, if so, how best to use it. But preliminary data from 35,000 coronavirus patients treated with plasma offers what Mayo lead researcher Dr. Michael Joyner on Friday called “signals of efficacy.” </p><div class="Component-dfp-0-2-73"><div class="Component-adTitle-0-2-32">ADVERTISEMENT</div><div class="Component-placeholderWrapper-0-2-35"><div class="Component-visualPlaceholder-0-2-33"></div><div data-key="ad-placeholder" id="div-gpt-ad_site_article_midarticle1" class="DFPSlot Component-ad-0-2-31"></div></div></div><p class="Component-root-0-2-78 Component-p-0-2-69">There were fewer deaths among people given plasma within three days of diagnosis, and also among those given plasma containing the highest levels of virus-fighting antibodies, Joyner and colleagues reported.</p><div class="relatedStory-0-2-79 Component-block-0-2-74"><div class="intro-0-2-80">More on the Pandemic:</div><ul class="list-0-2-81"><li class="relatedStory-0-2-85"><a class="link-0-2-86" href="/article/virus-outbreak-sports-ap-top-news-travel-health-e740db0df7d56035fed7ab266fc4a5eb">– <!-- -->The Latest: Navajo reservation ready to reopen tourist sites</a></li><li class="relatedStory-0-2-85"><a class="link-0-2-86" href="/article/virus-outbreak-vt-state-wire-mt-state-wire-u-s-news-travel-9a0d70f9c63e63dde9a47e8f047751f3">– <!-- -->Canada U.S border restrictions extended to at least Sept.</a></li><li class="relatedStory-0-2-85"><a class="link-0-2-86" href="/article/virus-outbreak-health-clinical-trials-indonesia-joko-widodo-78bf7646047dc6add207ecce1f91a591">– <!-- -->Indonesia takes part in late-stage China vaccine trial</a></li></ul></div><p class="Component-root-0-2-78 Component-p-0-2-69">The problem: This wasn’t a formal study. The patients were treated in different ways in hospitals around the country as part of a Food and Drug Administration program designed to speed access to the experimental therapy. That so-called “expanded access” program tracks what happens to the recipients, but it cannot prove the plasma — and not other care they received — was the real reason for improvement. </p><p class="Component-root-0-2-78 Component-p-0-2-69">Rigorous studies underway around the country are designed to get that proof, by comparing similar patients randomly assigned to get plasma or a dummy infusion in addition to regular care. But those studies have been difficult to finish as the virus waxes and wanes in different cities. Also, some patients have requested plasma rather than agreeing to a study that might give them a placebo instead.</p><p class="Component-root-0-2-78 Component-p-0-2-69">“For 102 years we’ve been debating whether or not convalescent plasma works,” said Dr. Mila Ortigoza of New York University, referring to plasma’s use in the 1918 flu pandemic. This time around, “we really need undisputable evidence.”</p><p class="Component-root-0-2-78 Component-p-0-2-69">Ortigoza is co-leading one such study, which this week is expanding to three other states — Connecticut, Florida and Texas. Her team also is working to pool data with several other clinical trials in other regions, in hopes of faster answers.</p><p class="Component-root-0-2-78 Component-p-0-2-69">“There’s concern about when there will be a clear answer,” agreed infectious disease specialist Dr. Jeffrey Henderson of Washington University in St. Louis. </p><p class="Component-root-0-2-78 Component-p-0-2-69">He’s hopeful the clinical trials will push forward but said the Mayo report is consistent with smaller, earlier plasma studies and “an example of making the best you can of the data that’s available.”</p><div class="Component-dfp-0-2-73"><div class="Component-adTitle-0-2-32">ADVERTISEMENT</div><div class="Component-placeholderWrapper-0-2-35"><div class="Component-visualPlaceholder-0-2-33"></div><div data-key="ad-placeholder" id="div-gpt-ad_site_article_midarticle2" class="DFPSlot Component-ad-0-2-31"></div></div></div><p class="Component-root-0-2-78 Component-p-0-2-69">When the body encounters a new germ, it makes proteins called antibodies that are specially targeted to fight that particular infection. The antibodies float in plasma — the yellowish, liquid part of blood. Because it takes a few weeks for antibodies to form, the hope is that transfusing someone else’s antibodies could help patients fight the virus before their own immune system kicks in.</p><div id="afs:Content:9223181609" data-key="hub-link-embed" class="Component-hubLink-0-2-75"><span class="title-0-2-83">Full Coverage:<!-- --> </span><a class="link-0-2-84 overrideArticle" href="/tag/VirusOutbreak">Virus Outbreak</a></div><p class="Component-root-0-2-78 Component-p-0-2-69">The Mayo findings were posted online ahead of scientific peer review. They show that 20% of people given high-antibody plasma within three days of diagnosis had died within 30 days compared with 30% of people treated later with low-antibody plasma.</p><p class="Component-root-0-2-78 Component-p-0-2-69">The FDA has been closely considering if the evidence is good enough to allow so-called emergency use of convalescent plasma, a step that would make it even harder for more rigorous testing to be completed. FDA didn’t immediately comment Friday.</p><p class="Component-root-0-2-78 Component-p-0-2-69">Tens of thousands of COVID-19 survivors have donated their plasma, and blood banks have issued calls for even more to meet the demand as the coronavirus continues to ravage the U.S. According to AABB, the American Association of Blood Banks, a quarter of hospitals it checks weekly are reporting waits of more than 24 hours in obtaining requested plasma.</p><p class="Component-root-0-2-78 Component-p-0-2-69">Beyond whether plasma generally helps, scientists want to know when it should be used — for the very sick or at the earliest sign of infection? And what’s the right dose? COVID-19 survivors harbor widely varying amounts of antibodies, which Ortigoza said is difficult to measure before the donated plasma is used. She said another question is which of the many types of antibodies are the best to use.</p><p class="Component-root-0-2-78 Component-p-0-2-69">Joyner noted that the expanded access program wasn’t meant to replace rigorous studies but was originally designed to track 5,000 people and see if plasma was safe. Instead, the program skyrocketed. </p><p class="Component-root-0-2-78 Component-p-0-2-69">“There’s probably reasonable, actionable evidence from our findings to really reaffirm” historic lessons of plasma therapy, that earlier use is better, he said. </p><p class="Component-root-0-2-78 Component-p-0-2-69">___</p><p class="Component-root-0-2-78 Component-p-0-2-69"> The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education. The AP is solely responsible for all content.</p></div></div></div><div class="Component-footer-0-2-1 -footer"><div class="fluid-wrapper"><div class="Component-grid-0-2-2"><nav class="Component-nav-0-2-3"><div class="Component-title-0-2-9">AP NEWS</div><ol class="Component-list-0-2-10"><li><a href="/hub/top-news">Top Stories</a></li><li><a href="/hub/videos">Video</a></li><li><a href="mailto:support@apnews.com" rel="noopener noreferrer">Contact Us</a></li><li><button class="optanon-show-settings">Cookie Settings</button></li></ol></nav><div class="ssr-mobile Component-divider-0-2-12"></div><nav class="Component-apps-0-2-4"><div class="Component-title-0-2-9">Download AP NEWS</div><div class="Component-downloadDescription-0-2-11">Connect with the definitive source for global and local news</div><div class="Component-list-0-2-13"></div></nav><div class="ssr-mobile Component-divider-0-2-12"></div><nav class="Component-moreFromAp-0-2-5"><div class="Component-title-0-2-9">More from AP</div><ol class="Component-list-0-2-10"><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org">ap.org</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://insights.ap.org/">AP Insights</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://blog.ap.org/">AP Definitive Source Blog</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://apimagesblog.com/">AP Images Spotlight</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/explore/">AP Explore</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/books/">AP Books</a></li></ol></nav><div class="ssr-mobile Component-divider-0-2-12"></div><nav class="Component-followAp-0-2-6"><div class="Component-title-0-2-9">Follow AP</div><ol class="Component-list-0-2-17"><li class="Component-item-0-2-18"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/AP" class="Component-icon-0-2-19"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-twitter"></use></svg></a></li><li class="Component-item-0-2-18"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/APNews" class="Component-icon-0-2-19"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-facebook"></use></svg></a></li><li class="Component-item-0-2-18"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/AssociatedPress" class="Component-icon-0-2-19"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-youtube"></use></svg></a></li><li class="Component-item-0-2-18"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/associated-press" class="Component-icon-0-2-19"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-linkedin"></use></svg></a></li></ol></nav><div class="Component-divider-0-2-7 Component-divider-0-2-12"></div><div class="Component-legalStuff-0-2-8 Component-legalStuff-0-2-20"><nav class="Component-legalStuffNav-0-2-21"><div class="Component-title-0-2-24 Component-spaceBelow-0-2-27">The Associated Press</div><ol class="Component-list-0-2-22"><li class="Component-listItem-0-2-23"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/about/">About</a></li><li class="Component-listItem-0-2-23"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/contact-us/">Contact</a></li><li class="Component-listItem-0-2-23"><a target="_blank" rel="noopener noreferrer" href="http://aphelp.ap.org">Customer Support</a></li><li class="Component-listItem-0-2-23"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/careers/">Careers</a></li><li class="Component-listItem-0-2-23"><a href="/termsofservice">Terms &amp; Conditions</a></li><li class="Component-listItem-0-2-23"><a href="/privacystatement">Privacy</a></li></ol></nav><div class="Component-copyright-0-2-25"><span class="Component-span-0-2-26 Component-spaceBelow-0-2-27 Component-spaceAbove-0-2-28">All contents © copyright <!-- -->2021<!-- --> The Associated Press.</span><span class="Component-span-0-2-26 Component-spaceBelow-0-2-27"> All rights reserved.</span></div></div></div></div></div></main></div></div><script>window['titanium-config'] = {"env":"prod","base":"https://apnews.com","afsApi":"https://afs-prod.appspot.com/api/v2","gcsRoot":"https://storage.googleapis.com/afs-prod","googleAnalyticsId":"UA-19104461-33","googleTagManagerId":"GTM-WNXLD4","dfpEnvironment":"PRODUCTION","newRelicServerConfig":"./config/newrelic/prod","appVersion":"1015","pianoAid":"wwB5UljV1U","sailThru":true};
+window['titanium-state'] = {"eyebrow":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"markdown":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"hub":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"card":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"content":{"loading":{"urn:publicid:ap.org:163b00d672a08a04b586d082a841f3cc":false,"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb":false,"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3":false,"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591":false,"afs:Content:9223181609":false},"error":{"urn:publicid:ap.org:163b00d672a08a04b586d082a841f3cc":null,"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb":null,"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3":null,"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591":null,"afs:Content:9223181609":null},"data":{"urn:publicid:ap.org:163b00d672a08a04b586d082a841f3cc":{"id":"urn:publicid:ap.org:163b00d672a08a04b586d082a841f3cc","shortId":"163b00d672a08a04b586d082a841f3cc","bylines":"By LAURAN NEERGAARD","contentType":"text","disableConnatix":false,"downloadSettings":null,"embedCaption":null,"embedHeight":null,"embedHTML":null,"embedLinkURL":null,"firstWords":"\u003cp>Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer...\u003c/p>","hasTextOverlay":false,"headline":"Study hints, can't prove, survivor plasma fights COVID-19","description":null,"interactiveLinkUrl":null,"interactiveLinkUrlText":null,"language":null,"leadPhotoId":"d33ca3ebbc524de7943bcbc82ec49597","leadVideoId":null,"localLinkUrl":null,"localMemberName":null,"media":[{"id":"d33ca3ebbc524de7943bcbc82ec49597","type":"Photo","caption":"\u003cp>FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it's not proof, and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer. (AP Photo/Juan Karita)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.50300601202405,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/d33ca3ebbc524de7943bcbc82ec49597/","embedCaption":null,"uploaded":true,"flattenedCaption":"FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it's not proof, and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer. (AP Photo/Juan Karita)","updated":"2021-04-30T14:25:33.411163","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null}],"audioMedia":[],"mediumIds":["d33ca3ebbc524de7943bcbc82ec49597"],"mediaCount":1,"published":"2021-04-20 11:08:55","tagObjs":[{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false},{"id":"apf-science","name":"Science","canonicalName":"science","isPr":false},{"id":"apf-usnews","name":"U.S. News","canonicalName":"us-news","isPr":false},{"id":"apf-topnews","name":"AP Top News","canonicalName":"ap-top-news","isPr":false},{"id":"VirusOutbreak","name":"Virus Outbreak","canonicalName":"virus-outbreak","isPr":false},{"id":"UnderstandingtheOutbreak","name":"Understanding the Outbreak","canonicalName":"understanding-the-outbreak","isPr":false}],"updated":"2020-08-14 19:38:12","tagIds":["apf-Health","apf-science","apf-usnews","apf-topnews","VirusOutbreak","UnderstandingtheOutbreak"],"title":"US-MED--Virus Outbreak-Blood of the Recovered","contentSponsor":null,"layoutType":"Small Photo","stackedStory":true,"notificationId":null,"richEmbeds":[{"id":"afs:Content:9223181609","tag":{"id":"VirusOutbreak","isPr":false,"name":"Virus Outbreak"},"type":"Hub Link","calloutText":"Full Coverage:","displayName":"Virus Outbreak","leadHubLink":true,"isPermanentlyPlaced":true}],"sponsored":false,"embedRatio":null,"embedType":"Other","pullQuoteObjs":[],"dateline":null,"leadVideoAutoEmbed":false,"flattenedFirstWords":"Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps ot...","isTpContent":false,"socialEmbeds":[],"isPrContent":false,"storyHTML":"\u003cp>Mayo Clinic researchers reported a strong hint that blood plasma from COVID-19 survivors helps other patients recover, but it’s not proof and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer.\u003c/p>\u003cp>More than 64,000 patients in the U.S. have been given convalescent plasma, a century-old approach to fend off flu and measles before vaccines. It's a go-to tactic when new diseases come along, and history suggests it works against some, but not all, infections.\u003c/p>\u003cp>There’s no solid evidence yet that it fights the coronavirus and, if so, how best to use it. But preliminary data from 35,000 coronavirus patients treated with plasma offers what Mayo lead researcher Dr. Michael Joyner on Friday called “signals of efficacy.” \u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>There were fewer deaths among people given plasma within three days of diagnosis, and also among those given plasma containing the highest levels of virus-fighting antibodies, Joyner and colleagues reported.\u003c/p>\u003cdiv class=\"related-story-embed\" id=\"194fd8d0-b900-11ea-f839-554eea0d15f3\">\u003c/div>\u003cp>The problem: This wasn’t a formal study. The patients were treated in different ways in hospitals around the country as part of a Food and Drug Administration program designed to speed access to the experimental therapy. That so-called “expanded access” program tracks what happens to the recipients, but it cannot prove the plasma — and not other care they received — was the real reason for improvement. \u003c/p>\u003cp>Rigorous studies underway around the country are designed to get that proof, by comparing similar patients randomly assigned to get plasma or a dummy infusion in addition to regular care. But those studies have been difficult to finish as the virus waxes and wanes in different cities. Also, some patients have requested plasma rather than agreeing to a study that might give them a placebo instead.\u003c/p>\u003cp>“For 102 years we’ve been debating whether or not convalescent plasma works,” said Dr. Mila Ortigoza of New York University, referring to plasma’s use in the 1918 flu pandemic. This time around, “we really need undisputable evidence.”\u003c/p>\u003cp>Ortigoza is co-leading one such study, which this week is expanding to three other states — Connecticut, Florida and Texas. Her team also is working to pool data with several other clinical trials in other regions, in hopes of faster answers.\u003c/p>\u003cp>“There’s concern about when there will be a clear answer,” agreed infectious disease specialist Dr. Jeffrey Henderson of Washington University in St. Louis. \u003c/p>\u003cp>He’s hopeful the clinical trials will push forward but said the Mayo report is consistent with smaller, earlier plasma studies and \"an example of making the best you can of the data that’s available.\"\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>When the body encounters a new germ, it makes proteins called antibodies that are specially targeted to fight that particular infection. The antibodies float in plasma — the yellowish, liquid part of blood. Because it takes a few weeks for antibodies to form, the hope is that transfusing someone else’s antibodies could help patients fight the virus before their own immune system kicks in.\u003c/p>\u003cdiv class=\"hub-link-embed\" id=\"afs:Content:9223181609\">Full Coverage: Virus Outbreak\u003c/div>\u003cp>The Mayo findings were posted online ahead of scientific peer review. They show that 20% of people given high-antibody plasma within three days of diagnosis had died within 30 days compared with 30% of people treated later with low-antibody plasma.\u003c/p>\u003cp>The FDA has been closely considering if the evidence is good enough to allow so-called emergency use of convalescent plasma, a step that would make it even harder for more rigorous testing to be completed. FDA didn’t immediately comment Friday.\u003c/p>\u003cp>Tens of thousands of COVID-19 survivors have donated their plasma, and blood banks have issued calls for even more to meet the demand as the coronavirus continues to ravage the U.S. According to AABB, the American Association of Blood Banks, a quarter of hospitals it checks weekly are reporting waits of more than 24 hours in obtaining requested plasma.\u003c/p>\u003cp>Beyond whether plasma generally helps, scientists want to know when it should be used — for the very sick or at the earliest sign of infection? And what’s the right dose? COVID-19 survivors harbor widely varying amounts of antibodies, which Ortigoza said is difficult to measure before the donated plasma is used. She said another question is which of the many types of antibodies are the best to use.\u003c/p>\u003cp>Joyner noted that the expanded access program wasn’t meant to replace rigorous studies but was originally designed to track 5,000 people and see if plasma was safe. Instead, the program skyrocketed. \u003c/p>\u003cp>“There’s probably reasonable, actionable evidence from our findings to really reaffirm” historic lessons of plasma therapy, that earlier use is better, he said. \u003c/p>\u003cp>___\u003c/p>\u003cp> The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education. The AP is solely responsible for all content.\u003c/p>","alertLinkDateTime":null,"storyLayout":{"type":"standard","background":"light"},"reporters":[],"reporterKeys":[],"headlinePlacement":"bottom left","relatedStoryEmbeds":[{"id":"194fd8d0-b900-11ea-f839-554eea0d15f3","name":"","introText":"More on the Pandemic:","contentsList":[{"url":"https://apnews.com/e740db0df7d56035fed7ab266fc4a5eb","contentId":"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb"},{"url":"https://apnews.com/9a0d70f9c63e63dde9a47e8f047751f3","contentId":"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3"},{"url":"https://apnews.com/78bf7646047dc6add207ecce1f91a591","contentId":"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591"}],"isPermanentlyPlaced":true}],"disableNativo":false,"canonicalUrl":"virus-outbreak-ap-top-news-understanding-the-outbreak-health-science"},"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb":{"id":"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb","shortId":"e740db0df7d56035fed7ab266fc4a5eb","bylines":"By The Associated Press","contentType":"text","disableConnatix":false,"downloadSettings":null,"embedCaption":null,"embedHeight":null,"embedHTML":null,"embedLinkURL":null,"firstWords":"\u003cp>FLAGSTAFF, Ariz. — Popular tourist destinations in the Navajo Nation, including Canyon de Chelly, can start welcoming back tourists Monday under the tribe’s reopening plan...\u003c/p>","hasTextOverlay":false,"headline":"The Latest: Navajo reservation ready to reopen tourist sites","description":null,"interactiveLinkUrl":null,"interactiveLinkUrlText":null,"language":null,"leadPhotoId":"242680d49160476e9d603b7b36ebf6e7","leadVideoId":null,"localLinkUrl":null,"localMemberName":null,"media":[{"id":"242680d49160476e9d603b7b36ebf6e7","type":"Photo","caption":"\u003cp>Bike riders ride past a \"Mask Up Miami Beach,\" sign, Tuesday, Aug. 11, 2020, in Miami Beach. Florida added at least 276 fatalities to its coronavirus death toll on Tuesday, a new state record. (AP Photo/Wilfredo Lee)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.7144532395192,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/242680d49160476e9d603b7b36ebf6e7/","embedCaption":null,"uploaded":true,"flattenedCaption":"Bike riders ride past a \"Mask Up Miami Beach,\" sign, Tuesday, Aug. 11, 2020, in Miami Beach. Florida added at least 276 fatalities to its coronavirus death toll on Tuesday, a new state record. (AP Photo/Wilfredo Lee)","updated":"2021-05-01T11:40:05.971284","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"dbd62e12fc254a68ab51b369dd0adfe5","type":"Photo","caption":"\u003cp>Martin Santiaguillo hawks bubble toy guns along the iconic Reforma Avenue in Mexico City, Friday, Aug. 14, 2020, amid the new coronavirus pandemic. (AP Photo/Marco Ugarte)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[2079,2000,1000,800,600,400],"aspectRatio":1.57619408642911,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/dbd62e12fc254a68ab51b369dd0adfe5/","embedCaption":null,"uploaded":true,"flattenedCaption":"Martin Santiaguillo hawks bubble toy guns along the iconic Reforma Avenue in Mexico City, Friday, Aug. 14, 2020, amid the new coronavirus pandemic. (AP Photo/Marco Ugarte)","updated":"2021-05-01T11:40:05.258247","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"bcd8050dd56244d6a6e9f2c085e88573","type":"Photo","caption":"\u003cp>Chainbridge Distillery owner Bela Nahori displays bottles of hand sanitizer in Oakland Park on Tuesday, Aug. 11, 2020. The local distillery was given FDA approval to stop making spirits and instead make hand sanitizer at the start of the pandemic, but the demand has since plummeted and Nahori is currently overstocked.  (John McCall /South Florida Sun-Sentinel via AP)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/bcd8050dd56244d6a6e9f2c085e88573/","embedCaption":null,"uploaded":true,"flattenedCaption":"Chainbridge Distillery owner Bela Nahori displays bottles of hand sanitizer in Oakland Park on Tuesday, Aug. 11, 2020. The local distillery was given FDA approval to stop making spirits and instead make hand sanitizer at the start of the pandemic, but the demand has since plummeted and Nahori is currently overstocked.  (John McCall /South Florida Sun-Sentinel via AP)","updated":"2021-05-01T11:40:05.764539","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"0de8aa9250864d19a167c46141d443bd","type":"Photo","caption":"\u003cp>An artist sprays paints a wall with topic about the Coronavirus in Barcelona, Spain, Thursday, Aug. 13, 2020. Spain's daily number of new COVID-19 cases has shot up, with almost 2,935 officially reported Thursday compared with 1,690 the previous day. (AP Photo/Emilio Morenatti)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.47045951859956,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/0de8aa9250864d19a167c46141d443bd/","embedCaption":null,"uploaded":true,"flattenedCaption":"An artist sprays paints a wall with topic about the Coronavirus in Barcelona, Spain, Thursday, Aug. 13, 2020. Spain's daily number of new COVID-19 cases has shot up, with almost 2,935 officially reported Thursday compared with 1,690 the previous day. (AP Photo/Emilio Morenatti)","updated":"2021-05-01T11:40:05.881773","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"0196de1a67ab435a904a8f7bcae59c6e","type":"Photo","caption":"\u003cp>FILE - In this Sunday, July 12, 2020, file photo, visitors crowd the beach in Santa Monica, Calif., amid the coronavirus pandemic. California faces a heat wave Friday, Aug. 14, 2020, that could bring dangerously high temperatures throughout the state, along with the threat of wildfires and spreading coronavirus infections as people flock to beaches and recreation areas. (AP Photo/Marcio Jose Sanchez, File)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/0196de1a67ab435a904a8f7bcae59c6e/","embedCaption":null,"uploaded":true,"flattenedCaption":"FILE - In this Sunday, July 12, 2020, file photo, visitors crowd the beach in Santa Monica, Calif., amid the coronavirus pandemic. California faces a heat wave Friday, Aug. 14, 2020, that could bring dangerously high temperatures throughout the state, along with the threat of wildfires and spreading coronavirus infections as people flock to beaches and recreation areas. (AP Photo/Marcio Jose Sanchez, File)","updated":"2021-05-01T11:40:05.677169","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"139f4701b6084f309d5071e10f54abda","type":"Photo","caption":"\u003cp>A sign encouraging social distancing is seen during the \"World's Longest Yard Sale,\" Sunday, Aug. 9, 2020, in Dunlap, Tenn. The six-state yard sale, which was held despite concerns over the coronavirus pandemic, started Thursday and ended Sunday, and stretched from Alabama to Michigan. (C.B. Schmelter/Chattanooga Times Free Press via AP)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.49980864906238,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/139f4701b6084f309d5071e10f54abda/","embedCaption":null,"uploaded":true,"flattenedCaption":"A sign encouraging social distancing is seen during the \"World's Longest Yard Sale,\" Sunday, Aug. 9, 2020, in Dunlap, Tenn. The six-state yard sale, which was held despite concerns over the coronavirus pandemic, started Thursday and ended Sunday, and stretched from Alabama to Michigan. (C.B. Schmelter/Chattanooga Times Free Press via AP)","updated":"2021-05-01T11:40:05.601051","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"a3fcdfc115774b688db002783be3e29c","type":"Photo","caption":"\u003cp>A cyclists passes an empty Flinders Street Station during lockdown due to the continuing spread of the coronavirus in Melbourne, Thursday, Aug. 6, 2020. Victoria state, Australia's coronavirus hot spot, announced on Monday that businesses will be closed and scaled down in a bid to curb the spread of the virus. (AP Photo/Andy Brownbill)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/a3fcdfc115774b688db002783be3e29c/","embedCaption":null,"uploaded":true,"flattenedCaption":"A cyclists passes an empty Flinders Street Station during lockdown due to the continuing spread of the coronavirus in Melbourne, Thursday, Aug. 6, 2020. Victoria state, Australia's coronavirus hot spot, announced on Monday that businesses will be closed and scaled down in a bid to curb the spread of the virus. (AP Photo/Andy Brownbill)","updated":"2021-05-01T11:40:05.180373","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"73e0c269f23242f19570426a315e6663","type":"Photo","caption":"\u003cp>FILE - In this Sunday, April 5, 2020 file photo, a distance is measured as worshippers line up to take communion on Palm Sunday outside of Godspeak Calvary Chapel in Newbury Park, Calif. Churches in California and Minnesota, backed by a conservative legal group, have file lawsuits in August 2020 against the governors of their states challenging restrictions imposed due to the coronavirus outbreak that they contend are violations of religious liberty. (AP Photo/Marcio Jose Sanchez, File)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/73e0c269f23242f19570426a315e6663/","embedCaption":null,"uploaded":true,"flattenedCaption":"FILE - In this Sunday, April 5, 2020 file photo, a distance is measured as worshippers line up to take communion on Palm Sunday outside of Godspeak Calvary Chapel in Newbury Park, Calif. Churches in California and Minnesota, backed by a conservative legal group, have file lawsuits in August 2020 against the governors of their states challenging restrictions imposed due to the coronavirus outbreak that they contend are violations of religious liberty. (AP Photo/Marcio Jose Sanchez, File)","updated":"2021-05-01T11:40:05.518409","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"96678a227fd248f6ba2de299f1c2a875","type":"Photo","caption":"\u003cp>A  man undergoes testing for COVID-19 at Rome's San Giovanni Addolorata hospital, Friday, Aug. 14, 2020. Italy is imposing mandatory testing on anyone arriving from Greece, Spain, Malta and Croatia as the number of new confirmed cases of coronavirus continues to nudge up with new cases recorded in every region of the country, often imported from abroad. (Cecilia Fabiano/LaPresse via AP)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[2869,2000,1000,800,600,400],"aspectRatio":1.5005230125523,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/96678a227fd248f6ba2de299f1c2a875/","embedCaption":null,"uploaded":true,"flattenedCaption":"A  man undergoes testing for COVID-19 at Rome's San Giovanni Addolorata hospital, Friday, Aug. 14, 2020. Italy is imposing mandatory testing on anyone arriving from Greece, Spain, Malta and Croatia as the number of new confirmed cases of coronavirus continues to nudge up with new cases recorded in every region of the country, often imported from abroad. (Cecilia Fabiano/LaPresse via AP)","updated":"2021-05-01T11:40:05.819986","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"259c5df9742045ab94139dba549b52c1","type":"Photo","caption":"\u003cp>A volunteer shows the occupants of a car the step by step procedure for performing a COVID-19 nasal swab early Tuesday, Aug. 11, 2020 during the first day of a megablitz testing event presented by Yuma County, the City of Yuma and the Arizona Department of Emergency and Military Affairs in the parking lot of the Yuma Civic Center. The blitz is intended to offer up to 10,000 free COVID-19 drive-through tests to area residents. (Randy Hoeft/Yuma Sun via AP)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[1600,1000,800,600,400],"aspectRatio":1.97287299630086,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/259c5df9742045ab94139dba549b52c1/","embedCaption":null,"uploaded":true,"flattenedCaption":"A volunteer shows the occupants of a car the step by step procedure for performing a COVID-19 nasal swab early Tuesday, Aug. 11, 2020 during the first day of a megablitz testing event presented by Yuma County, the City of Yuma and the Arizona Department of Emergency and Military Affairs in the parking lot of the Yuma Civic Center. The blitz is intended to offer up to 10,000 free COVID-19 drive-through tests to area residents. (Randy Hoeft/Yuma Sun via AP)","updated":"2021-05-01T11:40:05.475485","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"8a3af96755b34758ae1735734eb20d50","type":"Photo","caption":"\u003cp>Desks are spaced out in a classroom at Aikahi Elementary School in Kailua, Hawaii on Tuesday, July 28, 2020. While Hawaii has one of the lowest rates of cases per capita in the country and many of its schools have open-air campuses, the challenges of returning kids full time to classrooms may still be insurmountable. (AP Photo/Jennifer Sinco Kelleher)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/8a3af96755b34758ae1735734eb20d50/","embedCaption":null,"uploaded":true,"flattenedCaption":"Desks are spaced out in a classroom at Aikahi Elementary School in Kailua, Hawaii on Tuesday, July 28, 2020. While Hawaii has one of the lowest rates of cases per capita in the country and many of its schools have open-air campuses, the challenges of returning kids full time to classrooms may still be insurmountable. (AP Photo/Jennifer Sinco Kelleher)","updated":"2021-05-01T11:40:05.397016","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"6665043ecb0a48769c10fcac794a21bd","type":"Photo","caption":"\u003cp>A bartender brings drinks to customers in a cafe of Saint Jean de Luz, southwestern France, Tuesday June 2, 2020. The French way of life resumes Tuesday with most virus-related restrictions easing as the country prepares for the summer holiday season amid the pandemic. Restaurants and cafes reopen Tuesday with a notable exception for the Paris region, the country's worst-affected by the virus, where many facilities will have to wait until June 22 to reopen. (AP Photo/Bob Edme)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/6665043ecb0a48769c10fcac794a21bd/","embedCaption":null,"uploaded":true,"flattenedCaption":"A bartender brings drinks to customers in a cafe of Saint Jean de Luz, southwestern France, Tuesday June 2, 2020. The French way of life resumes Tuesday with most virus-related restrictions easing as the country prepares for the summer holiday season amid the pandemic. Restaurants and cafes reopen Tuesday with a notable exception for the Paris region, the country's worst-affected by the virus, where many facilities will have to wait until June 22 to reopen. (AP Photo/Bob Edme)","updated":"2021-05-01T11:40:05.343571","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null}],"audioMedia":[],"mediumIds":["242680d49160476e9d603b7b36ebf6e7","dbd62e12fc254a68ab51b369dd0adfe5","bcd8050dd56244d6a6e9f2c085e88573","0de8aa9250864d19a167c46141d443bd","0196de1a67ab435a904a8f7bcae59c6e","139f4701b6084f309d5071e10f54abda","a3fcdfc115774b688db002783be3e29c","73e0c269f23242f19570426a315e6663","96678a227fd248f6ba2de299f1c2a875","259c5df9742045ab94139dba549b52c1","8a3af96755b34758ae1735734eb20d50","6665043ecb0a48769c10fcac794a21bd"],"mediaCount":12,"published":"2021-04-20 12:02:47","tagObjs":[{"id":"apf-travel","name":"AP Travel","canonicalName":"ap-travel","isPr":false},{"id":"VirusOutbreak","name":"Virus Outbreak","canonicalName":"virus-outbreak","isPr":false},{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false},{"id":"apf-topnews","name":"AP Top News","canonicalName":"ap-top-news","isPr":false},{"id":"Paris","name":"Paris","canonicalName":"paris","isPr":false},{"id":"apf-intlnews","name":"Int'l News","canonicalName":"international-news","isPr":false},{"id":"apf-sports","name":"Sports","canonicalName":"sports","isPr":false},{"id":"Alabama","name":"Alabama","canonicalName":"alabama","isPr":false},{"id":"apf-canada","name":"Canada","canonicalName":"canada","isPr":false},{"id":"apf-latinamerica","name":"Latin America","canonicalName":"latin-america","isPr":false},{"id":"apf-asiapac","name":"Asia Pacific","canonicalName":"asia-pacific","isPr":false},{"id":"apf-europe","name":"Europe","canonicalName":"europe","isPr":false},{"id":"apf-Travel","name":"Travel","canonicalName":"travel","isPr":false}],"updated":"2020-08-15 01:14:58","tagIds":["apf-travel","VirusOutbreak","apf-Health","apf-topnews","Paris","apf-intlnews","apf-sports","Alabama","apf-canada","apf-latinamerica","apf-asiapac","apf-europe","apf-Travel"],"title":"Virus Outbreak-The Latest","contentSponsor":null,"layoutType":"Small Photo","stackedStory":true,"notificationId":null,"richEmbeds":null,"sponsored":false,"embedRatio":null,"embedType":"Other","pullQuoteObjs":[],"dateline":null,"leadVideoAutoEmbed":false,"flattenedFirstWords":"FLAGSTAFF, Ariz. — Popular tourist destinations in the Navajo Nation, including Canyon de Chelly,...","isTpContent":false,"socialEmbeds":null,"isPrContent":false,"storyHTML":"\u003cp>FLAGSTAFF, Ariz. — Popular tourist destinations in the Navajo Nation, including Canyon de Chelly, can start welcoming back tourists Monday under the tribe’s reopening plan.\u003c/p>\u003cp>Much of the reservation has been closed since March as the new coronavirus swept through. \u003c/p>\u003cp>The tribe released a plan this week that allows parks and marinas to reopen with safeguards. Businesses can operate at limited capacity. \u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>Tribal President Jonathan Nez says the Navajo Nation won’t rush to fully reopen, recognizing that cases could spike if residents become complacent.\u003c/p>\u003cp>Employees at tribal and national parks on the reservation say they will be busy this weekend preparing for tourists.\u003c/p>\u003cp>___\u003c/p>\u003cp>HERE’S WHAT YOU NEED TO KNOW ABOUT THE VIRUS OUTBREAK: \u003c/p>\u003cp>— Canada-U.S. border closed for another month\u003c/p>\u003cp>— Alabama Gov. Ivey’s chief of staff in quarantine\u003c/p>\u003cp>— Indonesia takes part in \u003ca href=\"https://apnews.com/78bf7646047dc6add207ecce1f91a591\">late-stage \u003c/a> China vaccine trial\u003c/p>\u003cp>— Rural families \u003ca href=\"https://apnews.com/9d43c7de3b9506695e57b9dcf8dc8870\">without internet face tough choice \u003c/a> on school. Roughly 3 million students across the United States don’t have access to a home internet connection. For some, it is simply too expensive or there's no wi-fi.\u003c/p>\u003cp>— A federal judge \u003ca href=\"https://apnews.com/4e4c3bc2ec47a93dbd86c60e5218773a\">threw out a lawsuit \u003c/a> by an Arizona woman who claimed New York’s quarantine requirement for travelers from hotspot states infringed on her “fundamental right to travel.” \u003c/p>\u003cp>— NBA players at the Walt Disney World \u003ca href=\"https://apnews.com/b9c6460140ae4fd0ce3f9ae080baf4fc\">campus have been safe\u003c/a>, with no players testing positive for the coronavirus since arriving in early July. Now some players whose teams missed the playoffs return home to virus hotspots. \u003c/p>\u003cp>— Follow AP’s pandemic coverage at \u003ca href=\"http://apnews.com/VirusOutbreak\">http://apnews.com/VirusOutbreak\u003c/a> and \u003ca href=\"https://apnews.com/UnderstandingtheOutbreak\">https://apnews.com/UnderstandingtheOutbreak\u003c/a>\u003c/p>\u003cp>___\u003c/p>\u003cp>HERE’S WHAT ELSE IS HAPPENING:\u003c/p>\u003cp>MELBOURNE, Australia — The Australian state of Victoria continues to flatten the curve in its wave of coronavirus infections and deaths.\u003c/p>\u003cp>The state on Saturday reported four more COVID-19 deaths and 303 newly confirmed cases in the previous 24 hours. It is the second-lowest daily figure reported in Victoria this month after 278 cases Thursday.\u003c/p>\u003cp>Victoria’s daily case numbers are gradually decreasing, with the seven-day average down to 344 from 521 a week ago.\u003c/p>\u003cp>But authorities warn there is more progress needed before lockdown restrictions in the city of Melbourne can be eased.\u003c/p>\u003cp>Melbourne residents and those in a nearby shire remain subject to strict night-time curfews, time limits on outdoor exercise, distance allowed from home, mandatory public mask wearing and shutdowns of non-essential industries.\u003c/p>\u003cp>___\u003c/p>\u003cp>MEXICO CITY — Mexico’s number of confirmed coronavirus cases has risen to 511,369, as health officials say they believe the country's infections have peaked.\u003c/p>\u003cp>They reported 5,618 new confirmed cases Friday, and said 615 more deaths from COVID-19 had raised the pandemic death toll to 55,908. \u003c/p>\u003cp>Assistant Health Secretary Hugo López-Gatell says Mexico had reached its peak of infections over the last three weeks, saying that “we have now had a maximum point in the curve.” \u003c/p>\u003cp>However, he predicts that second waves of outbreaks will continue around the world for time. He says that “this is a phenomenon that is going to be with us in the whole world for several years.”\u003c/p>\u003cp>___\u003c/p>\u003cp>PARIS — Paris is expanding the areas of the city where pedestrians will be obliged to wear masks starting Saturday morning, with health officials saying the coronavirus is “active” in the French capital and the Mediterranean city of Marseille,\u003c/p>\u003cp>The Champs-Elysees Avenue and the area around the Louvre museum are among zones where masks will be mandatory. \u003c/p>\u003cp>Paris police checks ensuring respect for mask wearing in designated areas are to be reinforced. Bars and restaurants could be ordered closed if distancing and other barriers to virus transmission aren’t respected.\u003c/p>\u003cp>With France’s national figures on infections also rising, Britain late Thursday ordered a quarantine for people entering the United Kingdom from France. France responded Friday by saying it would do the same for travelers from Britain.\u003c/p>\u003cp>___\u003c/p>\u003cp>HONOLULU — Hawaii’s teachers union is challenging the state’s school reopening plans by filing a labor complaint. \u003c/p>\u003cp>The Hawaii State Teachers Association filed a complaint with the state Labor Relations Board over a change in working conditions from increasing COVID-19 infections. \u003c/p>\u003cp>Most public schools will start the academic year Monday with online instruction. The union is asking that all schools be online until at least the end of the first quarter. \u003c/p>\u003cp>The union says some schools are going forward with in-person instruction. The state Department of Education disputes that statement. The union is asking teachers to wear black on Monday.\u003c/p>\u003cp>___\u003c/p>\u003cp>PHOENIX -- Arizona Gov. Doug Ducey’s office says unemployed residents of the state were expecting to receive an additional $400 a week under an executive order by President Donald Trump will get only $300 extra.\u003c/p>\u003cp>Friday’s announcement comes after the state decided it should not use its own funds to cover a required 25% match to the extra coronavirus payments.\u003c/p>\u003cp>Arizonans were getting $600 extra on top of the maximum $240 a week. But that extra pay expired in late July when Congress failed to extend it.\u003c/p>\u003cp>Also on Friday, Arizona health officials reported 928 newly confirmed coronavirus cases and 40 additional deaths, increasing the state’s totals to 191,721 confirmed cases with 4,423 deaths.\u003c/p>\u003cp>___\u003c/p>\u003cp> SPRINGFIELD, Ill. — The Illinois Department of Public Health is reporting 2,264 more people have tested positive for the coronavirus — the largest increase in confirmed cases in nearly three months and the third time the state has topped 2,000 daily cases in the last week. \u003c/p>\u003cp>The state health department also said Friday that 25 more people have died from the virus, raising Illinois’ death toll from the pandemic to 7,721. \u003c/p>\u003cp>The most confirmed cases reported in Illinois in a single day was 4,014 on May 12.\u003c/p>\u003cp>In a press release, the health department blamed the uptick in the number of virus cases on local elected officials of communities “where there is little public concern for consequences or enforcement” of social distancing and isolation orders. Officials say 14 of the state’s 102 counties were deemed at “warning level” for the resurgence.\u003c/p>\u003cp>___\u003c/p>\u003cp>FRESNO, Calif. -- Students at a private school in California have attended a second day of in-person classes despite state and county orders to close the school. \u003c/p>\u003cp>Immanuel Schools in Reedley was told on Thursday to close its classrooms until the county is removed from a state monitoring list for two weeks. Fresno County also issued a health order against the K-12 school, which has about 600 students. \u003c/p>\u003cp>But the school allowed students into classes Thursday and Friday without masks or social distancing. The school’s trustees and superintendent say they believe students’ development will suffer if they cannot be taught on campus.\u003c/p>\u003cp>___\u003c/p>\u003cp>LANSING, Mich. — Michigan Gov. Gretchen Whitmer says 4 million masks will be distributed to the state's residents at no charge to help combat the coronavirus pandemic.\u003c/p>\u003cp>The face coverings will go to low-income people, seniors, schools and homeless shelters through a partnership of the state, Federal Emergency Management Agency and Ford Motor Co.\u003c/p>\u003cp>FEMA is supplying 2.5 million of the masks, including 1.5 million that the state has already sent to social service agencies. Ford is paying for 1.5 million masks, which combined with an additional 1 million from FEMA will go to low-income schools, the city of Detroit, health clinics for the poor, some virus testing sites and other places.\u003c/p>\u003cp>The governor has required that masks be worn in enclosed public spaces and also in outdoor public areas whenever consistent distancing is not possible.\u003c/p>\u003cp>___\u003c/p>\u003cp>LOS ANGELES — California is withering under a heat wave that has brought dangerously high temperatures, increased wildfire danger and fears of coronavirus spread as people flock to beaches and recreation areas.\u003c/p>\u003cp>High pressure building over Western states pushed temperatures into triple digits across the state by midday Friday.\u003c/p>\u003cp>Los Angeles opened cooling centers, but with limited capacity because of coronavirus social distancing requirements.\u003c/p>\u003cp>Health officers were worried that people will pack beaches, lakes and other recreation areas without following mask and social distancing orders — a major concern in a state that has seen more than 600,000 coronavirus cases.\u003c/p>\u003cp>Dr. George Rutherford, an epidemiologist at the University of California, San Francisco, told the San Francisco Chronicle that Israel saw a COVID-19 resurgence after a May heat wave inspired school officials to let children remove their masks.\u003c/p>\u003cp>“People will want to take off their masks when it’s hot,” Rutherford said. “Don’t do it.”\u003c/p>\u003cp>___\u003c/p>\u003cp>CHAPEL HILL, N.C. — A pair of COVID-19 clusters has been discovered at separate dormitories at the University of North Carolina at Chapel Hill.\u003c/p>\u003cp>An alert sent out by the school on Friday said the clusters were confirmed in Ehringhaus Community on the south end of campus and Granville Towers, which is on the west side of campus and adjacent to downtown Chapel Hill.\u003c/p>\u003cp>According to the school, the people in the clusters have been identified and are isolating and receiving medical monitoring. The school says it has also notified the Orange County Health Department and is working with the agency to identify possible potential exposures.\u003c/p>\u003cp>___\u003c/p>\u003cp>GAINESVILLE, Fla. — Florida’s high school athletic board has voted to begin practices for football and other fall sports Aug. 24 and games less than two weeks later. The decision pushes aside the advice of medical experts who said competition shouldn’t resume for at least six weeks because of the coronavirus outbreak.\u003c/p>\u003cp>The Florida High School Athletic Association board voted 11-5 on Friday to begin practices this month, though some counties with major outbreaks might choose to delay their seasons and forgo participation in the statewide playoffs.\u003c/p>\u003cp>Football games and other competitions could start Sept. 4, but the 67 countywide school districts plus private schools will have until Sept. 18 to resume if they want to participate in the playoffs. Other fall sports affected are swimming and diving, cross country, golf, bowling and girl’s volleyball.\u003c/p>\u003cp>The association’s vote pushed aside the recommendation of its medical advisory board, which called for not resuming sports until Sept. 28 at the earliest. No county meets all the criteria the board recommended for the resumption of sports.\u003c/p>\u003cp>The decision comes as Florida reported more than 6,200 new coronavirus cases and 200 deaths on Friday. Over the past week, Florida has averaged 175 reported coronavirus deaths per day — only Texas was higher with 212. \u003c/p>\u003cp>___\u003c/p>\u003cp>OAKLAND, Calif. — A judge has ordered a McDonald’s restaurant in California that was hit by a coronavirus outbreak to follow increased health and safety protocols to help stop the spread of the virus.\u003c/p>\u003cp>The San Francisco Chronicle reports an Alameda County judge issued a preliminary injunction on Thursday against the owners of the McDonald’s in Oakland. Workers said the outbreak there infected 35 people.\u003c/p>\u003cp>The judge ordered them to provide employees masks and gloves. It also required them to send home workers who show symptoms of infection.\u003c/p>\u003cp>After being closed for weeks, the McDonald’s franchise reopened in July after agreeing to requirements in a temporary restraining order.\u003c/p>\u003cp>___\u003c/p>\u003cp>PHOENIX — Arizona health officials on Friday reported 928 coronavirus cases and 40 more deaths.\u003c/p>\u003cp>That increased the state’s totals to 191,721 confirmed cases and 4,423 deaths.\u003c/p>\u003cp>Coronavirus-related hospitalizations in Arizona peaked about a month ago. The latest hospitalization metrics posted by the Department of Health Services are trending down to mid-June levels.\u003c/p>\u003cp>The seven-day rolling average of daily new cases decreased from 2,550 to 1,021 per day from July 30 to Aug. 13. The seven-day rolling average of daily deaths decreased from 94 to 54 in the same time period.\u003c/p>\u003cp>___\u003c/p>\u003cp>MONTGOMERY, Ala. — Alabama health officials are encouraged by a decline in coronavirus cases a month after a statewide mask order. \u003c/p>\u003cp>State Health Officer Scott Harris says the numbers are improving but warned people shouldn’t abandon precautions heading into Labor Day gatherings and school openings. \u003c/p>\u003cp>The seven-day average number of daily cases has dropped below 1,000, after reaching 1,800 in mid-July. The number of hospitalized patients has dropped from about 1,600 to 1,400, and the percent of positive tests has dropped from 16.7% to 12.3%.\u003c/p>\u003cp>Harris encouraged people to keep wearing masks. He says the numbers may be declining because the surge of cases after the July 4 holiday has ended and the statewide mask order in July “played a role” in lowering the numbers. \u003c/p>\u003cp>Dr. Don Williamson, the former state health officer who heads the Alabama Hospital Association, says the next concern is a possible spike when students return to schools and colleges and gather for the Labor Day weekend. \u003c/p>\u003cp>Williamson says while the number of coronavirus patients in hospitals has dropped, 89% of ICU beds are full.\u003c/p>\u003cp>___\u003c/p>\u003cp>WINDOW ROCK, Ariz. — Navajo Nation President Jonathan Nez is urging all schools on the tribe’s reservation to use online learning during the fall semester to help reduce the risk of spreading the coronavirus. \u003c/p>\u003cp>Nez’s statement cited all public and private schools, including charter schools, schools operated by the federal Bureau of Indian Affairs and those controlled by the tribe. \u003c/p>\u003cp>More than 9,300 confirmed coronavirus cases have been reported on the reservation, which includes parts of Arizona, New Mexico and Utah.\u003c/p>","alertLinkDateTime":null,"storyLayout":null,"reporters":[],"reporterKeys":[],"headlinePlacement":null,"relatedStoryEmbeds":null,"disableNativo":false,"canonicalUrl":"virus-outbreak-sports-ap-top-news-travel-health"},"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3":{"id":"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3","shortId":"9a0d70f9c63e63dde9a47e8f047751f3","bylines":"By ROB GILLIES","contentType":"text","disableConnatix":false,"downloadSettings":null,"embedCaption":null,"embedHeight":null,"embedHTML":null,"embedLinkURL":null,"firstWords":"\u003cp>TORONTO (AP) — The Canada-U.S. border will remain closed to non-essential travel for at least another month, Canada’s public safety minister said Friday...\u003c/p>","hasTextOverlay":false,"headline":"Canada U.S border restrictions extended to at least Sept.","description":null,"interactiveLinkUrl":null,"interactiveLinkUrlText":null,"language":null,"leadPhotoId":"c057c0dc09db4a6caffa83949aa8ac94","leadVideoId":null,"localLinkUrl":null,"localMemberName":null,"media":[{"id":"c057c0dc09db4a6caffa83949aa8ac94","type":"Photo","caption":"\u003cp>A ditch marks the Canada-U.S. border and separates people walking on the road, right, in Surrey, British Columbia, and those gathered at Peace Arch Historical State Park, left, in Blaine, Wash., Sunday, July 5, 2020. Although the B.C. government closed the Canadian side of the park in June due to concerns about crowding and COVID-19, people are still able to meet in the U.S. park due to a treaty signed in 1814 that allows citizens of Canada and the U.S. to unite in the park without technically crossing any border. (Darryl Dyck/The Canadian Press via AP)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.50037509377344,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/c057c0dc09db4a6caffa83949aa8ac94/","embedCaption":null,"uploaded":true,"flattenedCaption":"A ditch marks the Canada-U.S. border and separates people walking on the road, right, in Surrey, British Columbia, and those gathered at Peace Arch Historical State Park, left, in Blaine, Wash., Sunday, July 5, 2020. Although the B.C. government closed the Canadian side of the park in June due to concerns about crowding and COVID-19, people are still able to meet in the U.S. park due to a treaty signed in 1814 that allows citizens of Canada and the U.S. to unite in the park without technically crossing any border. (Darryl Dyck/The Canadian Press via AP)","updated":"2021-04-21T01:59:14.486314","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null}],"audioMedia":[],"mediumIds":["c057c0dc09db4a6caffa83949aa8ac94"],"mediaCount":1,"published":"2021-04-21 01:59:14","tagObjs":[{"id":"VirusOutbreak","name":"Virus Outbreak","canonicalName":"virus-outbreak","isPr":false},{"id":"state-NorthDakota","name":"ND State Wire","canonicalName":"nd-state-wire","isPr":false},{"id":"state-Utah","name":"UT State Wire","canonicalName":"ut-state-wire","isPr":false},{"id":"Bills","name":"Bills","canonicalName":"bills","isPr":false},{"id":"state-Washington","name":"WA State Wire","canonicalName":"wa-state-wire","isPr":false},{"id":"state-Michigan","name":"MI State Wire","canonicalName":"mi-state-wire","isPr":false},{"id":"state-Idaho","name":"ID State Wire","canonicalName":"id-state-wire","isPr":false},{"id":"BillBlair","name":"Bill Blair","canonicalName":"bill-blair","isPr":false},{"id":"UnitedStates","name":"United States","canonicalName":"united-states","isPr":false},{"id":"state-Maine","name":"ME State Wire","canonicalName":"me-state-wire","isPr":false},{"id":"state-NewHampshire","name":"NH State Wire","canonicalName":"nh-state-wire","isPr":false},{"id":"state-Vermont","name":"VT State Wire","canonicalName":"vt-state-wire","isPr":false},{"id":"apf-Travel","name":"Travel","canonicalName":"travel","isPr":false},{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false},{"id":"apf-usnews","name":"U.S. News","canonicalName":"us-news","isPr":false},{"id":"state-Minnesota","name":"MN State Wire","canonicalName":"mn-state-wire","isPr":false},{"id":"apf-canada","name":"Canada","canonicalName":"canada","isPr":false},{"id":"state-Montana","name":"MT State Wire","canonicalName":"mt-state-wire","isPr":false},{"id":"state-Alaska","name":"AK State Wire","canonicalName":"ak-state-wire","isPr":false}],"updated":"2020-08-14 16:08:32","tagIds":["VirusOutbreak","state-NorthDakota","state-Utah","Bills","state-Washington","state-Michigan","state-Idaho","BillBlair","UnitedStates","state-Maine","state-NewHampshire","state-Vermont","apf-Travel","apf-Health","apf-usnews","state-Minnesota","apf-canada","state-Montana","state-Alaska"],"title":"CN--Virus Outbreak-Canada-US Border","contentSponsor":null,"layoutType":"Small Photo","stackedStory":true,"notificationId":null,"richEmbeds":null,"sponsored":false,"embedRatio":null,"embedType":"Other","pullQuoteObjs":[],"dateline":null,"leadVideoAutoEmbed":false,"flattenedFirstWords":"TORONTO (AP) — The Canada-U.S. border will remain closed to non-essential travel for at least another month, Canada’s public safety minister said Friday.The statement by Public Safety Minister Bill...","isTpContent":false,"socialEmbeds":null,"isPrContent":false,"storyHTML":"\u003cp>TORONTO (AP) — The Canada-U.S. border will remain closed to non-essential travel for at least another month, Canada’s public safety minister said Friday.\u003c/p>\u003cp>The statement by Public Safety Minister Bill Blair came a day after Mexico announced a similar measure for its border with the United States.\u003c/p>\u003cp>The land border restrictions aimed at controlling the coronavirus pandemic were first announced in March and have been renewed monthly. \u003c/p>\u003cp>Many Canadians fear a reopening. Canada has flattened the epidemic curve while the U.S. has more confirmed cases and deaths from COVID-19 than any other country.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>Essential cross-border workers like health care professionals, airline crews and truck drivers are still permitted to cross. Much of Canada’s food supply comes from or via the U.S.\u003c/p>\u003cp>Americans who are returning to America and Canadians who are returning to Canada are also exempted from the border closure.\u003c/p>\u003cp>Canada sends 75% of its exports to the U.S. and about 18% of American exports go to Canada. The U.S. Canada border is world’s longest between two nations.\u003c/p>","alertLinkDateTime":null,"storyLayout":null,"reporters":[],"reporterKeys":[],"headlinePlacement":null,"relatedStoryEmbeds":null,"disableNativo":false,"canonicalUrl":"virus-outbreak-vt-state-wire-mt-state-wire-u-s-news-travel"},"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591":{"id":"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591","shortId":"78bf7646047dc6add207ecce1f91a591","bylines":"By EDNA TARIGAN and VICTORIA MILKO","contentType":"text","disableConnatix":false,"downloadSettings":null,"embedCaption":null,"embedHeight":null,"embedHTML":null,"embedLinkURL":null,"firstWords":"\u003cp>JAKARTA, Indonesia (AP) — More people in Indonesia rolled up their sleeves Friday to test a potential coronavirus vaccine developed by a Chinese company. \u003c/p>\u003cp>The Indonesian government announced the partnership between state-owned enterprise Bio Farma and the Chinese company Sinovac BioTech in early July. As part of the deal, Indonesia recruited 1,620 volunteers for the trial. The first 20 were injected with the candidate vaccine in Bandung, West Java province, on Tuesday, and more followed suit.\u003c/p>\u003cp>“We hope that this third clinical trial will be completed in six months. We hope that in January we can produce it and at the same time, if the production is ready, vaccinate all people in the country,” President Joko Widodo said on Tuesday.\u003c/p>","hasTextOverlay":false,"headline":"Indonesia takes part in late-stage China vaccine trial","description":null,"interactiveLinkUrl":null,"interactiveLinkUrlText":null,"language":null,"leadPhotoId":"ecd22a29ab4f44679de0cc92ef4917b5","leadVideoId":null,"localLinkUrl":null,"localMemberName":null,"media":[{"id":"ecd22a29ab4f44679de0cc92ef4917b5","type":"Photo","caption":"\u003cp>A street sweeper checks his mobile phone as he takes a break near a coronavirus-themed mural in Jakarta, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Tatan Syuflana)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.41438894125039,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/ecd22a29ab4f44679de0cc92ef4917b5/","embedCaption":null,"uploaded":false,"flattenedCaption":"A street sweeper checks his mobile phone as he takes a break near a coronavirus-themed mural in Jakarta, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Tatan Syuflana)","updated":"2021-05-01T00:03:39.904917","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"b512567cd34943478d3788f9b0a25d22","type":"Photo","caption":"\u003cp>A woman wearing a face mask as a precaution against the coronavirus outbreak waits for customers near her roadside cigarette and snack stall in Jakarta, Indonesia, Friday, Aug. 14, 2020. An Indonesian vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Tatan Syuflana)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.49984723495264,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/b512567cd34943478d3788f9b0a25d22/","embedCaption":null,"uploaded":false,"flattenedCaption":"A woman wearing a face mask as a precaution against the coronavirus outbreak waits for customers near her roadside cigarette and snack stall in Jakarta, Indonesia, Friday, Aug. 14, 2020. An Indonesian vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Tatan Syuflana)","updated":"2021-05-01T00:03:39.970800","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"090c1d7f2fc1454a8a6efde9b1e0e719","type":"Photo","caption":"\u003cp>A medical worker gives coronavirus vaccine candidate to a volunteer during a trial at a community health center in Bandung, West Java, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Kusumadirezza)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.47493000763553,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/090c1d7f2fc1454a8a6efde9b1e0e719/","embedCaption":null,"uploaded":false,"flattenedCaption":"A medical worker gives coronavirus vaccine candidate to a volunteer during a trial at a community health center in Bandung, West Java, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Kusumadirezza)","updated":"2021-05-01T00:03:39.828451","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},{"id":"1209298db3614d8a9a4b785239cc72d3","type":"Photo","caption":"\u003cp>A medical worker gives coronavirus vaccine candidate to a volunteer during a trial at a community health center in Bandung, West Java, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Kusumadirezza)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.49967928159076,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/1209298db3614d8a9a4b785239cc72d3/","embedCaption":null,"uploaded":false,"flattenedCaption":"A medical worker gives coronavirus vaccine candidate to a volunteer during a trial at a community health center in Bandung, West Java, Indonesia, Friday, Aug. 14, 2020. Indonesia's only vaccine production company has started this week a so-called phase 3 clinical trials to test a potential coronavirus vaccine developed by a Chinese company. (AP Photo/Kusumadirezza)","updated":"2021-05-01T00:03:39.771632","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null}],"audioMedia":[],"mediumIds":["ecd22a29ab4f44679de0cc92ef4917b5","b512567cd34943478d3788f9b0a25d22","090c1d7f2fc1454a8a6efde9b1e0e719","1209298db3614d8a9a4b785239cc72d3"],"mediaCount":4,"published":null,"tagObjs":[{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false},{"id":"Indonesia","name":"Indonesia","canonicalName":"indonesia","isPr":false},{"id":"JokoWidodo","name":"Joko Widodo","canonicalName":"joko-widodo","isPr":false},{"id":"VirusOutbreak","name":"Virus Outbreak","canonicalName":"virus-outbreak","isPr":false},{"id":"Clinicaltrials","name":"Clinical trials","canonicalName":"clinical-trials","isPr":false},{"id":"China","name":"China","canonicalName":"china","isPr":false},{"id":"apf-asiapac","name":"Asia Pacific","canonicalName":"asia-pacific","isPr":false},{"id":"RacingforaRemedy","name":"Racing for a Remedy","canonicalName":"racing-for-a-remedy","isPr":false}],"updated":"2020-08-14 04:29:59","tagIds":["apf-Health","Indonesia","JokoWidodo","VirusOutbreak","Clinicaltrials","China","apf-asiapac","RacingforaRemedy"],"title":"AS--Virus Outbreak-Indonesia-Vaccine Trial","contentSponsor":null,"layoutType":"Small Photo","stackedStory":true,"notificationId":null,"richEmbeds":[],"sponsored":true,"embedRatio":null,"embedType":"Other","pullQuoteObjs":[],"dateline":null,"leadVideoAutoEmbed":false,"flattenedFirstWords":"JAKARTA, Indonesia (AP) — More people in Indonesia rolled up their sleeves Friday to test a poten...","isTpContent":false,"socialEmbeds":[],"isPrContent":false,"storyHTML":"\u003cp>JAKARTA, Indonesia (AP) — More people in Indonesia rolled up their sleeves Friday to test a potential coronavirus vaccine developed by a Chinese company. \u003c/p>\u003cp>The Indonesian government announced the partnership between state-owned enterprise Bio Farma and the Chinese company Sinovac BioTech in early July. As part of the deal, Indonesia recruited 1,620 volunteers for the trial. The first 20 were injected with the candidate vaccine in Bandung, West Java province, on Tuesday, and more followed suit.\u003c/p>\u003cp>“We hope that this third clinical trial will be completed in six months. We hope that in January we can produce it and at the same time, if the production is ready, vaccinate all people in the country,” President Joko Widodo said on Tuesday.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>After passing a medical and PCR test to confirm their health, volunteers were given a first dose of the experimental vaccine or a placebo, then a second dose 14 days later.\u003c/p>\u003cp>“I am not worried about the vaccine trial as I have searched the information related to a Sinovac vaccine before,” said Rina Mardiana, 44. “I want to join the trial for humanitarian reasons. I hope the pandemic will end soon.\" \u003c/p>\u003cp>Clinical trial research leader Kusnandi Rusmil told The Associated Press that half the volunteers will be injected by the vaccine and the other half with the placebo. \"We will see the comparison ... in seven months,” Rusmil said. \u003c/p>\u003cp>Bio Farma currently has a production capability of 100 million vaccine doses. The company is building a new facility, expected to be completed in December, that will increase the capacity to 250 million doses. Use of the vaccine will be prioritized for Indonesia, the world's fourth most populated country, Bio Farma CEO Honesti Basyir said.\u003c/p>\u003cp>Called CoronaVac, the potential vaccine uses an inactivated pathogen, meaning the virus is grown in a lab and then deactivated or killed. In June the company announced that no severe adverse side effects had resulted from the phase 1 and 2 trials conducted in volunteers in China. The company is also planning clinical trials with thousands of volunteers in India, Brazil and Bangladesh.\u003c/p>\u003cp>Under normal circumstances, it takes years for a vaccine to be developed. But with many experts believing that a vaccine is the best hope against the virus, clinical trials and development have been rapidly accelerated since Jan. 10, when China shared the virus’ genetic sequence.\u003c/p>\u003cp>The trial comes at a time when Indonesia continues to have one of the highest confirmed caseloads in the region, with the actual number of cases suspected to be much higher. As of Thursday, Indonesia had 132,816 confirmed cases with 5,968 deaths.\u003c/p>\u003cp>___\u003c/p>\u003cp>The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education. The AP is solely responsible for all content.\u003c/p>","alertLinkDateTime":null,"storyLayout":{"type":"standard","background":"light"},"reporters":[],"reporterKeys":[],"headlinePlacement":"bottom left","relatedStoryEmbeds":[],"disableNativo":false,"canonicalUrl":"virus-outbreak-health-clinical-trials-indonesia-joko-widodo"},"afs:Content:9223181609":{"block_fundamentals":false,"embedHTML":null,"pubstatus":null,"leadVideoId":null,"embedHeight":500,"stackedStory":false,"disableNativo":false,"disableConnatix":false,"contentSponsor":null,"embedType":"Other","downloadSettings":null,"alertLinkDateTime":null,"tagObjs":[],"slugline":null,"relatedStoryEmbeds":[],"storyHTML":"","description":null,"pullQuoteObjs":[],"truncatedFirstWords":false,"embedCaption":null,"sequenceNumber":null,"title":"Virus Outbreak","headline":"Full Coverage:","localMemberName":null,"dateline":null,"old_lead_video_key":null,"id":"afs:Content:9223181609","signals":[],"etag":null,"notificationId":null,"version":null,"videoContext":null,"latestEtag":null,"embedLinkURL":"https://apnews.com/tag/VirusOutbreak","bylines":null,"revision":null,"mediumIds":[],"media":[],"updated":"2020-08-14 21:14:03","mediaCount":0,"contentType":"web","hons":false,"embargoDate":null,"gcsUrl":"https://storage.googleapis.com/afs-prod/contents/afs:Content:9223181609","reporterKeys":[],"embedRatio":0,"audioMediumIds":[],"shortId":"afs:Content:9223181609","firstWords":null,"sponsored":false,"interactiveLinkUrl":null,"organisationTagObjs":null,"layoutType":"Text","hasTextOverlay":false,"flattenedFirstWords":null,"tagIds":[],"storyLayout":{"type":"standard","background":"light"},"audioMedia":[],"language":null,"socialEmbeds":[],"contexts":null,"interactiveLinkUrlText":null,"leadVideoAutoEmbed":false,"headlinePlacement":"bottom left","richEmbeds":[],"omitFromFeed":null,"published":"2020-08-14 21:14:03","localLinkUrl":null,"leadPhotoId":null,"xxUpdated":"2020-08-14 21:14:04"}},"loadedAt":{"urn:publicid:ap.org:163b00d672a08a04b586d082a841f3cc":1633683218374,"afs:Content:9223181609":1633683218404,"urn:publicid:ap.org:78bf7646047dc6add207ecce1f91a591":1633683218406,"urn:publicid:ap.org:9a0d70f9c63e63dde9a47e8f047751f3":1633683218427,"urn:publicid:ap.org:e740db0df7d56035fed7ab266fc4a5eb":1633683218451},"expiration":120000},"medium":{"loading":{},"error":{},"data":{"d33ca3ebbc524de7943bcbc82ec49597":{"id":"d33ca3ebbc524de7943bcbc82ec49597","type":"Photo","caption":"\u003cp>FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it's not proof, and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer. (AP Photo/Juan Karita)\u003c/p>","order":0,"imageMimeType":"image/jpeg","imageFileExtension":".jpeg","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.50300601202405,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/d33ca3ebbc524de7943bcbc82ec49597/","embedCaption":null,"uploaded":true,"flattenedCaption":"FILE - In this Friday, June 12, 2020 file photo, a doctor holds a bag of blood plasma donated by a COVID-19 survivor at at blood bank in La Paz, Bolivia. Mayo Clinic researchers are reporting a strong hint that blood plasma from COVID-19 survivors helps other patients recover. But it's not proof, and some experts worry if, amid clamor for the treatment, they'll ever get a clear answer. (AP Photo/Juan Karita)","updated":"2021-04-30T14:25:33.411163","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null},"afs:Medium:751921853724":{"id":"afs:Medium:751921853724","type":"Photo","caption":null,"order":0,"imageMimeType":"image/png","imageFileExtension":".png","imageRenderedSizes":[700,600,400,200],"aspectRatio":1.55555555555556,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/","embedCaption":null,"uploaded":true,"flattenedCaption":null,"updated":"2021-09-29T09:24:16.741299","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null,"noEmbedCaption":false}},"loadedAt":{"d33ca3ebbc524de7943bcbc82ec49597":1633683218374,"afs:Medium:751921853724":1633683218393},"expiration":120000},"interactive":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"navigation":{"loading":{"navigation":false},"error":{"navigation":null},"data":{"navigation":[{"id":"apf-usnews","name":"U.S. News","canonicalName":"us-news","isPr":false},{"id":"apf-WorldNews","name":"World News","canonicalName":"world-news","isPr":false},{"id":"apf-politics","name":"Politics","canonicalName":"politics","isPr":false},{"id":"apf-entertainment","name":"Entertainment","canonicalName":"entertainment","isPr":false},{"id":"apf-sports","name":"Sports","canonicalName":"sports","isPr":false},{"id":"apf-oddities","name":"Oddities","canonicalName":"oddities","isPr":false},{"id":"apf-lifestyle","name":"Lifestyle","canonicalName":"lifestyle","isPr":false},{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false},{"id":"apf-science","name":"Science","canonicalName":"science","isPr":false},{"id":"apf-business","name":"Business","canonicalName":"business","isPr":false},{"id":"apf-technology","name":"Technology","canonicalName":"technology","isPr":false},{"id":"Photography","name":"Photography","canonicalName":"photography","isPr":false}]},"loadedAt":{"navigation":1633683218369},"expiration":120000},"sections":{"loading":{"sections":false},"error":{"sections":null},"data":{"sections":[{"id":"apf-usnews","name":"U.S. News","canonicalName":"us-news","isPr":false,"childTags":[]},{"id":"apf-WorldNews","name":"World News","canonicalName":"world-news","isPr":false,"childTags":[]},{"id":"apf-politics","name":"Politics","canonicalName":"politics","isPr":false,"childTags":[]},{"id":"apf-sports","name":"Sports","canonicalName":"sports","isPr":false,"childTags":[]},{"id":"apf-entertainment","name":"Entertainment","canonicalName":"entertainment","isPr":false,"childTags":[]},{"id":"apf-oddities","name":"Oddities","canonicalName":"oddities","isPr":false,"childTags":[]},{"id":"apf-lifestyle","name":"Lifestyle","canonicalName":"lifestyle","isPr":false,"childTags":[]},{"id":"apf-Health","name":"Health","canonicalName":"health","isPr":false,"childTags":[]},{"id":"apf-science","name":"Science","canonicalName":"science","isPr":false,"childTags":[]},{"id":"apf-business","name":"Business","canonicalName":"business","isPr":false,"childTags":[]},{"id":"apf-technology","name":"Technology","canonicalName":"technology","isPr":false,"childTags":[]},{"id":"Photography","name":"Photography","canonicalName":"photography","isPr":false,"childTags":[]},{"id":"apf-religion","name":"Religion","canonicalName":"religion","isPr":false,"childTags":[]},{"id":"apf-Travel","name":"Travel","canonicalName":"travel","isPr":false,"childTags":[]},{"id":"press-releases","name":"Press Releases","canonicalName":"press-releases","isPr":false,"childTags":[]}]},"loadedAt":{"sections":1633683218391},"expiration":120000},"trending":{"loading":{"trending":false},"error":{"trending":null},"data":{"trending":[{"id":"Abortion","name":"Abortion","canonicalName":"abortion","isPr":false},{"id":"NobelPrizes","name":"Nobel Prizes","canonicalName":"nobel-prizes","isPr":false},{"id":"Oilspills","name":"Oil spills","canonicalName":"oil-spills","isPr":false},{"id":"Coronaviruspandemic","name":"Coronavirus pandemic","canonicalName":"coronavirus-pandemic","isPr":false},{"id":"Congress","name":"Congress","canonicalName":"congress","isPr":false},{"id":"MLB","name":"MLB","canonicalName":"mlb","isPr":false}]},"loadedAt":{"trending":1633683218414},"expiration":120000},"topics":{"ignoreClickOnElements":[],"opened":false},"radio":{"ignoreClickOnElements":[],"opened":false},"search":{"ignoreClickOnElements":[],"opened":false},"polls":{"ignoreClickOnElements":[],"ignoreClickOnElementsVoters":[],"weekSelectorOpened":false,"voterSelectorOpened":false,"selectedWeek":0,"latestWeek":0,"selectedVoter":null,"card":null,"loading":false,"error":null},"headerTitle":{},"shareImage":{"loading":{"share-image":false},"error":{"share-image":null},"data":{"share-image":{"id":"afs:Medium:751921853724","type":"Photo","caption":null,"order":0,"imageMimeType":"image/png","imageFileExtension":".png","imageRenderedSizes":[700,600,400,200],"aspectRatio":1.55555555555556,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/","embedCaption":null,"uploaded":true,"flattenedCaption":null,"updated":"2021-09-29T09:24:16.741299","alignment":null,"videoMimeType":null,"videoFileExtension":null,"videoRenderedSizes":[],"externalId":null,"audioMimeType":null,"audioFileExtension":null,"title":null,"noEmbedCaption":false}},"loadedAt":{"share-image":1633683218392},"hasImage":true,"expiration":120000},"reporters":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000}}
+window['titanium-cacheConfig'] = {"ignoreCache":false}</script><script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">[0,12,1,2,50,37]</script><script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json">{"namedChunks":["Content-Content","WireStory-WireStory","Paragraph"]}</script>
+<script async data-chunk="index" src="/dist/vendors.js"></script>
+<script async data-chunk="index" src="/dist/index.js"></script>
+<script async data-chunk="Content-Content" src="/dist/Content-Content.js"></script>
+<script async data-chunk="WireStory-WireStory" src="/dist/Featured-Featured~Landing-Landing~PressRelease-PressRelease~WireStory-WireStory.js"></script>
+<script async data-chunk="WireStory-WireStory" src="/dist/Landing-Landing~PressRelease-PressRelease~Reporter~WireStory-WireStory.js"></script>
+<script async data-chunk="WireStory-WireStory" src="/dist/WireStory-WireStory.js"></script>
+<script async data-chunk="Paragraph" src="/dist/Paragraph.js"></script></body></html>

@@ -1,0 +1,1029 @@
+<!doctype html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gte IE 9)]><!-->
+<html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+<head>
+
+
+
+<meta charset="utf-8">
+<script src="/cdn-cgi/apps/head/7PylByMLacvmkops8SMIIEjPSVc.js"></script><link rel="icon" type="image/png" href="https://epicstream.com/assets/images/favicon.ico">
+<meta property="fb:pages" content="707028496023855" />
+<meta property="fb:app_id" content="916383221767526" />
+<title>Warner Bros. Montreal Will Announce Their New Batman Game in DC's Fandome</title>
+<meta name="description" content="Epicstream" />
+<meta property="og:title" content="Warner Bros. Montreal Will Announce Their New Batman Game in DC&#39;s Fandome" />
+<meta property="og:description" content="&nbsp;
+
+
+&nbsp;
+
+It looks like news about that long-rumored Batman game from Warner Bros. Montreal is going to get announced in the DC Fandome event. While it hasn&rsquo;t been revealed as a Batman: Arkham game just yet, Fandome did confirm that there is going to be a video game announcement from Warner Bros. Montreal so if it&rsquo;s not going to be a game featuring The Caped Crusader, the new game will at least be set in the DC Universe.
+
+Let&rsquo;s be honest though, we all know this is going" />
+<meta property="og:url" content="https://epicstream.com/news/NicoParungo/Warner-Bros-Montreal-Will-Announce-Their-New-Batman-Game-in-DCs-Fandome" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://cdn.epicstream.com/assets/uploads/newscover/1597414307batman_game.jpg" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=5" name="viewport">
+<link rel="preload" as="font" href="https://epicstream.com/assets/fonts/fontawesome-webfont.eot?v=4.6.3" crossorigin />
+<link rel="preload" as="font" href="https://epicstream.com/assets/fonts/fontawesome-webfont.woff2?v=4.6.3" crossorigin />
+<link rel="preload" as="font" href="https://epicstream.com/assets/css/din-1451-engschrift.ttf" crossorigin />
+<link rel="preload" as="style" href="https://epicstream.com/assets/css/styles.css?v1.4.17" />
+<link rel="stylesheet" href="https://epicstream.com/assets/css/styles.css?v1.4.17" />
+
+
+<script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="5ff5823d1a35210945f44016" data-mode="scan" async></script>
+
+
+<script charset="UTF-8" src="//web.webpushs.com/js/push/3dd77ee5fc140f11c1f1c106ddc60dfc_1.js" async></script>
+
+<script>!function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.player.js',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);</script>
+<script type="text/javascript" src="https://epicstream.com/assets/js/custom.js"></script>
+
+<meta name="ca_verify" content="ca373ce1-eb8e-47a1-8682-0c939ac936d3" />
+
+
+<style>
+            .ad-holder img {display: inline-block;}
+            #med_rect_btf img {display: inline-block;}
+            #med_rect_btf_1 img {display: inline-block;}
+            #med_rect_btf_2 img {display: inline-block;}
+            #med_rect_atf img {display: inline-block;}
+            #med_rect_atf_1 img {display: inline-block;}
+            .playwire_report_ad_link {display: block !important; text-align: center;}
+
+            .fb-comments iframe{background: transparent;}.hiddenAds{display: table;}.showAds{display: table;}
+            /*.mobile-ad-top #report_ad_leaderboard_atf{display:none !important}*/
+            
+            .ads-block{max-width: none !important;width: auto !important;
+                                                  /* margin-bottom: 18px; */
+                                   }
+            #ads-section{padding-bottom: 6px;
+                                     }
+            footer{margin-top: 13px;margin-bottom: -26px;}
+        </style>
+<noscript> 
+        <style type="text/css">
+            footer{margin-top: 20px;margin-bottom: -26px;}#ads-section{padding-bottom: 6px;}.ads-block{margin-bottom: 0 !important;}section .container{margin-top: 20px !important;}
+        </style>
+        </noscript>
+<script type="text/javascript">
+                window.onresize = function () {
+                    $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span').css('width', '100%');
+                    $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span iframe').css('width', '100%');
+                }
+                // funtion to load more data in Home.
+                var callcount = 1;
+                function fun_loadmoreData(controller,author_id='')
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/' + controller + '/loadmore',
+                        data: 'pageno=' + callcount+'&author_id=' + author_id,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+                function fun_loadmoreNewsDetailData(category_id='', news_id='')
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/' + 'frontnews/loadmoredetail',
+                        data: 'pageno=' + (callcount-1) +'&category_id=' + category_id + '&news_id=' + news_id,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+                function fun_loadmoreHomeData(controller)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/' + controller + '/loadmore',
+                        data: 'pageno=' + callcount,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#homeloadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+
+                function fun_loadmoreCategory(cate_id)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/reviewcategory/loadmore/',
+                        data: 'pageno=' + callcount + '&cate_id=' + cate_id,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+                function fun_loadMoreQuizCatData(cate_id)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/quizcategory/loadmore',
+                        data: 'pageno=' + callcount + '&cate_id=' + cate_id,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+                function fun_loadmoresearchData(search_string)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'https://epicstream.com/search/loadmore',
+                        data: 'pageno=' + callcount + '&search_string=' + search_string,
+                        type: 'POST',
+                        success: function (data)
+                        {
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
+                        }
+
+                    });
+                    callcount++;
+                }
+
+                // function to next quiz question.....
+                function fun_quizNextquestion(result_id)
+                {
+                    var frmobj = document.frm_runquiz;
+                    frmobj.result_id.value = result_id;
+                    frmobj.submit();
+                }
+                function fun_quizTriviaNextQuestion(result_id)
+                {
+                    var frmobj = document.frm_runquiz;
+                    frmobj.result_id.value = result_id;
+                    frmobj.submit();
+                }
+                jQuery(document).ready(function (e) {
+                    $('header').show();
+                    $('#showSearch').click(function (e) {
+                        $(".search-box1").css("display", "block");
+                        $(".search-box1").removeClass("slideOutRight");
+                        $(".search-box1").addClass("slideInRight");
+                        $(".search-box1 input[type='text']").focus();
+                        e.preventDefault();
+                    });
+                    $('#showSearch2').click(function (e) {
+                        $(".search-box2").css("display", "block");
+                        $(".search-box2").removeClass("slideOutRight");
+                        $(".search-box2").addClass("slideInRight");
+                        $(".search-box2 input[type='text']").focus();
+                        e.preventDefault();
+                    });
+                    
+                    $('.search-box1 input').focusout(function (e) {
+                        $(".search-box1").addClass("slideOutRight");
+                        $(".search-box1").removeClass("slideInRight");
+                    });
+                    $('.search-box2 input').focusout(function (e) {
+                        $(".search-box2").addClass("slideOutRight");
+                        $(".search-box2").removeClass("slideInRight");
+                    });
+                });
+                // Ended funtion to load more data in Home.
+        </script>
+
+<script>!function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+        </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59618213-1', 'auto');
+  ga('set', 'transport', 'xhr');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+<body class="">
+<div id="fb-root"></div>
+<script>
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id))
+                        return;
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=916383221767526";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+        </script>
+<header style="z-index: 99999;">
+<div class="container">
+<div class="logo">
+<a href="https://epicstream.com/"><div>EPIC<span>STREAM</span></div><img src="https://cdn.epicstream.com/assets/images/logo.png" alt="Epicstream" /></a>
+</div>
+<div class="nav-menu">
+<nav>
+<div class="search-box-mob" style="display:none">
+<form action="https://epicstream.com/search" method="post">
+<input type="text" name="search_string" value="" placeholder="Search" />
+</form>
+</div>
+<ul class="nav-ul">
+
+<li><a class="active" href="https://epicstream.com/news">News</a></li>
+<li><a href="https://epicstream.com/videos">Videos</a></li>
+<li><a href="https://epicstream.com/reviews">Reviews</a>
+<ul>
+<li><a href="https://epicstream.com/reviewcategory/12">Movie Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/14">TV Show Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/11">Book Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/16">Product Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/17">Comics &amp; Manga Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/18">Game Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/19">Anime Reviews</a></li>
+</ul>
+</li>
+<li><a href="https://epicstream.com/features">Features</a></li>
+<li><a href="https://epicstream.com/quizzes">Quizzes</a>
+<ul>
+<li><a href="https://epicstream.com/quizcategory/1">Personality Quizzes</a></li>
+<li><a href="https://epicstream.com/quizcategory/2">Trivia Quizzes</a></li>
+</ul>
+</li>
+
+
+<li><a href="javascript:void()">more</a>
+<ul>
+<li><a href="https://epicstream.com/comics">Comics</a>
+<li><a href="https://epicstream.com/reviewcategory/15">Featured Books</a></li>
+</ul>
+</li>
+</ul>
+<ul class="mobile-links" style="display:none">
+<li><a href="https://epicstream.com/cms/about-us">ABOUT</a></li>
+<li><a href="https://epicstream.com/contact-us">CONTACT</a></li>
+<li><a href="https://epicstream.com/cms/privacy-policy">POLICY</a></li>
+<li><a href="https://epicstream.com/cms/disclaimer">TERMS</a></li>
+ </ul>
+</nav>
+<div class="search-social">
+<div class="social-box">
+<ul>
+<li><a class="hfb" href="https://www.facebook.com/epicstreams" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a class="htw" href="https://twitter.com/FantasyandScifi" target="_blank"><i class="fa fa-twitter"></i></a></li>
+</ul>
+</div>
+<div class="search-wrapper">
+<a href="#" id="showSearch"><i class="fa fa-search"></i></a>
+<div class="search-box search-box1">
+<form name="frm_search" id="frm_search" action="https://epicstream.com/search" method="post">
+<input type="text" name="search_string" value="" placeholder="Search" />
+<input type="submit" value=" " />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<header style="z-index: 99999;display:none;" class="second-header">
+<div class="container">
+<div class="menu-bar drop">
+<a class="burger-menu"><span></span><span></span><span></span></a>
+<div class="other-drop">
+<ul class="nav-ul">
+
+<li><a class="active" href="https://epicstream.com/news">News</a></li>
+<li><a href="https://epicstream.com/videos">Videos</a></li>
+<li class="dropdown"><a href="https://epicstream.com/reviews">Reviews</a>
+<ul>
+<li><a href="https://epicstream.com/reviewcategory/12">Movie Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/14">TV Show Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/11">Book Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/16">Product Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/17">Comics &amp; Manga Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/18">Game Reviews</a></li>
+<li><a href="https://epicstream.com/reviewcategory/19">Anime Reviews</a></li>
+</ul>
+</li>
+<li><a href="https://epicstream.com/features">Features</a></li>
+<li class="dropdown"><a href="https://epicstream.com/quizzes">Quizzes</a>
+<ul>
+<li><a href="https://epicstream.com/quizcategory/1">Personality Quizzes</a></li>
+<li><a href="https://epicstream.com/quizcategory/2">Trivia Quizzes</a></li>
+</ul>
+</li>
+
+
+<li class="dropdown"><a href="javascript:void()">more</a>
+<ul>
+<li><a href="https://epicstream.com/comics">Comics</a>
+<li><a href="https://epicstream.com/reviewcategory/15">Featured Books</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="logo">
+<a href="https://epicstream.com/"><div>EPIC<span>STREAM</span></div><img src="https://cdn.epicstream.com/assets/images/logo-2.png" alt="Epicstream" /></a>
+</div>
+<div class="nav-menu">
+<div class="post-name">
+<span>News:</span>
+<p>Warner Bros. Montreal Will Announce Their New Batman Game in DC&#39;s Fandome</p>
+</div>
+<div class="buttons">
+<a href="https://www.facebook.com/sharer.php?u=https://epicstream.com/news/NicoParungo/Warner-Bros-Montreal-Will-Announce-Their-New-Batman-Game-in-DCs-Fandome?fbrefresh=1633683311" target="_blank">Share to Facebook</a>
+</div>
+<div class="search-social">
+<div class="social-box">
+<ul>
+<li><a class="hfb" href="https://www.facebook.com/epicstreams" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a class="htw" href="https://twitter.com/FantasyandScifi" target="_blank"><i class="fa fa-twitter"></i></a></li>
+</ul>
+</div>
+<div class="search-wrapper">
+<a href="#" id="showSearch2"><i class="fa fa-search"></i></a>
+<div class="search-box search-box2">
+<form name="frm_search" id="frm_search" action="https://epicstream.com/search" method="post">
+<input type="text" name="search_string" value="" placeholder="Search" />
+<input type="submit" value=" " />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="ads-section" class="header-ad-sction " style="padding-bottom:0px;" class="wa-ads-section">
+<div style="margin: 0 auto; text-align: center;">
+<div class="ads-block hiddenAds ">
+<style>
+                            .hiddenAds{
+                                display:table;
+                            }
+                        </style>
+<div style="margin:10px auto 10px auto; text-align:center; width:100%; overflow:hidden; min-height: 50px;">
+
+<div id="ad-container-1"></div>
+<script>
+                                    window.top.__vm_add = window.top.__vm_add || [];
+                                    (function (success) {
+                                        if (window.document.readyState !== "loading") {
+                                            success();
+                                        } else {
+                                            window.document.addEventListener("DOMContentLoaded", function () {
+                                                success();
+                                            });
+                                        }
+                                    })(function () {
+
+                                        if (window.innerWidth >= 1000) {
+                                            var placement = document.createElement("div");
+                                            placement.setAttribute("class", "vm-placement");
+                                            placement.setAttribute("data-id", "60d0a1fe534c09289428fe4d");
+                                            placement.setAttribute("data-display-type", "hybrid-banner");
+                                            document.querySelector("#ad-container-1").appendChild(placement);
+                                            window.top.__vm_add.push(placement);
+                                        }
+
+                                    });
+                                </script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    // prevents multiple ajax call
+    var stop = false;
+
+    var hasSeenAniview = false
+    var isAniviewOnScreen = false
+
+    function element_in_scroll(elem)
+    {
+        var docViewTop = $(window).scrollTop();
+        var docViewBottom = docViewTop + $(window).height();
+
+        var elemTop = elem instanceof jQuery ? elem.offset().top : $(elem).offset().top;
+        var elemBottom = elem instanceof jQuery ? elemTop + elem.height() : elemTop + $(elem).height();
+
+        //return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop) && stop == false);
+        return ((elemBottom <= docViewBottom) && stop == false);
+    }
+    var currentPriority = 0;
+
+    // SET THIS TO ZERO TO LOAD FROM THE PROMOTED CATEGORY
+    var loadedThisTime = 1;
+
+    $.fn.isInViewport = function () {
+        let elementTop = $(this).offset().top;
+        let elementBottom = elementTop + $(this).outerHeight();
+
+        let viewportTop = $(window).scrollTop();
+        let viewportBottom = viewportTop + $(window).height();
+
+        return elementBottom > viewportTop && elementTop < viewportBottom;
+    };
+
+    var debounce;
+    $(document).scroll(function () {
+        clearTimeout(debounce);
+
+        debounce = setTimeout(function() {
+            var maxPriority = 0;
+            var maxSlug = '';
+            var maxAuthor = '';
+            var maxTitle = '';
+
+
+            if ($("#aniview-wrapper").isInViewport()) {
+                console.log("aniview-wrapper is in scroll")
+
+                if (!hasSeenAniview) {
+                    // prevent layout shift
+                    $("#aniview-wrapper").css({
+                        'min-height': $("#aniview-wrapper").height(),
+                        'margin-bottom': $("#aniview-wrapper").find('.aniview').css('margin-bottom')
+                    })
+                }
+                hasSeenAniview = true
+                isAniviewOnScreen = true
+            }
+            else
+            {
+                console.log("aniview-wrapper is not in scroll")
+                isAniviewOnScreen = false
+            }
+
+            console.log("aniview-wrapper hasSeenAniview", hasSeenAniview, "isAniviewOnScreen", isAniviewOnScreen)
+
+            if (hasSeenAniview)
+            {
+                if (isAniviewOnScreen) {
+                    // remove any floating class
+                    console.log("aniview-wrapper removing floating class");
+
+                    $("#aniview-wrapper .aniview").removeClass('aniview-float');
+                }
+                else {
+                    // add any floating class
+                    console.log("aniview-wrapper adding floating class");
+                    $("#aniview-wrapper .aniview").addClass('aniview-float');
+                }
+            }
+
+            if (element_in_scroll("#loadmoredatatrigger")) {
+                let categoryToLoad = '29';
+                if (loadedThisTime === 0) {
+                    categoryToLoad = '50'; // hard coded to promoted category
+                }
+                fun_loadmoreNewsDetailData(categoryToLoad,'40783');
+                loadedThisTime++;
+            }
+
+            $(".pageviewtrigger").each(function(index) {
+                if ($(this).isInViewport()) {
+                    var priority = $(this).data('priority');
+                    var slug = $(this).data('slug');
+                    var author = $(this).data('author');
+                    var title = $(this).data('title');
+
+                    if (priority > maxPriority || (priority === maxPriority && maxSlug.length === 0))
+                    {
+                        maxPriority = priority;
+                        maxSlug = slug;
+                        maxAuthor = author;
+                        maxTitle = title;
+                    }
+
+                }
+            });
+
+            // are we doing a pageview
+            if (maxPriority != currentPriority) {
+                // yep
+                console.log("PAGEVIEW SETTING URL");
+                var authorSlug = maxAuthor.replace(' ','');
+                var thisUrl = 'news/' + (!maxSlug.includes(authorSlug) ? authorSlug + '/' : '' ) + maxSlug;
+                history.pushState({}, maxTitle, '/' + thisUrl);
+                console.log("PAGEVIEW SET URL", thisUrl);
+                console.log("PAGEVIEW SETTING DOCUMENT TITLE")
+                var title = document.querySelectorAll('title')[0];
+                title.innerHTML = maxTitle;
+                console.log("PAGEVIEW SET DOCUMENT TITLE", title);
+                currentPriority = maxPriority;
+
+                // send the GA
+                setTimeout(function() {
+
+                    let location = 'https://epicstream.com/' + thisUrl;
+                   // ga('set', 'location', location)
+                    let page = '/' + thisUrl;
+                    ga('set', 'page', page);
+                    ga('set', 'title', maxTitle);
+                    ga('set', 'transport', 'xhr');
+
+                    console.log("SENDING PAGEVIEW ON TIMEOUT", ga);
+                    try {
+                        ga('send', 'pageview');
+                    } catch (err) {
+                        console.log("SENDING PAGEVIEW SAW ERROR ON SEND", err);
+                    }
+                    console.log("SENT PAGEVIEW ON TIMEOUT ", page);
+                    // and the ads
+                    /*
+                    $("#snack_ads").remove();
+                    doSnackEmbed();
+                     */
+                },250);
+            }
+        }, 200);
+    });
+</script>
+<section id="latest_category">
+<div class="container">
+<div class="ading-row">
+<div class="ading-col">
+<div class="one-third-box">
+<div class="holder">
+<div class="detail-image">
+<a href="https://epicstream.com/news/TinyDiapana/Aquaman-Actress-Amber-Heard-Pays-Tribute-To-Her-Recently-Deceased-Mother">
+<img src="https://cdn.epicstream.com/assets/uploads/newscover/328x131/1588623736Amber_Heard_Aquaman_Mera.png">
+<div class="text">
+Aquaman Actress Amber Heard Pays Tribute To Her Recently Deceased Mother </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="ading-col">
+<div class="one-third-box">
+<div class="holder">
+<div class="detail-image">
+<a href="https://epicstream.com/news/TinyDiapana/Wonder-Woman-1984-Director-Patty-Jenkins-Loves-DC-Being-So-Different-From-MCU">
+<img src="https://cdn.epicstream.com/assets/uploads/newscover/328x131/1588623047Wonder_WOman_1984.png">
+<div class="text">
+Wonder Woman 1984 Director Patty Jenkins Loves DC Being So Different From MCU </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="ading-col">
+ <div class="one-third-box">
+<div class="holder">
+<div class="detail-image">
+<a href="https://epicstream.com/news/NicoParungo/Logan-Director-Explains-Why-He-Took-a-Shot-at-Snyder-Cut-Fans">
+<img src="https://cdn.epicstream.com/assets/uploads/newscover/328x131/1588617328snyder_cut.jpg">
+<div class="text">
+Logan Director Explains Why He Took a Shot at Snyder Cut Fans </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="detail-page">
+<div class="container pageviewtrigger" data-author="Nico Parungo" data-slug="NicoParungo/Warner-Bros-Montreal-Will-Announce-Their-New-Batman-Game-in-DCs-Fandome" data-priority="0" data-title="Warner Bros. Montreal Will Announce Their New Batman Game in DC&#39;s Fandome">
+<div id="primary" class="left">
+<h2 class="t-blue">Warner Bros. Montreal Will Announce Their New Batman Game in DC&#39;s Fandome</h2>
+<div class="author-bio">
+<div class="image-holder">
+<img alt="Author Thumbnail" src="https://cdn.epicstream.com/assets/uploads/author/40x40/Screen_Shot_2017-08-15_at_9.57_.14_PM_.png">
+</div>
+<div class="text-info">
+<span class="author-title">
+<span>By Nico Parungo</span>
+| <a href="https://epicstream.com/author/Nico-Parungo">
+More Articles</a>
+</span>
+<span class="author-designation"> Comic Book Fan and Lazy Gamer</span>
+<span class="author-bio"></span>
+<div class="pull-right">
+<span class="posted-on">
+August 14, 2020 </span>
+<span class="posted-on">&nbsp;10:44 AM</span>
+</div>
+</div>
+</div>
+<div class="social-buttons">
+<div class="sharing-counts">
+<h2>0</h2>
+<span>SHARES</span>
+</div>
+
+<div class="facebook-share">
+<a href="https://www.facebook.com/sharer.php?u=https://epicstream.com/news/NicoParungo/Warner-Bros-Montreal-Will-Announce-Their-New-Batman-Game-in-DCs-Fandome?fbrefresh=1633683311" target="_blank"><i class="fa fa-facebook"></i><img src="https://cdn.epicstream.com/assets/images/square-facebook.png" /><span class="mob-share-social-txt">Share on Facebook</span></a>
+</div>
+
+
+<div class="twitter-share">
+<a href="https://twitter.com/share?text=Warner Bros. Montreal Will Announce Their New Batman Game in DC&#39;s Fandome&url=https://epicstream.com/news/NicoParungo/Warner-Bros-Montreal-Will-Announce-Their-New-Batman-Game-in-DCs-Fandome&via=FantasyandSciFi" target="_blank"><i class="fa fa-twitter"></i><span class="mob-share-social-txt">Share on Twitter</span></a>
+</div>
+
+</div>
+<div class="detail-description">
+<div id="aniview-wrapper"><div class="aniview" style="margin-bottom:20px;">
+<script async data-content.cms-type="playlist" data-content.cms-id="611e595735f97e019d2eb4f4" id="AV60dc54be22277e20da378a94" type="text/javascript" src="https://tg1.aniview.com/api/adserver/spt?AV_TAGID=60dc54be22277e20da378a94&AV_PUBLISHERID=6006a32f94a1ea4fe84a39a6"></script>
+</div></div><p>&nbsp;</p><p>&nbsp;</p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif">It looks like news about that long-rumored Batman game from Warner Bros. Montreal is going to get announced in the DC <em>Fandome</em> event. While it hasn&rsquo;t been revealed as a <em>Batman: Arkham</em> game just yet, <em>Fandome</em> did confirm that there is going to be a video game announcement from Warner Bros. Montreal so if it&rsquo;s not going to be a game featuring The Caped Crusader, the new game will at least be set in the DC Universe.</span></span></p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif">Let&rsquo;s be honest though, we all know this is going to be a new Batman game right?</span></span></p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif"><em>Fandome</em>&nbsp;<a href="https://schedule.dcfandome.com/" target="_blank"><span style="color:#0000CD">confirmed</span></a> that the Warner Bros. Montreal DC game will happen on Aug. 22 at 1:30pm so we&rsquo;re excited to see what they have planned. Rumors have said that this is going to be a <em>Batman: Arkham</em> game with The Court of Owls as the villains and some developers even teased this by wearing a shirt featuring the infamous group.</span></span></p><div style="margin:10px auto 10px auto; text-align:center; width:100%; overflow:hidden; min-height: 250px; margin-bottom: 20px;">
+
+<div id="ad_placement_inline_40783_3"></div>
+</div><script>
+                        window.top.__vm_add = window.top.__vm_add || [];
+                        (function (success) {
+                            if (window.document.readyState !== "loading") {
+                                success();
+                            } else {
+                                window.document.addEventListener("DOMContentLoaded", function () {
+                                    success();
+                                });
+                            }
+                        })(function () {
+                            //if (window.innerWidth > 1000) {
+                                var placement = document.createElement("div");
+                                placement.setAttribute("class", "vm-placement");
+                                placement.setAttribute("data-id", "60d0a20a9d5a0727fc5b0876");
+                                document.querySelector("#ad_placement_inline_40783_3").appendChild(placement);
+                                window.top.__vm_add.push(placement);
+                            //}
+                        });
+                    </script><p>&nbsp;</p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" data-imagecredit="Warner Bros. Montreal/DC" src="https://cdn.cloudflare.steamstatic.com/steam/apps/209000/ss_462c48dd9fa9e76d1f3f8159eeadea3da6b0e43e.jpg?t=1504119909" style="height:1080px; width:1920px" /></span></span></p><p>&nbsp;</p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif">The last time Warner Bros. Montreal worked on a Batman game, we got the underrated <em>Batman: Arkham Origins</em>. While not considered the best game of this acclaimed series, fans were still entertained by the combat, story, and characterization for these iconic heroes and villains. It also had some excellent boss fights, all of which were better than the ones in <em>Arkham City</em>.</span></span></p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif">Expect this new <em>Batman: Arkham</em> game to get announced during DC&rsquo;s <em>Fandome</em>, alongside <em>Suicide Squad</em> by Rocksteady.</span></span></p><p><span style="font-size:16px"><span style="font-family:arial,helvetica,sans-serif"><strong>Read: <a href="https://epicstream.com/news/TinyDiapana/Shazam-2-Filming-Updates-Suggests-That--Movie-Will-Deliver-On-Time" target="_blank"><span style="color:#0000CD">Shazam 2 Filming Updates Suggests That Movie Will Deliver On Time</span></a></strong></span></span></p><p class="disclaimer" style="font-size: 0.7em; border-top: 1px solid lightgray; font-style: italic;">
+*Epic Stream may receive a small commission if you click a link from one of our articles onto a retail website and make a purchase.
+As an Amazon Associate, we earn from qualifying purchases. For more information, see our <a href="https://www.gfinity.net/support/legals/category/8" target="_blank">Cookie Policy</a>.
+All prices listed were accurate at the time of publishing.
+</p> </div>
+<div class="footer-nav mobile-footer-nav">
+<a href="https://epicstream.com/news/NicoParungo/Epic-Games-Wants-Apple-to-Free-Fortnite-With-Familiar-1984-Commercial" class="prev"><i class="fa fa-arrow-circle-o-left"></i><span>Previous News</span></a>
+<a href="https://epicstream.com/news/NobelleBorines/Chloe-Bennet-Teases-Agents-of-SHIELD-Spin-Off-Focusing-on-Quake" class="next"><span>Next News</span><i class="fa fa-arrow-circle-o-right"></i></a>
+</div>
+
+
+
+
+
+
+</div>
+<div class="right" id="secondary">
+
+<div style="margin:0 auto 0 auto; text-align:center; width:100%; margin-bottom: 20px; min-height: 600px;">
+
+<div id="sidebar_40783_1"></div>
+<script>
+                    window.top.__vm_add = window.top.__vm_add || [];
+                    (function (success) {
+                        if (window.document.readyState !== "loading") {
+                            success();
+                        } else {
+                            window.document.addEventListener("DOMContentLoaded", function () {
+                                success();
+                            });
+                        }
+                    })(function () {
+                        //if (window.innerWidth > 1000) {
+                        var placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+                        placement.setAttribute("data-id", "60d0a2159d5a0727fc5b0878");
+                        document.querySelector("#sidebar_40783_1").appendChild(placement);
+                        window.top.__vm_add.push(placement);
+                        //}
+                    });
+                </script>
+</div>
+
+
+<div class="sidebar-list">
+<h2>News</h2>
+<ul id="list-view">
+<li>
+<a href="https://epicstream.com/news/BriConstantino/Obi-Wan-Series-Moses-Ingrams-Mystery-Character-Reportedly-Revealed" class="slist-img"><img src="https://cdn.epicstream.com/assets/uploads/newscover/70x70/1633645055MV5BMGJmMjc2YTAtOTVkYS00YzkzLTkyNzUtNmVkN2RlYmI4ODYxXkEyXkFqcGdeQXVyNzc0Mjc0MzA@._V1__.jpg"></a>
+<a href="https://epicstream.com/news/BriConstantino/Obi-Wan-Series-Moses-Ingrams-Mystery-Character-Reportedly-Revealed" class="slist-title">Obi-Wan Series: Moses Ingram&#39;s Mystery Character Reportedly Revealed</a>
+</li>
+<li>
+<a href="https://epicstream.com/news/Netflix-Cowboy-Bebop-Stars-describe-characters" class="slist-img"><img src="https://cdn.epicstream.com/assets/uploads/newscover/70x70/1633642853cowboy.png"></a>
+<a href="https://epicstream.com/news/Netflix-Cowboy-Bebop-Stars-describe-characters" class="slist-title">Netflix&#39;s Cowboy Bebop Stars Describe Their Characters</a>
+</li>
+<li>
+<a href="https://epicstream.com/news/ElazjeCarillo/Final-Trailer-of-Dune-Has-Been-Released" class="slist-img"><img src="https://cdn.epicstream.com/assets/uploads/newscover/70x70/1633642239Dune_cover.png"></a>
+<a href="https://epicstream.com/news/ElazjeCarillo/Final-Trailer-of-Dune-Has-Been-Released" class="slist-title">Final Trailer of Dune Has Been Released</a>
+</li>
+</ul>
+</div>
+<div style="margin:0 auto 0 auto; text-align:center; width:100%; margin-bottom: 20px; min-height: 600px;">
+
+<div id="sidebar_40783_2"></div>
+<script>
+                    window.top.__vm_add = window.top.__vm_add || [];
+                    (function (success) {
+                        if (window.document.readyState !== "loading") {
+                            success();
+                        } else {
+                            window.document.addEventListener("DOMContentLoaded", function () {
+                                success();
+                            });
+                        }
+                    })(function () {
+                        //if (window.innerWidth > 1000) {
+                        var placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+                        placement.setAttribute("data-id", "60d0a2159d5a0727fc5b0878");
+                        document.querySelector("#sidebar_40783_2").appendChild(placement);
+                        window.top.__vm_add.push(placement);
+                        //}
+                    });
+                </script>
+</div>
+
+
+
+
+
+</div>
+</div>
+<div id="loadmoredata"></div>
+<div id="loadmoredatatrigger" style="margin-top: -500px;"></div>
+<div id="showloadmore">
+
+<a href="javascript:void(0);" onClick="fun_loadmoreNewsDetailData('29','40783');"><div align="center" style="clear:both; "><img src="https://cdn.epicstream.com/assets/images/fb_load.gif" height="25"></div></a>
+</div>
+</section>
+<div id="ad-holder-footer">
+<div class="ads-block hiddenAds" style="margin-top: 15px;">
+<div class="ad-holder">
+<div data-pw-desk='leaderboard_btf'></div>
+<div data-fixed="true" data-pw-mobi='leaderboard_btf'></div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="middle-logo">
+<img src="https://cdn.epicstream.com/assets/images/footer-logo.png">
+</div>
+<div class="footer-menu" style="margin-left:22%;">
+<ul class="nav-ul">
+<li><a href="https://epicstream.com/cms/about-us">About US</a></li>
+<li><a href="https://epicstream.com/contact-us">Contact Us</a></li>
+<li><a href="https://www.gfinity.net/support/legals/category/3" target="_blank">Privacy Policy</a></li>
+
+</ul>
+</div>
+<div class="f-social-box" style="margin-top:0px !important; margin-right: 45%; margin-bottom: 15px; ">
+<ul>
+<li><a class="hfb" href="https://www.facebook.com/epicstreams" target="_blank"><img src="https://cdn.epicstream.com/assets/images/f-fb.png" style="width:64px;height: 64px;"></a></li>
+<li><a class="htw" href="https://twitter.com/FantasyandScifi" target="_blank"><img src="https://cdn.epicstream.com/assets/images/f-twitter.png" style="width:64px;height: 64px;"></a></li>
+<li><a class="hgp" href="https://www.pinterest.com/epicstream/epicstreamcom/" target="_blank"><img src="https://cdn.epicstream.com/assets/images/f-gmail.png" style="width:64px;height: 64px;"></a></li>
+</ul>
+</div>
+</div>
+<div class="footer-full">
+<div class="container">
+<div class="developed-by">
+<span class="">&copy; 2015-2021 Epicstream, LLC. All rights reserved. All names, trademarks, and images are the property of their respective owners.</span>
+</div>
+</div>
+</div>
+</footer>
+
+<style>
+    .fb-comments span iframe .uiSelectorMenuWrapper{top:0 !important;}
+</style>
+<script>
+
+    $("select").uniform();
+    $(":radio").uniform();
+    $(":checkbox").uniform();
+</script>
+
+<div id="rich-media-placement"></div>
+<script>
+    window.top.__vm_add = window.top.__vm_add || [];
+    (function (success) {
+        if (window.document.readyState !== "loading") {
+            success();
+        } else {
+            window.document.addEventListener("DOMContentLoaded", function () {
+                success();
+            });
+        }
+    })(function () {
+        var placement = document.createElement("div");
+        placement.setAttribute("class", "vm-placement");
+        placement.setAttribute("data-id", "60d0a23f9d5a0727fc5b087c");
+        document.querySelector("#rich-media-placement").appendChild(placement);
+        window.top.__vm_add.push(placement);
+    });
+</script>
+<script>
+
+    function doSnackEmbed() {
+        return;
+        /*
+        var site_id = 2532;
+        var data_site_id = 0;
+
+        var sn_cb = new Date().getMonth();
+        var snack_hb = document.createElement('script');
+        snack_hb.src = 'https://cdn-header-bidding.snack-media.com/assets/js/snack-loader/'+site_id+'?cb='+sn_cb;
+        snack_hb.id = 'snack_ads';
+        if(data_site_id){
+            snack_hb.setAttribute('data-site-id',data_site_id);
+        }
+        document.body.appendChild(snack_hb);
+        snack_hb.onerror = function(){
+            document.body.removeChild(snack_hb);
+            var snack_hb2 = document.createElement('script');
+            snack_hb2.src = 'https://cdn2-header-bidding.snack-media.com/assets/js/snack-loader/'+site_id+'?cb='+sn_cb;
+            snack_hb2.id = 'snack_ads';
+            if(data_site_id){
+                snack_hb2.setAttribute('data-site-id',data_site_id);
+            }
+            document.body.appendChild(snack_hb2);
+        };
+
+         */
+    }
+
+	(function(){
+	    doSnackEmbed();
+	})();
+</script>
+</body>
+
+
+<script>
+    $(document).ready(function () {
+        
+        $(window).scroll(function (e) {
+            var getCookie1 = getCookie('username');
+            //alert(getCookie1);
+            if (!getCookie1) {
+                if ($(this).scrollTop() > 1200) {
+                    $(".facebook-page-widget").addClass("facebook-page-effect");
+                } else if ($(this).scrollTop() < 1200) {
+                    $(".facebook-page-widget").removeClass("facebook-page-effect");
+                }
+            }
+        });
+        $(".facebook-page-widget .no-show a").click(function () {
+            setCookie("username", 'clicked', 30);
+            $(".facebook-page-widget").remove();
+        });
+        $(".burger-menu").click(function () {
+           $(".other-drop").toggleClass('open');
+        });
+        
+        $(window).scroll(function () {
+
+            if ($(this).scrollTop() > 84) {
+
+                $('.second-header').addClass('show');
+            } else {
+                $('.second-header').removeClass('show');
+            }
+});
+
+        
+    });
+$(document).mouseup(function(e) 
+{
+    var container = $(".burger-menu");
+    if (!container.is(e.target) && container.has(e.target).length === 0) 
+    {
+        $(".other-drop").removeClass('open');
+    }
+});
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toGMTString();
+        document.cookie = cname + "=" + cvalue + "; " + expires;
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ')
+                c = c.substring(1);
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+</script>
+<script type="text/javascript">
+function scrolltodiv()
+{
+    $('html,body').animate({
+   scrollTop: $("#r-posts").offset().top
+});
+}
+$('img[data-imagecredit]').each(function(){
+    $(this).wrap( '<div class="detail-image"></div>' );
+    $(this).after('<a class="img-credit" target="_blank" href="'+$(this).data('imagecrediturl')+'">'+$(this).data('imagecredit')+'</a>');
+});
+
+$( window ).load(function() {
+  $(".img-credit").css("display", "block");
+});
+
+</script>
+
+</html>
