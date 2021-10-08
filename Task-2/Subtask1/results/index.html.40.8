@@ -1,0 +1,1923 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133454118-1"></script>
+
+    <meta charset="UTF-8">
+    
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    
+    
+    <meta name="google-site-verification" content="pJDxlXLu6qkw0N9XOkomADfapzn2GZYpsclOOyyMwxw" />
+    <link rel="preconnect" href="https://serve.themediateam.net" crossorigin>
+    <link rel="preconnect" href="https://www.google.com" crossorigin>
+    <link rel='preconnect' href='https://www.gstatic.com' crossorigin>
+    <link rel='preconnect' href='https://www.youtube.com' crossorigin>
+    
+    <!-- <script src="/static/external/js/jquery-1.12.3.min.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="
+        
+            Alder Lake,
+        
+            Willow Cove,
+        
+            Xe HPG
+        
+    " />
+    <!-- RSS FEEDS -->
+    <link rel="alternate" href="/xml/all.rss" type="application/rss+xml" charset="utf-8" title="bit-tech feed" />
+    <link rel="alternate" href="/xml/bittech.rss" type="application/rss+xml" charset="utf-8" title="Article feed" />
+    <link rel="alternate" href="/xml/news.rss" type="application/rss+xml" charset="utf-8" title="News feed" />
+    <link rel="alternate" href="/xml/hardware.rss" type="application/rss+xml" charset="utf-8" title="Hardware feed" />
+    <link rel="alternate" href="/xml/gaming.rss" type="application/rss+xml" charset="utf-8" title="Gaming feed" />
+    <link rel="alternate" href="/xml/modding.rss" type="application/rss+xml" charset="utf-8" title="Modding feed" />
+    <link rel="alternate" href="/xml/blog.rss" type="application/rss+xml" charset="utf-8" title="Blog feed" />
+    <link rel="alternate" href="/xml/blog/podcasts.rss" type="application/rss+xml" charset="utf-8" title="Podcasts feed" />
+    <link rel="alternate" href="/xml/bits.rss" type="application/rss+xml" charset="utf-8" title="Bits feed" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheets">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> -->
+
+    <link rel="canonical" href="https://bit-tech.net/news/tech/cpus/intels-architecture-day-reveals-details-on-alder-lake-and-the-xe-hpg-gpu/1/" />
+    <meta name="theme-color" content="#3f2856">
+
+    <!-- OLD STYLES -->
+    <link rel="apple-touch-icon" href="//images.bit-tech.net/images/webclip.png" />
+    
+    
+    <!-- NEW STYLES -->
+    <link rel="shortcut icon" href="/static/public/image/favicon.ico" />
+    <style>
+        *, *:after, *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+        }
+        [class*='col-'] {
+            float: left;
+            min-height: 1px;
+        }
+        .col-1-1 {
+            width: 100%;
+        }
+        .col-3-12 {
+            width: 25%;
+        }
+        .col-6-12 {
+            width: 50%;
+        }
+        .col-1-3 {
+            width: 33.33%;
+        }
+        .col-1-4 {
+            width: 25%;
+        }
+        .col-1-8 {
+            width: 12.5%;
+        }
+        .col-9-12 {
+            width: 75%;
+        }
+    </style>
+    <link rel="stylesheet" href="/static/public/css/main.v2.css" />
+    <link rel="stylesheet" href="/static/public/css/external/lite-yt-embed.css">
+    
+    
+    <style>
+        @font-face {
+            font-family: 'FontAwesome';
+            src: url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.eot?v=4.6.3');
+            src: url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('/static/external/css/font-awesome-4.6.3/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+        .fa {
+            display: inline-block;
+            font: normal normal normal 14px/1 FontAwesome;
+            font-size: inherit;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+        .fa-home:before {
+            content: "\f015";
+        }
+        .fa-envelope:before {
+            content: "\f0e0";
+        }
+        .fa-comments:before {
+            content: "\f086";
+        }
+        .fa-chevron-left:before {
+            content: "\f053";
+        }
+        .fa-shopping-cart:before {
+            content: "\f07a";
+        }
+    </style>
+    
+        <link rel="stylesheet"  href="/static/public/css/section/news.css" />
+    
+    
+        <link rel="stylesheet"  href="/static/public/css/category/tech.css" />
+    
+    <style>
+        body{
+            margin:0;
+            background:#000 url("/static/public/image/bittech_18_bg.jpg") fixed no-repeat 50% 0;
+        }
+        #side_column{
+            float:right;
+        }
+        #blurBackground{
+            margin: 0;
+            background: #000 url("/static/public/image/bittech_18_bg.jpg") fixed no-repeat 50% 0;
+        }
+        #blurBackground.blurred{
+            filter: blur(4px);
+            -webkit-filter: blur(4px);
+            filter: blur(4px);
+            -o-filter: blur(4px);
+            -ms-filter: blur(4px);
+            -moz-filter: blur(4px);
+        }
+        #skin {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            width: 100%;
+        }
+        #skin > #skinclick {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        body .pageContainer {
+            z-index: 999;
+            background: white;
+        }
+        #skin {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            width: 100%;
+        }
+        #skin > #skinclick {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        body .pageContainer {
+            z-index: 9999;
+            background: white;
+        }
+    </style>
+    <script type="text/javascript">
+        document.cutoff = 980;
+    </script>
+    
+    
+    
+        
+        <link rel="stylesheet"  href="/static/public/css/detail.v2.css" />
+        <link rel="stylesheet" href="/static/public/css/legacy_graphs.css" />
+        <link rel="stylesheet" href="/static/public/css/legacy.css" defer/>
+        <!-- sharethis buttons -->
+        <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=594b47e099baea0012f9c055&product=inline-share-buttons' async='async'></script>    
+        <link rel="stylesheet"  href="/static/public/css/external/icons.css" defer/>
+        
+
+<!-- for google -->
+
+<title>Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU | bit-tech.net</title>
+<meta name="description" content="The future could be bright" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta charset="utf-8">
+<!-- for facebook -->
+
+<meta property="og:url" content="https://bit-tech.net/news/tech/cpus/intels-architecture-day-reveals-details-on-alder-lake-and-the-xe-hpg-gpu/1/" />
+<meta property="og:title" content="Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU | bit-tech.net" />
+<meta property="og:description" content="The future could be bright" />
+<meta property="og:image" content="https://bit-tech.net/media/image/2020/8/a63153f3-0a93-41de-b73c-0194fe3bcdd8.jpeg" />
+<meta property="fb:app_id" content="1859842647618090"/>
+
+    <meta property="og:type" content="article" />
+
+
+    <meta property="og:locale" content="en_GB" />
+
+<!-- for twitter -->
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@bittech" />
+<meta name="twitter:creator" content="@bittech" />
+<meta name="twitter:title" content="Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU | bit-tech.net">
+<meta name="twitter:description" content="The future could be bright" />
+<meta name="twitter:image" content="https://bit-tech.net/media/image/2020/8/a63153f3-0a93-41de-b73c-0194fe3bcdd8.jpeg" />
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU | bit-tech.net">
+<meta itemprop="description" content="The future could be bright">
+<meta itemprop="image" content="https://bit-tech.net/media/image/2020/8/a63153f3-0a93-41de-b73c-0194fe3bcdd8.jpeg">
+<!-- for amazon -->
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_xml/" title="https://bit-tech.net search" />
+
+<!-- more on meta tags and SEO -->
+
+
+
+        
+            <!-- JSON-LD markup -->
+            <script type="application/ld+json">
+                {
+                    "@context" : "http://schema.org",
+                    "@type" : "Article",
+                    "name" : "Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU",
+                    "headline" : "Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU",
+                    "inLanguage":"en",
+                    "url" : "https://bit-tech.net//news/tech/cpus/intels-architecture-day-reveals-details-on-alder-lake-and-the-xe-hpg-gpu/1/",
+                    "image": "https://bit-tech.net/media/image/2020/8/a63153f3-0a93-41de-b73c-0194fe3bcdd8.jpeg",
+                    "datePublished" : "2020-08-17T11:00:00+01:00",
+                    "dateModified" : "2020-08-17T11:00:00+01:00",
+                    "discussionUrl" : "https://forums.bit-tech.net/index.php?threads/379918",
+                    "description" : "The future could be bright",
+                    "author" : {
+                        "@type" : "Person",
+                        "name" : "Jennifer Allen"
+                    },
+                    "mainEntityOfPage": {
+                        "@type": "WebPage",
+                        "@id": "https://bit-tech.net/news/tech/cpus/intels-architecture-day-reveals-details-on-alder-lake-and-the-xe-hpg-gpu/1/"
+                    },
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "bit-tech",
+                        "url" : "https://bit-tech.net/",
+                        "sameAs": [
+                            "https://www.facebook.com/bittech",
+                            "https://twitter.com/bittech",
+                            "https://www.instagram.com/bit_tech/",
+                            "https://www.youtube.com/channel/UCGxtYMx16kD7jK0RKSxsVrw"
+                        ],
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.themediateam.net/static/img/resources/bit-tech/bit-tech.png"
+                        }
+                    }
+                }
+            </script>
+        
+    
+    
+    <!-- JSON-LD markup -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "bit-tech",
+            "url" : "https://bit-tech.net/",
+            "sameAs": [
+                "https://www.facebook.com/bittech",
+                "https://twitter.com/bittech",
+                "https://www.instagram.com/bit_tech/",
+                "https://www.youtube.com/channel/UCGxtYMx16kD7jK0RKSxsVrw"
+            ],
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.themediateam.net/static/img/resources/bit-tech/bit-tech.png"
+            }
+        }
+    </script>
+    <script>
+        (function (w, d, t) {
+            _ml = w._ml || {};
+            _ml.eid = '62979';
+            var s, cd, tag; s = d.getElementsByTagName(t)[0]; cd = new Date();
+            tag = d.createElement(t); tag.async = 1;
+            tag.src = 'https://ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth();
+            s.parentNode.insertBefore(tag, s);
+        })(window, document, 'script');
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        
+        gtag('config', 'UA-133454118-1');
+    </script>
+</head>
+<body>
+
+<!-- Style Switcher -->
+<input id="settings-btn" type="checkbox" class="settings-btn">
+<label for="settings-btn" class="settings-box-element"><i class="fa fa-chevron-left"></i></label>
+<!-- the white box that contains the buttons -->
+<div class="buttons-wrapper settings-box-element"></div>
+
+<!-- Style Switcher Themes -->
+
+<!-- dark background -->
+<input id="dark-layout" class="dark-layout" type="radio" name="layout">
+<label for="dark-layout" class="layout-buttons settings-box-element">Dark Theme</label>
+<!-- light background -->
+<input id="light-layout" class="light-layout" type="radio" name="layout" checked>
+<label for="light-layout" class="layout-buttons settings-box-element">Light Theme</label>
+<!-- ./Style Switcher -->
+
+<div id="blurBackground">
+    <a name="top" id="top"></a>
+    <div class="pageContainer">
+        <div id="brandHeader" class="clearfix">
+            
+                <a href="/"><img class="logo" src="/static/public/image/bit_tech_logo_white.png" alt="bit-tech"></a>
+            
+            <div class="xtag-153">
+                <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=153&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64acc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=153&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ac' border='0' alt='' /></a></noscript>
+
+            </div>
+        </div>
+        
+            <div id="navContainer" class="clearfix">
+                <div id="mainNav" class="clearfix">
+                    
+                    <ul id="topList" class="clearfix">
+                        <a href="/">
+                            <li id="topListHome" class="topLi " >
+                                <div class="topLi-icon fa fa-home" style="display:none;"></div>
+                                <img src="/static/public/image/icons/home-icon.svg" alt="bit-tech home page">
+                                <span>Home</span>
+                            </li>
+                        </a>
+                        
+                            <a href="/category/tech/">
+                                <li data-section="tech" class="topLi active" >
+                                    <div class="topLi-icon" style="display:none;"></div>
+                                    <span>Tech</span>
+                                </li>
+                            </a>
+                        
+                            <a href="/category/modding/">
+                                <li data-section="modding" class="topLi " >
+                                    <div class="topLi-icon" style="display:none;"></div>
+                                    <span>Modding</span>
+                                </li>
+                            </a>
+                        
+                            <a href="/category/gaming/">
+                                <li data-section="gaming" class="topLi " >
+                                    <div class="topLi-icon" style="display:none;"></div>
+                                    <span>Gaming</span>
+                                </li>
+                            </a>
+                        
+                        <a href="//forums.bit-tech.net">
+                            <li id="topListForum" >
+                                <div class="topLi-icon fa fa-comments" style="display:none;"></div>
+                                <span>Forum</span>
+                            </li>
+                        </a>
+                        <a href="https://store.bit-tech.net/collections/all">
+                            <li  style="background: #da15a2;">
+                                <div class="topLi-icon fa fa-shopping-cart" style="display:none;"></div>
+                                <span>Store</span>
+                            </li>
+                        </a>
+                    </ul>
+                    <div class="right_box">
+                        <div class="icons">
+                            <a href="https://www.facebook.com/bittech">
+                                <img src="/static/public/image/icons/facebook.svg" alt="bit-tech Facebook page">
+                            </a>
+                            <a href="https://www.twitter.com/bittech">
+                                <img src="/static/public/image/icons/twitter.svg" alt="bit-tech Twitter feed">
+                            </a>
+                            <a href="https://www.instagram.com/bit_tech/">
+                                <img src="/static/public/image/icons/instagram.svg" alt="bit-tech Instagram feed">
+                            </a>
+                            <a href="https://www.youtube.com/c/bittech1">
+                                <img src="/static/public/image/icons/youtube.svg" alt="bit-tech YouTube channel">
+                            </a>
+                            <a href="https://discord.gg/EBGNWYm">
+                                <img src="/static/public/image/icons/discord.svg" alt="bit-tech discord channel">
+                            </a>
+                            <a href="/rss/">
+                                <img src="/static/public/image/icons/rss.svg" alt="bit-tech RSS feed">
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="account-options">
+                        
+                        
+                            
+                            <a id="accounts_icon" href="https://forums.bit-tech.net/index.php/login">
+                                <span class="account-option">Login</span>
+                            </a>
+                            <a href="https://forums.bit-tech.net/index.php?login/login">
+                                <span class="account-option">Register</span>
+                            </a>
+                        
+                        
+                    </div>
+                </div>
+                
+                <div id="subNav" class="clearfix">
+                    <ul id="secondList" style="display: inline-flex; max-width: initial; width: initial;">
+                        <li >
+                            
+                                <a href="/category/tech/">
+                            
+                                <span>All</span>
+                            </a>
+                        </li>
+                        
+                            <li class="active" >
+                                
+                                    
+                                        <a href="/news/tech/">
+                                    
+                                        <span>News</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/reviews/tech/">
+                                    
+                                        <span>Reviews</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/features/tech/">
+                                    
+                                        <span>Features</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/previews/tech/">
+                                    
+                                        <span>Previews</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/guides/tech/">
+                                    
+                                        <span>Guides</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/blogs/tech/">
+                                    
+                                        <span>Blogs</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    
+                                        <a href="/competitions/tech/">
+                                    
+                                        <span>Competitions</span>
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="" >
+                                
+                                    <a href="/press-releases/">
+                                        <span>Press Releases</span>
+                                    </a>
+                                
+                            </li>
+                        
+                    </ul>
+                    <div class="search">
+                        <form id="search_form" action="/search/" method="get" accept-charset="utf-8">
+                            <input type="text" name="q" value="" placeholder="SEARCH"/>
+                            <span class="button">
+                                <input type="submit" value="">
+                            </span>
+                        </form>
+                    </div>
+                </div>
+                
+                    <div id="anotherSubNav" class="clearfix">
+                        <ul id="thirdList" style="display: inline-flex; max-width: initial; width: initial;">
+                            <li class="active">
+                                
+                                    <a href="/news/tech/">
+                                
+                                    <span>All</span>
+                                </a>
+                            </li>
+                            
+                                
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/audio/
+                                            ">
+                                                <span>Audio</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/cases/
+                                            ">
+                                                <span>Cases</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/cooling/
+                                            ">
+                                                <span>Cooling</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/cpus/
+                                            ">
+                                                <span>CPUs</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/graphics/
+                                            ">
+                                                <span>Graphics</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/laptops/
+                                            ">
+                                                <span>Laptops</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/memory/
+                                            ">
+                                                <span>Memory</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/mobile/
+                                            ">
+                                                <span>Mobile</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/monitors/
+                                            ">
+                                                <span>Monitors</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/motherboards/
+                                            ">
+                                                <span>Motherboards</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/networking/
+                                            ">
+                                                <span>Networking</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/pcs/
+                                            ">
+                                                <span>PCs</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/peripherals/
+                                            ">
+                                                <span>Peripherals</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/psus/
+                                            ">
+                                                <span>PSUs</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/software/
+                                            ">
+                                                <span>Software</span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li  >
+                                            <a href="
+                                                /news/tech/storage/
+                                            ">
+                                                <span>Storage</span>
+                                            </a>
+                                        </li>
+                                    
+                                
+                            
+                                
+                            
+                                
+                            
+                        </ul>
+                    </div>
+                
+                
+            </div>
+        
+        <div class="xtag-173">
+            <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=173&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64abc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=173&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ab' border='0' alt='' /></a></noscript>
+
+        </div>
+        <div id="bodyContainer" class="clearfix">
+            <div class="clearfix" style="clear:both;">
+                <div id="main_column">
+                    
+    
+    
+    
+        
+            
+
+<link rel="stylesheet" type="text/css" href="/static/public/modal/baguetteBox.css">
+<style>
+    .image-source-link {
+        color: #98C3D1;
+    }
+
+    .mfp-with-zoom .mfp-container,
+    .mfp-with-zoom.mfp-bg {
+        opacity: 0;
+        -webkit-backface-visibility: hidden;
+        /* ideally, transition speed should match zoom duration */
+        -webkit-transition: all 0.3s ease-out; 
+        -moz-transition: all 0.3s ease-out; 
+        -o-transition: all 0.3s ease-out; 
+        transition: all 0.3s ease-out;
+    }
+
+    .mfp-with-zoom.mfp-ready .mfp-container {
+            opacity: 1;
+    }
+    .mfp-with-zoom.mfp-ready.mfp-bg {
+            opacity: 0.8;
+    }
+
+    .mfp-with-zoom.mfp-removing .mfp-container, 
+    .mfp-with-zoom.mfp-removing.mfp-bg {
+        opacity: 0;
+    }
+</style>
+<div class="articleCopy">
+    <div id="article-top">
+        <div id="article-details">
+            <div class="object_headings" style="flex-grow: 1;">
+                <h1 class="heading" >Intel&#39;s Architecture day reveals details on Alder Lake and the Xe HPG GPU</h1>
+                <div class="clearfix">
+                    <p class="author" >Written by
+                        <a href="/author/jennifer-allen/">
+                            Jennifer Allen
+                        </a>
+                    </p>
+                    <div class="sharethis-inline-share-buttons" ></div>
+                </div>
+                <p class="datetime" >August 17, 2020 | 11:00</p>
+                
+                    
+                        <p class="tags" >Tags: <a href="/tag/alder-lake/">#alder-lake</a> <a href="/tag/willow-cove/">#willow-cove</a> <a href="/tag/xe-hpg/">#xe-hpg</a> </p>
+                    
+                
+                 
+                    
+                        <p class="companies">Companies: <a href="/company/intel/">#intel</a> </p>
+                    
+                
+                
+            </div>
+            
+                
+            
+        </div>
+        <div id="top_thumbnail" class="clearfix" >
+            
+            
+                
+                    <img src="/media/image/2020/8/a63153f3-0a93-41de-b73c-0194fe3bcdd8.jpeg" alt="">
+                
+            
+        </div>
+    </div>
+    <div id="page_body" class="object_body">
+            
+        <p><strong>During Intel's Architecture day last week, more details were unveiled about Intel's Alder Lake chip, the Willow Cove architecture, as well as what to expect from the upcoming Xe HPG discrete graphics card.</strong></p><p>Essentially a bevy of promising information that is - of course - tinged with Intel keen to muster up some hype, it was an interesting set of announcements to break down. First of all, there was news of the upcoming Tiger Lake chip which promises a "<em>greater than generational improvement in CPU</em>" performance. That means drastically increased clock speeds compared to the current generation chips, lower power usage, PCI Express 4.0, Thunderbolt 4, and also an integrated Xe GPU.&nbsp;</p><p>Broken down, Tiger Lake is expected to be available in a number of different configurations ranging from devices consuming less than 10 watts up to 65 watts. With lower operating voltage and promising 20 percent lower power when computing using the Gaussian Neural Accelerator, it still promises what Intel refers to as "<em>dramatic</em>" frequency increases compared to the previous generation. It should be more substantial than the incremental changes we've seen of late with Intel processors, presumably thanks to its use of the Willow Cove architecture.</p><p>The news regarding Tiger Lake was expected given it was added to Intel's public roadmap last year but we should be getting nearer to something more substantial with solid rumours suggesting that it may launch in September. That ties into past announcements whereby Intel promised over 50 Tiger Lake notebooks would be made available by the holidays - i.e. November/December time.&nbsp;</p><p>Intel didn't stop there either with announcements. It also used the day to discuss its upcoming Xe HPG discrete graphics card which promises hardware ray tracing as hoped. The downside being that it won't be available until 2021 with laptops getting in on the action first. In a statement, Intel's Raja Koduri, senior vice president, chief architect, and general manger of Architecture, Graphics and Software, explained that the focus is on targeting enthusiast gamers: "<em>we know enthusiast gamers are the hardest bunch to impress. They love products that have the best performance, best performance per watt, performance per dollar and latest, greatest features all at the same time</em>."</p><p>Not many other details were released about the new Xe HPG but we were told that it will use a new GDDR6 memory controller, and that it will be externally manufactured rather than manufactured by Intel itself. And there's the big piece of news regarding the focus being on laptops for now with the suggestion being that the goal is to offer 2 times the performance over the 10th generation's Ice Lake's Gen 11 graphics without increasing power consumption.</p><p>For now, it's marketing bluster but it's certainly promising even if Intel hasn't offered more concrete figures or further details regarding how the comparisons have been made. Expect more details to emerge over the coming weeks.&nbsp;</p><br>
+    </div>
+    
+
+
+    
+        
+    
+
+     <div id="comments_container" class="comments" style='overflow: auto;'>
+
+        <div id="comments_action">
+            
+            <p class="login-link">Want to comment? Please log in.</p>
+            
+        </div>
+        <a href="//forums.bit-tech.net/index.php?threads/379918">Discuss this in the forums</a>
+
+        <div id="current_comments" class="clearfix" >
+
+        </div>
+        <div id="comments_nav" class="col-1-1">
+            <div id="batch_numbers"></div>
+        </div>
+        
+    </div>
+
+    
+
+        <div id="related_articles_container" class="clearfix">
+            <h3 class="headingBar">RELATED ARTICLES</h3>
+            <div id="detail-related-container">
+                
+                    
+                        <div id="article_83268" class="article cpus news tech cpus   ">
+    <div class="articleinfo">
+        <a href="/news/tech/cpus/intel-alder-lake-s-hybrid-desktop-cpu-benchmark-has-been-spotted/1/">
+            <img src="/media/image/2020/10/5ff97d8c-c1f9-4d36-a6b1-76511550b661.jpeg" alt="Intel Alder-Lake S hybrid desktop CPU benchmark has been spotted">
+            <div class="article_info">
+                <div class="category-dot tech cpus"></div>
+                <h4 class="article_heading" >
+                    Intel Alder-Lake S hybrid desktop CPU benchmark has been spotted
+                </h4>
+                <div class="summery clearfix">
+                    <p>It&#39;s not certain what to expect</p>
+                    <span class="published" >October 7, 2020 | 13:00</span>
+                </div>
+            </div>
+        </a>
+        <span class="bottom-right">
+            <a href="//forums.bit-tech.net/index.php?threads/381871" class="comments">1</a>
+        </span>
+    </div>
+    <div class="rightseparator"></div>
+    <div class="bottomseparator"></div>
+</div>
+                    
+                
+                    
+                        <div id="article_83210" class="article cpus news tech cpus   ">
+    <div class="articleinfo">
+        <a href="/news/tech/cpus/intels-jasper-lake-could-launch-early-2021/1/">
+            <img src="/media/image/2020/9/e03573a0-42d8-4736-ac0d-c55de77cb9bb.jpeg" alt="Intel&#39;s Jasper Lake could launch early 2021">
+            <div class="article_info">
+                <div class="category-dot tech cpus"></div>
+                <h4 class="article_heading" >
+                    Intel&#39;s Jasper Lake could launch early 2021
+                </h4>
+                <div class="summery clearfix">
+                    <p>Ideal for entry-level laptops and mini PCs</p>
+                    <span class="published" >September 8, 2020 | 15:00</span>
+                </div>
+            </div>
+        </a>
+        <span class="bottom-right">
+            <a href="//forums.bit-tech.net/index.php?threads/380710" class="comments">0</a>
+        </span>
+    </div>
+    <div class="rightseparator"></div>
+    <div class="bottomseparator"></div>
+</div>
+                    
+                
+                    
+                        <div id="article_83205" class="article cpus news tech cpus   ">
+    <div class="articleinfo">
+        <a href="/news/tech/cpus/intel-unveils-tiger-lake-mobile-cpus/1/">
+            <img src="/media/image/2020/9/c8df3074-39f7-4d07-973e-955bd8fd82d8.jpeg" alt="Intel unveils Tiger Lake mobile CPUs">
+            <div class="article_info">
+                <div class="category-dot tech cpus"></div>
+                <h4 class="article_heading" >
+                    Intel unveils Tiger Lake mobile CPUs
+                </h4>
+                <div class="summery clearfix">
+                    <p>Faster and smarter according to Intel</p>
+                    <span class="published" >September 7, 2020 | 11:00</span>
+                </div>
+            </div>
+        </a>
+        <span class="bottom-right">
+            <a href="//forums.bit-tech.net/index.php?threads/380638" class="comments">0</a>
+        </span>
+    </div>
+    <div class="rightseparator"></div>
+    <div class="bottomseparator"></div>
+</div>
+                    
+                
+            </div>
+        </div>
+
+    
+
+    
+
+        
+
+    
+</div>
+
+
+<script src="/static/public/modal/baguetteBox.js"> </script>
+<script>
+    
+    function resizeImages() {    
+        images = document.querySelectorAll('#page_body img');
+        for (let index = 0; index < images.length; index++) {
+            image = images[index];
+            // if (image.width == 430) {
+            //     image.parentNode.width = 430;
+            //     image.style.marginRight = "20px";
+            // }
+            if (image.width == 300) {
+                // console.log(image.parentElement)
+                image.parentElement.width = 430;
+                image.parentElement.style.width = "49%";
+                image.width = 430;
+                image.style.marginRight = "20px";
+            }
+        }
+    }
+    // window.onload = resizeImages()
+
+    // setTimeout(resizeImages, 5000);
+
+
+    
+    elems = document.querySelectorAll('#page_body table')
+    if (elems) {
+        for (let index = 0; index < elems.length; index++) {
+            elems[index].style = '';
+        }
+    }
+    elems = document.querySelectorAll('#page_body table *')
+    if (elems) {
+        for (let index = 0; index < elems.length; index++) {
+            elems[index].style = '';
+        }
+    }
+    // elems.forEach( function(element) {
+    //     element.style = ''
+    // });
+    
+    window.onload = function() {
+        ad = document.querySelector('div.footerContainer div.xtag_container')
+        related = document.querySelector('#related_articles_container')
+        related.before(ad);
+        resizeImages()
+    };
+</script>
+
+        
+    
+
+
+
+                </div>
+                <div id="side_column" class="grid_6">
+                    
+                    <div id="banners">
+                        <div class="side_bar_banners" >
+                            <a href="//forums.bit-tech.net/index.php?forums/project-logs.42/">
+                                <img src="/static/public/image/sidebar_banners/project_logs.jpg" alt="Project logs" loading="lazy">
+                            </a>
+                        </div>
+                        <div class="side_bar_banners" >
+                            <a href="/category/modding/">
+                                <img src="/static/public/image/sidebar_banners/modding.jpg" alt="modding content" loading="lazy">
+                            </a>
+                        </div>
+                        <div class="side_bar_banners" >
+                            <a href="https://www.corsair.com/uk/en/">
+                                <img src="/static/public/image/sidebar_banners/corsair2021.jpg" alt="Corsair" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="xtag-157">
+                        <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=157&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64abc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=157&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ab' border='0' alt='' /></a></noscript>
+
+                    </div>
+                    <div id="latest-video">
+                        <lite-youtube videoid="jjfvuqQODgM"></lite-youtube>
+                        <img src="/static/public/image/YouTube_full-color.svg" alt="YouTube logo" loading="lazy">
+                        <div>
+                            <h5 id="latest-video-text">Raijintek Scylla Elite 240mm Watercooling Review</h5>
+                            <p>October 1 2021 | 10:29</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div id="weekInReviews" class="sidebarHighlight">
+                        <a href="/week-in-review/">
+                            <img src="/static/public/image/week.jpg" alt="Week in review" loading="lazy">
+                        </a>
+                    </div>
+                    
+                    <div id="shortSignup">
+                        <input type='hidden' name='csrfmiddlewaretoken' value='ImsA72iRxkTxCaftsU51j90jwED5kEg9RmxuypAzlfckvDExXotLFKuWN4j0w0xn' />
+                        <iframe src="/newsletter_signup/" frameborder="0" loading="lazy"></iframe>
+                        <div style="clear:both;"></div>
+                    </div>
+                    <div id="skyscrapers" class="clearfix" >
+                        <div id="left_articles_container">
+                            <div id="top_stories_container" class="clearfix">
+                                <h3 class="headingBar">TOP STORIES</h3>
+                                <div id="top_stories"></div>
+                            </div>
+                            <div class="clearfix" id="suggestions_container">
+                                <h3 class="headingBar">SUGGESTED FOR YOU</h3>
+                                <div id="side_bar_suggestions"></div>
+                            </div>
+                        </div>
+                        <div class="xtag-165">
+                            <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=165&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64abc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=165&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ab' border='0' alt='' /></a></noscript>
+
+                        </div>
+                    </div>
+                    
+                    <div style="float:right;" ></div>
+                    <div class="xtag-161">
+                        <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=161&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64abc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=161&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ab' border='0' alt='' /></a></noscript>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footerContainer clearfix">
+            
+            <div class="xtag_container">
+                <div class="xtag-169">
+                    <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=169&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a35f64abc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=169&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35f64ab' border='0' alt='' /></a></noscript>
+
+                </div>
+            </div>
+            
+            
+            <div id="footer" class="clearfix" >
+                <div id="bottom_links_container" class="clearfix" >
+                    <div id="bottom-site-links">
+                        <h2 class="heading" >Site Links</h2>
+                        <ul class="site">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            <li>
+                                <a href="/terms/">Terms</a>
+                            </li>
+                            <li>
+                                <a href="/about/">About</a>
+                            </li>
+                            <li>
+                                <a href="mailto:hello@bit-tech.net">Advertise</a>
+                            </li>
+                            <li>
+                                <a href="/scores/">Award Guide</a>
+                            </li>
+                            <li>
+                                <a href="mailto:hello@bit-tech.net?subject=Site Contact Us">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="bottom-company-links">
+                        <h2 class="heading" >Popular Companies</h2>
+                        <ul>
+                        
+                            <li>
+                                <a href="/company/nvidia/">
+                                    <span>NVIDIA</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/amd/">
+                                    <span>AMD</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/intel/">
+                                    <span>Intel</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/corsair/">
+                                    <span>Corsair</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/apple/">
+                                    <span>APPLE</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/google/">
+                                    <span>Google</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/microsoft/">
+                                    <span>Microsoft</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/steam/">
+                                    <span>Steam</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/arm/">
+                                    <span>arm</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/asus/">
+                                    <span>ASUS</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/msi/">
+                                    <span>MSI</span>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/company/gigabyte/">
+                                    <span>GIGABYTE</span>
+                                </a>
+                            </li>
+                        
+                        </ul>
+                    </div>
+                    <div class="icons">
+                        <h2 class="heading">let's get social</h2>
+                        <ul>
+                            <li>
+                                <a href="https://www.facebook.com/bittech">
+                                    <img src="/static/public/image/icons/facebook.svg" alt="bit-tech Facebook page" loading="lazy">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.twitter.com/bittech">
+                                    <img src="/static/public/image/icons/twitter.svg" alt="bit-tech Twitter feed" loading="lazy">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/bit_tech/">
+                                    <img src="/static/public/image/icons/instagram.svg" alt="bit-tech Instagram feed" loading="lazy">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/c/bittech1">
+                                    <img src="/static/public/image/icons/youtube.svg" alt="bit-tech YouTube channel" loading="lazy">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://discord.gg/EBGNWYm">
+                                    <img src="/static/public/image/icons/discord.svg" alt="bit-tech discord channel" loading="lazy">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/rss/">
+                                    <img src="/static/public/image/icons/rss.svg" alt="bit-tech RSS feed" loading="lazy">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <img src="/static/public/image/bit_tech_logo_white.png" style="float: right;" alt="bit-tech logo" loading="lazy">
+                </div>
+                <br>
+                <div id="bottom_info_container" >
+                    <p>Copyright © 2000 - 2021, bit-tech.net. All rights reserved.</p>
+                </div>
+                <div id="theMediaTeamLogoContainer" style="float:right;">
+                    <a href="https://www.themediateam.net/">
+                        <img id="theMediaTeamLogo" src="/static/public/image/part_of_the_media_team.png" style="width:100%;" alt="The Media Team logo" loading="lazy">
+                    </a>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+
+<div class="opaque"></div>
+<div id="login_form" style="display: none;" class="login">
+    <div class="login-header">
+        <div class="login-title">Login Form</div>
+        <div class="login-exit"></div>
+    </div>
+    <div class="login-form"></div>
+    <div class="login-footer"></div>
+</div>
+
+    <!-- JSON-LD -->
+    <script type="text/javascript" src="/static/head/generateFromURL.js"></script>
+    <!-- Tangular Template -->
+    <script src="/static/external/js/Tangular.min.js"></script>
+    <script type="text/template" id="sidebar_article_template">
+        <div class="sidebar_article[[ categories_string ]] [[ value.section ]]" >
+            <div class="image">
+                <a href="[[ value.get_absolute_url ]]">
+                    <img src="[[ thumbnail ]]" alt="[[ value.title ]]" loading="lazy">
+                </a>
+            </div>
+            <div class="details">
+                <div class="title">
+                    <a href="[[ value.get_absolute_url ]]">
+                        <h4> [[ value.title ]] </h4>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </script>
+    <!-- SCRIPTS -->
+    <script type="text/javascript">
+        // desktop mobile split
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                function getCookie(name) {
+                    var cookieValue = null;
+                    if (document.cookie && document.cookie != '') {
+                        var cookies = document.cookie.split(';');
+                        for (var i = 0; i < cookies.length; i++) {
+                            var cookie = jQuery.trim(cookies[i]);
+                            // Does this cookie string begin with the name we want?
+                            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                                break;
+                            }
+                        }
+                    }
+                    return cookieValue;
+                }
+                if (!(/^http:.*/.test(settings.url) || /^https:.*/.test(settings.url))) {
+                    // Only send the token to relative URLs i.e. locally.
+                    xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+                }
+            }
+        });
+        Ta.settings.delimiters = ["[[", "]]"];
+    </script>
+
+    <script src="/static/public/javascript/public.v2.js"></script>
+    <script async src="//serve.themediateam.net/ox/www/delivery/asyncjs.php"></script>
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'https://serve.themediateam.net/ox/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=181&amp;source=_blank&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://serve.themediateam.net/ox/www/delivery/ck.php?n=a355bc27c&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=181&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a355bc27' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+    <script>
+        window.BITTECH.Urls = {
+            top_stories: "/api/functions/get_top_stories/",
+            suggested_articles: "/api/functions/get_suggestions/"
+        };
+
+        var formValues = JSON.parse(localStorage.getItem('bit-tech-style')) || {};
+        var $checkboxes = $("input[type='radio']");
+
+        function updateStorage(){
+            $checkboxes.each(function(){
+                formValues[this.id] = this.checked;
+            });
+
+            localStorage.setItem("bit-tech-style", JSON.stringify(formValues));
+        }
+
+        $checkboxes.on("change", function(){
+            updateStorage();
+        });
+
+        // On page load
+        $.each(formValues, function(key, value) {
+            $("#" + key).prop('checked', value);
+        });
+
+        (function($) {
+            setTimeout(function(){
+                $('#skin').css('height', $(document).height());
+                $('style').each(function(){
+                    $(this).text(
+                        $(this).text().replace('body, body#bit-gamer', '#blurBackground')
+                    );
+                });
+            });
+            $("img[src*='featured_double']").each(function(index, value) {
+                $(this).error(function() {
+                    var img = $(this).clone();
+                    var img_container = $(this).closest('.image');
+                    var new_src = img.attr("src").replace("featured_double", "index_img");
+                    img.attr("src", new_src);
+                    $(this).replaceWith(img);
+                    if (img_container.css('background-image')){
+                        img_container.css('background-image', 'url(' + new_src + ')');
+                    }
+                });
+                $(this).attr("src", function() {
+                    return this.src;
+                });
+            });
+
+            var resManager = new window.BITTECH.ResolutionSwitcher();
+            resManager.checkResolution();
+
+            var resizeTimer;
+
+            $(window).resize(function(){
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(function(){
+                    resManager.checkResolution();
+                }, 500);
+            });
+
+            // short signup script
+            function short_signup_redirect(){
+                var email = $('#shortSignup input[type="email"]').val();
+                window.top.location = '/';
+            }
+
+            $('span.send').on('click', function(){
+                short_signup_redirect();
+            });
+
+            $('#email').keypress(function(event){
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if(keycode == '13'){
+                    short_signup_redirect();
+                }
+            });
+
+            $('.search input[type="text"]').keypress(function(event){
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if(keycode == '13'){
+                    $('.search form').submit();
+                }
+            });
+
+            // function to handle the user being subscribed
+            function subscribed(){
+
+                // hide the subscribe to newsletter
+                $('#shortSignup').remove()
+            };
+
+            // sign me up click
+            $('#signMeUp').click(function(){
+
+                // post to subscribe
+                $.post("/cms/emails/api/functions/short-signup/", function(data){
+                    if (data.status === 'success'){
+                        subscribed();
+                    } else {
+                        $('#shortSignup .signMeUpContainer').html('<h3 class="align-left headingBar">ADD YOUR EMAIL <a href="/accounts/profile/" style="text-decoration:underline;">HERE</a> TO SUBSCRIBE</h3>');
+                        $('#signMeUp').hide();
+
+                    };
+                });
+            });
+
+            // check if user is signed up
+            $.get("/cms/emails/api/functions/is-subscribed/", function(data){
+                if (data.subscribed === true){
+                    subscribed();
+                };
+            });
+
+
+            // identify visitor and metadata if there is a user agent
+            var visitor_id = null;
+            if ((typeof navigator !== 'undefined' || navigator !== null) && navigator.userAgent) {
+                visitor_id = localStorage.getItem('visitor_id');
+                $.get('/cms/intelligence/visit_meta/' + visitor_id + '/').done(function(data) {
+                    localStorage.setItem('visitor_id', data['visitor_id']);
+
+                    // initialise poll once we're sure they have a visitor ID
+                    // initializePolls();
+
+                    $.get('/cms/community/associate/' + data['visitor_id'] + '/');
+                    var url_string = '';
+                    var joiner = '?';
+                    $('div.article').each(function(x){
+                        var key = 'article_' + x.toString();
+                        var value = $(this).attr('id').split('_')[1]
+                        url_string = url_string + joiner + x.toString() + '=' + value;
+                        joiner = '&';
+                    });
+
+                });
+            }
+
+        })(jQuery);
+
+        (function ($) {
+            var Modal = (function () {
+                function Modal(options) {
+                    this.options = {
+                        $el: $("<div/>")
+                    };
+                    $.extend(this.options, options);
+                }
+
+                Modal.prototype.show = function () {
+                    $(".opaque").addClass("show");
+                    this.el().fadeIn("fast");
+                    this.trigger("show");
+                    return this;
+                };
+
+                Modal.prototype.hide = function () {
+                    $(".opaque").removeClass("show");
+                    this.el().fadeOut("fast");
+                    this.trigger("hide");
+                    return this;
+                };
+
+                Modal.prototype.on = function (evt, cb) {
+                    this.options.$el.on(evt, cb.bind(this));
+                };
+
+                Modal.prototype.el = function () {
+                    return this.options.$el;
+                };
+
+                Modal.prototype.off = function (evt) {
+                    this.options.$el.off(evt);
+                };
+
+                Modal.prototype.trigger = function (evt, data) {
+                    this.options.$el.trigger(evt, data);
+                };
+                return Modal;
+            })();
+
+            var login_form = $("#login_form");
+
+            var modal = new Modal({ $el: login_form });
+
+            $.fn.serializeObject = function() {
+               var o = {};
+               var a = this.serializeArray();
+               $.each(a, function() {
+                   if (o[this.name]) {
+                       if (!o[this.name].push) {
+                           o[this.name] = [o[this.name]];
+                       }
+                       o[this.name].push(this.value || '');
+                   } else {
+                       o[this.name] = this.value || '';
+                   }
+               });
+               return o;
+            };
+
+            
+
+            $(function() {
+               $('#page_body').find('img').each(function(index, image) {
+
+                     var caption = $(image).attr('caption');
+
+                     $(image).replaceWith(
+                        $('<a/>').css({
+                            'overflow': 'auto',
+                            'display': 'inline-block',
+                            'flex-direction': 'column',
+                            'justify-content': 'center',
+                            'text-align': 'center',
+                            'float': $(image).css('float')
+                        })
+                        .attr('data-isimage', true)
+                        .attr('href', $(image).attr('data-src') || $(image).attr('src'))
+                        .html([
+                            $(image).clone(),
+                            '<figcaption style="font-size: 10px; font-weight: 300;"><i> '+
+                                (caption && caption.length ? $(image).attr('caption') : 'Click to enlarge')
+                            + ' </i></figcaption>',
+                        ])
+                    )
+                });
+
+                if (window.baguetteBox) {
+                    baguetteBox.run('.object_body');
+                }
+
+            });
+
+        })(jQuery);
+    </script>
+    
+    <script type='text/javascript'><!--//<![CDATA[
+        document.MAX_ct0 = unescape('INSERT_ENCODED_CLICKURL_HERE');
+        var m3_u = (location.protocol=='https:'?'https://serve.themediateam.net/ox/www/delivery/ajs.php':'http://serve.themediateam.net/ox/www/delivery/ajs.php');
+        var m3_r = Math.floor(Math.random()*99999999999);
+        if (!document.MAX_used) document.MAX_used = ',';
+        document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+        document.write ("?zoneid=263&amp;source=_blank&amp;target=_blank");
+        document.write ('&amp;cb=' + m3_r);
+        if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+        document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+        document.write ("&amp;loc=" + escape(window.location));
+        if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+        if (document.context) document.write ("&context=" + escape(document.context));
+        if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+        document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+        }
+        if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+        document.write ("'><\/scr"+"ipt>");
+        //]]>-->
+    </script>
+    
+    <script>
+        
+        // media query change
+        function WidthChange(mq) {
+            if (mq.matches) {
+                // window width is at least 950px
+                $(header).css({
+                    'height': '65px',
+                    'width': '100%',
+                    'background-color': 'rgb(245, 245, 245)',
+                    // 'color': 'white',
+                    'position': 'fixed',
+                    'bottom': '0px',
+                    'z-index': '9999',
+                    'font-size': '1vw',
+                    'text-align': 'center',
+                    'max-height': '55px',
+                    'font-size': '14px',
+                })
+            } else {
+                // window width is less than 950px
+                $(header).css({
+                    'height': '90px',
+                    'width': '100%',
+                    'background-color': 'rgb(245, 245, 245)',
+                    // 'color': 'white',
+                    'position': 'fixed',
+                    'bottom': '0px',
+                    'z-index': '9999',
+                    'font-size': '3vw',
+                    'text-align': 'center',
+                    'max-height': '115px',
+                    'font-size': '14px',
+                })
+            }
+        }
+
+        if (!localStorage.getItem("bit-tech-privacy")||localStorage.getItem("bit-tech-privacy")==='false') {
+            header = document.createElement('div')
+            header.setAttribute('id', 'GDPR');
+            // media query event handler
+            if (matchMedia) {
+                const mq = window.matchMedia("(min-width: 950px)");
+                mq.addListener(WidthChange);
+                WidthChange(mq);
+            }
+            text = document.createElement('p');
+            text.innerHTML = 'In line with recent changes to data protection legislation in the UK and Europe we would like to direct you to our updated <a href="https://www.themediateam.net/privacy/" alt="The Media Team privacy policy">Privacy Policy here</a>.';
+            $(text).css({
+                'margin': '0px'
+            })
+            header.appendChild(text)
+            button = document.createElement('button')
+            button.innerHTML = 'Dismiss';
+            $(button).css({
+                'position': 'absolute',
+                'bottom': '5px',
+                'left': '0px',
+                'right': '0px',
+                'left': '0px',
+                'width': '65px',
+                'margin-left': 'auto',
+                'margin-right': 'auto',
+                'background-color': '#555555',
+                'border': 'none',
+                'color': 'white',
+                'padding': '5px',
+                'text-align': 'center',
+                'text-decoration': 'none',
+            })
+            button.onclick = function() {
+                localStorage.setItem('bit-tech-privacy', 'true');
+                $(header).css({
+                    'display': 'none'
+                })
+            }
+            header.appendChild(button);
+            document.body.appendChild(header);
+        }
+    </script>
+
+    
+    <script>
+        $('a[href*="thinq.co.uk"]').each(function(i, v){
+            $(v).after($(v).text());
+            $(v).remove();
+        });
+    </script>
+    <style>
+        body, #blurBackground {
+            background-attachment: fixed !important;
+        }
+    </style>
+
+    <noscript>
+        <a href='http://serve.themediateam.net/ox/www/delivery/ck.php?n=a43f7edf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+            <img src='http://serve.themediateam.net/ox/www/delivery/avw.php?zoneid=263&amp;source=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a43f7edf&amp;ct0=INSERT_ENCODED_CLICKURL_HERE' border='0' alt=''/>
+        </a>
+    </noscript>
+    <script src="/static/public/javascript/external/lite-yt-embed.js"></script>
+    
+<script type="text/template" id="comments_template">
+    <div class="comment col-1-1" id="comment_[[ id ]]" data-member="[[ user_id ]]" data-id="[[ id ]]" data-username="[[ username ]]">
+        <div class="heading clearfix">
+            <h4>[[ title ]]</h4>
+        </div>
+        <div class="comment_text_container">
+            <div class="comment_text"></div>
+            
+            <img class="quote-icon" src="/static/public/image/icons/comment_reply.png" alt="">
+        </div>
+    </dv>
+</script>
+
+<script type="text/javascript">
+
+    (function ($) {
+
+        $.get('/api/functions/xenforo_user_exists/', {'user':''}, function(data){
+            if (!data.authenticated){
+                $('#quick_comment').remove();
+            } else {
+                $('#comments_action').remove();
+            }
+        });
+
+        // related articles
+
+        // register page views
+        $.get("/cms/content/page_hit/", {
+            visitor_id: localStorage.getItem('visitor_id'),
+            page_id: 142035,
+            browser_width: $(window).width()
+        });
+
+        function detach(element, destination){
+            var detached = element.detach();
+            destination.append(detached);
+        }
+
+        
+
+        var get_comments_url = "/api/functions/get_comments/83170/1/";
+        var template = Ta.compile($("#comments_template").html());
+
+        var base_comment_html = function(id, title, user_id, username) {
+            return template({
+                id: id,
+                title: title,
+                user_id: user_id,
+                username: username,
+            });
+        };
+
+        function regenerate_comments_batch(batch_num){
+            empty_comments();
+            $.ajax({
+                url: get_comments_url.slice(0, -2) + batch_num + '/',
+                type: 'GET',
+                success: function(data){
+                    $('#comments_container').prepend('<div id="current_comments" class="clearfix" ></div>');
+                    if (data.result === 'success'){
+                        data.posts.forEach(function(v, i){
+                            if (v.message_state==="visible") {
+                                var date = new Date(v.post_date * 1000);
+                                var formatted_date = date.toString().substring(0, 21)
+                                $('#current_comments').append(base_comment_html(v.post_id, 'Posted by ' + v.username + ' - ' + formatted_date, v.user_id, v.username));
+                                $('#comment_' + v.post_id).find('.comment_text').html(v.message_html);
+                            }
+
+                        });
+                    } else if (data.result === 'failed'){
+                        console.log(data.error);
+                    }
+                    // $('#current_comments').delay(600).slideDown(600);
+
+                    $('.quote-icon').click(function(){
+                        var comment = $(this).closest('[id*="comment"]');
+                        quote_comment(comment.attr('id').split('_')[1]);
+                    });
+                },
+            });
+
+            $('button.active').removeClass('active');
+            $('button#batch_' + batch_num).addClass('active');
+
+            if (batch_num === 1){
+                $('button#first_batch').addClass('active');
+            } else if (!jQuery('button#batch_' + (parseInt(batch_num) + 1)).length){
+                $('button#last_batch').addClass('active');
+            }
+
+        }
+
+        var base_batch_button_html = function(batch_num){
+            return '<button class="comments_batch" id="batch_' + batch_num + '" >' + batch_num + '</button>'
+        }
+
+        function empty_comments(){
+            $('div#current_comments').attr('id', 'old_comments');
+            $('div#old_comments').fadeOut(600, function(){
+                $('div#old_comments').remove();
+                $('div#current_comments').fadeIn(600);
+            });
+        }
+        $.ajax({
+            url: get_comments_url,
+            success: function(data){
+                if (data.result === 'success'){
+                    data.posts.forEach(function(v, i){
+                        if (v.message_state==="visible") {
+                            var date = new Date(v.post_date * 1000);
+                            var formatted_date = date.toString().substring(0, 21)
+                            $('#current_comments').append(base_comment_html(v.post_id, 'Posted by ' + v.username + ' - ' + formatted_date, v.user_id, v.username));
+                            $('#comment_' + v.post_id).find('.comment_text').html(v.message_html);
+                        }
+                    });
+                    var batches = Math.ceil((data.count)/5);
+                    if (batches > 1){
+                        $('div#comments_nav')
+                            .append('<button id="last_batch">Last</button>')
+                            .prepend('<button id="first_batch">First</button>');
+                        var html = []
+                        for (var i = 1; i <= batches; i++) html.push(base_batch_button_html(i));
+                        $('div#comments_nav #batch_numbers').append(html);
+                    } else {
+                        $('#comments_nav').remove()
+                    }
+                } else if (data.result === 'failed'){
+                    console.log(data.error);
+                }
+                $('#first_batch').click(function(){
+                    regenerate_comments_batch(1);
+                });
+                $('#last_batch').click(function(){
+                    regenerate_comments_batch(batches);
+                });
+                $('#batch_numbers .comments_batch').click(function(){
+                    var batch = jQuery(this).attr('id').split('_')[1];
+                    regenerate_comments_batch(batch);
+                });
+                $('button#first_batch').addClass('active');
+                $('button#batch_1').addClass('active');
+
+                $('.quote-icon').click(function(){
+                    var comment = $(this).closest('[id*="comment"]');
+                    quote_comment(comment.attr('id').split('_')[1]);
+                });
+            },
+        });
+
+        // to post comments
+        var comment_post_url = '/api/functions/create_xenforo_post/83170/';
+
+        // submit comment click
+        $('#quick_comment_submit').click(function(){
+
+            // to prevent blank comments
+            if ($('#quick_comment_text').val().length > 0){
+
+                // post comment as request.user.username
+                $.post(comment_post_url,
+                    {
+                        'message' : $('#quick_comment_text').val()
+                    },
+
+                    // to handle response
+                    function(data){
+                        if (data.success == true){
+                            $('#quick_comment').html('<p class="success">Thank you, your comment has been posted!</p>');
+                        } else {
+                            $('#quick_comment').html('<p class="failed">Your comment failed to post.</p>');
+                        }
+                    }
+                );
+            }
+        });
+
+        function quote_comment(comment_id){
+            
+            // get comment, get vars needed for quote bb code
+            var comment = $('#comment_' + comment_id);
+            var username = comment.attr('data-username');
+            var post_id = comment.attr('data-id');
+            var member = comment.attr('data-member');
+            var text = comment.find('.comment_text').text();
+
+            // if quote already quotes, remove the nested quote from the text
+            if (comment.find('.comment_text').html().split('<blockquote>')[1]){
+                var text = comment.find('.comment_text').html().split('</blockquote>')[1];
+            }
+
+            var quote_text = '[QUOTE="' + username + ', post: ' + post_id + ', member: ' + member + '"]' + text + '[/QUOTE]';
+
+            $('#quick_comment_text').val(quote_text);
+        }
+
+    })(jQuery);
+
+</script>
+
+
+</body>
+</html>
+
+

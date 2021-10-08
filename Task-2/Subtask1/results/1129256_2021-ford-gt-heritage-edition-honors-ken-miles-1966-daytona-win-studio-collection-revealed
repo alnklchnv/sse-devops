@@ -1,0 +1,1366 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"fcb635eb66",applicationID:"129456491"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+        !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"f389d50a-32e0-478b-9d4b-2d4592528bea", "9502d019-da52-4a3c-be4a-f811a812c7af",{});
+        permutive.addon("web", { page: {"user":{"latitude":null,"longitude":null,"city":null,"region":null,"state":null,"countryName":null,"zipcode":null,"postalCode":null,"stateCode":null,"countryCode":null,"userAgent":"Wget/1.20.3 (darwin18.6.0)"},"title":"2021 Ford GT Heritage Edition honors Ken Miles' 1966 Daytona win, Studio Collection revealed","description":"50 examples of the 2021 GT Heritage Edition will be made\u2014but won't increase the total 1,350-car run.","vehicle":{"make":"Ford","model":"GT","segment":["Coupes"],"tags":["super-cars"]}} });
+    </script>
+<script async src="https://cdn.permutive.com/f389d50a-32e0-478b-9d4b-2d4592528bea-web.js"></script>
+<script>
+        dataLayer =  [{"make_name":["Ford"],"make_seo_name":["ford"],"model_name":["GT"],"model_seo_name":["gt"],"vcat_name":["Coupes"],"vcat_seo_name":["coupes"],"tags":["super-cars"]}] ;
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M73XHX4');
+    </script>
+<title>2021 Ford GT Heritage Edition honors Ken Miles&#039; 1966 Daytona win, Studio Collection revealed</title>
+<meta name="description" content="50 examples of the 2021 GT Heritage Edition will be made—but won&#039;t increase the total 1,350-car run."> <link rel="canonical" href="https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed">
+<script type="application/ld+json">
+
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed","url":"https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed","isPartOf":{"@type":"WebSite","@id":"https://www.motorauthority.com/#site"},"breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.motorauthority.com/news","name":"News"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.motorauthority.com/news/super-cars","name":"Supercars"}}]},"mainEntity":{"@type":"NewsArticle","@id":"https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed#this","url":"https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed","headline":"2021 Ford GT Heritage Edition honors Ken Miles' 1966 Daytona win, Studio Collection revealed","datePublished":"2020-08-16T16:00:00+0000","dateModified":"2020-08-16T15:26:34+0000","description":"50 examples of the 2021 GT Heritage Edition will be made\u2014but won't increase the total 1,350-car run.","author":{"@type":"Person","name":"Joel Feder","jobTitle":"Interactive Content Manager","image":"https://images.hgmsites.net/tny/avatar-image-for-jfed_100544849_0.jpg","url":"https://www.motorauthority.com/writer/10009962_joel-feder"},"publisher":{"@type":"Organization","@id":"https://www.motorauthority.com/#organization"},"articleSection":"Supercars","keywords":"Supercars","image":{"@type":"ImageObject","@id":"https://images.hgmsites.net/lrg/ford-gt_100756636_l.jpg#this","url":"https://images.hgmsites.net/lrg/ford-gt_100756636_l.jpg","caption":"2021 Ford GT Heritage Edition","description":"","width":1024,"height":576,"uploadDate":"2020-08-16T15:17:40+0000"}}}
+</script>
+<meta property="fb:pages" content="196092100393">
+<meta property="fb:app_id" content="120432421372">
+<meta property="og:site_name" content="Motor Authority">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed">
+<meta property="og:title" content="2021 Ford GT Heritage Edition honors Ken Miles' 1966 Daytona win, Studio Collection revealed">
+<meta property="og:description" content="50 examples of the 2021 GT Heritage Edition will be made&mdash;but won't increase the total 1,350-car run.">
+<meta property="og:image" content="https://images.hgmsites.net/hug/ford-gt_100756636_h.jpg">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@MotorAuthority">
+<meta property="twitter:creator" content="@JoelFeder">
+<meta property="twitter:title" content="2021 Ford GT Heritage Edition honors Ken Miles' 1966 Daytona win, Studio Collection revealed">
+<meta property="twitter:description" content="50 examples of the 2021 GT Heritage Edition will be made&mdash;but won't increase the total 1,350-car run.">
+<meta property="twitter:image" content="https://images.hgmsites.net/hug/ford-gt_100756636_h.jpg">
+<link href="https://feeds.highgearmedia.com/?sites=MotorAuthority" rel="alternate" type="application/rss+xml" title="Motor Authority News">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/css/app.css?id=924d3fae1d970ceba6d4" rel="stylesheet">
+<script src="/js/head.js?id=ab654b229848d266608c"></script>
+<script async src="https://confiant-integrations.global.ssl.fastly.net/cVCBi6sio0Kr78j5IZSJs1SQ8No/gpt_and_prebid/config.js"></script>
+<script async src="https://js-sec.indexww.com/ht/p/184397-144425686721597.js"></script> <script async src="https://cdn.districtm.ca/merge/merge.116297.js"></script> <script async src="https://internetbrands-d.openx.net/w/1.0/jstag?nc=2922-MotorAuthority"></script> <script class="kxct" data-id="sh2lfhber" data-timing="async" data-version="3.0">
+                    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+                    (function(){
+                        function retrieve(n){
+                            var k='kx'+'internetbrands_'+n, ls=(function(){
+                                try {
+                                    return window.localStorage;
+                                } catch(e) {
+                                    return null;
+                                }
+                            })();
+                            if (ls) {
+                                return ls[k] || '';
+                            } else if (navigator.cookieEnabled) {
+                                var m = document.cookie.match(k+'=([^;]*)');
+                                return (m && unescape(m[1])) || '';
+                            } else {
+                                return '';
+                            }
+                        }
+                        Krux.user = retrieve('user');
+                        Krux.segments = retrieve('segs').split(',');
+                    })();
+                </script>
+<script async src="https://cdn.krxd.net/controltag/sh2lfhber.js"></script>
+<script>
+    var gptadslots = [],
+        googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){
+        var gads = document.createElement('script');
+        var useSSL = 'https:' === document.location.protocol;
+        gads.async = true;
+        gads.type = 'text/javascript';
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script>
+        hgmads.setAdUnitBasePath('/2922/motorauthority.tmus');
+</script>
+<script>
+
+    googletag.cmd.push(function() {
+
+                                    var mapping1 = googletag.sizeMapping()
+                                    .addSize([1280,800],[[728,90]])
+                                    .addSize([600,800],[[320,50]])
+                                    .addSize([730,800],[[728,90]])
+                                    .addSize([800,600],[[728,90]])
+                                    .addSize([320,300],[[320,50]])
+                                .build();
+                                                var mapping6 = googletag.sizeMapping()
+                                    .addSize([1280,800],[])
+                                    .addSize([600,800],[[320,50]])
+                                    .addSize([800,600],[])
+                                    .addSize([320,300],[[320,50]])
+                                .build();
+                                                                                                    
+                    hgmads.setLastOrder(1);
+            gptadslots.push(
+                            googletag.defineSlot('/2922/motorauthority.tmus/newsarticle/728x90_top', [[728, 90]], 'ad-top')
+                                                .defineSizeMapping(mapping1)
+                                .setTargeting('kw', ["top"])
+                .setTargeting('tile', [1])
+                .setTargeting('sz', ["728x90"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+                    hgmads.setLastOrder(6);
+            gptadslots.push(
+                            googletag.defineSlot('/2922/motorauthority.tmus/newsarticle/320x50_bottom-sticky', [[320, 50]], 'bottom-sticky')
+                                                .defineSizeMapping(mapping6)
+                                .setTargeting('kw', ["bottom-sticky"])
+                .setTargeting('tile', [6])
+                .setTargeting('sz', ["320x50"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+                    hgmads.setLastOrder(2);
+            gptadslots.push(
+                            googletag.defineOutOfPageSlot('/2922/motorauthority.tmus/newsarticle/1x1_OOP', 'ad-a-1')
+                                            .setTargeting('kw', ["OOP"])
+                .setTargeting('tile', [2])
+                .setTargeting('sz', ["1x1"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+                    hgmads.setLastOrder(5);
+            gptadslots.push(
+                            googletag.defineSlot('/2922/motorauthority.tmus/newsarticle/300x250_news-letter-center', [[300, 250]], 'ad-a-3')
+                                            .setTargeting('kw', ["news-letter-center"])
+                .setTargeting('tile', [5])
+                .setTargeting('sz', ["300x250"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+                    hgmads.setLastOrder(3);
+            gptadslots.push(
+                            googletag.defineSlot('/2922/motorauthority.tmus/newsarticle/300x250_d-side-rail-top', [[300, 250]], 'right-rail-refreshable')
+                                            .setTargeting('kw', ["d-side-rail-top"])
+                .setTargeting('tile', [3])
+                .setTargeting('sz', ["300x250"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+                    hgmads.setLastOrder(4);
+            gptadslots.push(
+                            googletag.defineSlot('/2922/motorauthority.tmus/newsarticle/300x250_d-side-rail-center', [[300, 250]], 'ad-a-2')
+                                            .setTargeting('kw', ["d-side-rail-center"])
+                .setTargeting('tile', [4])
+                .setTargeting('sz', ["300x250"])
+
+
+                                        .setTargeting('tags', ["ford,super-cars,coupes,gt"])
+                                                            .setTargeting('make', ["ford"])
+                                    .setTargeting('model', ["gt"])
+                                                        .setTargeting('vcat', ["coupes"])
+                        .setTargeting('page', ["blog-post-article"])
+            .setTargeting('variation', window.hgm_variation || '')
+            .setCollapseEmptyDiv(true)
+            .addService(googletag.pubads()));
+        
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().enableSingleRequest();
+        if (window.Krux) {
+            googletag.pubads().setTargeting('ksg', window.Krux.segments);
+            googletag.pubads().setTargeting('kuid', window.Krux.user);
+        }
+
+                if (googletag.pubads().getTargeting('permutive').length == 0) {
+            var kvs = window.localStorage.getItem('_pdfps');
+            googletag.pubads().setTargeting('permutive', kvs ? JSON.parse(kvs) : []);
+        }
+    
+        googletag.enableServices();
+
+        hgmads.registerEventListeners();
+
+//        hgm.debug('gpt - ready');
+    }); // cmd push
+
+</script>
+<script>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+        {q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];
+        g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+    apstag.init({
+        pubID:'3188',
+        adServer:'googletag',
+        bidTimeout:2e3
+    });
+
+
+</script>
+<script>
+        googletag.cmd.push(function() {
+                                        hgmads.addStaticSlotById('ad-top');
+                hgmads.addApsStaticSlot( {slotID:'ad-top' ,sizes:[[728, 90]], slotName:'/2922/motorauthority.tmus/newsarticle/728x90_top_ad-top'} );
+                hgmads.addLazySlotById('ad-top');
+                hgmads.addApsLazySlot( {slotID:'ad-top' ,sizes:[[728, 90]], slotName:'/2922/motorauthority.tmus/newsarticle/728x90_top_ad-top'} );
+            
+                                                var callbackFunction = new hgmads.CallbackFunctionContainer('ad-top', "$(window).trigger('resize.px.parallax')", "", 'false', 'slotRenderEnded', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('ad-top', "hgmads.startStickyTimer", "6", 'true', 'slotRenderEnded', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('ad-top', "hgmads.restartStickyTimerAndRefresh", "", 'true', 'loadNextArticle', 'false');
+                    hgmads.addCallback(callbackFunction);
+                                        hgmads.addTrottleInterval('ad-top', 2);
+                                    hgmads.addStaticSlotById('bottom-sticky');
+                hgmads.addApsStaticSlot( {slotID:'bottom-sticky' ,sizes:[[320, 50]], slotName:'/2922/motorauthority.tmus/newsarticle/320x50_bottom-sticky_bottom-sticky'} );
+                hgmads.addLazySlotById('bottom-sticky');
+                hgmads.addApsLazySlot( {slotID:'bottom-sticky' ,sizes:[[320, 50]], slotName:'/2922/motorauthority.tmus/newsarticle/320x50_bottom-sticky_bottom-sticky'} );
+            
+                                                var callbackFunction = new hgmads.CallbackFunctionContainer('bottom-sticky', "hgmads.startStickyTimer", "0, bottom", 'true', 'slotRenderEnded', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('bottom-sticky', "hgmads.refreshOnScroll", "", 'true', 'slotRenderEnded', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                        hgmads.addTrottleInterval('bottom-sticky', 5);
+                                    hgmads.addStaticSlotById('ad-a-1');
+                hgmads.addApsStaticSlot( {slotID:'ad-a-1' ,sizes:[[1, 1]], slotName:'/2922/motorauthority.tmus/newsarticle/1x1_OOP_ad-a-1'} );
+            
+                                                var callbackFunction = new hgmads.CallbackFunctionContainer('ad-a-1', "hgmads.disableByMediaQuery", "(max-width: 1350px)", 'true', 'renderStaticAds', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                        hgmads.addTrottleInterval('ad-a-1', 2);
+                                    hgmads.addLazySlotById('ad-a-3');
+                hgmads.addApsLazySlot( {slotID:'ad-a-3' ,sizes:[[300, 250]], slotName:'/2922/motorauthority.tmus/newsarticle/300x250_news-letter-center_ad-a-3'} );
+
+            
+                        hgmads.addTrottleInterval('ad-a-3', 2);
+                                    hgmads.addStaticSlotById('right-rail-refreshable');
+                hgmads.addApsStaticSlot( {slotID:'right-rail-refreshable' ,sizes:[[300, 250]], slotName:'/2922/motorauthority.tmus/newsarticle/300x250_d-side-rail-top_right-rail-refreshable'} );
+                hgmads.addLazySlotById('right-rail-refreshable');
+                hgmads.addApsLazySlot( {slotID:'right-rail-refreshable' ,sizes:[[300, 250]], slotName:'/2922/motorauthority.tmus/newsarticle/300x250_d-side-rail-top_right-rail-refreshable'} );
+            
+                                                var callbackFunction = new hgmads.CallbackFunctionContainer('right-rail-refreshable', "hgmads.refreshOnScroll", "", 'true', 'slotRenderEnded', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('right-rail-refreshable', "hgmads.disableByMediaQuery", "(max-width: 440px)", 'true', 'renderStaticAds', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                        hgmads.addTrottleInterval('right-rail-refreshable', 6);
+                                    hgmads.addStaticSlotById('ad-a-2');
+                hgmads.addApsStaticSlot( {slotID:'ad-a-2' ,sizes:[[300, 250]], slotName:'/2922/motorauthority.tmus/newsarticle/300x250_d-side-rail-center_ad-a-2'} );
+            
+                                                var callbackFunction = new hgmads.CallbackFunctionContainer('ad-a-2', "hgmads.disableByMediaQuery", "(max-width: 440px)", 'true', 'renderStaticAds', 'true');
+                    hgmads.addCallback(callbackFunction);
+                                        hgmads.addTrottleInterval('ad-a-2', 2);
+                }); // cmd push
+                                                                                                hgmads.addWaypointSlot('ad-a-3', {fetchMarginPercent: '200%', renderMarginPercent: '150%'});
+                                                                    googletag.cmd.push(function() {
+            hgmads.renderStaticAds();
+        });
+    </script>
+<script type="text/javascript" src="https://gdpr.internetbrands.com/v2/ibccm.min.js"></script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M73XHX4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<header>
+<div class="nav-container">
+<nav>
+<div class="mobile-menu"><a class="toggle-device-nav" href="#"></a></div>
+<div class="logo"><a href="/" title="Motor Authority"></a></div>
+<div class="nav-items">
+<ul>
+<li><a class="nav-link" data-menu="news" href="/news">News</a></li>
+<li><a class="nav-link" href="/news/first-drives">First Drives</a></li>
+<li><a class="nav-link" data-menu="auto-shows" href="/news/auto-shows">Auto Shows</a></li>
+<li><a class="nav-link" href="/pictures">Photos</a></li>
+<li><a class="nav-link" href="/videos">Videos</a></li>
+<li><a class="nav-link" href="/news/spy-shot">Spy Shots</a></li>
+<li class="desktop-newsletter"><a class="nav-link-btn" data-menu="newsletter" href="javascript:void(0)" title="Newsletter Signup"><img src="/images/envelope.svg" />newsletter</a></li>
+</ul>
+</div>
+<div class="search">
+<a class="nav-link-search" data-menu="search" href="javascript:void(0)" title="Search"></a>
+</div>
+</nav>
+</div>
+<div class="adv-spacer-top-wraper">
+<div class="adv-spacer top ">
+<div id="ad-top"></div>
+</div>
+</div>
+<div id="breadcrumbs">
+<a href="/">Home</a>
+<span> / </span>
+<a href="/news">News</a>
+<span> / </span>
+ <a href="/news/super-cars">Supercars</a>
+</div>
+</header>
+<div id="main">
+<div class="hidden-slot" id="ad-a-1"></div>
+<script>
+        window.disqus_domain = 'https://www.motorauthority.com';
+        window.disqus_shortname = 'motorauthority';
+        window.disqus_key = 'NCF9QGiigz0WoG2RAdgNHu0h4WSUWoLkzI4RZJ6UisUx951obo7XTL1BigknDT9P';
+    </script>
+<script>
+            var xpath = 'appendTo(.sq-block.dynamic-top)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-side-rail-top',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 6;
+
+            var targets = [];
+            targets.push( {'kw': ["d-side-rail-top"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+            
+            var callbackFunctions = false;
+                            callbackFunctions = [];
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('', "hgmads.refreshOnScroll", "", 'true', 'slotRenderEnded', 'true');
+                    callbackFunctions.push(callbackFunction)
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('', "hgmads.disableByMediaQuery", "(max-width: 440px)", 'true', 'renderDynamicAds', 'true');
+                    callbackFunctions.push(callbackFunction)
+                            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.sq-block.dynamic-bottom)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-side-rail-center',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["d-side-rail-center"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+            
+            var callbackFunctions = false;
+                            callbackFunctions = [];
+                                    var callbackFunction = new hgmads.CallbackFunctionContainer('', "hgmads.disableByMediaQuery", "(max-width: 440px)", 'true', 'renderDynamicAds', 'true');
+                    callbackFunctions.push(callbackFunction)
+                            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.adv-spacer.dynamic)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'news-letter-center',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["news-letter-center"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+            
+            var callbackFunctions = false;
+            
+            var wayPointConfig = false;
+                            wayPointConfig = {fetchMarginPercent: '200%', renderMarginPercent: '150%'};
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.adv-container .adv-spacer-top)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-media-pop-up-top_m-media-pop-up-bottom',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["d-media-pop-up-top_m-media-pop-up-bottom"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+                                                adSizeMap.push({'viewport':  [0,0] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [1280,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [1280, 600] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [600,800] ,'map': [[320,50]]  }) ;
+                                    adSizeMap.push({'viewport':  [800,600] ,'map': [[728,90]]  }) ;
+                                    adSizeMap.push({'viewport':  [320,300] ,'map': [[320,50]]  }) ;
+                            
+            var callbackFunctions = false;
+            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.adv-container .adv-spacer-bottom)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-media-pop-up-bottom_m-media-pop-up-bottom',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["d-media-pop-up-bottom_m-media-pop-up-bottom"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+                                                adSizeMap.push({'viewport':  [0,0] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [1280,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [1280, 600] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [600,800] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [800,600] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [320,300] ,'map': []  }) ;
+                            
+            var callbackFunctions = false;
+            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.video-popup-sidebar .adv-spacer-top)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-media-pop-up-top_m-media-pop-up-bottom',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["d-media-pop-up-top_m-media-pop-up-bottom"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+                                                adSizeMap.push({'viewport':  [0,0] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [1280,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [600,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [800,600] ,'map': [[320,50]]  }) ;
+                                    adSizeMap.push({'viewport':  [320,300] ,'map': [[320,50]]  }) ;
+                            
+            var callbackFunctions = false;
+            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<script>
+            var xpath = 'appendTo(.video-popup-sidebar .adv-spacer-bottom)',
+                sizes = [[300, 250]],
+                zone = 'newsarticle',
+                pos = 'd-media-pop-up-bottom_m-media-pop-up-bottom',
+                sizeW = '300',
+                sizeH = '250',
+                adClasses = '',
+                adSizeMap = [],
+                label = '',
+                throttleInterval = 2;
+
+            var targets = [];
+            targets.push( {'kw': ["d-media-pop-up-bottom_m-media-pop-up-bottom"] });
+            targets.push( {'sz': ["300x250"] });
+                                        targets.push( {'tags': ["ford,super-cars,coupes,gt"]} );
+                                                                targets.push( {'make': ["ford"]} );
+                                        targets.push( {'model': ["gt"]} );
+                                                        targets.push( {'vcat': ["coupes"]} );
+                            targets.push( {'page': ["blog-post-article"]});
+                targets.push( {'variation': window.hgm_variation || ''});
+
+                                                adSizeMap.push({'viewport':  [0,0] ,'map': []  }) ;
+                                    adSizeMap.push({'viewport':  [1280,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [600,800] ,'map': [[300,250]]  }) ;
+                                    adSizeMap.push({'viewport':  [800,600] ,'map': [[320,50]]  }) ;
+                                    adSizeMap.push({'viewport':  [320,300] ,'map': [[320,50]]  }) ;
+                            
+            var callbackFunctions = false;
+            
+            var wayPointConfig = false;
+                        hgmads.addDynamicSlot(xpath, sizes, targets, zone, pos, sizeW, sizeH, adClasses, adSizeMap, label, callbackFunctions, throttleInterval, wayPointConfig);
+        </script>
+<div class="article-block" data-id="1129256" data-url="/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed" data-title="2021 Ford GT Heritage Edition honors Ken Miles&#039; 1966 Daytona win, Studio Collection revealed" data-next-id="1129255" data-infinite-scroll="true" data-min-comments="3">
+<section class="hero-wrap-parallax parallax-window   gallery " data-image-src-h="https://images.hgmsites.net/hug/ford-gt_100756636_h.jpg" data-image-src-l="https://images.hgmsites.net/lrg/ford-gt_100756636_l.jpg" data-image-src-m="https://images.hgmsites.net/med/ford-gt_100756636_m.jpg" data-image-src-s="https://images.hgmsites.net/sml/ford-gt_100756636_s.jpg">
+<div class="hero-nav prev"></div>
+<div class="hero-nav next"></div>
+<div class="overlay"></div>
+<div class="hero-inner-wrap">
+<div class="left-col">
+<header class="title-wrap">
+<h1 class="article-title"><span>2021 Ford GT Heritage Edition honors Ken Miles&#039; 1966 Daytona win, Studio Collection revealed</span></h1>
+<div class="portrait-wrapper">
+<a href="/writer/10009962_joel-feder" class="portrait">
+<img src="https://images.hgmsites.net/sml/avatar-image-for-jfed_100544849_s.jpg" alt="Joel Feder">
+</a>
+</div>
+<a href="/writer/10009962_joel-feder" rel="author" class="by-line">
+Joel Feder
+</a>
+<time datetime="2020-08-16T16:00:00+0000">
+August 16, 2020
+</time>
+<a href="javascript:void(0)" class="comments-link">
+<i class="icon fas fa-comments"></i><span>Comment Now!</span>
+</a>
+<div class="gallery-btn" data-article-id="1129256">
+<span class="gallery-icon"></span>
+View Gallery
+</div>
+</header>
+</div>
+<div class="right-col"></div>
+</div>
+</section>
+<div class="article-wrap">
+<div class="left-col">
+<div class="highres-gallery">
+<div class="highres-gallery-wrapper">
+<div class="item gallery-image" data-image-id="100756636">
+<img data-id="100756636" src="https://cimg0.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756636.jpg" alt="2021 Ford GT Heritage Edition" srcset="https://cimg0.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756636.jpg 600w, https://cimg0.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756636.jpg 400w, https://cimg0.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756636.jpg 300w, https://cimg0.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756636.jpg 200w, https://cimg0.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756636.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756640">
+<img data-id="100756640" src="https://cimg0.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756640.jpg" alt="2021 Ford GT Heritage Edition" srcset="https://cimg0.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756640.jpg 600w, https://cimg0.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756640.jpg 400w, https://cimg0.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756640.jpg 300w, https://cimg0.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756640.jpg 200w, https://cimg0.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756640.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756638">
+<img data-id="100756638" src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756638.jpg" alt="2021 Ford GT Heritage Edition" srcset="https://cimg2.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756638.jpg 600w, https://cimg2.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756638.jpg 400w, https://cimg2.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756638.jpg 300w, https://cimg2.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756638.jpg 200w, https://cimg2.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756638.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756639">
+<img data-id="100756639" src="https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756639.jpg" alt="2021 Ford GT Heritage Edition" srcset="https://cimg3.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756639.jpg 600w, https://cimg3.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756639.jpg 400w, https://cimg3.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756639.jpg 300w, https://cimg3.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756639.jpg 200w, https://cimg3.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756639.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756637">
+<img data-id="100756637" src="https://cimg1.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756637.jpg" alt="2021 Ford GT Heritage Edition" srcset="https://cimg1.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756637.jpg 600w, https://cimg1.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756637.jpg 400w, https://cimg1.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756637.jpg 300w, https://cimg1.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756637.jpg 200w, https://cimg1.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756637.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image count count-26">
+<span class="primary-color">29</span>
+<div>photos</div>
+</div>
+</div>
+</div>
+<header class="title-wrap">
+<h1 class="article-title"><span>2021 Ford GT Heritage Edition honors Ken Miles&#039; 1966 Daytona win, Studio Collection revealed</span></h1>
+<div class="portrait-wrapper">
+<a href="/writer/10009962_joel-feder" class="portrait">
+<img src="https://images.hgmsites.net/sml/avatar-image-for-jfed_100544849_s.jpg" alt="Joel Feder">
+</a>
+</div>
+<a href="/writer/10009962_joel-feder" rel="author" class="by-line">
+Joel Feder
+</a>
+<time datetime="2020-08-16T16:00:00+0000">
+August 16, 2020
+</time>
+<a href="javascript:void(0)" class="comments-link">
+<i class="icon fas fa-comments"></i><span>Comment Now!</span>
+</a>
+</header>
+<article class="content article-style ">
+<section class="article-body">
+<p>Ford's not done celebrating the GT's racing history.</p>
+<p>On Sunday the automaker unveiled the 2021 Ford GT Heritage Edition online at the <a href="https://www.petersen.org/petersen-car-week" target="_blank">Petersen Automotive Museum's virtual car week</a>. In addition, a new Studio Collection was announced to give buyers the ability to further customize their GTs to stand out from the crowd.</p><div class="nativo-article-slot"></div>
+<p>Ford spokesman Jiyan Cadiz told <em>Motor Authority</em> the run of 1,350 Ford GTs will not increase with the addition of the 2021 Heritage Edition and Studio Collection.</p>
+<div class="hgmLayout hgmLayout1x2"><div class="image_wrapper first_wrapper"><img name="tccimg_100756644_m" title="2021 Ford GT Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Heritage Edition" width="640" height="360" class="first_image lazy" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756644_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756644_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756644_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756644_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756644_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756644_s.jpg"><p>2021 Ford GT Heritage Edition</p></div><div class="image_wrapper"><img name="tccimg_100756653_m" title="2021 Ford GT Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Heritage Edition" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756653_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756653_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756653_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756653_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756653_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756653_s.jpg" class="lazy"><p>2021 Ford GT Heritage Edition</p></div><div class="image_wrapper"><img name="tccimg_100756648_m" title="2021 Ford GT Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Heritage Edition" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756648_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756648_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756648_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756648_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756648_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756648_s.jpg" class="lazy"><p>2021 Ford GT Heritage Edition</p></div></div>
+<p>The 2021 GT Heritage Edition pays tribute to the GT40 Mk II Ken Miles piloted to win the 1966 Daytona 24 Hours race 55 years ago. Like Miles' '66 winning Mk II, the 2021 Heritage Edition features white exterior paint with exposed carbon fiber bits and asymmetrical red accents on the front fascia, roof edge, driver's side door, lower rocker, and rear wing. A white 98 gumball is displayed in exposed carbon fiber, and one-piece Heritage Gold–specific 20-inch forged aluminum wheels finish the look with red Brembo monoblock brake caliper peeking through.</p><div class="ac-floating-trigger"></div>
+<p></p><div class="image_wrapper"><img name="tccimg_100756655_m" title="2021 Ford GT Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Heritage Edition" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756655_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756655_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756655_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756655_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756655_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756655_s.jpg" class="lazy"><p>2021 Ford GT Heritage Edition</p></div>
+<p>Inside, the dashboard, headliner, and steering wheel are all covered in Alcantara suede. Red anodized paddle shifters and Alcantara suede performance seats add some spice to the dark interior.</p>
+<p>The sole option is a Heritage Upgrade Package, which adds 20-inch exposed carbon fiber wheels with gloss red inner barrels, black brake calipers with red Brembo lettering, and ghosted 98 gumballs on exposed carbon fiber door panels.</p>
+<p>Only 50 2021 Heritage Edition cars will be made. "Given historical demand for previous Heritage Editions we expect the '66 Heritage Edition to sell out," Cadiz said.</p>
+<div class="hgmLayout hgmLayout1x2"><div class="image_wrapper"><img name="tccimg_100617908_m" title="2018 Ford GT Heritage edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2018 Ford GT Heritage edition" width="640" height="533" data-width="1024" data-height="853" data-url="https://images.hgmsites.net/lrg/ford-gt_100617908_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100617908_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100617908_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100617908_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100617908_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100617908_s.jpg" class="lazy"><p>2018 Ford GT Heritage edition</p></div><div class="image_wrapper"><img name="tccimg_100662494_m" title="2017 Ford GT '66 Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2017 Ford GT '66 Heritage Edition" width="640" height="422" data-width="1024" data-height="675" data-url="https://images.hgmsites.net/lrg/2017-ford-gt_100662494_l.jpg" data-src-h="https://images.hgmsites.net/hug/2017-ford-gt_100662494_h.jpg" data-src="https://images.hgmsites.net/lrg/2017-ford-gt_100662494_l.jpg" data-src-l="https://images.hgmsites.net/lrg/2017-ford-gt_100662494_l.jpg" data-src-m="https://images.hgmsites.net/med/2017-ford-gt_100662494_m.jpg" data-src-s="https://images.hgmsites.net/sml/2017-ford-gt_100662494_s.jpg" class="lazy"><p>2017 Ford GT '66 Heritage Edition</p></div><div class="image_wrapper"><img name="tccimg_100667525_m" title="2019 Ford GT Heritage Edition" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2019 Ford GT Heritage Edition" width="640" height="397" data-width="1024" data-height="635" data-url="https://images.hgmsites.net/lrg/ford-gt_100667525_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100667525_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100667525_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100667525_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100667525_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100667525_s.jpg" class="lazy"><p>2019 Ford GT Heritage Edition</p></div></div>
+<p>Previous GT Heritage Editions paid tribute to the first four Le Mans winners from 1966 through '69. The <a href="https://www.motorauthority.com/news/1104714_2017-ford-gt-66-heritage-edition-to-commemorate-1966-le-mans-win" target="_blank">2017 car</a> was black with silver stripes and white No. 2 gumballs to honor Bruce McLaren and Chis Amon's 1966 win. The <a href="https://www.motorauthority.com/news/1112109_2018-ford-gt-heritage-edition-to-honor-1967-lemans-winner" target="_blank">2018 car</a> gave a nod to A.J. Foyt and Dan Gurney's 1967 win with red paint, white stripes, and No. 1 gumballs. Both <a href="https://www.motorauthority.com/news/1118448_2019-ford-gt-heritage-edition-wears-famous-gulf-oil-livery-2020-gt-will-too" target="_blank">the 2019 and 2020 models</a> were finished in Gulf livery honring the 1968 and '69 winnters piloted by Pedro Rodriguez and Lucien Bianchi for '68, and Jacky Ickx and Jackie Oliver for '69.</p>
+<div class="hgmLayout hgmLayout1x2"><div class="image_wrapper"><img name="tccimg_100756661_m" title="2021 Ford GT Studio Collection" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Studio Collection" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756661_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756661_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756661_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756661_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756661_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756661_s.jpg" class="lazy"><p>2021 Ford GT Studio Collection</p></div><div class="image_wrapper"><img name="tccimg_100756658_m" title="2021 Ford GT Studio Collection" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Studio Collection" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756658_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756658_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756658_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756658_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756658_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756658_s.jpg" class="lazy"><p>2021 Ford GT Studio Collection</p></div><div class="image_wrapper"><img name="tccimg_100756657_m" title="2021 Ford GT Studio Collection" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="2021 Ford GT Studio Collection" width="640" height="360" data-width="1024" data-height="576" data-url="https://images.hgmsites.net/lrg/ford-gt_100756657_l.jpg" data-src-h="https://images.hgmsites.net/hug/ford-gt_100756657_h.jpg" data-src="https://images.hgmsites.net/lrg/ford-gt_100756657_l.jpg" data-src-l="https://images.hgmsites.net/lrg/ford-gt_100756657_l.jpg" data-src-m="https://images.hgmsites.net/med/ford-gt_100756657_m.jpg" data-src-s="https://images.hgmsites.net/sml/ford-gt_100756657_s.jpg" class="lazy"><p>2021 Ford GT Studio Collection</p></div></div>
+<p>For 2021 and 2022 model years Ford will offer current GT customers that have yet to configure their cars a new Studio Collection. This option allows for further customization with paint colors and graphics packages. Only 40 GT buyers will get to play with the Studio Collection to keep things exclusive and different.</p>
+<p>Cadiz told <em>Motor Authority</em> the current Ford GT starts from about $500,000. Regarding the 2021 Heritage Edition and Studio Collection, if you have to ask...</p>
+</section>
+<section class="footer">
+<div class="highres-gallery">
+<div class="title">
+High-Res Gallery:
+<a href="#" onClick="hgm.openGallery(1129256, null, 100756636); return false;">
+2021 Ford GT Heritage Edition
+</a>
+</div>
+<div class="highres-gallery-wrapper">
+<div class="item gallery-image" data-image-id="100756636">
+<img class="lazy" data-id="100756636" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg0.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756636.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg0.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756636.jpg 600w, https://cimg0.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756636.jpg 400w, https://cimg0.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756636.jpg 300w, https://cimg0.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756636.jpg 200w, https://cimg0.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756636.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756640">
+<img class="lazy" data-id="100756640" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg0.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756640.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg0.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756640.jpg 600w, https://cimg0.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756640.jpg 400w, https://cimg0.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756640.jpg 300w, https://cimg0.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756640.jpg 200w, https://cimg0.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756640.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756638">
+<img class="lazy" data-id="100756638" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756638.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg2.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756638.jpg 600w, https://cimg2.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756638.jpg 400w, https://cimg2.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756638.jpg 300w, https://cimg2.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756638.jpg 200w, https://cimg2.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756638.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756639">
+<img class="lazy" data-id="100756639" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756639.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg3.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756639.jpg 600w, https://cimg3.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756639.jpg 400w, https://cimg3.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756639.jpg 300w, https://cimg3.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756639.jpg 200w, https://cimg3.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756639.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756637">
+<img class="lazy" data-id="100756637" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg1.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756637.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg1.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756637.jpg 600w, https://cimg1.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756637.jpg 400w, https://cimg1.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756637.jpg 300w, https://cimg1.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756637.jpg 200w, https://cimg1.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756637.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+<div class="item gallery-image" data-image-id="100756642">
+<img class="lazy" data-id="100756642" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9 '%3E%3C/svg%3E" data-src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/756/ford-gt_100756642.jpg" alt="2021 Ford GT Heritage Edition" data-srcset="https://cimg2.ibsrv.net/ibimg/hgm/600x338-1/100/756/ford-gt_100756642.jpg 600w, https://cimg2.ibsrv.net/ibimg/hgm/400x225-1/100/756/ford-gt_100756642.jpg 400w, https://cimg2.ibsrv.net/ibimg/hgm/300x169-1/100/756/ford-gt_100756642.jpg 300w, https://cimg2.ibsrv.net/ibimg/hgm/200x113-1/100/756/ford-gt_100756642.jpg 200w, https://cimg2.ibsrv.net/ibimg/hgm/150x84-1/100/756/ford-gt_100756642.jpg 150w" sizes="(min-width: 768px) 200px, (min-width: 300px) 300px, calc(50vw - 1em)">
+</div>
+</div>
+</div>
+</section>
+<div class="article-tags">
+<h3>Tags:</h3>
+<a href="/news/coupes">Coupes</a>
+<a href="/news/gt">Ford GT News</a>
+<a href="/news/ford">Ford News</a>
+<a href="/news/super-cars">Supercars</a>
+</div>
+<div class="article-contribute">
+<h3>Contribute:</h3>
+<ul>
+<li><a href="/aboutus#contact-us">
+<i class="icon fas fa-lightbulb"></i> Send us a tip
+</a>
+<li><a href="/aboutus#contact-us">
+<i class="icon fas fa-pencil-alt"></i> Contact the editor
+</a>
+</ul>
+</div>
+<section class="comments">
+<a href="javascript:void(0)" class="show-comments red-button" data-min="3">
+Show Comments
+</a>
+</section>
+<div class="footer-block">
+<div id="suggested-articles">
+<h3>People who read this, also read:</h3>
+<ul>
+<li>
+<a href="/news/1129255_2021-ford-gt-heritage-edition-teased-will-honor-ken-miles-1966-daytona-win" class="rail-link">2021 Ford GT Heritage Edition teased, will honor Ken Miles&#039; 1966 Daytona win</a>
+</li>
+<li>
+<a href="/news/1129243_mansory-reveals-second-of-three-rebodied-ford-gt-supercars" class="rail-link">Mansory reveals second of three rebodied Ford GT supercars</a>
+</li>
+<li>
+<a href="/news/1129183_manthey-racing-rolls-out-upgrades-for-the-991-porsche-911-gt3-rs" class="rail-link">Manthey-Racing rolls out upgrades for the 991 Porsche 911 GT3 RS</a>
+</li>
+<li>
+<a href="/news/1128675_review-update-2020-ford-mustang-convertible-sends-svo-shivers-up-the-stang-s-spine" class="rail-link">Review update: 2020 Ford Mustang convertible sends SVO shivers up the &#039;Stang&#039;s spine</a>
+</li>
+</ul>
+</div>
+<div class="share-this">
+<h3>Share This Article:</h3>
+<a class="social-btn fab fa-facebook-f facebook" href="javascript:void(0)" title="Share this article on Facebook" onclick="window.open('https://www.facebook.com/sharer.php?t=2021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed&u=https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed', 'social', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=300'); hgm.socialShare('Facebook', 'https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed');">
+</a>
+<a class="social-btn fab fa-twitter twitter" href="javascript:void(0)" title="Tweet this article" onclick="window.open('https://twitter.com/intent/tweet?text=2021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed&url=https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed', 'social', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=300'); hgm.socialShare('Twitter', 'https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed');">
+</a>
+<a class="social-btn fab fa-linkedin-in linkedin" href="javascript:void(0)" title="Share this article on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true?title=2021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed&url=https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed&source=MotorAuthority.com', 'social', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=300'); hgm.socialShare('LinkedIn', 'https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed');">
+</a>
+<a class="social-btn fab fa-flipboard flipboard" href="javascript:void(0)" title="Flip this article" onclick="window.open('https://share.flipboard.com/bookmarklet/popout?text=2021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed&url=https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed', 'social', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=300'); hgm.socialShare('Flipboard', 'https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed');">
+</a>
+<a class="social-btn far fa-envelope email" href="javascript:void(0)" title="Email this article" onclick="window.open('mailto:?subject=2021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed&body=Hi%20There%2C%0A%0AI%20thought%20you%20might%20like%20this%20article%3A%0A%0A%20%20%20%202021%20Ford%20GT%20Heritage%20Edition%20honors%20Ken%20Miles%27%201966%20Daytona%20win%2C%20Studio%20Collection%20revealed%0A%20%20%20%20https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed%0A%0ACheers%21%0A', 'social', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=300'); hgm.socialShare('Email', 'https://www.motorauthority.com/news/1129256_2021-ford-gt-heritage-edition-honors-ken-miles-1966-daytona-win-studio-collection-revealed');">
+</a>
+</div>
+</div>
+<div class="footer-block">
+<div id="article-author">
+<h3>connect with the editor:</h3>
+<a href="/writer/10009962_joel-feder">
+<img src="https://images.hgmsites.net/sml/avatar-image-for-jfed_100544849_s.jpg" class="portrait" alt="Joel Feder">
+</a>
+<a href="/writer/10009962_joel-feder" rel="author" class="by-line">
+Joel Feder - Interactive Content Manager
+</a>
+<a href="https://twitter.com/JoelFeder" onclick="hgm.socialFollow('Twitter', 'JoelFeder'); return true;" target="_blank" title="Joel Feder’s Twitter profile">
+<img class="social" src="/images/twitter.png" alt="Twitter">
+</a>
+</div>
+<div class="follow-us">
+<h3>Follow Us Today:</h3>
+<a class="social-btn" title="Like us on Facebook" href="https://www.facebook.com/MotorAuthority" target="_blank" onclick="hgm.socialFollow('Facebook', 'MotorAuthority'); return true;">
+<span class="fab fa-facebook-f"></span>
+</a>
+<a class="social-btn" title="Follow us on Twitter" href="https://www.twitter.com/MotorAuthority" target="_blank" onclick="hgm.socialFollow('Twitter', 'MotorAuthority'); return true;">
+<span class="fab fa-twitter"></span>
+</a>
+<a class="social-btn" title="Follow us on Instagram" href="https://www.instagram.com/motorauthority/" target="_blank" onclick="hgm.socialFollow('Instagram', 'motorauthority'); return true;">
+<span class="fab fa-instagram"></span>
+</a>
+<a class="social-btn" title="Subscribe to our YouTube channel" href="https://www.youtube.com/user/motorauthority" target="_blank" onclick="hgm.socialFollow('YouTube', 'motorauthority'); return true;">
+<span class="fab fa-youtube"></span>
+</a>
+<a class="social-btn" title="Follow us on Filpboard" href="https://www.flipboard.com/@MotorAuthority" target="_blank" onclick="hgm.socialFollow('Flipboard', 'MotorAuthority'); return true;">
+<span class="fab fa-flipboard"></span>
+</a>
+</div>
+</div>
+<div id="most-popular">
+<div class="head-bar">
+<h3>Most Popular This Week</h3>
+<div class="pagination-container">
+<div class="swiper-prev">&lt;</div>
+<div class="swiper-counter"></div>
+<div class="swiper-next">&gt;</div>
+</div>
+</div>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/2023-honda-civic-type-r-teased-ahead-of-2022-debut_100809027_m.jpg">
+</div>
+<div class="date">
+October 4, 2021
+</div>
+<div class="title">
+<a href="/news/1133761_2023-honda-civic-type-r-price-specs-review-photos-info">2023 Honda Civic Type R teased ahead of 2022 debut</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001739_viknesh-vijayenthiran" rel="author">
+Viknesh Vijayenthiran - Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/2022-lucid-air_100809184_m.jpg">
+</div>
+<div class="date">
+October 5, 2021
+</div>
+<div class="title">
+<a href="/news/1133769_2022-lucid-air-price-specs-review-photos-info">First drive review: 2022 Lucid Air entices with the numbers, charms with the driving experience</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001004_bengt-halvorson" rel="author">
+Bengt Halvorson - Senior Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+ <div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/lordstown-endurance_100755057_m.jpg">
+</div>
+<div class="date">
+October 1, 2021
+</div>
+<div class="title">
+<a href="/news/1133743_foxconn-agrees-to-buy-lordstown-motors-plant-for-230m">Foxconn agrees to buy Lordstown Motors&#039; plant for $230M</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001739_viknesh-vijayenthiran" rel="author">
+Viknesh Vijayenthiran - Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/2022-land-rover-range-rover-long-wheelbase-spy-shots--photo-credit-s-baldauf-sb-medien_100766969_m.jpg">
+</div>
+<div class="date">
+October 4, 2021
+</div>
+<div class="title">
+<a href="/news/1123053_2022-land-rover-range-rover-long-wheelbase-spy-shots-video">2023 Land Rover Range Rover Long Wheelbase spy shots and video: Stretched SUV takes shape</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001739_viknesh-vijayenthiran" rel="author">
+Viknesh Vijayenthiran - Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/2022-alfa-romeo-giulia_100808818_m.jpg">
+</div>
+<div class="date">
+October 2, 2021
+</div>
+<div class="title">
+<a href="/news/1133750_preview-2022-alfa-romeo-giulia-adds-more-safety-tech-new-veloce-trim-level">Preview: 2022 Alfa Romeo Giulia adds more safety tech, new Veloce trim level</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10044742_stephen-edelstein" rel="author">
+Stephen Edelstein - Contributing Writer
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/porsche-mission-r-development_100807959_m.jpg">
+</div>
+<div class="date">
+October 3, 2021
+</div>
+<div class="title">
+<a href="/news/1133709_deep-dive-porsche-mission-r-concept-is-more-than-a-show-car">Deep dive: Porsche Mission R concept is more than a show car</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10044742_stephen-edelstein" rel="author">
+Stephen Edelstein - Contributing Writer
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/lamborghini-countach-lp500-prototype-recreation_100808789_m.jpg">
+</div>
+<div class="date">
+October 1, 2021
+</div>
+<div class="title">
+<a href="/news/1133744_the-first-lamborghini-countach-lost-for-decades-has-been-recreated">The first Lamborghini Countach, lost for decades, has been recreated</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001739_viknesh-vijayenthiran" rel="author">
+Viknesh Vijayenthiran - Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/2023-chevrolet-corvette-z06-convertible-spy-shots--photo-credits-baldauf-sb-medien_100808781_m.jpg">
+</div>
+<div class="date">
+October 1, 2021
+</div>
+<div class="title">
+<a href="/news/1133741_2023-chevrolet-corvette-z06-convertible-spy-shots">2023 Chevrolet Corvette Z06 Convertible spy shots: Homegrown exotic coming soon</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10001739_viknesh-vijayenthiran" rel="author">
+Viknesh Vijayenthiran - Editor
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-image item">
+<div class="opacity-background " data-background="https://images.hgmsites.net/med/ken-block-drives-the-audi-group-s-prototype_100808817_m.jpg">
+</div>
+<div class="date">
+October 1, 2021
+</div>
+<div class="title">
+<a href="/news/1133748_ken-block-tours-audi-s-secret-garage-full-of-legends-drives-top-secret-group-s-prototype">Ken Block tours Audi&#039;s secret garage full of legends, drives top secret Group S prototype</a>
+</div>
+<div class="comment">
+<div class="text">
+<a href="/writer/10044742_stephen-edelstein" rel="author">
+Stephen Edelstein - Contributing Writer
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="right-col ">
+<aside>
+<ul class="block-list rail-related-list">
+<li class="first-block active">
+<div class="block-item">
+<a class="block-link" href="/news/1133795_first-two-bugatti-super-sport-300-hypercars-delivered-both-in-the-us">
+First two Bugatti Super Sport 300+ hypercars delivered, both in the US
+</a>
+<a class="block-cat" href="/news/super-cars">
+Supercars
+</a>
+<span>October 7, 2021</span>
+</div>
+</li>
+<li class="sq-block ">
+<div id="right-rail-refreshable"></div>
+</li>
+<li class="sq-block ">
+<div id="ad-a-2"></div>
+</li>
+<li>
+<div class="block-item">
+<a class="block-link" href="/news/1133781_2022-ford-mustang-lineup-expanded-with-stealth-edition-california-special">
+2022 Ford Mustang lineup expanded with Stealth Edition, California Special
+</a>
+<a class="block-cat" href="/news/muscle-cars">
+Muscle Cars
+</a>
+<span>October 6, 2021</span>
+</div>
+</li>
+<li>
+<div class="block-item">
+<a class="block-link" href="/news/1133762_ssc-looks-toward-the-future-says-tuatara-hypercar-capable-of-running-on-synthesized-methanol">
+SSC looks toward the future, says Tuatara hypercar capable of running on...
+</a>
+<a class="block-cat" href="/news/technology">
+Car Tech
+</a>
+<span>October 4, 2021</span>
+</div>
+</li>
+<li>
+<div class="block-item">
+<a class="block-link" href="/news/1133744_the-first-lamborghini-countach-lost-for-decades-has-been-recreated">
+The first Lamborghini Countach, lost for decades, has been recreated
+</a>
+<a class="block-cat" href="/news/classic-cars">
+Classic Cars
+</a>
+<span>October 1, 2021</span>
+</div>
+</li>
+<li>
+<div class="block-item">
+<a class="block-link" href="/news/1133741_2023-chevrolet-corvette-z06-convertible-spy-shots">
+2023 Chevrolet Corvette Z06 Convertible spy shots: Homegrown exotic coming...
+</a>
+<a class="block-cat" href="/news/spy-shot">
+Spy Shots
+</a>
+<span>October 1, 2021</span>
+</div>
+</li>
+<li>
+<div class="block-item">
+<a class="block-link" href="/news/1133724_vaughn-gittin-jr-s-2018-ford-gt-is-for-sale">
+Vaughn Gittin, Jr.’s 2018 Ford GT is for sale
+</a>
+<a class="block-cat" href="/news/super-cars">
+Supercars
+</a>
+<span>September 30, 2021</span>
+</div>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<div class="video-player-ac hidden-player" data-player-id="001w000001RrzqE_1692">
+<div class="player-wrapper">
+<script src="https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js" data-ar="16:9" pubname="internetbrandscom" widgetname="001w000001RrzqE_1692">
+            </script>
+<script>
+   window.addEventListener('message',  event => {
+        if (event.data) {
+            if (typeof event.data === 'string') {
+                if (event.data.indexOf('lre:playerReady://') === 0) {
+                    var target = document.querySelector('.video-player-ac'),
+                        customEvent = new CustomEvent('tcc:acPlayerReady'),
+ playerId = '001w000001RrzqE_1692',
+ widget = window.anyclip.getWidget(playerId);
+ target.setAttribute('data-loaded-player-id', playerId); 
+                    widget.floatingModeToggle(false);
+                    window.dispatchEvent(customEvent);                }
+            }
+        }
+    });
+</script>
+</div>
+</div>
+<div class="adv-spacer side-by-side last-article-marker">
+<div class="newsletter-signup  rail-box ">
+<h3>Motor Authority Newsletter</h3>
+<p>
+Sign up to get the latest performance and luxury automotive news, delivered to your inbox daily!
+</p>
+<form data-pos="square" class="newsletter-signup-form" action="/api/newsletter-subscribe" method="post">
+<input class="newsletter-email" type="email" name="email" placeholder="Enter your email address…" required data-msg="Email is required">
+<button class="red-button newsletter-signup-btn" type="submit">Sign Up Today!</button>
+<div class="response_message"></div>
+</form>
+<p>
+I agree to receive emails from Motor Authority. I understand that I can unsubscribe at any time. <a href="https://www.internetbrands.com/privacy/privacy-main.html" target="_blank">Privacy Policy.</a>
+</p>
+</div>
+<div id="ad-a-3"></div>
+</div>
+</div>
+<div id="instagram" class="mt-4">
+<h2>
+<a href="https://www.instagram.com/motorauthority/" target="_blank">
+Follow Us on Instagram <span class="instagram-user-name">@motorauthority</span>
+</a>
+</h2>
+<div id="instagram-images" class="flex" style="display:none;">
+<div class="left">
+<img src="" alt="" title="">
+</div>
+<div class="middle flex wrap">
+<img src="" alt="" title="">
+<img src="" alt="" title="">
+<img src="" alt="" title="">
+<img src="" alt="" title="">
+</div>
+<div class="right">
+<img src="" alt="" title="">
+</div>
+</div>
+</div>
+<a href="#" class="footer-waypoint-anchor"></a>
+<footer>
+<div class="footer-content">
+<div class="footer-logo">
+<a href="/" title="Motor Authority">
+<div class="logo-type"></div>
+<div class="foot-logo-text">The Luxury and Performance Leader</div>
+</a>
+</div>
+<div class="footer-links">
+<div class="footer-link-section1 ma">
+<div class="footer-link-section">
+<h4>News</h4>
+<ul>
+<li><a class="foot-link" href="/news/spy-shot">Spy Shots</a></li>
+<li><a class="foot-link" href="/news/super-cars">Super Cars</a></li>
+<li><a class="foot-link" href="/videos">Videos</a></li>
+<li><a class="foot-link" href="/news/concept-cars">Concept Cars</a></li>
+<li><a class="foot-link" href="/news/suvs">SUV</a></li>
+<li><a class="foot-link" href="/news/hybrid-cars">Hybrids</a></li>
+<li><a class="foot-link" href="/news/first-drives">First Drives</a></li>
+<li><a class="foot-link" href="/news/racing">Racing</a></li>
+<li><a class="foot-link" href="/news/muscle-cars">Muscle Cars</a></li>
+<li><a class="foot-link" href="/news/auto-industry">Industry</a></li>
+<li><a class="foot-link" href="/news/electric-cars">Electric Cars</a></li>
+<li><a class="foot-link" href="/news/luxury-cars">Luxury Cars</a></li>
+<li><a class="foot-link" href="/news/technology">Car Tech</a></li>
+<li><a class="foot-link" href="/news/features">Features</a></li>
+<li><a class="foot-link" href="/news">View All</a></li>
+</ul>
+</div>
+<div class="footer-link-section">
+<h4>Auto Shows</h4>
+<ul>
+<li><a class="foot-link" href="/news/sema">SEMA</a></li>
+<li><a class="foot-link" href="/news/chicago-auto-show">Chicago</a></li>
+<li><a class="foot-link" href="/news/detroit-auto-show">Detroit</a></li>
+<li><a class="foot-link" href="/news/geneva-motor-show">Geneva</a></li>
+<li><a class="foot-link" href="/news/los-angeles-auto-show">Los Angeles</a></li>
+<li><a class="foot-link" href="/news/new-york-auto-show">New York</a></li>
+<li><a class="foot-link" href="/news/frankfurt-auto-show">Frankfurt</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-link-section2">
+<div class="footer-link-section">
+<h4>Media</h4>
+<ul>
+<li><a class="foot-link" href="/pictures">Photos</a></li>
+<li><a class="foot-link" href="/videos">Videos</a></li>
+</ul>
+</div>
+<div class="footer-link-section">
+<h4>RSS</h4>
+<ul>
+<li><a class="foot-link" href="/rss-feeds">All Feeds</a></li>
+<li><a class="foot-link" href="https://feeds.highgearmedia.com/?sites=MotorAuthority">Master Feed</a></li>
+<li><a class="foot-link" href="https://feeds.highgearmedia.com/?sites=MotorAuthority&amp;tags=news">News</a></li>
+<li><a class="foot-link" href="https://feeds.highgearmedia.com/?sites=MotorAuthority&amp;tags=first-drives">First Drives</a></li>
+<li><a class="foot-link" href="https://feeds.highgearmedia.com/?sites=MotorAuthority&amp;tags=spy-shot">Spy Shots</a></li>
+<li><a class="foot-link" href="https://feeds.highgearmedia.com/?sites=MotorAuthority&amp;tags=videos">Videos</a></li>
+</ul>
+</div>
+ <div class="footer-link-section">
+<div>
+<h4>Company</h4>
+<ul>
+<li><a class="foot-link" href="/aboutus">About Us</a></li>
+<li><a class="foot-link" href="/aboutus#contact-us">Contact Us</a></li>
+<li><a class="foot-link" href="http://ibauto.tumblr.com/">Press</a></li>
+<li><a class="foot-link" href="https://www.internetbrands.com/ibterms/">Terms of Use</a></li>
+<li><a class="foot-link" href="https://www.internetbrands.com/ibterms/supplementalcarrelatedterms/">Disclaimer</a></li>
+<li><a class="foot-link" href="https://www.internetbrands.com/privacy/privacy-main.html">Privacy Policy</a></li>
+<li><a class="foot-link" href="https://www.internetbrands.com/privacy/privacy-contact-form.php">Do Not Sell My Personal Information</a></li>
+</ul>
+</div>
+<div class="footer-other-sites">
+<h4>Our Other Sites</h4>
+<ul>
+<li><a class="foot-link" href="https://www.thecarconnection.com/">The Car Connection</a></li>
+<li><a class="foot-link" href="https://www.greencarreports.com/">Green Car Reports</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-social-app-btns">
+<section class="social">
+<div class="follow-us">
+<h3>Follow Us Today:</h3>
+<a class="social-btn" title="Like us on Facebook" href="https://www.facebook.com/MotorAuthority" target="_blank" onclick="hgm.socialFollow('Facebook', 'MotorAuthority'); return true;">
+<span class="fab fa-facebook-f"></span>
+</a>
+<a class="social-btn" title="Follow us on Twitter" href="https://www.twitter.com/MotorAuthority" target="_blank" onclick="hgm.socialFollow('Twitter', 'MotorAuthority'); return true;">
+<span class="fab fa-twitter"></span>
+</a>
+<a class="social-btn" title="Follow us on Instagram" href="https://www.instagram.com/motorauthority/" target="_blank" onclick="hgm.socialFollow('Instagram', 'motorauthority'); return true;">
+<span class="fab fa-instagram"></span>
+</a>
+<a class="social-btn" title="Subscribe to our YouTube channel" href="https://www.youtube.com/user/motorauthority" target="_blank" onclick="hgm.socialFollow('YouTube', 'motorauthority'); return true;">
+<span class="fab fa-youtube"></span>
+</a>
+<a class="social-btn" title="Follow us on Filpboard" href="https://www.flipboard.com/@MotorAuthority" target="_blank" onclick="hgm.socialFollow('Flipboard', 'MotorAuthority'); return true;">
+<span class="fab fa-flipboard"></span>
+</a>
+</div>
+</section>
+</div>
+</div>
+<div class="copyright">
+&copy; 2021 MH Sub I, LLC. All Rights Reserved.
+Stock photography by <a href="https://www.izmocars.com/">izmostock.</a>
+Read our <a href="//www.internetbrands.com/privacy/cookie-policy.html">Cookie Policy</a>.
+</div>
+</footer>
+<div class="adv-spacer bottom sticky">
+<div id="bottom-sticky"></div>
+</div>
+<div class="adv-body-shift "></div>
+<div class="nav-menu" data-menu="news">
+<div class="nav-menu-items 3">
+<div class="nav-menu-col nav-menu-col-news">
+ <a href="/news/spy-shot">Spy Shots</a>
+<a href="/news/super-cars">Super Cars</a>
+<a href="/videos">Videos</a>
+<a href="/news/concept-cars">Concept Cars</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/suvs">SUV</a>
+<a href="/news/hybrid-cars">Hybrids</a>
+<a href="/news/first-drives">First Drives</a>
+<a href="/news/racing">Racing</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/muscle-cars">Muscle Cars</a>
+<a href="/news/auto-industry">Industry</a>
+<a href="/news/electric-cars">Electric Cars</a>
+<a href="/news/luxury-cars">Luxury Cars</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/technology">Car Tech</a>
+<a href="/news/features">Features</a>
+<a href="/news">View All</a>
+</div>
+</div>
+</div>
+<div class="nav-menu" data-menu="auto-shows">
+<div class="nav-menu-items 0">
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/chicago-auto-show">Chicago</a>
+<a href="/news/detroit-auto-show">Detroit</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/frankfurt-auto-show">Frankfurt</a>
+<a href="/news/geneva-motor-show">Geneva</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/los-angeles-auto-show">Los Angeles</a>
+<a href="/news/new-york-auto-show">New York</a>
+</div>
+<div class="nav-menu-col nav-menu-col-news">
+<a href="/news/sema">SEMA</a>
+<a href="/news/auto-shows">View All</a>
+</div>
+</div>
+</div>
+<div class="nav-menu" data-menu="newsletter">
+<div class="nav-menu-items nav-signup">
+<div class="heading">Motor Authority Newsletter</div>
+<div>Sign up to get the latest performance and luxury automotive news, delivered to your inbox daily!</div>
+<form data-pos="navigation" class="newsletter-signup-form" action="/api/newsletter-subscribe" method="post">
+<input type="email" class="email" name="email" placeholder="Enter your email address…" required data-msg="Email is required">
+<button class="red-button newsletter-signup-btn" type="submit">Sign Up Today!</button>
+<div class="response_message"></div>
+</form>
+</div>
+<div class="signup-consent">I agree to receive emails from Motor Authority. I understand that I can unsubscribe at any time. <a href="https://www.internetbrands.com/privacy/privacy-main.html" target="_blank">Privacy Policy.</a></div>
+</div>
+<div class="nav-menu nav-menu-search" data-menu="search" data-engine="001937828977938864696:vfx0s698d2m" data-placeholder="Search Motor Authority...">
+ <div class="nav-search">
+<gcse:searchbox-only enableHistory="true" autoCompleteMaxCompletions="10" autoCompleteMatchType='any' resultsUrl="/searchresults"></gcse:searchbox-only>
+</div>
+</div>
+<div class="device-nav">
+<a class="nav-link  cat-link " href="/news">News</a>
+<div class="nav-categories">
+<a href="/news/spy-shot">Spy Shots</a>
+<a href="/news/super-cars">Super Cars</a>
+<a href="/videos">Videos</a>
+<a href="/news/concept-cars">Concept Cars</a>
+<a href="/news/suvs">SUV</a>
+<a href="/news/hybrid-cars">Hybrids</a>
+<a href="/news/first-drives">First Drives</a>
+<a href="/news/racing">Racing</a>
+<a href="/news/muscle-cars">Muscle Cars</a>
+<a href="/news/auto-industry">Industry</a>
+<a href="/news/electric-cars">Electric Cars</a>
+<a href="/news/luxury-cars">Luxury Cars</a>
+<a href="/news/technology">Car Tech</a>
+<a href="/news/features">Features</a>
+<a href="/news">View All</a>
+</div>
+<a class="nav-link " href="/news/first-drives">First Drives</a>
+<a class="nav-link  cat-link " href="/news/auto-shows">Auto Shows</a>
+<div class="nav-categories">
+<a href="/news/chicago-auto-show">Chicago</a>
+<a href="/news/detroit-auto-show">Detroit</a>
+<a href="/news/frankfurt-auto-show">Frankfurt</a>
+<a href="/news/geneva-motor-show">Geneva</a>
+<a href="/news/los-angeles-auto-show">Los Angeles</a>
+<a href="/news/new-york-auto-show">New York</a>
+<a href="/news/sema">SEMA</a>
+<a href="/news/auto-shows">View All</a>
+</div>
+<a class="nav-link " href="/pictures">Photos</a>
+<a class="nav-link " href="/videos">Videos</a>
+<a class="nav-link " href="/news/spy-shot">Spy Shots</a>
+<li class="mobile-newsletter">
+<div class="newsletter-wrapper">
+<div class="newsletter-title">Never Miss a Motor Authority Story</div>
+<form class="newsletter-signup-form" action="/api/newsletter-subscribe" method="post">
+<input type="email" class="email" name="email" placeholder="Enter your email address…" required data-msg="Email is required">
+<div class="signup-consent">
+I agree to receive emails from Motor Authority. I understand that I can unsubscribe at any time. <a href="https://www.internetbrands.com/privacy/privacy-main.html" target="_blank">Privacy Policy.</a>
+</div>
+<button class="red-button newsletter-signup-btn" type="submit">subscribe today</button>
+<div class="response_message"></div>
+</form>
+</div>
+</li>
+</div>
+<script src="/js/vendor.js?id=59b777a469a90a4656f8"></script>
+<script src="/js/app.js?id=04ca42e5ab35815fcedc"></script>
+<script>
+(function(){
+        hgm.initArticles();
+        hgmads.initFromDeferred();
+        hgm.bindLoadMore($('.article-list'), '/api/load-articles/', function ($html, page, pageCount) {
+            hgm.replaceState(null, '/news/page-' + page);
+            let nextSlotId = $('.nativo-slot:last').data('slot-id');
+            nextSlotId = nextSlotId + 1;
+            $html.find('.large:odd').each(function(index){
+                $('<li class="nativo-slot" id="nativo-' + nextSlotId + '" data-slotId="' + nextSlotId + '"></li>').insertAfter(this);
+                nextSlotId = nextSlotId + 1;
+            });
+
+            dataLayer.push({
+                event: 'hgm.ajax.more-articles',
+                category: 'News',
+                page: page,
+                pageCount: pageCount
+            });
+        });;
+hgm.initInstagram();
+hgm.initSearch();
+hgm.initSearch();
+}());
+</script>
+<script src="/js/footer.js?id=49b61c568d21609d6300"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"fcb635eb66","applicationID":"129456491","transactionName":"MgcAYUMDDUFWAkJaDAtNI1ZFCwxcGA9TRBBIAxBBWAEPVw==","queueTime":0,"applicationTime":120,"atts":"HkAXFwsZHh4VABQJGBgf","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

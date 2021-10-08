@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+<link rel="preload" as="image" imagesrcset="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/intro-1605215603.sm.webp">
+<link class="preloadFont" rel="preload" href="https://www.looper.com/font/a-ubuntu.woff2" as="font" crossorigin>
+<link class="preloadFont" rel="preload" href="https://www.looper.com/font/a-ubuntu-condensed.woff2" as="font" crossorigin>
+<link rel="preload" href="/wp-content/themes/unified/css/looper.min.css?design=2&v=1630007932" as="style">
+<link rel="preload" href="/wp-content/themes/unified/js/loopgal.min.js?v=1631022148" as="script">
+<style>
+body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;margin:0}svg.icon{height:20px;width:20px}main{padding-top:52px}figcaption,figure,main{display:block}article .news-article{position:relative}h1{font-size:2em;margin:.67em 0}img{max-width:100%;height:auto}a,a:visited{text-decoration:none!important;text-decoration:none;color:#3ab6f6}#header{background:#000;height:50px;position:fixed;top:0;left:0;width:100%;z-index:1000;transition:margin-top .3s ease-in-out;-webkit-transition:margin-top .3s ease-in-out;box-shadow:0 1px 10px 2px rgb(0 0 0 / 30%);height:56px}.nav-drop{display:none}article,aside,footer,header,nav,section{display:block}#header-container{height:100%;display:flex;align-items:center;width:calc(100% - 40px);max-width:1400px;margin:auto}#hamburger-holder{height:100%;cursor:pointer;position:relative;min-width:24px}#logo{height:37px;line-height:37px;position:absolute;left:0;right:0;margin:0 auto;font-size:0}#search-container{height:50px;line-height:50px}#top-nav-holder{font-size:0;z-index:3;position:relative;margin-right:10px;overflow:hidden}#social-nav-holder{display:inline-block;line-height:0;font-size:0}#top-nav-holder,#social-nav-holder,.divider-vertical{display:none}.top-nav-scrolled{display:none}#is-mobile,#is-tablet{display:none;height:1px;width:1px;position:absolute;bottom:0;left:0;background:transparent;margin-left:-1000em}#main,#index section header,#index section article{width:calc(100% - 24px);margin:auto}#content.article .image-holder img,#content.article .image-holder picture{width:100%;height:calc(100vw*0.56);display:block}.credit-image-wrap .gallery-image-credit,.inline-credit-wrap .gallery-image-credit{font:11px Helvetica;position:absolute;bottom:10px;right:10px;color:#fff;text-shadow:-1px -1px 0 rgba(0,0,0,0.75),1px -1px 0 rgba(0,0,0,0.75),-1px 1px 0 rgba(0,0,0,0.75),1px 1px 0 rgba(0,0,0,0.75)}.byline-container{padding-top:12px;padding-bottom:12px;font-size:11px;padding-top:18px;padding-bottom:14px;border-bottom:2px solid rgba(232,235,236,1)}.byline-by{color:#2a2524}a.byline-author{color:#2a2524;font-weight:bold;text-transform:uppercase}.byline-timestamp{color:#958c8b;text-transform:uppercase}.byline-slash{margin-left:8px;margin-right:8px}.columns-holder,.columns-holder p,.about-content p{font-size:20px;line-height:27px}#main.infinite .columns-holder p,#main.infinite article.news-post li{font-size:19px;line-height:32px}#main .image-holder{margin:0 -12px;position:relative}.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{position:relative;float:none;margin:0 -12px;width:320px;text-align:center}.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:250px;min-width:1px}@media (min-width:360px){.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{margin:auto}}@media (min-width:440px){.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{margin:auto auto 10px;text-align:center}}@media (min-width:728px){#main.infinite .holder .google-ad-placeholder,#main.infinite .holder .google-ad-placeholder.pull-right,#main.infinite .holder .google-ad-placeholder.pull-right.loaded{width:728px}.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:280px;min-width:1px}}@media (min-width:768px){.news-article h1{font-size:48px;line-height:52px;margin-top:25px;margin-bottom:10px}.columns-holder,.columns-holder p,.about-content p{font-size:22px;line-height:32px}#content.article .image-holder img,#content.article .image-holder picture{width:100%;height:auto}#main .image-holder{margin:0 auto 5px}}@media (min-width:926px){#header{height:62px}#logo{margin:auto 20px auto 35px;position:relative}#search-container{position:relative;flex:1;height:62px;line-height:62px}#top-nav-holder{display:inline-block;line-height:62px;height:62px}#content.article{width:780px}#main.infinite{max-width:780px;margin:auto}#main,section#features{width:calc(100% - 40px);margin:auto 20px}main{padding-top:62px}main .holder{margin:auto}#main.infinite #content.article{width:100%;max-width:780px}.google-ad-placeholder{width:auto}}@media (min-width:1025px){.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:90px;min-width:1px}}@media (min-width:1200px){#logo{margin-right:50px}#main.infinite{position:relative;left:-185px}}@media (min-width:1400px){main,#main,#main.index{max-width:1400px;margin:0 auto}#main.infinite #content.article{width:780px}#content.article{width:1000px}}@media (min-width:1550px){#main.infinite{position:static}}@media screen and (max-device-width:600px),screen and (max-width:750px) and (orientation:portrait){#is-mobile{display:block}}@media only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:portrait),only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (-webkit-min-device-pixel-ratio:1.5) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (-o-min-device-pixel-ratio:3/2) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (min--moz-device-pixel-ratio:1.5) and (orientation:landscape){#is-tablet{display:block}}.dummy-rule{padding:1px}svg.icon,svg.icon *{fill:rgb(124,141,150)}svg.icon:hover,svg.icon:hover *{fill:rgb(58,182,246)}*{font-family:Helvetica,sans-serif;max-height:1000000px}#logo,#logo img,.nav-drop .logo img{width:104px;height:37px}.news-article h1{margin-bottom:13px;font-size:35px;line-height:43px;letter-spacing:-3.5px;word-spacing:-2px;padding-top:5px}.news-article h2{font-size:22px;margin-top:30px;margin-bottom:7px;line-height:33px;letter-spacing:0.2px}#main.infinite article.news-post p{font-size:19px;line-height:32px;margin-top:17px;word-spacing:1.8px;letter-spacing:-0.1px}#gdpr{display:none}@media (min-width:768px){.news-article h1{margin-bottom:12px;font-size:44px;line-height:56px;margin-top:27px;letter-spacing:-4.5px;word-spacing:8px}#main.infinite article.news-post p{font-size:17px;line-height:32px;margin-top:17px;word-spacing:-1.4px;letter-spacing:0.3px}.news-article h2{font-size:27.5px;line-height:37px;margin-top:27px;margin-bottom:15px;word-spacing:1.2px;letter-spacing:0.25px}}</style>
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/unified/css/looper.min.css?design=2&v=1630007932" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=10" />
+<meta property="og:image" content="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/intro-1605215603.jpg" />
+
+	<title>Rules Every Resident Evil Game Has To Follow</title>
+	<meta name="og:title" content="Rules Every Resident Evil Game Has To Follow">
+	<meta name="twitter:title" content="Rules Every Resident Evil Game Has To Follow">
+	<meta name="og:description" content="Even though Resident Evil&#039;s key features aren&#039;t set in stone, the developers still adhere to explicit rules while crafting each title &mdash; or try to, at least. For those who may be curious, here are the rules Resident Evil developers try to follow for every entry.">
+	<meta name="twitter:description" content="Even though Resident Evil&#039;s key features aren&#039;t set in stone, the developers still adhere to explicit rules while crafting each title &mdash; or try to, at least. For those who may be curious, here are the rules Resident Evil developers try to follow for every entry.">
+
+	<meta name='title' content="Rules Every Resident Evil Game Has To Follow" />
+	<meta name='description' content="Even though Resident Evil&#039;s key features aren&#039;t set in stone, the developers still adhere to explicit rules while crafting each title &mdash; or try to, at least. For those who may be curious, here are the rules Resident Evil developers try to follow for every entry." />
+
+		<meta name="og:type" content="article">
+	<meta property="og:url" content="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/" />
+
+    <meta property="article:published_time" content="2020-08-05T12:27:15+00:00" />
+    <meta property="article:modified_time" content="2020-11-11T12:39:07+00:00" />
+		<meta property="fb:pages" content="180202438994071" />
+	<meta property="fb:use_automatic_ad_placement" content="enable=true ad_density=default">
+
+		<meta property="og:site_name" content="Looper.com" />
+	<meta property="article:author" content="Aaron Greenbaum" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@looper">
+	<meta name="twitter:image" content="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/intro-1605215603.jpg">
+    
+    <link rel="shortcut icon" href="https://www.looper.com/img/looper.ico" type="image/x-icon">
+    <link rel="icon" href="https://www.looper.com/img/looper.ico" type="image/x-icon">
+
+
+<link rel="canonical" href="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/"/>
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.looper.com/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="https://www.looper.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://www.looper.com/feed/atom/" />
+
+<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.looper.com\/233567\/rules-every-resident-evil-game-has-to-follow\/"},"headline":"Rules every Resident Evil game has to follow","image":{"@type":"ImageObject","url":"https:\/\/www.looper.com\/img\/gallery\/rules-every-resident-evil-game-has-to-follow\/intro-1605215603.jpg","height":780,"width":438},"datePublished":"2020-08-05T16:27:15+00:00","dateModified":"2020-11-11T17:39:07+00:00","author":{"@type":"Person","name":"Aaron Greenbaum"},"publisher":{"@type":"Organization","name":"Looper","logo":{"@type":"ImageObject","url":"https:\/\/www.looper.com\/img\/looper-logo-black.png","width":132,"height":65}},"description":"Even though Resident Evil&amp;#039;s key features aren&amp;#039;t set in stone, the developers still adhere to explicit rules while crafting each title &amp;mdash; or try to, at least. For those who may be curious, here are the rules Resident Evil developers try to follow for every entry."}
+</script>
+
+<script>
+    if ( typeof Looper === "undefined" ) {
+        var Looper = {};
+    }
+    Looper.adTypeAdd = false;
+    Looper.fromZerg = (document.location.search.indexOf("zergnet")!==-1);
+        Looper.fromFacebook = false;
+        Looper.zergCat = false;
+    if ( document.location.search.indexOf("utm_content") !== -1 ) {
+	    var searchArgs = document.location.search.split("&");
+	    for ( var i = 0; i < searchArgs.length; i++ ) {
+		    if ( searchArgs[i].indexOf("utm_content") !== -1 && searchArgs[i].indexOf("=") !== -1 ) {
+			    Looper.zergCat = searchArgs[i].split("=")[1];
+		    }
+	    }
+    }
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    if ( typeof googletag['definedSlots'] == "undefined" ) {
+        googletag.definedSlots = {};
+        googletag.displayedSlots = {};
+    }
+    if ( typeof googletag['zergPageType'] == "undefined" ) {
+        googletag.zergPageType = "Random Page";
+    }
+</script>
+
+
+</head><body>
+
+<div id="wrapper">
+    <div class="page-wrap">
+        <header id="header" class="infinite ">
+            <div class="nav-drop">
+                <div class="jcf-scrollable">
+                    <div class="aside-holder">
+                        <nav id="aside-nav">
+                            <div class="nav-top">
+                                <div class="logo">
+                                    <a href="/" class="logo-holder">
+                                                                                    <img src="https://www.looper.com/img/looper_logo_white.svg" alt="Looper" width="104" height="37">
+                                                                            </a>
+                                    <a href="#" class="nav-opener close">&times;</a>
+                                </div>
+                            </div>
+
+                            <ul>
+                                                                <li class="news "><a href="/category/news/">NEWS</a></li>
+                                                                <li class="exclusives "><a href="/category/exclusives/">EXCLUSIVES</a></li>
+                                                                <li class="movies "><a href="/category/movies/">MOVIES</a></li>
+                                                                <li class="television "><a href="/category/television/">TV</a></li>
+                                                                <li class="gaming  active"><a href="/category/gaming/">GAMING</a></li>
+                                                                <li class="comics "><a href="/category/comics/">COMICS</a></li>
+                                                                <li class="reviews "><a href="/category/reviews/">REVIEWS</a></li>
+                                                                <li class="features "><a href="/category/features/">FEATURES</a></li>
+                                                                <li class="social-icons">
+                                    <a href="http://www.facebook.com/LooperMoviesTV" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a><a href="https://twitter.com/looper" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a><a href="https://www.youtube.com/c/looper" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a><a href="https://www.instagram.com/looperhq" target="_blank" title="Instagram" aria-label="Instagram"><svg class="icon"><use xlink:href="#instagram"></use></svg></a><a href="https://flipboard.com/@Looper" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a>                                </li>
+                                <li class="info-links first-info-link"><a href="/about">About</a></li>
+                                <li class="info-links"><a href="/privacy-policy">Privacy Policy</a></li>
+                                <li class="info-links"><a href="https://www.static.com/terms">Terms of Use</a></li>
+                            </ul>
+                        </nav>
+
+                        <div class="nav-bottom">
+                            <span class="copyright-info">&copy; 2021                                <a href="https://www.static.com/" target="_blank">Static Media</a><sup>&reg;</sup>. All Rights Reserved
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="bg"></div>
+
+            <div id="header-container">
+                <div id="hamburger-holder">
+                    <div class="hamburger nav-opener"></div>
+                </div>
+
+                                    <div id="logo" class="top-nav-standard">
+                                        <a href="/" >
+                                                            <img src="https://www.looper.com/img/looper_logo_white.svg" alt="Looper" height="37" width="104" />
+                                                    </a>
+                                    </div>
+                
+                <div id="logo-icon" class="top-nav-scrolled">
+                    <a href="/" >
+                                                    <img src="https://www.looper.com/img/looper_icon_color.svg"  alt="Looper" width="36" height="20" />
+                                            </a>
+                </div>
+
+                <div id="top-nav-title" class="top-nav-scrolled">Rules Every Resident Evil Game Has To Follow</div>
+
+                <div id="search-container" class="top-nav-standard">
+                    <nav id="top-nav-holder">
+                                            <a href="/category/news/" class="news ">NEWS</a>
+                                            <a href="/category/exclusives/" class="exclusives ">EXCLUSIVES</a>
+                                            <a href="/category/movies/" class="movies ">MOVIES</a>
+                                            <a href="/category/television/" class="television ">TV</a>
+                                            <a href="/category/gaming/" class="gaming  active">GAMING</a>
+                                            <a href="/category/comics/" class="comics ">COMICS</a>
+                                            <a href="/category/reviews/" class="reviews ">REVIEWS</a>
+                                            <a href="/category/features/" class="features ">FEATURES</a>
+                                        </nav>
+                </div>
+
+                <nav id="social-nav-holder" class="top-nav-standard">
+                                        <svg width="0" height="0" class="hidden">
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="rss">
+                            <path d="M4.259 23.467A4.265 4.265 0 000 27.719a4.25 4.25 0 004.259 4.244 4.25 4.25 0 004.265-4.244 4.265 4.265 0 00-4.265-4.252zM.005 10.873v6.133c3.993 0 7.749 1.562 10.577 4.391A14.897 14.897 0 0114.966 32h6.16c0-11.651-9.478-21.127-21.121-21.127zM.012 0v6.136C14.255 6.136 25.848 17.74 25.848 32H32C32 14.36 17.648 0 .012 0z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="twitter">
+                            <path d="M32 7.075a12.941 12.941 0 01-3.769 1.031 6.601 6.601 0 002.887-3.631 13.21 13.21 0 01-4.169 1.594A6.565 6.565 0 0022.155 4a6.563 6.563 0 00-6.563 6.563c0 .512.056 1.012.169 1.494A18.635 18.635 0 012.23 5.195a6.56 6.56 0 00-.887 3.3 6.557 6.557 0 002.919 5.463 6.565 6.565 0 01-2.975-.819v.081a6.565 6.565 0 005.269 6.437 6.574 6.574 0 01-2.968.112 6.588 6.588 0 006.131 4.563 13.17 13.17 0 01-9.725 2.719 18.568 18.568 0 0010.069 2.95c12.075 0 18.681-10.006 18.681-18.681 0-.287-.006-.569-.019-.85A13.216 13.216 0 0032 7.076z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="facebook">
+                            <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="flipboard">
+                            <path d="M0 0v32h32V0zm25.6 12.8h-6.4v6.4h-6.4v6.4H6.4V6.4h19.2z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="instagram">
+                            <path d="M16 2.881c4.275 0 4.781.019 6.462.094 1.563.069 2.406.331 2.969.55a4.952 4.952 0 011.837 1.194 5.015 5.015 0 011.2 1.838c.219.563.481 1.412.55 2.969.075 1.688.094 2.194.094 6.463s-.019 4.781-.094 6.463c-.069 1.563-.331 2.406-.55 2.969a4.94 4.94 0 01-1.194 1.837 5.02 5.02 0 01-1.837 1.2c-.563.219-1.413.481-2.969.55-1.688.075-2.194.094-6.463.094s-4.781-.019-6.463-.094c-1.563-.069-2.406-.331-2.969-.55a4.952 4.952 0 01-1.838-1.194 5.02 5.02 0 01-1.2-1.837c-.219-.563-.481-1.413-.55-2.969-.075-1.688-.094-2.194-.094-6.463s.019-4.781.094-6.463c.069-1.563.331-2.406.55-2.969a4.964 4.964 0 011.194-1.838 5.015 5.015 0 011.838-1.2c.563-.219 1.412-.481 2.969-.55 1.681-.075 2.188-.094 6.463-.094zM16 0c-4.344 0-4.887.019-6.594.094-1.7.075-2.869.35-3.881.744-1.056.412-1.95.956-2.837 1.85a7.833 7.833 0 00-1.85 2.831C.444 6.538.169 7.7.094 9.4.019 11.113 0 11.656 0 16s.019 4.887.094 6.594c.075 1.7.35 2.869.744 3.881.413 1.056.956 1.95 1.85 2.837a7.82 7.82 0 002.831 1.844c1.019.394 2.181.669 3.881.744 1.706.075 2.25.094 6.594.094s4.888-.019 6.594-.094c1.7-.075 2.869-.35 3.881-.744 1.05-.406 1.944-.956 2.831-1.844s1.438-1.781 1.844-2.831c.394-1.019.669-2.181.744-3.881.075-1.706.094-2.25.094-6.594s-.019-4.887-.094-6.594c-.075-1.7-.35-2.869-.744-3.881a7.506 7.506 0 00-1.831-2.844A7.82 7.82 0 0026.482.843C25.463.449 24.301.174 22.601.099c-1.712-.081-2.256-.1-6.6-.1z"></path>
+                            <path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219A8.221 8.221 0 0016 7.781zm0 13.55a5.331 5.331 0 110-10.663 5.331 5.331 0 010 10.663zM26.462 7.456a1.919 1.919 0 11-3.838 0 1.919 1.919 0 013.838 0z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="youtube">
+                            <path d="M31.681 9.6s-.313-2.206-1.275-3.175C29.187 5.15 27.825 5.144 27.2 5.069c-4.475-.325-11.194-.325-11.194-.325h-.012s-6.719 0-11.194.325c-.625.075-1.987.081-3.206 1.356C.631 7.394.325 9.6.325 9.6s-.319 2.588-.319 5.181v2.425c0 2.587.319 5.181.319 5.181s.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563.244 10.881.319 10.881.319s6.725-.012 11.2-.331c.625-.075 1.988-.081 3.206-1.356.962-.969 1.275-3.175 1.275-3.175s.319-2.587.319-5.181v-2.425c-.006-2.588-.325-5.181-.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+                        </symbol>
+                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="pinterest">
+                            <path d="M16 0C7.175 0 0 7.175 0 16s7.175 16 16 16 16-7.175 16-16S24.825 0 16 0zm0 29.863c-1.431 0-2.806-.219-4.106-.619.563-.919 1.412-2.431 1.725-3.631.169-.65.863-3.294.863-3.294.45.863 1.775 1.594 3.175 1.594 4.181 0 7.194-3.844 7.194-8.625 0-4.581-3.738-8.006-8.544-8.006-5.981 0-9.156 4.019-9.156 8.387 0 2.031 1.081 4.563 2.813 5.369.262.125.4.069.463-.188.044-.194.281-1.131.387-1.575a.427.427 0 00-.094-.4c-.575-.694-1.031-1.975-1.031-3.162 0-3.056 2.313-6.019 6.256-6.019 3.406 0 5.788 2.319 5.788 5.637 0 3.75-1.894 6.35-4.356 6.35-1.363 0-2.381-1.125-2.05-2.506.394-1.65 1.15-3.425 1.15-4.613 0-1.063-.569-1.95-1.756-1.95-1.394 0-2.506 1.438-2.506 3.369 0 1.225.412 2.056.412 2.056s-1.375 5.806-1.625 6.887c-.281 1.2-.169 2.881-.05 3.975-5.156-2.012-8.813-7.025-8.813-12.9 0-7.656 6.206-13.863 13.862-13.863s13.863 6.206 13.863 13.863c0 7.656-6.206 13.863-13.863 13.863z"></path>
+                        </symbol>
+                    </svg>
+                                        <a href="http://www.facebook.com/LooperMoviesTV" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a><a href="https://twitter.com/looper" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a><a href="https://www.youtube.com/c/looper" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a><a href="https://www.instagram.com/looperhq" target="_blank" title="Instagram" aria-label="Instagram"><svg class="icon"><use xlink:href="#instagram"></use></svg></a><a href="https://flipboard.com/@Looper" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a>                </nav>
+
+	                            <div id="top-nav-share" class="top-nav-scrolled"></div>
+	            
+            </div>
+            <div id="is-tablet"></div>
+            <div id="is-mobile"></div>
+        </header>	<main id="main" role="main" class="infinite" data-post-type="articles">
+		<div class="holder">
+			<div id="content" class="article">
+				<article class="news-post">
+    <div class="news-article  ">
+													<div id="gdpr" class="gdpr-container">
+		<form>
+			<div class="gdpr" style="opacity: 1; x: 1px; y: 0px; transform: translateY(0px) scale(1, 1);">
+				<div class="EUCookieNotice__close"><span class="icon icon-x">&times;</span></div>
+				<span class="gdpr-info">Cookies help us deliver our Services. By using our Services, you agree to our use of cookies.<!-- -->&nbsp;<a href="/privacy-policy" target="_blank">Learn More</a>.</span>
+			</div>
+		</form>
+	</div>
+								<div class="main-article">
+                    <h1 class="title-gallery"
+						id="title-gallery"												data-post-id="233567">Rules Every Resident Evil Game Has To Follow</h1>
+				</div>
+			
+							
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  lead-image-holder"
+					 data-post-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/" data-post-title="Rules Every Resident Evil Game Has To Follow"					data-slide-num="0"
+					data-post-id="233567"
+					>
+											
+															<picture >
+																		<img class="gallery-image " src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/intro-1605215603.jpg"
+										 data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/"
+										 data-post-id="233567"
+										 data-slide-num="0"
+										 data-slide-title="Rules Every Resident Evil Game Has To Follow: "
+																				 width="780" height="439"
+										 alt="resident evil, re, every, game, entry, follow, rule">
+								</picture>
+																														</div>
+
+									<div class="byline-container"><span class="byline-by">By</span>&nbsp;<a href="/author/aarongreenbaum/" class="byline-author">Aaron Greenbaum</a><span class="byline-timestamp"><span class="byline-slash">/</span>Aug. 5, 2020  12:27 pm EDT</span><span class="byline-timestamp"><span class="byline-slash">/</span>Updated: Nov. 11, 2020  12:39 pm EDT</span></div>				
+				<div class="columns-holder ">
+					<p><p>When you hear the words "<em>Resident Evil,</em>" you probably think about zombies, green herbs, convoluted door locks, and magical hammerspace storage chests. These features are synonymous with the franchise, but they actually don't follow immutable rules. <em>Resident Evil</em> might have started with typical shambling cadavers, but the series has branched out to <a href="https://residentevil.fandom.com/wiki/Plaga" target="_blank">brain parasites</a> and <a href="https://www.looper.com/217192/resident-evil-8-village-ps5-release-date-trailer-and-plot/" target="_blank">werewolves</a>. And we cannot forget the time <em>Resident Evil</em> replaced storage boxes with a <a href="https://residentevil.fandom.com/wiki/Merchant" target="_blank">wandering one-man black market</a>.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>Even though <em>Resident Evil</em>'s key features aren't set in stone, the developers still follow explicit rules while crafting each title — or try to, at least. The timeless enemies are occasionally swapped out for new models to keep players on their toes, but <em>Resident Evil</em> is defined by a specific, steadfast design philosophy that (usually) permeates every game.</p>
+<p>For those who may be curious, here are the rules <em><a href="https://www.svg.com/143826/the-insane-story-of-resident-evil-explained/" target="_blank">Resident Evil</a></em> developers try to follow for every entry.</p>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Not just any old horror will do in Resident Evil</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="1"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/not-just-any-old-horror-will-do-in-resident-evil-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/not-just-any-old-horror-will-do-in-resident-evil/"
+									data-post-id="233567"
+									data-slide-num="1"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Not just any old horror will do in Resident Evil"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, horror, terror, jumpscare, personal, home">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p><em>Resident Evil</em> is a horror franchise, but horror is a vague concept. Some horror games <a href="https://www.youtube.com/watch?v=PzZHx7FkJR8" target="_blank">craft unnerving setpieces</a> that are no more dangerous than haunted house rides, while others <a href="https://www.youtube.com/watch?v=iOztnsBPrAA" target="_blank">rely on jump scares</a>. And some horror games <a href="https://www.youtube.com/watch?v=q5VAUNSgb08" target="_blank">blindside players</a> by nuking the fourth wall. <em>Resident Evil</em> games set themselves apart from the rest by building horror that hits close to home.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><a href="https://www.forbes.com/sites/erikkain/2017/03/07/an-interview-with-resident-evil-7-biohazard-director-koshi-nakanishi/#3483151d68be" target="_blank">According to <em>Resident Evil 7</em> director Kōshi Nakanishi</a>, personal horror is the pinnacle of <em>Resident Evil</em>. If a player can picture themselves in a game's scenario, their fear multiplies. Few people can <a href="https://www.youtube.com/watch?v=sS_bGpe9qE8" target="_blank">gallivant across the globe</a> and dismantle international zombie conspiracies, but anyone can <a href="https://www.youtube.com/watch?v=W1OUs3HwIuo" target="_blank">wander into dilapidated houses</a> infested with insane, superhuman hillbillies and fungus zombies.</p>
+<p>Nakashini believes <a href="https://www.forbes.com/sites/erikkain/2017/03/07/an-interview-with-resident-evil-7-biohazard-director-koshi-nakanishi/#2dccf34c68be" target="_blank">fear comes from the imagination</a>. A good <em>Resident Evil</em> game captures a player's imagination and twists it against them. Whether or not zombies lurk around a corner, players should always imagine something evil lies in ambush. This design stems from ex-Capcom director and producer Shinji Mikami, <a href="https://residentevil.fandom.com/wiki/WildStorm_interview_with_Shinji_Mikami" target="_blank">who stated</a> <em>Resident Evil</em> must make players "simultaneously feel fear and enjoy playing the game."</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>Fear and pleasure are two sides of the same coin in horror. One without the other is like vinegar-flavored potato chips without salt to balance out the taste.</p>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Build up the world — and scares — with diaries</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="2"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/build-up-the-world-and-scares-with-diaries-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/build-up-the-world-and-scares-with-diaries/"
+									data-post-id="233567"
+									data-slide-num="2"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Build up the world — and scares — with diaries"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, backstory, lore, diary entry, note, journal">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder ">
+					<p><p>You can fit only so much story into a game before the narrative becomes bloated and unwieldy. To help flesh out a game world, many titles include notes and diary entries that provide windows into daily lives before the zombies rose to power. These notes aren't always considered essential, but <em>Resident Evil</em>'s developers think otherwise.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><em>Resident Evil</em> games use cutscenes to provide important plot points and character motivation, but <a href="https://www.forbes.com/sites/erikkain/2017/03/07/an-interview-with-resident-evil-7-biohazard-director-koshi-nakanishi/#3483151d68be" target="_blank">Kōshi Nakashini believes</a> cutscenes are only half the equation. A cutscene might reveal <a href="https://www.youtube.com/watch?v=jV-PpqIJYi8" target="_blank">Albert Wesker's true motives</a>, but diary entries provide crucial information about the game world's backstory and lore.</p>
+<p><a href="https://www.forbes.com/sites/erikkain/2017/03/07/an-interview-with-resident-evil-7-biohazard-director-koshi-nakanishi/#409f133f68be" target="_blank">As Nakashini told <em>Forbes</em></a>, "There are cutscenes, but all of the notes and diary entries hidden within the mansion really helped to build an ominous narrative in the background." <em>Resident Evil</em> isn't just about the events happening onscreen but also the ones that led up to them. A zombie outbreak is old hat, but a <a href="https://residentevil.fandom.com/wiki/Daily_Raccoon_(End_of_the_Road)" target="_blank">newspaper scrap</a> that mentions water toxicity gets players thinking and implies infected drinking water caused the zombies.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><em>Resident Evil</em> isn't a franchise where things just happen. Each game needs to provide breadcrumbs, and players fill in the gaps along the way with collectible diary entries. It certainly beats an exposition dump.</p>
+</p>
+					
+																		<div class="vidad-container"></div>
+							<div class="teads-container"></div>
+															</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>You can&#39;t go to easy on the player</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="3"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/you-cant-go-to-easy-on-the-player-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/you-cant-go-to-easy-on-the-player/"
+									data-post-id="233567"
+									data-slide-num="3"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: You can&#39;t go to easy on the player"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, difficulty, easy, mode, challenge">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p>Game difficulty is a hot topic. Some people argue that all <a href="https://www.forbes.com/sites/davidthier/2019/03/28/sekiro-shadows-dies-twice-needs-to-respect-its-players-and-add-an-easy-mode/#bdbb81416393" target="_blank">games need an easy mode</a>, while others claim <a href="https://www.gameinformer.com/opinion/2019/04/03/from-software-games-and-easy-mode-dont-mix" target="_blank">easy modes defeat the purpose of certain games</a>. Where does the <em>Resident Evil</em> franchise stand in this discussion? Despite the series' use of difficulty modes, <em>RE</em> sits in the "the game is supposed to be challenging" corner.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>System planner of <em>Resident Evil</em> and director of <em>Resident Evil 0</em>, <a href="https://www.youtube.com/watch?v=aAIoyYBthaU&amp;feature=youtu.be&amp;t=371" target="_blank">Koji Oda</a>, feels <em>Resident Evil</em> needs to work against the player. The franchise is about delivering <a href="https://www.svg.com/105252/greatest-horror-games-time/" target="_blank">a horror experience</a>, and <em>RE</em> games have to be tense as possible to maximize the horror.</p>
+<p>Normally, you know how much health a character has, but Oda is adamant that intentionally hiding the protagonist's health adds tension. In the game, healing items are in short supply, so you never know if you can take another hit or if you need to heal immediately. Furthermore, the save system also uses similarly limited items, so you can't save every five minutes — the fear of wasting saves prematurely adds a new layer of stress.</p>
+<p>Even on easier difficulties, <em>Resident Evil</em> shouldn't hold the player's hand. If the game is a cakewalk, then all the horror is sucked out of the experience. Horror is the entire point of <em>Resident Evil</em>.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Resident Evil is more than a name -- it&#39;s a brand</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="4"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/resident-evil-is-more-than-a-name-its-a-brand-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/resident-evil-is-more-than-a-name-its-a-brand/"
+									data-post-id="233567"
+									data-slide-num="4"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Resident Evil is more than a name -- it&#39;s a brand"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, name, title, brand">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder ">
+					<p><p>What's in a name? A lot, since a video game's name can impact its marketability and recognizability. <em><a href="https://www.svg.com/101575/untold-truth-super-mario/" target="_blank">Super Mario Bros.</a></em> probably wouldn't be half as popular if it were called <em>Jumping Italian Plumbers!</em> Likewise, the <em>Resident Evil</em> franchise relies on its name to attract gamers, even though it isn't called <em>Resident Evil</em> the world over.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>In case you didn't know, <em>Resident Evil</em> is known as <em>Biohazard</em> in Japan, and Yoshiaki Hirabayashi, who has worn many hats throughout the franchise's life, <a href="http://www.1up.com/features/interview-resident-evil-6-director.html" target="_blank">is of two minds about its name</a>. While he thinks <em>Biohazard</em> is better fitting, he acknowledges the power and necessity behind the name <em>Resident Evil</em>. While some franchise entries don't take place in houses (i.e., where the "resident" in <em>Resident Evil</em> originated), Hirabayashi believes virtually every gamer can pinpoint key features of upcoming <em>RE</em> games with near prophetic accuracy just by hearing the title. Therefore the <em>Resident Evil</em> name holds power and is crucial to the franchise.</p>
+<p>If you want further proof, examine <em>Resident Evil 7</em>. In the U.S., its full title is <a href="http://residentevil7.com/us/#_top" target="_blank"><em>Resident Evil 7: Biohazard</em></a>, but in Japan, it is called <a href="http://www.capcom.co.jp/biohazard7/#_top" target="_blank"><em>Biohazard 7: Resident Evil</em></a>. That is a first for the franchise in Japan and demonstrates Hirabayashi's point.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Perfectly balanced, as all things should be</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="5"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/perfectly-balanced-as-all-things-should-be-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/perfectly-balanced-as-all-things-should-be/"
+									data-post-id="233567"
+									data-slide-num="5"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Perfectly balanced, as all things should be"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, balance, real, unreal, fantasy, fiction, realistic, suspension of disbelief">
+							</picture>
+													<a href="https://gp1blizzard.blob.core.windows.net/propressroom/Content/Artwork/Eva/CapcomUS/artwork/2016/08/30000441-e69e9ca8-d565-4450-b7a0-c5d9be4c379b/RE4_XB1PS4_04.jpg?lightbox=y&ex=2020-10-31+03%3A00%3A00&sky=687eb4480025a2df124bd406de7d5fb16907c48143303613239ef953d880bcab" target="_blank"><span class="gallery-image-credit">Capcom</span></a></a>									</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p>How much realism is too much in video games? How much fantasy is over the top? Many game developers scratch their heads while balancing the two. Devs need to weigh realism against fantasy, as well as the plot, to ensure players can maintain suspension of disbelief. However, the proper realism-to-fantasy ratio was cracked a long time ago for the <em>Resident Evil</em> franchise.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>When Yoshiaki Hirabayashi was a designer for the <em>Resident Evil</em> franchise, <a href="http://www.1up.com/features/interview-resident-evil-6-director.html" target="_blank">he worked closely with Shinji Mikami</a>. According to Hirabayashi, Mikami claimed the key to <em>Resident Evil</em>'s world is balancing the "real and unreal." Despite all the zombies and evil viruses, the game world still needs to provide a "verisimilitude of a realistic world," which explains why the t-virus can gift some people with <a href="https://residentevil.fandom.com/wiki/Manuela_Hidalgo" target="_blank">combustible blood</a> but can't give them <a href="https://www.looper.com/208741/everything-the-resident-evil-movies-get-wrong-about-the-games/" target="_blank">powers like telekinesis</a>. Granted, Hirabayashi admitted some <em>RE</em> games lean more towards the fantastic than the real and vice versa, but he tries to stay true to Mikami's guiding words.</p>
+<p>If games are like meals, then the real and unreal are the spices. You can use a bit more realism than fantasy to give a <em>Resident Evil</em> game a specific flavor, but too much and the end result becomes inedible.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>For every action, there is an equal and opposite reaction</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="6"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/for-every-action-there-is-an-equal-and-opposite-reaction-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/for-every-action-there-is-an-equal-and-opposite-reaction/"
+									data-post-id="233567"
+									data-slide-num="6"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: For every action, there is an equal and opposite reaction"
+																		width="780" height="440"
+									alt="resident evil, re, every, game, entry, follow, rule, enemy, monster, fight, challenge, action, reaction, immortal, invincible, scenario">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder ">
+					<p><p>Survival horror games have an ebb and flow. You're hopelessly outnumbered, fighting for your life against creatures that crawl towards you even after you've surgically severed their spines with bullets. However, you always have a shot at survival, or at least you're supposed to as far as <em>Resident Evil</em> design is concerned.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>According to <em>Resident Evil 6</em>'s director <a href="http://www.1up.com/features/interview-resident-evil-6-director.html" target="_blank">Eiichiro Sasaki</a>, each <em>RE</em> monster is a game of actions and reactions. You encounter a zombie and shoot its head. But, if you are pinned by a monster who can only be damaged in specific locations, you aim for its glowing, pulsating weak spots. Sasaki despises no-win scenarios and believes every <em>Resident Evil</em> fight should be winnable. He thinks that even if you are forced into situations where you have to adopt unusual, uncomfortable tactics (for example, tricking blind <a href="https://residentevil.fandom.com/wiki/Garrador/gameplay" target="_blank">Garradores</a> into sticking their claws into walls so you can shoot their unprotected, parasite-ridden spines), victory should always be possible.</p>
+<p>Unlike franchises like <em><a href="https://www.svg.com/139744/why-you-may-never-see-another-silent-hill-sequel/" target="_blank">Silent Hill</a></em>, which occasionally use <a href="https://silenthill.fandom.com/wiki/Wheelchair" target="_blank">invincible</a> <a href="https://silenthill.fandom.com/wiki/Pyramid_Head" target="_blank">enemies</a>, there's no such thing as an immortal monster in <em>Resident Evil</em>. Even <a href="https://residentevil.fandom.com/wiki/Regenerador" target="_blank">Regeneradors</a> have an Achilles heel the size of Wesker's ego, even if you can only <a href="https://residentevil.fandom.com/wiki/Infrared_Scope" target="_blank">see it in infrared</a>.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>You can&#39;t make players feel comfortable around zombies</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="7"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/you-cant-make-players-feel-comfortable-around-zombies-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/you-cant-make-players-feel-comfortable-around-zombies/"
+									data-post-id="233567"
+									data-slide-num="7"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: You can&#39;t make players feel comfortable around zombies"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, melee weapon, gun, comfortable, danger, close, near, proximity">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p>Survival horror games usually follow a specific combat design. Ranged weapons are really powerful, especially against living things (as well as undead things), but ammo is in short supply. Guns should be saved for emergencies when rusty pipes and fire axes don't cut it. <em>Resident Evil</em> defies this design philosophy, and for good reason.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>Even though <em>Resident Evil</em> games sometimes sneak in melee weapons, they are usually weak. Your best chance of survival is either a gun or a quick retreat, and that's an intentional design choice. <a href="http://shmuplations.com/residentevil2/" target="_blank">Naboru Sugimura</a>, who helped write <em>Resident Evil 2</em> (as well numerous <em>Lupin the 3rd</em> and Super Sentai episodes), has stated melee weapons diminish the franchise's scares and give players a reason to approach deadly monsters. According to Sugimura, <em>Resident Evil</em>'s enemies are supposed to emphasize the belief that the further you are from a zombie, the safer you are.</p>
+<p>While some <em>RE</em> games provide more melee options than others, <em>Resident Evil</em> games more often than not hold true to Sugimura's claim that proximity equals danger. How else would you explain <a href="https://residentevil.fandom.com/wiki/Chainsaw_Man" target="_blank">Dr. Salvador</a> and his insta-decap chainsaw?</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Always expect censorship</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="8"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/always-expect-censorship-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/always-expect-censorship/"
+									data-post-id="233567"
+									data-slide-num="8"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Always expect censorship"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, censhoprship, esrb, ratings board">
+							</picture>
+													<a href="https://www.youtube.com/watch?v=Qfj5W435w-s" target="_blank"><span class="gallery-image-credit">YouTube/Censored Gaming</span></a></a>									</div>
+
+				
+				<div class="columns-holder ">
+					<p><p>Did you know <em>Resident Evil</em> isn't kid-friendly? Every <em>RE</em> title is slapped with the "M for Mature" rating to ensure gamers younger than 18 don't play them, but not all ratings boards are created equal. Different boards and their respective countries have their own standards and hangups, which doesn't bode well for franchises like <em>Resident Evil</em>.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><a href="https://www.forbes.com/sites/erikkain/2017/03/07/an-interview-with-resident-evil-7-biohazard-director-koshi-nakanishi/#3483151d68be" target="_blank"><em>Resident Evil 7</em>'s director Kōshi Nakanishi</a> claimed censorship is a constant concern during development. Dev teams have specific visions, which are always tempered by ratings boards. A level of violence acceptable in the American market (accounting for an M-rating) won't fly in Japan. Developers have to second guess their work and ask if a particular scene will prove problematic in certain countries. According to Nakanishi, <em>RE</em> devs have to censor themselves and prepare milder alternatives to placate the Japanese ratings board, even though they can go full slasher movie for the American ratings board.</p>
+<p>The <em>RE</em> franchise is full of examples where "intense" scenes in American releases are toned down for Japanese audiences. For example, Dr. Salvador's chainsaw <a href="https://www.youtube.com/watch?v=Z535mzDS2RQ" target="_blank">doesn't decapitate Leon</a> in the Japanese version of <em>Resident Evil 4</em>. Moreover, zombies can be reduced to giblets in every version of <em>Resident Evil 2 Remake</em> <a href="https://www.youtube.com/watch?v=2TrSVsKZFyE" target="_blank">except the Japanese one</a>.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Resident Evil is doing the same thing over again but with different results</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="9"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/resident-evil-is-doing-the-same-thing-over-again-but-with-different-results-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/resident-evil-is-doing-the-same-thing-over-again-but-with-different-results/"
+									data-post-id="233567"
+									data-slide-num="9"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Resident Evil is doing the same thing over again but with different results"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, repetition, new game, unlockable, mode, extra, reward">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p>When people purchase video games, game length can be a deciding factor. Some gamers would rather purchase titles that provide 50+ hours of entertainment over games that last four hours. <em>Resident Evil</em> campaigns tend to be on the shorter side of the game length spectrum, but only if you play them once. If you don't load up <em>RE</em> games for a second or third go around, you're not playing them as the developers intended.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><em>Resident Evil</em> games include extra modes like <a href="https://residentevil.fandom.com/wiki/The_Tofu_Survivor_(RE2)" target="_blank">The Tofu Survivor</a>, and according to <a href="https://residentevil.fandom.com/wiki/WildStorm_interview_with_Shinji_Mikami" target="_blank">Shinji Mikami</a>, mode was added to <em>Resident Evil 2</em> to keep players coming back for more. Most entries in the franchise follow Mikami's vision and give players rewards for multiple playthroughs. For instance, the <em>Resident Evil HD Remake</em> unlocks the <a href="https://residentevil.fandom.com/wiki/Real_Survival" target="_blank">Real Survival</a> difficulty mode after players complete the game twice. Meanwhile, <em>Resident Evil 4</em> unveils <a href="https://residentevil.fandom.com/wiki/Separate_Ways" target="_blank">Ada Wong-centric</a> <a href="https://residentevil.fandom.com/wiki/Assignment:_Ada" target="_blank">missions</a> after players finish the main game.</p>
+<p>Even when a game is light on extra modes, they offer <a href="https://residentevil.fandom.com/wiki/Rocket_Launcher_(RE1_infinite)" target="_blank">unlockable</a> <a href="https://residentevil.fandom.com/wiki/Chicago_Typewriter" target="_blank">weapons</a>. These weapons of zombie devastation trivialize the horror and are played for laughs, but who says a horror game can't have a sense of humor? If <em>Resident Evil 4</em> is a marathon, a playthrough with the Chicago Typewriter is a victory lap.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>You will always need to manage items</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="10"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/you-will-always-need-to-manage-items-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/you-will-always-need-to-manage-items/"
+									data-post-id="233567"
+									data-slide-num="10"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: You will always need to manage items"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, item, manage, inventory, equipment">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder ">
+					<p><p>When you think about the <em>Resident Evil</em> franchise, your mind probably leaps to the core gameplay loop of surviving a zombie outbreak in close quarters with limited resources. This raises the question of why resources are limited, and the answer comes in two parts. First, you can't find many bullets and herbs, and more importantly, you can only carry so much before your pockets rip.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>Ask virtually <a href="https://venturebeat.com/2017/01/24/capcom-producer-tells-why-resident-evil-7-biohazard-returns-to-horror/" target="_blank">any <em>Resident</em></a> <a href="https://twitter.com/cvxfreak/status/1278348017527996416" target="_blank"><em>Evil</em> developer</a>, and they will explain how item management is a vital part of the franchise. With few exceptions, players can only hold what fits on a small inventory grid window, and not even the <em>Tetris</em> world champion can cram everything into it. Do you fill your pockets with handfuls of ammo for different weapons, or do you horde bullets for one weapon and leave the rest behind? What is the proper ammunition-to-healing item ratio? What do you store when you have to lug around puzzle items? The answers vary from person to person, which is the entire point.</p>
+<p>Item management has been with the <em>Resident Evil</em> series since the beginning, and it will likely stick with the franchise until the very end.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>Bridging communities and markets through horror</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="11"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/bridging-communities-and-markets-through-horror-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/bridging-communities-and-markets-through-horror/"
+									data-post-id="233567"
+									data-slide-num="11"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: Bridging communities and markets through horror"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, bridge, community, market, universal, terror, please">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder  added-content">
+					<p><p>Whenever someone researches <em>Resident Evil 6</em>, they usually find <a href="https://www.metacritic.com/game/playstation-4/resident-evil-6" target="_blank">criticism of</a> <a href="https://www.metacritic.com/game/xbox-one/resident-evil-6" target="_blank">the game</a>. Apparently, <em>RE6</em> tried to please everyone and suffered as a result. Well, you might be surprised that "trying to please everyone" isn't too far from the <em>RE</em> franchise's core tenet.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><em>RE6</em> director <a href="http://www.1up.com/features/interview-resident-evil-6-director.html" target="_blank">Eiichiro Sasaki</a> claimed that <em>Resident Evil</em> games should strive for "universality" and "global appeal," that <em>RE</em> developers should channel common ground between different cultures into an entertaining game. Of course, the irony of discovering universality is nobody agrees on how to do it. According to Sasaki, the <em>RE6</em> team experimented with ideas such as placing black bars on cutscenes to make the game look more like a movie, as well as filling the script with f-bombs. These ideas didn't work. However, <a href="https://residentevil.fandom.com/wiki/WildStorm_interview_with_Shinji_Mikami" target="_blank">Shinji Mikami</a> discovered the secret to <em>Resident Evil</em>'s universality early in the franchise's life.</p>
+<p>Mikami believes the secret of universal appeal lies in channeling <em>RE</em>'s core theme of terror, because — <a href="https://residentevil.fandom.com/wiki/WildStorm_interview_with_Shinji_Mikami" target="_blank">as he put it</a> — "terror can be perceived by everyone." According to Mikami, this focus on easily recognizable horror helped the franchise's popularity. The games tapped into a well of terror hiding in each player, and the rest was history.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+</p>
+					
+									</div>
+					</div>
+
+    <div class="news-article  ">
+			
+							                    <h2>The camera always points towards immersion</h2>
+				
+				<div class="slide-key image-holder gallery-image-holder credit-image-wrap  "
+					 					data-slide-num="12"
+					data-post-id="233567"
+					>
+											
+														<picture>
+																<img class="gallery-image lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+									data-lazy-src="https://www.looper.com/img/gallery/rules-every-resident-evil-game-has-to-follow/the-camera-always-points-towards-immersion-1605215603.jpg" data-slide-url="https://www.looper.com/233567/rules-every-resident-evil-game-has-to-follow/slide/the-camera-always-points-towards-immersion/"
+									data-post-id="233567"
+									data-slide-num="12"
+									data-slide-title="Rules Every Resident Evil Game Has To Follow: The camera always points towards immersion"
+																		width="780" height="439"
+									alt="resident evil, re, every, game, entry, follow, rule, camera, first-person, third-person, perspective, over-the-shoulder, vr, immersion">
+							</picture>
+																						</div>
+
+				
+				<div class="columns-holder ">
+					<p><p><em>Resident Evil</em>'s camera defines its presentation. Originally, the franchise used fixed camera angles that imitated slasher horror movie cinematography, but as the times changed, so did technology and camera angles. Developers didn't need to change the game camera, but they did for the sake of immersion.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p><em>Resident Evil 2 Remake</em> is a mostly faithful recreation of <a href="https://www.svg.com/144255/the-untold-truth-of-resident-evil-2/" target="_blank">the original title</a>, and one of the remakes biggest changes is its over-the-shoulder perspective. According to <a href="https://gamingbolt.com/resident-evil-2-interview-narrative-changes-puzzle-tweaks-camera-angle-graphics-and-more" target="_blank">Brand Manager Mike Lunn</a> and <a href="https://www.relyonhorror.com/in-depth/interviews/e3-2018-interview-resident-evil-2-producers-yoshiaki-hirabayashi-and-tsuyoshi-kanda-explain-how-they-do-it/" target="_blank">Yoshiaki Hirabayashi</a>, this camera creates a more immersive experience. Hirabayashi claimed that witnessing a struggle between survivor and zombie up close is more intense than viewing it from afar. However, this isn't the only way the <em>RE</em> franchise has chased immersion.</p>
+<p>While over-the-shoulder perspectives became the norm, <em>Resident Evil 7</em> uses a first-person, found footage-esque camera. This decision seemingly defies the proverb, "If it ain't broke, don't fix it," but the dev team wanted to immerse players further than any third-person camera could. <a href="https://twitter.com/cvxfreak/status/1278348017527996416" target="_blank">Producer Tsuyoshi Kanda and Senior Manager Peter Fabiano</a> agree that first-person is more immersive than third-person, and <a href="https://venturebeat.com/2017/01/24/capcom-producer-tells-why-resident-evil-7-biohazard-returns-to-horror/" target="_blank">producer Masachika Kawata</a> stated the team implemented VR functionality to, you guessed it, increase <em>RE7</em>'s immersion.</p>
+<div class="google-ad-placeholder between-p" data-ad-height="any" data-ad-width="any" data-ad-pos="between-p"></div>
+<p>At the rate things are going, <em>Resident Evil</em> might turn into a first-person franchise for the sake of immersion.</p>
+</p>
+					
+									</div>
+					</div>
+
+
+</article>
+
+				<div class="under-art">
+					<div class="divider-heading-container divider-heading recommended-heading">
+						<span>Recommended</span>
+					</div>
+
+											<div class="zergnet-widget" id="zergnet-widget-33140" data-lazyload="2000"></div>
+									</div>
+									<script language="javascript" type="text/javascript">
+						setTimeout(function() {
+							var n = document.getElementById("#zergnet-widget-33140");
+							var h = false;
+							if ( n ) {
+								h = n.innerHTML;
+							}
+							if ( h ) {
+								return false;
+							}
+							var zergnet = document.createElement('script');
+							zergnet.type = 'text/javascript'; zergnet.async = true;
+							zergnet.src = '//www.zergnet.com/zerg.js?v=1&id=33140';
+							var znscr = document.getElementsByTagName('script')[0];
+							znscr.parentNode.insertBefore(zergnet, znscr);
+						}, 5000);
+					</script>
+					<div id="div-ad-1x1a" class="google-ad-placeholder clear placeholder placeholder-1-1" data-ad-height="any" data-ad-width="any" data-ad-pos="1x1"></div>
+								<input type="hidden" class="next-article-url" value="https://www.looper.com/38562/untold-truth-resident-evil/"/>
+				
+				<div class="tripelift-container">
+									</div>
+
+							</div>
+		</div>
+		<div id="floatingAd">
+			<div id="div-ad-floating" class="google-ad-placeholder clear placeholder placeholder-300-250" data-ad-height="250" data-ad-width="300" data-ad-pos="floating"></div>
+		</div>
+			</main>
+
+	
+   </div>
+</div>
+
+<script type="text/javascript" src="/wp-content/themes/unified/js/loopgal.min.js?v=1631022148"></script>
+<script type="text/javascript" src="/wp-content/themes/unified/js/zb.looper.min.js?v=1622735785"></script>
+<script>
+LooperConfig = {};
+(function(){
+            var s = document.createElement("SCRIPT");
+    s.src = "https://zergnet-d.openx.net/w/1.0/jstag?nc=49671895-Looper";
+    document.body.appendChild( s );
+
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+    {q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    apstag.init({ pubID: '3263', bidTimeout: 2e3 });
+
+    s = document.createElement("SCRIPT");
+    s.src = "https://js-sec.indexww.com/ht/p/187534-236828628214373.js";
+    document.body.appendChild( s );
+
+    s = document.createElement("SCRIPT");
+    s.src = "https://cdn.adnxs.com/tag/csa.js";
+    s.setAttribute( "async", "async" );
+    document.body.appendChild( s );
+
+    window.page_initialized = true;    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    googletag.cmd.push(function() {
+        googletag.definedSlots = {};
+    } );
+    
+var LooperReady = function(){
+    
+    LooperConfig.params = false;
+    try {
+        LooperConfig.params = (new URL(document.location)).searchParams;
+    } catch( e ) {
+        //do nothing
+    }
+    LooperConfig['gaData'] = {"contentGroup1":"Infinite\/Feature","dimension1":"Infinite","dimension2":"Feature","dimension3":"Gaming","dimension4":"Aaron Greenbaum","dimension5":"2020-08-05","dimension6":233567,"dimension8":0};
+        LooperConfig['categories'] = ["5"];
+        if ( LooperConfig.params && LooperConfig.params.get("utm_source") && LooperConfig.params.get("utm_source").indexOf("zergnet") !== -1 ) {
+        LooperConfig['gaData']['dimension1'] = "Zerg-Infinite";
+    }
+    var widgets = document.querySelectorAll(".zergnet-widget");
+    var hasWidget = false;
+    for ( i = 0; i < widgets.length; i++ ) {
+        if ( !hasWidget && LoopGalObj.isVisible(widgets[i]) ) {
+            hasWidget = true;
+        }
+    }
+    if (!hasWidget) {
+        LooperConfig['gaData']["dimension7"] = true;
+    } else {
+        LooperConfig['gaData']["dimension7"] = false;
+    }
+
+    var validZSource = {
+        "newsletter": "newsletter",
+        "flipboard": "flipboard",
+        "smartnews": "smartnews",
+        "smartnews_sponsored": "smartnews_sponsored",
+        "newsbreakapp": "newsbreakapp",
+        "topbuzz": "topbuzz",
+        "zinf_abtest": "zinf_abtest",
+        "nexthighlights": "nexthighlights",
+        "fb": "fb",
+        "fb_ios": "fb_ios",
+        "fb_android": "fb_android",
+        "gemini": "gemini",
+        "facebook_organic": "facebook_organic",
+        "gdiscover_sponsored": "gdiscover_sponsored",
+        "youtube": "youtube"
+    };
+    if (window.location.href.indexOf("zsource") !== -1) {
+        var vars = {};
+        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+            vars[key] = value.toLowerCase();
+        });
+        if (typeof( vars['zsource'] !== "undefined") && typeof( validZSource[vars['zsource']] ) !== "undefined") {
+            LooperConfig['zsource'] = validZSource[vars['zsource']];
+            document.cookie = "zsource=" + LooperConfig['zsource'] + "; path=/; max-age=600";
+        }
+    } else if (document.cookie.indexOf("zsource") !== -1) {
+        var cookieval = document.cookie;
+        var zsource = "";
+        if (cookieval) {
+            var arr = cookieval.split(";");
+            if (arr.length) {
+                for (var i = 0; i < arr.length; i++) {
+                    var keyval = arr[i].split("=");
+                    if (keyval.length && keyval[0].indexOf("zsource") !== -1) {
+                        zsource = keyval[1].trim();
+                    }
+                }
+            }
+        }
+        if (typeof( validZSource[zsource] !== "undefined" )) {
+            LooperConfig['zsource'] = validZSource[zsource];
+        }
+    }
+
+    if (typeof( LooperConfig['zsource'] ) !== "undefined") {
+        LooperConfig['gaData']["dimension10"] = LooperConfig['zsource'];
+    }
+
+            googletag.cmd.push(function() {
+        var device = LoopGalObj.device;
+        var sessionDepth = false;
+
+        var bidpos = "";
+        var bidposprefix = "";
+                bidposprefix = "inf-";
+                bidpos += device + "-";
+        if (device == "tablet") {
+            bidpos += "landscape-"
+        }
+        bidpos += "sidebar-docked";
+
+        googletag.pubads().setTargeting('postID', ["233567"]);
+                googletag.pubads().setTargeting('category', ["gaming"]);
+                googletag.pubads().setTargeting('pageType', [""]);
+        googletag.pubads().setTargeting("device", [device]);
+        googletag.pubads().setTargeting( "pageLayout", LooperConfig.gaData['dimension1'] );
+        googletag.pubads().setTargeting( "contentType", LooperConfig.gaData['dimension2'] );
+        var sizes = [];
+        if ( typeof( OX ) !== "undefined" && typeof( OX.dfp_bidder ) !== "undefined" && typeof( OX.dfp_bidder.setOxTargeting ) !== "undefined" ) {
+            OX.dfp_bidder.setOxTargeting();
+        }
+
+        if ( typeof( Looper['zsource'] ) !== "undefined" ) {
+    googletag.pubads().setTargeting("zsource", Looper['zsource']);
+}
+        googletag.enableServices();
+    });
+
+    LooperConfig.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0}};
+
+    var apn_csa = apn_csa || {};
+    apn_csa.anq = apn_csa.anq || [];    
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-46354000-1', 'looper.com');
+    
+    ga('send', 'pageview', LooperConfig['gaData']);
+    if ( LooperConfig['gaData']["dimension7"] ) {
+        ga('send', 'event', 'AdBlock');
+    }
+
+        var nf = document.querySelector(".newsletter-form");
+    if ( nf ) {
+        nf.addEventListener("submit", function (e) {
+            var elForm = e.target;
+            e.preventDefault();
+            var input = document.querySelector(".newsletter-input");
+            if ( input ) {
+                LoopIn.ajax("/wp-content/themes/unified/pages/newsletter.php", "POST", function (r) {
+                    var response = JSON.parse( r );
+                    var sEls = document.querySelectorAll(".newsletter-success");
+                    for ( var i = 0; i < sEls.length; i++ ) {
+                        if ( LoopIn.isVisible( sEls[i] ) ) {
+                            sEls[i].style.display = "none";
+                        } else {
+                            sEls[i].style.display = "block";
+                        }
+                    }
+                    if (response.status != 200) {
+                        sEls = document.querySelectorAll(".newsletter-subscribed, .article-newsletter-subscribed");
+                        for ( i = 0; i < sEls.length; i++ ) {
+                            sEls[i].innerHTML = response.msg;
+                        }
+                    }
+                }, {
+                    email: input.value,
+                    ajax: 1
+                }); //Need to implement this, but only Looper should carry the code around
+            }
+            return false;
+        });
+    }
+    
+    var _qevents = _qevents || [];
+    var _comscore = _comscore || [];
+    _comscore.push({c1: "2", c2: "19130430"});
+    setTimeout( function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+        _qevents.push({
+            qacct: "p-8cV3w6ZJH0sXI"
+        });
+
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    }, 6000 );
+
+    		if (typeof( ZERG ) === "undefined") {
+        ZERG = {};
+    }
+    (function(){
+        var cookieValue = document.cookie.replace(/(?:(?:^|.*;\s*)eu_cookie\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+
+        if ( !cookieValue || parseFloat( cookieValue ) < 2.1 ) {
+            ZERG.zg = function (r) {
+                ZERG.zgResult = r;
+                if (r == "GO") {
+                    var n = document.getElementById("gdpr");
+                    if ( n ) {
+                        n.style.display = "block";
+                    }
+                } else {
+                    //SET COOKIE - 2 is didn't need GDPR
+                    document.cookie = "eu_cookie=2.1";
+                }
+            };
+            var s = document.createElement("SCRIPT");
+            s.src = "https://zergnet.com/zg";
+            document.body.appendChild( s );
+
+            var acceptGDPR = function( e ) {
+                e.preventDefault();
+                e.stopPropagation();
+
+                //SET COOKIE - 3 is agreed in Europe
+                document.cookie = "eu_cookie=3";
+
+                document.querySelector("#gdpr").style.display = "none";
+
+                return false;
+            };
+
+            var f = document.querySelector("#gdpr form");
+            if ( f ) {
+                f.addEventListener("submit",acceptGDPR);
+            }
+            var c = document.querySelector(".EUCookieNotice__close .icon");
+            if ( c ) {
+                c.addEventListener('click',acceptGDPR);
+            }
+        }
+    })();
+    };
+LoopGalObj = new LoopGal();
+Looper = new LoopAds({ready: LooperReady});
+})();
+</script>
+
+
+   </body>
+</html>

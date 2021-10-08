@@ -1,0 +1,408 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://newsroom.uw.edu/sites/all/themes/wire/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta about="/school/school-medicine" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="School of Medicine" />
+<meta name="description" content="Researchers have identified five immune response markers which, collectively created &quot;antibody signatures&quot; that could correctly classify both COVID-19 patients who recovered and those who did not survive the disease. Their study is published in the Cell Press journal Immunity. The senior authors are Galit Alter, group leaded at the Ragon Institute of Massachusetts General" />
+<link rel="canonical" href="https://newsroom.uw.edu/news/immune-response-markers-might-predict-covid-19-outcomes" />
+<link rel="shortlink" href="https://newsroom.uw.edu/node/8148" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://newsroom.uw.edu/news/immune-response-markers-might-predict-covid-19-outcomes" />
+<meta property="og:title" content="Immune response markers might predict COVID-19 outcomes" />
+<meta property="og:description" content="Researchers have identified five immune response markers which, collectively created &quot;antibody signatures&quot; that could correctly classify both COVID-19 patients who recovered and those who did not survive the disease. Their study is published in the Cell Press journal Immunity. The senior authors are Galit Alter, group leaded at the Ragon Institute of Massachusetts General Hospital, MIT and Harvard, and professor of medicine at Harvard Medical School, and Helen Chu, associate professor of medicine, Division of Allergy and Infectious Diseases. She is also a physician at UW Medicine." />
+<meta property="og:updated_time" content="2020-08-06T12:24:43-07:00" />
+<meta property="og:image:url" content="https://newsroom.uw.edu/sites/default/files/styles/social_media_2_1/public/covid_unit_crop_nwh.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@uwmnewsroom" />
+<meta name="twitter:url" content="https://newsroom.uw.edu/news/immune-response-markers-might-predict-covid-19-outcomes" />
+<meta name="twitter:title" content="Immune response markers might predict COVID-19 outcomes" />
+<meta name="twitter:description" content="Researchers have identified five immune response markers which, collectively created &quot;antibody signatures&quot; that could correctly classify both COVID-19 patients who recovered and those who did not" />
+<meta name="twitter:image" content="https://newsroom.uw.edu/sites/default/files/styles/social_media_2_1/public/covid_unit_crop_nwh.jpg" />
+<meta property="article:published_time" content="2020-08-06T10:31:58-07:00" />
+<meta property="article:modified_time" content="2020-08-06T12:24:43-07:00" />
+  <title>Immune response markers might predict COVID-19 outcomes | Newsroom</title>
+  <link type="text/css" rel="stylesheet" href="https://newsroom.uw.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.uw.edu/sites/default/files/css/css_5f4mTlQnReQiD_8uSxMd2TX4P_QtCNAWVM8tXSUfjo8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.uw.edu/sites/default/files/css/css_clROZCsOon6Xif9ZgG6FwAYjllvBMzNFkJO9SBSzzzw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.uw.edu/sites/default/files/css/css_z-wQwePehjbDo5RzU1XyKuUDNeACSExLCLpG-aVCPBk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.uw.edu/sites/default/files/css/css_JfKmqHFqe5Vp7GqUYAHru5UISYRzz9OSrxjWbnvDEdw.css" media="all" />
+  <script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_IVUE-ubSCANKfuM2L7J4jkZLRVRMmkU1RXmmrqamohY.js"></script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js"></script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_2jzGYx06a1cjkoQb3owxXnOS7Tv46KUaI-JBup_9c5I.js"></script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_D6wi2t1x9xlkqTqASccKrB0qTmviUTXsIu72aTEmeXg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-114358481-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_-oEDdwe4XpUqUj4W0KJs96ENaXIrGvjBvIP-WYYBi54.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all();da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};a2a_config.icon_color = "#613BA9";
+a2a_config.color_main = "#252e64";
+a2a_config.color_border = "#613BA9";
+a2a_config.color_link_text = "#613BA9";
+a2a_config.color_link_text_hover = "#613BA9";
+a2a_config.color_bg = "e8e8e8";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_4Bn1FHP0-cymhn72AeTIwKVvwp6nfSiB37Baj6OnuFw.js"></script>
+<script type="text/javascript" src="https://newsroom.uw.edu/sites/default/files/js/js_UNwHj3TXHSLc0-L1rnMVkbKr6PBmIKFsJwuzDGCV4v0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wire","theme_token":"lQAAiD5qE4aqdIr7nbC8C8nn4MnxTfh6gUeQKlD66n0","js":{"0":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/contrib\/date\/date_popup\/jquery.timeentry.pack.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/contrib\/extlink\/js\/extlink.js":1,"2":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/wire\/libraries\/headroom\/headroom.min.js":1,"sites\/all\/themes\/wire\/libraries\/headroom\/headroom.init.js":1,"sites\/all\/themes\/wire\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/wire\/css\/style.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"datePopup":{"edit-date-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"mm\/dd\/yy","yearRange":"-10:+3","fromTo":false,"defaultDate":"0y"}}},"CTools":{"dependent":{"edit-date-value":{"values":{"edit-date-op":["\u003C","\u003C=","=","\u003C\u003E","\u003E=","\u003E"]},"num":1,"type":"hide"},"edit-date-min":{"values":{"edit-date-op":["between","not between"]},"num":1,"type":"hide"},"edit-date-max":{"values":{"edit-date-op":["between","not between"]},"num":1,"type":"hide"}}},"urlIsAjaxTrusted":{"\/search":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","dropShadows":false},"plugins":{"touchscreen":{"behaviour":"1","mode":"always_active"},"smallscreen":{"mode":"window_width","breakpointUnit":"px","accordionButton":"0","title":"Main menu"},"supposition":true,"supersubs":true}}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-8148 node-type-news" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQVCPNJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  
+<div class="l-page">
+  <a id="page-top"></a>
+  <header class="l-header" role="banner">
+    <div class="container">
+      <div class="l-branding">
+                  <a href="/" title="Home" rel="home" class="site-logo"><img src="https://newsroom.uw.edu/sites/all/themes/wire/logo.png" alt="Home" /></a>
+        
+                              <div class="site-name">
+              <a href="/" title="Home" rel="home"><span>Newsroom</span></a>
+            </div>
+          
+          <div class="site-info">206.543.3620<span> | </span>mediarelations@uw.edu</div>
+
+                      <h2 class="site-slogan">News and information for journalists</h2>
+          
+        
+              </div>
+        <section class="region region-header">
+    <div id="block-social-media-social-media-two" class="block block-social-media block--social_media_two">
+
+      
+  <div class="content">
+    
+<div class="social-media-icons">
+
+	<ul>
+		
+					<li class="sm-twitter"><a href="https://twitter.com/uwmnewsroom" target="_blank" alt="Twitter"><span class="icon"></span><span class="social-text">Twitter</span></a></li>
+		
+		
+		
+		
+		
+					<li class="sm-email"><a href="/newsbeat-rss" target="_blank" alt="Contact"><span class="icon"></span><span class="social-text">Rss Feed</span></a></li>
+			</ul>
+</div>
+
+
+  </div>
+</div><div id="block-search-tools-search-tools-exposed-form" class="block block-search-tools block--search_tools_exposed_form">
+
+      
+  <div class="content">
+    <form class="header-search-form" action="/search" method="get" id="views-exposed-form-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-fulltext">
+ <input placeholder="Search" type="text" id="edit-fulltext" name="fulltext" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-date-wrapper" class="views-exposed-widget views-widget-filter-field_date">
+                  <label for="edit-date">
+            Date          </label>
+                          <div class="views-operator">
+            <div class="form-item form-type-select form-item-date-op">
+  <select id="edit-date-op" name="date_op" class="form-select"><option value="&lt;">Is less than</option><option value="&lt;=">Is less than or equal to</option><option value="=" selected="selected">Is equal to</option><option value="&lt;&gt;">Is not equal to</option><option value="&gt;=">Is greater than or equal to</option><option value="&gt;">Is greater than</option><option value="empty">Is empty</option><option value="not empty">Is not empty</option><option value="between">Is between</option><option value="not between">Is not between</option></select>
+</div>
+          </div>
+                <div class="views-widget">
+          <div  class="container-inline-date"><div class="form-item form-type-date-popup form-item-date">
+ <div id="edit-date"  class="date-padding"><div class="form-item form-type-textfield form-item-date-value">
+  <input type="text" id="edit-date-value" name="date[value]" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-date-min">
+  <input type="text" id="edit-date-min" name="date[min]" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-date-max">
+  <label for="edit-date-max">And </label>
+ <input type="text" id="edit-date-max" name="date[max]" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-date-date">
+  <label for="edit-date-datepicker-popup-0">Date </label>
+ <input type="text" id="edit-date-datepicker-popup-0" name="date[date]" value="" size="20" maxlength="30" class="form-text" />
+<div class="description"> E.g., 10/08/2021</div>
+</div>
+</div>
+</div>
+</div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search" name="" value="Search" class="form-submit" /><button type="submit" class="search-submit"><i class="fa fa-search"></i></button>    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form>  </div>
+</div>  </section>
+        <nav class="region region-navigation" role="navigation">
+    <div id="block-superfish-1" class="block block-superfish block--1">
+
+      
+  <div class="content">
+    <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-2 sf-single-items-3"><li id="menu-480-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/news" title="" class="sf-depth-1 menuparent">News</a><ul><li id="menu-552-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" title="" class="sf-depth-2">News Releases</a></li><li id="menu-1187-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/postscript" title="" class="sf-depth-2">Blog</a></li><li id="menu-694-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/media-coverage" title="" class="sf-depth-2">Media Coverage</a></li></ul></li><li id="menu-704-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/search/audio-video?sort=field_date&amp;order=desc" title="" class="sf-depth-1 menuparent">Videos</a><ul><li id="menu-1191-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/search/audio-video?sort=field_date&amp;order=desc" title="" class="sf-depth-2">News Videos</a></li><li id="menu-1192-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/videos/generic-b-roll-video-files" class="sf-depth-2">Generic B-roll</a></li></ul></li><li id="menu-705-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/search/photo?sort=field_date&amp;order=desc" title="" class="sf-depth-1">Photos</a></li><li id="menu-554-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/contact-and-staff" class="sf-depth-1">Contact</a></li><li id="menu-1188-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/subscribe-our-newsletter" title="" class="sf-depth-1">Subscribe</a></li></ul>  </div>
+</div>  </nav>
+    </div>
+  </header>
+
+  
+
+  <div class="l-main" >
+    
+    <main class="l-content" role="main">
+                        <div class="content-header">
+
+        
+        <a id="main-content"></a>
+
+                          <h1 class="page-title">Immune response markers might predict COVID-19 outcomes</h1>
+                              </div>
+
+        <section class="region region-content">
+    <div id="block-system-main" class="block block-system block--main">
+
+      
+  <div class="content">
+    <div  about="/news/immune-response-markers-might-predict-covid-19-outcomes" typeof="sioc:Item foaf:Document" class="ds-3col-stacked-fluid node node-news node-promoted view-mode-full group-one-sidebar group-sidebar-right clearfix">
+
+  
+  <div class="group-header">
+    <div class="field field-name-section-news-release field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3 class="section-title">News Release</h3></div></div></div><div class="field field-name-field-schools field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div  class="ds-1col taxonomy-term vocabulary-school view-mode-default clearfix">
+
+  
+  <div class="field field-name-field-school-logo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://newsroom.uw.edu/sites/default/files/styles/medium/public/uw-school-of-med_2.png?itok=3dzyEzU0" width="220" height="95" alt="" /></div></div></div></div>
+
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-08-06T00:00:00-07:00">August 6, 2020</span></div></div></div><div class="field field-name-field-release-type field-type-list-text field-label-hidden immediate_release"><div class="field-items"><div class="field-item even">For immediate release</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1>Immune response markers might predict COVID-19 outcomes</h1></div></div></div><div class="field field-name-field-intro-paragraph field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Five markers of humoral immune response correctly classified which patients did and did not survive their pandemic coronavirus infection.</p>
+</div></div></div><div class="field field-name-field-media-contact field-type-text-long field-label-inline clearfix"><div class="field-label">Media Contact:&nbsp;</div><div class="field-items"><div class="field-item even"><ul>
+<li>Ragon Institute:  Rachel Leeson, 617. 945.6895, <a href="mailto:rleeson1@mgh.harvard.edu">rleeson1@mgh.harvard.edu</a></li>
+<li>UW Medicine:  Leila Gray, 206.475.9809, <a href="mailto:leilag@uw.edu">leilag@uw.edu</a></li>
+</ul>
+</div></div></div>  </div>
+
+  
+      <div class="group-middle">
+      <div class="field field-name-print field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/print/8148" title="print this page" class="print-page" target="_blank" rel="nofollow"><span class="a2a_svg a2a_s__default a2a_s_print" style="background-color: rgb(97, 59, 169);"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M22.5 19.59V24h-13v-4.41z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path><path d="M9.44 21.12H6.38a.8.8 0 0 1-.87-.7v-7.35a.8.8 0 0 1 .88-.7h19.23a.8.8 0 0 1 .88.7v7.35a.8.8 0 0 1-.88.7h-3.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path><path d="M22.5 12.32V8h-13v4.28" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path></svg></span></a></div></div></div><div class="field field-name-addtoany field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><span class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="da2a_1">
+      <a class="a2a_button_email"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+      <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fnewsroom.uw.edu%2Fnews%2Fimmune-response-markers-might-predict-covid-19-outcomes&amp;title=Immune%20response%20markers%20might%20predict%20COVID-19%20outcomes"></a>
+      
+    </span>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(window.da2a)da2a.script_load();
+//--><!]]>
+</script></div></div></div><div class="field field-name-field-featured-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://newsroom.uw.edu/sites/default/files/covid_unit_crop_nwh.jpg" title="COVID-19 unit at a UW Medicine hospital" class="colorbox" data-colorbox-gallery="gallery-node-8148-QaNms_Ft-V4" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;COVID-19 unit at a UW Medicine hospital&quot;}"><img typeof="foaf:Image" src="https://newsroom.uw.edu/sites/default/files/styles/feature/public/covid_unit_crop_nwh.jpg?itok=BFrndy6m&amp;c=db00defa9b6b8b459d337d26d046508e" alt="COVID-19 unit at a UW Medicine hospital" title="" /></a></div></div></div><div class="field field-name-field-featured-image-credit field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Randy Carnell / UW Medicine</div></div></div><div class="field field-name-field-featured-image-caption field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">A nurse cares for a patient in a  COVID-19 unit at a UW Medicine hospital. </div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Researchers have identified five immune response markers which, collectively created "antibody signatures" that could correctly classify both COVID-19 patients who recovered and those who did not survive the disease.</p>
+<p>Their study is published in the Cell Press journal <a href="https://www.sciencedirect.com/science/article/pii/S1074761320303277" target="_blank">Immunity.</a>  The senior authors are Galit Alter, group leaded at the Ragon Institute of Massachusetts General Hospital, MIT and Harvard, and professor of medicine at Harvard Medical School, and Helen Chu, associate professor of medicine, Division of Allergy and Infectious Diseases.  She is also a physician at UW Medicine.</p>
+<p>Chu’s team was responsible for the enrollment, specimen collection, and management of the clinical work in this study. They collected samples from hospitalized COVID-19 patients in the earlier months of the coronavirus pandemic in the Seattle area. The study used samples from 22 individuals, 12 of whom recovered, and 10 of whom died.</p>
+<p>Alter’s team in the greater Boston area used her systems serology technique, an approach that relies on 60-plus assays to create a detailed profile of the immune response, to compare the immune responses of those who had survived to those who had not.</p>
+<p>“Any given feature tells only a small part of the story. By looking at the overall profile of the immune response, we can begin to truly understand how the immune system responds to COVID-19 and then use that knowledge to prevent the worst outcomes of this disease,” said Alter.</p>
+<p>The virus that causes COVID-19, SARS-CoV-2, has two main proteins that provoke a response from the humoral immune system, which is responsible for antibody production. They are the spike (S) protein and the nucleocapsid (N) protein.</p>
+<p>“Most vaccine candidates in development are designed to elicit antibodies against spike antigen, which is the response we observed with individuals who survived natural infection,” Chu said. The N protein is produced at significantly higher levels in the virus than the S protein, but previous studies have shown that an immune response to the N protein does not provide protection against the pandemic coronavirus,  SARS-CoV-2.</p>
+<p> Alter’s lab compared the immune responses from the recovered individuals to the deceased. Her lab found that patients who had recovered had a humoral immune response that responded mostly to S protein, while patients who died had a shift in immunodominance such that that they had a stronger immune response to the N protein.</p>
+<p>“The shift in immunodominance was only apparent after comparing robust, detailed profiles of the immune response from different groups of patients,” Alter said.</p>
+<p>This immunodominance shift could be detected by measuring five immune response markers: IgM and IgA1 responses to S protein and antibody-dependent complement deposit, IgM, and IgA2 response to N protein.</p>
+<p>With these five markers, researchers built a model that could correctly classify clinical samples as belonging to deceased or convalesced individuals. To verify this model, 40 clinical COVID-19 samples from Boston, 20 from convalesced individuals and 20 from deceased patients, were assayed.</p>
+<p>The results showed the same S protein to N protein shift in immunodominance in deceased individuals compared to convalesced ones. Furthermore, in the samples analyzed, this immunodominance shift was more predictive of recovery or death than demographic factors such as age or sex.</p>
+<p>“Finding these early antibody signatures also may have implications for assessing COVID-19 vaccine candidates to ensure they produce an immune response similar to that of individuals who survive natural infection," Chu said.</p>
+<p>How these predictive immune markers may be influenced by risk factors of COVID-19, time course of infection, or severity of disease is yet to be determined. Nonetheless, this study provides a potential way to identify patients at high risk for mortality based on individual immune responses and may drive help rational vaccine design.  </p>
+<p>###</p>
+<p>For inquiries about Galit Alter’s work and the Ragon Institute, contact: Rachel Leeson at 617.945.6895 or <a href="mailto:rleeson1@mgh.harvard.edu">rleeson1@mgh.harvard.edu</a></p>
+<p>For inquires about Helen Chu’s work and UW Medicine, contact: Leila Gray at 206.475.9809 or <a href="mailto:leilag@uw.edu">leilag@uw.edu</a></p>
+<p> </p>
+<p><strong>About the Ragon Institute of MGH, MIT and Harvard</strong><br />
+The Ragon Institute of MGH, MIT and Harvard was established in 2009 with a gift from the Phillip T. and Susan M. Ragon Foundation, creating a collaborative scientific mission among these institutions to harness the immune system to combat and cure human diseases. With a focus on HIV and infectious diseases, the Ragon Institute draws scientists, clinicians and engineers from diverse backgrounds and areas of expertise to study and understand the immune system with the goal of benefiting patients.  For more information, visit <a href="http://www.ragoninstitute.org">www.ragoninstitute.org</a></p>
+<p><strong>About UW Medicine</strong></p>
+<p>UW Medicine is one of the top-rated academic medical systems in the world. With a mission to improve the health of the public, UW Medicine educates the next generation of physicians and scientists, leads one of the world’s largest and most comprehensive biomedical research programs, and provides outstanding care to patients from across the globe. The School of Medicine faculty is second in the nation in federal research grants and contracts with $923.1 million in total revenue (fiscal year 2018) according to the Association of American Medical Colleges.</p>
+</div></div></div><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Category:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/category/research" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Research</a></div></div></div><div class="field field-name-end-of-story field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>###</p>
+<p>For details about UW Medicine, please visit <a href="http://uwmedicine.org/about">http://uwmedicine.org/about</a>.</p>
+</div></div></div>    </div>
+  
+      <div class="group-right">
+      <div class="field field-name-latest-news field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div id="block-views-news-block-1" class="block block-views block--news-block_1">
+
+        <h3>Latest news</h3>
+    
+  <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-e6c18d5d4134e29e825634f339a7aef9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <div class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-10-06T00:00:00-07:00">10/06/2021</span></div>    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/usaid-monitors-animal-viruses-pandemic-potential">USAID monitors for animal viruses with pandemic potential </a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <div class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-09-30T00:00:00-07:00">09/30/2021</span></div>    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/new-program-led-dr-ben-danielson-keep-youth-out-jail">Program led by Dr. Ben Danielson to keep youth out of jail</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <div class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-09-30T00:00:00-07:00">09/30/2021</span></div>    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/computational-virologist-named-macarthur-fellow">Computational virologist named MacArthur Fellow</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <div class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-09-28T00:00:00-07:00">09/28/2021</span></div>    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/animals-motion-toolkit-tracks-behavior-3d">Animals in motion: Toolkit tracks behavior in 3D</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+          <div class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-09-23T00:00:00-07:00">09/23/2021</span></div>    
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/jeannine-grinnell-named-ceo-valley-medical-center">Jeannine Grinnell named CEO at Valley Medical Center</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news/8148">
+    More &gt;  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div></div></div></div>    </div>
+  
+  <div class="group-footer">
+      </div>
+
+</div>
+
+  </div>
+</div>  </section>
+          </main>
+
+    
+                  </div>
+      </div>
+
+  
+  
+  <footer class="l-footer" role="contentinfo">
+
+        <div class="container footer-secondary">
+                <section class="region region-footer-a">
+    <div id="block-menu-menu-footer-contact" class="block block-menu block--menu-footer-contact">
+
+        <h3>Contact</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/contact-and-staff" title="">Contact Us</a></li>
+<li class="leaf"><a href="/directions">Directions</a></li>
+<li class="last leaf"><a href="/subscribe-our-newsletter">Subscribe</a></li>
+</ul>  </div>
+</div>  </section>
+                      <section class="region region-footer-b">
+    <div id="block-menu-menu-footer-news" class="block block-menu block--menu-footer-news">
+
+        <h3>News</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/news" title="">News Releases</a></li>
+<li class="leaf"><a href="/postscript" title="">Blog</a></li>
+<li class="last leaf"><a href="/media-coverage" title="">Media Coverage</a></li>
+</ul>  </div>
+</div>  </section>
+                      <section class="region region-footer-c">
+    <div id="block-menu-menu-footer-media-resources" class="block block-menu block--menu-footer-media-resources">
+
+        <h3>Multimedia</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/search/audio-video?sort=field_date&amp;order=desc" title="">Videos</a></li>
+<li class="last leaf"><a href="/search/photo?sort=field_date&amp;order=desc" title="">Photos</a></li>
+</ul>  </div>
+</div>  </section>
+                      <section class="region region-footer-d">
+    <div id="block-menu-menu-footer-about" class="block block-menu block--menu-footer-about">
+
+        <h3>About</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/about-uw-medicine">About UW Medicine</a></li>
+<li class="leaf"><a href="/about-newsroom">About Newsroom</a></li>
+<li class="last leaf"><a href="/practices-policies">Practices &amp; Policies</a></li>
+</ul>  </div>
+</div>  </section>
+                      <section class="region region-footer-e">
+    <div id="block-social-media-social-media" class="block block-social-media block--social_media">
+
+        <h3>Social Media</h3>
+    
+  <div class="content">
+    
+<div class="social-media-icons">
+
+	<ul>
+		
+					<li class="sm-twitter"><a href="https://twitter.com/uwmnewsroom" target="_blank" alt="Twitter"><span class="icon"></span><span class="social-text">Twitter</span></a></li>
+		
+		
+		
+		
+		
+					<li class="sm-email"><a href="/newsbeat-rss" target="_blank" alt="Contact"><span class="icon"></span><span class="social-text">Rss Feed</span></a></li>
+			</ul>
+</div>
+
+
+  </div>
+</div><div id="block-block-7" class="block block-block block--7">
+
+      
+  <div class="content">
+    <p><a href="/social-media-channels">Other UW Medicine channels</a></p>
+  </div>
+</div>  </section>
+      
+      <div class="logo--uw-medicine">
+        <img src="/sites/all/themes/wire/images/logo-uw-medicine-white.png" alt="UW Medicine">
+      </div>
+      <div class="logo--uw">
+          </div>
+    </div>
+    
+    <div class="footer-primary">
+      <div class="container">
+          <section class="region region-footer">
+    <div id="block-block-3" class="block block-block block--3">
+
+      
+  <div class="content">
+    <p class="rtecenter">Copyright 2020 University of Washington | Seattle | All rights reserved | <a href="/privacy-terms">Privacy</a><a href="http://newsroom.parallelpublicworks.com/privacy-terms"> &amp; Terms</a> </p>
+  </div>
+</div>  </section>
+      </div>
+    </div>
+    <div id="back-to-top" class="back-to-top"><a href="#main-content"><i class="icon"></i></a></div>
+
+  </footer>
+</div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+da2a.targets=[
+{title:"Immune response markers might predict COVID-19 outcomes",url:"https:\/\/newsroom.uw.edu\/news\/immune-response-markers-might-predict-covid-19-outcomes"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();
+//--><!]]>
+</script>
+</body>
+</html>

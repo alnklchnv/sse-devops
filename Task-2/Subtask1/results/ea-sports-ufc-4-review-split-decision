@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<title>EA Sports UFC 4 review: Split decision | Shacknews</title>
+	<link rel="canonical" href="https://www.shacknews.com/article/119781/ea-sports-ufc-4-review-split-decision" />
+<link rel="amphtml" href="https://www.shacknews.com/article/119781/ea-sports-ufc-4-review-split-decision?amphtml=1">
+
+
+	<meta name="description" content="EA Sports UFC 4 improves on some of the core gameplay concepts from past titles, but will it be enough to get the decision?" />
+	<meta property="og:description" content="EA Sports UFC 4 improves on some of the core gameplay concepts from past titles, but will it be enough to get the decision?"/>
+	<meta itemprop="description" content="EA Sports UFC 4 improves on some of the core gameplay concepts from past titles, but will it be enough to get the decision?"/>
+	<meta name="twitter:description" content="EA Sports UFC 4 improves on some of the core gameplay concepts from past titles, but will it be enough to get the decision?">
+
+	<meta property="og:title" content="EA Sports UFC 4 review: Split decision"/>
+	<meta name="twitter:title" content="EA Sports UFC 4 review: Split decision">
+	<meta itemprop="name" content="EA Sports UFC 4 review: Split decision"/>
+
+	<meta property="og:image" content="https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg"/>
+	<meta itemprop="image" content="https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg"/>
+	<meta itemprop="twitter:image" content="https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg"/>
+
+	<meta name="twitter:card" content="summary_large_image"/>
+
+
+
+<meta name="twitter:site" content="@shacknews">
+
+<meta property="og:site_name" content="Shacknews"/>
+
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+
+	<link rel="stylesheet" type="text/css" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/css/style.css">
+
+<script>
+var STATIC_URL = "https:\/\/d1lss44hh2trtw.cloudfront.net\/deploy\/www-5b3dd10\/";
+</script>
+<script src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/js/app-built.js" type="text/javascript"></script>
+	<link rel="apple-touch-icon" sizes="57x57" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-84133604-2"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-52037-2');
+</script>
+	<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "24936062" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=24936062&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+	<script>
+var adUnits = {
+	'skin': [''],
+	'300x250': [
+		'<a href="/mercury/overview"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/mercury/lola-ad-campaign300x600@1x.jpg" /></a>',
+		'<a href="/mercury/overview"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/mercury/lola-ad-campaign300x250@1x.jpg" /></a>',
+	],
+	'300': [
+		'<a href="/mercury/overview"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/mercury/lola-ad-campaign300x250@1x.jpg" /></a>',
+	],
+	'728x90': ['']
+}
+
+// var adUnits = {
+// 	'skin': [''],
+// 	'300x250': [
+// 		'<a href="https://store.steampowered.com/app/1117350/GALAHAD_3093/"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/ad/galahad/galahad-mobile.jpg" /></a>',
+// 		'<a href="https://store.steampowered.com/app/1117350/GALAHAD_3093/"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/ad/galahad/galahad-article.jpg" /></a>',
+// 	],
+// 	'300': [
+// 		'<a href="https://store.steampowered.com/app/1117350/GALAHAD_3093/"><img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/ad/galahad/galahad-article.jpg" /></a>',
+// 	],
+// 	'728x90': ['']
+// }
+</script>	
+<script type="text/javascript">
+	function loadAdUnit(size, rand) {
+		var adWrapper = document.getElementById('adUnit-' + rand);
+		var display = window.getComputedStyle(adWrapper).display;
+		if (size === 'skin' || display !== "none") {
+			unit = adUnits[size].splice(0, 1);
+			adWrapper.innerHTML += unit;
+		}
+	}
+</script>
+</head>
+<body class="tmpl-light side-menu ">
+	<div class="adUnit" id="adUnit-2068866618">
+<script>loadAdUnit('skin', 2068866618);</script>
+</div>
+	
+<a target="_blank" class="takeover-skin active" href="/mercury/overview">
+	<img src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/ad/lola-ad-campaignsite-skin.jpg" />
+</a>
+
+
+<div id="page" class="page theme2 takeover">
+<script>
+var theme = localStorage.getItem('theme');
+if (theme) {
+	document.getElementById('page').classList.remove('theme2');
+	document.getElementById('page').classList.add(theme);
+}
+</script>
+	
+<div class="modal login">
+	<div class="close-modal cover"></div>
+	<div class="modal-container-outer">
+		<div class="modal-container">
+			<iframe data-src="/login/login"></iframe>
+			<p>New to Shacknews? <a class="tog-register" href="javascript:;" onclick>Signup for a Free Account</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="modal register">
+	<div class="close-modal cover"></div>
+	<div class="modal-container-outer">
+		<div class="modal-container">
+			<iframe data-src="/login/register"></iframe>
+			<p>Already have an account? <a class="tog-login" href="javascript:;" onclick>Login Now</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="modal search">
+	<div class="close-modal cover"></div>
+	<div class="modal-container-outer">
+		<div class="modal-container">
+			<div class="search-form">
+				<form method="get" action="/editorial-search/" class="ignore-form-style">
+					<input id="main-search-input" name="q" type="text" placeholder="Search" />
+					<span class="tmpl-icon mini"></span>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<header class="primary">
+	<div class="header-top">
+		<div class="in">
+			<div class="grim-fandango"><a href="/article/120856/2021-video-game-release-dates-calendar"><span class="nh2">2021 video game release dates calendar</span></a><a href="/article/101225/destiny-2-complete-strategy-guide"><span class="nh2">Destiny 2 Complete Strategy Guide</span></a><a href="/article/124781/shacknews-celebrates-25-years-of-quake"><span class="nh2">Shacknews celebrates 25 Years of Quake</span></a><a href="/article/121865/cyberpunk-2077-guide-and-walkthrough"><span class="nh2">Cyberpunk 2077 guide and walkthrough</span></a></div>
+
+			<div class="social">
+								<a href="javascript:;" class="toggle-lola"><span>Lola</span><span class="tmpl-icon mini"></span></a>
+				
+				<ul>
+					<li class="facebook"><a href="https://www.facebook.com/shacknews"><span class="tmpl-icon mini"></span><span class="brand-name">Facebook</span></a></li>
+					<li class="twitter"><a href="https://twitter.com/shacknews"><span class="tmpl-icon mini"></span><span class="brand-name">Twitter</span></a></li>
+					<li class="youtube"><a href="https://www.youtube.com/user/Shacknewsgames"><span class="tmpl-icon mini"></span><span class="brand-name">Youtube</span></a></li>
+					<li class="twitch"><a href="http://www.twitch.tv/shacknews"><span class="tmpl-icon mini twitch-icon"></span><span class="brand-name">Twitch</span></a></li>
+					<li class="rss"><a href="https://www.shacknews.com/feed/rss"><span class="tmpl-icon mini"></span><span class="brand-name">Subscribe</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="header-bottom">
+		<div class="in">
+			<div class="logo"><a href="https://www.shacknews.com/"><img alt="Shacknews Logo" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/brand/project-logo.png" /></a></div>
+			<div class="logo alt"><a href="https://www.shacknews.com/"><img alt="Shacknews Logo" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/brand/project-logo-alt.png" /></a></div>
+			<div class="primary-menu-button tmpl-icon mini"></div>
+			<div class="mobile-modal header-bottom-right">
+				<div class="close-modal cover"></div>
+				<div class="modal-container-outer">
+					<div class="modal-container">
+						<div class="tools">
+							<ul>
+																<li class="expandable"><a href="javascript:;" onclick class="theme-switcher"><span class="flex-me"><span class="tmpl-icon mini"></span> <span class="mobile-only">Theme</span></span></a></li>
+																								<li class="expandable"><a href="/cortex/articles"><span class="flex-me"><span class="tmpl-icon mini"></span> <span class="mobile-only">Cortex</span></span></a></li>
+								<li><a href="javascript:;" onclick class="tog-login"><span class="tmpl-icon mini"></span> <span>Log In / Register</span></a></li>
+								<li>
+																		<a href="/chatty"><span class="tmpl-icon mini"></span> <span>Forum: Posts today 29</span></a>
+																	</li>
+																<li class="expandable drop-down-parent">
+									<a href="javascript:;" onclick class="drop-down-heading"><span class="flex-me"><span class="tmpl-icon mini"></span> <span class="mobile-only">Topics</span></span></a>
+									<ul class="drop-down">
+										<li><a href="/topic/review/">Reviews</a></li>
+										<li><a href="/topic/news/">News</a></li>
+										<li><a href="/topic/video/">Videos</a></li>
+										<li><a href="/topic/guide/">Guides</a></li>
+										<li><a href="/topic/podcast/">Podcasts</a></li>
+										<li><a href="/topic/feature/">Features</a></li>
+										<li><a href="/topic/long-read/">Long Reads</a></li>
+									</ul>
+								</li>
+								<li class="expandable"><a href="javascript:;" onclick class="tog-search"><span class="flex-me"><span class="tmpl-icon mini"></span> <span class="mobile-only">Search</span></span></a></li>
+							</ul>
+						</div>
+						<nav class="primary">
+							<ul class="tags">
+																<li><a href="/topic/destiny-2">Destiny 2</a></li>
+																<li><a href="/topic/nintendo-switch-oled-model">Nintendo Switch OLED</a></li>
+																<li><a href="/topic/gme">GME</a></li>
+																<li><a href="/topic/ps5">PS5</a></li>
+																<li><a href="/topic/metroid-dread">Metroid Dread</a></li>
+																<li><a href="/topic/black-lives-matter">Black Lives Matter</a></li>
+															</ul>
+						</nav>
+						<div class="grim-fandango"><a href="/article/120856/2021-video-game-release-dates-calendar"><div class="nh2">2021 video game release dates calendar</div></a><a href="/article/101225/destiny-2-complete-strategy-guide"><div class="nh2">Destiny 2 Complete Strategy Guide</div></a><a href="/article/124781/shacknews-celebrates-25-years-of-quake"><div class="nh2">Shacknews celebrates 25 Years of Quake</div></a><a href="/article/121865/cyberpunk-2077-guide-and-walkthrough"><div class="nh2">Cyberpunk 2077 guide and walkthrough</div></a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</header>
+	
+<article id="detail-view">
+	<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"Article","url":"https:\/\/www.shacknews.com\/article\/119781\/ea-sports-ufc-4-review-split-decision","mainEntityOfPage":true,"headline":"EA Sports UFC 4 review: Split decision","datePublished":"2020-08-14T00:01:00-07:00","dateModified":"2020-08-14T00:29:39-07:00","publisher":{"@type":"Organization","name":"Shacknews","logo":{"@type":"ImageObject","url":"https:\/\/d1lss44hh2trtw.cloudfront.net\/deploy\/www-5b3dd10\/brand\/project-logo.png"}},"author":{"@type":"Person","name":"Bill Lavoy"},"image":{"@type":"ImageObject","url":"https:\/\/d1lss44hh2trtw.cloudfront.net\/assets\/article\/2020\/08\/13\/ufc-4-review_feature.jpg","width":1920,"height":1080},"review":{"@context":"http:\/\/schema.org","@type":"Review","author":{"@type":"Person","name":"Bill Lavoy"},"reviewRating":{"@type":"Rating","worstRating":0,"bestRating":10,"ratingValue":"7"},"itemReviewed":{"@type":"Product","name":"EA Sports UFC 4"}}}</script>
+									<div class="drama">
+				
+<div class="article-image banner" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg')">
+	<div class="overlay cover"></div>
+	<img class="spacer" src="https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg"/>
+</div>
+<div class="article-lead-content">
+	<div class="article-lead-top">
+					<ul class="tags">
+									<li><a href="https://www.shacknews.com/topic/review/">Review</a></li>
+									<li><a href="https://www.shacknews.com/topic/feature/">Feature</a></li>
+							</ul>
+			</div>
+	<div class="article-lead-middle">
+		<div class="article-lead-bottom-content">
+			<h1 class="article-title">EA Sports UFC 4 review: Split decision</h1>
+			<description><p>EA Sports UFC 4 improves on some of the core gameplay concepts from past titles, but will it be enough to get the decision?</p></description>
+		</div>
+	</div>
+	<div class="article-lead-bottom">
+		<div class="meta">
+			<div class="attribution">
+									<a href="https://www.shacknews.com/author/bill-lavoy" class="author-pic" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/author/2018/08/07/rumpoplays_512x512.png')"></a>
+								<div class="by-line">
+					<address class="nh3"><a href="https://www.shacknews.com/author/bill-lavoy">Bill Lavoy</a></address>
+				</div>
+			</div>
+			<div class="time-stamp"><time datetime="2020-08-14T00:01:00-07:00">August 14, 2020 12:01 AM</time></div>
+						<div class="tools">
+								<a href="#chatty" class="chatty-thread">1</a>
+			</div>
+		</div>
+		<div class="addthis_inline_share_toolbox"></div>
+	</div>
+</div>
+			</div>
+												
+		<section class="article-content">
+		<div class="article-content-wrapper in">
+			<main>
+												<p>The more I think about it, sports video games and their marketing leading up to release is like listening to a fighter about to step into the Octagon on fight week. It&rsquo;s always the best camp they&rsquo;ve ever had, they&rsquo;ve never been in this good of shape, and the weight cut was a breeze. After the fight you find out they had a staph infection and broken rib and it was a miracle that they even made it to fight night.</p>
+<p>In the lead up to the release of EA Sports UFC 4, I was offered several looks at the game, and as is usually the case, all the right things were said. UFC 4 was more accessible via grapple assist and easier striking inputs, submissions were more intuitive, and connected profiles meant players could earn customization XP across all game modes. I&rsquo;m happy to report that the pre-release talk was true, but that doesn&rsquo;t mean there aren&rsquo;t some holes that prevent UFC 4 from reaching its potential.</p>
+<h2>Pre-fight preparations</h2>
+<p><iframe width="1889" height="729" src="https://www.youtube.com/embed/AWi6asRnBhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>UFC 4 comes with all the bells and whistles that you&rsquo;d expect from an MMA video game, including new game modes like the online Blitz Battles, cool locations such as the Kumite and Backyard, and novelty fighters that include Tyson Fury, Anthony Joshua, Kimbo Slice (RIP), and even Dana White. That&rsquo;s just paint to make it all look pretty, though, as the true focus of UFC 4 is in its Career Mode and fighter customization.</p>
+<p>In fact, UFC 4 kicks off with players creating a fighter. You&rsquo;ll choose your sex, weight class, shorts, gloves, mouthpiece, walkout music, emotes, and more. Then, it&rsquo;s time to meet Coach Davis, the guy who is going to teach you the ins and outs of the fight game and hopefully coach you to a title. I decided to go with a heavyweight boxer named Bam Bam, and even secured the @BamBamMMA for my in-game social media handle.</p>
+<p>Coach Davis watched me lose an amateur fight, but since he loved my toughness, invited me to his gym to train me personally. This kicked off tutorials to learn the basic moves and disciplines of MMA, and each lesson was followed by an amateur fight against an opponent who specialized in those skills. It provided a good understanding of what MMA is and prepared me for the game&rsquo;s new systems and controls. For those who need a bit more help, there are tutorials in the menu, and a practice mode.</p>
+<h2>Welcome to the UFC</h2>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ibmBvfQDGWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Soon I was given a fight in front of UFC boss Dana White to try for a spot in the UFC. I won by knockout and was offered a contract. While it is possible to get into the WFA, a lesser known MMA organization, then work your way to the UFC, Dana saw something in me and signed me immediately. This kicked off a UFC career where I dominated as champion for the bulk of the experience. I played on normal difficulty and could have cranked it up , but I like my virtual face punching to be more chill than intense.</p>
+<p>Once I accepted my first UFC fight, I had to partake in my first fight camp, and each one lasts several in-game weeks. Players must do things like promote the fight, spar with training partners, invite UFC fighters to camp to learn new moves, and study tapes on upcoming opponents. This is also where the game&rsquo;s social media mechanic lives, as well as the option to spend earned points to upgrade skills and buy perks.</p>
+<p>Career Mode, unfortunately, has a few issues that drag the overall experience down. Players will spend a lot of time in fight camps between fights, meaning the bulk of a player&rsquo;s time is likely to take place in menus and sparring instead of in the Octagon. Sparring is fun, as it allows you to learn new moves and improve the ones you already know, but when you&rsquo;re sparring four or five times a camp, and each session is two minutes long, that&rsquo;s 10 minutes alone assuming you don&rsquo;t restart to try again.</p>
+<p>When players aren&rsquo;t sparring, they can watch tapes of their opponents, which I found useless as someone who follows MMA and already knows what each fighter specializes in, although I can see the benefit for those who don&rsquo;t. You don&rsquo;t actually watch tape, though, you just press a button and some text appears.</p>
+<p>Fight camps are rounded out by promoting fights, connecting with other fighters, inviting them to camp, and a social media mechanic that is supposed to impact your career depending on your choices. All lack depth or consequence besides inviting fighters to camp to train with you. Sure, promoting fights helped me earn more money, but once I had millions in earnings, I didn&rsquo;t care. Yes, there was one time I was able to reply to a fighter on social media, and we fought, but it happened once in a career that spanned north of 25 fights.</p>
+<p>The redeeming part of fight camp for me was learning moves from other fighters and sparring to upgrade them, even if it was time consuming. I was able to pay fighters to come to camp and show me moves, then add those moves to my arsenal. Once I&rsquo;d learned all the moves I wanted, I started having fighters come to camp so I could start feuds by knocking them out. I slept Allistair Overeem trying to start a beef, then knocked out Johnny Walker twice and submitted him once in the same camp. Nothing came of it.</p>
+<h2>Brawling in the Backyard</h2>
+<figure class="image article-image"><img src="https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2020/08/ufc-4-ps4-review.jpg" alt="" caption="true" />
+<figcaption></figcaption>
+</figure>
+<p>Stepping out of Career Mode to try some of the other options, including various online modes, is a breath of fresh air. As a personal preference, I don&rsquo;t care to spend a lot of time in any sports game&rsquo;s online modes, but I appreciate UFC 4 online in small doses. There are options like Quick Fight to get right to the action with either MMA rules, Knockout Mode, or Stand and Bang. There&rsquo;s also Online World Championships that includes leaderboards and belts, and the new Blitz Battles which is a fast-paced tournament where fights are quick, and the rules rotate. Your fighter profile follows you wherever you go, and it was neat to bring my heavyweight created fighter into an online match as a welterweight.</p>
+<p>My online connection to my opponents was always good. I was able to find fights quickly, even before the game came out and player population would be low. It&rsquo;s just that I don&rsquo;t crave that person-to-person combat, and the reward for competing is XP to unlock cosmetics, which I also don&rsquo;t care about. Maybe it&rsquo;s just me pushing 40, but I don&rsquo;t see incentive to play online. Sure, you unlock cosmetics and can edit your connected profile anywhere, but I won&rsquo;t grind for fancy T-shirts, gloves, and backgrounds. In the end, as nifty as a few of the online modes are, I don&rsquo;t find myself wanting to jump back in. I&rsquo;m on the fence with them, and there&rsquo;s nothing pushing me to the side where I want to go back.</p>
+<h2>Stepping into the Octagon</h2>
+<figure class="image article-image"><img src="https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2020/08/ufc-4-review-score.jpg" alt="" caption="true" />
+<figcaption></figcaption>
+</figure>
+<p>The true shining star of UFC 4 is the actual gameplay, and it gets better the more time you spend learning the moves and investing in their development. Each move you learn starts off with a one-star rating, but as you use that move in training and in fights, you increase your proficiency with it. Prior to playing, I specifically asked the developers if I could master a wicked overhand like Dan Henderson. They assured me I could. They were not lying. I focused on throwing an overhand right and, before long, I was knocking out opponents with that shot in training and in fights, and I eventually maxed out that move&rsquo;s rating at the prestige level. This is made more rewarding with what UFC 4 calls High Impact Movements, where you can see and hear the damage a strike causes, and you really feel the impact. Watching a slow-motion reply of me folding my opponent on the mat was wildly satisfying.</p>
+<p>The depth to fight mechanics in UFC 4 is stellar. This is thanks to grapple assist, locomotion for takedowns, fluid clinch control, dynamic striking, and a submission system that includes two simplified minigames.</p>
+<p>While dynamic striking allows for simplified strikes depending on a button press or hold is a cool feature, grapple assist is the big one. There were several fights where I was taking more damage than I was comfortable with on the feet, which impacts career longevity. Once you&rsquo;re out of longevity, your career is over, so grappling is super necessary, as Jorge Masvidal would say.</p>
+<p>In past UFC games, players had to learn button inputs that were clunky any time they wanted to grapple on the ground. While you can still use that old system, leaving grapple assist on lets you transition with a press of the left stick in one direction. This allows players to quickly move towards a submission, get into a ground and pound position, or get up. While grapple assist does take a bit of control from players in that they can&rsquo;t always choose where they transition or which submission they attempt, it&rsquo;ll be a hit with casuals who were frustrated with the ground gameplay of previous UFC titles.</p>
+<p>The improvements continue with takedowns and the clinch game. You still need a button combination to initiate a takedown or the clinch, but once you start, it&rsquo;s all up to locomotion. The person trying to score the takedown or maintain the clinch will press the left stick towards the defender, and the defender will press the left stick away to escape or defend. I used to get trapped in the clinch all the time, but in UFC 4 I can count the number of times that&rsquo;s happened on one hand, and it was always because I was stuck against the fence.</p>
+<p>Rounding out the gameplay improvements are submissions, and UFC 4 features two new minigames, one for chokes and one for joint submissions. For chokes, the offensive player will move their left stick around a circle, trying to cover an opponent&rsquo;s bar with their own. Their opponent will move their left stick and try to keep their bar from being covered. It&rsquo;s like a game of tag, really. For joints, players will simply press L2 and R2 (or LT and RT) to move their bars, but the concept remains the same. If the defender spams their buttons like in past games, their bar will grow and make it easier for the attacker to finish, and stamina still plays a huge role in the outcome. Both minigames are intuitive and simplified over past iterations, and an overall upgrade on submissions.</p>
+<h2>Where&rsquo;s my UFC Embedded?</h2>
+<figure class="image article-image"><img src="https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2020/08/ufc-4-presentation.jpg" alt="" caption="true" />
+<figcaption></figcaption>
+</figure>
+<p>While developers have gone to great lengths to improve customization for fighters, as well as adding new locations to fight in and a new commentary team, I found the presentation of UFC 4 underwhelming. I loved fighting in the Backyard, and thought the team nailed the vibe and feel of the Kumite, which is such a cool place to fight, but it&rsquo;s all downhill after that.</p>
+<p>It&rsquo;s true that there are more ways to customize fighters than before, but progression to unlock cosmetics is a massive grind in Career Mode. I think I made it to level eight after about 25 fights, and that included some time spent playing online where progression was faster. It just seems off that EA knows the bulk of their players prefer Career Mode, yet progress is slower there due to how long it takes to complete a fight camp and fight. The alternative to the grind is of course to spend real money to buy in-game currency. Thankfully, I found most cosmetics were rather bland, so there&rsquo;s no temptation for me there.</p>
+<p>The actual presentation leading up to a fight via walkouts and introductions by Bruce Buffer are okay, but it fails to reach potential. There are almost no pre-fight pep talks from Coach Davis, such as last-minute reminders of what your opponent brings. There are text pop ups between rounds, but where is my coach to give me meaningful in-fight adjustments, not just a line here and there? Where&rsquo;s the post-fight interview or presser where you could really dig into fighter callouts and give your career some personality? Even the commentary by Daniel Cormier and Jon Anik is just okay, although it&rsquo;s much better than Joe Rogan from past games. There are some funny moments and accurate analysis, but it&rsquo;s beyond weird to hear Daniel Cormier call his own fight, crapping on his own performance as I punch him in the head. Overall, the commentary is behind that of a game like NHL 20.</p>
+<h2>Calling it a career</h2>
+<figure class="image article-image"><img src="https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2020/08/ufc-4-ps4-review-score.jpg" alt="" caption="true" />
+<figcaption></figcaption>
+</figure>
+<p>UFC 4 is a weird game for me. The developers delivered on the things they promised they would, which were gameplay improvements, fighter customization, and a Career Mode overhaul. Gameplay is the champ here, and Career Mode will be fun for one or two runs, but when you look too deeply you see there&rsquo;s a lot meat left on the MMA carcass that could have been harvested. Career Mode is good, but perhaps it would be great and those extended fight camps not so bad if Coach Davis had more screen time and made it feel more personal. Maybe the events would feel more immersive if there were pre- and post-fight interviews and interactions. Maybe the social media mechanic wouldn&rsquo;t feel empty if I could manually target a fighter and start beef.</p>
+<p>That said, I absolutely loved how I learned new moves, had opportunities to train and improve them, and was able to craft the perfect fighter for my style. I wanted a devastating overhand right and I got it. I found out part way through my career I needed a better submission game, and I worked for it. The gameplay of UFC 4 is stellar and rewarding, but once the novelty begins to wear off, there&rsquo;s not much more to keep players invested.</p>
+
+<div class="author-short-bio">
+	<div class="short-bio-heading">
+				<div class="author-pic">
+			<a href="https://www.shacknews.com/author/bill-lavoy" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/author/2018/08/07/rumpoplays_512x512.png');"></a>
+		</div>
+				<div>
+			<address itemprop="author" class="nh3"><a href="https://www.shacknews.com/author/bill-lavoy">Bill Lavoy</a></address>
+			<div class="nh5">Co-EIC</div>
+		</div>
+	</div>
+	<div class="author-about">
+		<p>Bill, who is also known as Rumpo, is a lifelong gamer and Toronto Maple Leafs fan. He is known for his guide writing and, unsettlingly enough, enjoys grinding&nbsp;out in-depth collectible articles. Tweet him <a href="https://twitter.com/RumpoPlays" target="_blank" rel="noopener" title="Bill Lavoy on Twitter">@RumpoPlays</a> if you have a question or comment about one of his guides.</p>	</div>
+</div>
+
+				<div class="tags-block">
+	<div class="nh3">Filed Under</div>
+	<ul class="tags article-footer clear-fix">
+		<li><a href="https://www.shacknews.com/topic/review/">Review</a></li>
+		<li><a href="https://www.shacknews.com/topic/feature/">Feature</a></li>
+		<li><a href="https://www.shacknews.com/topic/electronic-arts/">Electronic Arts</a></li>
+		<li><a href="https://www.shacknews.com/topic/ea-vancouver/">EA Vancouver</a></li>
+		<li><a href="https://www.shacknews.com/topic/ea-sports-ufc-4/">EA Sports UFC 4</a></li>
+		</ul>
+</div>
+			</main>
+						<div id="side-rail">
+				<div class="side-rail-container">
+					<div class="ad internal vert">
+							<div class="adUnit" id="adUnit-1429195082">
+<script>loadAdUnit('300', 1429195082);</script>
+</div>					</div>
+					    <section id="related">
+        <div class="in">
+            <div class="module article-list">
+                <header>
+                    <div class="nh3">Related Stories</div>
+                </header>
+                <div class="content">
+                                            <article class="list-item">
+                            <a class="article-image" href="https://www.shacknews.com/article/127034/evening-reading-october-7-2021" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/07/evening-reading_688x387.jpg')"><img class="spacer widescreen" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/spacer-1x1.png" /></a>
+                            <a class="article-content" href="https://www.shacknews.com/article/127034/evening-reading-october-7-2021"><div class="nh3">Evening Reading - October 7, 2021</div></a>
+                        </article>
+                                            <article class="list-item">
+                            <a class="article-image" href="https://www.shacknews.com/article/127009/shackstream-metroid-dread-and-the-munchies" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/06/metroid-dread-01_688x387.jpg')"><img class="spacer widescreen" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/spacer-1x1.png" /></a>
+                            <a class="article-content" href="https://www.shacknews.com/article/127009/shackstream-metroid-dread-and-the-munchies"><div class="nh3">ShackStream: Metroid Dread and the munchies</div></a>
+                        </article>
+                                            <article class="list-item">
+                            <a class="article-image" href="https://www.shacknews.com/article/127020/ea-may-drop-fifa-license-in-future-soccer-games" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/07/ea-may-drop-fifa-license-in-future-soccer-games_688x387.jpg')"><img class="spacer widescreen" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/spacer-1x1.png" /></a>
+                            <a class="article-content" href="https://www.shacknews.com/article/127020/ea-may-drop-fifa-license-in-future-soccer-games"><div class="nh3">EA may drop FIFA license in future soccer games</div></a>
+                        </article>
+                                            <article class="list-item">
+                            <a class="article-image" href="https://www.shacknews.com/article/127015/evening-reading-october-6-2021" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/06/evening-reading_688x387.jpg')"><img class="spacer widescreen" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/spacer-1x1.png" /></a>
+                            <a class="article-content" href="https://www.shacknews.com/article/127015/evening-reading-october-6-2021"><div class="nh3">Evening Reading - October 6, 2021</div></a>
+                        </article>
+                                    </div>
+            </div>
+        </div>
+    </section>
+									</div>
+			</div>
+					</div>
+
+					<div class="review-block">
+				<div class="bgs">
+					<div class="bg cover" style="background-image: url('https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/08/13/ufc-4-review_feature.jpg')"></div>
+					<div class="overlay cover"></div>
+				</div>
+				<div class="review-container">
+					<div class="review-header">
+						<div class="nh3">
+							Review
+														for<br/>
+							<a href="https://www.shacknews.com/topic/ea-sports-ufc-4">EA Sports UFC 4</a>
+													</div>
+						<div class="all-scores">
+							<div class="score"><div class="score-positioner"><span>7</span></div></div>
+						</div>
+					</div>
+					<div class="review-content">
+												<div class="pros">
+							<div class="nh4">Pros</div>
+							<ul>
+															<li>Dynamic Striking Inputs</li>
+															<li>Grapple Assist</li>
+															<li>Kumite and Backyard locations</li>
+															<li>Simplified submissions</li>
+															<li>Takedown and clinch locomotion</li>
+															<li>Fantastic gameplay overall</li>
+														</ul>
+						</div>
+																		<div class="cons">
+							<div class="nh4">Cons</div>
+							<ul>
+															<li>Not enough Coach Davis</li>
+															<li>Social media mechanic lacking</li>
+															<li>Mostly bland cosmetics</li>
+															<li>Too much time in fight camps</li>
+															<li>Watching tape of opponents</li>
+														</ul>
+						</div>
+											</div>
+				</div>
+			</div>
+		
+		
+	<script src="https://www.shacknews.com//js/js-app-bundle/site_frontend_page.js"></script>
+    <script>
+        window.CHATTY_BASE_URL = "https:\/\/www.shacknews.com\/";
+    </script>
+	<div class="article-chatty" id="chatty">
+		<div class="in">
+			<header>
+				<div class="nh3">From The Chatty</div>
+				<div class="tools">
+					<a href="javascript:;" onclick class="refresh-thread">Refresh</a>
+					<a href="/chatty?id=39866001" class="chatty-link">Go To Thread</a>
+				</div>
+			</header>
+						<ul>
+					<li class="comment" id="item_39866001">
+		<div class="bubble">
+			<div class="existing-content">
+				<div class="comment-info">
+					<a class="avatar"></a>
+					<div class="comment-meta">
+						<div class="top-line">
+							<a class="author" href="/user/Shacknews/posts">Shacknews</a>
+														<img class="chatty-icons" alt="legacy 10 years" src="https://www.shacknews.com/images/icons/legacy-10-years.png" title="legacy 10 years" src="https://www.shacknews.com/images/icons/legacy-10-years.png" />
+														<img class="chatty-icons" alt="legacy 20 years" src="https://www.shacknews.com/images/icons/legacy-20-years.png" title="legacy 20 years" src="https://www.shacknews.com/images/icons/legacy-20-years.png" />
+													</div>
+						<div class="bottom-line">
+							<a class="close-thread tmpl-icon mini" href="javascript:;"></a>
+							<a class="reply" href="#" data-parent-id="39866001">reply</a>
+							<div class="timestamp">August 14, 2020 12:01 AM</div>
+						</div>
+					</div>
+				</div>
+				<p class="quote">
+					Bill Lavoy posted a new article, <a target="_blank" href="/article/119781/ea-sports-ufc-4-review-split-decision">EA Sports UFC 4 review: Split decision</a>				</p>
+			</div>
+		</div>
+
+			</li>
+			</ul>
+					</div>
+	</div>
+	<div id="chatty-reply-template" style="display: none">
+					<a href="#" class="tog-login">Login / Register</a>
+			</div>
+	</section>
+</article>
+<script>
+articleId = "119781";
+articleIdType = 'editorial';
+</script>
+	
+
+<div class="lola-affirmation">
+	<img alt="Hello, Meet Lola" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/images/mercury/lola-affirmation.png" />
+</div>
+
+<footer class="primary">
+	<div class="in">
+		<div class="footer-left">
+			<div class="logo"><a href="https://www.shacknews.com/"><img alt="Shacknews Logo" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/brand/project-logo.png" /></a></div>
+			<div class="logo alt"><a href="https://www.shacknews.com/"><img alt="Shacknews Logo" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/brand/project-logo-alt.png" /></a></div>
+			<div>&copy; 1996 - 2021 Shacknews LTD.</div>
+		</div>
+		<div class="footer-right">
+			<ul>
+				<li class="heading">Company</li>
+				<li><a href="/pages/about/">About Shacknews</a></li>
+				<li><a href="/pages/contact-us/">Contact Us</a></li>
+				<li><a href="/pages/privacy-policy/">Privacy Policy</a></li>
+				<li><a href="/feed/rss">Subscribe</a></li>
+			</ul>
+			<ul>
+				<li class="heading">Do It For Shacknews</li>
+				<li><a href="https://www.facebook.com/shacknews">Facebook</a></li>
+				<li><a href="https://twitter.com/shacknews">Twitter</a></li>
+				<li><a href="http://www.twitch.tv/shacknews">Twitch</a></li>
+				<li><a href="https://www.youtube.com/user/Shacknewsgames">Youtube</a></li>
+			</ul>
+		</div>
+	</div>
+	<div style="display: none !important"><img alt="Shacknews Logo" src="https://d1lss44hh2trtw.cloudfront.net/deploy/www-5b3dd10/signature/personal-twitter.png" /></div>
+</footer>
+
+	</div>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b2a43e134bca4af" async="async"></script>
+</body>
+</html>

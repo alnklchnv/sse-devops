@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"44925d6b58",applicationID:"51794171"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="qtx-referrer" data-searchEngine="https://www.google.com/" />
+<script>window.mobileCheck=function(){var check=false;(function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check=true;})(navigator.userAgent||navigator.vendor||window.opera);return check;};window.dataLayerValues=window.dataLayerValues||{};window.dataLayerValues={isMobileQuery:window.mobileCheck()};window.dataLayer=window.dataLayer||[];window.dataLayer.push(window.dataLayerValues);</script>
+<meta property="og:site_name" content="FierceBiotech" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="news_keywords" content="Sinopharm, China, coronavirus,COVID-19, clinical trial data, vaccines" />
+<meta name="twitter:description" content="Sinopharm has published clinical data on its adjuvanted SARS-CoV-2–inactivated virus vaccine. The phase 1 and 2 results suggest the vaccine may be safe, tolerable and capable of triggering production of antibodies against the pandemic coronavirus." />
+<meta name="twitter:title" content="Sinopharm shares phase 2 data on inactivated COVID-19 vaccine" />
+<meta name="description" content="Sinopharm has published clinical data on its adjuvanted SARS-CoV-2–inactivated virus vaccine. The phase 1 and 2 results suggest the vaccine may be safe, tolerable and capable of triggering production of antibodies against the pandemic coronavirus." />
+<meta property="og:url" content="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" />
+<meta property="og:title" content="Sinopharm shares phase 2 data on inactivated COVID-19 vaccine" />
+<meta name="keywords" content="Sinopharm, China, coronavirus,COVID-19, clinical trial data, vaccines,Biotech" />
+<meta property="og:description" content="Sinopharm has published clinical data on its adjuvanted SARS-CoV-2–inactivated virus vaccine. The phase 1 and 2 results suggest the vaccine may be safe, tolerable and capable of triggering production of antibodies against the pandemic coronavirus." />
+<meta name="twitter:url" content="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" />
+<meta name="twitter:image" content="https://qtxasset.com/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=noxRcBuzjyiyYuvmeoB6KTrMkzkmAku4" />
+<meta property="og:image" content="https://qtxasset.com/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=noxRcBuzjyiyYuvmeoB6KTrMkzkmAku4" />
+<meta property="og:image:secure_url" content="https://qtxasset.com/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=noxRcBuzjyiyYuvmeoB6KTrMkzkmAku4" />
+<meta property="article:tag" content="Sinopharm" />
+<meta property="article:tag" content="China" />
+<meta property="article:tag" content="coronavirus" />
+<meta property="article:tag" content="COVID-19" />
+<meta property="article:tag" content="clinical trial data" />
+<meta property="article:tag" content="vaccines" />
+<meta name="gtm-keywords" content="Sinopharm, China, coronavirus" />
+<meta name="gtm-article" content="582761" />
+<meta name="parsely-tags" content="Sinopharm, China, coronavirus,COVID-19, clinical trial data, vaccines" />
+<meta name="gtm-topics" content="COVID-19, clinical trial data, vaccines" />
+<meta name="parsely-section" content="Biotech" />
+<meta name="parsely-title" content="Sinopharm shares phase 2 data on inactivated COVID-19 vaccine" />
+<meta name="gtm-contenttype" content="Article" />
+<meta name="gtm-section" content="Biotech" />
+<meta name="parsely-post-id" content="582761" />
+<meta name="parsely-author" content="Nick Paul Taylor" />
+<meta name="parsely-image-url" content="https://qtxasset.com/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=noxRcBuzjyiyYuvmeoB6KTrMkzkmAku4" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-pub-date" content="2020-08-14T06:54:18-0400" />
+<meta name="parsely-link" content="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript">!(function () { window.googletag = window.googletag || {}; window.vmpbjs = window.vmpbjs || {}; window.vpb = window.vpb || {}; vpb.fastLoad = true; googletag.cmd = googletag.cmd || []; vmpbjs.cmd = vmpbjs.cmd || []; var cmds = googletag.cmd.slice(0) || []; googletag.cmd.length=0; var ready = false; function exec(cb) { return cb.call(googletag); } googletag.cmd.push(function () { googletag.cmd.unshift = function (cb) { if (ready) { return exec(cb); } cmds.unshift(cb); if (cb._startgpt) { ready = true; cmds.forEach(cb=> { exec(cb); }); } }; googletag.cmd.push = function (cb) { if (ready) { return exec(cb); } cmds.push(cb); }; }); googletag.cmd.push = function (cb) { cmds.push(cb) }; googletag.cmd.unshift = function (cb) { cmds.unshift(cb); if (cb._startgpt) { ready = true; if (googletag.apiReady) { cmds.forEach(function (cb) { googletag.cmd.push(cb); }) } else { googletag.cmd = cmds; } } }; var dayMs = 36e5, cb = parseInt(Date.now() / dayMs), vpbSrc = '//player.mediafuse.com/prebidlink/' + cb + '/wrapper_hb_302826_6935.js', pbSrc = vpbSrc.replace('wrapper_hb', 'hb'), gptSrc = '//securepubads.g.doubleclick.net/tag/js/gpt.js', c = document.head || document.body || document.documentElement; function loadScript(src, cb) { var s = document.createElement('script'); s.src = src; s.defer=false; c.appendChild(s); s.onload = cb; s.onerror = function(){ var fn = function(){}; fn._startgpt = true; googletag.cmd.unshift(fn); }; return s; } loadScript(pbSrc); loadScript(gptSrc); loadScript(vpbSrc); })()</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Sinopharm shares phase 2 data on inactivated COVID-19 vaccine",
+            "name": "Sinopharm shares phase 2 data on inactivated COVID-19 vaccine",
+            "articleSection": "Biotech",
+            "keywords": [
+                "Sinopharm",
+                "China",
+                "coronavirus",
+                "COVID-19",
+                "clinical trial data",
+                "vaccines"
+            ],
+            "description": "The phase 1 and 2 results suggest the vaccine may be safe, tolerable and capable of triggering production of antibodies against the coronavirus.",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://qtxasset.com/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=noxRcBuzjyiyYuvmeoB6KTrMkzkmAku4"
+            },
+            "datePublished": "2020-08-14T06:54:18-0400",
+            "isAccessibleForFree": "True",
+            "dateModified": "2020-08-17",
+            "author": {
+                "@type": "Person",
+                "name": "Nick Paul Taylor"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "FierceBiotech",
+                "url": "https://www.fiercebiotech.com/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.fiercebiotech.com//themes/custom/tektite_fierce/assets/images/logo/logo-biotech.svg"
+                }
+            },
+            "mainEntityOfPage": "https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine",
+            "url": "https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine"
+        }
+    ]
+}</script>
+<script>const CLIENT ='';</script>
+<link rel="shortcut icon" href="/themes/custom/tektite_fierce/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" href="https://www.fiercebiotech.com/rss/xml" />
+<link rel="canonical" href="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" />
+<link rel="shortlink" href="https://www.fiercebiotech.com/node/582761" />
+<link rel="revision" href="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M98WT45');</script>
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.onclick = 1;
+a2a_config.orientation = "down";
+a2a_config.icon_color = "transparent";
+a2a_config.color_link_text = "666666";
+a2a_config.color_link_text_hover = "333333";</script>
+<style>.a2a_menu, .a2a_menu_find_container { border-radius: 0 !important; }
+.a2a_menu .a2a_mini_services a span { background-color: #666666 !important; }
+.a2a_menu .a2a_mini_services a:hover span { background-color: #333333 !important; }</style>
+
+    <title>Sinopharm shares phase 2 data on inactivated COVID-19 vaccine | FierceBiotech</title>
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Overpass:ital,wght@0,400;0,700;0,900;1,400&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/fiercebiotech/files/css/css_dmGT3vzMbuQEYT4GrtSmlKGvHMg3EMN2fdyDplKSdzU.css" />
+<link rel="stylesheet" media="all" href="/sites/fiercebiotech/files/css/css_OQCYQjGiXoYAdYeo0QfNaDBCZWYOPDNshs8IYXccnsY.css" />
+
+
+        
+      <script type="text/javascript">
+          /*! modernizr 3.3.1 (Custom Build) | MIT *
+ * http://modernizr.com/download/?-details-inputtypes-touchevents-addtest-prefixes-setclasses-teststyles !*/
+!function(e,t,n){function o(e,t){return typeof e===t}function i(){var e,t,n,i,s,a,r;for(var l in d)if(d.hasOwnProperty(l)){if(e=[],t=d[l],t.name&&(e.push(t.name.toLowerCase()),t.options&&t.options.aliases&&t.options.aliases.length))for(n=0;n<t.options.aliases.length;n++)e.push(t.options.aliases[n].toLowerCase());for(i=o(t.fn,"function")?t.fn():t.fn,s=0;s<e.length;s++)a=e[s],r=a.split("."),1===r.length?Modernizr[r[0]]=i:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=i),u.push((i?"":"no-")+r.join("-"))}}function s(e){var t=m.className,n=Modernizr._config.classPrefix||"";if(v&&(t=t.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+n+"no-js(\\s|$)");t=t.replace(o,"$1"+n+"js$2")}Modernizr._config.enableClasses&&(t+=" "+n+e.join(" "+n),v?m.className.baseVal=t:m.className=t)}function a(e,t){if("object"==typeof e)for(var n in e)h(e,n)&&a(n,e[n]);else{e=e.toLowerCase();var o=e.split("."),i=Modernizr[o[0]];if(2==o.length&&(i=i[o[1]]),"undefined"!=typeof i)return Modernizr;t="function"==typeof t?t():t,1==o.length?Modernizr[o[0]]=t:(!Modernizr[o[0]]||Modernizr[o[0]]instanceof Boolean||(Modernizr[o[0]]=new Boolean(Modernizr[o[0]])),Modernizr[o[0]][o[1]]=t),s([(t&&0!=t?"":"no-")+o.join("-")]),Modernizr._trigger(e,t)}return Modernizr}function r(){return"function"!=typeof t.createElement?t.createElement(arguments[0]):v?t.createElementNS.call(t,"http://www.w3.org/2000/svg",arguments[0]):t.createElement.apply(t,arguments)}function l(){var e=t.body;return e||(e=r(v?"svg":"body"),e.fake=!0),e}function f(e,n,o,i){var s,a,f,u,d="modernizr",c=r("div"),p=l();if(parseInt(o,10))for(;o--;)f=r("div"),f.id=i?i[o]:d+(o+1),c.appendChild(f);return s=r("style"),s.type="text/css",s.id="s"+d,(p.fake?p:c).appendChild(s),p.appendChild(c),s.styleSheet?s.styleSheet.cssText=e:s.appendChild(t.createTextNode(e)),c.id=d,p.fake&&(p.style.background="",p.style.overflow="hidden",u=m.style.overflow,m.style.overflow="hidden",m.appendChild(p)),a=n(c,e),p.fake?(p.parentNode.removeChild(p),m.style.overflow=u,m.offsetHeight):c.parentNode.removeChild(c),!!a}var u=[],d=[],c={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,t){var n=this;setTimeout(function(){t(n[e])},0)},addTest:function(e,t,n){d.push({name:e,fn:t,options:n})},addAsyncTest:function(e){d.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=c,Modernizr=new Modernizr;var p=c._config.usePrefixes?" -webkit- -moz- -o- -ms- ".split(" "):["",""];c._prefixes=p;var h,m=t.documentElement,v="svg"===m.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;h=o(e,"undefined")||o(e.call,"undefined")?function(e,t){return t in e&&o(e.constructor.prototype[t],"undefined")}:function(t,n){return e.call(t,n)}}(),c._l={},c.on=function(e,t){this._l[e]||(this._l[e]=[]),this._l[e].push(t),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},c._trigger=function(e,t){if(this._l[e]){var n=this._l[e];setTimeout(function(){var e,o;for(e=0;e<n.length;e++)(o=n[e])(t)},0),delete this._l[e]}},Modernizr._q.push(function(){c.addTest=a});var y=r("input"),g="search tel url email datetime date month week time datetime-local number range color".split(" "),_={};Modernizr.inputtypes=function(e){for(var o,i,s,a=e.length,r="1)",l=0;a>l;l++)y.setAttribute("type",o=e[l]),s="text"!==y.type&&"style"in y,s&&(y.value=r,y.style.cssText="position:absolute;visibility:hidden;",/^range$/.test(o)&&y.style.WebkitAppearance!==n?(m.appendChild(y),i=t.defaultView,s=i.getComputedStyle&&"textfield"!==i.getComputedStyle(y,null).WebkitAppearance&&0!==y.offsetHeight,m.removeChild(y)):/^(search|tel)$/.test(o)||(s=/^(url|email)$/.test(o)?y.checkValidity&&y.checkValidity()===!1:y.value!=r)),_[e[l]]=!!s;return _}(g);var w=c.testStyles=f;Modernizr.addTest("touchevents",function(){var n;if("ontouchstart"in e||e.DocumentTouch&&t instanceof DocumentTouch)n=!0;else{var o=["@media (",p.join("touch-enabled),("),"heartz",")","{#modernizr{top:9px;position:absolute}}"].join("");w(o,function(e){n=9===e.offsetTop})}return n}),Modernizr.addTest("details",function(){var e,t=r("details");return"open"in t?(w("#modernizr details{display:block}",function(n){n.appendChild(t),t.innerHTML="<summary>a</summary>b",e=t.offsetHeight,t.open=!0,e=e!=t.offsetHeight}),e):!1}),i(),s(u),delete c.addTest,delete c.addAsyncTest;for(var b=0;b<Modernizr._q.length;b++)Modernizr._q[b]();e.Modernizr=Modernizr}(window,document);
+      </script>
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/fiercebiotech/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="//cdn.blueconic.net/questex.js"></script>
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/themes/custom/tektite_fierce/apple-touch-icon-57x57.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="60x60" href="/themes/custom/tektite_fierce/apple-touch-icon-60x60.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="72x72" href="/themes/custom/tektite_fierce/apple-touch-icon-72x72.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="76x76" href="/themes/custom/tektite_fierce/apple-touch-icon-76x76.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="114x114" href="/themes/custom/tektite_fierce/apple-touch-icon-114x114.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="120x120" href="/themes/custom/tektite_fierce/apple-touch-icon-120x120.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="144x144" href="/themes/custom/tektite_fierce/apple-touch-icon-144x144.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="152x152" href="/themes/custom/tektite_fierce/apple-touch-icon-152x152.png?v=wAAmkK2yLl">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/tektite_fierce/apple-touch-icon-180x180.png?v=wAAmkK2yLl">
+    <link rel="icon" type="image/png" href="/themes/custom/tektite_fierce/favicon-32x32.png?v=wAAmkK2yLl" sizes="32x32">
+    <link rel="icon" type="image/png" href="/themes/custom/tektite_fierce/favicon-194x194.png?v=wAAmkK2yLl" sizes="194x194">
+    <link rel="icon" type="image/png" href="/themes/custom/tektite_fierce/favicon-96x96.png?v=wAAmkK2yLl" sizes="96x96">
+    <link rel="icon" type="image/png" href="/themes/custom/tektite_fierce/android-chrome-192x192.png?v=wAAmkK2yLl" sizes="192x192">
+    <link rel="icon" type="image/png" href="/themes/custom/tektite_fierce/favicon-16x16.png?v=wAAmkK2yLl" sizes="16x16">
+    <link rel="manifest" href="/themes/custom/tektite_fierce/manifest.json?v=wAAmkK2yLl">
+    <link rel="mask-icon" href="/themes/custom/tektite_fierce/safari-pinned-tab.svg?v=wAAmkK2yLl" color="#002358">
+    <link rel="shortcut icon" href="/themes/custom/tektite_fierce/favicon.ico?v=0.1">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/themes/custom/tektite_fierce/mstile-144x144.png?v=wAAmkK2yLl">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="sidebar-second path-node page-node-type-article">
+
+    <div class="page-container">
+      <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+      <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M98WT45" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="scrollProgress"></div>
+
+<div class="page-wrapper">
+      <div id="header-top">
+      <div class="wrapper">
+          <div class="region region-header-top">
+    
+
+<div id="block-tektitegenericadinterstitialblock" class="block block-tektite-generic-blocks block-tektite-generic-ad-interstitial">
+  
+    
+      <div id='interstitial-wrapper' style="text-align: center;">
+    <div id='interstitial'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "0";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'interstitial');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'interstitial',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] interstitial","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('interstitial');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+
+<div id="block-tektitegenericmobileadhesionadblock" class="block block-tektite-generic-blocks block-tektite-generic-ad-mobile-adhesion">
+  
+    
+                      <div id='mobile-adhesion'>
+                <script type='text/javascript'>
+                document.addEventListener("googletagEvent", function() {
+                googletag.cmd.push(function() { googletag.display('mobile-adhesion'); });
+                });
+                </script>
+                </div>
+  </div>
+
+
+<div id="block-tektitegenericadwallpaperblock" class="block block-tektite-ad-blocks block-tektite-generic-ad-wallpaper">
+  
+    
+      <div id='wallpaper-wrapper' style="text-align: center;">
+    <div id='wallpaper'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "1";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'wallpaper');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'wallpaper',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] wallpaper","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('wallpaper');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+
+<div id="block-tektitegenericadheaderblock" class="block block-tektite-ad-blocks block-tektite-generic-ad-header">
+  
+    
+                      <div id='header-ad-wrapper'>
+                <div id='header-ad'>
+                  <script type='text/javascript'>
+                    document.addEventListener("googletagEvent", function() {
+                      googletag.cmd.push(function() { googletag.display('header-ad'); });
+                    });
+                  </script>
+                </div>
+                </div>
+  </div>
+
+  </div>
+
+      </div>
+    </div>
+  
+      <header id="header" role="banner">
+      <div class="wrapper">
+          <div class="region region-header">
+
+              
+    <a class="menu-icon icon icon-hamburger open-panel"></a>
+
+<div id="block-tektite-biotech-branding" class="block block-system block-system-branding-block">
+  
+    
+              <div class="site-logo">
+            <a href="/" title="Home" rel="home">
+                <img src="/themes/custom/tektite_fierce/assets/images/logo/logo-biotech.svg?v=1.03" alt="Home"/>
+            </a>
+        </div>
+    
+    
+    </div>
+
+            
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+  
+    <ul class="menu">
+                                    <li class="menu-item menu-item--collapsed">
+                                <a href="/biotech" data-drupal-link-system-path="taxonomy/term/1">Biotech</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/research" data-drupal-link-system-path="taxonomy/term/41">Research</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/cro" data-drupal-link-system-path="taxonomy/term/76">CRO</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/medtech" data-drupal-link-system-path="taxonomy/term/55816">MedTech</a>
+                            </li>
+                                <li class="menu-item menu-item--expanded">
+                                    <span class="menu-icon icon icon-angle-down"></span>
+                                <a href="/special-topics" data-drupal-link-system-path="node/598066">Trending Topics</a>
+                                      
+    
+    <ul class="menu">
+                                        <li class="menu-item">
+                                <a href="/topic/cell-gene-therapy" data-drupal-link-system-path="taxonomy/term/61641">Cell &amp; Gene Therapy</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="/topic/drug-discovery" title="Drug Discovery" data-drupal-link-system-path="taxonomy/term/46177">Drug Discovery</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="https://www.fiercebiotech.com/topic/covid-19">COVID-19</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="menu-item">
+                                <a href="/special-reports" data-drupal-link-system-path="taxonomy/term/59731">Special Reports</a>
+                            </li>
+            </ul>
+        
+
+
+  </nav>
+
+    <nav role="navigation" aria-labelledby="block-mainnavigation-mobile-menu" id="block-mainnavigation-mobile" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-mobile-menu">Main navigation - Mobile</h2>
+  
+
+        
+  
+    <ul class="menu">
+                                    <li class="menu-item menu-item--collapsed">
+                                <a href="/biotech" data-drupal-link-system-path="taxonomy/term/1">Biotech</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/research" data-drupal-link-system-path="taxonomy/term/41">Research</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/cro" data-drupal-link-system-path="taxonomy/term/76">CRO</a>
+                            </li>
+                                <li class="menu-item menu-item--collapsed">
+                                <a href="/medtech" data-drupal-link-system-path="taxonomy/term/55816">MedTech</a>
+                            </li>
+                                <li class="menu-item menu-item--expanded">
+                                    <span class="menu-icon icon icon-angle-down"></span>
+                                <a href="/special-topics" data-drupal-link-system-path="node/598066">Trending Topics</a>
+                                      
+    
+    <ul class="menu">
+                                        <li class="menu-item">
+                                <a href="/topic/cell-gene-therapy" data-drupal-link-system-path="taxonomy/term/61641">Cell &amp; Gene Therapy</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="/topic/drug-discovery" title="Drug Discovery" data-drupal-link-system-path="taxonomy/term/46177">Drug Discovery</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="https://www.fiercebiotech.com/topic/covid-19">COVID-19</a>
+                            </li>
+            </ul>
+        
+                            </li>
+                                <li class="menu-item">
+                                <a href="/special-reports" data-drupal-link-system-path="taxonomy/term/59731">Special Reports</a>
+                            </li>
+            </ul>
+        
+
+
+  </nav>
+
+    
+<div class="search-popup">
+    <span class="icon icon-search"></span>
+    <div class="search-content">
+        <div class="search-close icon icon-cancel"></div>
+        <div class="search-api-page-block-form-searcha search-form search-block-form container-inline block block-search-api-page block-search-api-page-form-block" data-drupal-selector="search-api-page-block-form-searcha" autocomplete="off" id="block-searchapipagesearchblockform">
+                            <form action="/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" method="post" id="search-api-page-block-form-searcha" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="New Search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-fzzxx-y6-m3mx8xo4m0je-fycggrhfvnq2hsyrowwc" type="hidden" name="form_build_id" value="form-fzZXX-y6--M3mx8xo4M0je_fyCGgrhfVNQ2hsYrOWWc" />
+<input data-drupal-selector="edit-search-api-page-block-form-searcha" type="hidden" name="form_id" value="search_api_page_block_form_searcha" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" />
+</div>
+
+</form>
+
+                        <div class="search-help-text">Enclose phrases in quotes. Use a + to require a term in results and - to
+                exclude terms.<br/>Example: +water -Europe
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <div class="bottom-nav-wrapper">
+      <nav role="navigation" aria-labelledby="block-topmenu-menu" id="block-topmenu" class="block block-menu navigation menu--top-menu">
+            
+  <h2 class="visually-hidden" id="block-topmenu-menu">Top Menu</h2>
+  
+
+        
+  
+    <ul class="menu">
+                                    <li class="menu-item">
+                                <a href="https://www.fiercelifesciences.com/" title="Virtual Events" rel="nofollow">Virtual Events</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="https://www.fiercepharma.com/" rel="nofollow">FiercePharma</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="http://jobs.fiercebiotech.com/" rel="nofollow">Jobs</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="/resources" data-drupal-link-system-path="resources">Resources</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="/products/webinar" data-drupal-link-system-path="products/webinar">Webinars</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="/products/event" data-drupal-link-system-path="products/event">Industry Events</a>
+                            </li>
+                                <li class="menu-item">
+                                <a href="https://pages.questexnetwork.com/FierceBiotech-Newsletter-Signup.html" rel="nofollow">Subscribe</a>
+                            </li>
+            </ul>
+        
+
+
+  </nav>
+
+      
+
+<div id="block-tektitesocialshareblock" class="block block-tektite-generic-blocks block-social-share-block">
+  
+    
+                                          <a class="icon icon-twitter" href='https://twitter.com/fiercebiotech'>Twitter</a>
+                                                <a class="icon icon-linkedin" href='https://www.linkedin.com/showcase/fierce-biotech/'>LinkedIn</a>
+                                                <a class="icon icon-facebook" href='https://www.facebook.com/fiercebiotech/'>Facebook</a>
+                    
+  </div>
+
+    </div>
+
+  </div>
+
+      </div>
+    </header>
+  
+      <div id="help">
+      <div class="wrapper">
+          <div class="region region-help">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    </div>
+  
+  <main id="main" role="main">
+            <div class="region region-highlighted">
+    
+
+<div id="block-qtxpromobanner" class="block block-qtx-promo-banner block-qtx-promo-banner-block-type">
+  
+    
+      
+
+    
+  </div>
+
+  </div>
+
+    
+    <div id="content">
+              <div class="taxonomy-primary"><div about="/biotech" id="taxonomy-term-1" class="taxonomy-term vocabulary-taxonomy">
+  
+      <h2><a href="/biotech">
+            <div>Biotech</div>
+      </a></h2>
+    
+  <div class="content">
+    
+  </div>
+</div>
+</div>
+            <a id="main-content" tabindex="-1"></a>        <div class="region region-content">
+    
+
+<div id="block-tektite-biotech-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+      <h1 class="page-title"><span property="schema:name">Sinopharm shares phase 2 data on inactivated COVID-19 vaccine</span>
+</h1>
+  
+
+  </div>
+
+
+<div id="block-tektite-biotech-content" class="block block-system block-system-main-block">
+  
+    
+      
+
+<article role="article" about="/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-full">
+  <div id="nodeid" data-nid="582761" style="display:none"></div>
+
+  
+      <span property="schema:name" content="Sinopharm shares phase 2 data on inactivated COVID-19 vaccine" class="rdf-meta hidden"></span>
+
+
+  <footer class="node__meta">
+    <div class="node__submitted">
+                                        by                      <a href="/author/nick-paul-taylor">Nick Paul Taylor</a>                          | 
+            <div><time datetime="2020-08-14T10:54:18Z" property="schema:datePublished">Aug 14, 2020 6:54am</time>
+</div>
+      
+          </div>
+  </footer>
+
+  <div class="thumbnail-image">
+              
+              
+            <div>
+                        <div>    <img srcset="https://qtxasset.com/styles/breakpoint_md_448px_w/s3/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=em0IG2Qa7GvuigBVSI_49b7i294J1pzH&amp;itok=43Yt3Nbr 448w, https://qtxasset.com/styles/breakpoint_l_640px_w/s3/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=AQX2h6nHth0YA6MRlsSCejNHysjWOaax&amp;itok=C9lqI1g_ 640w, https://qtxasset.com/styles/breakpoint_sm_800px_w/s3/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=7hk5RQZAolQvEGXKnrYCsWN5Aa_0ylFX&amp;itok=szQ9EloY 800w, https://qtxasset.com/styles/breakpoint_xl_880px_w/s3/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=u0zlXvpkONjVf51GwXov_mcdYInissvr&amp;itok=rZYRxwU6 880w" sizes="(min-width:1220px) 880px, (min-width: 980px) and (max-width: 1219px) 640px, (min-width: 788px) 448px, min-width: 481px) 800px" src="https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercebiotech/1597402555/Coronavirus%20Outbreak.jpg/Coronavirus%20Outbreak.jpg?VersionId=rPfq7lEu9MAlYABwGVeLj.8cEELlX2w5&amp;itok=6tsIanFL" alt="wildpixel/GettyImages" title="Coronavirus Outbreak" typeof="foaf:Image" />
+
+
+</div>
+            </div>
+      
+                  <div class="caption">
+        A phase 3 trial of the Sinopharm coronavirus vaccine is underway. (wildpixel/GettyImages)
+        </div>
+            </div>
+
+  <div class="node__container">
+          <div class="social-container sticky-container">
+        <div class="social-share"><span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.fiercebiotech.com/biotech/sinopharm-shares-phase-2-data-inactivated-covid-19-vaccine" data-a2a-title="Sinopharm shares phase 2 data on inactivated COVID-19 vaccine"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.fiercebiotech.com%2Fbiotech%2Fsinopharm-shares-phase-2-data-inactivated-covid-19-vaccine&amp;title=Sinopharm%20shares%20phase%202%20data%20on%20inactivated%20COVID-19%20vaccine"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_linkedin"></a><a class="a2a_button_email"></a><a class="a2a_button_print"></a></span></div>
+      </div>
+    
+    <div class="node__content">
+      
+            <div property="schema:articleBody"><p>Sinopharm has published clinical data on its adjuvanted SARS-CoV-2–inactivated virus vaccine. The phase 1 and 2 results suggest the vaccine may be safe, tolerable and capable of triggering production of antibodies against the pandemic coronavirus.</p>
+
+
+
+<div id="content-embed-one-wrapper" style="text-align: center;">
+    <div id="content-embed-one">
+        <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "0";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'content-embed-one');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'content-embed-one',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] content-embed-one","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('content-embed-one');
+                });
+            });
+        
+//--><!]]>
+</script></div>
+</div>
+
+
+<p>Most of the frontrunners in the COVID-19 vaccine race are using relatively unproven approaches to immunization. BioNTech, in partnership with Pfizer, and Moderna are advancing mRNA vaccines, a type of prophylactic that has never been approved. AstraZeneca, CanSino and Johnson &amp; Johnson are taking a viral vector approach that is barely more established than mRNA.</p>
+
+
+
+<p>Sinopharm and fellow Chinese’ vaccine developer Sinovac are at the forefront of efforts to develop a more traditional inactivated virus shot against SARS-CoV-2. Both companies moved their prospects into phase 3 without sharing much information on their effects publicly.</p>
+
+
+
+<div id="mobile-ad-wrapper" style="text-align: center;">
+    <div id="ad-slot_1__mobile">
+        <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "0";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'ad-slot_1__mobile');
+                    return;
+                }
+
+                let hideOnDesktop = "1";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'ad-slot_1__mobile',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] ad-slot_1__mobile","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('ad-slot_1__mobile');
+                });
+            });
+        
+//--><!]]>
+</script></div>
+</div>
+
+
+<p>That changed on Thursday when JAMA <a href="https://jamanetwork.com/journals/jama/fullarticle/2769612">published</a> an analysis of phase 1 and 2 trials of Sinopharm’s vaccine. The paper presented data from a 96-subject phase 1 that assessed three doses, as well as a 224-subject phase 2 that provided further evidence of the effects of the middle dose.</p>
+
+
+
+<p>The trial linked the vaccine to increases in antibody titers. However, unlike other COVID-19 vaccine trials, the study lacked a comparison arm featuring serum samples from patients previously infected with the coronavirus, complicating the task of interpreting whether the response is likely to confer immunity. </p>
+
+
+
+<p>The authors compared the antibody response favorably to the results of other vaccine trials, stating the levels were in the same ballpark as those generated by shots in development at AstraZeneca, BioNTech and Moderna. However, as the authors acknowledge, differences in assay methods and other aspects of the trials mean “such direct comparisons should be interpreted cautiously.”</p>
+
+
+
+<p>Like most of the other leading vaccines, Sinopharm’s candidate looks likely to require a booster shot to provide protection, diminishing the company’s immunization capacity and complicating the task of vaccinating large numbers of people. Those problems could be particularly acute for the Sinopharm vaccine. The strongest antibody response was seen after the third injection. </p>
+
+
+
+<p>Sinopharm looked at the distribution of subsets of blood lymphocytes, such as CD3+CD8+ T cells, in subjects before vaccination and multiple times thereafter. The analysis showed “no notable changes over time in different groups or substantial differences across groups at a certain time point.”</p>
+
+
+
+<p>Safety is an area Sinopharm thinks it might have an edge. With 15% of subjects experiencing adverse reactions, the authors argue the Sinopharm prospect has “a relatively better safety profile compared with vaccines using other platforms.”</p>
+
+
+
+<p>Sinopharm is well on its way to showing if the perceived benefits stand up to the scrutiny of a larger study. A phase 3 trial is underway. The trial will enroll 15,000 subjects across three cohorts, according to its <a href="http://www.chictr.org.cn/hvshowproject.aspx?id=43780">listing</a> on China’s registry. According to a recent media <a href="https://english.alarabiya.net/en/coronavirus/2020/08/06/UAE-s-COVID-19-vaccine-trials-reach-milestone-of-5-000-vaccinated-volunteers">report</a>, sites in the United Arab Emirates have already administered the vaccine to more than 5,000 people. </p>
+
+
+</div>
+      
+
+      
+              <div class="keywords-topics">
+    <strong>Read more on</strong>
+    <div class="item-list--comma-list">
+                                <a href="/topic/covid-19" class="sponsored-tag-item">COVID-19</a>                                 <a href="/topic/clinical-trial-data" hreflang="und">clinical trial data</a>                                 <a href="/topic/vaccines" hreflang="und">vaccines</a>                                 <a href="/keyword/sinopharm" hreflang="und">Sinopharm</a>                                 <a href="/keyword/china" hreflang="und">China</a>                                 <a href="/keyword/coronavirus" hreflang="und">coronavirus</a>        </div>
+
+</div>
+          </div>
+  </div>
+
+</article>
+
+  </div>
+
+
+<div id="block-tektitegenericarticlebottomadblock" class="block block-tektite-generic-blocks block-tektite-generic-ad-article-bottom">
+  
+    
+      <div id='article-bottom' style="text-align: center;">
+    <div id='bottom-pos-12'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "0";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'bottom-pos-12');
+                    return;
+                }
+
+                let hideOnDesktop = "1";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'bottom-pos-12',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] bottom-pos-12","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('bottom-pos-12');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+<div class="bc-suggested-articles">
+</div>
+    <script type="text/javascript">
+            var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel-a.basis.net/iap/b3e04fee56de7131';
+            new Image().src = ssaUrl;
+            (function (d) {
+                var syncUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel-a.basis.net/dmp/asyncPixelSync';
+                var iframe = d.createElement('iframe');
+                (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0;";
+                iframe.src = "javascript:false";
+                d.body.appendChild(iframe);
+                var doc = iframe.contentWindow.document;
+                doc.open().write('<body onload="window.location.href=\'' + syncUrl + '\'">');
+                doc.close();
+            })(document);
+        </script>
+  </div>
+
+
+          </div>
+
+          <aside id="sidebar-second" role="complimentary">
+        <section class="sidebar-container">
+            <div class="region region-sidebar-second">
+    
+
+<div id="block-tektitegenericadsidebarblock" class="block block-tektite-ad-blocks block-tektite-generic-ad-sidebar">
+  
+    
+      <div id='sidebar-ad-wrapper' style="text-align: center;">
+    <div id='sidebar-ad'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "1";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'sidebar-ad');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'sidebar-ad',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] sidebar-ad","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('sidebar-ad');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+
+<div id="block-marketounifiedmultiformnewslettersignupblock" class="block block-tektite-generic-blocks block-marketo-multi-form-block">
+  
+    
+      <div class="block block- card nl-signup-card mkto-block-wrapper">
+        <div class="card-wrapper card-lg">
+        <div class="card-content">
+                        <h2>GET THE NEWSLETTER</h2>
+            <div class="benefits-text">Subscribe to FierceBiotech to get industry news and updates delivered to your inbox.</div>
+        </div>
+
+                    <div class="nl-form marketo-form-card mkto-multi-block-form" data-mkto-form-id="12996">
+                <form  action="" method="post">
+                    <div class="email">
+                        <input type="email" name="subscriber-email" placeholder="Email" pattern=".{1,}" required/>
+                    </div>
+                    <div class="submit">
+                        <label>
+                                                        <input type="submit" value="Sign Up"/>
+                            <!--<a class="button button-big">Sign Up</a>-->
+                        </label>
+
+                    </div>
+                    <div class="checkbox">
+                        <input type="checkbox" name="email-consent" id="email_consent" value="0" required />
+                                                                                                            <label for="email_consent"> I acknowledge that I may receive emails from FierceBiotech and on behalf of their trusted partners.</label>
+                                                    
+                                            </div>
+
+                </form>
+            </div>
+            </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+                      <div class="bottom">
+                <div class="region region-sidebar-bottom">
+    
+
+<div id="block-tektitegenericadsidebarblock2" class="block block-tektite-ad-blocks block-tektite-generic-ad-sidebar2">
+  
+    
+      <div id='sidebar-ad2-wrapper' style="text-align: center;">
+    <div id='sidebar-ad2'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "1";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'sidebar-ad2');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'sidebar-ad2',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] sidebar-ad2","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('sidebar-ad2');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+
+<div class="views-element-container block block-views block-views-blockauthor-block-1" id="block-tektite-biotech-views-block-author-block-1">
+  
+      <h2 class="block-title">About the Author</h2>
+    
+      <div><div class="js-view-dom-id-98af1331584725a5f613ae372ddfa4cb5eadc253e5861079fcf3a2a101abf4c4">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"><div class="views-field views-field-field-author-image"><div class="field-content">  <a href="/author/nick-paul-taylor" hreflang="en"><img src="https://qtxasset.com/field/image/nick.jpg?VersionId=MUzwIBNMNvhR9lV2aYHQEtZszbTyD0NI" width="260" height="260" alt="Nick Paul Taylor" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><div class="author-block-info">
+<div class="title"><a href="/author/nick-paul-taylor" hreflang="en">Nick Paul Taylor</a></div>
+<div class="job">Contributing Writer</div>
+<div class="email"><a href="/cdn-cgi/l/email-protection#f7b99e949cd98796829bd983968e9b9885b7909a969e9bd994989a"><span class="__cf_email__" data-cfemail="8bc5e2e8e0a5fbeafee7a5ffeaf2e7e4f9cbece6eae2e7a5e8e4e6">[email&#160;protected]</span></a></div>
+<div class="twitter"></div>
+<div class="linkedin"></div>
+<div class="facebook"></div>
+<div class="instagram"></div>
+</div></span></div></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+
+<div id="block-tektitegenericadhouseblock" class="block block-tektite-generic-blocks block-tektite-generic-ad-house">
+  
+    
+      <div id='sidebar-ad3-wrapper' style="text-align: center;">
+    <div id='sidebar-ad3'>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "1";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'sidebar-ad3');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'sidebar-ad3',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] sidebar-ad3","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('sidebar-ad3');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+            </div>
+                  </section>
+      </aside>
+      </main>
+
+  
+  
+</div>
+
+  <footer id="footer" role="contentinfo">
+        <div class="region region-footer">
+    
+
+<div id="block-tektitefooterblock" class="block block-tektite-generic-blocks block-generic-footer-block">
+  
+    
+      <div class="wrapper">
+    <div id="questex" class="footer-info">
+        <div class="footer-logo">
+            <a class="logo" href="https://questex.com">
+                <img alt="" src="/themes/custom/tektite/assets/images/questex-logo-white.svg?v=0.1"/>
+            </a>
+        </div>
+        <div class="wrapper">
+
+            <ul class="footer-menu">
+                                    
+                        <li class="menu-item--expanded"><a href="">GENERAL</a>
+
+                                                    <ul class="sub-menu">
+                                
+                                    <li class="menu-item"><a href="/">Home</a></li>
+
+                                
+                                    <li class="menu-item"><a href="https://www.questex.com/privacy-policy">Privacy</a></li>
+
+                                
+                                    <li class="menu-item"><a href="https://www.questex.com/terms-of-use">Terms of Use</a></li>
+
+                                
+                                    <li class="menu-item"><a href="/rss-feeds">RSS</a></li>
+
+                                                            </ul>
+                                                </li>
+                    
+                        <li class="menu-item--expanded"><a href="">CONTACT</a>
+
+                                                    <ul class="sub-menu">
+                                
+                                    <li class="menu-item"><a href="/advertise-us">Advertise</a></li>
+
+                                
+                                    <li class="menu-item"><a href="/about-us">About Us</a></li>
+
+                                                            </ul>
+                                                </li>
+                    
+                        <li class="menu-item--expanded"><a href="">NEWSLETTERS</a>
+
+                                                    <ul class="sub-menu">
+                                
+                                    <li class="menu-item"><a href="https://pages.questexnetwork.com/FierceBiotech-Newsletter-Signup.html">Subscribe</a></li>
+
+                                
+                                    <li class="menu-item"><a href="https://pages.questexnetwork.com/Manage-Subscriptions_Manage-Your-Subscriptions.html">Manage Subscriptions</a></li>
+
+                                                            </ul>
+                                                </li>
+                                                    
+                <li class="social menu-item--expanded"><a>Connect</a>
+
+                    <ul class="social-menu">
+                        
+                                                                    <li>
+                                        <a href="https://www.facebook.com/fiercebiotech/">
+                                            <svg id="Layer_1" xmlns="https://www.w3.org/2000/svg" width="18.9" height="18.9" viewBox="0 0 18.9 18.9"><path class="st0" d="M18.9 1v16.8c0 .6-.5 1-1 1H13v-7.3h2.4l.4-2.8H13V6.9c0-.8.2-1.4 1.4-1.4h1.5V3c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.1H7.6v2.8h2.5v7.3H1c-.6 0-1-.5-1-1V1c0-.6.5-1 1-1h16.8c.6 0 1.1.5 1.1 1z"/></svg>
+                                        </a>
+                                    </li>
+
+                                                        
+                                                                    <li>
+                                        <a href="https://twitter.com/fiercebiotech">
+                                            <svg id="Layer_1" xmlns="https://www.w3.org/2000/svg" width="19.4" height="15.7" viewBox="0 0 19.4 15.7"><path class="st0" d="M17.4 3.9v.5c0 5.2-4 11.3-11.3 11.3-2.2 0-4.3-.7-6.1-1.8h1c1.9 0 3.6-.6 4.9-1.7-1.7 0-3.2-1.2-3.7-2.8.2 0 .5.1.7.1.4 0 .7 0 1-.1C2.1 9 .7 7.4.7 5.5c.6.3 1.2.5 1.9.5C1.5 5.3.8 4.1.8 2.7c0-.7.2-1.4.5-2 2 2.4 4.9 4 8.2 4.2 0-.3-.1-.6-.1-.9 0-2.2 1.8-4 4-4 1.1 0 2.2.5 2.9 1.3.9-.2 1.8-.5 2.5-1-.3.9-.9 1.7-1.7 2.2.8-.1 1.6-.3 2.3-.6-.6.8-1.3 1.5-2 2z"/></svg>
+
+                                        </a>
+                                    </li>
+
+                                                        
+                                                                    <li>
+                                        <a href="https://www.linkedin.com/showcase/fierce-biotech/">
+                                            <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
+                                                 viewBox="0 0 18.9 18.9" style="enable-background:new 0 0 18.9 18.9;" xml:space="preserve">
+                                                        <path class="st0" d="M17.1,0H1.8C0.8,0,0,0.8,0,1.8v15.4c0,1,0.8,1.8,1.8,1.8h15.4c1,0,1.8-0.8,1.8-1.8V1.8C18.9,0.8,18.1,0,17.1,0z
+             M7.1,15.4H4.7V7.1h2.4V15.4z M5.9,5.9c-0.7,0-1.2-0.5-1.2-1.2s0.5-1.2,1.2-1.2s1.2,0.5,1.2,1.2S6.6,5.9,5.9,5.9z M15.4,15.4H13
+            v-4.7c0-0.7-0.5-1.2-1.2-1.2c-0.7,0-1.2,0.5-1.2,1.2v4.7H8.3V7.1h2.4v1.5c0.5-0.7,1.2-1.5,2.1-1.5c1.5,0,2.7,1.3,2.7,3V15.4z"/>
+        </svg>
+                                        </a>
+                                    </li>
+
+                                                                            </ul>
+
+                </li>
+
+                            </ul>
+
+
+
+        </div>
+
+    </div>
+</div>
+
+<div class="footer-message">
+    <div class="wrapper">
+      <p class="left">
+          <span>© 2021 Questex LLC. All rights reserved.
+                            3 Speen Street, Suite 300, Framingham, MA 01701</span>
+                </p>
+      <p class="right">
+          <span>Reproduction in whole or part is prohibited.</span>
+      </p>
+    </div>
+
+</div>
+
+  </div>
+
+
+<div id="block-bottomstickyad" class="block block-tektite-ad-blocks block-tektite-generic-ad-bottom-sticky">
+  
+    
+      <div id='bottom-sticky-wrapper' style="text-align: center;">
+    <div id='bottom-sticky'>
+        <script type='text/javascript'>
+            document.addEventListener("googletagEvent", function () {
+                let hideOnMobile = "0";
+                
+                let isMobileQuery = false;
+                if (typeof window.dataLayerValues === "undefined" || !window.dataLayerValues.hasOwnProperty('isMobileQuery') || window.dataLayerValues.isMobileQuery) {
+                    isMobileQuery = window.dataLayerValues.isMobileQuery;
+                }
+
+                // Don't display the ad unit if this is a mobile browser and we're supposed to hide the unit in mobile view.
+                if (isMobileQuery && hideOnMobile === '1') {
+                    console.log("[debug] [mobile] [skipping] ad unit: ", 'bottom-sticky');
+                    return;
+                }
+
+                let hideOnDesktop = "0";
+                // Don't display this ad unit if this is a desktop broser and we're supposed to hide the mobile ad unit
+                if(!isMobileQuery && hideOnDesktop === '1') {
+                    //console.log("[debug] [desktop] [skipping] ad unit on: ", 'bottom-sticky',"hideOnDesktop:",hideOnDesktop);
+                    return;
+                }
+
+                //console.log("[debug] bottom-sticky","firing");
+                googletag.cmd.push(function () {
+                    googletag.display('bottom-sticky');
+                });
+            });
+        </script>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+  </footer>
+
+  </div>
+
+      <div id="parsely-root" class="hidden"><span id="parsely-cfg" data-parsely-site="fiercebiotech.com"></span></div>
+    </div>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/582761","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,core\/html5shiv,core\/picturefill,parsely\/parsely-include,qtx_audience\/audienceGeneral,system\/base,tektite\/article-book-navigation,tektite\/article-social-share,tektite\/blueconic,tektite\/global-css,tektite\/global-js,tektite\/search-feature,tektite\/webfont.js,tektite_fierce\/GTMscripts,tektite_fierce\/fonts-js,tektite_fierce\/override-css,tektite_fierce\/override-js,tektite_generic_blocks\/block-handling,tektite_generic_blocks\/marketo-multi-form-handling,views\/views.module","theme":"tektite_fierce","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"parsely":{"parsely-include":{"apikey":"fiercebiotech.com"}},"basePath":"www.fiercebiotech.com","tektite":{"marketo":{"marketo_munchkin_id":"294-MQF-056","marketo_nlsignup_sidebar_form_id":""}},"tektite_fierce":{"gtm_key":"GTM-M98WT45","marketo_id":"12996"},"r":{"route":{"query":[],"parameters":{"node":"582761"}},"page":{"isSection":false,"isFrontPage":false,"homepageTermId":"137","heroFormat":null}},"user":{"uid":0,"permissionsHash":"c003909b6ff4a05575bdcee340575082f6d46f9bb7cf0ac184a9a467a40e704e"}}</script>
+<script src="/sites/fiercebiotech/files/js/js_c8LbWbHV1txem3q8oAzuadnL-HiBShaQH_WRviNqT_g.js"></script>
+<script src="/sites/fiercebiotech/files/js/js_hQSXU_zbJqof3y12MhPI7Ysd2kGl33cJXGVpYtnDbf0.js"></script>
+<script src="//static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/fiercebiotech/files/js/js_K8WjWylJMuC9X7UPhFnx2PKpGfKXSmt2neJ09X-RgCQ.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" async></script>
+<script src="/sites/fiercebiotech/files/js/js_6txShFh2kqJNyQ8zIiSXaxbK3dpMeRh5Z0PsEAh7qp8.js" defer></script>
+<script src="//app-sj10.marketo.com/js/forms2/js/forms2.min.js"></script>
+<script src="/sites/fiercebiotech/files/js/js_SAVbbVaruPD0zkfsy-MwQLXZnQ6Lbcicc54DTT-7e04.js"></script>
+
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"44925d6b58","applicationID":"51794171","transactionName":"NFBaMhZVDRIHABUPCg0aeQUQXQwPSScTExUCWWQIC1AGPSUMDxIXDFlUAxZoLQ4CBjcPABR2VwgQRgwNCgYTS1sVXF0R","queueTime":0,"applicationTime":536,"atts":"GBdZRF5PHhw=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

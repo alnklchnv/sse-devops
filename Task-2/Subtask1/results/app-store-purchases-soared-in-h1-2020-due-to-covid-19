@@ -1,0 +1,1531 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>App Store purchases have soared in 2020 due to COVID-19 | AppleInsider</title>
+        <meta name="description" content="The ongoing COVID-19 pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019.">
+        <meta name="keywords" content="Apple, Apple Inc, iPhone, iPad, iPod touch, iPod nano, Apple TV, Apple, iPod shuffle, iphone 6, iphone 6s, ios 9, ios9, iTunes, i mac, mac os x, mac osx, Apple Computer, Apple Computer Inc., Mac OS X, iMac, iBook, Mac Pro, MacBook Pro, Magic Pad, Magic Mouse, iPod classic, App Store, iTunes Store, iBook Store, mac book, Microsoft, Adobe, Research in Motion, RIM, Nokia, Samsung, Google, Nvidia, Intel">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- <meta name="google-site-verification" content="q6PMZEoYnsa-kIjsSGfwD9SONWR3UcUCH6Djz7pmhQs"> -->
+        <meta name="google-site-verification" content="p84Cqvyr9UB11ipMY8Bmt_X7K69Ay95_1EQ_BwRgU1c">
+        <meta name="robots" content="index,follow">
+        <meta property="fb:pages" content="135590163123753">
+        <meta name="apple-mobile-web-app-title" content="AppleInsider">
+
+        <meta name="theme-color" content="#171e27" media="(prefers-color-scheme: light)">
+        <meta name="theme-color" content="#303538" media="(prefers-color-scheme: dark)">
+
+		<link rel="apple-touch-icon" sizes="57x57" href="https://photos5.appleinsider.com/v9/images/apple-touch-icon-57.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://photos5.appleinsider.com/v9/images/apple-touch-icon-72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://photos5.appleinsider.com/v9/images/apple-touch-icon-114.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://photos5.appleinsider.com/v9/images/apple-touch-icon-144.png">
+		<link rel="apple-touch-icon" href="https://photos5.appleinsider.com/v9/images/apple-touch-icon-144.png">
+
+        <!-- Speed up some global things -->        
+        <link rel="preconnect" href="https://photos5.appleinsider.com" crossorigin>
+        <link rel="preconnect" href="https://www.google-analytics.com">
+        <link rel="preconnect" href="https://secure.quantserve.com">
+        <link rel="preconnect" href="https://biddr.brealtime.com">
+        <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-Regular.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-Black.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-Bold.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-ExtraBold.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-Italic.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-ExtraLightItalic.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://photos5.appleinsider.com/v10/fonts/Inter/Inter-Medium.woff2?v=3.15" as="font" type="font/woff2" crossorigin>
+
+        <link rel="alternate" type="application/rss+xml" href="/appleinsider.rss" title="AppleInsider News">
+        <link rel="canonical" href="https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19">
+        <link rel="stylesheet" href="https://photos5.appleinsider.com/v10/css/vendor.css?id=840f06eb8f7a660891cb" media="all">
+        <link rel="stylesheet" href="https://photos5.appleinsider.com/v10/css/app.css?id=e547c8674732d20af101" media="all">
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+        <script src="https://biddr.brealtime.com/77432379-1625.js"></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+          <link rel="amphtml" href="https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19/amp/" />
+  <meta property="og:url" content="https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19"/>
+  <meta property="og:image" content="https://photos5.appleinsider.com/gallery/37189-69731-36977-69174-36315-67414-34694-62834-app-store-hero-xl-xl-xl-xl.jpg"/>
+  <meta property="og:title" content="App Store purchases have soared in 2020 due to COVID-19 | AppleInsider"/>
+  <meta property="og:description" content="The ongoing COVID-19 pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019."/>
+  <meta property="fb:app_id" content="908219582587578" />
+  <meta property="og:type" content="website" /> 
+  <meta property="og:locale" content="en_US" /> 
+  <meta property="og:site_name" content="AppleInsider" /> 
+  <meta name="twitter:card" content="summary_large_image" /> 
+  <meta name="twitter:site" content="@appleinsider" /> 
+  <meta name="twitter:creator" content="@appleinsider" /> 
+  <meta name="twitter:domain" content="appleinsider.com" /> 
+  <meta name="twitter:title" content="App Store purchases have soared in 2020 due to COVID-19 | AppleInsider" /> 
+  <meta name="twitter:description" content="The ongoing COVID-19 pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019." /> 
+  <meta name="twitter:image" content="https://photos5.appleinsider.com/gallery/37189-69731-36977-69174-36315-67414-34694-62834-app-store-hero-xl-xl-xl-xl.jpg" /> 
+  <meta name="twitter:url" content="https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19" /> 
+         
+  <link rel="stylesheet" href="https://photos5.appleinsider.com/v9/css/pg_vendors.min.css?1.3" media="all">
+  <link rel="stylesheet" href="https://photos5.appleinsider.com/v9/css/font-awesome/css/font-awesome.min.css?1.11d" media="all">
+  
+  <script>
+  googletag.cmd.push(function () {
+    googletag.defineSlot('/53013535/160x600_Sticky', [[160,600]], 'div-gpt-ad-3649610-1')
+        .setTargeting('sub_section', 'article')
+        .addService(googletag.pubads());
+
+    googletag.defineSlot('/53013535/300x250_Article', [[300,250]], 'div-gpt-ad-3649610-2')
+        .setTargeting('sub_section', 'article')
+        .addService(googletag.pubads());
+  });
+  </script>
+        <script>
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+            apstag.init({
+                pubID: '434bb5e4-3704-4b75-b36c-785a444462bd',
+                adServer: 'googletag',
+                simplerGPT: true,
+                schain: {
+                    complete: 1,
+                    ver: '1.0',
+                    nodes: [
+                        {
+                            asi: 'theadengine.com',
+                            sid: '01286',
+                            hp: 1,
+                        },
+                    ],
+                },
+            });
+
+            googletag.cmd.push(function () {
+                googletag.defineSlot('/53013535/Homepage_Desktop_Third_Rectangle_300x250', [300, 250], 'div-gpt-ad-1588086356674-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/Homepage_Mobile_Desktop_Mid_News_Rive_300x250', [300, 250], 'div-gpt-ad-1588086901643-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/Article_Bottom_Desktop_300x250', [300, 250], 'div-gpt-ad-1588174358438-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/homepage_article_top_rectangle_300x250_300x600', [[300, 250], [300, 600]], 'div-gpt-ad-1587659960977-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/Homepage_Sidebar_Medium_Rectangle_Top_300x250', [300, 250], 'div-gpt-ad-1586438946709-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/Homepage_Article_Mobile_Prime_Rectangle_300x250', [300, 250], 'div-gpt-ad-1586972924313-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+                googletag.defineSlot('/53013535/Homepage_Leaderboard_970x250_728x90', [[728, 90], [970, 250]], 'div-gpt-ad-1588083483022-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+
+                // added 01.31.21
+                googletag.defineSlot('/53013535/Homepage_Mobile_Leaderboard_320x50_300x50', [[320, 50], [320, 100]], 'div-gpt-ad-1612108401781-0')
+                .setTargeting('sub_section', 'article')
+                .addService(googletag.pubads());
+                
+                // new tablet sized ads
+                googletag.defineSlot('/53013535/Homepage_Tablet_Leaderboard_728x90', [728, 90], 'div-gpt-ad-1594069462585-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+
+                googletag.defineSlot('/53013535/Homepage-Tablet-First-Rectangle-300x250', [300, 250], 'div-gpt-ad-1594069496893-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+
+                googletag.defineSlot('/53013535/Homepage-Tablet-Second-Rectangle-300x250', [300, 250], 'div-gpt-ad-1594069536089-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+
+                // added 08.12.20
+                googletag.defineSlot('/53013535/Homepage_Mobile_Middle_News_River_300x250', [300, 250], 'div-gpt-ad-1597235420817-0')
+                    .setTargeting('sub_section', 'article')
+                    .addService(googletag.pubads());
+
+                googletag.pubads().enableLazyLoad();
+                googletag.pubads().collapseEmptyDivs(); // this should help with CLS rating
+                googletag.pubads().disableInitialLoad();
+                googletag.enableServices();
+            });
+
+            googletag.cmd.push(function () {
+                apstag.fetchBids({
+                    //timeout: 2000
+                    timeout: 1500
+                },
+                function (bids) {
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh();
+                });
+            });
+        </script>
+              <script type="application/ld+json">
+{
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage":{
+        "@type": "WebPage",
+        "@id": "https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19"
+      },
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "headline": "App Store purchases have soared in 2020 due to COVID-19",
+      "description": "The ongoing COVID-19 pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019.",
+      "articleBody": "The ongoing COVID-19 pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019.           Country-wide lockdowns and social distancing measures, such as working from home initiatives, has been beneficial to the smartphone and mobile device industry, findings from App Annie suggest. The report into consumer behavior changes in the first half of 2020 reveals that people turned to mobile devices to work around and entertain themselves at home, to cope with not being able to be as sociable as usual.     According to the company, downloads of apps and games from the iOS App Store and Google Play Store boomed in the first half of 2020, seeing a 10% increase from the second half of 2019, and representing a 5% year-on-year increase. Global downloads peaked in April 2020, with a year-on-year increase of 25% for the month.           Similar results were determined in changes of spending habits, with consumers paying out more than $50 billion globally on apps and games in H1 2020, across both platforms, representing a 10% increase from H2 2019. Spending peaked in May 2020 at $6.8 billion, which the report suggests the higher spend one month after peak downloads indicates consumers are &quot;not just using apps more, but deriving value from mobile services.&quot;     Games were considered the main beneficiary during the period, outpacing apps at 35% growth in April 2020 compared to the average usage in H2 2019.           &quot;During this difficult time, we reached for our smartphones,&quot; reasons the report. &quot;Mobile is our portal to connection, entertainment, exploration, information, and creativity. It is a critical time for mobile adoption in our everyday lives and companies should prioritize mobile features, updates, and launches to meet consumer needs - or risk losing out to a competitor who does.&quot;     Other data points raised in the report include a 25% increase in hours spent in video streaming apps in H1 2020 over H2 2019, a 220% increase in work-related mobile apps such as Zoom and Microsoft Teams, and a rise in the number of daily waking hours devoted to smartphone use from 20% on average in 2019 to 27% in April 2020. ",
+      "image": "https://photos5.appleinsider.com/gallery/37189-69731-36977-69174-36315-67414-34694-62834-app-store-hero-xl-xl-xl-xl.jpg",
+      "datePublished": "2020-08-17T13:05:00+00:00",
+      "dateModified": "2020-08-17T13:05:09+00:00",
+      "author": {
+        "@type": "Person",
+        "name": "Malcolm Owen"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AppleInsider",
+        "sameAs": ["https://www.facebook.com/AppleInsiderdotcom", "https://www.instagram.com/appleinsider", "https://www.youtube.com/appleinsider", "https://twitter.com/appleinsider"],
+        "logo": {
+          "@type": "Imageobject",
+          "url": "https://photos5.appleinsider.com/mobile/img/wordmark-large.png",
+          "width": 420,
+          "height": 72
+        }
+      }
+    }
+</script>
+      </head>
+
+    <body>
+        <!--[if lte IE 8]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <header class="header header-desktop hidden-xs">
+    <nav class="navbar navbar-default hidden-xs" id="desktop-nav" aria-label="Primary">
+        <div class="container">
+            <div class="col-sm-1 header-bookend">
+                <a href="https://appleinsider.com"><img loading="lazy" src="https://photos5.appleinsider.com/v10/images/logo-2x.png" alt="AppleInsider logo" width="28" height="28" ara-label="Return Home"></a>
+            </div>
+
+            <div class="col-sm-10 text-center">
+                <ul class="nav navbar-nav">
+                    <li class="inl"><a href="https://appleinsider.com" title="News">News</a></li>
+                    <li class="inl"><a href="https://appleinsider.com/reviews" title="Reviews">Reviews</a></li>
+                    <li class="inl"><a href="https://appleinsider.com/how-to" title="How-Tos">How-Tos</a></li>
+                    <li class="inl"><a href="https://appleinsider.com/videos" title="Videos">Videos</a></li>
+                    <li class="inl dropdown dt-dd">
+                        <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                            <span class="uc">Deals</span> <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dt-dd">
+                            <li><a href="https://deals.appleinsider.com" title="Apple Deals">Apple Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-macbook-air-deals" title="MacBook Air Deals">MacBook Air Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-macbook-pro-deals" title="MacBook Pro Deals">MacBook Pro Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-mac-mini-deals" title="Mac mini Deals">Mac mini Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-ipad-deals" title="iPad Deals">iPad Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-apple-airpods-deals" title="AirPods deals">AirPods deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-apple-watch-deals" title="Apple Watch Deals">Apple Watch Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-imac-deals" title="iMac Deals">iMac Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/best-iphone-deals" title="iPhone Deals">iPhone Deals</a></li>
+                            <li><a href="https://appleinsider.com/deals/apple-authorized-resellers" title="Apple Authorized Resellers">Apple Authorized Resellers</a></li>
+                            <li><a href="https://appleinsider.com/deals/apple-student-discount" title="Apple Student Discount">Apple Student Discount</a></li>                            
+                            <li><a href="https://appleinsider.com/deals/best-mac-for-students" title="Macs for Students">Macs for Students</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="inl dropdown dt-dd">
+                        <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                            <span class="uc">Price Guides</span> <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dt-dd">
+                            <li><a href="https://prices.appleinsider.com" title="Apple Prices">Apple Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/current-gen" title="iMac, Mac mini, MacBook Price Guide">MacBook, iMac &amp; Mac mini Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/ipad" title="iPad Price Guide">iPad Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/apple-watch" title="Apple Watch Price Guide">Apple Watch Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/iphone" title="iPhone Price Guide">iPhone Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/wireless" title="AirTag, Apple TV Price Guide">Apple TV &amp; AirTag Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/music" title="Beats, HomePod, AirPods Price Guide">AirPods, HomePod &amp; Beats Prices</a></li>
+                            <li><a href="https://prices.appleinsider.com/trade-in" title="iPad, iPhone Trade In Price Guide">iPad &amp; iPhone Trade-in Values</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="inl dropdown dt-dd">
+                        <button class="dropdown-toggle" type="button" data-toggle="dropdown" aria-label="Apple A Through Z">
+                            <span class="uc">Apple A-Z</span> <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dt-dd">
+                            <li><a href="https://appleinsider.com/inside/airpods" title="AirPods">AirPods</a></li>
+<li><a href="https://appleinsider.com/inside/apple-tv" title="Apple TV">Apple TV</a></li>
+<li><a href="https://appleinsider.com/inside/apple-watch" title="Apple Watch">Apple Watch</a></li>
+<li><a href="https://appleinsider.com/inside/homepod" title="HomePod">HomePod</a></li>
+<li><a href="https://appleinsider.com/inside/iPad" title="iPad">iPad</a></li>
+<li><a href="https://appleinsider.com/inside/iphone" title="iPhone">iPhone</a></li>
+<li><a href="https://appleinsider.com/inside/mac" title="Mac">Mac</a></li>
+<li><a href="https://appleinsider.com/inside" title="More Apple A-Z">More...</a>                        </ul>
+                    </li>
+
+                    <li class="inl dropdown dt-dd">
+                        <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                            <span class="uc">More</span> <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dt-dd">
+                            <li class="inl"><a href="https://forums.appleinsider.com" title="Forums">Forums</a></li>
+                            <li class="inl"><a href="https://appleinsider.com/podcast" title="Podcasts">Podcasts</a></li>
+                            <li class="inl"><a href="https://appleinsider.com/contact" title="Contact Us">Contact Us</a></li>
+                            <li><a href="https://appleinsider.com/advertising" title="Advertise on Appleinsider">Advertise</a></li>
+                        </ul>
+                    </li>
+                    <li class="inl hidden-xs hidden-sm hidden-md stock-ticker" aria-label="Stock Price">
+                        AAPL: 143.29 ( <span class="Stockup">+1.29</span> )                    </li>
+                </ul>
+            </div>
+
+            <div class="col-sm-1 header-bookend" style="height:58px;">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default dropdown-toggle search-btn" data-toggle="dropdown" aria-label="Search" aria-haspopup="true" aria-expanded="false">
+                        <span class="glyphicon glyphicon-search mobile-search-glyph" aria-hidden="true"></span>
+                    </button>
+                    <div class="dropdown-menu dropdown-right-custom">
+                        <div class="container">
+                            <form class="navbar-form navbar-left search-mobile" role="search" action="/search/">
+                                <div class="form-group">
+                                    <div class="box">
+                                        <span class="glyphicon glyphicon-search mobile-search-glyph" aria-hidden="true"></span>
+                                    </div>
+                                    <div class="box search-input">
+                                        <input type="text" class="form-control" id="search-in-dt" name="query" placeholder="Search AppleInsider" title="Search">
+                                    </div>
+                                    <span class="box glyphicon glyphicon-remove mobile-remove-glyph" aria-hidden="true"></span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="push">&nbsp;</div>
+<!-- End Desktop Nav -->
+
+
+<!-- Begin Mobile Nav -->
+<nav class="navbar navbar-default navbar-fixed-top visible-xs" style="max-width:100%" aria-label="Primary">
+    <div class="container" style="max-width:100%;">
+        <div class="row navbar-header">
+            <div class="col-xs-3">
+                <button id="nav-toggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#js-navbar-collapse">
+                    <span class="collapsed-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> </span> <span class="open-nav"> <img loading="lazy" src="https://photos5.appleinsider.com/v10/images/navClose.png" alt="Close Nav"></span>
+                </button>
+            </div>
+            <div class="col-xs-6 hidden-md hidden-lg hidden-sm">
+                <a class="center-block text-center" href="https://appleinsider.com"><img loading="lazy" class="mobile-logo" src="https://photos5.appleinsider.com/v10/images/Logo_mobile.png" alt="AppleInsider Logo"></a>
+            </div>
+            <div class="col-xs-3 text-right">
+                <div class="btn-group search-bar-mobile">
+                    <button type="button" class="btn btn-default dropdown-toggle search-btn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Search">
+                        <span class="glyphicon glyphicon-search mobile-search-glyph" aria-hidden="true"></span>
+                    </button>
+                    <div class="dropdown-menu dropdown-right-custom">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <form class="navbar-form navbar-left search-mobile" tabindex="1" role="search" action="/search/">
+                                        <div class="form-group">
+                                            <div class="boxes">
+                                                <div class="box"> <span class="glyphicon glyphicon-search mobile-search-glyph" aria-hidden="true"></span></div>
+                                                <div class="box search-input"> <input type="text" id="search-in-mob" class="form-control" name="query" placeholder="Search AppleInsider" title="Search"></div>
+                                                <div class="box closeSearch"> <span class="glyphicon glyphicon-remove mobile-remove-glyph" aria-hidden="true"></span></div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse navbar-collapse" id="js-navbar-collapse" style="width:100%;">
+                <div class="container">
+                    <div class="row">
+                        <ul class="nav navbar-nav mobile-sett">
+                            <li style="border-bottom:1px solid var(--primary-nav-hr);"><a href="https://appleinsider.com" title="News">News</a></li>
+                            <li class="inl"><a href="https://appleinsider.com/how-to" title="How-Tos">How-Tos</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle mobile-topics-subnav subnav-adjust" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Apple A Through Z">
+                                    <div class="col-xs-11 subnav-adjust">Apple A-Z</div>
+                                    <div class="col-xs-1 subnav-adjust"><span class="glyphicon glyphicon-chevron-down"></span></div>
+                                </a>
+                                <ul class="dropdown-menu mobile-sett mobile-subnav">
+                                    <li><a href="https://appleinsider.com/inside/airpods" title="AirPods">AirPods</a></li>
+<li><a href="https://appleinsider.com/inside/apple-tv" title="Apple TV">Apple TV</a></li>
+<li><a href="https://appleinsider.com/inside/apple-watch" title="Apple Watch">Apple Watch</a></li>
+<li><a href="https://appleinsider.com/inside/homepod" title="HomePod">HomePod</a></li>
+<li><a href="https://appleinsider.com/inside/iPad" title="iPad">iPad</a></li>
+<li><a href="https://appleinsider.com/inside/iphone" title="iPhone">iPhone</a></li>
+<li><a href="https://appleinsider.com/inside/mac" title="Mac">Mac</a></li>
+<li><a href="https://appleinsider.com/inside" title="More Apple A-Z">More...</a>                                </ul>
+                            </li>
+                            <li><a href="https://appleinsider.com/reviews" title="Reviews">Reviews</a></li>
+                            <li><a href="https://appleinsider.com/videos" title="Videos">Videos</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle mobile-topics-subnav subnav-adjust" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <div class="col-xs-11 subnav-adjust">Deals</div>
+                                    <div class="col-xs-1 subnav-adjust"><span class="glyphicon glyphicon-chevron-down"></span></div>
+                                </a>
+                                <ul class="dropdown-menu mobile-sett mobile-subnav">
+                                    <li><a href="https://deals.appleinsider.com" title="Apple Deals">Apple Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-macbook-air-deals" title="MacBook Air Deals">MacBook Air Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-macbook-pro-deals" title="MacBook Pro Deals">MacBook Pro Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-mac-mini-deals" title="Mac mini Deals">Mac mini Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-ipad-deals" title="iPad Deals">iPad Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-apple-airpods-deals" title="AirPods deals">AirPods deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-apple-watch-deals" title="Apple Watch Deals">Apple Watch Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-imac-deals" title="iMac Deals">iMac Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-iphone-deals" title="iPhone Deals">iPhone Deals</a></li>
+                                    <li><a href="https://appleinsider.com/deals/apple-authorized-resellers" title="Apple Authorized Resellers">Apple Authorized Resellers</a></li>
+                                    <li><a href="https://appleinsider.com/deals/apple-student-discount" title="Apple Student Discount">Apple Student Discount</a></li>
+                                    <li><a href="https://appleinsider.com/deals/best-mac-for-students" title="Macs for Students">Macs for Students</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle mobile-topics-subnav subnav-adjust" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <div class="col-xs-11 subnav-adjust">Price Guides</div>
+                                    <div class="col-xs-1 subnav-adjust"><span class="glyphicon glyphicon-chevron-down"></span></div>
+                                </a>
+                                <ul class="dropdown-menu mobile-sett mobile-subnav">
+                                    <li><a href="https://prices.appleinsider.com" title="Apple Prices">Apple Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/current-gen" title="iMac, Mac mini, MacBook Price Guide">MacBook, iMac &amp; Mac mini Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/ipad" title="iPad Price Guide">iPad Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/apple-watch" title="Apple Watch Price Guide">Apple Watch Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/iphone" title="iPhone Price Guide">iPhone Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/wireless" title="AirTag, Apple TV Price Guide">Apple TV &amp; AirTag Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/music" title="Beats, HomePod, AirPods Price Guide">AirPods, HomePod &amp; Beats Prices</a></li>
+                                    <li><a href="https://prices.appleinsider.com/trade-in" title="iPad, iPhone Trade In Price Guide">iPad &amp; iPhone Trade-in Values</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="https://appleinsider.com/podcast" title="Podcasts">Podcasts</a></li>
+                            <li><a href="https://forums.appleinsider.com" title="Forums">Forums</a></li>
+                            <li><a href="https://appleinsider.com/submit_story" title="Contact Us">Contact Us</a></li>
+                            <li><a href="https://appleinsider.com/advertising" title="Advertise on Appleinsider">Advertise on AI</a></li>
+                        </ul>
+                    </div>
+
+
+                    <div class="row" style="margin: 15px auto;">
+                        <div class="col-xs-2">
+                            <a href="https://www.facebook.com/AppleInsiderdotcom" title="AppleInsider on Facebook">
+                            <div class="footer-social-image-FB" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                        <div class="col-xs-2">
+                            <a href="https://twitter.com/appleinsider" title="AppleInsider on Twitter">
+                            <div class="footer-social-image-T" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                        <div class="col-xs-2">
+                            <a href="https://www.instagram.com/appleinsider" title="AppleInsider on Instragram">
+                            <div class="footer-social-image-E" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                        <div class="col-xs-2">
+                            <a href="https://discord.gg/F4UFPVMhgM" title="Join the AppleInsider Discord Server">
+                            <div class="footer-social-discord" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                        <div class="col-xs-2">
+                            <a href="https://www.linkedin.com/company/appleinsider" title="AppleInsider on LinkedIn">
+                            <div class="footer-social-linkedin" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                        <div class="col-xs-2">
+                            <a href="https://www.youtube.com/appleinsider" title="Watch AppleInsider on YouTube">
+                                <div class="footer-social-youtube" aria-hidden="true"></div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xs-12" style="text-align: center; padding-bottom: 15px;">
+                            AAPL: 143.29 ( <span class="Stockup">+1.29</span> )                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xs-12 mobile-footer"> 
+                            <p>Copyright &copy; 2021, Quiller Media, Inc.</p>
+                            <p> <a href="https://appleinsider.com/contact" title="Contact Us">Contact Us</a> | <a href="https://appleinsider.com/privacy" title="Privacy policy">Privacy Policy</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>    
+</nav>
+<!-- End Mobile Nav -->
+
+<!-- Super leaderboard Ad -->
+<div class="container-fluid ad-wrap block-wrap">
+    <div id="div-gpt-ad-1588083483022-0" class="ad-leaderboard hidden-xs hidden-sm hidden-md">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588083483022-0'); });
+        </script>
+    </div>
+    
+    <!-- Tablet only leaderboard -->
+    <div id="div-gpt-ad-1594069462585-0" class="ad-leaderboard visible-sm visible-md">
+        <!-- Tablet leaderboard Ad -->
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594069462585-0'); });
+        </script>
+    </div>
+
+    <div id="mobile-ad-wrap" class="visible-xs">
+        <div id="div-gpt-ad-1612108401781-0" class="ad-leaderboard visible-xs">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1612108401781-0'); });
+            </script>
+        </div>
+    </div>
+</div>
+
+<div class="container" id="top-half-snap">
+    <div class="row main-page">
+        <main>
+         <!-- left side upper half -->
+ <div class="col-lg-9">
+    <article class="reviews">
+      <div class="row">
+        <header>
+          <div class="col-sm-12">
+             
+              <!-- <h3 class="hidden-xs hidden-sm">&nbsp;</h3> -->
+                      </div>
+          <div class="col-sm-12">
+            <h1 class="h1-adjust">App Store purchases have soared in 2020 due to COVID-19</h1>
+          </div>
+                      <div class="row article-hero-social">
+  <div class="col-sm-8">
+    <div class="avatar-link no-gutters">
+      <a href="https://appleinsider.com/editor/Malcolm+Owen" title="Malcolm Owen">
+        <img loading="lazy" class="avatarLG-article img-circle no-left-gutters" src="https://photos5.appleinsider.com/gallery/malcolm+owen.jpg" alt="Malcolm Owen's Avatar" aria-hidden="true">Malcolm Owen</a>
+        | <time datetime="2020-08-17T13:05:00+00:00">Aug 17, 2020</time>
+    </div>
+  </div>
+</div>
+                  </header>
+        <div class="row">
+          <div class="col-sm-12" id="article-hero">
+            <img loading="lazy" src="https://photos5.appleinsider.com/gallery/37189-69731-36977-69174-36315-67414-34694-62834-app-store-hero-xl-xl-xl-xl.jpg" alt="article thumbnail">
+          </div>
+          <div class="col-sm-12" id="article-social">
+          <div class="social-share col-xs-2">&nbsp;</div>
+                        <div class="social-share comments col-xs-2">
+              <a href="https://forums.appleinsider.com/discussion/217217" title="Read Comments">
+                <span class="glyphicon glyphicon-comment">&nbsp;</span>
+                <span class="hidden-xs">0 Comments</span>
+              </a>
+            </div>
+                        <div class="social-share facebook col-xs-2">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19" title="Share to Facebook">
+              <img loading="lazy" src="https://photos5.appleinsider.com/v10/images/facebook.png" alt="Facebook" aria-hidden="true"/><span class="hidden-xs">Facebook</span>
+              </a>
+            </div>
+            <div class="social-share twitter col-xs-2">
+              <a href="https://twitter.com/intent/tweet?original_referer=https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19&text=App+Store+purchases+have+soared+in+2020+due+to+COVID-19&url=https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19" title="Share to Twitter">
+                <img loading="lazy" src="https://photos5.appleinsider.com/v10/images/twitter.png" aria-hidden="true" alt="Twitter" />
+                <span class="hidden-xs">Twitter</span>
+              </a>
+            </div>
+            <div class="social-share reddit col-xs-2">
+              <a href="http://www.reddit.com/submit?url=https://appleinsider.com/articles/20/08/17/app-store-purchases-soared-in-h1-2020-due-to-covid-19" title="Share to Reddit">
+                <img loading="lazy" src="https://photos5.appleinsider.com/v10/images/reddit.png" aria-hidden="true" alt="Reddit" />
+                <span class="hidden-xs">Reddit</span>
+              </a>
+            </div>
+            <div class="social-share col-xs-2">&nbsp;</div>
+          </div>
+                    <div class="col-sm-12">
+    <p style="font-size:.9em;">
+        <em>
+            AppleInsider is supported by its audience and may earn commission when you buy through our links. 
+            These affiliate partnerships do not influence our editorial content.
+        </em>
+    </p>
+</div>          <div class="col-sm-12"><p>The ongoing <a href="https://appleinsider.com/inside/coronavirus">COVID-19</a> pandemic has reportedly prompted major changes in the way people use mobile devices like the iPhone, with consumers spending more time with their smartphones and purchasing more apps and games in the first half of 2020 than the second half of 2019. </p><div class="col-sm-12"><div class="align-center"></div></div><div class="col-sm-12"><p>Country-wide lockdowns and social distancing measures, such as working from home initiatives, has been beneficial to the smartphone and mobile device industry, findings from App Annie suggest. The <a href="https://www.appannie.com/en/insights/market-data/covid19-consumer-behavior-mobile/">report</a> into consumer behavior changes in the first half of 2020 reveals that people turned to mobile devices to work around and entertain themselves at home, to cope with not being able to be as sociable as usual. </p></div><div class="col-sm-12"><p>According to the company, downloads of apps and games from the iOS <a href="https://appleinsider.com/inside/app-store">App Store</a> and Google Play Store boomed in the first half of 2020, seeing a 10% increase from the second half of 2019, and representing a 5% year-on-year increase. Global downloads peaked in April 2020, with a year-on-year increase of 25% for the month. </p></div><div class="col-sm-12"><div class="primis-ad-wrap"></div></div><div class="col-sm-12"><div class="align-center"><a href="https://photos5.appleinsider.com/gallery/37189-69729-app-annie-covid-19-monthly-downloads-xl.jpg" target="_blank"><img src="https://photos5.appleinsider.com/gallery/37189-69729-app-annie-covid-19-monthly-downloads-xl.jpg" alt="" height="488" loading="lazy" class="img-responsive article-image"></a></div></div><div class="col-sm-12"><p>Similar results were determined in changes of spending habits, with consumers paying out more than $50 billion globally on apps and games in H1 2020, across both platforms, representing a 10% increase from H2 2019. Spending peaked in May 2020 at $6.8 billion, which the report suggests the higher spend one month after peak downloads indicates consumers are "not just using apps more, but deriving value from mobile services." </p></div><div class="col-sm-12"><p>Games were considered the main beneficiary during the period, outpacing apps at 35% growth in April 2020 compared to the average usage in H2 2019. </p></div><div class="col-sm-12"><div class="align-center"><a href="https://photos5.appleinsider.com/gallery/37189-69730-app-annie-covid-19-monthly-consumer-spend-xl.jpg" target="_blank"><img src="https://photos5.appleinsider.com/gallery/37189-69730-app-annie-covid-19-monthly-consumer-spend-xl.jpg" alt="" height="473" loading="lazy" class="img-responsive article-image"></a></div></div><div class="col-sm-12"><p>"During this difficult time, we reached for our smartphones," reasons the report. "Mobile is our portal to connection, entertainment, exploration, information, and creativity. It is a critical time for mobile adoption in our everyday lives and companies should prioritize mobile features, updates, and launches to meet consumer needs - or risk losing out to a competitor who does." </p></div><div class="col-sm-12"><p>Other data points raised in the report include a 25% increase in hours spent in video streaming apps in H1 2020 over H2 2019, a 220% increase in work-related mobile apps such as Zoom and Microsoft Teams, and a rise in the number of daily waking hours devoted to smartphone use from 20% on average in 2019 to 27% in April 2020. </p></div></div>
+
+        </div>
+        <hr class="hidden-lg hidden-xs">
+      </div>
+    </article>
+  <div class="col-sm-4 comment-count visible-xs" role="complementary" aria-label="Article Comments">
+          <span class="badge">
+        <a href="https://forums.appleinsider.com/discussion/217217">
+          0 Comments
+          <span class="carrot" aria-hidden="true"></span>
+        </a>
+      </span>
+      </div>
+  
+  <div class="hidden-xs">
+    <hr>
+  <!-- end right side upper half -->
+    <!-- GPT AdSlot 2 for Ad unit '300x250_Article' ### Size: [[300,250]] -->
+    <hr class="visible-xs">
+    <div class="row ad hidden-xs" style="text-align: center;">
+    <div id='div-gpt-ad-3649610-2'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-3649610-2'); });
+      </script>
+    </div>
+    <!-- End AdSlot 2 -->
+  </div>
+  
+      <aside class="row article-comments" style="overflow: hidden;">
+    <div class="row">
+            <h2 class="comment-section-head hidden-xs">Comments (0)</h2>
+                        <div class="col-lg-12" style="text-align:right;">
+                <a class="comments-read-more-link" href="https://forums.appleinsider.com/discussion/217217#first-reply" style="padding: 5px;">Read More on the forums...</a>
+            </div>
+            <div id="vanilla-comments">
+                <script>
+                    var vanilla_forum_url = 'https://forums.appleinsider.com/';
+                    var vanilla_identifier = 'vanilla-comments';
+                    var vanilla_discussion_id = '191948';
+
+                    /*** DON'T EDIT BELOW THIS LINE ***/
+                    (function() {
+                        var vanilla = document.createElement('script');
+                        vanilla.type = 'text/javascript';
+                        var timestamp = new Date().getTime();
+                        vanilla.src = vanilla_forum_url + '/js/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla); 
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to comment</noscript>
+            </div>
+    </div>
+</aside>
+    </div>
+</div>
+<!--  end left side upper half -->
+
+<!-- right side upper half -->
+  <div class="col-lg-3">
+    <div class="visible-lg" style="padding-top:10px;">&nbsp;</div>
+
+    <!-- Related Articles -->
+    <div class="hidden-xs">
+      <hr class="visible-md">
+      <div class="col-xs-12">
+        <h2 class="uc">Related Articles</h2>
+        <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44394-86172-210914-Google-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance">Google fined $177M by South Korea for abusing smartphone dominance</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">South Korea fined Google 207.4 billion won (US$177 million) on Tuesday for leveraging its dominant power in the smartphone market to stunt development of competing operating systems.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44043-85649-210826-AppStore-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit">Apple agrees to make key App Store changes, create $100M fund to settle developer lawsuit</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple on Thursday announced an agreement in a lawsuit brought by U.S. developers against the company over its App Store practices, with terms including the institution of a $100 million Apple Small Developer Assistance Fund and more open communication between developers and customers regarding alternative payment methods.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/08/26/apples-cook-receives-sells-off-over-5m-shares-of-aapl-stock-worth-more-than-750m"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44042-85647-210826-Cook-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/08/26/apples-cook-receives-sells-off-over-5m-shares-of-aapl-stock-worth-more-than-750m">Apple&#039;s Cook receives, sells off over 5M shares of AAPL stock worth more than $750M</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple CEO Tim Cook received more than 5 million shares of company stock this week, with the executive cashing out the entire award to come away with about $355 million.</p>
+        </div>
+    </div>
+</article>
+<hr>
+      </div>
+    </div>
+    <!-- end related articles -->
+
+    <hr class="hidden-lg hidden-md hidden-sm">
+<div class="boxes ad">
+    <div class="box">
+        <div class="ad-mrec" style="width: 300px; max-width: 300px; overflow: hidden; margin: 0 auto">
+            <div id="div-gpt-ad-1587659960977-0" class="hidden-xs">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1587659960977-0'); });
+                </script>
+            </div>
+            <div id="div-gpt-ad-1586972924313-0" class="visible-xs">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1586972924313-0'); });
+                </script>
+            </div>            
+        </div>
+    </div>
+</div>
+    <hr>
+
+    <div class="hidden-xs">
+      <article class="feat-deal2">
+  <div class="row">
+    <div class="col-xs-3 col-lg-6 avatar-link">
+      <a href="https://appleinsider.com/deals/apple-student-discount"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/price_guide/featured-deal/apple-back-to-school-deals-2021.png" alt="Back to School Apple hardware"></a>
+    </div>
+    <div class="col-xs-9 col-lg-6"><h2><a href="https://appleinsider.com/deals/apple-student-discount">Apple Student Discount</a></h2><span class="Stockdown">Best back-to-school bargains</span></div>
+  </div>
+</article>
+<p></p>
+<p></p>
+<article class="feat-deal2">
+  <div class="row">
+    <div class="col-xs-3 col-lg-6 avatar-link">
+      <a href="https://appleinsider.com/deals/best-ipad-deals"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/price_guide/featured-deal/2020-ipad-pro.png" alt="New iPad discounts"></a>
+    </div>
+    <div class="col-xs-9 col-lg-6"><h2><a href="https://appleinsider.com/deals/best-ipad-deals">M1 iPads are on sale now</a></h2><span class="Stockdown">Save up to $147</span></div>
+  </div>
+</article>
+<p></p>
+<p></p>
+<article class="feat-deal2">
+  <div class="row">
+    <div class="col-xs-3 col-lg-6 avatar-link">
+      <a href="https://appleinsider.com/articles/21/01/04/deals-m1-macbook-air-promo-code-knocks-up-to-150-off-every-model"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/price_guide/featured-deal/m1-macbook-air-gold.png" alt="Apple M1 MacBook Air deals"></a>
+    </div>
+    <div class="col-xs-9 col-lg-6"><h2><a href="https://appleinsider.com/deals/best-macbook-air-deals">Every M1 MacBook Air is discounted</a></h2><span class="Stockdown">Save up to $150</span></div>
+  </div>
+</article>
+    </div>
+    <div class="hidden-xs">
+      <hr>
+      <div class="boxes ad">
+    <div class="box">
+        <div id="div-gpt-ad-1588086356674-0" class="ad-mrec" style='width: 300px; height: 250px; margin: 0 auto;'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588086356674-0'); });
+            </script>
+        </div>
+    </div>
+</div>
+<hr class="visible-xs">    </div>
+    <div class="hidden-xs">
+              <hr class="visible-md">
+<h2 class="uc">
+                
+            Latest comparisons
+    </h2>
+
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/28/compared-microsoft-surface-go-3-vs-ipad-and-ipad-air"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44706-86936--m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/28/compared-microsoft-surface-go-3-vs-ipad-and-ipad-air">Compared: Microsoft Surface Go 3 vs iPad and iPad Air</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Microsoft&#039;s refresh of the Surface lineup includes the Surface Go 3 as Windows alternative to Apple&#039;s iPad. Here&#039;s how it stacks up against Apple&#039;s least expensive iPad and the iPad Air.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/27/compared-iphone-13-versus-iphone-13-pro"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44687-86795-iPhone-13-Pro-vs-iPhone-13-Rear-Cameras-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/27/compared-iphone-13-versus-iphone-13-pro">Compared: iPhone 13 versus iPhone 13 Pro</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">This year, perhaps more than any other year, there are significant differences between the mass-market iPhone 13 and the high-end iPhone 13 Pro. Here are all the differences between the pair.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/26/compared-microsofts-surface-pro-8-vs-129-inch-ipad-pro"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44685-86807-surface-pro-8-header-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/26/compared-microsofts-surface-pro-8-vs-129-inch-ipad-pro">Compared: Microsoft&#039;s Surface Pro 8 vs 12.9-inch iPad Pro</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Microsoft unveiled its latest slate of Surface computers, with the Surface Pro 8 appearing to be a direct competitor to Apple&#039;s 12.9-inch iPad Pro. Here&#039;s how Microsoft&#039;s new productivity tablet stacks up against Apple&#039;s long-standing offering.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44466-86371-Ninth-Gen-iPad-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8">Compared: 2021 entry-level iPad 9 versus 2020 iPad 8</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple has released a new 10.2-inch iPad model with a few updates to its camera, display, performance, and storage capacities. Here&#039;s what you should know about whether it&#039;s enough to upgrade.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44449-86316-Apple-Watch-Series-7-Compare-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7">Compared: Apple Watch SE versus Apple Watch Series 6 versus Apple Watch Series 7</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple has unveiled the Apple Watch Series 7, but are its new features enough to tempt current Apple Watch SE or Apple Watch Series 6 owners? Here&#039;s what you should know.</p>
+        </div>
+    </div>
+</article>
+<hr>
+          </div>
+  </div>
+    <div class="visible-xl desktop-sticky-rail ad">
+      <!-- GPT AdSlot 1 for Ad unit '160x600_Sticky' ### Size: [[160,600]] -->
+      <div id='div-gpt-ad-3649610-1'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-3649610-1'); });
+        </script>
+      </div>
+      <!-- End AdSlot 1 -->      
+    </div>
+  <!-- Dark mode support needs to be added to embed inside forums css to color correctly -->
+  </div>
+
+</div> <!-- /content -->
+
+  <div id="topic-nav" class="hidden-xs fluid-container">
+  <div class="container text-center">
+  <nav class="nav" aria-label="Secondary">
+      <ul>
+        <li><a href="https://appleinsider.com/inside/iphone-13" title="iPhone 13">iPhone 13</a></li>
+        <li><a href="https://appleinsider.com/inside/iphone-13-pro" title="iPhone 13 Pro">iPhone 13 Pro</a></li>
+        <li><a href="https://appleinsider.com/inside/iphone-12" title="iPhone 12">iPhone 12</a></li>
+        <li><a href="https://appleinsider.com/inside/macbook-pro" title="MacBook Pro">MacBook Pro</a></li>
+        <li><a href="https://appleinsider.com/inside/airpods" title="AirPods">AirPods</a></li>
+        <li><a href="https://appleinsider.com/inside/ipad-mini" title="iPad mini">iPad mini</a></li>
+        <li><a href="https://appleinsider.com/deals/black-friday" title="Black Friday">Black Friday</a></li>
+        <li><a href="https://appleinsider.com/inside/macbook-air" title="MacBook Air">MacBook Air</a></li>
+        <li><a href="https://appleinsider.com/inside" title="More...">More...</a>        
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<div id="topic-nav-spacer" class="hidden-xs hidden-sm">&nbsp;</div>
+  <div class="container">
+      <div class="row" role="complementary" aria-label="Latest News">
+        <h2 class="block-header uc">Latest News</h2>
+        <div class="col-lg-9">
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61704.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders">Apple Store down ahead of Apple Watch Series 7 preorders</a></p>
+        <span class="avatar-link"><time datetime="2021-10-08T07:04:44+00:00">1 hour ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders">Apple Store down ahead of Apple Watch Series 7 preorders</a></h2>
+                    The Online Apple Store went down late Thursday as Apple prepares to field preorders for Apple Watch Series 7, the company&#039;s next-generation wearable that was announced in September.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-08T07:04:44+00:00">1 hour ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224463"><span class="badge">1<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61703.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging">Android executive offers to help Apple deploy RCS messaging</a></p>
+        <span class="avatar-link"><time datetime="2021-10-08T03:10:17+00:00">5 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging">Android executive offers to help Apple deploy RCS messaging</a></h2>
+                    A Google SVP in a tweet Thursday extended an &quot;open invitation&quot; to assist Apple should it choose to support Rich Communication Services (RCS), which is primed to succeed SMS as the next mobile-to-mobile text standard.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-08T03:10:17+00:00">5 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224462"><span class="badge">12<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61702.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement">New App Store analytics provide developers deeper insight into app engagement</a></p>
+        <span class="avatar-link"><time datetime="2021-10-08T01:30:51+00:00">7 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement">New App Store analytics provide developers deeper insight into app engagement</a></h2>
+                    Developers can now access a slew of new App Store metrics to keep closer tabs on app performance, gauge customer interest and more.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-08T01:30:51+00:00">7 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224461"><span class="badge">2<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/08/ireland-joins-oecd-tax-agreement-ends-status-as-tax-haven-for-multinationals"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61701.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/mikey+campbell.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/08/ireland-joins-oecd-tax-agreement-ends-status-as-tax-haven-for-multinationals">Ireland joins OECD tax agreement, ends status as tax haven for multinationals</a></p>
+        <span class="avatar-link"><time datetime="2021-10-08T00:42:46+00:00">8 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/08/ireland-joins-oecd-tax-agreement-ends-status-as-tax-haven-for-multinationals">Ireland joins OECD tax agreement, ends status as tax haven for multinationals</a></h2>
+                    Ireland on Thursday announced that it will join an Organization for Economic Cooperation and Development agreement that brings an end to the country&#039;s low-tax policy for large multinationals, an incentive that attracted companies like Apple and Google to its shores.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/Mikey+Campbell">Mikey Campbell</a>  |  <time datetime="2021-10-08T00:42:46+00:00">8 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224460"><span class="badge">9<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/07/apples-first-us-developer-academy-is-now-open-in-detroit"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61700.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/07/apples-first-us-developer-academy-is-now-open-in-detroit">Apple&#039;s first US developer academy is now open in Detroit</a></p>
+        <span class="avatar-link"><time datetime="2021-10-07T23:34:47+00:00">9 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/07/apples-first-us-developer-academy-is-now-open-in-detroit">Apple&#039;s first US developer academy is now open in Detroit</a></h2>
+                    Apple this week opened the doors to its first developer academy in the U.S., an initiative that teaches developers and entrepreneurs how to contribute to and benefit from the iOS app economy.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-07T23:34:47+00:00">9 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224459"><span class="badge">1<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/07/apple-tv-greenlights-foundation-season-two"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61699.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/07/apple-tv-greenlights-foundation-season-two">Apple TV+ greenlights &#039;Foundation&#039; season two</a></p>
+        <span class="avatar-link"><time datetime="2021-10-07T22:33:39+00:00">10 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/07/apple-tv-greenlights-foundation-season-two">Apple TV+ greenlights &#039;Foundation&#039; season two</a></h2>
+                    Apple TV+ original series &quot;Foundation&quot; is getting a second season, the company announced on Thursday ahead of the premiere of the show&#039;s fourth episode.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-07T22:33:39+00:00">10 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224458"><span class="badge">24<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/07/apple-promotes-michael-shapiro-to-treasurer-names-four-new-vps"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61698.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/appleinsider+staff.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/07/apple-promotes-michael-shapiro-to-treasurer-names-four-new-vps">Apple promotes Michael Shapiro to treasurer, names four new VPs</a></p>
+        <span class="avatar-link"><time datetime="2021-10-07T21:38:22+00:00">11 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/07/apple-promotes-michael-shapiro-to-treasurer-names-four-new-vps">Apple promotes Michael Shapiro to treasurer, names four new VPs</a></h2>
+                    Apple has reportedly filled the role of recently retired corporate treasurer Gary Wipfler, with Michael Shapiro to take the reins of the tech giant&#039;s nearly $200 billion cash hoard.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/AppleInsider+Staff">AppleInsider Staff</a>  |  <time datetime="2021-10-07T21:38:22+00:00">11 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224457"><span class="badge">0<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                      <article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/61697.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="https://photos5.appleinsider.com/gallery/mikey+campbell.jpg" alt="author image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <!-- phone view -->
+      <div class="visible-xs">
+                <p><a href="https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders">Apple Watch Series 7 prices leak ahead of start to preorders</a></p>
+        <span class="avatar-link"><time datetime="2021-10-07T20:58:08+00:00">11 hours ago</time></span>
+      </div>
+      <!-- iPad and Desktop view -->
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders">Apple Watch Series 7 prices leak ahead of start to preorders</a></h2>
+                    A rumor on Thursday claims to shed light on Apple Watch Series 7 pricing, with the information detailing purchase costs that are largely identical to those of Apple Watch Series 6.
+        </div>
+                <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="https://appleinsider.com/editor/Mikey+Campbell">Mikey Campbell</a>  |  <time datetime="2021-10-07T20:58:08+00:00">11 hours ago</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+                    <a href="https://forums.appleinsider.com/discussion/224456"><span class="badge">2<span class="carrot" aria-hidden="true"></span></a>
+                  </div>
+      </div>
+  </div>
+  </div>
+  <hr>
+</article>
+                  </div>
+        <div class="col-lg-3">
+          <div class="visible-xs">
+            <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44394-86172-210914-Google-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance">Google fined $177M by South Korea for abusing smartphone dominance</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">South Korea fined Google 207.4 billion won (US$177 million) on Tuesday for leveraging its dominant power in the smartphone market to stunt development of competing operating systems.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44043-85649-210826-AppStore-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit">Apple agrees to make key App Store changes, create $100M fund to settle developer lawsuit</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple on Thursday announced an agreement in a lawsuit brought by U.S. developers against the company over its App Store practices, with terms including the institution of a $100 million Apple Small Developer Assistance Fund and more open communication between developers and customers regarding alternative payment methods.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5 col-lg-12">
+            <a href="https://appleinsider.com/articles/21/08/26/apples-cook-receives-sells-off-over-5m-shares-of-aapl-stock-worth-more-than-750m"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44042-85647-210826-Cook-m.jpg" alt="article thumbnail"></a>
+            <br>
+        </div>
+        <div class="col-sm-8 col-xs-7 col-lg-12">
+            <h2><a href="https://appleinsider.com/articles/21/08/26/apples-cook-receives-sells-off-over-5m-shares-of-aapl-stock-worth-more-than-750m">Apple&#039;s Cook receives, sells off over 5M shares of AAPL stock worth more than $750M</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple CEO Tim Cook received more than 5 million shares of company stock this week, with the executive cashing out the entire award to come away with about $355 million.</p>
+        </div>
+    </div>
+</article>
+<hr>
+          </div>
+          <hr class="visible-md">
+<h2 class="uc">
+    Latest Videos
+</h2>
+
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/06/five-things-missing-from-the-ipad-mini-that-apple-couldve-added"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44873-87240-ipad-mini-header-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/06/five-things-missing-from-the-ipad-mini-that-apple-couldve-added">Five key features missing from Apple&#039;s new iPad mini</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple&#039;s new iPad mini is striking because of its redesign and refined features, but there are still areas Apple could have worked on. Here&#039;s where Apple could have made even more improvements to the compact tablet.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44861-87283-iPad-mini-Article-2-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review">Flying with iPad mini: A pilot&#039;s review</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple specifically mentioned pilots when it released the 2021 iPad mini, so we interviewed 35-year aviator Scott Oglesby to learn more about its usefulness in the cockpit.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/04/apples-120hz-promotion-display-in-the-iphone-13-pro-what-you-need-to-know"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44828-87158-promotion-header-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/04/apples-120hz-promotion-display-in-the-iphone-13-pro-what-you-need-to-know">Apple&#039;s 120Hz ProMotion display in the iPhone 13 Pro: what you need to know</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple&#039;s introduction of ProMotion in its iPhone 13 Pro and Pro Max boasts a 120Hz refresh rate, but what is it and how is it useful? It turns out, it does a lot more than make the interface smoother.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/02/apple-watch-release-date-new-emoji-and-iphone-14-details-on-this-week-in-apple"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/42962-83508-42839-83257-42703-82887-42585-82619-42412-82286-41898-81261-41601-80665-41440-80397-This-Week-in-Apple-xl-xl-xl-xl-xl-xl-xl-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/02/apple-watch-release-date-new-emoji-and-iphone-14-details-on-this-week-in-apple">Apple Watch release date, new emoji, and &#039;iPhone 14&#039; details on This Week in Apple</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">On the newest episode of This Week in Apple, we discuss the likely Apple Watch Series 7 release date, upcoming emoji, and what the &#039;iPhone 14&#039; could look like.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44749-86958-P1000975-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats">iPad mini 2021 review: Delightfully small with few caveats</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Apple&#039;s redesigned iPad mini packs a powerful A15 Bionic into a pleasantly small and super lightweight package, with a few trade-offs.</p>
+        </div>
+    </div>
+</article>
+<hr>
+ <!-- Videos Sidebar -->
+          <div class="boxes ad">
+    <div class="box">
+        <div id="div-gpt-ad-1588174358438-0" class="ad-mrec" style='width: 300px; height: 250px; margin: 0 auto;'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588174358438-0'); });
+            </script>
+        </div>
+    </div>
+</div>
+<hr class="visible-xs">
+          <hr class="visible-md">
+<h2 class="uc">
+    Latest Reviews
+</h2>
+
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/04/iphone-13-review-still-the-iphone-for-everyone"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44649-87182-iPhone-13-Display-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/04/iphone-13-review-still-the-iphone-for-everyone">iPhone 13 review: Still the iPhone for the rest of us</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">This year&#039;s iPhone 13 isn&#039;t revolutionary, but it will wind up as the most popular iPhone 13 model.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/10/02/nomad-magnetic-base-station-mini-review-magnets-align-for-the-fastest-charge"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44192-86454-Nomad-Magnetic-Charger-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/10/02/nomad-magnetic-base-station-mini-review-magnets-align-for-the-fastest-charge">Nomad magnetic Base Station Mini review: Magnets align for the fastest charge</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Nomad&#039;s updated Base Station Mini now has a built in magnet array to allow iPhone 12 or iPhone 13 models to automatically align themselves for optimal charging performance.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/30/joby-griptight-mount-with-magsafe-review-an-affordable-photography-companion-for-iphone"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44790-87081-Joby-Grip-on-Other-Tripod-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/30/joby-griptight-mount-with-magsafe-review-an-affordable-photography-companion-for-iphone">Joby GripTight Mount with MagSafe review: An affordable photography companion for iPhone</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">Popular photography brand Joby has released a new version of its useful GorillaPod, now with a MagSafe-enabled mount for even easier use with iPhone 12 and iPhone 13.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/30/iphone-13-pro-iphone-13-pro-max-review-exceptional-phones-but-the-pro-max-underwhelms"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44650-87063-Hero-iPhone-13-Pro-&amp;-iPhone-13-Pro-Max-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/30/iphone-13-pro-iphone-13-pro-max-review-exceptional-phones-but-the-pro-max-underwhelms">iPhone 13 Pro &amp; iPhone 13 Pro Max review: Exceptional phones but the Pro Max underwhelms</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">While they&#039;re both great smartphones, the iPhone 13 Pro massively impresses, but we&#039;re underwhelmed with the improvements Apple made year-over-year to the larger iPhone 13 Pro Max.</p>
+        </div>
+    </div>
+</article>
+<hr>
+    <article class="main-art sidebar-article">
+    <div class="row">
+        <div class="col-sm-4 col-xs-5">
+            <a href="https://appleinsider.com/articles/21/09/29/native-union-snap-2-in-1-magnetic-charging-stand-review-an-apple-users-companion"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/gallery/44767-87008-iPhone-13-Pro-and-AirPods-Pro-m.jpg" alt="article thumbnail"></a>
+        </div>
+        <div class="col-sm-8 col-xs-7">
+            <h2><a href="https://appleinsider.com/articles/21/09/29/native-union-snap-2-in-1-magnetic-charging-stand-review-an-apple-users-companion">Native Union Snap 2-in-1 magnetic charging stand review: An Apple user&#039;s companion</a></h2>
+            <p class="sidebar-md-desc hidden-lg hidden-xs">The Native Union Snap 2-in-1 may be our favorite multi-device charger yet and it arrives just in time for new iPhone 13 users who want a stylish magnetic charger for their phone and AirPods.</p>
+        </div>
+    </div>
+</article>
+<hr>
+ <!-- Reviews Sidebar -->
+        </div>
+      </div>
+      <div class="col-lg-9" id="news-river"></div>
+      <div class="col-lg-9" id="river-load-more" role="navigation" role="Load More Stories" data-current-page="1" data-href="/news/page/2">
+    <div id="load-more">
+        <a href="/news/page/2" id="load-more-link">
+            <span id="load-more-link-text">Click to Load More</span>
+            <div class="ispinner ispinner--gray" style="display:none;">
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+                <div class="ispinner__blade"></div>
+            </div>
+        </a>
+    </div>
+    <hr class="visible-lg visible-md">
+</div>
+  </div>
+          </main>
+        <!-- New Footer -->
+<div class="col-xs-12 footer-cont">
+   <footer class="new-footer">
+      <div class="col-sm-12 col-lg-12">
+      <div class="row" style="padding-top: 40px; padding-bottom: 10px;">
+         <div class="col-sm-offset-1">
+            <img loading="lazy" src="https://photos5.appleinsider.com/v10/images/footer-ai-logo-2x.png" alt="AppleInsider Wordmark" width="184" height="55" />
+         </div>
+      </div>
+      <div class="row" style="padding-bottom: 20px;">
+         <div class="col-xs-2 col-sm-1 col-sm-offset-1">
+            <a href="https://www.facebook.com/AppleInsiderdotcom" title="AppleInsider on Facebook">
+               <div class="footer-social-image-FB" aria-hidden="true"></div>
+            </a>
+         </div>
+         <div class="col-xs-2 col-sm-1">
+            <a href="https://twitter.com/appleinsider" title="AppleInsider on Twitter">
+               <div class="footer-social-image-T" aria-hidden="true"></div>
+            </a>
+         </div>
+         <div class="col-xs-2 col-sm-1">
+            <a href="https://www.instagram.com/appleinsider" title="AppleInsider on Instragram">
+               <div class="footer-social-image-E" aria-hidden="true"></div>
+            </a>
+         </div>
+         <div class="col-xs-2 col-sm-1">
+            <a href="https://discord.gg/F4UFPVMhgM" title="Join the AppleInsider Discord Server">
+               <div class="footer-social-discord" aria-hidden="true"></div>
+            </a>
+         </div>
+         <div class="col-xs-2 col-sm-1">
+            <a href="https://www.linkedin.com/company/appleinsider" title="AppleInsider on LinkedIn">
+               <div class="footer-social-linkedin" aria-hidden="true"></div>
+            </a>
+         </div>
+         <div class="col-xs-2 col-sm-1">
+            <a href="https://www.youtube.com/appleinsider" title="Watch AppleInsider on YouTube">
+               <div class="footer-social-youtube" aria-hidden="true"></div>
+            </a>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-xs-12 col-sm-4 col-sm-offset-1">
+               <nav aria-label="Apple A through Z">
+                  <h2 class="uc">Apple A-Z</h2>
+                  <ul style="padding-left:0;">
+                  <li><a href="https://appleinsider.com/inside/apple-silicon" title="Apple Silicon">Apple Silicon</a></li>
+                  <li><a href="https://appleinsider.com/inside/iphone-12" title="iPhone 12">iPhone 12</a></li>
+                  <li><a href="https://appleinsider.com/inside/iphone-12-mini" title="iPhone 12">iPhone 12 mini</a></li>
+                  <li><a href="https://appleinsider.com/inside/iphone-12-pro" title="iPhone 12 Pro">iPhone 12 Pro</a></li>
+                  <li><a href="https://appleinsider.com/inside/iphone-12-pro-max" title="iPhone 12 Pro Max">iPhone 12 Pro Max</a></li>
+                  <li><a href="https://appleinsider.com/inside/homepod-mini" title="Homepod Mini">HomePod mini</a>
+                  <li><a href="https://appleinsider.com/inside/14-inch-macbook-pro" title="14&quot; Mabook Pro">14" MacBook Pro</a></li>
+                  <li><a href="https://appleinsider.com/inside/apple-watch-series-6" title="Apple Watch Series 6">Apple Watch 6</a></li>
+                  <li><a href="https://appleinsider.com/inside/ipad-air-4" title="iPad Air">iPad Air</a>
+                  <li><a href="https://appleinsider.com/inside" title="More...">More...</a>
+                  </ul>
+               </nav>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+               <nav aria-label="Price Guides">
+                  <h2 class="uc">Price Guides</h2>
+                  <ul style="padding-left:0;">
+                  <li><a href="https://prices.appleinsider.com" title="Price Guides">All</a></li>
+                  <li><a href="https://prices.appleinsider.com/current-gen" title="Mac Price Guides">New Macs</a></li>
+                  <li><a href="https://prices.appleinsider.com/ipad" title="iPad Price Guides">iPads</a></li>
+                  <li><a href="https://prices.appleinsider.com/apple-watch" title="Apple Watch Price Guides">Apple Watch</a></li>
+                  <li><a href="https://prices.appleinsider.com/iphone" title="iPhone Price Guides">iPhones</a></li>
+                  <li><a href="https://prices.appleinsider.com/wireless" title="Apple TV &amp; Accessories Price Guides">Apple TV &amp; Accessories</a></li>
+                  <li><a href="https://prices.appleinsider.com/music" title="Music Price Guides">AirPods &amp; Homepods</a></li>
+                  <li><a href="https://prices.appleinsider.com/trade-in" title="Trade-in Price Guides">iPhone &amp; iPad Trade-in Prices</a></li>
+                  </ul>
+               </nav>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+               <nav aria-label="More on AppleInsider">
+                  <h2 class="uc">More</h2>
+                  <ul style="padding-left:0;">
+                  <li><a href="https://appleinsider.com/how-to" title="How-Tos">How-Tos</a></li>
+                  <li><a href="https://forums.appleinsider.com" title="Forums">Forums</a></li>
+                  <li><a href="https://appleinsider.com/podcast" title="Podcasts">Podcasts</a></li>
+                  <li><a href="https://deals.appleinsider.com" title="Deals">Deals</a></li>
+                  <li><a href="https://appleinsider.com/videos" title="Videos">Videos</a></li>
+                  <li><a href="https://appleinsider.com/reviews" title="Reviews">Reviews</a></li>
+                  <li><a href="https://appleinsider.com/submit_story" title="Contact Us">Contact Us</a></li>
+                  <li><a href="https://appleinsider.com/advertising">Advertise on AI</a></li>
+                  </ul>
+               </nav>
+               <h3 style="margin-top: 30px;">Designed by <a href="https://www.craftedny.com">Crafted</a></h3>
+            </div>
+         </div>
+         <div class="row" style="padding-top:2rem; margin-top:5rem; border-top: 1px solid #282e37; padding-bottom:20px;">
+            <div class="col-sm-6 col-xs-12 fine-print">Copyright &copy; 2021, Quiller Media, Inc.</div>
+            <div class="col-xs-12 col-sm-6 fp-links fine-print" role="navigation" aria-label="Extra Links">
+               <a href="https://appleinsider.com/contact">Contact Us</a> | 
+               <a href="https://appleinsider.com/privacy">Privacy Policy</a> | 
+               <a href="https://appleinsider.com/terms-of-use">Terms of Use</a>
+            </div>
+         </div>
+      </div>
+   </footer>
+</div>
+
+        <!-- Google Analytics -->
+        <script>
+            !function(A,n,g,u,l,a,r){A.GoogleAnalyticsObject=l,A[l]=A[l]||function(){
+            (A[l].q=A[l].q||[]).push(arguments)},A[l].l=+new Date,a=n.createElement(g),
+            r=n.getElementsByTagName(g)[0],a.src=u,r.parentNode.insertBefore(a,r)
+            }(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-280331-5');
+            ga('send', 'pageview');
+        </script>
+        
+        <!-- Quantcast Tag -->
+        <script>
+            var _qevents = _qevents || [];
+
+            (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+            })();
+
+            _qevents.push({
+            qacct:"p-dGYBJRHHExURr",
+            uid:"__INSERT_EMAIL_HERE__"
+            });
+        </script>
+        <noscript>
+            <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-dGYBJRHHExURr.gif" height="1" width="1" alt="Quantcast" style="border:0;" />
+            </div>
+        </noscript>
+        <!-- End Quantcast tag -->
+
+        <script src="https://photos5.appleinsider.com/v10/js/vendor.js?id=62590c4eade9051067ba"></script>
+        <script src="https://photos5.appleinsider.com/v10/js/app.js?id=05b1e477a3278e9e6814"></script>
+          <template id="river-template">
+<article class="main-art river">
+  <div class="row">
+    <div class="col-sm-4 col-xs-5">
+      <a href="{{ link }}"><img loading="lazy" class="img-responsive" src="https://photos5.appleinsider.com/apps/ipad/images/articles/{{id}}.jpg" alt="article thumbnail"></a>
+      <img loading="lazy" class="avatar img-circle hidden-xs" src="{{ authorImage }}" alt="author profile image">
+    </div>
+    <div class="col-sm-8 col-xs-7">
+      <div class="visible-xs">
+        <p><a href="{{ link }}">{{ title }}</a></p>
+        <span class="avatar-link"><time datetime="{{ isoDate }}">{{ dateFormatted }}</time></span>
+      </div>
+      <div class="row hidden-xs">
+        <div class="col-sm-12">
+          <h2 class="blueHover"><a href="{{ link }}">{{ title }}</a></h2>
+          {{ summary }}
+        </div>
+        {{{ reviewStars.html }}}
+        <div class="col-sm-10 avatar-link river-author-byline">
+          By <a href="{{ authorLink }}">{{ author }}</a>  |  <time datetime="{{ isoDate }}">{{ dateFormatted }}</time>
+        </div>
+        <div class="col-sm-2 river-comments">
+          <a href="{{ commentsLink }}"><span class="badge">{{ commentCount }}<span class="carrot" aria-hidden="true"></span></a>
+        </div>        
+      </div>
+    </div>
+  </div>
+  <hr>
+</article>
+</template>
+  <template id="river-ad-template">
+    <div class="ad-mrec river-ad" style="width: 300px; height: 250px; margin: 0 auto; overflow: hidden; margin-bottom: 10px;">
+    </div>
+    <script>
+        if(typeof riverSlots == 'undefined'){
+            riverSlots = [];
+        }    
+        let n = Math.round(new Date().getTime());
+        let element = $('.river-ad:last');
+        let divName = "ad-river-"+n;
+        element.append('<div id="'+divName+'"></div>');
+
+        if(googletag.defineSlot){
+            riverSlots.push( googletag.defineSlot('/53013535/Load_More_News_River_Pop_300x250', [300, 250], divName)
+                .setTargeting('sub_section', Appleinsider.subSection)
+                .addService(googletag.pubads())
+            );
+
+            googletag.cmd.push(function() { googletag.display(divName); });
+            googletag.pubads().refresh(riverSlots, {changeCorrelator: false});
+        } else {
+            console.log('googletag not set. Ad blocker?');
+        }
+    </script>
+</template>
+  <script src="https://photos5.appleinsider.com/v10/js/article.js?id=1c19b382ffd76c565985"></script>
+  
+  <script type="text/template" id="coupon-overlay-template">
+    <div id="pg-coupon-overlay">
+      <div>
+        <div style="text-align:center; margin-bottom:10px;"><img src="{IMG}"></div>
+        <h2 class="fauxh1" style="padding-bottom:10px;"><a href="{LINK}">{LINK_TEXT}</a></h2>
+      </div>
+      <div>
+        <p style="padding-bottom:10px;">{COUPON_INSTRUCTIONS}</p>
+        <a id="coupon-overlay-buy" class="blue-light" href="{LINK}">Buy Now</a>
+      </div>
+    </div>
+  </script>
+
+  <script>
+    //price guide embed coupon clicks.
+    $(document).on('click', '.symbol', function(e){
+        let link = $(this).attr('data-link');
+        let img = $("#guide-image").attr("src");
+        let title = $(this).parents("tr").children("td.item-desc:first")[0].innerHTML;
+        let instructions = $(this).siblings(".tool-tip p:first")[0].innerHTML;
+        let template = $('#coupon-overlay-template').text();
+        
+        template = template.replaceAll('{LINK_TEXT}', title);
+        template = template.replaceAll('{LINK}', link);
+        template = template.replace('{IMG}', img);
+        template = template.replace('{COUPON_INSTRUCTIONS}', instructions);
+
+        $(this).colorbox({
+            html: template,
+            open: !0,
+            showClose: 1,
+            opacity: .9,
+            width: "90%",
+            height: "80%",
+            top: "25%"
+        });
+
+        e.preventDefault();
+    });
+  </script>
+  <script>
+    $(window).on('scroll', function(e){
+      if( $(window).scrollTop() > 200 && $('#header-deal-overlay')) {
+        $('#header-deal-overlay').show();
+        $('#header-deal-overlay').removeClass('doHide').addClass('doShow');
+      }
+
+      if( $(window).scrollTop() < 200 && $('#header-deal-overlay')) {
+        $('#header-deal-overlay').addClass('doHide').removeClass('doShow');
+        $('#header-deal-overlay').hide();
+      }
+    });
+  </script>
+    </body>
+</html>

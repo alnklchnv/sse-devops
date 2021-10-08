@@ -1,0 +1,4004 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"  >
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="text/html, charset=UTF-8, IE=edge, chrome=1">
+			<link rel="canonical" href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" />
+											<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.cp24.com/mobile/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618"/>
+						
+<script type="text/javascript">
+var videoPageUrl = "https://www.cp24.com/video";
+</script>
+<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery-1.7.js"></script>
+<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/requireDependency.js"></script>
+<script type="text/javascript">
+  var kruxID = "InJgKD0f";
+</script>
+<!-- END Krux Controltag -->
+	<meta name="viewport" content="width=1024" />
+	<style>
+		@font-face {font-family: 'Flama-Medium';src: url('https://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.eot?s=2_614');src: url('https://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.eot?#iefix&s=2_614') format('embedded-opentype'),url('https://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.woff?s=2_614') format('woff'),url('https://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.svg#font&s=2_614') format('svg');font-weight: normal;font-style:normal;}
+	</style>
+	<link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/common/css/common.css?v1" />
+
+<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery.polopoly.js"></script>
+
+
+    <script type="text/javascript" src="https://z.moatads.com/bellmediaprebidheader755367530455/moatheader.js"></script>
+
+
+
+
+		<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/js.cookie.min.js"></script>
+	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jwt-decode.min.js"></script>
+	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/moment.min.js"></script>
+	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jsrsasign-latest-all-min.js"></script>
+	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/ua-parser.min.js"></script>
+	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/userManagement.js"></script>
+	
+	
+  	 <script  type="text/javascript">
+		 function createUMLink(){
+		    var umUrl = "https://account.bellmedia.ca/" + "?service=" + "cp24" + "&action=signin";
+		    var currentPage = encodeURIComponent(window.location.href); 
+		    
+		    		        var fallBackVar = encodeURIComponent("https://www.cp24.com/umsignin");
+		        umUrl = umUrl + "&fallback=" + fallBackVar ;
+		       
+		    		    
+		    umUrl = umUrl + "&continue=" + currentPage ;
+		    return umUrl;
+		 }  
+		 
+		document.addEventListener('DOMContentLoaded', (event) => {
+		      umSession.loginUrl = createUMLink();
+              umSession.cookieDomain = '.cp24.com';
+              umSession.accessCookieName =  'access';
+              umSession.refreshCookieName = 'refresh';
+              umSession.sessionCookieName = 'um_session';
+              umSession.jwtSecurityKey = '-----BEGIN PUBLIC KEY-----' +'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4Lb/7NVtmj7x6i9nK5vJqwt3BlebdDQBoWSFlpMHaRyVhXp0uzSXC+GEoau8EaYGqnhe9oeVfQF8QXPO4RaVAKLkkLZtUKAXZvGhUTaSF8q4c3psiH7TPtgPCz/WQkidjLWCEnMrEfNBUZ/usMA97GN1LJWXmX6ZT09NbBEpEFS1fjzG5comGzJadBEzPXrjWrEMht1M5zr6PBDMcT/62JSi/aE2DQbqTcIe7HZQ9N5IiHn9h+uh2Ixn7i4MrQA0GMDzRoHZvDZZxltsZxH2Y/ECFRKe4oKm7muCBFcqw/oIeSnIE4jTSN5cutJUTPyXn+v+cyc/s8WuaxezUhPlmQIDAQAB' + '-----END PUBLIC KEY-----';
+              umSession.enableJwtSecurity = true;
+              umSession.refreshTokensUrl = 'https://account.bellmedia.ca/api/login/v2.1';
+              umSession.token = btoa('cp24-web' + ':' + 'default');
+              umSession.accessTokenRefreshTime =  0;
+       	 
+       	  	 if(umSession.isAuthenticatedWithoutTrigger()){
+	            umSession.validateRefreshToken();
+	         }
+	         
+	         var sessionCookie = Cookies.get( umSession.sessionCookieName, {domain:  umSession.cookieDomain});
+	         var accessCookie = Cookies.get(this.accessCookieName, {domain: this.cookieDomain});
+             var refreshCookie = Cookies.get(this.refreshCookieName, {domain: this.cookieDomain});
+          
+	         if(sessionCookie && (accessCookie || refreshCookie)){
+	         	var cookieJson = JSON.parse(sessionCookie);
+	         	umSession.throwError(cookieJson.statusCode);
+	         }
+	    });
+  	</script>		                        <link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/common/css/jquery.lightbox-0.4.css" media="screen" />
+                    <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/swfobject-2.2.js" ></script>
+                    <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/lightbox/jquery.lightbox-0.4.min.js" ></script>
+                    <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery.validate-1.12.0.min.js" ></script>
+                    <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/membership.js" ></script>
+                      <link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/ctvnews/css/imageGallery.css" media="screen" />
+                <!--[if IE 7]>
+<style>
+.content-secondary .videoPromoList .teaser .teaserTitle {margin-top: 0}
+.content-secondary .videoPromoList .teaser .teaserTitle, .content-secondary .videoPromoList .teaser .teaserTitle a {line-height: 1}
+.onlineExtras .right {float: left; margin-left: 0; width: auto}
+.onlineExtras .button {padding-right: 0.9em}
+.onlineExtras .arrow {position: absolute; margin-top: 5px; }
+.topAd .boxAd p {position: static!important}
+.fbpluginrecommendationsbarright {display: none!important}
+
+.element.time {display: none!important}
+</style>
+ <![endif]-->
+
+<!--[IF IE]>
+<style>
+.toronto2014 svg {overflow: hidden}
+}
+</style>
+ <![endif]-->
+
+                  <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/detectMobile.js" ></script>
+                <script type="text/javascript">
+if(!(window.console && console.log)) {
+  console = {
+    log: function(){},
+    debug: function(){},
+    info: function(){},
+    warn: function(){},
+    error: function(){}
+  };
+}  
+function outputLog(source, str) {
+  try {
+        if (isDebug) {
+            if (console && console.log) {
+                console.log("[ " + source + " ]=" + str);
+            }
+        }
+  } catch (e) {
+  }
+}
+</script>  
+                    <link rel="stylesheet" type="text/css" href="https://www.ctvnews.ca/cmlink/site-style-improvements-7.695789?v3" media="screen" />
+                        <link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/cp24/css/cp24_layout.css" media="screen" />
+                      <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/cp24/css/ie_cp24.css" media="screen" />
+      <![endif]-->
+                      <!--[if IE 8]>
+      <link rel="stylesheet" type="text/css" href="https://static.ctvnews.ca/bellmedia/common/css/ie8_common.css" media="screen" />
+      <![endif]-->
+                  <link rel="icon" type="image/ico" href="https://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico" /> 
+              <!--[if IE 7]>
+<style>
+.banner .search {margin-right: 65px!important;}
+.banner .search FORM {width: 166px}
+.time.element {margin-left: 185px!important}
+.banner .search.element input[type="text"] {width: 125px!important}
+</style>
+<![endif]-->
+
+                <link rel="apple-touch-icon" type="image/png" href="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon.png " /> 
+                <link rel="apple-touch-icon" type="image/png" href="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon-72x72.png " sizes="72x72"/> 
+                <link rel="apple-touch-icon" type="image/png" href="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon-114x114.png " /> 
+              <meta name="google-site-verification" content="AU6kMFW-Dd-lYTXYKS0K98fbD05aEV5AwDq7fCg3Tkk" />
+<meta name="google-site-verification" content="Eh8MYsGLRxZ8BOo08VCgbZT0z1EZqs4oeMJiqrBggFc" />
+<meta name="google-site-verification" content="hcrqeJADr3SMBZA5OxYeo_WA2U7PfQYko9FrM6PhwUA" />
+<meta name="msvalidate.01" content="B1BCFEC1B3CD761CBEBC4CEBD2B351E5" />              <link rel="publisher" href="https://plus.google.com/u/0/b/104271651368601473061/"/>              <meta property="twitter:account_id" content="19636948" />                  <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery.pinable.js" ></script>
+                  <meta name="msapplication-starturl" content="https://www.cp24.com/?cid=ie9_taskbar_cp24" />
+  <meta name="msapplication-tooltip" content="CP24 – Toronto and GTA News, Breaking News, Headlines, World, Entertainment, Sports, Lifestyle and m" />
+  <meta name="msapplication-navbutton-color" content="#0183fd" />
+              <meta name="msapplication-task" content="name=World;action-uri=https://www.cp24.com/world/cp24-world-more-7.289615/cp24-world-1.813059;icon-uri=http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico" />
+            <meta name="msapplication-task" content="name=Local News;action-uri=https://www.cp24.com/news/cp24-top-stories-more-7.289613/cp24-top-stories-1.813056;icon-uri=http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico" />
+            <meta name="msapplication-task" content="name=CP24 Videos;action-uri=https://www.cp24.com/video;icon-uri=http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico" />
+                        
+        <script type="text/javascript">
+            (function() {
+                /** CHARTBEAT HEADER CONFIGURATION START **/
+                var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+                _sf_async_config.uid = 65778; //65778
+                _sf_async_config.domain = 'cp24.com'; //'ctvnews.ca';
+                _sf_async_config.flickerControl = false;
+                _sf_async_config.useCanonical = true;
+                _sf_async_config.useCanonicalDomain = true;
+                /** CHARTBEAT HEADER CONFIGURATION END **/
+            })();
+        </script>
+        <script async="true" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+        	<script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/mdetect.js"></script>
+ 		  <link rel="stylesheet" type="text/css" href="/cmlink/ctv-styles-7.132" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/weather-link-7.729539" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/responsive-override-7.726278" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/hide-g-7.725977" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/ontario2014-7.523345" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/video-bin-column-css-7.489853" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/banner-temp-7.298239" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/player-style-7.363763" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/background-override-7.682833" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/sponsored-articles-7.688114" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/newmynews-7.701063" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/tsn-widget-7.701032" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/articlerightrail-7.699035" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/crush-banner-bandaid-7.687060" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/rightrail-poll-defaultbg-css-7.624335" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/cp24-styles-7.298238" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/pmh5050css-7.494541" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/story-related-7.343939" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/homepage-tabs-css-7.611240" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/brightcove-css-7.666274" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/election-article-rr-7.736915" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/articlestoryfarm-7.697834" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/bgk-edo-7.325901" />
+		  <link rel="stylesheet" type="text/css" href="/cmlink/local-news-css-7.328470" />
+		<link href="https://static.ctvnews.ca/bellmedia/common/css/responsive_layout.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
+	<link href="https://static.ctvnews.ca/bellmedia/common/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]>
+        <script>
+        document.createElement('header');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('article');
+        document.createElement('aside');
+        document.createElement('footer');
+        document.createElement('hgroup');
+        </script>
+        <![endif]-->
+<script type="text/javascript">
+if(!(window.console && console.log)) {
+  console = {
+    log: function(){},
+    debug: function(){},
+    info: function(){},
+    warn: function(){},
+    error: function(){}
+  };
+}
+</script>
+	
+    
+
+
+	<!-- set index exchange script-->
+				<script async src=//js-sec.indexww.com/ht/p/183816-221446884420070.js ></script>
+
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+	function retrieve(n){
+		var m, k='kx'+n;
+		if (window.localStorage) {
+			return window.localStorage[k] || "";
+		} else if (navigator.cookieEnabled) {
+			m = document.cookie.match(k+'=([^;]*)');
+			return (m && unescape(m[1])) || "";
+		} else {
+			return '';
+		}
+	}
+	Krux.user = retrieve('user');
+	Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!-- Permutive start -->
+  <script id="permutiveScript" type="text/javascript" >
+    !function (n, e, o, r, i) {
+      if (!e) {
+        e = e || {}, window.permutive = e, e.q = [], e.config = i || {}, e.config.projectId = o, e.config.apiKey = r, e.config.environment = e.config.environment || "production";
+        for (var t = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], c = 0; c < t.length; c++) {
+          var f = t[c];
+          e[f] = function (n) {
+            return function () {
+              var o = Array.prototype.slice.call(arguments, 0);
+              e.q.push({functionName: n, arguments: o})
+            }
+          }(f)
+        }
+      }
+    }(document, window.permutive, "289d106c-df24-4cd9-a9fa-753e928c23ad", "b1a4360a-3db9-4b39-b09d-c3e14666840a", {});
+    const idCheck = () => {
+      const getCookie = (cname) => {
+        const name = cname + "=";
+        const decodedCookie = decodeURIComponent(document.cookie);
+        const ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+          }
+          if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+          }
+        }
+        return false;
+      };
+
+      const setCookie = (cname, cvalue, exdays) => {
+        let date = new Date();
+        date.setTime(date.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        const expires = "expires=" + date.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+      };
+
+      const storedCookie = getCookie("permutiveID");
+
+      if (storedCookie) {
+        permutive.identify(storedCookie);
+      }
+
+      setCookie("permutiveID", permutive.context.user_id, 365);
+    };
+
+    permutive.readyWithTimeout=function(e,i,t){var u=!1,n=function(){u||(e(),u=!0)};(t=t||1/0)!==1/0&&window.setTimeout(n,t),permutive.ready(n,i)};
+
+    permutive.ready(idCheck);
+    permutive.addon('web', {});
+  </script>
+  <script id="permutive" async="" type="text/javascript" src="https://cdn.permutive.com/289d106c-df24-4cd9-a9fa-753e928c23ad-web.js"></script>
+<!-- Permutive end -->
+
+
+<script type='text/javascript'>
+  
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    
+    //creates a script tag for gpt.js
+    var gads = document.createElement('script');
+        gads.id = "gads";
+    	gads.async = true; 
+    	gads.type = 'text/javascript'; 
+    	gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node); 
+  })();
+  
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+      
+  googletag.cmd.push(function() {
+  
+                                                                                                                                            if ($(window).innerWidth() > 768){
+  googletag.defineSlot('/5479/ctv.cp24/news/stories', [[728,90],[970,250],[970,90]], 'div-gpt-ad-728_90-1')
+      .addService(googletag.pubads()).addService(googletag.companionAds());
+  } else {
+    }
+  
+  ;
+  true;
+ 
+                                                                                                                                                                          if ($(window).innerWidth() > 768){
+  googletag.defineSlot('/5479/ctv.cp24/news/stories', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-300_250-2')
+      .addService(googletag.pubads()).addService(googletag.companionAds());
+  } else {
+        googletag.defineSlot('/5479/ctv.cp24/news/stories', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-300_250-2')
+                .addService(googletag.pubads()).addService(googletag.companionAds());
+            }
+  
+  ;
+  true;
+ 
+                                                                                                                                                                          if ($(window).innerWidth() > 768){
+  googletag.defineSlot('/5479/ctv.cp24/news/stories', [[30,1]], 'div-gpt-ad-30_1-3')
+      .addService(googletag.pubads()).addService(googletag.companionAds());
+  } else {
+        googletag.defineSlot('/5479/ctv.cp24/news/stories', [[30,1]], 'div-gpt-ad-30_1-3')
+                .addService(googletag.pubads()).addService(googletag.companionAds());
+            }
+  
+  ;
+  true;
+ 
+                                                                    
+          googletag.defineOutOfPageSlot('/5479/ctv.cp24/news/stories','div-gpt-ad-outofpage-1-oop').addService(googletag.pubads()).addService(googletag.companionAds());
+        
+    
+                                                                                    
+                                                                              
+          googletag.pubads().setTargeting("keyvalues",["envr=prod"]);
+                    	
+    googletag.pubads().enableVideoAds();
+    googletag.pubads().collapseEmptyDivs(true);
+    //NEWS-1509 - Amazon wrapper 
+    googletag.pubads().disableInitialLoad();
+          googletag.pubads().enableSingleRequest();
+    
+    if (window.permutive && window.permutive.readyWithTimeout) {
+      // window.googletag.pubads().disableInitialLoad();
+      window.permutive.readyWithTimeout(function () {
+        googletag.pubads().refresh();
+      }, "realtime",  0);
+    }
+
+    googletag.enableServices();
+
+          googletag.pubads().setTargeting("ksgmnt", Krux.segments);
+      googletag.pubads().setTargeting("u", Krux.user);
+	    });
+
+	//NEWS-1509 - Amazon wrapper Call
+	!function(a9, a, p, s, t, A, g) {
+            if (a[a9])
+                return;
+            function q(c, r) {
+                a[a9]._Q.push([c, r])
+            }
+            a[a9] = {
+                init: function() {
+                    q("i", arguments)
+                },
+                fetchBids: function() {
+                    q("f", arguments)
+                },
+                setDisplayBids: function() {},
+                targetingKeys: function() {
+                    return []
+                },
+                _Q: []
+            };
+            A = p.createElement(s);
+            A.async = !0;
+            A.src = t;
+            g = p.getElementsByTagName(s)[0];
+            g.parentNode.insertBefore(A, g)
+        }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+         
+	apstag.init({
+        pubID: "3733",
+        adServer: "googletag"
+    });
+	  
+	apstag.fetchBids({
+	  	slots: [{
+	  		"slotID" : "div-gpt-ad-728_90-1",
+	  		"slotName" : "/5479/ctv.cp24/news/stories/div-gpt-ad-728_90-1",
+	  		"sizes" : [[728,90],[970,250],[970,90]]
+	  	},{
+	  		"slotID" : "div-gpt-ad-300_250-2",
+	  		"slotName" : "/5479/ctv.cp24/news/stories/div-gpt-ad-300_250-2",
+	  		"sizes" : [[300,250],[300,600],[300,1050]]
+	  	},{
+	  		"slotID" : "div-gpt-ad-30_1-3",
+	  		"slotName" : "/5479/ctv.cp24/news/stories/div-gpt-ad-30_1-3",
+	  		"sizes" : [[30,1]]
+	  	}],
+	  	timeout: 2e3
+	  	}, function(bids){
+	  		googletag.cmd.push(function(){
+                apstag.setDisplayBids();
+                googletag.pubads().refresh()
+	  			
+	  		})
+	});
+</script>
+
+<script type="text/javascript">
+  window.googletag = window.googletag || {}, window.googletag.cmd = window.googletag.cmd || [], window.googletag.cmd.push(function() {
+    if (0 === window.googletag.pubads().getTargeting("permutive").length) {
+      window.headertag = window.headertag || {};
+      window.headertag.cmd = window.headertag.cmd || [];
+      window.headertag.cmd.push(function() {
+        try {
+          var segs = JSON.parse(localStorage._pdfps || '[]').slice(0, 250);
+          window.headertag.setUserKeyValueData({
+            segments: {
+              "permutive": segs
+            }
+          });
+        } catch (e) {}
+      });
+      var g = localStorage.getItem('_pdfps');
+      window.googletag.pubads().setTargeting("permutive", g ? JSON.parse(g) : [])
+      console.log('ad targeting permutive kvs: ', g);
+    } else {
+      try {
+        var segs = JSON.parse(localStorage._pdfps || '[]').slice(0, 250);
+        window.headertag.setUserKeyValueData({
+          segments: {
+            "permutive": segs
+          }
+        });
+      } catch (e) {}
+    }
+  });
+</script>
+
+<script>
+    var cbAuthor;
+</script>
+  <title>UK slashes official virus death toll by more than 5,000 | CP24.com </title>
+      <meta name="description" content="The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000." />
+        <meta name="keywords" content="toronto, breaking news, crime, live video, covid 19 canada, covid 19, coronavirus canada, covid 19 ontario, ontario covid 19, " />
+        <meta name="news_keywords" content="British government, ccoronavirus deaths, COVID-19 death," />
+  <link rel="amphtml" href="https://beta.cp24.com/world/2020/8/12/1_5061618.html">
+<meta name="robots" content="noarchive,noodp" />
+<meta name="robots" content="index,follow,noodp" />
+<meta name="robots" content="ACAP allow-index" />
+    	      		<meta property="fb:pages" content="265325440237679" />
+      	      		<meta property="fb:pages" content="525693370806473" />
+      	<meta name="dc.date.modified" content="2020-08-12">              
+                      <meta itemprop="name" content="UK slashes official virus death toll by more than 5,000" />
+                        <meta itemprop="description" content="The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000." />
+                                  <meta itemprop="url" content="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" />
+                    <meta itemprop="image" content="https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg" />
+                    <meta property="og:type" content="article" />
+          <meta property="og:title" content="UK slashes official virus death toll by more than 5,000" />
+          <meta property="og:url" content="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" />
+          <meta property="og:description" content="The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000." />
+    
+          <meta property="og:image" content="https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg" />
+	  <meta itemprop="thumbnailUrl" content="https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg" /> <!-- schema.org -->
+        <meta property="og:site_name" content="CP24" />
+                    <meta name="twitter:title" content="UK slashes official virus death toll by more than 5,000" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:url" content="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" />
+          <meta name="twitter:description" content="The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000." />
+              <meta name="twitter:site" content="@cp24" />
+      <meta name="twitter:creator" content="@cp24" />
+              <meta name="twitter:image:src" content="https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg" />
+                  <meta name="author" content="Jill Lawless" />
+      <meta property="article:author" content="Jill Lawless" />
+    <meta itemprop="headline" content="UK slashes official virus death toll by more than 5,000"/>
+  <meta property="og:locale" content="en_CA" />
+      <meta property="article:published_time" content="2020-08-12T15:23:24-04:00"> 
+  <meta itemprop="datePublished" content="2020-08-12T15:23:24-04:00">
+          <meta property="article:section" content="World">  
+    
+      
+
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "UK slashes official virus death toll by more than 5,000",
+      "description" : "The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000.",
+                  
+            	
+                                    "author" :[{
+                          "@type":"Person",
+              "name" : "Jill Lawless",
+              "sameAs": "The Associated Press"
+            }
+                    ],
+                    "publisher":{
+        "@type": "NewsMediaOrganization",
+               "name": "CP24",
+                "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.cp24.com/polopoly_fs/7.724915!/httpImage/image.png",            
+            "width": 124,
+            "height": 60
+        }
+      },
+              "contactPoint" : [
+          {
+            "@type" : "ContactPoint",
+            "contactType" : "Newsroom Contact",
+            "email" : "",
+            "url" : ""
+          }
+        ],
+            "image": {
+        "@type": "ImageObject",
+        "url": "https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg",
+        "height": 1020,
+        "width": 574
+      },
+      "mainEntityOfPage":"https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618",
+        	  		  			"datePublished": "2020-08-12T15:23:24-04:00"
+  		  	    }
+</script>
+    
+  
+<script type="text/javascript">
+  jQuery.ajaxSetup({
+    cache: 'true'
+  });
+</script>
+  <link rel="alternate" type="application/rss+xml" title="CP24 Tonight Full Show" href="https://www.cp24.com/rss/cp24-tonight-full-show-1.5421380" />  <link rel="alternate" type="application/rss+xml" title="Top Stories" href="https://www.cp24.com/rss/top-stories-1.1129631" />
+
+
+<script type="text/javascript" src="//assets.adobedtm.com/launch-EN8508e1965b004de29de2dbd977d7156a.min.js"></script> 
+</head>
+
+<body id="top">
+  <div id="insertForm"></div>
+<script type="text/javascript">
+detectMobile();
+</script>
+<script type="text/javascript"><!--jQuery(document).ready(function() {window.pageLoaded=true});//--></script>
+
+
+	  <div class="topAd">
+        
+
+
+
+  
+  
+    <script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "CP24",
+  "url" : "https://www.cp24.com",
+  "logo" : "https://www.cp24.com/polopoly_fs/7.666181!/httpImage/image.jpg",
+  "sameAs" : [
+    "https://www.facebook.com/CP24Toronto",
+    "https://www.twitter.com/CP24",
+    "https://www.instagram.com/cp24breakingnews",
+    "https://plus.google.com/+Cp24TorontoBreakingNews"
+  ] 
+}
+</script>
+  
+  
+  
+    
+
+<div class='cp24-nav-block'>
+  
+  
+
+
+
+  
+  
+    <div class="links-search">
+	<div class="element list none">
+		<ul class="linklist horizontal">                               
+							<li><a href="https://www.facebook.com/CP24Toronto" target="_blank"><span class="facebook"></span></a></li>
+							<li><a href="https://twitter.com/CP24" target="_blank"><span class="twitter"></span></a></li>
+							<li><a href="https://www.instagram.com/cp24breakingnews/" target="_blank"><span class="instagram"></span></a></li>
+					</ul>
+		<div class="clearfix"></div>
+	</div>
+			
+    
+
+<div class="search element" id="search_7.127">
+      <a href="" class="sb">Search</a>
+  <form action="https://www.cp24.com/search-results/search-cp24-7.127" method="get" class="frm frmSearch">
+    <input class="bt submit" type="submit" value="" />
+    <div class="form">
+      <label class="hidden" for="search_bar_7_127">Search CP24</label>
+      <input id="search_bar_7_127" placeholder="Search CP24" type="text" name="q" value="" />
+      <a class="close">X</a>
+    </div>
+  </form></div>	</div>
+  
+  
+  
+    <a class="logo logo_cp24" href="https://www.cp24.com/" title="CP24.com"></a>
+  
+  
+  
+    
+
+<div class='watch-live-header'>
+  
+  
+
+
+
+  
+  
+    <div>
+            	              
+    
+        <a   href="https://www.cp24.com/video?clipId=68595"   >WATCH LIVE</a>
+
+        </div>
+
+  
+
+  </div>
+  
+  
+  
+                                                            
+<div class="mainnavigation_wrapper ">
+<div class="mainnavigation_subnavigation_wrapper">
+<nav class="mainnavigation container" >
+        <ul class="menu menuSite menuTwo section-links">
+            
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7289808 bm-red ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  NEWS
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7289810 bm-blue ">
+            <span class="mainnavigation_item_text">
+                          <span class="navlink">
+                            	                
+    
+        <a   href="https://www.cp24.com/weather"  title="Weather" >WEATHER</a>
+
+                      </span>
+            
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291933 bm-yellow ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  TRAFFIC
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291945 bm-green ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  VIDEO
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291951 bm-redDark ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  CP24 BREAKFAST
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7580471 bm-twitter_cyan ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  Lifestyle
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7292047 bm-black ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  MORE
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                    </ul>
+</nav>
+                             <div class="drop_down link_id_7289808" style="display:none;">
+                    <div class="drop_down_element_container bm-red">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/"  title="Back to homepage" >Home</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/news"   >Local</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/world"  title="World" >World</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/entertainment-news"   >Entertainment</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/sports"  title="Sports" >Sports</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/news/the-mayor"  title="The Mayor" >The Mayor</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/photo-galleries"  title="Photo Galleries" >Photo Galleries</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7289808").click(click_7289808);
+            jQuery(".link_id_7289808 .close").click(click_7289808);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7289808() {
+            var itemSelector = ".item_7289808";
+            var selector = ".link_id_7289808";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7289810" style="display:none;">
+                          <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7289810").click(click_7289810);
+            jQuery(".link_id_7289810 .close").click(click_7289810);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7289810() {
+            var itemSelector = ".item_7289810";
+            var selector = ".link_id_7289810";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291933" style="display:none;">
+                    <div class="drop_down_element_container bm-yellow">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/commuter-centre"  title="Commuter Centre" >Commuter Centre</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="http://www.cp24.com/commuter-centre#traffic"   >Traffic</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="http://www.cp24.com/commuter-centre#transit"   >Transit</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/travel/air-travel"  title="Air Travel" >Air Travel</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="http://www.cp24.com/commuter-centre#border-crossing"   >Border Crossings</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291933").click(click_7291933);
+            jQuery(".link_id_7291933 .close").click(click_7291933);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291933() {
+            var itemSelector = ".item_7291933";
+            var selector = ".link_id_7291933";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291945" style="display:none;">
+                    <div class="drop_down_element_container bm-green">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/live"   >CP24 LIVE</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+      
+        <a class="unmutePlayer"  href="https://www.cp24.com/video?binId=1.1127680"   >All Video</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+      
+        <a class="unmutePlayer"  href="https://www.cp24.com/video?binId=1.5364204"   >CP24 Tonight</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/news/the-mayor"  title="The Mayor" >The Mayor</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/talk-shows/live-at-noon"  title="Live at Noon" >Live at Noon</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/talk-shows/hot-property"  title="Hot Property" >Hot Property</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/talk-shows/auto-shop"   >Autoshop</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291945").click(click_7291945);
+            jQuery(".link_id_7291945 .close").click(click_7291945);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291945() {
+            var itemSelector = ".item_7291945";
+            var selector = ".link_id_7291945";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291951" style="display:none;">
+                    <div class="drop_down_element_container bm-redDark">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/cp24-breakfast/"   >Home</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+      
+        <a class="unmutePlayer"  href="https://www.cp24.com/video?binId=7.395214"   >All Videos</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/cp24-breakfast/milestones"  title="Milestones" >Milestones</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/cp24-breakfast/green-room"  title="Green Room" >Green Room</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291951").click(click_7291951);
+            jQuery(".link_id_7291951 .close").click(click_7291951);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291951() {
+            var itemSelector = ".item_7291951";
+            var selector = ".link_id_7291951";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7580471" style="display:none;">
+                    <div class="drop_down_element_container bm-twitter_cyan">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle"  title="Lifestyle Home" >Home</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/human-interest"  title="Human Interest" >Human Interest</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/health"  title="Health" >Health</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/technology"  title="Technology" >Technology</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/real-estate"  title="Real Estate" >Real Estate</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/lifestyle/travel"  title="Travel" >Travel</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/news/top-social-stories"  title="Top Social Stories" >Top Social Stories</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7580471").click(click_7580471);
+            jQuery(".link_id_7580471 .close").click(click_7580471);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7580471() {
+            var itemSelector = ".item_7580471";
+            var selector = ".link_id_7580471";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7292047" style="display:none;">
+                    <div class="drop_down_element_container bm-black">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist horizontal">
+                                  
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/app"   >CP24 APP</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/faq"   >Video Help</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/more/contact-us"  title="Contact Us" >Contact Us</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	              
+    
+        <a   href="https://www.cp24.com/cp24-supports"   >CP24 Supports</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/breaking-news-email"  title="Breaking News Email" >Breaking News Email</a>
+
+                                                        </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                                                            </li>
+        
+            
+            
+    <li>
+              
+                                    
+           
+                        	                
+    
+        <a   href="https://www.cp24.com/talk-shows"  title="Talk Shows" >Talk Shows</a>
+
+                                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7292047").click(click_7292047);
+            jQuery(".link_id_7292047 .close").click(click_7292047);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7292047() {
+            var itemSelector = ".item_7292047";
+            var selector = ".link_id_7292047";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+           </div>
+</div>
+  
+
+  </div>
+  
+  
+  
+    <style type="text/css">
+  .topstorybn .teaser-image-top .bn-headline .tag {
+   background: #a80a01;
+   color: #fff;
+   font-weight: bold;
+   padding: 4px;
+   display: inline-block;
+}
+  </style>
+  
+  </div>
+	
+<!-- BEGIN BANNERS -->
+<header class="banner clearfix">
+  <div class="skip-links hidden">
+    <ul>
+      <li><a href="#responsive_main" title="skip to content">Skip to Main Content</a></li>
+          </ul>
+  </div><!-- END .skip-links -->
+  
+        <div class="content-wrapper">
+        
+
+
+
+  
+  
+      
+
+  
+  
+  
+      
+
+  
+  
+  
+      
+
+  
+  
+  
+    
+
+<div class='unmutePlayer'>
+  
+  
+
+
+
+  
+  
+      
+
+  
+  
+  
+      
+
+  
+  
+  
+      
+
+  
+  
+  
+      
+
+  
+
+  </div>
+  
+  
+  
+    
+                                    <div class="boxAd secondClass ">
+							                            <div class="advert">
+        
+                        
+                                                                                              
+               
+	        	          								<div id="div-gpt-ad-728_90-1">
+				<script type="text/javascript">
+				    if (document.querySelector('.advert') !== null) {
+				        googletag.cmd.push(function () {
+				            headertag.display("div-gpt-ad-728_90-1");
+				        });
+				    }
+				</script>
+				</div>
+	          	                
+                    								<p class="ad-below">Advertisement</p>
+							            </div>
+                
+                    </div>
+        
+    
+  
+  
+  </div>
+  </header><!-- END .banner -->
+<!-- END BANNERS -->
+
+
+
+
+<div class="content">
+  
+  <div class="content-wrapper">
+              
+    
+
+                
+                                                                  <div class="content-primary" id="responsive_main">
+                
+
+			 					
+	
+		<script type="text/javascript">
+
+	/*Create global object which loads
+	            * twitter script asynchronously
+	            */
+	            window.twttr = (function (d, s, id) {
+	                var t, js, fjs = d.getElementsByTagName(s)[0];
+	                if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+	                js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+	                return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+	            }(document, "script", "twitter-wjs"));
+		            /*Twitter click tracking funciton*/
+	            function transferTwitterClickToOmniture(intentEvent) {
+	                if (!intentEvent) return;
+	                var label = intentEvent.region;
+	                Tracking.trackSocial(label + "btn_click");
+	            }
+	
+	            /* Create twitter share button and bind to built-in ready
+	             * method which contains click tracking method execution
+	             */
+	            twttr.ready(function (twttr) {
+	                twttr.widgets.createShareButton(
+	                    'https://twitter.com/share',
+	                    document.getElementById('twitter_share')
+	                );
+	                	                twttr.events.bind('click', transferTwitterClickToOmniture);
+	                	            });
+	        </script>
+	        	
+		  <section class="story project clearfix">
+	    	    <div class="container">
+	      <div class="element article">
+	        	        	         	          <h1  class="articleHeadline">UK slashes official virus death toll by more than 5,000</h1>
+	        	        
+	        						                                                                        <div class="image top imgTop">
+                        <img src='https://www.cp24.com/polopoly_fs/1.5061622.1597260182!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg' alt='Johnson' width='620' title='Johnson' height='349' />                            <p>File - In this Monday, July 13, 2020 file photo, Britain's Prime Minister Boris Johnson, wearing a face mask, visits the headquarters of the London Ambulance Service NHS Trust in London, Monday July 13, 2020. (Ben Stansall/Pool via AP, File)</p>
+                      </div>
+                  							        	        	          <div class="tools clearfix">
+	            	              
+  <h2>Share:</h2>
+  <div id="fb-root"></div>
+<script type="text/javascript">
+
+var addthis_config = {services_exclude: "facebook,facebook_like,twitter,google_plusone"};
+jQuery(document).ready(
+  function(){
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '117341078420651', // App ID
+        channelUrl : 'https://static.ctvnews.ca/bellmedia/common/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+            FB.Event.subscribe("edge.create", function (response) {
+        Tracking.trackSocial('facebook_like_btn_click');
+      });
+      
+      // BEGIN: Facebook clicks on unlike button
+      FB.Event.subscribe("edge.remove", function (response) {
+        Tracking.trackSocial('facebook_unlike_btn_click');
+      });
+          };
+              requiresDependency('https://s7.addthis.com/js/250/addthis_widget.js#async=1', function(){ addthis.init(); });
+                var plusoneOmnitureTrack = function () {
+      $(function () {
+        Tracking.trackSocial('google_plus_one_btn');
+      })
+    }
+        var facebookCallback = null;
+        requiresDependency('https://connect.facebook.net/en_US/all.js#xfbml=1&appId=117341078420651', facebookCallback, 'facebook-jssdk');
+  });
+</script>
+<div class="StoryShare">
+              <div class="addShare">
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style" addthis:url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618"></div>
+        <a class="addthis_counter addthis_pill_style" addthis:url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618"></a>
+        <!-- AddThis Button END -->
+      </div>
+        <a id="twitter_share" href="https://twitter.com/share" class="twitter-share-button b" data-via="cp24" data-text="UK slashes official virus death toll by more than 5,000" data-url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-count="none">&nbsp;</a>
+    <a href="https://reddit.com/submit?url=https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618&title=UK slashes official virus death toll by more than 5,000" target="_blank" class="reddit-button">Reddit</a>
+    <div id="fbctv"><div class="fb-share-button" data-href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></div>
+</div>	            	                                                <fb:recommendations-bar href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" action="recommend" read_time="20" max_age="2" num_recommendations="2"></fb:recommendations-bar>
+      	            <div class='top-tool'>
+	              	              <h2>Text:</h2>
+	              	              <ul>
+	                	                <li class="narrow"><a href="#" class="increaseTextSize">&nbsp;</a></li>
+	                <li class="narrow"><a href="#" class="decreaseTextSize">&nbsp;</a></li>
+
+	                
+   <li class="line"><div><a class="addthis_button_print newsPrint" title="Print Page">&nbsp;</a></div></li>
+    <li class="line"><div><a class="addthis_button_email newsEmail" title="Email">&nbsp;</a></div></li>
+ 
+     
+
+  <div class="logger"></div>  
+
+<script language="javascript" type="text/javascript">
+  var addthis = null;
+  jQuery(document).ready(
+    function() {
+    requiresDependency('https//s7.addthis.com/js/250/addthis_widget.js#async=1', function() {
+         /* AddThis API */
+         function emailEventHandler(evt) {           
+          if (evt.data.pane == 'email'){
+              /* the addthis email dialog box event was fired */
+                  jQuery('.logger').empty();
+                               }
+         }
+         if(addthis != null) {
+           addthis.addEventListener('addthis.menu.open', emailEventHandler);
+         }
+     })
+     });
+</script>
+	                	                  	                    	                  	              </ul>
+	            </div>
+	          </div>
+	        	    <div class="clearfix">
+	      <div class="s-data">
+	 	 
+						<br>
+				Jill Lawless, The Associated Press		</span>
+	
+	            
+
+	            <br />
+
+	            <span class="date">
+	              Published Wednesday, August 12, 2020 3:23PM EDT
+	            </span>
+
+	            <br />
+
+	            	            	          </div>
+													          <div class="articleBody">
+	             <p>
+	LONDON - The British government on Wednesday changed the way it compiles coronavirus deaths, a move that reduced the country's official death toll by more than 5,000.</p>
+<p>
+	The Department of Health said the new total is 41,329, down from 46,706. That is still Europe's highest death toll.</p>
+<p>
+	The government announced last month that it was reviewing the way death statistics were compiled, after academics pointed out that in England the tally included anyone who has tested positive for COVID-19 and later died, with no cut-off point between positive test and death. That means some people recorded as coronavirus deaths may have died of other causes -- and the proportion would increase over time.</p>
+<p>
+	That could explain why England has been showing far higher daily death tolls than Scotland, which only counts deaths that occur within 28 days of a positive test.</p>
+<p>
+	Public Health England said Wednesday that it will also adopt a 28-day cut-off date, bringing it into line with the rest of the U.K. People who die more than 28 days after testing positive, but fewer than 60 days, will be added to the total only if COVID-19 appears on their death certificate.</p>
+<p>
+	Public Health England said it made the change after discovering that “in recent weeks the numbers of deaths in people who have tested positive have become substantially greater than the numbers of deaths subsequently registered as COVID-19 deaths” by the Office for National Statistics, which uses death certificates to keep its tally.</p>
+<p>
+	The change highlights the difficulty of comparing death tolls among countries, which use different counting methods.</p>
+	          </div>
+	        <script type="text/javascript">
+	             var cbAuthor = 'Jill Lawless';
+	        </script>
+	          	          	        	          <div class="StoryShareBottom">
+		              
+  <h2>Share:</h2>
+  <div id="fb-root"></div>
+<script type="text/javascript">
+
+var addthis_config = {services_exclude: "facebook,facebook_like,twitter,google_plusone"};
+jQuery(document).ready(
+  function(){
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '117341078420651', // App ID
+        channelUrl : 'https://static.ctvnews.ca/bellmedia/common/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+            FB.Event.subscribe("edge.create", function (response) {
+        Tracking.trackSocial('facebook_like_btn_click');
+      });
+      
+      // BEGIN: Facebook clicks on unlike button
+      FB.Event.subscribe("edge.remove", function (response) {
+        Tracking.trackSocial('facebook_unlike_btn_click');
+      });
+          };
+              requiresDependency('https://s7.addthis.com/js/250/addthis_widget.js#async=1', function(){ addthis.init(); });
+                var plusoneOmnitureTrack = function () {
+      $(function () {
+        Tracking.trackSocial('google_plus_one_btn');
+      })
+    }
+        var facebookCallback = null;
+        requiresDependency('https://connect.facebook.net/en_US/all.js#xfbml=1&appId=117341078420651', facebookCallback, 'facebook-jssdk');
+  });
+</script>
+<div class="StoryShare">
+              <div class="addShare">
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style" addthis:url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618"></div>
+        <a class="addthis_counter addthis_pill_style" addthis:url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618"></a>
+        <!-- AddThis Button END -->
+      </div>
+        <a id="twitter_share" href="https://twitter.com/share" class="twitter-share-button b" data-via="cp24" data-text="UK slashes official virus death toll by more than 5,000" data-url="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-count="none">&nbsp;</a>
+    <a href="https://reddit.com/submit?url=https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618&title=UK slashes official virus death toll by more than 5,000" target="_blank" class="reddit-button">Reddit</a>
+    <div id="fbctv"><div class="fb-share-button" data-href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.cp24.com/world/uk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></div>
+</div>	            
+
+	            	            	              <div class="form-submit">
+	                
+<div class="trust-project-wrapper">
+      <style type="text/css">
+      #lightbox .close {
+          max-width:620px;
+      }
+
+      #lightboxcontent {
+          max-width:620px;
+      }
+
+  </style>
+              <a href="https://www.cp24.com/news-tips-1.1159055?url=https%253A%252F%252Fwww.cp24.com%252Fworld%252Fuk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-ajax-url="https://www.cp24.com/news-tips-1.1159055?ot=AjaxLayout&url=https%253A%252F%252Fwww.cp24.com%252Fworld%252Fuk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" class="lightbox_trigger">News Tips</a>
+          <a href="https://www.cp24.com/report-errors-7.369891?url=https%253A%252F%252Fwww.cp24.com%252Fworld%252Fuk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" data-ajax-url="https://www.cp24.com/report-errors-7.369891?ot=AjaxLayout&url=https%253A%252F%252Fwww.cp24.com%252Fworld%252Fuk-slashes-official-virus-death-toll-by-more-than-5-000-1.5061618" class="lightbox_trigger">Report Errors</a>
+      
+  
+  </div>
+	              </div>
+	            	            <div class="clearfix"></div>
+	          </div>
+
+
+	          	              									<div class="currMain">
+	                
+
+
+
+  
+  
+    
+
+
+    	
+  <div class="element list videoPromoList double-top   ">
+              <h3>Top Videos </h3>
+                  <ul class="linklist ">
+                    
+
+      
+            
+              <li class="dc grid">
+                                                    
+
+
+
+
+
+
+    
+  <div style="display: inline-table; width:187px; " class="element teaser  threecolumngridteaser grid_1 ">
+
+          
+
+
+    
+   	                                      
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297343"   ><div class='videoIcon'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5615983.1633657341!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' width='193' alt='Food bank panel' title='Food bank panel' height='109' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297343"   >How food banks help tackle food insecurity</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                                  
+            
+                                                        
+
+
+
+
+
+
+    
+  <div style="display: inline-table; width:187px; " class="element teaser  threecolumngridteaser grid_2 ">
+
+          
+
+
+    
+   	                                      
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297307"   ><div class='videoIcon'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5615863.1633652579!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' width='193' alt='Price' title='Price' height='109' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297307"   >Carey Price’s decision to seek help ‘empowering’</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                                  
+            
+                                                        
+
+
+
+
+
+
+    
+  <div style="display: inline-table; width:187px; " class="element teaser  threecolumngridteaser grid_3 ">
+
+          
+
+
+    
+   	                                      
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297335"   ><div class='videoIcon'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5615972.1633657033!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' width='193' alt='Denzil Minnan-Wong' title='Denzil Minnan-Wong' height='109' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297335"   >Councillor concerned about backyard pool rentals</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                              <div class="clearfix"></div></li>
+                    
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <br/>
+<br/>
+  
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+          
+
+
+
+<div class="columnsplitter container threeColumns listHorizontal border_top">
+        
+      <div class="column col1  ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list videoPromoList   ">
+              <h3>Local News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/ontario-releases-covid-19-guidance-for-thanksgiving-gatherings-trick-or-treating-1.5614465"   ><img src='https://www.cp24.com/polopoly_fs/1.5610583.1633376184!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='But as the threat of the Delta variant looms, experts say Canadians planning on hosting Thanksgiving gatherings should proceed with caution and avoid having large, indoor gatherings with unvaccinated guests. (Pexels)' width='190' title='Thanksgiving' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/ontario-releases-covid-19-guidance-for-thanksgiving-gatherings-trick-or-treating-1.5614465"   >Ontario releases COVID-19 guidance for Thanksgiving gatherings, trick-or-treating</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697701_1497462016__725965707' updated='1633643529734' created='1633621920311'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/news/health-minister-says-she-won-t-hesitate-to-extend-vaccine-mandate-to-hospitals-as-opposition-slams-wait-and-see-approach-1.5614938"  title="Health minister says she 'won't hesitate' to extend vaccine mandate to hospitals as opposition slams 'wait and see approach'" >Health minister says she 'won't hesitate' to extend vaccine mandate to hospitals as opposition slams 'wait and see approach'</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697701_1497462016__725965707' updated='1633652538117' created='1633652538126'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/news/toronto-police-say-they-re-narrowing-in-on-erin-gilmour-s-killer-38-years-later-1.5615733"  title="Toronto police say they're narrowing in on Erin Gilmour's killer 38 years later" >Toronto police say they're narrowing in on Erin Gilmour's killer 38 years later</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697701_1497462016__725965707");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>
+<div class="column col2  ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+              <h3>World News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/world/california-fires-may-have-killed-hundreds-of-giant-sequoias-1.5616011"   ><img src='https://www.cp24.com/polopoly_fs/1.5616013.1633659340!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='FILE - In this Sunday, Sept. 19, 2021 file photo, Flames burn up a tree as part of the Windy Fire in the Trail of 100 Giants grove in Sequoia National Forest, Calif. Northern California wildfires may have killed hundreds of giant sequoias as they swept through groves of the majestic monarchs in the Sierra Nevada, an official said Wednesday. (AP Photo/Noah Berger, File, File) ' width='190' title='California sequoia' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/world/california-fires-may-have-killed-hundreds-of-giant-sequoias-1.5616011"   >California fires may have killed hundreds of giant sequoias</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697712_1497464076__725965701' updated='1633661656532' created='1633661340815'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/world/senate-dodges-us-debt-disaster-voting-to-extend-borrowing-1.5616023"  title="Senate dodges US debt disaster, voting to extend borrowing" >Senate dodges US debt disaster, voting to extend borrowing</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697712_1497464076__725965701' updated='1633643734115' created='1633643734125'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/world/trump-to-invoke-executive-privilege-in-house-probe-of-jan-6-insurrection-1.5615525"  title="Trump to invoke executive privilege in House probe of Jan. 6 insurrection" >Trump to invoke executive privilege in House probe of Jan. 6 insurrection</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697712_1497464076__725965701");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>
+<div class="column col3   ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+              <h3>Real Estate News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/canadian-housing-market-moves-from-moderate-to-high-degree-of-vulnerability-cmhc-1.5603481"   ><img src='https://www.cp24.com/polopoly_fs/1.5554501.1629430157!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='A real estate sold sign is shown in a Toronto west end neighbourhood May 17, 2020. The Toronto Regional Real Estate Board says home sales in the Greater Toronto Area posted a record for August as they rose 40.3 per cent compared with a year ago. THE CANADIAN PRESS/Graeme Roy' width='190' title='Real estate' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/canadian-housing-market-moves-from-moderate-to-high-degree-of-vulnerability-cmhc-1.5603481"   >Canadian housing market moves from moderate to high degree of vulnerability: CMHC</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697713_1497464275__725965695' updated='1629150433400' created='1629121888729'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/news/canadian-home-sales-continued-to-cool-in-july-down-3-5-per-cent-month-over-month-1.5548693"  title="Canadian home sales continued to cool in July, down 3.5 per cent month-over-month" >Canadian home sales continued to cool in July, down 3.5 per cent month-over-month</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697713_1497464275__725965695' updated='1626195073715' created='1626191340992'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/news/nearly-one-third-of-non-homeowners-have-given-up-on-ever-owning-property-survey-1.5507270"  title="Nearly one-third of non-homeowners have given up on ever owning property: survey" >Nearly one-third of non-homeowners have given up on ever owning property: survey</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697713_1497464275__725965695");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+  
+  
+  
+          
+
+
+
+<div class="columnsplitter container threeColumns listHorizontal">
+        
+      <div class="column col1  ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+              <h3>Sports News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/sports/habs-star-goaltender-carey-price-enters-nhl-nhlpa-assistance-program-1.5615357"   ><img src='https://www.cp24.com/polopoly_fs/1.5615359.1633636032!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='FILE - Montreal Canadiens goaltender Carey Price (31) plays against the Vegas Golden Knights during Game 2 of an NHL hockey Stanley Cup semifinal playoff series in Las Vegas, in this Wednesday, June 16, 2021, file photo. Canadiens goaltender Carey Price has voluntarily entered the NHL/NHL Players’ Association joint player assistance program, a stunning announcement Thursday, Oct. 7, 2021, less than a week before the season begins and just three months after he backstopped Montreal to the Stanley Cup Final. (AP Photo/John Locher, File)' width='190' title='Carey Price' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/sports/habs-star-goaltender-carey-price-enters-nhl-nhlpa-assistance-program-1.5615357"   >Habs star goaltender Carey Price enters NHL/NHLPA assistance program</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697714_1497464496__725965688' updated='1633623337114' created='1633623337132'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/sports/queen-elizabeth-launches-baton-relay-for-commonwealth-games-1.5614978"  title="Queen Elizabeth launches baton relay for Commonwealth Games" >Queen Elizabeth launches baton relay for Commonwealth Games</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697714_1497464496__725965688' updated='1633646641437' created='1633619220275'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/sports/18-ex-nba-players-charged-in-4m-health-care-fraud-scheme-1.5614855"  title="18 ex-NBA players charged in $4M health care fraud scheme" >18 ex-NBA players charged in $4M health care fraud scheme</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697714_1497464496__725965688");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>
+<div class="column col2  ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+              <h3>Entertainment News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/entertainment-news/adele-opens-up-about-her-upcoming-album-and-finding-happiness-1.5616020"   ><img src='https://www.cp24.com/polopoly_fs/1.5616022.1633660997!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='FILE - Adele arrives at the 59th annual Grammy Awards on Feb. 12, 2017, in Los Angeles. The singer will share custody of her 8-year-old son and won’t be paying child support to her now-ex-husband Simon Konecki. The couple separated in August of 2019, and Adele filed for divorce the following month. A Los Angeles judge finalized the divorce last week. (Photo by Jordan Strauss/Invision/AP, File) ' width='190' title='Adele' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/entertainment-news/adele-opens-up-about-her-upcoming-album-and-finding-happiness-1.5616020"   >Adele opens up about her upcoming album and finding happiness</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697715_1497464549__725965682' updated='1633648125184' created='1633648125192'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/entertainment-news/night-raiders-filmmaker-danis-goulet-explores-colonization-through-sci-fi-lens-1.5615735"  title="'Night Raiders' filmmaker Danis Goulet explores colonization through sci-fi lens" >'Night Raiders' filmmaker Danis Goulet explores colonization through sci-fi lens</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697715_1497464549__725965682' updated='1633615249786' created='1633615249805'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/entertainment-news/amazon-s-twitch-blames-configuration-error-for-data-breach-1.5614727"  title="Amazon's Twitch blames configuration error for data breach" >Amazon's Twitch blames configuration error for data breach</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697715_1497464549__725965682");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>
+<div class="column col3   ">
+      
+
+
+
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+              <h3>Lifestyle News </h3>
+                  <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:204px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/lifestyle/elon-musk-says-tesla-will-move-hq-from-california-to-texas-1.5615868"   ><img src='https://www.cp24.com/polopoly_fs/1.5615870.1633652745!/httpImage/image.jpg_gen/derivatives/landscape_190/image.jpg' alt='FILE - In this March 9, 2020, file photo, Tesla and SpaceX Chief Executive Officer Elon Musk speaks at the SATELLITE Conference and Exhibition in Washington. Musk is threatening to pull the company&#39;s factory and headquarters out of California in an escalating spat with local officials over reopening an electric vehicle plant. On Twitter Saturday afternoon, May 9, 2020. (AP Photo/Susan Walsh, File) ' width='190' title='Elon Musk' height='107' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/lifestyle/elon-musk-says-tesla-will-move-hq-from-california-to-texas-1.5615868"   >Elon Musk says Tesla will move HQ from California to Texas</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    
+
+
+
+  <div class="element list none   ">
+                  <ul class="linklist vertical">
+                          
+            
+                                <li class='newUpdate listItem_7_697716_1497464587__725965676' updated='1633599910219' created='1633599910229'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/world/remnants-of-black-church-uncovered-in-colonial-williamsburg-1.5614471"  title="Remnants of Black church uncovered in Colonial Williamsburg" >Remnants of Black church uncovered in Colonial Williamsburg</a>
+
+                                                        </li>
+        
+            
+                                <li class='newUpdate listItem_7_697716_1497464587__725965676' updated='1633566293475' created='1633566293486'>
+              
+                                                                  	                
+    
+        <a   href="https://www.cp24.com/world/facebook-exec-we-do-not-prioritize-engagement-over-safety-1.5614184"  title="Facebook exec: We do not prioritize engagement over safety" >Facebook exec: We do not prioritize engagement over safety</a>
+
+                                                        </li>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+    var listItems = jQuery(".listItem_" + "7_697716_1497464587__725965676");
+    var currentTime = new Date().getTime();
+    var updateTimer = 60*60*1000;
+    var tenMinutesAgo = currentTime - updateTimer;
+    var updatedString = "UPDATED";
+    var newString = "NEW";
+    listItems.each(function() {
+      var item = $(this);
+      var modifiedTime = item.attr("updated");
+      var publishedTime = item.attr("created");
+      var linkElement = item.find("a").first();
+      if (modifiedTime != undefined && publishedTime != undefined) {
+        modifiedTime = new Number(modifiedTime);
+        publishedTime = new Number(publishedTime);
+        if (modifiedTime > publishedTime && currentTime > modifiedTime && modifiedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-update'>" + updatedString + " </span></span></span>");
+        } else if (currentTime > publishedTime && publishedTime > tenMinutesAgo) {
+            $(linkElement).before("<span class='eHub-div eHub-height'><span class='eHub-white-bg'><span class='tag eHub-new'>" + newString + " </span></span></span>");
+        }
+      }
+    });
+  });
+</script>            
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+</div>    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+  
+
+  </div>
+  
+  
+  
+    <br/>
+<br/>
+  
+  
+  
+    
+        
+
+<div class="element tabviewelement bothSideAlign">
+
+  
+
+
+     <div id="tabs_7_699729_1580939015__725965672" class="bothSideAlign">
+    <ul>
+      
+      <li><a href="#tabs_7_699729_1580939015__725965672_tab1"><span Style="width:620px;">CP24 on Twitter</span></a></li>
+        </ul>
+        <div id="tabs_7_699729_1580939015__725965672_tab1"><a class="twitter-timeline" height="650" data-chrome="noheader nofooter transparent" href="https://twitter.com/CP24">Tweets by CP24</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      </div>
+<script type="text/javascript">
+    jQuery(document).ready(
+      function(){
+        requiresDependency('https://static.ctvnews.ca/bellmedia/common/js/jquery-ui-tabs-1.5.packed.js', function() {
+          requiresDependency('https://static.ctvnews.ca/bellmedia/common/js/jquery-ui-1.8.18.custom.min.js', function() {
+            jQuery("#tabs_7_699729_1580939015__725965672 > ul").tabs();
+          });
+        });
+      });
+    </script>
+
+</div>
+  
+									</div>
+	              	          	          	          
+
+
+
+																			              	          
+
+	          	          
+	        </div>
+	      </div>
+	    </div>
+	    				      <script type="text/javascript">
+	       jQuery(function() {
+	          jQuery('a.galleryitem').lightBox();
+	          	          	          jQuery("a.galleryitem").click(function() {
+	            trackLightbox(false, jQuery(this).attr("title"));
+	          });
+	           	      });
+
+	      </script>
+					    
+	    
+	    					    <script type="text/javascript">
+	       jQuery(function() {
+	          	          	            Tracking.setValue(32,"The Associated Press");
+	            	            	            Tracking.setValue(33,"Jill Lawless");
+	            	            	           	      });
+
+	      </script>
+					    
+	  </section>
+
+				  	                </div><!-- END .content-primary -->
+          
+    <!-- if(content.righttop || content.boxads) -->
+          <div class="content-secondary">
+                <div class="sidebar">
+                                    
+
+
+
+  
+  
+    
+                                    <div class="boxAd ">
+							                            <div class="advert">
+        
+                        
+                                                                                              
+               
+	        	          								<div id="div-gpt-ad-300_250-2">
+				<script type="text/javascript">
+				    if (document.querySelector('.advert') !== null) {
+				        googletag.cmd.push(function () {
+				            headertag.display("div-gpt-ad-300_250-2");
+				        });
+				    }
+				</script>
+				</div>
+	          	                
+                    								<p class="ad-below">Advertisement</p>
+							            </div>
+                
+                    </div>
+        
+    
+  
+  
+  
+  
+    
+
+<div class='rightrailDefaultPoll'>
+  
+  
+
+
+
+
+  </div>
+  
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+    <h2>MOST READ</h2>
+  
+  
+  
+    
+
+
+
+  <div class="element list topstorybn   ">
+              <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/ontario-releases-covid-19-guidance-for-thanksgiving-gatherings-trick-or-treating-1.5614465"   ><img src='https://www.cp24.com/polopoly_fs/1.5610583.1633376184!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' alt='But as the threat of the Delta variant looms, experts say Canadians planning on hosting Thanksgiving gatherings should proceed with caution and avoid having large, indoor gatherings with unvaccinated guests. (Pexels)' width='300' title='Thanksgiving' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/ontario-releases-covid-19-guidance-for-thanksgiving-gatherings-trick-or-treating-1.5614465"   >Ontario releases COVID-19 guidance for Thanksgiving gatherings, trick-or-treating</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/georgina-woman-handed-jail-sentence-after-stealing-2-4m-from-minor-hockey-association-1.5614659"   ><img src='https://www.cp24.com/polopoly_fs/1.4487093.1561743504!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' alt='The exterior of the offices of the Ontario Minor Hockey Association is seen. (Google Maps) ' width='300' title='Ontario Minor Hockey Association' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/georgina-woman-handed-jail-sentence-after-stealing-2-4m-from-minor-hockey-association-1.5614659"   >Georgina woman handed jail sentence after stealing $2.4M from minor hockey association</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/top-health-official-says-long-fall-and-winter-still-ahead-as-ontario-reports-587-new-covid-19-infections-1.5614676"   ><img src='https://www.cp24.com/polopoly_fs/1.5614695.1633614245!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' alt='Patrons settle up with a server on a pub&#39;s outdoor patio in Ottawa on the first day of Ontario&#39;s first phase of re-opening amidst the third wave of the COVID-19 pandemic, on Friday, June 11, 2021. THE CANADIAN PRESS/Justin Tang ' width='300' title='Ontario COVID' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/top-health-official-says-long-fall-and-winter-still-ahead-as-ontario-reports-587-new-covid-19-infections-1.5614676"   >Top health official says 'long fall and winter' still ahead as Ontario reports 587 new COVID-19 infections</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/suspect-sought-after-father-three-year-old-assaulted-outside-mississauga-community-centre-1.5615227"   ><img src='https://www.cp24.com/polopoly_fs/1.5615244.1633632123!/httpImage/image.jpeg_gen/derivatives/landscape_300/image.jpeg' alt='Peel police have released this photo of a suspect who allegedly assaulted a father and three-year-old girl in a Mississauga community centre parking lot. (Peel Regional Police handout)' width='300' title='Peel, suspect, ' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/suspect-sought-after-father-three-year-old-assaulted-outside-mississauga-community-centre-1.5615227"   >Suspect sought after father, three-year-old assaulted outside Mississauga community centre</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/incorrect-allowed-dosage-on-label-could-lead-to-overdose-or-death-health-canada-1.5614502"   ><img src='https://www.cp24.com/polopoly_fs/1.5614508.1633605072!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' alt='A mislabelled bottle of acetaminophen is shown in a handout image by Health Canada.' width='300' title='Novo-Gesic' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/incorrect-allowed-dosage-on-label-could-lead-to-overdose-or-death-health-canada-1.5614502"   >Incorrect allowed dosage on label could lead to overdose or death: Health Canada</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <br/>
+<br/>
+  
+  
+  
+    
+
+
+
+  <div class="element list topstorybn   ">
+              <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage ">
+                                        
+    
+        <a   href="https://www.cp24.com/news/do-you-know-what-to-do-when-you-hear-your-smoke-alarm-it-depends-says-fire-safety-educator-1.5612966"   ><img src='https://www.cp24.com/polopoly_fs/1.5613425.1633542392!/httpImage/image.jpeg_gen/derivatives/landscape_300/image.jpeg' width='300' alt='KIDDE Products' title='KIDDE Products' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline ">
+          <span class="tag">SPONSORED </span>          <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                            
+    
+        <a   href="https://www.cp24.com/news/do-you-know-what-to-do-when-you-hear-your-smoke-alarm-it-depends-says-fire-safety-educator-1.5612966"   >Do you know what to do when you hear your smoke alarm? It depends, says fire safety educator</a>
+
+        </h2>
+    </div>
+    </div>
+
+                  
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <br/>
+<br/>
+  
+  
+  
+    <h2>MOST WATCHED</h2>
+  
+  
+  
+    
+
+
+
+  <div class="element list topstorybn   ">
+              <ul class="linklist ">
+                                            
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296169"   ><div class='vid'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5614302.1633569915!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' width='300' alt='Rubina Ahmed-Haq' title='Rubina Ahmed-Haq' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296169"   >Analysis: Will prices keep going up?</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 6, 2021</div>
+	      
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297343"   ><div class='vid'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5615983.1633657341!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' width='300' alt='Food bank panel' title='Food bank panel' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297343"   >How food banks help tackle food insecurity</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296182"   ><div class='vid'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5614321.1633570726!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' width='300' alt='Alleged prowler identified' title='Alleged prowler identified' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296182"   >Police ID alleged night-prowler in Leslieville</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 6, 2021</div>
+	      
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297307"   ><div class='vid'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5615863.1633652579!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' width='300' alt='Price' title='Price' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2297307"   >Carey Price’s decision to seek help ‘empowering’</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                        </li>
+                          
+    <li class="dc ">
+                                                
+          
+      
+
+
+
+
+
+
+
+  <div style="display: inline-table; width:300px; " class="element teaser   ">
+
+          
+
+
+    
+   	    
+    <div class="teaser-image-wrapper teaser-image-top ">
+    <div class="teaserImage unmutePlayer">
+              
+        	        	                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296291"   ><div class='vid'>false</div><img src='https://www.cp24.com/polopoly_fs/1.5614760.1633615797!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' width='300' alt='Omar Alghabra' title='Omar Alghabra' height='169' /></a>
+
+                                            </div>
+    <div class="bn-headline unmutePlayer">
+                    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var arrayOfTags = jQuery("#responsive_main .topstorybn .teaser-image-wrapper .teaserImage .tag");
+
+            jQuery.each(arrayOfTags, function(k, v){
+                var parentElement = $(v).closest(".teaser-image-wrapper.teaser-image-top");
+                parentElement.find(".teaserImage .tag").remove();
+                parentElement.find(".bn-headline").prepend(v);
+            });
+        });
+    </script>
+
+            <h2 class="teaserTitle">
+                                                                                                  
+    
+        <a   href="https://www.cp24.com/video?clipId=2296291"   >Timing of U.S. border reopening unclear: Alghabra</a>
+
+        </h2>
+    </div>
+    </div>
+
+            		<div class="airClip">Air Date: October 7, 2021</div>
+	      
+</div>
+                                        </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+                        
+
+
+
+                  </div><!-- END .sidebar -->
+      </div><!-- END div.content-secondary -->
+            	<footer class="content-footer">
+      	  	    
+
+
+
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/"  title="CP24 Home" >Home</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://jobs.bce.ca/bell/go/Media/3537600/"  title="Careers" >Careers</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="http://www.bellmedia.ca/en/privacy.html"  title="Privacy Policy" >Privacy Policy</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="http://www.bellmedia.ca/en/toc.html"  title="Terms and Conditions" >Terms and Conditions</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/more/contact-us"  title="Contact Us" >Contact Us</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/more/about-us"  title="About Us" >About Us</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	              
+    
+        <a   href="https://www.bellmedia.ca/sales/political-ads-registry/"  class="newWindow"  target="_blank"   >Political Ads Registry</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/more/advertise-on-cp24"  title="Advertise on CP24" >Advertise on CP24</a>
+
+        </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/news"  title="Toronto News" >Toronto News</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="http://www.cp24.com/world"  title="World News " >World News</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/weather"  title="Weather, Toronto, GTA, cottage country" >Weather</a>
+
+        </div>
+
+  
+  
+  
+    
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="https://www.cp24.com/sports"  title="Sports news" >Sports News</a>
+
+        </div>
+
+  
+  
+  
+    <div>
+            	                
+    
+        <a   href="http://www.cp24.com/entertainment-news"  title="Entertainment News" >Entertainment News</a>
+
+        </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    <div class="footer-logos">
+  <a class="footer-logo-link" href="https://www.ctv.ca"><img src="https://www.ctvnews.ca/polopoly_fs/1.4264165!/httpImage/image.png" height="36" width="88" alt="CTV.ca" /></a>
+  <a class="footer-logo-link" href="https://www.ctv.ca"><img src="https://www.ctvnews.ca/polopoly_fs/1.4264174!/httpImage/image.png" height="36" width="88" alt="CTV Two" /></a>
+  <a class="footer-logo-link" href="https://www.ctvnews.ca"><img src="//www.ctvnews.ca/polopoly_fs/7.726389!/httpImage/image.png" height="29" width="60" alt="CTVNews"/></a>
+  <a class="footer-logo-link" href="https://www.ctvnews.ca/ctv-news-channel">
+    <img src="https://www.ctvnews.ca/polopoly_fs/7.726390!/httpImage/image.png" height="35" width="56" alt="CTV News Channel" />
+  </a>
+  <a class="footer-logo-link" href="https://www.bnnbloomberg.ca">
+    <img src="https://www.ctvnews.ca/polopoly_fs/7.711875!/httpImage/image.png" height="35" width="90" alt="BNN Bloomberg" />
+  </a>
+  <a class="footer-logo-link" href="https://www.cp24.com"><img src="https://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_cp24.jpg" height="30" width="53" alt="CP24" /></a>
+</div>
+<br/>
+  
+  
+  
+    <p class="terms">Use of this Website assumes acceptance of <a href="http://www.bellmedia.ca/bell-media-website-terms-conditions/" title="Terms &amp; Conditions">Terms &amp; Conditions</a> and <a href="https://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy" title="Privacy Policy">Privacy Policy</a></p><p class="copyright">&#169; 2021 <a href="http://www.bellmedia.ca/"><img class="copyright" src="https://static.ctvnews.ca/bellmedia/common/img/logos/bellmedia_logo.gif" alt="Bell Media" /></a> All rights reserved.</p><p class="credits"></p>
+  
+  
+  
+    
+
+<div class='thirty-by-one'>
+  
+  
+
+
+
+  
+  
+    
+                                            <div class="">
+        
+                        
+                                                                                              
+               
+	        	          								<div id="div-gpt-ad-30_1-3">
+				<script type="text/javascript">
+				    if (document.querySelector('.advert') !== null) {
+				        googletag.cmd.push(function () {
+				            headertag.display("div-gpt-ad-30_1-3");
+				        });
+				    }
+				</script>
+				</div>
+	          	                
+                
+                    </div>
+        
+    
+  
+  
+
+  </div>
+  
+  
+  
+    <a name="pagetop"></a>
+<div id='div-gpt-ad-outofpage-1-oop' style='height: 0; width: 0'>
+   <script type='text/javascript'>
+     googletag.cmd.push(function() {
+       headertag.display('div-gpt-ad-outofpage-1-oop');
+     });
+    </script>
+</div>
+
+  
+	        <p><a class="back-top hidden" href="#top" title="skip to top of page">Back to top</a></p>
+
+</footer><!-- END #content-footer -->      </div><!-- END div.content-wrapper -->
+</div><!-- END .content -->
+                      <style>
+  .sidebar .element.list.li-divider .vid {z-index: auto}
+  </style>                      <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/jquery.form.js" ></script>
+                    <script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "3005664" });
+  
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/cs/3005664/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>                        
+        <script type="text/javascript">
+            (function() {
+                /** CHARTBEAT CONFIGURATION START **/
+                var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+                                _sf_async_config.sections = 'CP24, World';
+                
+                _sf_async_config.authors = cbAuthor; // CHANGE THIS TO YOUR AUTHOR NAME(s)
+                /** CHARTBEAT CONFIGURATION END **/
+                function loadChartbeat() {
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '//static.chartbeat.com/js/chartbeat_video.js';;
+                n.parentNode.insertBefore(e, n);
+                }
+                loadChartbeat();
+            })();
+        </script>
+
+                          <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/common.js?v2" ></script>
+                      <script type="text/javascript" charset="utf-8">
+try {
+  if (window.external.msIsSiteMode()) {
+    window.external.msSiteModeClearJumpList();
+    window.external.msSiteModeCreateJumpList("News Headlines");
+                  window.external.msSiteModeAddJumpListItem("Suspect arrested in violent sexual assault in Hamilton, police say there could be more victims", "https://www.cp24.com/news/suspect-arrested-in-violent-sexual-assault-in-hamilton-police-say-there-could-be-more-victims-1.5615415", "http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico", "self");
+              window.external.msSiteModeAddJumpListItem("Health minister says she 'won't hesitate' to extend vaccine mandate to hospitals as opposition slams 'wait and see approach'", "https://www.cp24.com/news/health-minister-says-she-won-t-hesitate-to-extend-vaccine-mandate-to-hospitals-as-opposition-slams-wait-and-see-approach-1.5614938", "http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico", "self");
+              window.external.msSiteModeAddJumpListItem("Ontario releases COVID-19 guidance for Thanksgiving gatherings, trick-or-treating", "https://www.cp24.com/news/ontario-releases-covid-19-guidance-for-thanksgiving-gatherings-trick-or-treating-1.5614465", "http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico", "self");
+              window.external.msSiteModeAddJumpListItem("Top health official says 'long fall and winter' still ahead as Ontario reports 587 new COVID-19 infections", "https://www.cp24.com/news/top-health-official-says-long-fall-and-winter-still-ahead-as-ontario-reports-587-new-covid-19-infections-1.5614676", "http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico", "self");
+              window.external.msSiteModeAddJumpListItem("Toronto police say they're narrowing in on Erin Gilmour's killer 38 years later", "https://www.cp24.com/news/toronto-police-say-they-re-narrowing-in-on-erin-gilmour-s-killer-38-years-later-1.5615733", "http://static.ctvnews.ca/bellmedia/cp24/img/favicon.ico", "self");
+            }
+} 
+catch (ex) {
+    // Fail silently.
+}
+</script>  <div id="pinning-discoverability"> </div> 
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function () {
+    $('#pinning-discoverability').pinable(
+      {
+        closeTitle: 'Close', // default close title
+        containerElement: 'body', // element that pinning html will be prepended to
+        cookieName: 'cp24_new-pin', // name of cookie; default is iePinning_yourdomain.com
+        cookieLength: 30, // in days; default is 30 days
+        debug: false, // debug mode; forces the banner to always show, even across browsers
+        discStyle: 'toast', // discoverability style; options are toast, topHat and pushUp
+        dragAlt: 'Drag me!', // default drag icon alt text
+        elementId: 'pinning-discoverability', // Id of banner container that will be injected
+        logoPath: 'https://www.cp24.com/polopoly_fs/7.637153!/defaultIcon/icon-32x32.jpg', // path to the 32px x 32px logo file
+        message: 'Pin CP24.com to your taskbar to stay up to date with the latest news',
+        slideDuration: 'fast', // change the slide speed
+        useCookie: true // toggles cookies on/off; default is on
+    });
+  });
+</script>
+                  <script type="text/javascript">
+        var _gaq = _gaq || []; 
+                        _gaq.push(['_setAccount', 'UA-19847838-1']);
+    _gaq.push(['_setDomainName', 'cp24.com']);
+          _gaq.push(['_trackPageview']);
+    
+    jQuery(document).ready(function() {
+        var insertGATriggers = function() {
+                    jQuery("a[data-gaTrackingEvent]").bind('click', function() {
+            var gaTrackingEvent = jQuery(this).attr('data-gaTrackingEvent');
+            var gaTrackingCategory = jQuery(this).attr('data-gaTrackingCategory');
+            var gaTrackingAction = jQuery(this).attr('data-gaTrackingAction');
+            var gaTrackingLabel = jQuery(this).attr('data-gaTrackingLabel');
+            if (typeof gaTrackingLabel == 'undefined') {
+                gaTrackingLabel = "";
+            }
+            _gaq.push([gaTrackingEvent, gaTrackingCategory, gaTrackingAction, gaTrackingLabel]);
+          });
+        };
+        var ga_src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        requiresDependency(ga_src,insertGATriggers);
+    });
+</script>            <img src='/logger/p.gif?a=1.5061618&amp;d=/2.628/2.629/2.614/2.934' alt='' />    <script type="text/javascript">
+    jQuery('body').bind('logger', function(event) {
+      if (event.a) {
+        if (!event.d) {
+          event.d = '/2.628/2.629/2.614/2.934';
+        }
+        jQuery.ajax({url:'/logger/p.gif', data:{a:event.a, d:event.d}});
+      }
+    });
+  </script>
+              
+
+          
+  <script type="text/javascript"> _AUTO_TRACK = false; </script>
+            <script type="text/javascript" src="//beta.ctvnews.ca/content/dam/static-resources/includeAuth3.js"></script>
+  <script type="text/javascript" src="https://static.ctvnews.ca/bellmedia/common/js/omnitureTVE.js"></script>
+  
+  <script type="text/javascript">
+                        
+   	  	  	    // var d = new Date();
+    // console.log('Before: ', d.toLocaleTimeString());
+    // setTimeout( () => {
+    setupOmnitureTracking(
+      "ctvgmtvecp24desktop",
+      "CP24",
+      "News",
+      "cp24",
+      "story",
+      "www",
+       "CP24",       "true",
+      "false",
+      false,
+      false,
+      "ctvgmtvecp24globalsuite");
+    // }, 1500);
+    // var d = new Date();
+    // console.log('After: ', d.toLocaleTimeString());
+       _satellite.pageBottom();
+  
+  </script>
+
+         <script type="text/javascript">
+      jQuery(document).ready(
+      function(){
+                                                          trackContent(false, "UK slashes official virus death toll by more than 5,000");
+                                    });
+      </script>
+         <script src="https://tru.am/scripts/custom/ctvnews.js"></script>
+    <script>
+    jQuery(document).ready(
+        function(){
+          requiresDependency('https://static.ctvnews.ca/bellmedia/common/js/trustProject.js', function() {initTrustLabel()})
+        })
+  </script>
+</body>
+</html>

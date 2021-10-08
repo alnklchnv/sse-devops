@@ -1,0 +1,751 @@
+<!doctype html><html lang='en' class='optml_no_js'><head>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>html{line-height:1.15;-webkit-text-size-adjust:100%}a{background-color:transparent;color:#007bff}img{border-style:none}input{font-family:inherit;font-size:100%;line-height:1.15;margin:0;overflow:visible}[type=checkbox]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{font-family:sans-serif}.pure-img{display:block}.pure-g{letter-spacing:-.31em;text-rendering:optimizespeed;font-family:FreeSans,Arimo,"Droid Sans",Helvetica,Arial,sans-serif;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-line-pack:start;align-content:flex-start;word-spacing:-.43em}.pure-g [class*=pure-u]{font-family:sans-serif}.pure-u-1,.pure-u-1-1,.pure-u-1-2,.pure-u-1-5,.pure-u-2-5,.pure-u-3-5{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-u-1-5{width:20%}.pure-u-2-5{width:40%}.pure-u-1-2{width:50%}.pure-u-3-5{width:60%}.pure-u-1,.pure-u-1-1{width:100%}@media screen and (min-width:48em){.pure-u-md-1-6{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto;width:16.6667%}}@media screen and (min-width:64em){.pure-u-lg-1,.pure-u-lg-18-24,.pure-u-lg-3-24,.pure-u-lg-8-24{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-u-lg-3-24{width:12.5%}.pure-u-lg-8-24{width:33.3333%}.pure-u-lg-18-24{width:75%}.pure-u-lg-1{width:100%}}body{margin:0;background-color:#eee;font-weight:400;line-height:1.4;color:#24292e}#wrapper{max-width:1024px;margin:auto;background-color:#fff;box-shadow:0 0 2px #222}#header-wrapper{width:100%}.pure-img,img{aspect-ratio:attr(width)/attr(height);max-width:100%;height:auto}.center{margin:auto;text-align:center}#bc-masthead{background:#060606;padding:5px}.bc-logos{height:32px}#main{background-color:#fff;padding:10px}.hub_section_title,.sidebar-header{padding:2px 5px;border-top:1px solid #262626;border-bottom:1px solid #262626;margin:5px 2px}.latest-headline{color:#000;font-size:1em;margin:0 2px 5px}.latest-article-container{box-sizing:border-box;padding:15px;border-top:1px solid #eee;overflow:hidden}.latest-article-image-container{display:inline-block;vertical-align:middle;overflow:hidden}.latest-article-image-container img{margin:auto}.latest-article-text{display:inline-block;vertical-align:middle;box-sizing:border-box;padding:2px 10px}.latest-article-container a{text-decoration:none}#popular_now{list-style:none;margin:2px;padding:0;text-decoration:none}#popular_now a{text-decoration:none;color:#000}#popular_now li{padding:5px 0;border-bottom:1px solid #eee}.main-content,.sidebar{width:100%}div#top_leaderboard{min-height:100px}div#top_medium_rectangle{min-height:250px}div#top_leaderboard,div#top_medium_rectangle{background-color:#ddd}@media screen and (min-width:64em){.main-content{width:700px;float:left}.sidebar{width:294px;float:left;padding-left:10px}.latest-article-excerpt{display:none}.latest-article-text{padding:2px 0}div#top_leaderboard{min-height:250px}div#top_medium_rectangle{min-height:600px}}nav#keywords_banner{height:19px;width:100%;margin:auto;overflow:hidden;background-color:#202020;color:#bbb;padding:0 10px;box-sizing:border-box;font-size:.8em}nav#keywords_banner a,nav#keywords_banner a:visited{text-decoration:none;color:#fff}#menu ul{margin:0;padding:0}#menu .main-menu,#menu input[type=checkbox],#menu ul span.drop-icon{display:none}#menu .sub-menu,#menu li,#toggle-menu{border-style:solid;border-color:rgba(0,0,0,.05)}#menu li,#toggle-menu{border-width:0 0 1px}#menu li a{text-decoration:none}#menu .sub-menu{background-color:#444;border-width:1px 1px 0;margin:0 1em;display:none}#menu .sub-menu li:last-child{border-width:0}#menu a,#menu li,#toggle-menu{position:relative;display:block;color:#fff;text-shadow:1px 1px 0 rgba(0,0,0,.125)}#menu,#toggle-menu{background-color:inherit}#menu a,#search_box,#toggle-menu{padding:.35em .5em}#toggle-menu .drop-icon{position:absolute;right:1.5em;top:1.25em}#toggle-menu span.drop-icon{border-radius:50%;width:1em;height:1em;text-align:center;text-shadow:0 0 0 transparent;text-decoration:none;color:rgba(255,255,255,.75)}#menu .drop-icon{line-height:1}.hamburger{width:35px;height:4px;background-color:#fff;margin:3px auto}#search_box{width:100%;height:20px;vertical-align:sub;vertical-align:-webkit-baseline-middle;vertical-align:-moz-middle-with-baseline}.menu-dropdown-label{width:100%;display:block}.menu-top-level{display:none}@media only screen and (min-width:64em){#menu .main-menu{display:block}.hamburger{display:none}#search_box{width:94px;height:15px}#toggle-menu{display:none}#menu ul span.drop-icon{display:inline-block}#menu li{float:left;border-width:0 1px 0 0}#menu .sub-menu li{float:none;border-width:0 0 1px}#menu .sub-menu{border-width:0;margin:0;position:absolute;top:100%;left:0;width:12em;z-index:3000;display:none}}img[data-opt-src]:not([data-opt-lazy-loaded]){opacity:.75;-webkit-filter:blur(8px);-moz-filter:blur(8px);-o-filter:blur(8px);-ms-filter:blur(8px);filter:blur(8px);transform:scale(1.04);animation:0.1s ease-in;-webkit-transform:translate3d(0,0,0)}</style>
+
+<link href="https://mlpnk72yciwc.i.optimole.com" rel="preconnect">
+<link href="http://config.playwire.com" rel="preconnect">
+<link rel='stylesheet' href='/pure-min.css' />
+<link rel='stylesheet' href='/grids-responsive-min.css' />
+<link rel='stylesheet' href='/theme.css?version=6' />
+<script type="text/javascript">
+  var tyche = {  mode: 'tyche',  config: '//config.playwire.com/1002214/v2/websites/46776/banner.json',  forcePath: 'archives'  }
+  setTimeout(function() {
+      // The main playwire ad script
+      var pw_main = document.createElement('script');
+      pw_main.type = 'text/javascript';
+      pw_main.async = true;
+      pw_main.src = '//cdn.intergient.com/pageos/pageos.js';
+
+      // Append script
+      var head_ID = document.getElementsByTagName("head")[0];
+      head_ID.appendChild(pw_main);
+  }, 2750);
+  setTimeout(function() {
+      // The playwire ad script delta variant, capable of breakthrough infections
+      var pw_delta = document.createElement('script');
+      pw_delta.type = 'text/javascript';
+      pw_delta.async = true;
+      pw_delta.src = '//btloader.com/tag?o=5150306120761344&upapi=true';
+
+      // Append script
+      var head_ID = document.getElementsByTagName("head")[0];
+      head_ID.appendChild(pw_delta);
+  }, 3500);
+</script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+    'permalink' : 'https://bleedingcool.com/',
+    'is_article' : '',
+    'post_id' : '0',
+    'page_title' : 'Bleeding+Cool+News+and+Rumors',
+  });
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4X6JX5');</script>         <meta name='generator' content='Optimole 2.3.1'>
+		<style type='text/css'>
+			img[data-opt-src]:not([data-opt-lazy-loaded]) {
+				transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-webkit-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-moz-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+				-o-transition: .2s filter linear, .2s opacity linear, .2s border-radius linear;
+			}
+			img[data-opt-src]:not([data-opt-lazy-loaded]) {
+				  opacity: .75;
+				  -webkit-filter: blur(8px);
+				  -moz-filter: blur(8px);
+				  -o-filter: blur(8px);
+				  -ms-filter: blur(8px);
+				  filter: blur(8px);
+				  transform: scale(1.04);
+				  animation: 0.1s ease-in;
+				  -webkit-transform: translate3d(0, 0, 0);
+			}
+
+		</style>
+		<script type='application/javascript'>
+					document.documentElement.className += ' optimole_has_js';
+					(function(w, d){
+						var b = d.getElementsByTagName('head')[0];
+						var s = d.createElement('script');
+						var v = ('IntersectionObserver' in w && 'isIntersecting' in w.IntersectionObserverEntry.prototype) ? '_no_poly' : '';
+						s.async = true;
+						s.src = 'https://d5jmkjjpb7yfg.cloudfront.net/v2/latest/optimole_lib' + v  + '.min.js';
+						b.appendChild(s);
+						w.optimoleData = {
+							lazyloadOnly: 'optimole-lazy-only',
+							backgroundReplaceClasses: [],
+							watchClasses: [],
+							backgroundLazySelectors: '',
+							network_optimizations: true,
+							ignoreDpr: true,
+							quality: 75
+						}
+
+					}(window, document));
+
+					document.addEventListener( 'DOMContentLoaded', function() { document.body.className = document.body.className.replace('optimole-no-script',''); } );
+		</script><!-- This site is optimized with the Yoast SEO Premium plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Bleeding Cool News And Rumors - Comics, Movies, TV, Games</title>
+<meta name="description" content="Bleeding Cool is your independent source for news about comic books, film, tv, games, collectibles, and more." />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://bleedingcool.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bleeding Cool" />
+<meta property="og:description" content="Comic Book, Film, TV, Games, Toys News and Rumors" />
+<meta property="og:url" content="https://bleedingcool.com/" />
+<meta property="og:site_name" content="Bleeding Cool News And Rumors" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@bleedingcool" />
+<!-- / Yoast SEO Premium plugin. -->
+<script charset='UTF-8' src='//web.webpushs.com/js/push/582fca4f3d20490e714a8a2ce06da6b8_1.js' async></script>
+
+<script type='application/ld+json'>{
+    "mainEntityOfPage": {
+        "url": "https:\/\/bleedingcool.com\/",
+        "@context": "http:\/\/schema.org",
+        "@type": "WebPage"
+    },
+    "description": "",
+    "name": "Bleeding Cool News and Rumors",
+    "url": "https:\/\/bleedingcool.com\/",
+    "itemListOrder": "Unordered",
+    "itemListElement": [
+        {
+            "name": "Funko Is The Worst &#8211; The Daily LITG, 8th October 2021",
+            "description": "LITG: The world can seem like a terrible and strange place sometimes, but at Bleeding Cool, you can still read all about comics, merch, TV shows, games,",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/funko-is-the-worst-the-daily-litg-8th-october-2021\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/IMG_8151-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/funko-is-the-worst-the-daily-litg-8th-october-2021\/",
+            "position": 1,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Saturday Night Live Promo: Kim Kardashian West Doesn't Sweat Hosting",
+            "description": "Saturday Night Live host Kim Kardashian West\u00a0& musical guest Halsey were joined by SNL's Cecily Strong for this week's sketch promos.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Kim-Kardashian-West-Isnt-Nervous-About-Hosting-SNL-0-15-screenshot-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting\/",
+            "position": 2,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Ion Fury Releases 2.0 Patch Today Ahead Of 2022 Expansion",
+            "description": "3D Realms and 1C Entertainment released a new update for Ion Fury as they prepare for the next game expansion coming sometime in Q1 2022.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/03\/Ion-Fury-Aftershock-Expansion-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/games\/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion\/",
+            "position": 3,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Blade Runner: Black Lotus Sets November Premiere: New Trailer, Key Art",
+            "description": "Premiering November 13th, Crunchyroll & Adult Swim released a second official trailer and new key art for Blade Runner: Black Lotus.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Blade-Runner-Key-Visual-3-2-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art\/",
+            "position": 4,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Nice Move, FXX: It's Always Sunny in Philadelphia Gets Some Love Back",
+            "description": "FXX brought back an It's Always Sunny in Philadelphia late-night marathon. We would like to think we had something to do with it (humor us).",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/06\/always-sunny-s14e2-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back\/",
+            "position": 5,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Funimation Unveils Slate Of Anime Feature Films At New York Comic Con",
+            "description": "Funimation announced its upcoming theatrical release slate during its panel today at New York Comic Con, including Sing a Bit of Harmony.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/EUREKAMovie-kv-with-copyright-and-logo-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con\/",
+            "position": 6,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Lamb Review: This Is A24 at Its Most A24 and It's Awesome",
+            "description": "Lamb is unexpected in the best possible way. Beautifully shot, wonderfully acted, uncomfortable but not in a queasy way while also being weirdly sweet.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Poster-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome\/",
+            "position": 7,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Queenpins Is A Comedy Worth Seeking Out On Paramount+",
+            "description": "Looking for something to watch this week? Give Queenpins a shot on Paramount+ It is streaming now on the service.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Why-is-Queenpins-rated-R-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/movies\/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus\/",
+            "position": 8,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Pok\u00e9mon TCG: Celebrations Early Opening: Collector Chest",
+            "description": "Let's do an early opening of Pok\u00e9mon TCG: Celebrations Collector Chest with promo cards that resurrect old mechanics and card styles.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-early-opening-collector-chest\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/IMG_4874-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-early-opening-collector-chest\/",
+            "position": 9,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "ComiXology Drop Pre-Ordered Digital Comics from Website",
+            "description": "It has been noted that ComiXology no longer seems to be listed comic books ahead of publication. Something which used to be common practice and for some",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/comixology-drop-pre-ordered-digital-comics-from-website\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/FBHJF27XMAEH0J2-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/comixology-drop-pre-ordered-digital-comics-from-website\/",
+            "position": 10,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Power Rangers, Boom Studios, Kyle Higgins and Kickstarter Royalties",
+            "description": "In January, Boom Studios ran a Kickstarter to fund the collection of Mighty Morphin Power Rangers comic books. And they raised over $804,000 from 1584",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/power-rangers-boom-studios-kyle-higgins-and-kickstarter-royalties\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/c853b459b17ad9a9a16b119cb93af25f_original-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/power-rangers-boom-studios-kyle-higgins-and-kickstarter-royalties\/",
+            "position": 11,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Aquaman Returns To His Blue Costume In January 2022",
+            "description": "Once upon a time, Aquaman dressed, not in orange, but in blue. The Aquaman mini-series from 1986 gave him a brand new organic streamlined blue look that",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/aquaman-returns-to-his-blue-costume-in-january-2022\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/FA9igtkVEAIQJi6-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/aquaman-returns-to-his-blue-costume-in-january-2022\/",
+            "position": 12,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Penguin Random House Making Changes To Marvel Comics Packaging",
+            "description": "Penguin Random House have issued the following statement to comic book retailers who have been ordering Marvel Comics from them. \"Thank you for reaching",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/penguin-random-house-making-changes-to-marvel-comics-packaging\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/penguinRH_Marvel_template_1-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/penguin-random-house-making-changes-to-marvel-comics-packaging\/",
+            "position": 13,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "A Better Look At The X Lives And X Deaths Of Wolverine",
+            "description": "The upcoming weekly series by Benjamin Percy, Joshua Cassara\u00a0and\u00a0Federico Vicentini,\u00a0 The X Lives Of Wolverine and The X Deaths Of Wolverine, will be",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/a-better-look-at-the-x-lives-and-x-deaths-of-wolverine\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/91bIku8dUZL-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/a-better-look-at-the-x-lives-and-x-deaths-of-wolverine\/",
+            "position": 14,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Marvel Comics To Publish Devil's Reign: X-Men In January",
+            "description": "Marvel Comics is to begin a Daredevil event comic series, Devil's Reign, from Chip Zdarsky and Marco Checchetto in December, spinning out of the Kingpin",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/marvel-comics-to-publish-devils-reign-x-men-in-january\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/91DHqXZb7AL-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/marvel-comics-to-publish-devils-reign-x-men-in-january\/",
+            "position": 15,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Mark Millar Writes Queen Elizabeth II In King Of Spies #1",
+            "description": "Mark Millar and Matteo Scalera have a new work-for-hire comic book from Image Comics, based on a project Millar has been working up for Netflix, called",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/comics\/mark-millar-writes-queen-elizabeth-ii-in-king-of-spies-1\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/unnamed-37-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/comics\/mark-millar-writes-queen-elizabeth-ii-in-king-of-spies-1\/",
+            "position": 16,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Foundation: Apple TV+ Gives Isaac Asimov Adapt Season 2 Order",
+            "description": "Apple TV+ is giving David S. Goyer's series adaptation of Isaac Asimov's trilogy of Foundation novels a second season order.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/foundation-apple-tv-gives-isaac-asimov-adapt-season-2-order\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/Foundation_Photo_010114-1-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/foundation-apple-tv-gives-isaac-asimov-adapt-season-2-order\/",
+            "position": 17,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Ghosts: Rose McIver &#038; Utkarsh Ambudkar Talk CBS Remake; New Previews",
+            "description": "Ghosts stars Rose McIver and Utkarsh Ambudkar take viewers behind the scenes of the CBS remake; new series premiere previews.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/ghosts-rose-mciver-new-previews\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/07\/117226_3337b2-1-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/ghosts-rose-mciver-new-previews\/",
+            "position": 18,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "The Patient: Steve Carell, \"The Americans\" Creators Team for FX Series",
+            "description": "Steve Carell stars in FX's The Patient from the creators of\u00a0The Americans, where a psychiatrist goes up against a serial killer.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/the-patient-steve-carell-the-americans-creators-team-for-fx-series\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/the_morning_show_jay_carson_kerry_ehrin_5-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/the-patient-steve-carell-the-americans-creators-team-for-fx-series\/",
+            "position": 19,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "The Chadster Hated Adam Page's Return on AEW Dynamite Anniversary",
+            "description": "Adam Page returned at AEW Dynamite Anniversary and The Chadster absolutely hated it. Here's everything else The Chadster hated about the show.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/the-chadster-hated-adam-pages-return-on-aew-dynamite-anniversary\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Screen-Shot-2021-10-07-at-2.43.29-PM-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/the-chadster-hated-adam-pages-return-on-aew-dynamite-anniversary\/",
+            "position": 20,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Dark Side of the Ring Season 3 Examines Johnny K9's Double Life",
+            "description": "On tonight's episode of Vice TV's Dark Side of the Ring Season 3, the spotlight shifts to the double life of Johnny K9 aka Bruiser Bedlam.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/tv\/dark-side-of-the-ring-season-3-examines-johnny-k9s-double-life\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/sotr300cap-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/tv\/dark-side-of-the-ring-season-3-examines-johnny-k9s-double-life\/",
+            "position": 21,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "There's Someone Inside Your House: We Chat With The Director &#038; Writer",
+            "description": "We got to chat with Patrick Brice and Henry Gayden, the director and writer of There's Someone Inside Your House, now out on Netflix",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/theres-someone-inside-your-house-brice-gayden-interview-netflix\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Theres-Someone-Inside-Your-House.-Credit-Netflix-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/theres-someone-inside-your-house-brice-gayden-interview-netflix\/",
+            "position": 22,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Prophet Film From Jake Gyllenhaal and Sam Hargrave On the Way",
+            "description": "Rob Liefeld's Prophet is coming to the big screen with Jake Gyllenhaal starring and Extraction helmer Sam Hargrave directing.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/prophet-liefeld-film-gyllenhaal-hargrave-studio-8\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2020\/05\/rob-liefeld-prophet-film-has-hired-a-writer-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/prophet-liefeld-film-gyllenhaal-hargrave-studio-8\/",
+            "position": 23,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Halloween Kills: New Featurette Puts Haddonfield Center Stage",
+            "description": "Another day, another Halloween Kills featurette. Can it just be October 15th already? Only one week to go now!",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/halloween-kills-featurette-jamie-lee-curtis-michael-myers-haddonfield\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/5756_D013_00082_R_CROP-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/halloween-kills-featurette-jamie-lee-curtis-michael-myers-haddonfield\/",
+            "position": 24,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "The Cast of The Matrix Explains How the Movie Changed Their World",
+            "description": "The cast of The Matrix Resurrections, both old and new, sits down in a new featurette to talk about how the first movie changed their world.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/the-cast-of-the-matrix-explains-how-the-movie-changed-their-world\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/rev-1-MX4-TRLR-0012_High_Res_JPEG-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/movies\/the-cast-of-the-matrix-explains-how-the-movie-changed-their-world\/",
+            "position": 25,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Hellraiser Reboot Finds Its Pinhead In Jamie Clayton",
+            "description": "The Hellraiser reboot has found its Pinhead in Sense8 star Jamie Clayton. Principal photography has already wrapped as well!",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/movies\/hellraiser-reboot-pinhead-jamie-clayton-filming-hulu\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2020\/04\/hellraiser-1-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/movies\/hellraiser-reboot-pinhead-jamie-clayton-filming-hulu\/",
+            "position": 26,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "MapleStory Fest Will Return For Fourth Year In November",
+            "description": "Nexon has announced the return of MapleStory Fest as the yearly celebration of the game will return for a fourth year in November.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/maplestory-fest-will-return-for-fourth-year-in-november\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/MapleStory-Fest-2021-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/games\/maplestory-fest-will-return-for-fourth-year-in-november\/",
+            "position": 27,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Pok\u00e9mon TCG: Celebrations Opening: Deluxe Pin Collection",
+            "description": "Are Pok\u00e9mon TCG: Celebrations products worth seeking out? Let's open up a Deluxe Pin Collection box and find out based on our pulls.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-opening-deluxe-pin-collection\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/IMG_4863-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-opening-deluxe-pin-collection\/",
+            "position": 28,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Magic World Championship XXVII Begins Tomorrow",
+            "description": "Wizards of the Coast will be holding the Magic World Championship XXVII tomorrow with the top 16 players from around the globe.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/magic-world-championship-xxvii-begins-tomorrow\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Magic-World-Championship-XXVII-Main-Logo-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/games\/magic-world-championship-xxvii-begins-tomorrow\/",
+            "position": 29,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Pok\u00e9mon TCG: Celebrations Early Opening: Pikachu Figure Collection",
+            "description": "If you can buy only one Pok\u00e9mon TCG: Celebrations product, this is the one you should get for this landmark 25th Anniversary set.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-early-opening-pikachu-figure-collection\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/IMG_4861-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/games\/pokemon-tcg-celebrations-early-opening-pikachu-figure-collection\/",
+            "position": 30,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Arcade1Up Announces Killer Instinct &#038; Tron Cabinets",
+            "description": "Arcade1Up revealed three new cabinets coming this holiday season as fans will be able to get in on versions of Tron and Killer Instinct.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/arcade1up-announces-killer-instinct-tron-cabinets\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Arcade1Up-Killer-Instinct-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/games\/arcade1up-announces-killer-instinct-tron-cabinets\/",
+            "position": 31,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Doctor Who: The Edge Of Reality Gets A New Gameplay Trailer",
+            "description": "Maze Theory and BBC Studios released a brand new gameplay trailer today for their upcoming VR adventure game Doctor Who: The Edge Of Reality.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/games\/doctor-who-the-edge-of-reality-gets-a-new-gameplay-trailer\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2020\/10\/Doctor-Who-The-Edge-of-Reality-14th-Doctor-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/games\/doctor-who-the-edge-of-reality-gets-a-new-gameplay-trailer\/",
+            "position": 32,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Funko Wins Award For Worst New York Comic Con 2021 Experience",
+            "description": "Funko kicked off their newest launch of exclusives for NYCC and as expect the launch was filled with confusion, errors, and poor choices",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/funko-wins-award-for-worst-new-york-comic-con-2021-experience\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Enlight125-e1633637417517-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/funko-wins-award-for-worst-new-york-comic-con-2021-experience\/",
+            "position": 33,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "McFarlane Toys Reveals Batman Who Laughs and Robins 4-Pack Set",
+            "description": "The horror of The Batman Who Laughs is back as McFarlane Toys unveils a special four pack set is on the way straight from Walmart Con",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/mcfarlane-toys-reveals-batman-who-laughs-and-joker-4-pack-set\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/803dd3bc-9a01-4696-bf2a-fffd8d8737e4.d4ee4e4406e7d1bfdbb632a24e028c9f-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/mcfarlane-toys-reveals-batman-who-laughs-and-joker-4-pack-set\/",
+            "position": 34,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Hero Collector January 2022 Alien, Battlestar &#038; Orville Ship Replica",
+            "description": "Hero Collector from Eaglemoss publishes hardcover collections of a number of DC Comics classic storylines for the non-US market - as well as collector",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/hero-collector-january-2022-alien-battlestar-orville-ship-replica\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/APSUK603_AlienShipsXL_CheyenneDropship_Front-1200x675.png",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/hero-collector-january-2022-alien-battlestar-orville-ship-replica\/",
+            "position": 35,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Street Fighter Ryu Enters the Ring with Seamless Figure from IconiQ",
+            "description": "Street Fighter collectibles are about to get a massive upgrade as Iconiq reveals their next level seamless bodied figures loaded with detail",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/street-fighter-ryu-enters-the-ring-with-seamless-figure-from-iconiq\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/IconiQ-Ryu-Figure-013-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/street-fighter-ryu-enters-the-ring-with-seamless-figure-from-iconiq\/",
+            "position": 36,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "TMNT Colored Foot Soldier 4-Pack Arrives from The Loyal Subjects",
+            "description": "The Foot Clan numbers are growing as The Loyal Subject reveals their newest TMNT figures with a colorful Solider 4-pack set",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/tmnt-colored-foot-soldier-4-pack-arrives-from-the-loyal-subjects\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/BST-AXN-Foot-Soldier-Set-001-1200x675.jpeg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/tmnt-colored-foot-soldier-4-pack-arrives-from-the-loyal-subjects\/",
+            "position": 37,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Here is Your Shared Retailer Exclusives List For Funko's NYCC 2021",
+            "description": "Funko reveals their full list of shared retailer locations for this year's New York Comic Con virtual event so expect some delays",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/here-is-your-shared-retailer-exclusives-list-for-funkos-nycc-2021\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/240131174_4569218013147345_2862048045348098386_n-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/here-is-your-shared-retailer-exclusives-list-for-funkos-nycc-2021\/",
+            "position": 38,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Iron Studios Announces New WandaVision Statue with Halloween Vision",
+            "description": "Coming out of the hit television series WandaVision, it is time to celebrate Halloween as Iron Studios revisits the popular Halloween episode",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/iron-studios-announces-new-wandavision-statue-with-halloween-vision\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Color2-5-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/iron-studios-announces-new-wandavision-statue-with-halloween-vision\/",
+            "position": 39,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Captain America Rises from the Dead with Iron Studios What If\u2026? Statue",
+            "description": "The walking dead has arrived as Iron Studios brings one of the popular undead episodes of What If to life with zombie Captain America\u00a0",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/collectibles\/captain-america-rises-from-the-dead-with-iron-studios-what-if-statue\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/10\/Zombie-Captain-America-IS_11-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/collectibles\/captain-america-rises-from-the-dead-with-iron-studios-what-if-statue\/",
+            "position": 40,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Anjali Bhimani Launches Kickstarter For New Book",
+            "description": "This morning, Anjali Bhimani announced that she is launching a new Kickstarter for her next book titled I Am Fun Size, And So Are You!",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/pop-culture\/anjali-bhimani-launches-kickstarter-for-new-book\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/Anjali-Bhimani-I-Am-Fun-Size-And-So-Are-You-Cover-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/pop-culture\/anjali-bhimani-launches-kickstarter-for-new-book\/",
+            "position": 41,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Addams Family 2: Kellogg's Releases Limited Edition Cereals &#038; More",
+            "description": "Grab some special edition Kellogg's Addams Family 2 treats and cereal for when you see the movie this Friday in theaters and On Demand.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/pop-culture\/addams-family-2-kelloogs-cereal-snacks-in-stores-now\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/image001-2-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/pop-culture\/addams-family-2-kelloogs-cereal-snacks-in-stores-now\/",
+            "position": 42,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Netflix's Geeked Week &#038; TUDUM Events Copied DC FanDome's Homework",
+            "description": "Netflix came into the virtual con space with Geeked Week, WitcherCon & TUDUM, and they did it right by copying DC FanDome's homework.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/pop-culture\/netflixs-geeked-week-tudum-events-copied-dc-fandomes-homework\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/tudum-fandome-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/pop-culture\/netflixs-geeked-week-tudum-events-copied-dc-fandomes-homework\/",
+            "position": 43,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Steve Aoki's DIM MAK and Viz Media Launch More Bleach Apparel",
+            "description": "Steve Aoki\u2019s fashion and record label, DIM MAK, has teamed up with VIZ Media to release the official \u201cDIM MAK x BLEACH\u201d collaboration \u2013 a limited edition",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/pop-culture\/steve-aokis-dim-mak-and-viz-media-launch-more-bleach-apparel\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/09\/11-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/pop-culture\/steve-aokis-dim-mak-and-viz-media-launch-more-bleach-apparel\/",
+            "position": 44,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        },
+        {
+            "name": "Tony Hawk &#038; Liquid Death Come Together For Blood-Infused Skateboards",
+            "description": "Liquid Death and Tony Hawk came together for a special promotion as a small group of people could a skateboard infused with Hawk's own blood.",
+            "mainEntityOfPage": "https:\/\/bleedingcool.com\/pop-culture\/tony-hawk-liquid-death-come-together-for-blood-infused-skateboards\/",
+            "image": "https:\/\/bleedingcool.com\/wp-content\/uploads\/2021\/08\/Liquid-Death-Skateboards-Tony-Hawk-1200x675.jpg",
+            "url": "https:\/\/bleedingcool.com\/pop-culture\/tony-hawk-liquid-death-come-together-for-blood-infused-skateboards\/",
+            "position": 45,
+            "@context": "http:\/\/schema.org",
+            "@type": "ListItem"
+        }
+    ],
+    "@context": "http:\/\/schema.org",
+    "@type": "ItemList"
+}</script>
+</head>
+<body itemtype="https://schema.org/Blog" itemscope="itemscope">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns/html?id=GTM-T4X6JX5&nojscript=true"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) --><div id="wrapper"><nav id="keywords_banner">
+<span>Breaking:</span> <a href="https://bleedingcool.com/comics/funko-is-the-worst-the-daily-litg-8th-october-2021/" rel="bookmark">LITG</a> | <a href="https://bleedingcool.com/tv/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting/" rel="bookmark">Saturday Night Live</a> | <a href="https://bleedingcool.com/games/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion/" rel="bookmark">Ion Fury</a> | <a href="https://bleedingcool.com/tv/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art/" rel="bookmark">blade runner</a> | <a href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel="bookmark">Always Sunny</a> | <a href="https://bleedingcool.com/movies/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con/" rel="bookmark">Funimation</a> | <a href="https://bleedingcool.com/movies/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome/" rel="bookmark">Lamb</a> | <a href="https://bleedingcool.com/movies/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus/" rel="bookmark">queenpins</a> | <a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-collector-chest/" rel="bookmark">Pokémon TCG</a> | <a href="https://bleedingcool.com/tv/foundation-apple-tv-gives-isaac-asimov-adapt-season-2-order/" rel="bookmark">Foundation</a> | <a href="https://bleedingcool.com/movies/theres-someone-inside-your-house-brice-gayden-interview-netflix/" rel="bookmark">there's someone inside your house</a> | <a href="https://bleedingcool.com/movies/prophet-liefeld-film-gyllenhaal-hargrave-studio-8/" rel="bookmark">prophet</a> | <a href="https://bleedingcool.com/games/maplestory-fest-will-return-for-fourth-year-in-november/" rel="bookmark">MapleStory</a> | <a href="https://bleedingcool.com/collectibles/funko-wins-award-for-worst-new-york-comic-con-2021-experience/" rel="bookmark">funko</a> | <a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-opening-deluxe-pin-collection/" rel="bookmark">Pokémon TCG</a></nav>
+<div id="header-wrapper">
+  <header id="bc-masthead" class="pure-g" role="banner">
+    <div class="pure-u-1-5 pure-u-md-1-6 pure-u-lg-3-24">
+      <a href="https://bleedingcool.com/">
+	     <img class="pure-img bc-logos" src="https://bleedingcool.com/bc-logo-headless-white.png" alt="Bleeding Cool News and Rumors" width='76px' height='32px'>
+      </a>
+    </div>
+    <div class="pure-u-3-5 pure-u-md-4-6 pure-u-lg-18-24">
+    <nav id="menu" class="pure-u-1-1">
+  <label for="tm" id="toggle-menu">
+    <div class='hamburger'></div>
+    <div class='hamburger'></div>
+    <div class='hamburger'></div>
+    <span class="drop-icon menu-top-level">▾</span></label>
+  <input type="checkbox" id="tm">
+  <ul class="main-menu clearfix">
+    <li><a href="#"><label class='menu-dropdown-label' title="Toggle Dropdown" for="sm1">Comics <span class="drop-icon">▾</span></label></a>
+      <input type="checkbox" id="sm1">
+      <ul class="sub-menu">
+        <li><a href="/comics/">Comics</a></li>
+        <li><a href="/comics/vintage-paper/">Vintage Paper</a></li>
+        <li><a href="/comics/cgc-insider/">CGC Insider</a></li>
+        <li><a href="/sponsored/heritage-sponsored/">Heritage Auctions</a></li>
+        <li><a href="/sponsored/comic-connect-sponsored/">ComicConnect Auctions</a></li>
+        <li><a href="/comics/comics-publishers/marvel-comics/">Marvel</a></li>
+        <li><a href="/comics/comics-publishers/dc-comics/">DC Comics</a></li>
+	<li><a href="/comics/comics-publishers/image/">Image</a></li>
+        <li><a href="/comics/comics-publishers/dark-horse-comics/">Dark Horse Comics</a></li>
+        <li><a href="/comics/comics-publishers/idw/">IDW</a></li>
+        <li><a href="/comics/comics-publishers/boom/">Boom! Studios</a></li>
+        <li><a href="/comics/comics-publishers/dynamite/">Dynamite</a></li>
+	<li><a href="/tag/british-comics/">British Comics</a></li>
+	<li><a href="/comics/manga/">Manga</a></li>
+	<li><a href="/tag/diamond/">Diamond</a></li>
+	<li><a href="/tag/lunar/">Lunar</a></li>
+	<li><a href="/tag/penguin-random-house/">Penguin Random House</a></li>
+	<li><a href="/tag/scholastic/">Scholastic</a></li>
+	<li><a href="/comics/comics-publishers/titan/">Titan</a></li>
+	<li><a href="/comics/comics-publishers/bad-idea/">Bad Idea</a></li>
+        <li><a href="/comics/comics-publishers/aftershock/">AfterShock</a></li>
+	<li><a href="/comics/comics-publishers/ahoy/">Ahoy</a></li>
+        <li><a href="/tag/cerebus/">Aardvark-Vanaheim</a></li>
+        <li><a href="/comics/comics-publishers/valiant/">Valiant</a></li>
+        <li><a href="/comics/comics-publishers/archie/">Archie</a></li>
+	<li><a href="/comics/comics-publishers/vault/">Vault</a></li>
+	<li><a href="/comics/comics-publishers/oni-press/">Oni</a></li>
+	<li><a href="/tag/black-mask/">Black Mask</a></li>
+	<li><a href="/tag/scout/">Scout</a></li>
+        <li><a href="/comics/comics-publishers/fantagraphics/">Fantagraphics</a></li>
+        <li><a href="/comics/comics-publishers/viz-media/">Viz Media</a></li>
+      </ul>
+    </li>
+    <li><a href="#" ><label class='menu-dropdown-label' title="Toggle Dropdown" for="sm2">Film<span class="drop-icon">▾</span></label></a>
+      <input type="checkbox" id="sm2">
+      <ul class="sub-menu">
+        <li><a href="/movies/">Movies</a></li>
+	<li><a href="/movies/blumhouse/">Blumhouse</a></li>
+        <li><a href="/movies/disney-film/">Disney</a></li>
+	<li><a href="/movies/fox-film/">Fox</a></li>
+	<li><a href="/movies/hbo-film/">HBO</a></li>
+	<li><a href="/movies/lionsgate/">Lionsgate</a></li>
+	<li><a href="/movies/marvel-studios/">Marvel Studios</a></li>
+	<li><a href="/movies/mgm/">MGM</a></li>
+        <li><a href="/movies/netflix-film/">Netflix</a></li>
+	<li><a href="/movies/paramount-pictures/">Paramount Pictures</a></li>
+        <li><a href="/movies/sony/">Sony</a></li>
+	<li><a href="/movies/star-wars/">Star Wars</a></li>
+        <li><a href="/movies/universal/">Universal</a></li>
+        <li><a href="/movies/warner-bros/">Warner Bros</a></li>
+      </ul>
+    </li>
+    <li><a href="#"><label class='menu-dropdown-label' title="Toggle Dropdown" for="sm3">TV <span class="drop-icon">▾</span></label></a>
+      <input type="checkbox" id="sm3">
+      <ul class="sub-menu">
+        <li><a href="/tv/">TV</a></li>
+        <li><a href="/tv/abc/">ABC</a></li>
+	<li><a href="/tv/comedy-central/">Adult Swim</a></li>
+        <li><a href="/tv/amazon/">Amazon Prime</a></li>
+        <li><a href="/tv/amc/">AMC</a></li>
+	<li><a href="/tv/apple/">Apple</a></li>
+        <li><a href="/tv/bbc/">BBC</a></li>
+        <li><a href="/tv/cbs/">CBS</a></li>
+	<li><a href="/tv/comedy-central/">Comedy Central</a></li>
+        <li><a href="/tv/cw/">The CW</a></li>
+        <li><a href="/tv/disney-tv/">Disney+</a></li>
+        <li><a href="/tv/fox/">Fox</a></li>
+        <li><a href="/tv/fx/">FX Networks</a></li>
+        <li><a href="/tv/hbo/">HBO/HBO Max</a></li>
+	<li><a href="/tv/hulu/">Hulu</a></li>
+	<li><a href="/tv/nbc/">NBC</a></li>
+	<li><a href="/tv/netflix/">Netflix</a></li>
+	<li><a href="/tv/sports/">Sports</a></li>
+	<li><a href="/tv/starz/">STARZ</a></li>
+	<li><a href="/tv/syfy/">SYFY</a></li>
+	<li><a href="/tv/tbs/">TBS</a></li>
+	<li><a href="/tv/tnt/">TNT</a></li>
+	<li><a href="/tv/usa-network/">USA Network</a></li>
+      </ul>
+    </li>
+    <li><a href="#"><label class='menu-dropdown-label' title="Toggle Dropdown" for="sm4">Games <span class="drop-icon">▾</span></label></a>
+      <input type="checkbox" id="sm4">
+      <ul class="sub-menu">
+	<li><a href="https://bleedingcool.com/games/">Video Games</a></li>
+	<li><a href="https://bleedingcool.com/games/tabletop/">Tabletop</a></li>
+	<li><a href="https://bleedingcool.com/games/mobile-games/">Mobile</a></li>
+	<li><a href="https://bleedingcool.com/games/review-games/">Reviews</a></li>
+	<li><a href="https://bleedingcool.com/games/video-games-2/retro-games/">Retro Games</a></li>
+	<li><a href="https://bleedingcool.com/games/video-games-2/esports/">Esports</a></li>
+	<li><a href="https://bleedingcool.com/games/video-games-2/game-hardware/">Hardware</a></li>
+	<li><a href="https://bleedingcool.com/games/video-games-2/arcade/">Arcade</a></li>
+	<li><a href="https://bleedingcool.com/games/video-games-2/vr/">VR</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="/collectibles/">Collectibles</a></li>-->
+    <li><a href="#"><label class='menu-dropdown-label' title="Toggle Dropdown" for="sm5">Collectibles <span class="drop-icon">▾</span></label></a>
+      <input type="checkbox" id="sm5">
+      <ul class="sub-menu">
+	<li><a href="/collectibles/">Collectibles</a></li>
+	<li><a href="/collectibles/lego/">LEGO</a></li>
+	<li><a href="/collectibles/hasbro/">Hasbro</a></li>
+	<li><a href="/tag/transformers/">Transformers</a></li>
+	<li><a href="/tag/power-rangers/">Power Rangers</a></li>
+	<li><a href="/collectibles/funko/">Funko</a></li>
+	<li><a href="/collectibles/hot-toys/">Hot Toys</a></li>
+	<li><a href="/collectibles/neca/">NECA</a></li>
+	<li><a href="/collectibles/mezco-toyz/">Mezco Toys</a></li>
+	<li><a href="/collectibles/mattel/">Mattel</a></li>
+	<li><a href="/collectibles/review-collectibles/">Review</a></li>
+	<li><a href="/tag/vintage-collection/">Hasbro Star Wars</a></li>
+	<li><a href="/tag/marvel-legends/">Hasbro Marvel</a></li>
+      </ul>
+    </li>
+    <li><a href="/tag/wrestling/">Wrestling</a></li>
+    <li><a href="/tag/pokemon/">Pokemon</a></li>
+    <li><a href="/contact/">Contact</a></li>
+    <li><form method='GET' action='/search/' target='_self'><input id='search_box' name='s' placeholder='Search...' type='text'/></form></li>
+  </ul>
+</nav>
+
+    </div>
+    <div class="pure-u-1-5 pure-u-md-1-6 pure-u-lg-3-24">
+      <a rel="nofollow" style="float:right" href="https://www.cgccomics.com">
+	     <img class="pure-img bc-logos" src="https://bleedingcool.com/cgc-logo-headless.png" alt="CGC" width='72px' height='32px'>
+      </a>
+    </div>
+  </header>
+</div>
+<div id="top_leaderboard" class="center" data-pw-desk="leaderboard_atf" data-pw-mobi="leaderboard_atf"></div>
+
+<div id='main' class='pure-g'><div id='articles' class='main-content pure-u-1-2'><div id='Today_on_Bleeding_Cool' class='hub_section pure-u-1'><h2 class="hub_section_title">Today on Bleeding Cool</h2><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/funko-is-the-worst-the-daily-litg-8th-october-2021/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_8151-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Funko Announces No NYCC Lottery System: Expect the Worst" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_8151-350x350.jpg" alt="Funko Announces No NYCC Lottery System: Expect the Worst" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/funko-is-the-worst-the-daily-litg-8th-october-2021/" rel="bookmark"><h3 class="latest-headline">Funko Is The Worst &#8211; The Daily LITG, 8th October 2021</h3></a></div><div class="latest-article-excerpt">LITG: The world can seem like a terrible and strange place sometimes, but at Bleeding Cool, you can still read all about comics, merch, TV shows, games,</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Kim-Kardashian-West-Isnt-Nervous-About-Hosting-SNL-0-15-screenshot-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="saturday night live" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Kim-Kardashian-West-Isnt-Nervous-About-Hosting-SNL-0-15-screenshot-350x350.jpg" alt="saturday night live" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting/" rel="bookmark"><h3 class="latest-headline">Saturday Night Live Promo: Kim Kardashian West Doesn't Sweat Hosting</h3></a></div><div class="latest-article-excerpt">Saturday Night Live host Kim Kardashian West & musical guest Halsey were joined by SNL's Cecily Strong for this week's sketch promos.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/03/Ion-Fury-Aftershock-Expansion-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Ion Fury’s Aftershock Expansion Is Set For A Summer Release" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/03/Ion-Fury-Aftershock-Expansion-350x350.jpg" alt="Ion Fury’s Aftershock Expansion Is Set For A Summer Release" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion/" rel="bookmark"><h3 class="latest-headline">Ion Fury Releases 2.0 Patch Today Ahead Of 2022 Expansion</h3></a></div><div class="latest-article-excerpt">3D Realms and 1C Entertainment released a new update for Ion Fury as they prepare for the next game expansion coming sometime in Q1 2022.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Blade-Runner-Key-Visual-3-2-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="blade runner" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Blade-Runner-Key-Visual-3-2-350x350.jpg" alt="blade runner" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art/" rel="bookmark"><h3 class="latest-headline">Blade Runner: Black Lotus Sets November Premiere: New Trailer, Key Art</h3></a></div><div class="latest-article-excerpt">Premiering November 13th, Crunchyroll & Adult Swim released a second official trailer and new key art for Blade Runner: Black Lotus.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/06/always-sunny-s14e2-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="always sunny" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/06/always-sunny-s14e2-350x350.jpg" alt="always sunny" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel="bookmark"><h3 class="latest-headline">Nice Move, FXX: It's Always Sunny in Philadelphia Gets Some Love Back</h3></a></div><div class="latest-article-excerpt">FXX brought back an It's Always Sunny in Philadelphia late-night marathon. We would like to think we had something to do with it (humor us).</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/EUREKAMovie-kv-with-copyright-and-logo-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Funimation Unveils Slate of Anime Feature Films at New York Comic Con" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/EUREKAMovie-kv-with-copyright-and-logo-350x350.jpg" alt="Funimation Unveils Slate of Anime Feature Films at New York Comic Con" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con/" rel="bookmark"><h3 class="latest-headline">Funimation Unveils Slate Of Anime Feature Films At New York Comic Con</h3></a></div><div class="latest-article-excerpt">Funimation announced its upcoming theatrical release slate during its panel today at New York Comic Con, including Sing a Bit of Harmony.</div></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Poster-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Lamb Review: This Is A24 at Its Most A24 and It’s Awesome" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Poster-350x350.jpg" alt="Lamb Review: This Is A24 at Its Most A24 and It’s Awesome" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome/" rel="bookmark"><h3 class="latest-headline">Lamb Review: This Is A24 at Its Most A24 and It's Awesome</h3></a></div><div class="latest-article-excerpt">Lamb is unexpected in the best possible way. Beautifully shot, wonderfully acted, uncomfortable but not in a queasy way while also being weirdly sweet.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Why-is-Queenpins-rated-R-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Queenpins Is Worth Seeking Out On Paramount+" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Why-is-Queenpins-rated-R-350x350.jpeg" alt="Queenpins Is Worth Seeking Out On Paramount+" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus/" rel="bookmark"><h3 class="latest-headline">Queenpins Is A Comedy Worth Seeking Out On Paramount+</h3></a></div><div class="latest-article-excerpt">Looking for something to watch this week? Give Queenpins a shot on Paramount+ It is streaming now on the service.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-collector-chest/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4874-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Pokémon TCG: Celebrations Early Opening: Collector Chest" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4874-350x350.jpeg" alt="Pokémon TCG: Celebrations Early Opening: Collector Chest" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-collector-chest/" rel="bookmark"><h3 class="latest-headline">Pokémon TCG: Celebrations Early Opening: Collector Chest</h3></a></div><div class="latest-article-excerpt">Let's do an early opening of Pokémon TCG: Celebrations Collector Chest with promo cards that resurrect old mechanics and card styles.</div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_Comics' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/comics/">Latest in Comics</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/comics/funko-is-the-worst-the-daily-litg-8th-october-2021/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_8151-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Funko Announces No NYCC Lottery System: Expect the Worst" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_8151-1200x675.jpg" alt="Funko Announces No NYCC Lottery System: Expect the Worst" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Funko Is The Worst &#8211; The Daily LITG, 8th October 2021</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/comics/comixology-drop-pre-ordered-digital-comics-from-website/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/FBHJF27XMAEH0J2-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="ComiXology Phasing Out Pre-Ordered Digital Comics" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/FBHJF27XMAEH0J2-1200x675.jpg" alt="ComiXology Phasing Out Pre-Ordered Digital Comics" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>ComiXology Drop Pre-Ordered Digital Comics from Website</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/power-rangers-boom-studios-kyle-higgins-and-kickstarter-royalties/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/c853b459b17ad9a9a16b119cb93af25f_original-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Power Rangers, Boom Studios, Kyle Higgins and Kickstarter Royalties" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/c853b459b17ad9a9a16b119cb93af25f_original-350x350.jpg" alt="Power Rangers, Boom Studios, Kyle Higgins and Kickstarter Royalties" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/power-rangers-boom-studios-kyle-higgins-and-kickstarter-royalties/" rel="bookmark"><h3 class="latest-headline">Power Rangers, Boom Studios, Kyle Higgins and Kickstarter Royalties</h3></a></div><div class="latest-article-excerpt">In January, Boom Studios ran a Kickstarter to fund the collection of Mighty Morphin Power Rangers comic books. And they raised over $804,000 from 1584</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/aquaman-returns-to-his-blue-costume-in-january-2022/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/FA9igtkVEAIQJi6-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Aquaman Returns To His Blue Costume In January 2022" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/FA9igtkVEAIQJi6-350x350.jpg" alt="Aquaman Returns To His Blue Costume In January 2022" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/aquaman-returns-to-his-blue-costume-in-january-2022/" rel="bookmark"><h3 class="latest-headline">Aquaman Returns To His Blue Costume In January 2022</h3></a></div><div class="latest-article-excerpt">Once upon a time, Aquaman dressed, not in orange, but in blue. The Aquaman mini-series from 1986 gave him a brand new organic streamlined blue look that</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/penguin-random-house-making-changes-to-marvel-comics-packaging/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/penguinRH_Marvel_template_1-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Retailers Report On Marvel Comics Damages From Penguin Random House" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/penguinRH_Marvel_template_1-350x350.jpg" alt="Retailers Report On Marvel Comics Damages From Penguin Random House" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/penguin-random-house-making-changes-to-marvel-comics-packaging/" rel="bookmark"><h3 class="latest-headline">Penguin Random House Making Changes To Marvel Comics Packaging</h3></a></div><div class="latest-article-excerpt">Penguin Random House have issued the following statement to comic book retailers who have been ordering Marvel Comics from them. "Thank you for reaching</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/a-better-look-at-the-x-lives-and-x-deaths-of-wolverine/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/91bIku8dUZL-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="The X Lives And X Deaths Of Wolverine" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/91bIku8dUZL-350x350.jpg" alt="The X Lives And X Deaths Of Wolverine" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/a-better-look-at-the-x-lives-and-x-deaths-of-wolverine/" rel="bookmark"><h3 class="latest-headline">A Better Look At The X Lives And X Deaths Of Wolverine</h3></a></div><div class="latest-article-excerpt">The upcoming weekly series by Benjamin Percy, Joshua Cassara and Federico Vicentini,  The X Lives Of Wolverine and The X Deaths Of Wolverine, will be</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/marvel-comics-to-publish-devils-reign-x-men-in-january/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/91DHqXZb7AL-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Marvel Comics To Publish Devil&#039;s Reign: X-Men" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/91DHqXZb7AL-350x350.jpg" alt="Marvel Comics To Publish Devil&#039;s Reign: X-Men" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/marvel-comics-to-publish-devils-reign-x-men-in-january/" rel="bookmark"><h3 class="latest-headline">Marvel Comics To Publish Devil's Reign: X-Men In January</h3></a></div><div class="latest-article-excerpt">Marvel Comics is to begin a Daredevil event comic series, Devil's Reign, from Chip Zdarsky and Marco Checchetto in December, spinning out of the Kingpin</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/comics/mark-millar-writes-queen-elizabeth-ii-in-king-of-spies-1/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/unnamed-37-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Mark Millar Writes Queen Elizabeth II In King Of Spies #1" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/unnamed-37-350x350.jpg" alt="Mark Millar Writes Queen Elizabeth II In King Of Spies #1" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/comics/mark-millar-writes-queen-elizabeth-ii-in-king-of-spies-1/" rel="bookmark"><h3 class="latest-headline">Mark Millar Writes Queen Elizabeth II In King Of Spies #1</h3></a></div><div class="latest-article-excerpt">Mark Millar and Matteo Scalera have a new work-for-hire comic book from Image Comics, based on a project Millar has been working up for Netflix, called</div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_TV' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/tv/">Latest in TV</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/tv/saturday-night-live-promo-kim-kardashian-west-doesnt-sweat-hosting/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Kim-Kardashian-West-Isnt-Nervous-About-Hosting-SNL-0-15-screenshot-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="saturday night live" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Kim-Kardashian-West-Isnt-Nervous-About-Hosting-SNL-0-15-screenshot-1200x675.jpg" alt="saturday night live" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Saturday Night Live Promo: Kim Kardashian West Doesn't Sweat Hosting</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/tv/blade-runner-black-lotus-sets-november-premiere-new-trailer-key-art/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Blade-Runner-Key-Visual-3-2-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="blade runner" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Blade-Runner-Key-Visual-3-2-1200x675.jpg" alt="blade runner" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Blade Runner: Black Lotus Sets November Premiere: New Trailer, Key Art</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/06/always-sunny-s14e2-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="always sunny" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/06/always-sunny-s14e2-350x350.jpg" alt="always sunny" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel="bookmark"><h3 class="latest-headline">Nice Move, FXX: It's Always Sunny in Philadelphia Gets Some Love Back</h3></a></div><div class="latest-article-excerpt">FXX brought back an It's Always Sunny in Philadelphia late-night marathon. We would like to think we had something to do with it (humor us).</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/foundation-apple-tv-gives-isaac-asimov-adapt-season-2-order/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/Foundation_Photo_010114-1-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Lou Llobell Shines as Gaal Dornick in Apple TV +&#039;s Foundation" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/Foundation_Photo_010114-1-350x350.jpg" alt="Lou Llobell Shines as Gaal Dornick in Apple TV +&#039;s Foundation" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/foundation-apple-tv-gives-isaac-asimov-adapt-season-2-order/" rel="bookmark"><h3 class="latest-headline">Foundation: Apple TV+ Gives Isaac Asimov Adapt Season 2 Order</h3></a></div><div class="latest-article-excerpt">Apple TV+ is giving David S. Goyer's series adaptation of Isaac Asimov's trilogy of Foundation novels a second season order.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/ghosts-rose-mciver-new-previews/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/07/117226_3337b2-1-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Ghosts: UK Fans Rejoice as CBS Gifts World US Remake This October" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/07/117226_3337b2-1-350x350.jpg" alt="Ghosts: UK Fans Rejoice as CBS Gifts World US Remake This October" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/ghosts-rose-mciver-new-previews/" rel="bookmark"><h3 class="latest-headline">Ghosts: Rose McIver &#038; Utkarsh Ambudkar Talk CBS Remake; New Previews</h3></a></div><div class="latest-article-excerpt">Ghosts stars Rose McIver and Utkarsh Ambudkar take viewers behind the scenes of the CBS remake; new series premiere previews.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/the-patient-steve-carell-the-americans-creators-team-for-fx-series/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/the_morning_show_jay_carson_kerry_ehrin_5-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="The Patient: Steve Carell to Lead New Series by The Americans Creators" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/the_morning_show_jay_carson_kerry_ehrin_5-350x350.jpg" alt="The Patient: Steve Carell to Lead New Series by The Americans Creators" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/the-patient-steve-carell-the-americans-creators-team-for-fx-series/" rel="bookmark"><h3 class="latest-headline">The Patient: Steve Carell, "The Americans" Creators Team for FX Series</h3></a></div><div class="latest-article-excerpt">Steve Carell stars in FX's The Patient from the creators of The Americans, where a psychiatrist goes up against a serial killer.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/the-chadster-hated-adam-pages-return-on-aew-dynamite-anniversary/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-2.43.29-PM-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Adam Page Returned at AEW Dynamite Anniversary and The Chadster Hated It" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-2.43.29-PM-350x350.jpg" alt="Adam Page Returned at AEW Dynamite Anniversary and The Chadster Hated It" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/the-chadster-hated-adam-pages-return-on-aew-dynamite-anniversary/" rel="bookmark"><h3 class="latest-headline">The Chadster Hated Adam Page's Return on AEW Dynamite Anniversary</h3></a></div><div class="latest-article-excerpt">Adam Page returned at AEW Dynamite Anniversary and The Chadster absolutely hated it. Here's everything else The Chadster hated about the show.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/tv/dark-side-of-the-ring-season-3-examines-johnny-k9s-double-life/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/sotr300cap-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="dark side of the ring" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/sotr300cap-350x350.jpg" alt="dark side of the ring" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/tv/dark-side-of-the-ring-season-3-examines-johnny-k9s-double-life/" rel="bookmark"><h3 class="latest-headline">Dark Side of the Ring Season 3 Examines Johnny K9's Double Life</h3></a></div><div class="latest-article-excerpt">On tonight's episode of Vice TV's Dark Side of the Ring Season 3, the spotlight shifts to the double life of Johnny K9 aka Bruiser Bedlam.</div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_Movies' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/movies/">Latest in Movies</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/movies/funimation-unveils-slate-of-anime-feature-films-at-new-york-comic-con/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/EUREKAMovie-kv-with-copyright-and-logo-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Funimation Unveils Slate of Anime Feature Films at New York Comic Con" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/EUREKAMovie-kv-with-copyright-and-logo-1200x675.jpg" alt="Funimation Unveils Slate of Anime Feature Films at New York Comic Con" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Funimation Unveils Slate Of Anime Feature Films At New York Comic Con</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/movies/lamb-review-this-is-a24-at-its-most-a24-and-its-awesome/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Poster-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Lamb Review: This Is A24 at Its Most A24 and It’s Awesome" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Poster-1200x675.jpg" alt="Lamb Review: This Is A24 at Its Most A24 and It’s Awesome" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Lamb Review: This Is A24 at Its Most A24 and It's Awesome</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Why-is-Queenpins-rated-R-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Queenpins Is Worth Seeking Out On Paramount+" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Why-is-Queenpins-rated-R-350x350.jpeg" alt="Queenpins Is Worth Seeking Out On Paramount+" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/queenpins-kristen-bell-hauser-vaughn-baptiste-paramount-plus/" rel="bookmark"><h3 class="latest-headline">Queenpins Is A Comedy Worth Seeking Out On Paramount+</h3></a></div><div class="latest-article-excerpt">Looking for something to watch this week? Give Queenpins a shot on Paramount+ It is streaming now on the service.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/theres-someone-inside-your-house-brice-gayden-interview-netflix/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House.-Credit-Netflix-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="There&#039;s Someone Inside Your House: We Chat With The Director &amp; Writer" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House.-Credit-Netflix-350x350.jpg" alt="There&#039;s Someone Inside Your House: We Chat With The Director &amp; Writer" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/theres-someone-inside-your-house-brice-gayden-interview-netflix/" rel="bookmark"><h3 class="latest-headline">There's Someone Inside Your House: We Chat With The Director &#038; Writer</h3></a></div><div class="latest-article-excerpt">We got to chat with Patrick Brice and Henry Gayden, the director and writer of There's Someone Inside Your House, now out on Netflix</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/prophet-liefeld-film-gyllenhaal-hargrave-studio-8/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/05/rob-liefeld-prophet-film-has-hired-a-writer-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Rob Liefeld&#039;s Prophet film has hired a writer." width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/05/rob-liefeld-prophet-film-has-hired-a-writer-350x350.jpg" alt="Rob Liefeld&#039;s Prophet film has hired a writer." width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/prophet-liefeld-film-gyllenhaal-hargrave-studio-8/" rel="bookmark"><h3 class="latest-headline">Prophet Film From Jake Gyllenhaal and Sam Hargrave On the Way</h3></a></div><div class="latest-article-excerpt">Rob Liefeld's Prophet is coming to the big screen with Jake Gyllenhaal starring and Extraction helmer Sam Hargrave directing.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/halloween-kills-featurette-jamie-lee-curtis-michael-myers-haddonfield/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Halloween Kills: New Featurette Puts Haddonfield Center Stage" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-350x350.jpg" alt="Halloween Kills: New Featurette Puts Haddonfield Center Stage" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/halloween-kills-featurette-jamie-lee-curtis-michael-myers-haddonfield/" rel="bookmark"><h3 class="latest-headline">Halloween Kills: New Featurette Puts Haddonfield Center Stage</h3></a></div><div class="latest-article-excerpt">Another day, another Halloween Kills featurette. Can it just be October 15th already? Only one week to go now!</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/the-cast-of-the-matrix-explains-how-the-movie-changed-their-world/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/rev-1-MX4-TRLR-0012_High_Res_JPEG-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="2 New HQ Images from The Matrix Resurrections" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/rev-1-MX4-TRLR-0012_High_Res_JPEG-350x350.jpeg" alt="2 New HQ Images from The Matrix Resurrections" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/the-cast-of-the-matrix-explains-how-the-movie-changed-their-world/" rel="bookmark"><h3 class="latest-headline">The Cast of The Matrix Explains How the Movie Changed Their World</h3></a></div><div class="latest-article-excerpt">The cast of The Matrix Resurrections, both old and new, sits down in a new featurette to talk about how the first movie changed their world.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/movies/hellraiser-reboot-pinhead-jamie-clayton-filming-hulu/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/04/hellraiser-1-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Photo Credit: Dimension Films - Spyglass Media Group" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/04/hellraiser-1-350x350.jpg" alt="Photo Credit: Dimension Films - Spyglass Media Group" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/movies/hellraiser-reboot-pinhead-jamie-clayton-filming-hulu/" rel="bookmark"><h3 class="latest-headline">Hellraiser Reboot Finds Its Pinhead In Jamie Clayton</h3></a></div><div class="latest-article-excerpt">The Hellraiser reboot has found its Pinhead in Sense8 star Jamie Clayton. Principal photography has already wrapped as well!</div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_Games' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/games/">Latest in Games</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/games/ion-fury-releases-2-0-patch-today-ahead-of-2022-expansion/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/03/Ion-Fury-Aftershock-Expansion-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Ion Fury’s Aftershock Expansion Is Set For A Summer Release" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/03/Ion-Fury-Aftershock-Expansion-1200x675.jpg" alt="Ion Fury’s Aftershock Expansion Is Set For A Summer Release" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Ion Fury Releases 2.0 Patch Today Ahead Of 2022 Expansion</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-collector-chest/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4874-1200x675.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Pokémon TCG: Celebrations Early Opening: Collector Chest" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4874-1200x675.jpeg" alt="Pokémon TCG: Celebrations Early Opening: Collector Chest" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Pokémon TCG: Celebrations Early Opening: Collector Chest</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/maplestory-fest-will-return-for-fourth-year-in-november/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/MapleStory-Fest-2021-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="MapleStory Fest Will Return For Fourth Year In November" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/MapleStory-Fest-2021-350x350.jpg" alt="MapleStory Fest Will Return For Fourth Year In November" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/maplestory-fest-will-return-for-fourth-year-in-november/" rel="bookmark"><h3 class="latest-headline">MapleStory Fest Will Return For Fourth Year In November</h3></a></div><div class="latest-article-excerpt">Nexon has announced the return of MapleStory Fest as the yearly celebration of the game will return for a fourth year in November.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-opening-deluxe-pin-collection/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4863-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Pokémon TCG: Celebrations Opening: Deluxe Pin Collection" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4863-350x350.jpeg" alt="Pokémon TCG: Celebrations Opening: Deluxe Pin Collection" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-opening-deluxe-pin-collection/" rel="bookmark"><h3 class="latest-headline">Pokémon TCG: Celebrations Opening: Deluxe Pin Collection</h3></a></div><div class="latest-article-excerpt">Are Pokémon TCG: Celebrations products worth seeking out? Let's open up a Deluxe Pin Collection box and find out based on our pulls.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/magic-world-championship-xxvii-begins-tomorrow/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Magic-World-Championship-XXVII-Main-Logo-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Magic World Championship XXVII Begins Tomorrow" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Magic-World-Championship-XXVII-Main-Logo-350x350.jpg" alt="Magic World Championship XXVII Begins Tomorrow" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/magic-world-championship-xxvii-begins-tomorrow/" rel="bookmark"><h3 class="latest-headline">Magic World Championship XXVII Begins Tomorrow</h3></a></div><div class="latest-article-excerpt">Wizards of the Coast will be holding the Magic World Championship XXVII tomorrow with the top 16 players from around the globe.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-pikachu-figure-collection/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4861-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Pokémon TCG: Celebrations Early Opening: Pikachu Figure Collection" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IMG_4861-350x350.jpeg" alt="Pokémon TCG: Celebrations Early Opening: Pikachu Figure Collection" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-pikachu-figure-collection/" rel="bookmark"><h3 class="latest-headline">Pokémon TCG: Celebrations Early Opening: Pikachu Figure Collection</h3></a></div><div class="latest-article-excerpt">If you can buy only one Pokémon TCG: Celebrations product, this is the one you should get for this landmark 25th Anniversary set.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/arcade1up-announces-killer-instinct-tron-cabinets/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Arcade1Up-Killer-Instinct-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Arcade1Up Announces Killer Instinct &amp; Tron Cabinets" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Arcade1Up-Killer-Instinct-350x350.jpg" alt="Arcade1Up Announces Killer Instinct &amp; Tron Cabinets" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/arcade1up-announces-killer-instinct-tron-cabinets/" rel="bookmark"><h3 class="latest-headline">Arcade1Up Announces Killer Instinct &#038; Tron Cabinets</h3></a></div><div class="latest-article-excerpt">Arcade1Up revealed three new cabinets coming this holiday season as fans will be able to get in on versions of Tron and Killer Instinct.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/games/doctor-who-the-edge-of-reality-gets-a-new-gameplay-trailer/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/10/Doctor-Who-The-Edge-of-Reality-14th-Doctor-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Doctor Who Announces Two New Games Coming Spring 2021" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/10/Doctor-Who-The-Edge-of-Reality-14th-Doctor-350x350.jpg" alt="Doctor Who Announces Two New Games Coming Spring 2021" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/games/doctor-who-the-edge-of-reality-gets-a-new-gameplay-trailer/" rel="bookmark"><h3 class="latest-headline">Doctor Who: The Edge Of Reality Gets A New Gameplay Trailer</h3></a></div><div class="latest-article-excerpt">Maze Theory and BBC Studios released a brand new gameplay trailer today for their upcoming VR adventure game Doctor Who: The Edge Of Reality.</div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_Collectibles' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/collectibles/">Latest in Collectibles</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/collectibles/funko-wins-award-for-worst-new-york-comic-con-2021-experience/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Enlight125-e1633637417517-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Funko Wins Award For Worst New York Comic Con 2021 Experience" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Enlight125-e1633637417517-1200x675.jpg" alt="Funko Wins Award For Worst New York Comic Con 2021 Experience" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Funko Wins Award For Worst New York Comic Con 2021 Experience</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/collectibles/mcfarlane-toys-reveals-batman-who-laughs-and-joker-4-pack-set/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/803dd3bc-9a01-4696-bf2a-fffd8d8737e4.d4ee4e4406e7d1bfdbb632a24e028c9f-1200x675.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="McFarlane Toys Reveals Batman Who Laughs and Joker 4-Pack Set" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/803dd3bc-9a01-4696-bf2a-fffd8d8737e4.d4ee4e4406e7d1bfdbb632a24e028c9f-1200x675.jpeg" alt="McFarlane Toys Reveals Batman Who Laughs and Joker 4-Pack Set" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>McFarlane Toys Reveals Batman Who Laughs and Robins 4-Pack Set</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/hero-collector-january-2022-alien-battlestar-orville-ship-replica/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/APSUK603_AlienShipsXL_CheyenneDropship_Front-350x350.png" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="DC Comics Hero Collector Graphic Novels For January 2022, And More" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/APSUK603_AlienShipsXL_CheyenneDropship_Front-350x350.png" alt="DC Comics Hero Collector Graphic Novels For January 2022, And More" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/hero-collector-january-2022-alien-battlestar-orville-ship-replica/" rel="bookmark"><h3 class="latest-headline">Hero Collector January 2022 Alien, Battlestar &#038; Orville Ship Replica</h3></a></div><div class="latest-article-excerpt">Hero Collector from Eaglemoss publishes hardcover collections of a number of DC Comics classic storylines for the non-US market - as well as collector</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/street-fighter-ryu-enters-the-ring-with-seamless-figure-from-iconiq/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IconiQ-Ryu-Figure-013-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Street Fighter Ryu Enters the Ring with Seamless Figure from Iconiq" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/IconiQ-Ryu-Figure-013-350x350.jpg" alt="Street Fighter Ryu Enters the Ring with Seamless Figure from Iconiq" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/street-fighter-ryu-enters-the-ring-with-seamless-figure-from-iconiq/" rel="bookmark"><h3 class="latest-headline">Street Fighter Ryu Enters the Ring with Seamless Figure from IconiQ</h3></a></div><div class="latest-article-excerpt">Street Fighter collectibles are about to get a massive upgrade as Iconiq reveals their next level seamless bodied figures loaded with detail</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/tmnt-colored-foot-soldier-4-pack-arrives-from-the-loyal-subjects/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/BST-AXN-Foot-Soldier-Set-001-350x350.jpeg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="TMNT Colored Foot Soldier BST AXN 4-Pack Arrives from The Loyal Subject" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/BST-AXN-Foot-Soldier-Set-001-350x350.jpeg" alt="TMNT Colored Foot Soldier BST AXN 4-Pack Arrives from The Loyal Subject" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/tmnt-colored-foot-soldier-4-pack-arrives-from-the-loyal-subjects/" rel="bookmark"><h3 class="latest-headline">TMNT Colored Foot Soldier 4-Pack Arrives from The Loyal Subjects</h3></a></div><div class="latest-article-excerpt">The Foot Clan numbers are growing as The Loyal Subject reveals their newest TMNT figures with a colorful Solider 4-pack set</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/here-is-your-shared-retailer-exclusives-list-for-funkos-nycc-2021/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/240131174_4569218013147345_2862048045348098386_n-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Auto Draft" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/240131174_4569218013147345_2862048045348098386_n-350x350.jpg" alt="Auto Draft" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/here-is-your-shared-retailer-exclusives-list-for-funkos-nycc-2021/" rel="bookmark"><h3 class="latest-headline">Here is Your Shared Retailer Exclusives List For Funko's NYCC 2021</h3></a></div><div class="latest-article-excerpt">Funko reveals their full list of shared retailer locations for this year's New York Comic Con virtual event so expect some delays</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/iron-studios-announces-new-wandavision-statue-with-halloween-vision/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Color2-5-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Iron Studios Announces New WandaVision Statue with Halloween Vision" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Color2-5-350x350.jpg" alt="Iron Studios Announces New WandaVision Statue with Halloween Vision" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/iron-studios-announces-new-wandavision-statue-with-halloween-vision/" rel="bookmark"><h3 class="latest-headline">Iron Studios Announces New WandaVision Statue with Halloween Vision</h3></a></div><div class="latest-article-excerpt">Coming out of the hit television series WandaVision, it is time to celebrate Halloween as Iron Studios revisits the popular Halloween episode</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/collectibles/captain-america-rises-from-the-dead-with-iron-studios-what-if-statue/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Zombie-Captain-America-IS_11-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Captain America Rises from the Dead with Iron Studios What If…? Statue" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/10/Zombie-Captain-America-IS_11-350x350.jpg" alt="Captain America Rises from the Dead with Iron Studios What If…? Statue" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/collectibles/captain-america-rises-from-the-dead-with-iron-studios-what-if-statue/" rel="bookmark"><h3 class="latest-headline">Captain America Rises from the Dead with Iron Studios What If…? Statue</h3></a></div><div class="latest-article-excerpt">The walking dead has arrived as Iron Studios brings one of the popular undead episodes of What If to life with zombie Captain America </div></div></a></article></div><!-- Pre-inserted Playwire Div --><div class="pw-in-article"><div></div></div><div id='Latest_in_Pop_Culture' class='hub_section pure-u-1'><h2 class="hub_section_title"><a href="https://bleedingcool.com/pop-culture/">Latest in Pop Culture</a></h2><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/pop-culture/anjali-bhimani-launches-kickstarter-for-new-book/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/Anjali-Bhimani-I-Am-Fun-Size-And-So-Are-You-Cover-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Actress Anjali Bhimani Launches Kickstarter For New Book" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/Anjali-Bhimani-I-Am-Fun-Size-And-So-Are-You-Cover-1200x675.jpg" alt="Actress Anjali Bhimani Launches Kickstarter For New Book" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Anjali Bhimani Launches Kickstarter For New Book</h3></div></a></article><article class="featured-image-container pure-u-1 pure-u-md-12-24"><a href="https://bleedingcool.com/pop-culture/addams-family-2-kelloogs-cereal-snacks-in-stores-now/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/image001-2-1200x675.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20450%22%20width%3D%22800%22%20height%3D%22450%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Addams Family 2: Kellogg&#039;s Releases Limited Edition Cereals &amp; More" width="800" height="450"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:1200/h:675/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/image001-2-1200x675.jpg" alt="Addams Family 2: Kellogg&#039;s Releases Limited Edition Cereals &amp; More" width="800" height="450"/></noscript><div class="featured-image-headline"><h3>Addams Family 2: Kellogg's Releases Limited Edition Cereals &#038; More</h3></div></a></article></div><div id='' class='hub_section pure-u-1'><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/pop-culture/netflixs-geeked-week-tudum-events-copied-dc-fandomes-homework/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/tudum-fandome-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Netflix&#039;s Geeked Week and TUDUM Events Copied DC FanDome&#039;s Homework" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/tudum-fandome-350x350.jpg" alt="Netflix&#039;s Geeked Week and TUDUM Events Copied DC FanDome&#039;s Homework" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/pop-culture/netflixs-geeked-week-tudum-events-copied-dc-fandomes-homework/" rel="bookmark"><h3 class="latest-headline">Netflix's Geeked Week &#038; TUDUM Events Copied DC FanDome's Homework</h3></a></div><div class="latest-article-excerpt">Netflix came into the virtual con space with Geeked Week, WitcherCon & TUDUM, and they did it right by copying DC FanDome's homework.</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/pop-culture/steve-aokis-dim-mak-and-viz-media-launch-more-bleach-apparel/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/11-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Steve Aoki’s DIM MAK and Viz Media Launch More Bleach Apparel" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/09/11-350x350.jpg" alt="Steve Aoki’s DIM MAK and Viz Media Launch More Bleach Apparel" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/pop-culture/steve-aokis-dim-mak-and-viz-media-launch-more-bleach-apparel/" rel="bookmark"><h3 class="latest-headline">Steve Aoki's DIM MAK and Viz Media Launch More Bleach Apparel</h3></a></div><div class="latest-article-excerpt">Steve Aoki’s fashion and record label, DIM MAK, has teamed up with VIZ Media to release the official “DIM MAK x BLEACH” collaboration – a limited edition</div></div></a></article><article class="latest-article-container pure-u-1 pure-u-lg-8-24"><div class="latest-article-image-container pure-u-2-5 pure-u-lg-1"><a href="https://bleedingcool.com/pop-culture/tony-hawk-liquid-death-come-together-for-blood-infused-skateboards/" rel="bookmark"><img class="pure-img" data-opt-src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/08/Liquid-Death-Skateboards-Tony-Hawk-350x350.jpg" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20225%20225%22%20width%3D%22225%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="Tony Hawk &amp; Liquid Death Come Together For Blood-Infused Skateboards" width="225" height="225"/><noscript><img class="pure-img" src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2021/08/Liquid-Death-Skateboards-Tony-Hawk-350x350.jpg" alt="Tony Hawk &amp; Liquid Death Come Together For Blood-Infused Skateboards" width="225" height="225" /></noscript></a></div><div class="latest-article-text pure-u-3-5 pure-u-lg-1"><div class="pure-u-1"><a href="https://bleedingcool.com/pop-culture/tony-hawk-liquid-death-come-together-for-blood-infused-skateboards/" rel="bookmark"><h3 class="latest-headline">Tony Hawk &#038; Liquid Death Come Together For Blood-Infused Skateboards</h3></a></div><div class="latest-article-excerpt">Liquid Death and Tony Hawk came together for a special promotion as a small group of people could a skateboard infused with Hawk's own blood.</div></div></a></article></div></div><aside id='sidebar' class='sidebar pure-u-1-2' role='complementary'><div id="top_medium_rectangle" data-pw-desk="med_rect_atf" data-pw-mobi="med_rect_atf"></div><h2 class='sidebar-header'>Popular Now</h2><ol id="popular_now" itemscope itemtype="https://schema.org/ItemList">
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/tv/nice-move-fxx-its-always-sunny-in-philadelphia-gets-some-love-back/" rel='bookmark'><span itemprop='name'>It's Always Sunny in Philadelphia Gets Some Love Back: Nice Move, FXX</span></a><meta itemprop='position' content='1' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/collectibles/funko-wins-award-for-worst-new-york-comic-con-2021-experience/" rel='bookmark'><span itemprop='name'>Funko Wins Award For Worst New York Comic Con 2021 Experience</span></a><meta itemprop='position' content='2' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/tv/dark-side-of-the-ring-season-3-examines-johnny-k9s-double-life/" rel='bookmark'><span itemprop='name'>Dark Side of the Ring Season 3 Examines Johnny K9's Double Life</span></a><meta itemprop='position' content='3' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/games/when-will-new-scyther-evolution-kleavor-come-to-pokemon-go-tcg/" rel='bookmark'><span itemprop='name'>When Will New Scyther Evolution Kleavor Come To Pokémon GO & TCG?</span></a><meta itemprop='position' content='4' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/movies/hellraiser-reboot-pinhead-jamie-clayton-filming-hulu/" rel='bookmark'><span itemprop='name'>Hellraiser Reboot Finds Its Pinhead In Jamie Clayton</span></a><meta itemprop='position' content='5' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/collectibles/here-is-your-shared-retailer-exclusives-list-for-funkos-nycc-2021/" rel='bookmark'><span itemprop='name'>Here is Your Shared Retailer Exclusives List For Funko’s NYCC 2021</span></a><meta itemprop='position' content='6' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/tv/doctor-who-colin-baker-no-white-middle-aged-man-for-next-doctor/" rel='bookmark'><span itemprop='name'>Doctor Who: Colin Baker - No "White Middle-Aged Man" for Next Doctor</span></a><meta itemprop='position' content='7' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/dc-comics-surprise-drops-free-nfts-to-dc-fandome-attendees/" rel='bookmark'><span itemprop='name'>DC Comics Surprise-Drops Free NFTs To DC Fandome Attendees</span></a><meta itemprop='position' content='8' /></li></ol><!-- 300 x 250 ATF Desktop --><div id="middle_medium_rectangle" data-pw-desk="med_rect_btf" data-pw-mobi="med_rect_btf"></div><h2 class='sidebar-header'>Popular Now</h2><ol id="popular_next" itemscope itemtype="https://schema.org/ItemList">
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/a-better-look-at-the-x-lives-and-x-deaths-of-wolverine/" rel='bookmark'><span itemprop='name'>A Better Look At The X Lives And X Deaths Of Wolverine</span></a><meta itemprop='position' content='1' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/games/pokemon-tcg-celebrations-early-opening-elite-trainer-box/" rel='bookmark'><span itemprop='name'>Pokémon TCG: Celebrations Early Opening: Elite Trainer Box</span></a><meta itemprop='position' content='2' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/aquaman-returns-to-his-blue-costume-in-january-2022/" rel='bookmark'><span itemprop='name'>Aquaman Returns To His Blue Costume In January 2022</span></a><meta itemprop='position' content='3' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/tv/big-bets-on-lydia-west-as-the-new-doctor-who-caused-market-crash/" rel='bookmark'><span itemprop='name'>Big Bets On Lydia West As The New Doctor Who Caused Market Crash</span></a><meta itemprop='position' content='4' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/" rel='bookmark'><span itemprop='name'>Comics: Comic Book News, Rumors & Information - Bleeding Cool Page 1</span></a><meta itemprop='position' content='5' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/there-is-not-enough-paper-in-america-for-comic-books-right-now/" rel='bookmark'><span itemprop='name'>There Is Not Enough Paper In America For Comic Books Right Now</span></a><meta itemprop='position' content='6' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/collectibles/mcfarlane-toys-reveals-batman-who-laughs-and-joker-4-pack-set/" rel='bookmark'><span itemprop='name'>McFarlane Toys Reveals Batman Who Laughs and Robins 4-Pack Set</span></a><meta itemprop='position' content='7' /></li>
+ 	<li class="trending_article" itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemprop='url' href="https://bleedingcool.com/comics/power-rangers-boom-studios-kyle-higgins-and-kickstarter-royalties/" rel='bookmark'><span itemprop='name'>Power Rangers, Boom Studios, Kyle Higgins and Kickstarter Royalties</span></a><meta itemprop='position' content='8' /></li></ol><div id="bottom_medium_rectangle" data-pw-desk="med_rect_btf" data-pw-mobi="med_rect_btf"></div></aside><div id="bottom_leaderboard" class="center" data-pw-desk="leaderboard_atf" data-pw-mobi="leaderboard_atf"></div>
+</div><div id="footer-wrapper">
+  <footer id="colophon" class="pure-u-1-1 align-right" role="contentinfo">
+ &copy; 2021 <a href ="/">Bleeding Cool</a> | <a href='/contact/'>Contact Us</a> | <a href='/privacy-policy/'>Privacy Policy</a>
+  </footer>
+</div>
+</div></body>

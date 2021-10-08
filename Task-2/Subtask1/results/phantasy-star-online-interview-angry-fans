@@ -1,0 +1,1064 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call Sega - Polygon</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-title" content="Polygon" />
+    
+    
+    
+      <meta property="author" content="James Mielke" />
+  <meta property="article:published_time" content="2020-08-16T12:00:00-04:00" />
+  <meta property="article:modified_time" content="2020-08-16T12:00:00-04:00" />
+  <meta property="fb:pages" content="340327135979921,1121292284586403,353942168328519,231096643968522" />
+
+    
+
+  
+    <link rel="preload" href="https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2" as="font" type="font/woff2" crossorigin>
+  
+
+
+
+<link rel="preconnect" href="https://use.typekit.net">
+
+
+<meta id="chorus-fonts" data-cid="site/font_loader-1633681708_4253_136616" data-cdata='{"version":"f272dd5f044a50d9a73ff67dda30a326","fonts_catalog":[{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"}],"font_stylesheets":["https://use.typekit.net/bje8ocl.css","https://fonts.voxmedia.com/unison/stylesheets/polygon.210270e8252b06bd9e4410de8aec9063.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
+
+    <script data-privacy-no-concern>var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(t,e){var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src=t,"function"==typeof e&&(o.onload=e);var a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(o,a),o},Chorus.ready=function(t){"loading"!=document.readyState?t():document.addEventListener?document.addEventListener("DOMContentLoaded",t):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&t()})},Chorus.OnLoad=function(t){if(Chorus.windowLoaded=!0)return void t();var e=window.onload;"function"!=typeof window.onload?window.onload=t:window.onload=function(){e(),t()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});var dataLayer=dataLayer||[];Chorus.OnLoad(function(){var t;void 0!==navigator.doNotTrack?t=navigator.doNotTrack:void 0!==window.doNotTrack?t=window.doNotTrack:void 0!==navigator.msDoNotTrack&&(t=navigator.msDoNotTrack),t=void 0!==t?/1|yes|true/.test(String(t).toLowerCase())?"true":"false":"undefined";var e={DNT:t};dataLayer.push(e)});var VoxMediaFontLoader=function(t){function e(t,e){var o=window.performance;if(o&&o.mark&&o.measure){var a=t.toLocaleLowerCase().replace(/\W+/g,"_")+(e?"_"+e:"");o.mark(a),o.measure(a+"_time","navigationStart",a)}}function o(){s.classList.add(c),e("fonts_success")}function a(){s.classList.add(c),e("fonts_fail")}function n(t){var o=[t.family,t.style,t.weight,"loaded"].join(" ");e(o)}function r(t){var e=u.font_stylesheets||[];t&&(e=e.filter(function(e){return!e.match(t)})),e.forEach(i)}function i(e){var o=t.createElement("link");o.href=e,o.rel="stylesheet",o.media="all",f.parentNode.insertBefore(o,f)}function d(e){var o,a=t,n=a.documentElement,r=setTimeout(function(){n.className=n.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),i=a.createElement("script"),d=!1,c=a.getElementsByTagName("script")[0];n.className+=" wf-loading",i.src="https://use.typekit.net/"+e.kitId+".js",i.async=!0,i.onload=i.onreadystatechange=function(){if(o=this.readyState,!(d||o&&"complete"!=o&&"loaded"!=o)){d=!0,clearTimeout(r);try{Typekit.load(e)}catch(t){}}},c.parentNode.insertBefore(i,c)}var c="fonts-loaded",s=t.documentElement,f=t.getElementById("chorus-fonts");if(f){var u=JSON.parse(f.getAttribute("data-cdata"));if(t.fonts){r("voxmedia.com");var l=[];u.fonts_catalog.forEach(function(e){if(e.woff2_url||e.woff_url){var o=[e.woff2_url,e.woff_url].filter(function(t){return t}).map(function(t){return"url("+t+")"}).join(", "),a=new FontFace(e.family,o,{weight:e.weight,style:e.style,display:"swap"});t.fonts.add(a),l.push(a.load())}}),l.length>0?Promise.allSettled(l).then(function(t){o(),t.filter(function(t){return"fulfilled"===t.status}).forEach(function(t){n(t.value)})})["catch"](function(){a()}):t.fonts.ready.then(o,a)}else r();u.typekit_ids.forEach(function(t){d({kitId:t,scriptTimeout:3e3,async:!0})}),u.font_tracker_stylesheets.forEach(i)}};VoxMediaFontLoader(document);</script>
+
+    
+    
+      <link href="https://www.polygon.com/style/community/405/d1a6793bfdae04445bdafc80fc956598/chorus.css" data-chorus-theme="chorus" rel="stylesheet" media="all">
+
+    <meta name="style-tools" content="https://www.polygon.com/style/community/405/5966ee1299e7f9bcc3ce462ad846ebfa/tools.css">
+    
+    
+    
+
+<meta name="msvalidate.01" content="D385D0326A3AE144205C298DB34B4E94">
+
+<meta name="ahrefs-site-verification" content="1e57a609922037a3fbdc1c22efd7334113f174f15608f37e1b8538a7b4ce64c3">
+    <meta name="description" content="We continue our retrospective interview series for the 20th anniversary of Sega’s genre-busting online RPG" />
+<link rel="canonical" href="https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans" />
+<meta property="og:description" content="We continue our retrospective interview series for the game’s 20th anniversary" />
+<meta property="fb:app_id" content="549923288395304" />
+<meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/lhqlrJHzI4lv8t2RIn5f8AhhxSM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg" />
+<meta property="og:image:alt" content="Graphic artwork featuring a montage of characters from the video game Phantasy Star Online over a bright magenta pixelated background" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:site_name" content="Polygon" />
+<meta property="og:title" content="Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call the office" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:url" content="https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans" />
+      <meta name="twitter:title" content="Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call the office" />
+      <meta name="twitter:description" content="We continue our retrospective interview series for the game’s 20th anniversary" />
+      <meta name="twitter:image" content="https://cdn.vox-cdn.com/thumbor/i-Ap5erOylY8qK0Q6RJG5eDGsXg=/0x170:2040x1190/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg" />
+      <meta name="twitter:site" content="Polygon" />
+    <meta name="twitter:image:alt" content="Graphic artwork featuring a montage of characters from the video game Phantasy Star Online over a bright magenta pixelated background">
+<meta name="robots" content="max-image-preview:large" />
+    
+  <link rel="shortcut icon" href="https://cdn.vox-cdn.com/community_logos/51927/38.png">
+
+
+  
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/community_logos/51927/38.png" sizes="32x32">
+  
+
+  
+
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" sizes="192x192">
+  
+
+
+  
+    <link rel="apple-touch-icon" href="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" sizes="180x180">
+  
+
+
+  <meta name="msapplication-TileImage" content="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png">
+  <meta name="msapplication-TileColor" content="#da0050">
+  <meta name="theme-color" content="">
+
+
+    <meta data-chorus-version="1633639871" />
+
+    <link rel="amphtml" href="https://www.polygon.com/platform/amp/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans">
+
+    <link rel="alternate" type="application/rss+xml" title="Polygon" href="/rss/index.xml" />
+    
+      <script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans","url":"https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans","headline":"Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call Sega","description":"We continue our retrospective interview series for the 20th anniversary of Sega’s genre-busting online RPG","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2020-08-16T12:00:00-04:00","dateModified":"2020-08-16T12:00:00-04:00","author":[{"@type":"Person","name":"James Mielke"}],"publisher":{"@type":"Organization","name":"Polygon","logo":{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/uploads/chorus_asset/file/13696745/polygon.0.png","width":600,"height":60}},"articleSection":"Interviews","keywords":["Front Page","Interviews","Feature"],"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/QVlTRfq8FgkA99H-gUhRqkBkhlw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/UlI_4GMR-C1WMuPD2h1XN7F5kxs=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/SxNs_UjJ8xMFKXJNg087SAtjt-U=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg","width":1400,"height":788}],"thumbnailUrl":"https://cdn.vox-cdn.com/thumbor/QVlTRfq8FgkA99H-gUhRqkBkhlw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20835312/jbareham_200721_1032_pstar_0003.jpg"}
+</script>
+
+
+    <meta name="outbrainsection" content="interviews"></meta>
+  </head>
+  <!--[if lte IE 9]><body class="ie9"><![endif]-->
+  <!--[if gte IE 10]><body class="ie"><![endif]-->
+  <body class="entry_key_unison_default entry_layout_unison_main entry_template_minimal" data-entry-id="21133928">
+    <a class="sr-only link-skip" href="#content">Skip to main content</a>
+    
+    
+    <style>
+.m-privacy-consent {
+  background-color: rgb(60, 60, 60);
+  bottom: 0;
+  color: white !important;
+  font-size: 17px !important;
+  font-weight: normal !important;
+  line-height: 1.5em !important;
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 5000001;
+}
+.m-privacy-consent__inner {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 30px;
+}
+.m-privacy-consent__inner a {
+  color: white !important;
+  font-weight: bold;
+  text-decoration: underline !important;
+}
+.m-privacy-consent__inner a:hover {
+  color: #ccc !important;
+}
+.m-privacy-consent__inner button {
+  background-color: #C4003F;
+  border: 1px solid white;
+  color: #ffffff;
+  display: block;
+  font-weight: bold;
+  height: 46px;
+  line-height: 46px;
+  padding: 0 2em;
+  margin: 0 auto;
+  min-width: 200px;
+}
+.m-privacy-consent__inner button:hover {
+  background-color: #da0050;
+}
+.m-privacy-consent__inner button:disabled {
+  background-color: #888;
+}
+.m-privacy-consent__button-content {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+.hidden {
+  display: none;
+}
+@media(max-width: 500px) {
+  .m-privacy-consent {
+    font-size: 14px !important;
+  }
+}
+
+/* spinner animation */
+.m-privacy-consent__hourglass,
+.m-privacy-consent__hourglass:after {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+.m-privacy-consent__hourglass {
+  display: none;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 3px solid rgba(255, 255, 255, 0.2);
+  border-right: 3px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 3px solid rgba(255, 255, 255, 0.2);
+  border-left: 3px solid #ffffff;
+  margin-right: 1em;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+}
+@media (prefers-reduced-motion: reduce) {
+  .m-privacy-consent__hourglass {
+    -webkit-animation: none;
+    animation: none;
+  }
+}
+button:disabled .m-privacy-consent__hourglass {
+  display: block;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+</style>
+<div class="m-privacy-consent hidden" id="privacy-consent" role="status" aria-live="polite" aria-labelledby="privacy-consent-heading-label">
+  <div class="m-privacy-consent__inner">
+      <h2 class="sr-only" id="privacy-consent-heading-label">Cookie banner</h2>
+  <p>We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audiences come from. To learn more or opt-out, read our <a href="https://www.voxmedia.com/legal/cookie-policy">Cookie Policy</a>. Please also read our <a href="https://www.voxmedia.com/legal/privacy-notice">Privacy Notice</a> and <a href="https://www.voxmedia.com/legal/terms-of-use">Terms of Use</a>, which became effective December 20, 2019.</p>
+  <p>By choosing <b>I Accept</b>, you consent to our use of cookies and other tracking technologies.</p>
+
+    <button type="button" id="privacy-consent-button">
+      <div class="m-privacy-consent__button-content">
+        <div class="m-privacy-consent__hourglass"></div>
+          I Accept
+      </div>
+    </button>
+  </div>
+</div>
+<script type="text/javascript">
+(function() {
+  var cbAdded = 0;
+  var cbComplete = 0;
+  var token = '';
+  var appDomains = ["https://auth.voxmedia.com/privacy/privacy_consent"];
+  var gdprConsent = true;
+
+  function hex(size) {
+    var crypto = window.crypto || window.msCrypto;
+    var str = '';
+
+    if (crypto) {
+      var arr = new Uint8Array(Math.ceil(size / 2));
+      crypto.getRandomValues(arr);
+      str = [].map.call(arr, function(b) { return ('0'+b.toString(16)).slice(-2) }).join('');
+    } else {
+      for (var i = Math.ceil(size / 11); i > 0; i -= 1) {
+        str += Math.random().toString(36).substr(2);
+      }
+    }
+    return str.substr(0, size);
+  }
+
+  var token = Date.now() + '-' + hex(32);
+
+  function setConsentCookie(name) {
+    // Then, set the cookie for the current domain
+    var cookie = [name + '=' + token];
+    var date = new Date();
+    // cookie expiry is 20 years in milliseconds
+    date.setTime(date.getTime() + (20 * 365 * 24 * 60 * 60 * 1000));
+    cookie.push('expires=' + date.toUTCString());
+    cookie.push('path=/');
+    document.cookie = cookie.join('; ');
+  }
+
+  // Set the cookie for our remote app domains via fake image requests
+  function requestNetworkConsentCookies(name) {
+    appDomains.forEach(function(url) {
+      var img = document.createElement('img');
+      img.onload = img.onerror = addCallback(done);
+      img.src = url + '?' + name + '=' + token;
+      document.body.appendChild(img);
+    });
+  }
+
+  function addCallback(fn) {
+    cbAdded += 1;
+    return fn;
+  }
+
+  function done() {
+    cbComplete += 1;
+    // For GDPR, refresh the page once cookie creation is complete
+    if (cbAdded === cbComplete && gdprConsent) {
+      location.reload();
+    }
+  }
+
+  // CCPA acknowledgement and cookie creation happens automatically on page load
+  window.addEventListener('load', function() {
+    // Only render banner if it's GDPR or the cookie for CCPA doesn't exist
+    if (gdprConsent || document.cookie.indexOf('_chorus_ccpa_consent=') === -1) {
+      document.querySelector('#privacy-consent').classList.remove("hidden");
+      if (!gdprConsent) { setConsentCookie('_chorus_ccpa_consent'); }
+    }
+  });
+
+  document.querySelector('#privacy-consent-button').addEventListener('click', function(evt) {
+    evt.preventDefault();
+    this.setAttribute('disabled', 'disabled');
+
+    if (gdprConsent) {
+      setConsentCookie('_chorus_privacy_consent');
+      requestNetworkConsentCookies('_chorus_privacy_consent');
+
+      // Only make Phonograph changes if GDPR consent has been given
+      var pickup = document.querySelector('#phonograph-pickup');
+      if (pickup) {
+        var continentCode = document.cookie.match(/_chorus_geoip_continent=([^;]+)/i) || [];
+        pickup.async = true;
+        pickup.onload = addCallback(function() {
+          phonographEvents.push(['privacy_consent', { token: token, geoip_continent: continentCode[1], callback: done }]);
+        });
+        pickup.src = pickup.getAttribute('data-src');
+      }
+    } else {
+      requestNetworkConsentCookies('_chorus_ccpa_consent');
+    }
+    document.querySelector('#privacy-consent').style.display = 'none';
+  });
+})();
+</script>
+
+      <svg width="0" height="0" style="position:absolute;display:none;"><symbol viewbox="90 0 689 645" id="icon-clock" xmlns="http://www.w3.org/2000/svg"><title>clock</title>
+<path d="M489.1 322.5c0 15-5.4 27.9-16 38.6-10.7 10.7-23.6 16-38.6 16-23.7 0-40.3-10.9-49.9-32.8h-125c-6.4 0-11.6-2.1-15.7-6.1-4-4.1-6.1-9.3-6.1-15.7 0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.4-6.1 15.8-6.1h125c5.9-13.2 15.3-22.5 28-28V125.8c0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.3-6.1 15.7-6.1 6.4 0 11.6 2 15.7 6.1s6.1 9.3 6.1 15.7v146.8c21.9 9.5 32.9 26.1 32.8 49.9zm-54.6-306c84.2 0 156.3 29.9 216.2 89.8 59.9 59.9 89.8 131.9 89.8 216.2s-29.9 156.3-89.8 216.2c-59.9 59.9-131.9 89.8-216.2 89.8s-156.3-29.9-216.2-89.8c-59.9-59.9-89.8-131.9-89.8-216.2s29.9-156.3 89.8-216.2c59.9-59.9 132-89.8 216.2-89.8zm0 546.4c66.5 0 123.2-23.4 170.1-70.4 46.9-46.9 70.4-103.6 70.4-170.1s-23.4-123.2-70.4-170.1C557.7 105.5 501 82.1 434.5 82.1s-123.2 23.4-170.1 70.4C217.5 199.4 194 256.1 194 322.6s23.4 123.2 70.4 170.1c46.9 46.8 103.6 70.2 170.1 70.2z"></path></symbol><symbol viewbox="0 0 1000 1000" id="icon-close" xmlns="http://www.w3.org/2000/svg"><path d="M638.6 500l322.7-322.7c38.3-38.3 38.3-100.3 0-138.6S861 .4 822.7 38.7L500 361.4 177.3 38.7C139 .4 77 .4 38.7 38.7S.4 139 38.7 177.3L361.4 500 38.7 822.7C.4 861 .4 923 38.7 961.3 57.9 980.4 82.9 990 108 990s50.1-9.6 69.3-28.7L500 638.6l322.7 322.7c19.1 19.1 44.2 28.7 69.3 28.7 25.1 0 50.1-9.6 69.3-28.7 38.3-38.3 38.3-100.3 0-138.6L638.6 500z"></path></symbol><symbol viewbox="0 0 14 14" id="icon-close-map" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.074 12.27L7.698 6.958l5.376-5.312-.896-.896-5.312 5.376L1.554.75l-.896.864 5.376 5.312L.658 12.27l.896.896L6.898 7.79l5.312 5.376z"></path></symbol><symbol viewbox="0 0 18 17" id="icon-comment" xmlns="http://www.w3.org/2000/svg"><path d="M15.667 6.654c0 3.532-3.432 6.397-7.667 6.397-.945 0-1.85-.14-2.686-.4l-4.406 2.1 1.725-3.52c-1.42-1.16-2.3-2.78-2.3-4.56C.333 3.12 3.765.257 8 .257c4.235 0 7.667 2.863 7.667 6.4z"></path></symbol><symbol viewbox="-135.7 744.2 1008.1 429.7" id="icon-down" xmlns="http://www.w3.org/2000/svg"><path d="M872.3 788.5c0 12.1-5.1 25.2-18.2 35.3l-446 335c-12.1 10.1-28.3 15.2-40.4 15.2-15.2 0-28.3-5.1-40.4-15.2l-446.1-335c-18.2-15.2-22.2-40.4-10.1-60.5s40.4-22.2 58.5-10.1l439.1 330.9 435.9-331c18.2-15.2 45.4-10.1 58.5 10.1 7.2 8.1 9.2 15.1 9.2 25.3"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-email" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="afshape-1"></path></symbol><symbol viewbox="0 0 21.406 43.754" id="icon-facebook" xmlns="http://www.w3.org/2000/svg"><path d="M5.43 43.754v-20.53H0V15.83h5.43V9.518C5.43 4.558 8.635 0 16.024 0c2.99 0 5.204.286 5.204.286l-.175 6.903s-2.257-.03-4.72-.03c-2.663 0-3.09 1.23-3.09 3.26v5.4h8.022l-.35 7.39h-7.672v20.53H5.43z"></path></symbol><symbol viewbox="0 0 140 200" id="icon-foursquare" xmlns="http://www.w3.org/2000/svg"><path d="M114.697 27.581l-4.278 22.294c-.511 2.41-3.545 4.945-6.358 4.945h-39.7c-4.467 0-7.664 3.045-7.664 7.508v4.86c0 4.467 3.216 7.632 7.686 7.632h33.681c3.154 0 6.25 3.459 5.568 6.826-.685 3.373-3.886 20.08-4.271 21.924-.387 1.846-2.5 5-6.25 5H65.618c-5.007 0-6.521.654-9.87 4.818-3.353 4.166-33.477 40.342-33.477 40.342-.305.35-.603.249-.603-.134V27.25c0-2.85 2.478-6.194 6.194-6.194h81.78c3.01 0 5.822 2.829 5.055 6.525m3.59 87.418c1.137-4.602 13.899-69.93 18.16-90.656M120.716 0H18.809C4.745 0 .61 10.575.61 17.235v161.916c0 7.503 4.032 10.285 6.296 11.203 2.267.919 8.519 1.692 12.266-2.632 0 0 48.111-55.826 48.938-56.652 1.25-1.25 1.25-1.25 2.5-1.25h31.127c13.08 0 15.183-9.327 16.549-14.821 1.137-4.602 13.899-69.93 18.16-90.656C139.699 8.526 135.681 0 120.716 0"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-275 387.7c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.5c-.4 0-.7.3-.7.7 0 .4.4.8.6 1l1.4 1.4-3.9 3.9 1.9 1.9 3.9-3.9 1.4 1.4c.3.3.6.6 1 .6s.7-.3.7-.7l-.1-5.6zm-13.1 10.5l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen-exit" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-293.2 406.9l3.9-4 1.4 1.4c.3.3.6.6 1 .6s.6-.3.6-.6v-5.4c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.4c-.4 0-.6.3-.6.6 0 .4.4.8.6.9l1.4 1.4-4 3.9 1.8 1.9zM-276.91 387.05l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="0 0 39.605 39.633" id="icon-google-plus" xmlns="http://www.w3.org/2000/svg"><path d="M12.488 37.682c-4.69 0-8.08-2.97-8.08-6.537 0-3.496 3.976-6.51 8.667-6.46a10.21 10.21 0 0 1 3.04.488c2.547 1.77 4.6 2.876 5.117 4.894.096.41.15.83.15 1.26 0 3.567-2.3 6.355-8.894 6.355m1.233-21.46c-3.14-.093-6.14-2.982-6.68-7.116-.54-4.136 1.57-7.3 4.72-7.206 3.15.094 5.84 3.486 6.39 7.62.55 4.136-1.27 6.797-4.41 6.703m6.75 6.457c-1.08-.813-3.44-2.478-3.44-3.596 0-1.31.38-1.955 2.35-3.495 2.03-1.58 3.46-3.67 3.46-6.25 0-2.82-1.15-5.37-3.31-6.61h3.06L25.2 0H13.51C7.584 0 2.644 4.37 2.644 9.18c0 4.912 3.246 8.83 8.82 8.83.388 0 .764-.02 1.133-.048-.36.694-.62 1.467-.62 2.277 0 1.36.75 2.14 1.68 3.04-.702 0-1.38.02-2.12.02C4.75 23.3 0 27.97 0 32.46c0 4.412 5.726 7.173 12.513 7.173 7.737 0 12.495-4.39 12.495-8.8 0-3.54-.764-5.32-4.536-8.15M31.52.54v5.388h-5.388v2.695h5.39v5.39h2.694v-5.39h5.39V5.928h-5.39V.538"></path></symbol><symbol viewbox="0 0 105.4 105.7" class="alinline-svg" id="icon-grid" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M0 0h47.7v47.7H0z" class="alshape-1"></path><path fill="#ccc" d="M57.7 0h47.7v47.7H57.7z" class="alshape-2"></path><path fill="#ccc" d="M0 58h47.7v47.7H0z" class="alshape-3"></path><path fill="#ccc" d="M57.7 58h47.7v47.7H57.7z" class="alshape-4"></path></symbol><symbol viewbox="0 0 64.37 40.34" id="icon-hamburger" xmlns="http://www.w3.org/2000/svg"><path class="amcls-1" d="M0 30h64.37v10.34H0zm0-15h64.37v10.34H0zM0 0h64.37v10.34H0z"></path></symbol><symbol viewbox="0 0 671.78668 671.78668" id="icon-instagram" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.13333 0 0 -.13333 0 671.787)"><path d="M2519.21 5038.41c-684.18 0-769.97-2.9-1038.67-15.16-268.14-12.23-451.27-54.82-611.513-117.09-165.66-64.38-306.148-150.52-446.203-290.57-140.051-140.05-226.191-280.55-290.57-446.21-62.273-160.24-104.86-343.37-117.098-611.51C2.898 3289.17 0 3203.38 0 2519.2c0-684.17 2.898-769.96 15.156-1038.66 12.239-268.14 54.825-451.27 117.098-611.509 64.379-165.66 150.519-306.152 290.57-446.211 140.055-140.05 280.543-226.191 446.203-290.57C1029.27 69.98 1212.4 27.39 1480.54 15.16 1749.24 2.902 1835.03 0 2519.21 0c684.17 0 769.96 2.902 1038.66 15.16 268.14 12.23 451.27 54.82 611.51 117.09 165.66 64.379 306.15 150.52 446.21 290.57 140.05 140.059 226.19 280.551 290.57 446.211 62.27 160.239 104.86 343.369 117.09 611.509 12.26 268.7 15.16 354.49 15.16 1038.66 0 684.18-2.9 769.97-15.16 1038.67-12.23 268.14-54.82 451.27-117.09 611.51-64.38 165.66-150.52 306.16-290.57 446.21-140.06 140.05-280.55 226.19-446.21 290.57-160.24 62.27-343.37 104.86-611.51 117.09-268.7 12.26-354.49 15.16-1038.66 15.16zm0-453.91c672.65 0 752.33-2.57 1017.97-14.69 245.62-11.2 379.01-52.24 467.78-86.74 117.59-45.7 201.51-100.29 289.66-188.44 88.16-88.16 142.75-172.08 188.45-289.67 34.5-88.77 75.54-222.16 86.74-467.78 12.12-265.64 14.69-345.32 14.69-1017.98 0-672.65-2.57-752.33-14.69-1017.97-11.2-245.62-52.24-379.01-86.74-467.78-45.7-117.591-100.29-201.509-188.45-289.661-88.15-88.16-172.07-142.75-289.66-188.449-88.77-34.5-222.16-75.539-467.78-86.738-265.6-12.122-345.27-14.692-1017.97-14.692-672.71 0-752.37 2.57-1017.98 14.692-245.62 11.199-379.01 52.238-467.78 86.738-117.591 45.699-201.509 100.289-289.661 188.449-88.152 88.152-142.75 172.07-188.449 289.661-34.5 88.77-75.535 222.16-86.742 467.78-12.121 265.64-14.688 345.32-14.688 1017.97 0 672.66 2.567 752.34 14.688 1017.98 11.207 245.62 52.242 379.01 86.742 467.78 45.699 117.59 100.293 201.51 188.445 289.66 88.156 88.16 172.074 142.75 289.665 188.45 88.77 34.5 222.16 75.54 467.78 86.74 265.64 12.12 345.32 14.69 1017.98 14.69"></path><path d="M2519.21 1679.47c-463.78 0-839.74 375.96-839.74 839.73 0 463.78 375.96 839.74 839.74 839.74 463.77 0 839.73-375.96 839.73-839.74 0-463.77-375.96-839.73-839.73-839.73zm0 2133.38c-714.47 0-1293.65-579.18-1293.65-1293.65 0-714.46 579.18-1293.64 1293.65-1293.64 714.46 0 1293.64 579.18 1293.64 1293.64 0 714.47-579.18 1293.65-1293.64 1293.65M4166.27 3863.96c0-166.96-135.35-302.3-302.31-302.3-166.95 0-302.3 135.34-302.3 302.3s135.35 302.31 302.3 302.31c166.96 0 302.31-135.35 302.31-302.31"></path></g></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-left" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M274.8 1246.2c-9.5 0-19.8-4-27.7-14.3l-262.9-350c-7.9-9.5-11.9-22.2-11.9-31.7 0-11.9 4-22.2 11.9-31.7l262.9-350.1c11.9-14.3 31.7-17.4 47.5-7.9 15.8 9.5 17.4 31.7 7.9 45.9L42.8 851l259.8 342.1c11.9 14.3 7.9 35.6-7.9 45.9-6.4 5.6-11.9 7.2-19.9 7.2"></path></symbol><symbol viewbox="0 0 18 18" id="icon-link" xmlns="http://www.w3.org/2000/svg"><g opacity=".4"><path d="M10.546 13.732l.623-.623a.957.957 0 0 0 .121-.137c.263-.273.48-.582.65-.905a4.44 4.44 0 0 0 .46-2.733 3.766 3.766 0 0 0-.158-.692 3.61 3.61 0 0 0-.244-.604 4.355 4.355 0 0 0-.877-1.245 4.35 4.35 0 0 0-1.245-.876l-1.14 1.14c-.08.08-.146.163-.204.256a2.735 2.735 0 0 1 2.07 2.07c.044.21.066.426.06.644a2.601 2.601 0 0 1-.765 1.81l-.69.689-.513.513-.485.485-1.237 1.237c-1.037 1.037-2.737 1.024-3.79-.029-1.052-1.052-1.064-2.753-.028-3.789L4.39 9.706a5.663 5.663 0 0 1-.208-2.338L1.881 9.67c-1.73 1.73-1.709 4.56.048 6.316 1.757 1.757 4.586 1.778 6.316.048l2.302-2.302z"></path><path d="M7.339 7.802a2.54 2.54 0 0 1 .1-.668c.114-.42.339-.814.665-1.14l.693-.694.51-.51.48-.48 1.242-1.241c1.036-1.036 2.736-1.024 3.789.029 1.052 1.052 1.064 2.753.029 3.789l-1.241 1.24c.233.76.302 1.556.211 2.335l2.303-2.303c1.73-1.73 1.708-4.558-.049-6.315C14.314.087 11.485.066 9.756 1.796L7.453 4.098l-.623.623a.934.934 0 0 0-.121.138 3.904 3.904 0 0 0-.645.9 4.39 4.39 0 0 0-.46 2.733c.028.244.08.472.153.696.065.206.142.41.245.604.209.452.503.87.877 1.244.373.374.791.668 1.244.878l1.14-1.141a1.38 1.38 0 0 0 .204-.256 2.68 2.68 0 0 1-1.335-.734 2.685 2.685 0 0 1-.793-1.98z"></path></g></symbol><symbol viewbox="0 0 16 16" id="icon-linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M.2 15.876h3.394V5.222H.2v10.654zM1.997 0C.8 0 0 .836 0 1.88s.8 1.88 1.997 1.88 1.997-.836 1.997-1.88C3.794.836 2.994 0 1.997 0zm9.985 4.804c-1.798 0-2.596 1.045-2.996 1.88V5.222H5.392c.2 1.045 0 10.862 0 10.862h3.395V9.818c0-.21 0-.627.2-.836.2-.626.798-1.253 1.796-1.253 1.2 0 1.798 1.04 1.798 2.5v5.64h3.4V9.82c0-3.342-1.79-5.014-3.99-5.014z"></path></symbol><symbol viewbox="0 0 35.4 51" id="icon-map-marker" xmlns="http://www.w3.org/2000/svg"><path d="M18 51.733c11.8-15.9 17.7-27.1 17.7-33.5 0-9.7-7.9-17.5-17.7-17.5S.3 8.533.3 18.233c0 6.4 5.9 17.6 17.7 33.5z"></path><circle r="8" cy="18" cx="18" fill="#fff"></circle></symbol><symbol viewbox="-375 489.5 37.2 30.3" id="icon-menu" xmlns="http://www.w3.org/2000/svg"><title>menu</title>
+<path d="M-367 489.5h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 12.8h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 13.7h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4z"></path></symbol><symbol viewbox="0 0 179 96" id="icon-more" xmlns="http://www.w3.org/2000/svg"><title>more-arrow</title>
+<path d="M178.86 47.677L129.776 0v34.313H0v26.625h116.296v.103h13.48v34.31l49.084-47.67"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-newsletter_signup" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="aushape-1"></path></symbol><symbol viewbox="0 0 832 512" id="icon-norgie-down" xmlns="http://www.w3.org/2000/svg"><path d="M15.244 98.497L379.433 495.43c20.249 22.24 53.137 22.23 73.373-.021.51-.608.71-1.47 1.25-2.077L817.152 98.259c20.233-22.224 20.223-58.326-.028-80.54-.202-.1-.531-.202-.735-.404C807.065 6.732 793.993-.005 779.353 0L52.923.208C38.073.212 24.903 7.286 15.43 18.18l-.2-.227c-20.314 22.325-20.304 58.33.023 80.543h-.008z"></path></symbol><symbol viewbox="0 0 512 832.328" id="icon-norgie-right" xmlns="http://www.w3.org/2000/svg"><path d="M98.278 817.088l397.038-364.076c22.245-20.243 22.245-53.13 0-73.373-.608-.51-1.47-.71-2.077-1.25L98.27 15.18c-22.218-20.24-58.32-20.24-80.54.005-.1.202-.202.53-.404.734C6.74 25.24 0 38.31 0 52.95v726.43c0 14.85 7.07 28.022 17.963 37.5l-.228.2c22.32 20.32 58.324 20.32 80.543 0z"></path></symbol><symbol viewbox="0 0 47.3 34.3" id="icon-opentable" xmlns="http://www.w3.org/2000/svg"><path d="M30.1 0C20.7 0 13 7.7 13 17.2s7.7 17.2 17.2 17.2 17.2-7.7 17.2-17.2C47.3 7.7 39.6 0 30.1 0zm0 21.5c-2.4 0-4.3-1.9-4.3-4.3s1.9-4.3 4.3-4.3 4.3 1.9 4.3 4.3c0 2.3-1.9 4.3-4.3 4.3zM0 17.2c0 2.4 1.9 4.3 4.3 4.3s4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3S0 14.8 0 17.2"></path></symbol><symbol viewbox="0 0 12 12" id="icon-pencil" xmlns="http://www.w3.org/2000/svg"><path d="M1.3 8.4c0 .1 0 .1 0 0L0 11.6c0 .1 0 .2.1.3 0 .1.1.1.1.1h.1l3.1-1.2s.1 0 .1-.1l6.2-6.2-2.2-2.3-6.2 6.2zm10.5-7L10.6.2c-.3-.3-.8-.3-1.1 0L8.2 1.5l2.2 2.2 1.3-1.3c.4-.2.4-.7.1-1z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-pin" xmlns="http://www.w3.org/2000/svg"><path d="M57.2 34.6c0 4.8-1.3 9.3-3.5 13.2L31.8 87.5c-.3.5-.9.8-1.5.8-.7 0-1.2-.4-1.5-.8L6.9 47.7c-2.2-3.8-3.5-8.4-3.5-13.2 0-14.8 12-26.9 26.9-26.9 14.9.1 26.9 12.1 26.9 27zm-16.8 0c0-5.6-4.5-10.1-10.1-10.1S20.2 29 20.2 34.6s4.5 10.1 10.1 10.1 10.1-4.5 10.1-10.1z" xmlns="http://www.w3.org/2000/svg"></path></symbol><symbol viewbox="-285 377 40 40" id="icon-pinterest" xmlns="http://www.w3.org/2000/svg"><path d="M-265 377.1c-10.9 0-19.7 8.9-19.7 19.8 0 8.1 4.9 15 11.8 18.1-.1-1.4 0-3 .3-4.5.4-1.6 2.5-10.8 2.5-10.8s-.6-1.3-.6-3.1c0-2.9 1.7-5.1 3.8-5.1 1.8 0 2.7 1.3 2.7 3 0 1.8-1.2 4.5-1.7 7-.5 2.1 1 3.8 3.1 3.8 3.7 0 6.3-4.8 6.3-10.5 0-4.3-2.9-7.6-8.2-7.6-6 0-9.7 4.5-9.7 9.5 0 1.7.5 2.9 1.3 3.9.4.4.4.6.3 1.1l-.4 1.6c-.1.5-.5.7-1 .5-2.8-1.1-4-4.1-4-7.5 0-5.6 4.7-12.3 14.1-12.3 7.5 0 12.5 5.5 12.5 11.3 0 7.7-4.3 13.5-10.7 13.5-2.1 0-4.1-1.2-4.8-2.5 0 0-1.1 4.5-1.4 5.4-.4 1.5-1.2 3-2 4.2 1.8.5 3.7.8 5.6.8 10.9 0 19.7-8.8 19.7-19.7 0-11-8.9-19.9-19.8-19.9z"></path></symbol><symbol viewbox="-230 372 50 50" id="icon-play" xmlns="http://www.w3.org/2000/svg"><path fill="#999" d="M-214 376l25.6 21.1L-214 418v-42z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-rec" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="0 0 450 386" id="icon-refresh" xmlns="http://www.w3.org/2000/svg"><path d="M352.629 288.14l96-111.9h-64.7c-2.3-27.9-10.5-54-23.5-77.3-27.4-49.2-75.8-85.1-133-95.6-.7-.1-1.5-.3-2.2-.4-.5-.1-.9-.2-1.4-.2-10.1-1.7-20.6-2.6-31.2-2.6h-.4c-90.9.2-167 63.6-186.7 148.6v.1c-.3 1.1-.5 2.2-.7 3.3-.1.5-.2.9-.3 1.4-.1.7-.3 1.4-.4 2.1-.2.9-.3 1.7-.5 2.6-.1.4-.1.7-.2 1.1l-.6 3.6v.2c-1 6.3-1.6 12.7-1.9 19.1v.8c-.1 1.4-.1 2.7-.2 4.1 0 1.6-.1 3.3-.1 5 0 1.7 0 3.3.1 5 0 1.4.1 2.7.2 4.1v.9c.3 6.5 1 12.9 1.9 19.1v.2l.6 3.6c.1.4.1.7.2 1.1.2.9.3 1.8.5 2.6.1.7.3 1.4.4 2.1.1.5.2 1 .3 1.4.2 1.1.5 2.2.7 3.2v.1c19.7 85 96.1 148.4 187.1 148.6 42.9-.1 83.1-14.2 116.9-40.7l7.5-5.9-43.2-46.2-6.2 4.6c-22.1 16.3-47.5 24.2-75 24.2-70.6 0-128-57-128-128s57.4-128 128-128c66.4 0 122.8 46.6 129.5 112h-73.5l104 112z" xmlns:bx="https://boxy-svg.com" bx:origin="0.5 0.5"></path></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-right" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M6.9 455.1c9.5 0 19.8 4 27.7 14.3l262.9 350.1c7.9 9.5 11.9 22.2 11.9 31.7 0 11.9-4 22.2-11.9 31.7l-262.8 350c-11.9 14.3-31.7 17.4-47.5 7.9-15.8-9.5-17.4-31.7-7.9-45.9L239 850.3-20.8 508.2c-11.9-14.3-7.9-35.6 7.9-45.9 6.4-5.6 11.9-7.2 19.8-7.2"></path></symbol><symbol viewbox="0 0 1000 1000" preserveaspectratio="xMinYMin meet" id="icon-rss" xmlns="http://www.w3.org/2000/svg"><path d="M0 866q0-55 39-94t94-39 94 39 39 94q0 56-39 94.5T133 999t-94-39-39-94zm0-335V340q179 0 331 88.5T571.5 669t88.5 331H468q0-194-137-331Q193 531 0 531zm0-339V0q203 0 388 79.5T707 293t213.5 319 79.5 388H808q0-164-64-314T571.5 428t-258-172T0 192z"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-search" xmlns="http://www.w3.org/2000/svg"><path d="M754.7 468.7l-22.3-22.3c24.3-33.3 37.5-73.4 37.7-114.7 0-109.5-88.8-198.3-198.3-198.3s-198.3 88.8-198.3 198.3S462.1 530 571.7 530c41.2-.2 81.3-13.4 114.7-37.7l22.3 22.3 152.7 152 45.3-45.3-152-152.6zm-183 0c-75.8 0-137.3-61.5-137.3-137.3S495.8 194 571.7 194 709 255.5 709 331.3c.2 75.7-61 137.1-136.7 137.3-.2.1-.4.1-.6.1z"></path></symbol><symbol viewbox="206 29.9 642.1 681.3" id="icon-settings" xmlns="http://www.w3.org/2000/svg"><path d="M843 467.2c4.8 3.2 6.3 9.5 4 15-13.5 41.2-36.4 79.2-64.2 111.7-4 4.8-9.5 6.3-15 4l-81.6-28.5c-20.6 16.6-43.6 30.1-67.3 39.6l-16.6 84.7c-.8 5.5-5.5 10.3-11.1 11.1-21.4 4-42.8 6.3-64.2 6.3-22.2 0-43.6-2.4-64.2-6.3-5.5-.8-10.3-5.5-11.1-11.1L435.2 609c-24.6-9.5-48.3-23-67.3-39.6l-81.6 28.5c-5.5 2.4-11.1.8-15-4-28.5-32.5-51.5-70.5-64.2-111.7-2.4-5.5-.8-11.9 4-15l64.9-57c-2.4-12.7-3.2-26.1-3.2-39.6s.8-26.9 3.2-39.6l-65-57c-4.8-3.2-6.3-9.5-4-15 13.5-41.2 36.4-79.2 64.2-111.7 4-4.8 9.5-6.3 15-4l81.6 28.5c19.8-16.6 43.6-30.1 67.3-39.6l16.6-84.7c.8-5.5 5.5-10.3 11.1-11.1 42.8-8.7 86.3-8.7 129.1 0 5.5.8 10.3 5.5 11.1 11.1l15 85.5c24.6 9.5 47.5 23 67.3 39.6l81.6-28.5c5.5-2.4 11.1-.8 15 4 28.5 32.5 51.5 70.5 64.2 111.7 2.4 5.5.8 11.9-4 15l-65.7 57c2.4 12.7 3.2 26.1 3.2 39.6s-.8 26.9-3.2 39.6l66.6 56.2zm-190-95.8c0-69.7-57.8-127.5-127.5-127.5-70.5 0-127.5 57-127.5 127.5s57 127.5 127.5 127.5S653 441.9 653 371.4z"></path></symbol><symbol viewbox="0 0 16 16" id="icon-snapchat" xmlns="http://www.w3.org/2000/svg"><path d="M8.155.48c.662 0 2.903.185 3.96 2.552.354.797.27 2.15.2 3.237l-.002.04c-.008.12-.015.23-.02.34.05.03.135.06.268.06.2-.01.44-.08.69-.2.11-.06.23-.07.31-.07.12 0 .24.02.34.06.3.1.49.32.49.56.01.3-.26.56-.81.78-.06.02-.14.05-.23.08-.3.09-.76.24-.89.54-.06.15-.04.35.08.58l.01.01c.04.09 1.02 2.32 3.2 2.68.17.03.29.18.28.34 0 .05-.01.1-.03.15-.16.38-.85.66-2.1.85-.04.06-.08.25-.11.38-.02.12-.05.24-.09.37-.05.18-.18.27-.37.27h-.02c-.09 0-.21-.02-.36-.05-.24-.05-.51-.09-.85-.09-.2 0-.4.01-.61.05-.4.07-.75.31-1.15.59-.57.4-1.22.86-2.2.86-.04 0-.08-.01-.12-.01h-.1c-.98 0-1.62-.45-2.19-.86-.4-.28-.74-.52-1.14-.59-.21-.03-.42-.05-.62-.05-.36 0-.64.06-.85.1-.14.03-.26.05-.36.05-.25 0-.35-.15-.39-.28-.04-.13-.06-.26-.09-.38s-.07-.33-.11-.38C.89 12.9.2 12.62.04 12.23a.413.413 0 0 1-.036-.15.332.332 0 0 1 .28-.34c2.18-.36 3.16-2.59 3.2-2.684l.01-.02c.12-.23.15-.43.08-.58-.13-.29-.59-.44-.89-.54-.08-.02-.16-.05-.23-.08-.74-.29-.84-.62-.8-.85.06-.32.45-.53.78-.53.097 0 .18.02.256.05.28.13.527.2.737.2a.63.63 0 0 0 .31-.07l-.03-.38c-.065-1.086-.15-2.438.205-3.23C4.94.67 7.175.49 7.835.49l.28-.01h.04z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-star" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-down" xmlns="http://www.w3.org/2000/svg"><title>no</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-up" xmlns="http://www.w3.org/2000/svg"><title>yes</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-topics" xmlns="http://www.w3.org/2000/svg"><g xmlns="http://www.w3.org/2000/svg"><path d="M2.5 21.5h55.2v11.8H2.5zM2.5 42.1h55.2v11.8H2.5zM2.5 64.3h55.2v11.8H2.5z"></path></g></symbol><symbol viewbox="0 0 87 60" id="icon-trending" xmlns="http://www.w3.org/2000/svg"><path d="M1.906 46.826c2.213 1.787 5.466 1.46 7.262-.743v-.006l5.26-6.45 8.378 11.286a5.171 5.171 0 0 0 4.827 2.035 5.128 5.128 0 0 0 4.124-3.215l7.96-20.208L51.26 56.577a5.155 5.155 0 0 0 4.754 3.13c.097 0 .19 0 .286-.007a5.172 5.172 0 0 0 4.66-3.667l10.98-36.787 4.854 9.902c1.234 2.552 4.33 3.613 6.89 2.37 2.56-1.234 3.636-4.314 2.386-6.86L75.42 2.888a5.15 5.15 0 0 0-5.067-2.87 5.135 5.135 0 0 0-4.52 3.653L55.146 39.42 44.28 13.93a5.142 5.142 0 0 0-4.827-3.127 5.157 5.157 0 0 0-4.73 3.263L25.56 37.343l-6.79-9.148a5.197 5.197 0 0 0-4.033-2.08 5.139 5.139 0 0 0-4.124 1.897L1.153 39.6a5.125 5.125 0 0 0 .753 7.226" fill-rule="evenodd"></path></symbol><symbol viewbox="0 0 23.62 41.098" id="icon-tumblr" xmlns="http://www.w3.org/2000/svg"><path d="M21.643 32.826c-.764.364-2.226.682-3.316.71-3.29.088-3.927-2.31-3.955-4.052V16.69h8.252v-6.22h-8.222V0h-6.02c-.1 0-.272.087-.296.307C7.734 3.512 6.234 9.135 0 11.382v5.31h4.16V30.12c0 4.595 3.39 11.126 12.343 10.974 3.02-.053 6.375-1.318 7.117-2.408l-1.977-5.86z"></path></symbol><symbol viewbox="0 0 44.71 36.327" id="icon-twitter" xmlns="http://www.w3.org/2000/svg"><path d="M44.71 4.295c-1.656.724-3.415 1.242-5.278 1.45A9.146 9.146 0 0 0 43.468.673a18.75 18.75 0 0 1-5.796 2.225C35.965 1.138 33.584 0 30.945 0a9.145 9.145 0 0 0-9.16 9.16c0 .724.052 1.448.208 2.12-7.607-.413-14.335-3.88-18.888-9.417-.777 1.345-1.242 2.742-1.242 4.45 0 3.157 1.604 5.95 4.088 7.607a9.376 9.376 0 0 1-4.14-1.138v.103c0 4.45 3.16 8.176 7.35 9.004-.77.2-1.6.31-2.43.31-.57 0-1.14-.06-1.71-.16 1.14 3.62 4.56 6.31 8.54 6.36-3.1 2.48-7.09 4.34-11.38 4.34-.72 0-1.45-.05-2.17-.16 4.04 2.59 8.9 3.72 14.08 3.72 16.87 0 26.08-13.97 26.08-26.08V9.05c1.76-1.294 3.32-2.9 4.56-4.76"></path></symbol><symbol viewbox="-235.8 423.2 35.7 21.3" id="icon-up" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M-200.5 444.2L-218 424l-17.5 20.2"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-user" xmlns="http://www.w3.org/2000/svg"><path d="M640 400c73.6 0 133.3-59.7 133.3-133.3S713.6 133.3 640 133.3 506.7 193 506.7 266.7 566.4 400 640 400zm0 66.7c-89 0-266.7 44.7-266.7 133.3v66.7h533.3V600c.1-88.7-177.6-133.3-266.6-133.3z"></path></symbol><symbol viewbox="0 0 1146 1000" id="icon-vimeo" xmlns="http://www.w3.org/2000/svg"><path d="M0 272q55-65 110-116t95.5-77.5 72.5-43T326 14l17-4q12-2 24-2 19 0 35 6 26 10 42.5 34.5t29 55 21.5 72 15 77.5 13.5 79.5T538 403q32 125 51.5 177.5T631 633q24 0 66.5-55.5T791 426q26-48 26-91 0-13-2-23-9-52-51-65-11-4-24-4-35 0-83 26 22-130 134-209Q876 0 965 0q12 0 24 1 102 8 139 90 18 38 18 88 0 29-6 61-18 102-69.5 208t-113 187.5-132.5 155-123.5 117T611 976q-42 24-78.5 24T463 979t-56-48-38-57q-18-38-97.5-298.5T175 295q-1-2-4-4t-13.5-4.5-24 0-36.5 14T47 333z"></path></symbol><symbol viewbox="0 0 86.965 87.642" id="icon-whatsapp" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M44.038 13.007c-16.58 0-30.02 13.44-30.02 30.02a29.883 29.883 0 0 0 4.307 15.503l-5.418 16.106 16.62-5.32a29.915 29.915 0 0 0 14.512 3.733c16.58 0 30.02-13.45 30.02-30.03C74.06 26.44 60.61 13 44.03 13zm0 55.013a24.85 24.85 0 0 1-13.75-4.132l-9.604 3.074 3.122-9.28a24.858 24.858 0 0 1-4.76-14.653c0-13.79 11.212-25 24.993-25 13.78 0 24.99 11.21 24.99 24.99 0 13.78-11.22 24.99-25 24.99zm14.075-18.17c-.753-.412-4.45-2.407-5.143-2.69-.693-.28-1.2-.427-1.74.32s-2.072 2.418-2.538 2.913c-.467.495-.916.54-1.668.128-.752-.41-3.19-1.31-6.02-4.03-2.202-2.11-3.646-4.68-4.065-5.46-.42-.78-.01-1.18.39-1.55.35-.33.8-.86 1.2-1.3.4-.43.54-.74.81-1.25.27-.5.16-.95-.02-1.34s-1.57-4.22-2.15-5.77c-.58-1.56-1.23-1.32-1.68-1.34-.45-.01-.96-.1-1.47-.12-.51-.02-1.35.14-2.08.89-.73.74-2.78 2.52-2.92 6.29-.14 3.77 2.47 7.52 2.83 8.04.36.53 4.98 8.7 12.66 12.06 7.67 3.36 7.71 2.34 9.12 2.26 1.41-.07 4.6-1.68 5.31-3.45.7-1.76.76-3.3.58-3.62-.18-.32-.68-.54-1.43-.95z"></path></symbol><symbol viewbox="130.35156 177.43359 300 300" overflow="visible" id="icon-yahoo" xmlns="http://www.w3.org/2000/svg"><path d="M420.926 272.27c-5.2.514-26.85 5.365-34.13 6.925-7.79 2.073-78.983 57.075-83.66 70.58-1.036 4.674-1.556 11.866-1.556 18.624l-.52 10.91c-.002 7.79 2.162 20.35 3.198 27.1 4.68 1.04 38.555.13 44.79 1.17l-.768 13.97c-6.09-.45-49.106-.34-73.68-.34-12.475 0-52.576 1.37-64.897 1l2.33-13.29c6.755-.53 34.728 1.2 40.878-5.29 3.06-3.22 2.09-6.67 2.09-25.38v-8.83c0-4.16 0-11.96-1.04-19.24-2.59-7.8-65.3-86.09-81.41-98.56-4.68-1.56-33.99-4.49-41.26-6.05l-.36-11.97c3.63-1.82 36.22.44 67.85-.73 20.79-.77 68.22 0 74.07.7l-1.5 10.55c-6.23 1.56-36.26 2.14-44.06 4.21 20.27 30.14 52.31 68.94 62.71 84.01 5.72-8.31 55.96-42.87 57.51-54.82-7.79-1.57-33.6-5.28-37.76-5.28l-2.47-13.61c7.08-1.11 44.28 0 62.78 0 15.96 0 50.07 0 59.76.79l-8.86 12.81"></path></symbol><symbol viewbox="0 0 462 325" id="icon-youtube" xmlns="http://www.w3.org/2000/svg"><path d="M234.28 1.691c-53.492 0-132.53 3.24-156.188 4.031C52.396 8.02 42.884 9.366 28.811 21.41 7.368 40.48 2.28 77.954 2.28 135.285v54.562c0 65.439 8.69 98.684 23 110.844 16.517 14.17 27.407 15.302 38.406 17 4.27.646 34.49 6 168.594 6 83.626 0 155.507-3.95 162.937-4.906 11.945-1.508 29.104-3.696 42.063-18.094 19.183-21.803 23-57.999 23-110.437V126.69c0-33.943-1.891-81.916-23-102-15.991-13.536-21.848-17.367-54.938-19.031-9.358-.462-91.02-3.969-148.062-3.969zm-49.5 97l123.5 63.75-123.5 64.25v-128z"></path></symbol></svg>
+
+      <div class="l-root l-reskin">
+    <div class="l-header">
+      
+      
+<div class="chorus-emc__content" data-emc-slug="UnisonCustomNavCell" data-emc-bucket="405::">
+    
+</div>
+
+
+      <div class="c-ad-allowlist" data-ui="ad-allowlist" data-cid="site/ad_allowlist-1633681711_907_103143" data-cdata='{"adblocker_allowlist_prompt_enabled":true,"messaging_urls":["https://cdn.concert.io/lib/adblock/polygon_v0.html"],"selector":".l-header"}'></div>
+
+      
+    </div>
+    
+<style id="custom-entry-styles" type="text/css">
+  
+</style>
+<span data-content-admin-id="21133928"></span>
+
+
+<div class="c-entry-hero c-entry-hero--feature c-entry-hero--unison-default image-dark has-image has-labels ">
+  
+    <a href="https://www.polygon.com/" class="c-entry-hero__logo">
+      
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+
+
+      
+    </a>
+  
+  
+    <div class="c-entry-hero__image">
+      <figure class="e-image">
+  <span class="e-image__inner">
+    
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1633682407_9135_115491" data-cdata='{"image_id":67211164,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/lp8yejXZExVs0EI1xSVyAkJrwqw=/0x0:2040x1360/320x180/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/n6nWRq3RTysbm7ET8gzL6ZzgttM=/0x0:2040x1360/570x321/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 570w, https://cdn.vox-cdn.com/thumbor/uvGts8AnGwE9IaC3JKe2LxOHKIk=/0x0:2040x1360/820x461/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 820w, https://cdn.vox-cdn.com/thumbor/y-a3ZpCbLKLRfmlrwzRplnu4x1A=/0x0:2040x1360/1070x602/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1070w, https://cdn.vox-cdn.com/thumbor/iOakfyTxqfEPZqqtf0ILAempAc8=/0x0:2040x1360/1320x743/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1320w, https://cdn.vox-cdn.com/thumbor/_0st9SjjjltSOxrVVAHUxyf9p7c=/0x0:2040x1360/1570x883/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1570w, https://cdn.vox-cdn.com/thumbor/kVlziaofRsQ5bH6qVmRfJFm4qKQ=/0x0:2040x1360/1820x1024/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/4J2pAF3aI49ZKwsEx7LKp8TzKj4=/0x0:2040x1360/2070x1164/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2070w, https://cdn.vox-cdn.com/thumbor/hHndiVdHQDcpCFvyuUK8UEX3tYM=/0x0:2040x1360/2320x1305/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2320w, https://cdn.vox-cdn.com/thumbor/5TZ-RkKUnOVbyEeI3LTRTMUH7eU=/0x0:2040x1360/2570x1446/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2570w, https://cdn.vox-cdn.com/thumbor/Xb6Jwsan3lbG-oDvt06_yVoOq8Y=/0x0:2040x1360/2820x1586/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2820w, https://cdn.vox-cdn.com/thumbor/BIAKZhfXF5L5MKni_iCdLHtvQ7I=/0x0:2040x1360/3070x1727/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3070w, https://cdn.vox-cdn.com/thumbor/V7_WRZt4ArsXzHR_sXpbpMdTbyw=/0x0:2040x1360/3320x1868/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3320w, https://cdn.vox-cdn.com/thumbor/_uJ17484KyvMmy7TJzx0eswNZ24=/0x0:2040x1360/3570x2008/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3570w, https://cdn.vox-cdn.com/thumbor/WIqbkePqL0OQwfVEQJUja-bc8cY=/0x0:2040x1360/3820x2149/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3820w" sizes="100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/8YkRzwKSSufSbmHSqav83TgFlv0=/0x0:2040x1360/320x180/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/eR3cxhe6WV7Z2a9IecqhcDtBATM=/0x0:2040x1360/570x321/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 570w, https://cdn.vox-cdn.com/thumbor/ne2rgEMQUZFMhmKI6ZwfVrey7jY=/0x0:2040x1360/820x461/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 820w, https://cdn.vox-cdn.com/thumbor/HH0Xb9wSjKs1ZqBD6vbusvO6hek=/0x0:2040x1360/1070x602/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1070w, https://cdn.vox-cdn.com/thumbor/LXdfJBEUjHDqZHIP533ethDysNA=/0x0:2040x1360/1320x743/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1320w, https://cdn.vox-cdn.com/thumbor/gSDIHbwkZWIBn-_8cIkwB32TIws=/0x0:2040x1360/1570x883/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1570w, https://cdn.vox-cdn.com/thumbor/HbHVJZ7VwMgGM4IvJXLLfsWuSMU=/0x0:2040x1360/1820x1024/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/zb6QmEO8lvkqC4TeZOGmPpC__cw=/0x0:2040x1360/2070x1164/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2070w, https://cdn.vox-cdn.com/thumbor/sQqO-1iGtqkM7DOLE9_M70hVomE=/0x0:2040x1360/2320x1305/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2320w, https://cdn.vox-cdn.com/thumbor/ziR-6ycHMZPdi5gcBVQvwBgbbuk=/0x0:2040x1360/2570x1446/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2570w, https://cdn.vox-cdn.com/thumbor/0W1Yzy1_GMvStGdOnj8QTRxTM4M=/0x0:2040x1360/2820x1586/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 2820w, https://cdn.vox-cdn.com/thumbor/fiVLaUn7tbFFFDbLGFXgbhTk-q4=/0x0:2040x1360/3070x1727/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3070w, https://cdn.vox-cdn.com/thumbor/qqg_3qv7DQnTA9Xs_yK7B5w_gik=/0x0:2040x1360/3320x1868/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3320w, https://cdn.vox-cdn.com/thumbor/nyGSX4F131yLfXd-BOUo1QsMaDc=/0x0:2040x1360/3570x2008/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3570w, https://cdn.vox-cdn.com/thumbor/j4eDqeula_XnnX6Gxqj_GvolYMs=/0x0:2040x1360/3820x2149/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg 3820w" sizes="100vw" alt="Graphic artwork featuring a montage of characters from the video game Phantasy Star Online over a bright magenta pixelated background" data-upload-width="2040" src="https://cdn.vox-cdn.com/thumbor/pQNSU1n1x2h7NC63SW4MFMkXqs4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67211164/jbareham_200721_1032_pstar_0003.0.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+        <figcaption><em>Phantasy Star Online</em> artwork</figcaption>
+      
+      
+        <cite>Graphic: James Bareham/Polygon | Art: Sega</cite>
+      
+    </span>
+  
+</figure>
+
+    </div>
+  
+  <div class="c-entry-hero__content l-segment l-feature">
+    
+<div class="c-entry-group-labels c-entry-group-labels--feature">
+  <p class="sr-only c-entry-box--compact__labels-title" id="heading-label--alosuobz">Filed under:</p>
+  
+  
+    
+      <ul aria-labelledby="heading-label--alosuobz">
+        <li class="c-entry-group-labels__item">
+          
+          <a href="https://www.polygon.com/interviews">
+            <span>Interviews</span>
+          </a>
+        </li>
+      </ul>
+    
+  
+  
+</div>
+
+    
+    <h1 class="c-page-title">Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call the office</h1>
+
+    <p class="c-entry-summary p-dek">We continue our retrospective interview series for the game’s 20th anniversary</p>
+
+    <div class="c-byline">
+  <span class="c-byline-wrapper">
+    
+      By
+      <span class="c-byline__item">
+        
+          
+          <a href="https://www.polygon.com/users/jamesmielke" data-analytics-link="author-name"><span class="c-byline__author-name">James Mielke</span></a>
+        
+      </span>
+      
+      <span class="c-byline__item">
+        
+        <time class="c-byline__item" data-ui="timestamp" datetime="2020-08-16T16:00:00">
+          Aug 16, 2020, 12:00pm EDT
+        </time>
+      </span>
+      
+      
+      
+    
+    
+  </span>
+  <span class="c-byline__gear">
+    <a data-entry-admin="21133928" data-cid="tools/entry_admin_button-1633682407_4278_115492" data-cdata='{"id":21133928}'></a>
+
+  </span>
+</div>
+
+
+  </div>
+</div>
+
+<div class="l-wrapper">
+  <main id="content" tabindex="-1" class="l-segment l-feature">
+    
+    
+<div class="c-social-buttons c-social-buttons--popover " data-cid="site/social_buttons_list/popover-1633682407_2742_115493" data-cdata='{"entry_id":21133928,"services":["twitter","facebook","reddit","pocket","flipboard","email"],"base_url":"https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans"}'>
+  <h2 class="sr-only" id="heading-label--56k7rmop">Share this story</h2>
+  <ul aria-labelledby="heading-label--56k7rmop">
+  
+    <li>
+      <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;u=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans" data-analytics-social="facebook">
+        <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+        <span class="sr-only">Share this on Facebook</span>
+      </a>
+    </li>
+  
+  
+    <li>
+      <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans&amp;text=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;url=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans&amp;via=Polygon" data-analytics-social="twitter">
+        <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+        <span class="sr-only">Share this on Twitter</span>
+      </a>
+    </li>
+  
+  
+  
+    <li data-ui="more">
+      <a class="c-social-buttons__item c-social-buttons__more" href="#" role="button" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" class="p-svg-icon c-social-buttons__svg">
+<path d="M18.4,12.9c-0.3,0-0.6,0.3-0.6,0.6V17c0,1-0.8,1.8-1.8,1.8H3c-1,0-1.8-0.8-1.8-1.8V4C1.2,3,2,2.2,3,2.2h8.4
+  c0.3,0,0.6-0.3,0.6-0.6S11.7,1,11.3,1H3C1.3,1,0,2.3,0,4V17c0,1.6,1.3,3,3,3H16c1.6,0,3-1.3,3-3v-3.5C19,13.2,18.7,12.9,18.4,12.9z"></path>
+<path d="M20.9,5.3C20.9,5.3,20.9,5.3,20.9,5.3c0-0.1,0-0.1,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0
+  c0,0,0,0,0,0c0,0,0,0,0,0l-4.6-4.6c-0.2-0.2-0.6-0.2-0.8,0s-0.2,0.6,0,0.8l3.3,3.3c-2.1-0.3-5.5-0.3-8.5,1.5
+  C7.6,7.5,5.9,10,5.2,13.5c-0.1,0.3,0.1,0.6,0.5,0.7c0,0,0.1,0,0.1,0c0.3,0,0.5-0.2,0.6-0.5c0.6-3.1,2.1-5.4,4.3-6.8
+  c3-1.8,6.7-1.5,8.5-1.2l-3.8,3.9c-0.2,0.2-0.2,0.6,0,0.8c0.1,0.1,0.3,0.2,0.4,0.2s0.3-0.1,0.4-0.2l4.6-4.6c0,0,0,0,0,0
+  c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0-0.1C20.9,5.4,20.9,5.4,20.9,5.3
+  C20.9,5.4,20.9,5.4,20.9,5.3z"></path>
+</svg>
+        <span class="c-social-buttons--label" aria-hidden="true">Share</span>
+        <span class="sr-only">All sharing options</span>
+      </a>
+    </li>
+  
+    
+  </ul>
+  
+    <div class="c-social-buttons__popover" data-ui="popover">
+      <div class="c-social-buttons__popover-header">
+        <h3 tabindex="-1">
+          <strong aria-hidden="true">Share</strong>
+          <span class="sr-only">All sharing options for:</span>
+          <span>Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call the office</span>
+        </h3>
+      </div>
+      <div class="c-social-buttons__popover-body">
+        <ul>
+          
+            
+              <li>
+                <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;url=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans" data-analytics-social="reddit">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
+<path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
+  s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
+  c0.3-0.1,0.3-0.1,0.7-0.1l0.7-3.1C8.6,2.9,8.8,2.9,9.3,3C11.1,3.5,12,3.7,12,3.7c0.2-0.3,0.5-0.3,0.8-0.3c0.6,0,1.1,0.5,1.1,1.2
+  s-0.5,1.2-1.1,1.2c-0.5,0-1-0.5-1.1-1c0,0-0.7-0.2-2.2-0.6C9.1,5.9,8.9,6.7,8.9,6.7c1.3,0.1,2.6,0.5,3.5,1.1c0.3-0.3,0.6-0.4,1-0.4
+  c0.8,0,1.4,0.7,1.4,1.5C14.8,9.4,14.5,9.9,14,10.2z"></path>
+<path d="M10.2,12.2c-0.3,0.4-0.9,0.5-1.7,0.5l0,0l0,0c-0.8,0-1.4-0.2-1.7-0.5c-0.1-0.1-0.2-0.1-0.3,0c-0.1,0.1-0.1,0.2,0,0.3
+  c0.4,0.4,1.1,0.7,2,0.7l0,0l0,0c0.9,0,1.6-0.2,2-0.7c0.1-0.1,0.1-0.2,0-0.3C10.4,12.1,10.3,12.1,10.2,12.2z"></path>
+<ellipse cx="6.6" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+<ellipse cx="10.4" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+</svg>
+                  <span class="c-social-buttons__text">Reddit</span>
+                </a>
+              </li>
+            
+          
+            
+              <li>
+                <a class="c-social-buttons__item c-social-buttons__pocket" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans" data-analytics-social="pocket">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 14" class="p-svg-icon c-social-buttons__svg">
+<path d="M14.4,0.1H2c-0.6,0-1.1,0.5-1.1,1.1v4.6c0,4,3.3,7.3,7.3,7.3c4,0,7.3-3.3,7.3-7.3V1.2C15.5,0.6,15,0.1,14.4,0.1
+  z M12.5,5.4L8.9,9C8.7,9.2,8.4,9.3,8.2,9.3C8,9.3,7.7,9.2,7.5,9L3.9,5.4C3.5,5,3.5,4.4,3.9,4c0.4-0.4,1-0.4,1.3,0l3,3l3-3
+  c0.4-0.4,1-0.4,1.3,0C12.9,4.4,12.9,5,12.5,5.4z"></path>
+</svg>
+                  <span class="c-social-buttons__text">Pocket</span>
+                </a>
+              </li>
+            
+          
+            
+              <li>
+                <a class="c-social-buttons__item c-social-buttons__flipboard" href="https://share.flipboard.com/bookmarklet/popout?title=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;url=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans&amp;v=2" data-analytics-social="flipboard">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="p-svg-icon c-social-buttons__svg">
+  <path d="M0,0v16h16V0H0z M12.9,6.4H9.6v3.2H6.5v3.2H3.2V3.2h9.7V6.4z"></path>
+  <polygon opacity="0.13" points="6.5,3.2 6.5,6.4 9.8,6.4 12.9,6.4 12.9,3.2 "></polygon>
+  <polygon opacity="0.23" points="6.5,9.7 9.7,9.7 9.7,6.4 6.5,6.4 "></polygon>
+</svg>
+                  <span class="c-social-buttons__text">Flipboard</span>
+                </a>
+              </li>
+            
+          
+            
+              <li>
+                <a class="c-social-buttons__item c-social-buttons__email" href="mailto:?subject=Phantasy%20Star%20Online%20devs%20on%20the%20story%2C%20the%20graphics%2C%20and%20the%20angry%20fans%20that%20used%20to%20call%20the%20office&amp;body=We%20continue%20our%20retrospective%20interview%20series%20for%20the%20game%E2%80%99s%2020th%20anniversary%0A%0Ahttps%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans" data-analytics-social="email">
+                  <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-email"></use></svg>
+                  <span class="c-social-buttons__text">Email</span>
+                </a>
+              </li>
+            
+          
+        </ul>
+      </div>
+      <span class="c-social-buttons__popover-caret" data-ui="caret"></span>
+    </div>
+  
+</div>
+
+    
+
+      
+
+
+
+    
+
+
+
+
+
+<div class="c-entry-content ">
+  <p class="p--has-dropcap p-large-text" id="vP9sqE">With 2020 being the 20th anniversary of Sega’s Dreamcast RPG <em>Phantasy Star Online</em>, we’re looking back with a series of interviews featuring key team members who worked on the game. Over the past three weeks, we’ve posted chats with<a href="https://www.polygon.com/interviews/2020/7/26/21332950/yuji-naka-sega-phantasy-star-online-20th-anniversary"> producer Yuji Naka</a>, <a href="https://www.polygon.com/interviews/2020/8/2/21348946/phantasy-star-online-director-diablo-cut-features-christmas-nights">director Takao Miyoshi</a>, and <a href="https://www.polygon.com/interviews/2020/8/9/21357456/composing-phantasy-star-online-music-20-years-hideaki-kobayashi">composer Hideaki Kobayashi</a>. And now we’re diving a bit deeper with a roundtable discussion with script writer Akinori Nishiyama and effects designer Takanori Fukazawa.</p>
+<p id="Aq34WC">To find out what was (and wasn’t) essential to the game, we probe Nishiyama on his role in <em>PSO</em>’s development, suggestions from producer Yuji Naka that he soundly ignored, and regrets he may have 20 years after the fact. </p>
+<p id="attRNA">Meanwhile, Fukazawa describes what it was like to work in a near-vacuum from other parts of the team, giving us insight to the working styles of Japanese game developers in the ’90s. </p>
+<p id="Exg4Ki"><strong>Considering the scope of the game, it’s impressive how you were able to synchronize your team back then, creating everything from user interface to user experience, and to do it with a relatively modest team size. What do you attribute that success to?</strong></p>
+<p id="zOsERW"><strong>Akinori Nishiyama: </strong>As you know, the genesis of <em>PSO</em> was rooted in Diablo, and the producer wanted to make something along the lines of a console version [of Diablo] for Dreamcast. Even though <em>PSO</em> may look primitive by today’s standards, it was quite groundbreaking for its time, and the timing at which they decided to release the game was optimal because Diablo<em> </em>was already out [and had established the style of game], every Dreamcast had a modem equipped inside, etc.</p>
+<p id="U3veR5">To explain the origins of the team members more clearly, before working on <em>PSO </em>we all worked on <em>Sonic Adventure</em> together, about 120 people. For a single title, there was a lot of talented people attached to it. There were many staff members with director-level skills. </p>
+<p id="y3lLYU">We developed <em>Sonic Adventure</em> and then the team split up into various projects, and one of the projects eventually became <em>PSO</em>. Before the game became <em>PSO</em>, [Sonic Team was] having trouble finalizing the concept, and people who left to work on other projects were brought back to help with the <em>PSO</em> project. When I was brought back to help, they hadn’t begun to build the universe or the scenario or quests, or construct any of the city levels, so that’s what I ended up working on. Another thing I handled was how the player progresses through the game. For example, the player can complete three levels, but has to go back to the initial stage to unlock the fourth stage. Things like that.</p>
+<p id="tG6goW">I guess the success of <em>PSO</em> was rooted not necessarily in the leadership of the game, but because <em>Sonic Adventure</em> had a lot of talented people on the team, so there was a lot of combined experience going into development. </p>
+<p id="7DDO1S">Even before <em>PSO</em>, I had handled similar responsibilities on other projects. So it was fate or destiny, whatever you want to call it, that I was put on this project to do similar things for <em>PSO</em>. But it was only until after certain Sonic Team members came back onto the project that it really took off. I wouldn’t have said this back in the day, but it was luck that the various collective expertise that the game needed to succeed all converged on the project at the right time to bring the game together.</p>
+<div class="c-wide-block">  <figure class="e-image">
+  <span class="e-image__inner">
+    
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1633682407_7098_115494" data-cdata='{"asset_id":21761532,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/d8fluZ5HU7R6plq7pUdguNJZOQk=/0x0:2000x1047/320x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 320w, https://cdn.vox-cdn.com/thumbor/s6b3LPxtyLpL4d2WDP4w3i5hk7Q=/0x0:2000x1047/520x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 520w, https://cdn.vox-cdn.com/thumbor/MKmL06ewLEoCeRWuoMxqZ978h1o=/0x0:2000x1047/720x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 720w, https://cdn.vox-cdn.com/thumbor/Z1_-GZRNR8n9ir_onDCH1o5kFrk=/0x0:2000x1047/920x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 920w, https://cdn.vox-cdn.com/thumbor/JNccaxrTXA8rJ_OE3lpySVEAySI=/0x0:2000x1047/1120x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1120w, https://cdn.vox-cdn.com/thumbor/AqGpZRFPkMhpzOZR6ZMHmy7vP7k=/0x0:2000x1047/1320x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1320w, https://cdn.vox-cdn.com/thumbor/wyNOLqnJlcfKnb8MQAgqYOCfu6o=/0x0:2000x1047/1520x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1520w, https://cdn.vox-cdn.com/thumbor/bGgoZUdTHF7Feo1QpXoAgUHmrJQ=/0x0:2000x1047/1720x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1720w, https://cdn.vox-cdn.com/thumbor/P0gb_fHAIPbTA8m8rXWgBULgPrk=/0x0:2000x1047/1920x0/filters:focal(0x0:2000x1047):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1920w" sizes="90vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/0ft7gLoAETz3vBETNyUTISWC_DI=/0x0:2000x1047/320x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 320w, https://cdn.vox-cdn.com/thumbor/nmDLTxQlibPdcS-soVIKnw4SwDA=/0x0:2000x1047/520x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 520w, https://cdn.vox-cdn.com/thumbor/g1UmhoHgD4j6TEjYlZx6Jzzx5zI=/0x0:2000x1047/720x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 720w, https://cdn.vox-cdn.com/thumbor/epwnQNdCe9ncFasR-avCOM8pInY=/0x0:2000x1047/920x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 920w, https://cdn.vox-cdn.com/thumbor/VfIOo2WDbJJkwmnoRlh_rtfejss=/0x0:2000x1047/1120x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1120w, https://cdn.vox-cdn.com/thumbor/h6sVEhl3SDmjZDmSGQXSWTD80Q8=/0x0:2000x1047/1320x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1320w, https://cdn.vox-cdn.com/thumbor/Zvq7mzVrqRUbf7Ennu3467_u_g0=/0x0:2000x1047/1520x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1520w, https://cdn.vox-cdn.com/thumbor/L6lJP3XklvGqbe5-55XIFiQ7JOo=/0x0:2000x1047/1720x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1720w, https://cdn.vox-cdn.com/thumbor/PIzhENWn99J7mZ086-hfLE17psc=/0x0:2000x1047/1920x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg 1920w" sizes="90vw" alt="Two game developers look over a table covered in different versions of Phantasy Star Online" data-upload-width="2000" src="https://cdn.vox-cdn.com/thumbor/7QFpD8upetOrx253UWMqeQmBMhQ=/0x0:2000x1047/1200x0/filters:focal(0x0:2000x1047):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761532/Akinori_Nishiyama_Takanori_Fukazawa.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+        <figcaption>Akinori Nishiyama (left) and Takanori Fukazawa (right)</figcaption>
+      
+      
+        <cite>Photo: James Mielke for Polygon</cite>
+      
+    </span>
+  
+</figure>
+
+</div>
+<p id="6XmSld"><strong>Even though it’s Phantasy Star-themed, there wasn’t an overt effort to bring the past lore of Phantasy Star games into </strong><em><strong>PSO</strong></em><strong>. The Phantasy Star series provided the background and world, but other than that, what were the guidelines for bringing elements over into </strong><em><strong>PSO</strong></em><strong> from the original series? And what were you told to ignore or leave out?</strong></p>
+<p id="AruGX0"><strong>Nishiyama:</strong> In the first <em>Phantasy Star</em>, there’s a female character [Alis Landale, the protagonist of the original <em>Phantasy Star</em>] that challenges Dark Falz, the final boss of the game. Some of the <em>PSO</em> character designs, such as Rico Tyrell, aka Red Ring Rico, take after that motif. </p>
+<p id="8Sw8x8">Initially, <em>PSO</em> was not a Phantasy Star game, but partway through the development [Yuji] Naka decided that the game should be a Phantasy Star game. That was about the time I joined the team, and at the time, there weren’t any Phantasy Star elements in the game. A lot of the Phantasy Star elements were up to me, and I took the initiative to incorporate them into the game. </p>
+<p id="atYNkN">A lot of the motifs of the Phantasy Star games were galactic and planetary references, so I incorporated those. There are three seals that we brought over from the original Phantasy Star games. The types of dungeons that are in the game were inspired by prior games. How to take on and accept quest missions is also something from the Phantasy Star series. Those elements were from the main scenario and were adapted, as well. I haven’t actually played the original Phantasy Star games, so I can’t visualize the game myself.</p>
+<p id="SWnnvP"><em><strong>PSO</strong></em><strong> is almost 20 years old, and when you developed the game, you were both in very different parts of your lives. We’re coming up on two decades since the game’s release. Looking back, how do you feel about the experience now?</strong></p>
+<p id="sJMAfi"><strong>Nishiyama:</strong> My impression is that we challenged ourselves to do something new. The Dreamcast, at the time, shipped with a modem installed, but nobody had come up with the idea to make an online role-playing game. It didn’t occur to me that it was something “new.” It was a groundbreaking idea, but I didn’t understand this fully at the time and was just scrambling to make the game. To look back now — and I find myself doing so quite often — I realize that I got to work on a truly pioneering game, and it makes me very proud. There’s been a lot of online RPGs since then, but I feel proud that I was able to work on the very first online RPGs for consoles. [...]</p>
+<p id="1uGJgN">Before working on <em>PSO</em>, I had personally never played an online game, and I made assumptions about what online games consisted of, making it up as we made the game. Nowadays, I play online games on consoles and on my cellphone, and have been making online games [at Sega]. In order to keep players engaged with the game, it’s common sense now to provide additional content, downloadable content, etc. after the release of the game. But at the time, it didn’t occur to me that that was necessary. To me, <em>PSO</em> was a whole, complete game, and I had written the scenario in such a way that the game included an ending to the story within the packaged product. </p>
+<p id="VImvt0">In Japanese, we say “kishoten-ketsu.” It refers to the structure of a narrative. I wrote the scenario so that as you progress through the story, the tension builds and there’s a climactic ending. One day, Naka came to me and said that they were going to add an update to the game that would take place between stages three and four. So I had to come up with a new stage in the middle of the game. I was stubborn at the time and resisted, explaining that I had strategically structured the story and couldn’t just throw another stage into it. I remember getting in a fight with Naka over it. In hindsight, I should have just added something and accepted that added content was necessary to keep the players interested in the game. Nowadays, it’s just common sense, and I wonder why I couldn’t see that. So, <em>that </em>happened.</p>
+<p id="TZrur0"><strong>Do you consider </strong><em><strong>PSO </strong></em><strong>complete?</strong></p>
+<p id="XmbGfO"><strong>Nishiyama:</strong> As a packaged game, yes, the story is complete. But there was <em>PSO Episode 2</em>, where we added a new story, new content, etc. Separate to that, though, [Naka] wanted me to add that additional stage between stages three and four to <em>PSO</em>.</p>
+<div class="c-float-right c-float-hang"><aside id="QcS9WF"><q>“At the time, JRPGs were simplified to pressing a button and advancing through the game, and we realized that the JRPG style wouldn’t work for an online game like <em>PSO</em>.”</q></aside></div>
+<p id="KxkLpm"><strong>Takanori Fukazawa:</strong> And I don’t think we put it in.</p>
+<p id="N6rXbE"><strong>Nishiyama:</strong> No, we didn’t, but in hindsight, I think I probably should have in order to provide new content to the consumers. I regret that I didn’t.</p>
+<p id="ls0JEY"><strong>Fortunately, consumers don’t know what they’re missing. At least until they read this.</strong></p>
+<p id="936t5y"><strong>Nishiyama:</strong> True. I think my point is that, in hindsight, there are things which I would have done differently or changed if I knew the things I know now.</p>
+<p id="c0btVG"><strong>How much Diablo</strong><em><strong> </strong></em><strong>did you have to play?</strong></p>
+<p id="Gg2Ene"><strong>Nishiyama:</strong> I didn’t play too much. Setsumasa and his team, the director, and the planning division were the ones who played a lot. I remember they were playing it a lot.</p>
+<p id="JTLymI"><strong>Fukazawa: </strong>At the time, we were using an internal chat system called ‘News’ to communicate internally. And I remember Setsumasa was pissed off that we hadn’t played <em>Diablo</em> yet, and called us out on it on News. He was like, “If we’re going to make online games, we need to play online games.” Right?</p>
+<p id="gjFqkU"><strong>Nishiyama:</strong> Of course. [<em>laughs</em>]</p>
+<p id="Ykn8ur"><strong>Fukazawa: </strong>So, unable to argue that, I remember going to buy the game right away. I played <em>Diablo 1</em> and <em>2</em> quite a bit, even outside of work.</p>
+<p id="GVUdBn"><em><strong>Diablo 2</strong></em><strong> is significantly better than the first. What were the best parts of</strong><em><strong> Diablo 2</strong></em><strong> that you liked the most from playing the game?</strong></p>
+<p id="dGHu0n"><strong>Fukazawa: </strong>I liked playing as the Necromancer the most because you can use a bunch of zombies. I particularly like that kind of gameplay, and the animations were really cool.</p>
+<p id="k1tZVX"><strong>One of the things that’s different between Diablo</strong><em><strong> </strong></em><strong>and </strong><em><strong>PSO</strong></em><strong> is that </strong><em><strong>PSO</strong></em><strong> doesn’t really have big crowd control techniques. In Diablo,</strong><em><strong> </strong></em><strong>if you’re a sorceress, you can freeze dozens of enemies and make them more manageable to attack, little bit by little bit. But because of the network limitations of the Dreamcast, there weren’t that many enemies at once. You’re only dealing with a few enemies at a time; you’re dealing with things on a much more micro level.</strong></p>
+<p id="5bdeA8"><strong>Fukazawa: </strong>But, depending on the player, if they’re playing as a Force class, they can use techniques to defeat enemies quickly.</p>
+<p id="OFaYhc"><strong>Yes, there’s Gibarta, the ice spell, and other elemental attacks, but since the number of enemies is more limited than in Diablo, you don’t need a huge area of effect. This question is for Nishiyama. Did the team give you parameters to work around? Did they tell you they needed, say, eight areas per quest, and each one had to last about half an hour, etc.? How did you go about shaping the narrative flow?</strong></p>
+<p id="918D8U"><strong>Nishiyama:</strong> As I mentioned, I joined the team partway through development. When I joined the team, a lot of the game hadn’t been finalized, but we did know that we wanted to make a Phantasy Star game, so we knew that the game would involve going to dungeons and cities, etc. So, in crafting the scenario, we thought about what would motivate players to keep playing.</p>
+<p id="sGQRqa">Another thing that we were conscious of was that, at the time, JRPGs were simplified to pressing a button and advancing through the game, and we realized that the JRPG style wouldn’t work for an online game like <em>PSO</em>. So we wanted to figure out a gameplay system where people would use their specific abilities and their skills as players to progress through the game. We needed to come up with scenarios that commemorated and pushed players to want to undergo those challenges. So, that’s how the game’s overall loop was decided. </p>
+<p id="LnLKcl">Now that I mention it, doesn’t it sound like <em>Wizardry</em>?</p>
+<div class="c-wide-block">  <figure class="e-image">
+  <span class="e-image__inner">
+    
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1633682407_2013_115495" data-cdata='{"asset_id":21761533,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/Up7zIJqWa6XRiaj-SnuLikDjUHI=/0x0:1280x905/320x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 320w, https://cdn.vox-cdn.com/thumbor/ZqfeLWltYiEjx6B_0YS545jjBz0=/0x0:1280x905/520x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 520w, https://cdn.vox-cdn.com/thumbor/oW23LBwhN_-9DwpYyuyvdii8t2E=/0x0:1280x905/720x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 720w, https://cdn.vox-cdn.com/thumbor/7ZNzAaGBB9MLrbvGi6tOquuv-lU=/0x0:1280x905/920x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 920w, https://cdn.vox-cdn.com/thumbor/E-HGQwyCcFqjJu10T114XETBM18=/0x0:1280x905/1120x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1120w, https://cdn.vox-cdn.com/thumbor/Q2oYI9lSSmz1jNVJxpY5ZJJrNas=/0x0:1280x905/1320x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1320w, https://cdn.vox-cdn.com/thumbor/j0NiKIWSzi549HtB86qZQkd-MdE=/0x0:1280x905/1520x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1520w, https://cdn.vox-cdn.com/thumbor/SAMv4ASqyNEBeD3YSShmGh9fNOM=/0x0:1280x905/1720x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1720w, https://cdn.vox-cdn.com/thumbor/n1gZVHTKGQP-bWpddJjedN1kpaM=/0x0:1280x905/1920x0/filters:focal(0x0:1280x905):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1920w" sizes="90vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/FTA7DF2p5kBB1AV5IPFPLa1hmzw=/0x0:1280x905/320x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 320w, https://cdn.vox-cdn.com/thumbor/Si1IFLeIJBt3LjuPrmFT2VqGwjI=/0x0:1280x905/520x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 520w, https://cdn.vox-cdn.com/thumbor/9lUWLzDQCNuXrhtyx_bjfPc_9ro=/0x0:1280x905/720x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 720w, https://cdn.vox-cdn.com/thumbor/qaxdVseYPngt0UEduuUyx_-VWr0=/0x0:1280x905/920x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 920w, https://cdn.vox-cdn.com/thumbor/7GdojT0iri5yWp6NK75ODSPb4jU=/0x0:1280x905/1120x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1120w, https://cdn.vox-cdn.com/thumbor/gVAOjCehoSMQ-n8WWDHD99L85iw=/0x0:1280x905/1320x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1320w, https://cdn.vox-cdn.com/thumbor/fvhdDvFQTnWwS0GcfQG8YT70qsI=/0x0:1280x905/1520x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1520w, https://cdn.vox-cdn.com/thumbor/VQoRQYg6of0hJI8w3KS8JCI_J_Y=/0x0:1280x905/1720x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1720w, https://cdn.vox-cdn.com/thumbor/soit6xXdaRc9BhDiuxtkbDE4ekU=/0x0:1280x905/1920x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg 1920w" sizes="90vw" alt="Four anime-looking sci-fi characters pose while standing next to one another" data-upload-width="1280" src="https://cdn.vox-cdn.com/thumbor/30m4VG91Cb0oS_yAzEQmaozkTgM=/0x0:1280x905/1200x0/filters:focal(0x0:1280x905):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761533/PSO_artwork.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+        <figcaption>
+<em>Phantasy Star Online</em> artwork</figcaption>
+      
+      
+        <cite>Image: Sega</cite>
+      
+    </span>
+  
+</figure>
+
+</div>
+<p id="blhVv9"><em><strong>PSO</strong></em><strong> has a very different visual style and very different character design.</strong></p>
+<p id="U7X2oK"><strong>Nishiyama:</strong> Yeah, not the style, but the game’s structure is similar in that there’s a single town and dungeon that you go to repeatedly, and the boss character lies underneath, etc. We had to think, <em>What kind of scenario matches that gameplay and encourages players to keep playing?</em> And, obviously, on top of that, when you’re playing through all those dungeons, you need to think of the kinds of items that the player can collect. </p>
+<p id="BQIZ2x">So we wanted to strike a balance between the scenario and gameplay. And being an online game, you want to be able to show off the weapons and characters to other players, like, “Hey, look what I have. My character is so strong.” Right? I think that was the main appeal of <em>PSO</em>. That’s what the players enjoyed, and that’s what I liked about <em>PSO</em>, too. So I didn’t want the scenario to block that aspect of the game. </p>
+<p id="MpxjUp"><strong>That said, some of the scenarios were deliberately ridiculous. Early in the game, you’d go up to a character who would give you a quest by saying, “I’m really starving for this type of food that can only be found on this planet. Can you go get me that food?” These quests could take a </strong><em><strong>long</strong></em><strong> time, too. How did you balance the ridiculous quests with the more serious quests?  </strong></p>
+<p id="iZ579T"><strong>Fukazawa: </strong>[<em>laughs</em>] Yeah, we had a few of those ridiculous quests. We had the main “serious” quests, and some funny ones to add variety. Like, some quests didn’t require the player to go down into the dungeons at all, and could be completed in the town. I was given a lot of freedom to come up with scenarios and quests, so there’s quite a bit of variety in the types of quests that are in the game.</p>
+<p id="1izjpk"><strong>Did anyone from the team, like Yuji Naka, or the director, Takao Miyoshi, ever stop you or ask, “What is this stuff?” Did they ever stop any scenarios that were too ridiculous?</strong></p>
+<p id="ZKhX07"><strong>Fukazawa: </strong>No, not at all. I got feedback on some of the wordings of the scenarios, like “maybe you shouldn’t word it so harshly.” But I felt that took away from a character’s personality and qualities that make a character appealing to the players, so I never made those changes. </p>
+<p id="Tdu7KK">Like I said earlier, we were a team of experienced developers who were brought on as experts in what we did. We each made the game in the way that we felt best fit the style of game. So, Naka and Miyoshi trusted us to make the right judgments in our areas of expertise. I think that’s what really led to making a good game.  </p>
+<p id="ZDRRCi"><strong>Did you decide which bosses the designers or programmers would implement, or would someone else make those choices?</strong></p>
+<p id="j9VhCl"><strong>Nishiyama:</strong> In terms of the bosses, I came up with the names of the boss characters, but it was up to the programmers to decide how the battles progressed or were fought.</p>
+<p id="khhvlm"><strong>So something like the Pan Arms [enemies who initially join together as one, and then split up during battle] were things the programmers would design?</strong></p>
+<p id="2bvkie"><strong>Nishiyama:</strong> No, I would get a list of the types of characters from the game planners. For that character, I was told that there’s a character that splits into two halves. So I came up with the names, “Lefty” and “Righty.” I came up with their names and personalities, etc. At the time, I was certain that the players wouldn’t get the joke or accept it but ...</p>
+<p id="iZSqL1"><strong>Fukazawa: </strong>Now the names fit the characters.</p>
+<div class="c-float-right c-float-hang"><aside id="bVMIPK"><q>“I was told that there’s a character that splits into two halves. So I came up with the names, ‘Lefty’ and ‘Righty.’”</q></aside></div>
+<p id="laSpS4"><strong>Who’s the most important character in </strong><em><strong>PSO Episode 1</strong></em><strong> or </strong><em><strong>2</strong></em><strong>? Red Ring Rico? </strong></p>
+<p id="8GJkns"><strong>Nishiyama:</strong> Like you mentioned, I think Red Ring Rico is probably the most important character. You do meet her at the end. Her body is taken or consumed by Dark Falz, so Dark Falz is Red Ring Rico. Dark Falz is like a spirit that lives off of other bodies, so he possesses Red Ring Rico’s body. People who read the messages from Red Ring Rico can discern that Dark Falz is actually Red Ring Rico.</p>
+<p id="ssSHFh"><strong>She’s kind of an abstract concept because you never encounter her outside of the messages she leaves all over the place. Especially when you’re focusing on fighting the monsters in each area, Rico’s sporadic messages might be challenging to contextualize.</strong></p>
+<p id="yY1GgU"><strong>Nishiyama:</strong> And that’s fine. I think that’s the players’ prerogative. If they want to read them, they can, and there are also clues on how to play in those messages. The player can ignore them and figure out the game on their own, but they also might find tips on how to beat enemies easily. The people who read Rico’s messages will discover what happens to her at the end, but people who don’t, don’t ... that’s fine. I made it so that it can be enjoyed either way.</p>
+<p id="OT204R">The reason being: Like I said earlier, I didn’t want to make a game that was centered around the scenario of the game. It’s a game that revolves around the player’s progression. The progression of the game is rather simple. The player presumes that there’s a boss character at the bottom of every level. So, you can keep defeating enemies until you reach the end. That’s one way to enjoy the game. But, for people who take the time to read Rico’s messages, the player begins to want to save Rico, because she is lost and needs help. At least, that’s how we hoped people would begin to feel. </p>
+<p id="M7G01o">But as the player progresses and reads all the messages, they should conclude right before they encounter the main boss at the end that the last boss is, in fact, Rico. Then the player should have a sense of doubt about whether they should defeat that final boss. [...] The way the player enjoys the game is up to them, and it was purposely open-ended.</p>
+<p id="8K8Ezj"><strong>Question for Fukazawa: Who were you reliant on to do your part? Did you have to run your designs by anyone? Were you deeply involved in the icon chat creation?</strong></p>
+<p id="hcQ3ij"><strong>Fukazawa:</strong> I didn’t rely [on] or ask for consensus from other people, really. I was working on the technique effects [<em>Ed. note: elemental spells</em>]. The icons for the techniques were just based on their physical properties. It’s not that I didn’t get along with others. [<em>laughs</em>] It’s just that I don’t remember collaborating with other members on making icons.</p>
+<p id="EimFX6"><strong>What was the team’s reaction when they saw your technique effects in action? </strong></p>
+<p id="hAQMQo"><strong>Fukazawa:</strong> Ahh, there was no reaction.</p>
+<p id="vuNMEs"><strong>No reaction?</strong></p>
+<p id="BXN5JY"><strong>Fukazawa:</strong> Oh, Sakai would see and approve my work, but I didn’t get any feedback from the rest of the team. The Sonic Team of 20 years ago was a pack of lone wolves, each doing their own thing. Nowadays, the director has a say in all the minute details of game development, but back in the day, it was more like piecing together each artist’s work. So, if Sakai approved it, it was good to go.</p>
+<p id="YA8FCC"><strong>It’s amazing that </strong><em><strong>PSO</strong></em><strong> is so cohesive, because it sounds like this approach could have led to a Frankenstein of a game.</strong></p>
+<p id="pnJQQl"><strong>Fukazawa:</strong> Once everyone was on the same page about what the game would be, and how it would end up, it was clear to each person how the game needed to come together. I think that’s why everything came together well.</p>
+<p id="WtXra3"><strong>Did you have any input into game mechanics such as the Red Box loot drop, or even game design elements, like how certain classes like CASTs could see invisible traps around the environment?</strong></p>
+<p id="N4Uemk"><strong>Fukazawa:</strong> We weren’t involved with balancing the game, but we did do bug checks and testing. The traps were separate from the scenario, and the battle team worked on those. Although I would look at the traps and how the stages were coming together, and decide to insert hints where they would be appropriate. </p>
+<p id="Qxo6wN"><strong>What was the most challenging technical aspect of the development of </strong><em><strong>PSO</strong></em><strong>?</strong></p>
+<p id="w6Ipqk"><strong>Fukazawa:</strong> In terms of challenges surrounding the effects, the biggest issue was that I didn’t have as many tools as we do today. We had a program called an “editor.” Today, we have standardized programs for making effects or user interfaces in games; programs used at any game development company. But back in those days, we had an internal program for effects, and it was still new, and the features on the program weren’t great. It was tough creating even just one effect. And the editor for creating a user interface was nonexistent. Now, we can just cut and paste the textures from any background and create icons in the editor. But back then, we didn’t have a proper editor, so we would have to tell the programmer specifically which 10x10 pixels I wanted cut out and placed in a specific location.</p>
+<p id="mOoBQI"><strong>Did you do the programming yourself, or did you direct the programming team on what you wanted?</strong></p>
+<p id="zFpyJW"><strong>Fukazawa:</strong> No, I didn’t do any of the programming. I just made the particle assets — for example, the flames in fire techniques. Then, I would give those assets to the programmers to program them into the game.</p>
+<div class="c-wide-block">  <figure class="e-image">
+  <span class="e-image__inner">
+    
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1633682407_6982_115496" data-cdata='{"asset_id":21761534,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/1if5VgH4bw3muZBXx27QTqlZJYU=/0x0:2000x1052/320x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 320w, https://cdn.vox-cdn.com/thumbor/3496vLbaOuSyTsgE0FtBD4emKho=/0x0:2000x1052/520x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 520w, https://cdn.vox-cdn.com/thumbor/s4kHgPOKIbRdI4VCiqT5Dyxpk1k=/0x0:2000x1052/720x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 720w, https://cdn.vox-cdn.com/thumbor/akuXhWq8STORvAb8r1bSJC1Fx8o=/0x0:2000x1052/920x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 920w, https://cdn.vox-cdn.com/thumbor/X1obuM2rdTMqFEVmK_xILW8E0W8=/0x0:2000x1052/1120x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1120w, https://cdn.vox-cdn.com/thumbor/s_H4GuUiR8c9Mp9CY6ma54jwlXY=/0x0:2000x1052/1320x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1320w, https://cdn.vox-cdn.com/thumbor/Gi-Z8qpnlYmOjqby3RzCxRoXqbY=/0x0:2000x1052/1520x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1520w, https://cdn.vox-cdn.com/thumbor/qCsKMMMTJSqwmGFWEfX8z_oAjz0=/0x0:2000x1052/1720x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1720w, https://cdn.vox-cdn.com/thumbor/mK0V6M6VVaSgVon5g1VCQE6S7RQ=/0x0:2000x1052/1920x0/filters:focal(0x0:2000x1052):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1920w" sizes="90vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/OSCsRfCbT6Uj7YfmG-J8A5OGnOw=/0x0:2000x1052/320x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 320w, https://cdn.vox-cdn.com/thumbor/Rssq-MBMXuWmz9vb4rVPz9r52_0=/0x0:2000x1052/520x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 520w, https://cdn.vox-cdn.com/thumbor/B8FuQ_2Q_snYtGFcAXVJOt057gk=/0x0:2000x1052/720x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 720w, https://cdn.vox-cdn.com/thumbor/rTfigR1f-ACjKKZhOfdgKM2xhjw=/0x0:2000x1052/920x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 920w, https://cdn.vox-cdn.com/thumbor/8u3DI5ZDQefNoudO_NPoM3OVa2U=/0x0:2000x1052/1120x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1120w, https://cdn.vox-cdn.com/thumbor/F6u1ZIuIgtD_pT96KFEU6HjUez0=/0x0:2000x1052/1320x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1320w, https://cdn.vox-cdn.com/thumbor/auaflevdeEqPwmMBY6ZY4DoFrl4=/0x0:2000x1052/1520x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1520w, https://cdn.vox-cdn.com/thumbor/ux3xMx2ojJaYYuI44j806f7g30k=/0x0:2000x1052/1720x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1720w, https://cdn.vox-cdn.com/thumbor/vptOixElUVUWG-n6WYYdcheIomQ=/0x0:2000x1052/1920x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg 1920w" sizes="90vw" alt="An anime-looking girl with pointy ears looks at the reader" data-upload-width="2000" src="https://cdn.vox-cdn.com/thumbor/mil8_fgkbc9DYmY1i4ckWigAh2I=/0x0:2000x1052/1200x0/filters:focal(0x0:2000x1052):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21761534/PSO_artwork_2.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+        <figcaption>
+<em>Phantasy Star Online</em> artwork</figcaption>
+      
+      
+        <cite>Image: Sega</cite>
+      
+    </span>
+  
+</figure>
+
+</div>
+<p id="Azg4PM"><strong>What would you say was your best work?</strong></p>
+<p id="qjd4Sh"><strong>Fukazawa: </strong>Umm ... when your character dies, you can see the spirit leave the body. I think that was well done. The character falls to the ground, and you can see the spirit flutter away. You can still chat within the game, like “help me.” I think that’s my favorite. </p>
+<p id="Zxl8h4"><strong>Nishiyama:</strong> As you know, we had an in-game visual chat system, and from the early concepts, Naka wanted the chat system to allow players from around the world to talk to each other. Since it was a game that allowed for global communication, he announced that the game was going to be a simultaneous global release. At the time, a simultaneous global release was unimaginable. Releasing it in Japan first, then localizing it for overseas release, was the standard practice at the time. Today, we plan for global releases from the very beginning, and plan accordingly as the development progresses and we build the necessary tools. But at the time, nothing like that was in place.</p>
+<p id="RWNenB">We had to prepare for the five EFIGS languages: English, French, Italian, German, and Spanish. We first made it in Japanese, then localized to English, and then sent the English text to Sega Europe to get it translated into the remaining four languages, which were then incorporated into the game back in Japan. Was the development schedule written with time budgeted for localization, you might ask? No, it wasn’t. The development schedule barely allowed for the completion of the Japanese version, let alone localization. [<em>laughs</em>]</p>
+<p id="XmfrhM">I was in charge of all the text regarding the scenario, so I also handled who was going to localize the text, how we were going to incorporate the translated text, and making sure the text was correct. Of course, we weren’t allotted extra time for revisions, and I had to make sure that the text didn’t cause any bugs in the system that might delay the approval process, so there was a lot of stress around getting it all correct with the first pass. It was really stressful.</p>
+<p id="ClLBJG"><strong>Do you have any opinion about the English localization of the script and how the story read in English?</strong></p>
+<p id="MDEnIU"><strong>Nishiyama:</strong> To be honest, I didn’t have the luxury to worry about the quality of the localization. I didn’t have the time to read and check the localized text for accuracy. One thing I can add is that German text is longer than the other languages. English is pretty short in comparison, but German text is long, and we had difficulty fitting the text within the text limitations.</p>
+<p id="zzT1Bt">I am actually a big fan of Sherlock Holmes, and a lot of the text that I write in Japanese contains allusions to Sherlock Holmes, like “yellow face” and “silver blaze” from Sherlock Holmes titles. But I don’t know if those references got translated correctly into the localization, so I don’t know if the players overseas saw that connection as well as Japanese players did. [...]</p>
+<p id="KlsjNw">Ideally, I would have had the time to make sure those references were localized and presented in the game correctly.</p>
+<p id="MPwTyL"><strong>Is there an example that you can point to?</strong></p>
+<p id="PitcD4"><strong>Nishiyama:</strong> For example, there’s a [Sherlock Holmes] book called <em>The Hound of the Baskervilles</em> that I make reference to, and in the game, it’s written as “The Dog of Baskerville” or something like that. So there’s enough there in the localization for me to make the connection, but I don’t know if the people who localized the text understood that reference and were able to keep the homage intact. I mean, it’s not that I care <em>that much</em>. It’s not a huge deal, but just something I have wondered.</p>
+<p id="pSd0mb"><strong>Do you have any standout memories of the development process?</strong></p>
+<p id="KLqz44"><strong>Fukazawa:</strong> Loads. [<em>laughs</em>] There’s a story that conveys the passion and commitment we saw from the players toward the game. It was our first online game, and we had issues where items would disappear. We had users sit outside the Sega offices in protest, demanding that we give them their lost items.</p>
+<p id="YckzkF"><strong>Items that disappeared from inside the game?</strong></p>
+<p id="doPWaj"><strong>Fukazawa:</strong> There were people who got items swiped by other players because they didn’t get to the item fast enough when the item dropped. And we got many complaints that nothing dropped. They would demand that we return the item, or return the hours it took to try to get the item.</p>
+<div class="c-float-right c-float-hang"><aside id="0fbPyz"><q>“Sega is not very good at managing its IPs, so if we were to bring together the same members, their thought process would be that it would be better to try making something new than to remake an old game.”</q></aside></div>
+<p id="WW2ASx"><strong>Wow.</strong></p>
+<p id="3UbEyG"><strong>Fukazawa:</strong> We also had people calling the office and somehow getting past our customer support center. Because it was our first online game, we had a lot of callers complaining about the game. I don’t know if the person at customer service didn’t have the answer and patched them through, or just gave them our extension; it’s still a mystery how they got through to the dev team’s phone, but I happened to answer a phone call from one of the users. They were really upset, but I somehow got them to calm down and hang up. Still, I got to experience firsthand the customer’s passion toward the game.</p>
+<p id="OmcKZe"><strong>That’s amazing.</strong></p>
+<p id="SjRns7"><strong>Fukazawa: </strong>It’s unacceptable now for items to go missing, but the system was still imperfect, and it’s regretful that we had released a game that had items disappearing. But that was the situation at the time.</p>
+<p id="sNNpoV"><strong>Did you work on </strong><em><strong>Phantasy Star Online Episode 3</strong></em><strong>?</strong></p>
+<p id="5wiIgQ"><strong>Nishiyama: </strong><em>CARD Revolution</em>? No, I wasn’t involved.</p>
+<p id="7q1NJ5"><strong>Fukazawa:</strong> I think I was the only one involved with <em>PSO 3</em>.</p>
+<p id="27KgWT"><strong>Going from </strong><em><strong>PSO Episode 1 &amp; 2</strong></em><strong> to </strong><em><strong>PSO 3</strong></em><strong> was a pretty big shift, to be honest. Do you have any last funny stories or memories about working on the game?</strong></p>
+<p id="7E9zP2"><strong>Nishiyama:</strong> Hmm. There are too many.</p>
+<p id="K51tfJ"><strong>Then one last good one.</strong></p>
+<p id="ZLwkMe"><strong>Nishiyama:</strong> I really struggled with the Symbol Chat system.</p>
+<p id="2obrlM"><strong>It was a very creative system because people could create original content; like memes today, players could layer content in the image. They were like emoji.</strong></p>
+<p id="XwHCS8"><strong>Nishiyama:</strong> Yes. Like emoji. We really struggled to figure out what it should look like. This was before YouTube, and Sakai sent me to go buy reference material. He said, “Don’t worry about the cost of the material. Just go buy books that you can use as reference.” So I went to all kinds of bookstores and got some books on pictograms. I remember very clearly going to buy those reference materials. Nowadays, we just look stuff up online, and we don’t buy books for reference. I just remember coming back to the office with a pile of books in both arms. That was probably the first and last time.</p>
+<p id="ZbQjoe"><strong>AOL Instant Messenger was probably the best reference back then.</strong></p>
+<p id="FBA9Z9"><strong>Fukazawa:</strong> I don’t even remember what we used back then. Of course, we didn’t have the conveniences we have nowadays, so I didn’t even know where to start or what to reference.</p>
+<p id="eDx738"><strong>Symbol Chat was so robust. People could resize things, move things around; this was the very first system of its kind. Did you ever see things you didn’t expect users to come up with?</strong></p>
+<p id="0NksOI"><strong>Fukazawa:</strong> So many. You can use the Function key on the keyboard to scroll through the images that you’ve made. There was someone who made an animation using Symbol Chat [by scrolling quickly on the Function key].</p>
+<p id="KvSiMJ"><strong>Like a flipbook.</strong></p>
+<p id="QZXf9s"><strong>Nishiyama:</strong> Also, we had people create elaborate images of famous anime characters. Which was really impressive, because they made them out of very basic shapes, like circles, squares, and straight lines.</p>
+<p id="NFbKSj">We made the Symbol Chat thinking people were going to use it to communicate simple things like “hello” or “help” and whatnot. We never imagined that people were going to make such elaborate drawings and expressions with this small feature.</p>
+<p id="KpaLCs"><strong>I know that there’s a lot of people who would be interested in playing the game today. What do you think about bringing </strong><em><strong>PSO</strong></em><strong> to the new platforms like tablets, Switch, and phones? [Ed. note: Although the official </strong><em><strong>Blue Burst</strong></em><strong> servers no longer exist, fan-run sites still do.] With the 20th anniversary coming up, now might be a good time to consider porting it to a new system.</strong></p>
+<p id="kLUJFT"><strong>Nishiyama:</strong> Are there people who want to play the original <em>PSO</em>?</p>
+<p id="mTb4JA"><strong>Sure. Lots.</strong></p>
+<p id="u2OroV"><strong>Fukazawa:</strong> Sega is not very good at managing its IPs, so if we were to bring together the same members, their thought process would be that it would be better to try making something new than to remake an old game.</p>
+<p id="fKDylE"><strong>Square Enix ports </strong><em><strong>Final Fantasy 1</strong></em><strong> through </strong><em><strong>10</strong></em><strong> to every device imaginable. Sega could do the same.</strong></p>
+<p id="fjzXkJ"><strong>Fukazawa:</strong> I completely agree.</p>
+<p id="Ehqqke"><em><strong>Panzer Dragoon</strong></em><strong> is a title that comes to mind.</strong></p>
+<p class="c-end-para" id="S2O19s"><strong>Fukazawa:</strong> Yes, that’s a great game. There’s a lot of past hits that have a significance for people still at the company. </p>
+  
+</div>
+
+
+
+<div class="u-hidden-text" id="formatter-datter" data-cid="site/entry_formatter-1633682407_7211_115497" data-cdata='{"svg_hr_illustration":""}'>
+  
+</div>
+
+
+
+
+
+
+
+  </main>
+  <div class="l-segment ad__athena_internal">
+  </div>
+
+</div>
+
+
+
+  <div class="l-wrapper outbrain-container">
+    
+  </div>
+
+<div class="l-wrapper">
+  <div class="l-sidebar-fixed l-segment">
+    <div class="l-col__main">
+      
+        <svg width="0" height="0" style="position:absolute;display:none;"><symbol viewbox="236.9 122.4 318.2 367.2" id="icon-bold" xmlns="http://www.w3.org/2000/svg"><path d="M236.9 422.3h39.8V189.7h-39.8v-67.3h171.4c27.5 0 45.9 0 67.3 9.2 39.8 12.2 64.3 45.9 64.3 88.7 0 30.6-15.3 61.2-42.8 79.6 42.8 12.2 58.1 49 58.1 85.7 0 55.1-39.8 91.8-82.6 104H236.9v-67.3zm177.5-159.1c21.4 0 33.7-15.3 33.7-36.7 0-12.2-6.1-27.5-18.4-30.6-6.1-3.1-12.2-3.1-21.4-3.1h-36.7v70.4h42.8zm9.1 156c6.1 0 12.2 0 18.4-3.1 15.3-6.1 21.4-24.5 21.4-39.8 0-21.4-12.2-36.7-39.8-36.7h-52v82.6h52v-3z"></path></symbol><symbol viewbox="0 0 95.46 95.46" id="icon-comment-flair" xmlns="http://www.w3.org/2000/svg"><path d="M81.48 33.75V14H61.71l-14-14-14 14H14v19.75l-14 14 14 14v19.73h19.75l14 14 14-14h19.73V61.71l14-14zM49.16 58l-7.24 7.24L34.68 58l-9-9 7.24-7.24 9 9 20.63-20.59 7.24 7.24z"></path></symbol><symbol viewbox="191 101 410.1 410.1" id="icon-emoji" xmlns="http://www.w3.org/2000/svg"><path d="M396 101c-113.2 0-205 91.9-205 205s91.9 205 205 205 205-91.9 205-205c0-112.6-91.8-205-205-205zm0 361.8c-86.2 0-156.8-70-156.8-156.8 0-86.2 70-156.8 156.8-156.8 86.2 0 156.8 70 156.8 156.8-.5 86.8-70.5 156.8-156.8 156.8z"></path><ellipse cx="346.3" cy="249.7" rx="28.9" ry="39.1"></ellipse><path d="M445.7 288.3c15.8 0 28.9-17.2 28.9-39.1 0-21.3-12.7-39.1-28.9-39.1-15.8 0-28.9 17.2-28.9 39.1s12.7 39.1 28.9 39.1zm39.1 50.2c-11.1-7.1-25.9-3.5-32.5 7.6 0 .5-17.2 25.9-56.3 25.9-38.6 0-55.3-24.3-56.3-25.9-7.1-11.1-21.3-14.7-32.5-7.6-11.1 6.6-14.7 21.3-8.1 32.5 1 2.1 29.9 48.2 96.9 48.2 66 0 95.4-46.2 96.9-48.2 6.6-11.2 3.1-25.9-8.1-32.5z"></path></symbol><symbol viewbox="0 0 450 324" id="icon-fold" xmlns="http://www.w3.org/2000/svg"><path fill="#231F20" d="M227.3 134.7L95.5 2.9 0 98.4l227.3 222.7L450 98.4 354.5 2.9z"></path></symbol><symbol viewbox="151.2 122.4 489.6 367.2" id="icon-image" xmlns="http://www.w3.org/2000/svg"><path d="M640.8 153v306c0 18.4-12.2 30.6-30.6 30.6H181.8c-18.4 0-30.6-12.2-30.6-30.6V153c0-18.4 12.2-30.6 30.6-30.6h428.4c18.4 0 30.6 12.2 30.6 30.6zM243 244.8c0 33.7 27.5 61.2 61.2 61.2s61.2-27.5 61.2-61.2-27.5-61.2-61.2-61.2-61.2 27.5-61.2 61.2zm214.2 0L344 388.6l-70.4-52-61.2 91.8h367.2L457.2 244.8z"></path></symbol><symbol viewbox="334.8 122.4 122.4 367.2" id="icon-italic" xmlns="http://www.w3.org/2000/svg"><path d="M347 416.2l30.6-149.9h-42.8l9.2-39.8h94.9l-36.7 186.7c0 6.1-3.1 12.2-3.1 15.3 0 18.4 12.2 21.4 24.5 21.4h12.2l-9.2 39.8h-21.4c-24.5 0-58.1-3.1-58.1-49l-.1-24.5zm58.2-293.8h52l-9.2 52h-55.1l12.3-52z"></path></symbol><symbol viewbox="212.4 122.4 367.2 367.2" id="icon-link" xmlns="http://www.w3.org/2000/svg"><path d="M438.8 403.9L380.7 462c-18.4 18.4-42.8 27.5-70.4 27.5s-52-9.2-70.4-27.5c-18.4-21.4-27.5-45.9-27.5-70.4 0-24.5 9.2-52 27.5-70.4l52-52c-3.1 18.4 0 39.8 9.2 58.1l-27.5 24.5c-9.2 9.2-15.3 24.5-15.3 36.7s6.1 27.5 15.3 39.8c9.2 9.2 24.5 15.3 36.7 15.3 15.3 0 27.5-6.1 36.7-15.3l58.1-58.1c9.2-9.2 15.3-24.5 15.3-36.7 0-15.3-6.1-27.5-15.3-36.7-3.1-3.1-6.1-9.2-6.1-15.3s3.1-12.2 6.1-15.3c3.1-3.1 9.2-6.1 15.3-6.1s12.2 3.1 15.3 6.1c18.4 18.4 27.5 42.8 27.5 70.4 6.2 24.5-6 49-24.4 67.3zM549 293.8l-52 52c3.1-18.4 0-39.8-9.2-58.1l30.6-27.5c9.2-9.2 15.3-24.5 15.3-36.7 0-15.3-6.1-27.5-15.3-36.7-9.2-9.2-24.5-15.3-36.7-15.3-15.3 0-27.5 6.1-36.7 15.3l-61.2 55.1c-9.2 9.2-15.3 21.4-15.3 36.7 0 15.3 6.1 27.5 15.3 39.8 3.1 3.1 6.1 9.2 6.1 15.3s-3.1 12.2-6.1 15.3c-3.1 3.1-9.2 6.1-15.3 6.1s-12.2-3.1-15.3-6.1c-18.4-18.4-30.6-42.8-30.6-70.4s9.2-52 27.5-70.4l58.1-55.1c18.4-18.4 42.8-30.6 70.4-30.6s52 9.2 70.4 30.6c18.4 18.4 30.6 42.8 30.6 70.4 0 24.4-9.2 48.8-30.6 70.3z"></path></symbol><symbol viewbox="212.4 153 397.8 306" id="icon-list" xmlns="http://www.w3.org/2000/svg"><path d="M365.4 397.8h244.8v30.6H365.4v-30.6zm0-214.2h244.8v30.6H365.4v-30.6zm-88.7 61.2H243c-18.4 0-30.6-15.3-30.6-30.6v-30.6c0-18.4 12.2-30.6 30.6-30.6h33.7c18.4 0 30.6 12.2 30.6 30.6v30.6c0 15.3-15.3 30.6-30.6 30.6zm0 214.2H243c-18.4 0-30.6-12.2-30.6-30.6v-27.5c0-18.4 12.2-30.6 30.6-30.6h33.7c18.4 0 30.6 12.2 30.6 30.6v27.5c0 18.4-15.3 30.6-30.6 30.6z"></path></symbol><symbol viewbox="212.4 122.4 397.8 367.2" id="icon-orderedlist" xmlns="http://www.w3.org/2000/svg"><path d="M365.4 183.6h244.8v30.6H365.4v-30.6zm0 214.2h244.8v30.6H365.4v-30.6zM215.5 254h36.7v-97.9l-6.1 6.1-18.4 18.4-15.3-18.4 39.8-39.8h24.5V254h36.7v21.4h-97.9V254zM285.8 382.5c0-12.2-9.2-21.4-24.5-21.4-18.4 0-30.6 15.3-30.6 15.3l-15.3-15.3s15.3-24.5 49-24.5c30.6 0 49 18.4 49 42.8 0 49-70.4 52-73.4 88.7h55v-18.4h21.4v39.8h-104v-12.2c0-55 73.4-61.1 73.4-94.8z"></path></symbol><symbol viewbox="181.8 122.4 431.5 370.3" id="icon-quote" xmlns="http://www.w3.org/2000/svg"><path d="M356.2 122.4c-52 0-94.9 18.4-125.5 58.1s-49 88.7-49 153v131.6c0 6.1 3.1 12.2 9.2 18.4 3.1 3.1 9.2 6.1 18.4 6.1h131.6c6.1 0 12.2-3.1 18.4-9.2 3.1-3.1 6.1-9.2 6.1-18.4V358c0-6.1-3.1-12.2-9.2-18.4-6.1-6.1-12.2-9.2-18.4-9.2h-52c0-33.7 6.1-61.2 18.4-82.6 12.2-18.4 30.6-30.6 52-30.6 6.1 0 9.2-3.1 9.2-6.1v-79.6c0-3.1 0-6.1-3.1-6.1 0-3-3-3-6.1-3zM601 220.3c6.1-3.1 9.2-6.1 9.2-9.2v-79.6c0-3.1 0-6.1-3.1-6.1 0-3.1-3.1-3.1-6.1-3.1-52 0-94.9 18.4-125.5 58.1s-49 88.7-49 153V465c0 6.1 3.1 12.2 9.2 18.4 6.1 6.1 12.2 9.2 18.4 9.2h131.6c6.1 0 12.2-3.1 18.4-9.2 6.1-6.1 9.2-12.2 9.2-18.4V361c0-6.1-3.1-12.2-9.2-18.4-6.1-6.1-12.2-9.2-18.4-9.2h-52c0-33.7 6.1-61.2 18.4-82.6 9.1-18.2 27.5-30.5 48.9-30.5z"></path></symbol><symbol viewbox="142.3 -19 787.2 792" id="icon-spoiler" xmlns="http://www.w3.org/2000/svg"><path d="M142.3-19h787.2v792H142.3V-19z"></path></symbol><symbol viewbox="212.4 122.4 367.2 367.2" id="icon-strikeout" xmlns="http://www.w3.org/2000/svg"><path d="M579.6 306H212.4v30.6h208.1c24.5 12.2 42.8 27.5 42.8 55.1 0 36.7-30.6 55.1-70.4 55.1-36.7 0-70.4-15.3-70.4-42.8v-27.5h-49v36.7c0 52 61.2 76.5 116.3 76.5 67.3 0 122.4-36.7 122.4-104 0-21.4-6.1-36.7-15.3-49h82.6V306zm-186.7-30.6c-33.7-12.2-61.2-27.5-61.2-61.2s27.5-49 61.2-49c30.6 0 61.2 12.2 61.2 30.6v24.5H500v-39.8c3.1-36.7-52-58.1-104-58.1-61.2 0-116.3 27.5-116.3 94.9 0 24.5 9.2 42.8 21.4 58.1h91.8z"></path></symbol></svg>
+<section id="comments" class="c-comments" data-cid="apps/comment_forum-1633682407_2326_115498" data-cdata='{"entry_id":21133928}'>
+  <div class="c-comments__header">
+    <h4 class="c-comments__message">Loading comments...</h4>
+  </div>
+</section>
+
+
+
+
+    </div>
+    <div class="l-col__sidebar" id="comments-sidebar" data-analytics-placement="sidebar">
+      
+    </div>
+  </div>
+</div>
+
+
+
+    <footer class="c-footer" role="contentinfo" data-cid="site/global_footer-1633679612_5804_104108" data-cdata="{}">
+  <div class="l-wrapper c-footer__wrapper">
+    <div class="c-footer__section c-footer__section-logo">
+      <a rel="nofollow" href="/" class="c-footer__logo-link">
+        
+          
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 355.3 128"><title>poly-lt-wire-logo</title>
+<path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"></path><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"></path></svg>
+
+
+        
+        <span class="u-hidden-text">Chorus</span>
+      </a>
+    </div>
+
+    <div class="c-footer__section c-footer__section-links">
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/terms-of-use">Terms of Use</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/privacy-notice">Privacy Notice</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/cookie-policy">Cookie Policy</a></li>
+        
+          <li><a rel="nofollow" href="/contact#donotsell">Do Not Sell My Personal Info</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/pages/licensing">Licensing FAQ</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/accessibility">Accessibility</a></li>
+        
+          <li><a rel="nofollow" href="https://status.voxmedia.com">Platform Status</a></li>
+        
+        
+      </ul>
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="/contact">Contact</a></li>
+        
+          <li><a rel="nofollow" href="/contact#tip">Send Us a Tip</a></li>
+        
+          <li><a rel="nofollow" href="/pages/community-guidelines">Community Guidelines</a></li>
+        
+          <li><a rel="nofollow" href="/masthead">Masthead</a></li>
+        
+          <li><a rel="nofollow" href="https://www.polygon.com/pages/ethics-statement">Editorial Ethics and Guidelines</a></li>
+        
+          <li><a rel="nofollow" href="https://www.polygon.com/2019/2/28/18244873/polygon-pitching-guidelines-how-to-pitch">How to Write for Polygon</a></li>
+        
+      </ul>
+
+      
+    </div>
+
+    <div class="c-footer__section c-footer__section-vox">
+      <a rel="nofollow" class="u-block" href="https://www.voxmedia.com"><span class="u-hidden-text">Vox Media</span><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 254.42 33.54" aria-labelledby="title" aria-describedby="description" role="img" class="c-footer__vox-logo"><title id="title">Vox Media</title>
+<desc id="description">Vox Media logo.</desc><path d="M229.88,262.35a16.77,16.77,0,1,0,16.77,16.77,16.77,16.77,0,0,0-16.77-16.77m0,25.08a8.32,8.32,0,1,1,7.92-8.31,8.12,8.12,0,0,1-7.92,8.31" transform="translate(-179.16 -262.35)"></path><polygon points="0 0.66 16.97 33.38 33.95 0.66 24.05 0.66 17.07 14.31 10.09 0.66 0 0.66"></polygon><rect x="208.65" y="0.66" width="9" height="32.26"></rect><polygon points="170.15 8.74 170.15 0.66 145.41 0.66 145.41 32.92 170.15 32.92 170.15 24.84 154.82 24.84 154.82 20.68 169.01 20.68 169.01 12.91 154.82 12.91 154.82 8.74 170.15 8.74"></polygon><path d="M367.39,263H353.84v32.27h13.55a16.14,16.14,0,1,0,0-32.27m-.71,24.09h-3.74V271.19h3.74a8,8,0,1,1,0,15.91" transform="translate(-179.16 -262.35)"></path><polygon points="131.07 14.94 131.07 32.92 140.17 32.92 140.17 0.66 128.9 0.66 121.92 14.12 114.94 0.66 103.67 0.66 103.67 32.92 112.57 32.92 112.57 14.94 121.82 32.77 131.07 14.94"></polygon><polygon points="83.11 24.43 88.78 32.93 99.44 32.93 88.44 16.79 99.34 0.66 88.88 0.66 83.21 9.16 83.31 9.16 77.63 0.66 67.08 0.66 77.98 16.79 66.98 32.93 77.43 32.93 83.11 24.43"></polygon><path d="M412.55,284.07l4-11.53,4,11.53ZM422,263H411.38l-11.62,32.27h9l1.41-4.15H423l1.4,4.15h9.21Z" transform="translate(-179.16 -262.35)"></path></svg></a>
+      
+      
+        <a rel="nofollow" class="u-block c-footer__corporate-link" href="https://www.voxmedia.com/vox-advertising">Advertise with us</a>
+      
+        <a rel="nofollow" class="u-block c-footer__corporate-link" href="https://jobs.voxmedia.com">Jobs @ Vox Media</a>
+      
+      © 2021 <a rel="nofollow" href="https://www.voxmedia.com">Vox Media</a>, LLC. All Rights Reserved
+      
+      
+    </div>
+  </div>
+</footer>
+
+    <div class="c-tab-bar " data-cid="site/tab_bar/index-1633682407_3225_115500" data-cdata="{}">
+  <a href="/" class="c-tab-bar__logo">
+    
+      
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 378.205 136.914" enable-background="new 0 0 378.205 136.914" xml:space="preserve">
+<g>
+	<polygon fill="#FFFFFF" points="0,78.405 39.202,117.607 39.202,78.405 20.491,77.347 	"></polygon>
+	<polygon fill="#D3D2D2" points="0,78.405 39.202,78.405 20.111,58.253 0,39.203 	"></polygon>
+	<polygon fill="#A8A5A6" points="0,39.203 39.202,78.405 40.261,57.478 39.202,39.203 22.476,38.143 	"></polygon>
+	<polygon fill="#7C7A7A" points="39.202,78.404 39.202,39.203 55.905,38.143 78.403,39.203 	"></polygon>
+	<polygon fill="#231F20" points="39.202,0 0,39.203 39.202,39.203 40.26,21.334 	"></polygon>
+	<polygon fill="#504D4E" points="39.202,0 39.202,39.203 78.403,39.203 	"></polygon>
+	<path fill="#EE1E59" d="M39.2,117.606v-0.002L0,78.404L39.2,117.606z M39.2,0L0,39.203L39.203,0H39.2z"></path>
+	<polygon fill="#FF0055" points="0,78.405 39.2,117.605 39.2,78.405 	"></polygon>
+	<polygon fill="#D30046" points="0,78.405 39.2,78.405 0,39.203 	"></polygon>
+	<polygon fill="#A70037" points="0,39.203 39.202,78.405 39.202,78.402 39.202,39.203 	"></polygon>
+	<polygon fill="#7B0028" points="78.402,39.203 39.202,39.203 39.202,78.403 	"></polygon>
+	<path fill="#28000B" d="M0,39.203h39.202V0.002l-0.001-0.001L0,39.203z M39.2,0L39.2,0h0.002H39.2z"></path>
+	<polygon fill="#4F001A" points="39.202,39.203 78.402,39.203 39.202,0.002 	"></polygon>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M115.601,63.076c-3.167-2.611-7.207-4.272-18.045-4.272H78.403v58.562h14.955V99.011h5.858
+		c9.103,0,13.056-1.665,17.095-5.073c3.718-3.161,6.174-9.415,6.174-15.351C122.485,72.65,120.19,66.875,115.601,63.076z
+		 M104.599,85.002c-1.976,0.865-4.355,0.865-5.778,0.865h-5.462V71.942h4.909c1.661,0,4.117,0,6.171,0.869
+		c2.056,0.866,3.72,2.531,3.72,6.013C108.158,82.309,106.575,84.13,104.599,85.002z"></path>
+	<path fill="#FFFFFF" d="M146.623,72.021c-15.987,0-23.661,12.581-23.661,23.266v0.077c0,10.764,7.674,23.352,23.661,23.352
+		c15.989,0,23.665-12.588,23.665-23.352C170.288,84.602,162.612,72.021,146.623,72.021z M146.623,106.371
+		c-5.697,0-10.525-4.67-10.525-11.008v-0.077c0-6.405,4.828-11.079,10.525-11.079c5.701,0,10.529,4.674,10.529,11.079
+		C157.152,101.701,152.324,106.371,146.623,106.371z"></path>
+	<rect x="174.56" y="58.804" fill="#FFFFFF" width="13.142" height="58.564"></rect>
+	<polygon fill="#FFFFFF" points="222.288,73.445 213.9,98.927 204.954,73.445 190.949,73.445 207.253,115.153 200.288,132.01
+		214.211,132.01 236.217,73.445 	"></polygon>
+	<path fill="#FFFFFF" d="M270.249,77.561c-2.53-3.799-7.361-5.54-12.267-5.54c-11.395,0-22.159,8.627-22.159,23.664
+		c0,14.083,10.211,23.108,22.159,23.108c6.885,0,10.686-3.721,12.189-6.251v2.612c0,7.591-5.697,10.682-10.684,10.682
+		c-0.396,0-1.898,0-3.485-0.551c-1.504-0.56-3.245-1.666-4.194-3.804h-15.196c0.875,6.25,6.65,15.433,21.926,15.433
+		c10.841,0,18.834-4.827,22.236-10.363c2.138-3.725,2.614-7.917,2.614-14.485V73.446h-13.14V77.561z M267.165,103.518
+		c-1.902,1.9-4.433,3.009-7.677,3.009c-5.462,0-10.525-4.274-10.525-11.24v-0.077c0-6.412,4.982-10.919,10.603-10.919
+		c3.483,0,6.173,1.265,7.916,3.401c1.821,2.055,2.768,4.98,2.768,8.231C270.092,99.011,268.984,101.618,267.165,103.518z"></path>
+	<path fill="#FFFFFF" d="M311.166,72.021c-15.984,0-23.658,12.581-23.658,23.266v0.077c0,10.764,7.674,23.352,23.658,23.352
+		c15.991,0,23.665-12.588,23.665-23.352C334.831,84.602,327.157,72.021,311.166,72.021z M311.166,106.371
+		c-5.694,0-10.522-4.67-10.522-11.008v-0.077c0-6.405,4.828-11.079,10.522-11.079c5.704,0,10.532,4.674,10.532,11.079
+		C321.698,101.701,316.87,106.371,311.166,106.371z"></path>
+	<path fill="#FFFFFF" d="M361.899,71.942c-7.836,0-10.601,4.033-12.106,6.17v-4.667h-12.268v43.922h13.14v-23.9
+		c0-4.509,1.029-9.176,7.516-9.176c5.861,0,6.889,4.271,6.889,9.093v23.983h13.136V89.903
+		C378.205,83.969,376.699,71.942,361.899,71.942z"></path>
+</g>
+</svg>
+
+
+    
+    
+  </a>
+  
+    
+<div class="c-social-buttons" data-analytics-placement="sticky" aria-labelledby="heading-label--97f3t5a" data-cid="site/social_buttons_list-1633682407_9076_115499" data-cdata='{"entry_id":21133928,"services":["twitter","facebook"],"base_url":"https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans"}'>
+  <h2 class="sr-only" id="heading-label--97f3t5a">Share this story</h2>
+  
+    <ul>
+      
+        
+          <li>
+            <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans&amp;text=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;url=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans&amp;via=Polygon" data-analytics-social="twitter">
+              <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+              <span class="c-social-buttons__text">
+                Twitter
+              </span>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Phantasy+Star+Online+devs+on+the+story%2C+the+graphics%2C+and+the+angry+fans+that+used+to+call+the+office&amp;u=https%3A%2F%2Fwww.polygon.com%2Finterviews%2F2020%2F8%2F16%2F21369887%2Fphantasy-star-online-interview-angry-fans" data-analytics-social="facebook">
+              <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+              <span class="c-social-buttons__text">
+                Facebook
+              </span>
+            </a>
+          </li>
+        
+      
+      
+    </ul>
+  
+</div>
+
+  
+  <span class="c-tab-bar__sponsorship"></span>
+  
+  
+</div>
+
+  </div>
+
+      <script src="https://cdn.vox-cdn.com/packs/js/chorus-cf45595234246a79d7ac.js" async="async" data-privacy-essential="true" data-privacy-no-concern="true" integrity="sha256-cshIbAxY0zju0syc3kCE5+I0sJPASHBQwbxi4Q5AjFs= sha384-b6RJp1ZDEieRcUaiOkDzofhOUtp2gXF38vLEg8pVAYrWydkQ8mwB2L6h0Pnj+YVt" crossorigin="anonymous"></script>
+  
+
+      
+      <!-- Phonograph -->
+
+    <script data-src="https://phonograph2.voxmedia.com/pickup.js?v=1529075019264" id="phonograph-pickup"></script>
+  <!-- End Phonograph -->
+
+
+    
+    
+    <!--[if !IE]> -->
+<script>
+  (function(a,c,d,e){if(!a[c]){var b=a[c]={};b[d]=[];b[e]=function(a){b[d].push(a)}}})(window,'Scroll','_q','do');
+  Scroll.config = {
+    detected: false
+  };
+</script>
+<script src="https://static.scroll.com/js/scroll.js" async="async"></script>
+<!-- <![endif]-->
+
+    
+</body></html>
+
+
+<script type="text/javascript">
+  window.onload = function() {
+    var links = document.querySelector('.c-entry-content').querySelectorAll('p [has-subtag="true"], li [has-subtag="true"], div [has-subtag="true"]');
+    links.forEach(link => {
+      var subtagData = link.getAttribute('data-cdata');
+      if (subtagData) {
+        window.Subtags(link, JSON.parse(subtagData));
+      }
+    });
+  }
+</script>

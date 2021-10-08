@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-79806702-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["atlas-public.web.cern.ch","atlas-public.web.cern.ch","atlas.cern","atlas.ch"]);ga("send", "pageview");</script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://piwik.web.cern.ch/" : "http://piwik.web.cern.ch/");_paq.push(["setSiteId", "2161"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="canonical" href="https://atlas.cern/updates/press-statement/rare-photon-phenomenon-observed" />
+<meta name="news_keywords" content="science, particle physics, research, discovery" />
+<meta name="description" content="Official public website for the ATLAS Experiment at CERN" />
+<meta property="og:site_name" content="ATLAS" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://atlas.cern/updates/press-statement/rare-photon-phenomenon-observed" />
+<meta property="og:title" content="Rare phenomenon observed by ATLAS features the LHC as a high-energy photon collider" />
+<meta property="og:description" content="During the International Conference on High-Energy Physics (ICHEP 2020), the ATLAS collaboration presented the first observation of photon collisions producing pairs of W bosons, elementary particles that carry the weak force, one of the four fundamental forces. The result demonstrates a new way of using the LHC, namely as a high-energy photon collider directly probing electroweak interactions. It confirms one of the main predictions of electroweak theory – that force carriers can interact with themselves – and provides new ways to probe it.
+
+According to the laws of classical electrodynamics, two intersecting light beams would not deflect, absorb or disrupt one another. However, effects of quantum electrodynamics (QED), the theory that explains how light and matter interact, allow interactions among photons.
+
+Indeed, it is not the first time that photons interacting at high energies have been studied at the LHC. For instance, light-by-light “scattering”, where a pair of photons interact by producing another pair of photons, is one of the oldest predictions of QED. The first direct evidence of light-by-light scattering was reported by ATLAS in 2017, exploiting the strong electromagnetic fields surrounding lead ions in high-energy lead–lead collisions. In 2019 and 2020, ATLAS further studied this process by measuring its properties.
+
+The new result reported at this conference is sensitive to another rare phenomenon in which two photons interact to produce two W bosons of opposite electric charge via (among others) the interaction of four force carriers[1]. Quasi-real photons from the proton beams scatter off one another to produce a pair of W bosons. A first study of this phenomenon was previously reported by ATLAS and CMS in 2016, from data recorded during LHC Run 1, but a larger dataset was required to unambiguously observe it.
+
+
+
+
+
+The ATLAS Collaboration reports the observation of photon collisions producing weak-force carriers and provides further insights into their interactions. 
+
+
+
+
+
+The observation was obtained with a highly significant statistical evidence of 8.4 standard deviations, corresponding to a negligible chance of being due to a statistical fluctuation. ATLAS physicists used a considerably larger dataset taken during Run 2, the four-year data collection in the LHC that ended in 2018, and developed a customised analysis method.
+
+Owing to the nature of the interaction process, the only particle tracks visible in the central detector are the decay products of the two W bosons, an electron and a muon with opposite electric charge. W-boson pairs can also be directly produced from interactions between quarks and gluons in the colliding protons considerably more often than from photon–photon interactions, but these are accompanied by additional tracks from strong interaction processes. This means that the ATLAS physicists had to carefully disentangle collision tracks to observe this rare phenomenon. 
+
+“This observation opens up a new facet of experimental exploration at the LHC using photons in the initial state,” said Karl Jakobs, Spokesperson of the ATLAS Collaboration. “It is unique as it only involves couplings among electroweak force carriers in the strong-interaction dominated environment of the LHC. With larger future datasets it can be used to probe in a clean way the electroweak gauge structure and possible contributions of new physics.” 
+
+Indeed, the new result confirms one of the main predictions of electroweak theory, namely that, besides interacting with ordinary particles of matter, the force carriers, also known as gauge bosons – the W bosons, the Z boson and the photon – are also interacting with each other. Photon collisions will provide a new way to test the Standard Model and to probe for new physics, which is necessary for a better understanding of our Universe.
+
+This press statement is also available on the CERN Press website (English, French).
+
+
+
+
+	[1] The four force-carrier interaction is one of the predictions of the electroweak theory that explains how force-carrier particles, also known as gauge bosons, interact not only with matter particles, but also with one another. 
+
+
+
+
+Learn more
+
+
+	Observation of photon-induced W+ W– production in proton–proton collisions at 13 TeV using the ATLAS detector (ATLAS-CONF-2020-038)
+	ATLAS observes W-boson pair production from light colliding with light, Physics Briefing, 5 August 2020" />
+<meta property="og:image" content="https://atlas.cern/sites/atlas-public.web.cern.ch/files/styles/full_image/public/2020-12/ATLAS_yyWW_eventdisplay.png?itok=o_6d8ByA" />
+<meta name="google-site-verification" content="51j7GT9OEskA2UMGMSE0DqIXs3ZsQpFuJ-yJXQWHjII" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="During the International Conference on High-Energy Physics (ICHEP 2020), the ATLAS collaboration presented the first observation of photon collisions producing pairs of W bosons, elementary particles that carry the weak force, one of the four fundamental forces. The result demonstrates a new way of using the LHC, namely as a high-energy photon collider directly probing electroweak interactions. It confirms one of the main predictions of electroweak theory – that force carriers can interact with themselves – and provides new ways to probe it.
+
+According to the laws of classical electrodynamics, two intersecting light beams would not deflect, absorb or disrupt one another. However, effects of quantum electrodynamics (QED), the theory that explains how light and matter interact, allow interactions among photons.
+
+Indeed, it is not the first time that photons interacting at high energies have been studied at the LHC. For instance, light-by-light “scattering”, where a pair of photons interact by producing another pair of photons, is one of the oldest predictions of QED. The first direct evidence of light-by-light scattering was reported by ATLAS in 2017, exploiting the strong electromagnetic fields surrounding lead ions in high-energy lead–lead collisions. In 2019 and 2020, ATLAS further studied this process by measuring its properties.
+
+The new result reported at this conference is sensitive to another rare phenomenon in which two photons interact to produce two W bosons of opposite electric charge via (among others) the interaction of four force carriers[1]. Quasi-real photons from the proton beams scatter off one another to produce a pair of W bosons. A first study of this phenomenon was previously reported by ATLAS and CMS in 2016, from data recorded during LHC Run 1, but a larger dataset was required to unambiguously observe it.
+
+
+
+
+
+The ATLAS Collaboration reports the observation of photon collisions producing weak-force carriers and provides further insights into their interactions. 
+
+
+
+
+
+The observation was obtained with a highly significant statistical evidence of 8.4 standard deviations, corresponding to a negligible chance of being due to a statistical fluctuation. ATLAS physicists used a considerably larger dataset taken during Run 2, the four-year data collection in the LHC that ended in 2018, and developed a customised analysis method.
+
+Owing to the nature of the interaction process, the only particle tracks visible in the central detector are the decay products of the two W bosons, an electron and a muon with opposite electric charge. W-boson pairs can also be directly produced from interactions between quarks and gluons in the colliding protons considerably more often than from photon–photon interactions, but these are accompanied by additional tracks from strong interaction processes. This means that the ATLAS physicists had to carefully disentangle collision tracks to observe this rare phenomenon. 
+
+“This observation opens up a new facet of experimental exploration at the LHC using photons in the initial state,” said Karl Jakobs, Spokesperson of the ATLAS Collaboration. “It is unique as it only involves couplings among electroweak force carriers in the strong-interaction dominated environment of the LHC. With larger future datasets it can be used to probe in a clean way the electroweak gauge structure and possible contributions of new physics.” 
+
+Indeed, the new result confirms one of the main predictions of electroweak theory, namely that, besides interacting with ordinary particles of matter, the force carriers, also known as gauge bosons – the W bosons, the Z boson and the photon – are also interacting with each other. Photon collisions will provide a new way to test the Standard Model and to probe for new physics, which is necessary for a better understanding of our Universe.
+
+This press statement is also available on the CERN Press website (English, French).
+
+
+
+
+	[1] The four force-carrier interaction is one of the predictions of the electroweak theory that explains how force-carrier particles, also known as gauge bosons, interact not only with matter particles, but also with one another. 
+
+
+
+
+Learn more
+
+
+	Observation of photon-induced W+ W– production in proton–proton collisions at 13 TeV using the ATLAS detector (ATLAS-CONF-2020-038)
+	ATLAS observes W-boson pair production from light colliding with light, Physics Briefing, 5 August 2020" />
+<meta name="twitter:site" content="@atlasexperiment" />
+<meta name="twitter:title" content="Rare phenomenon observed by ATLAS features the LHC as a high-energy photon collider" />
+<meta name="twitter:url" content="https://atlas.cern/updates/press-statement/rare-photon-phenomenon-observed" />
+<meta name="twitter:image" content="https://atlas.cern/sites/atlas-public.web.cern.ch/files/styles/full_image/public/2020-12/ATLAS_yyWW_eventdisplay.png?itok=o_6d8ByA" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="keywords" content="ATLAS, ATLAS experiment, The ATLAS Experiment, CERN, LHC, Large Hadron Collider, CMS, ALICE, LHCb, experiment, collaboration, international collaboration, scientific collaboration, particle, physics, particle physics, high-energy physics, science, science education, Higgs, SUSY, supersymmetry, dark matter, big bang, extra dimensions, heavy ion, hadron, black hole, universe, STEM, Geneva, Switzerland, Fabiola Gianotti, Peter Jenni, David Charlton, Karl Jakobs, Andreas Hoecker" />
+<meta name="google-site-verification" content="LnSC4eOPWgFs8j_slMqfJnEqqbIFAa4_yMmG2B_ZfUw" />
+<link rel="shortcut icon" href="/sites/atlas-public.web.cern.ch/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://atlas.cern/updates/press-statement/rare-photon-phenomenon-observed" />
+<link rel="revision" href="https://atlas.cern/updates/press-statement/rare-photon-phenomenon-observed" />
+
+    <title>Rare phenomenon observed by ATLAS features the LHC as a high-energy photon collider | ATLAS Experiment at CERN</title>
+    <link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/owlcarousel/css/owl.carousel.css" />
+<link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/owlcarousel/css/owl.theme.default.css" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/modules/cern_dev_status/css/dev_styling.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/modules/cern_toolbar/assets/css/screen.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/modules/cern_toolbar/assets/css/cookieconsent.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/modules/cookieconsent/css/light-floating.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/modules/webform/modules/webform_bootstrap/css/webform_bootstrap.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/color/colors.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/base.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/files/color/cernoverride-65df6454/colors.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/layout.css?qzuay0" />
+<link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/prism/prism.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/footer.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/header.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/pagination.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/forms.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/fields.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/dropdown.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/progress.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/accordion.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/components/social-sharing.css?qzuay0" />
+<link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/colorbox/colorbox.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/header.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/layout.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/common-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/fields.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/forms.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/blocks.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernclean/css/comments.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/theme.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/cookies.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/viewspage.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/faq-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/agenda-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/news-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/stories-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/resources-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/taxonomies-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/search-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/common-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/themes/custom/cernbase/css/views/generic-views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/accordion.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/blocks.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/cards.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/detector.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/header.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/landing_page.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/layout.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/management_page.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/shortcodes.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/tech_transfer.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/theme.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/updates.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/updates_page.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/views.css?qzuay0" />
+<link rel="stylesheet" media="all" href="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/css/virtualvisit.css?qzuay0" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+          <link rel="preload" href="//framework.web.cern.ch/framework/3.0/images/loader.gif" as="image">
+      </head>
+  <body class="cern-theme-on path-node page-node-type-update has-glyphicons">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <div  id="cern-toolbar" role="group" aria-label="CERN Toolbar" class="user-not-authenticated">
+    <h1>
+        <a href="//home.cern" title="CERN">
+            CERN
+            <span>Accelerating science</span>
+        </a>
+    </h1>
+    <ul>
+        <li class="signin"> 
+                                                     
+                                        <div class="item-list item-list-length-1">
+                <ul class="cern-signedin toolbar-submenu"><li class="cern-account-links"><a href="/user/login" class="cern-account cern-signin cern-single-mobile-signin">Sign in</a></li></ul>
+            </div>
+        </li>
+        <li><a href="//cern.ch/directory" class="cern-directory" title="Search CERN resources and browse the directory">Directory</a></li>
+    </ul>
+</div>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+
+    
+<header role="banner">
+
+  <div class="header-wrapper">
+
+    
+      <div class="site-info col-sm-12 col-md-3 col-lg-4">
+
+                  <div class="site-info__logo col-lg-3 col-md-3 col-sm-3">
+            <a href="/" title="Home" rel="home">
+              <img src="/sites/atlas-public.web.cern.ch/files/logo/ATLAS-Logowhite-big.png" alt="home"/>
+            </a>
+          </div>
+        
+        <div class="site-info__text col-lg-9 col-md-9 col-sm-9">
+
+          
+          
+        </div>
+
+      </div>
+
+    
+          <div class="site-nav col-sm-12 col-md-9 col-lg-8 has-search">
+          <div class="region region-header">
+    <section id="block-collaborationsiteandphysicsresults" class="block block-block-content block-block-contentd7f0d0d4-893f-4166-af9c-555e637012d1 clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="https://cern.ch/atlas-collaboration">Collaboration Site</a> | <a href="https://twiki.cern.ch/twiki/bin/view/AtlasPublic">Physics Results</a></p>
+</div>
+			
+  </section>
+
+<nav role="navigation" aria-labelledby="block-cernoverride-main-menu-menu" id="block-cernoverride-main-menu">
+            <h2 class="sr-only" id="block-cernoverride-main-menu-menu">Main navigation</h2>
+
+      <nav class="navbar navbar-default main-menu">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+      
+                                                  <ul class="nav navbar-nav">
+                                              <li>
+              <a href="/about" title="Learn more about the ATLAS Experiment" data-drupal-link-system-path="node/38">About</a>
+                                    </li>
+                                                <li class="dropdown">
+                                                <a href="/discover/detector" data-drupal-link-system-path="node/91">Discover</a>
+                                                                            <ul class="dropdown-menu">
+                                              <li>
+              <a href="/discover/detector" title="Learn more about the ATLAS detector and technology" data-drupal-link-system-path="node/91">Detector</a>
+                                    </li>
+                                                <li>
+              <a href="/discover/physics" title="Learn more about the Physics of ATLAS and the LHC" data-drupal-link-system-path="node/39">Physics</a>
+                                    </li>
+                                                <li class="dropdown">
+                                                <a href="/discover/collaboration" title="Learn more about the ATLAS Collaboration" data-drupal-link-system-path="node/40">Collaboration</a>
+                                                                            <ul class="dropdown-menu">
+                                              <li>
+              <a href="/discover/collaboration/management" title="ATLAS Management" data-drupal-link-system-path="node/65">Management</a>
+                                    </li>
+                                                <li class="dropdown">
+                                                <a href="/discover/collaboration/awards" data-drupal-link-system-path="node/88">Awards</a>
+                                                                            <ul class="dropdown-menu">
+                                              <li>
+              <a href="/discover/collaboration/awards/outstanding-achievement" data-drupal-link-system-path="node/90">Outstanding Achievement Awards</a>
+                                    </li>
+                                                <li>
+              <a href="/discover/collaboration/awards/thesis" data-drupal-link-system-path="node/89">Thesis Awards</a>
+                                    </li>
+                                </ul>
+              
+                        </li>
+                                                <li class="dropdown">
+                                                <a href="/discover/collaboration/join" data-drupal-link-system-path="node/83">Join ATLAS</a>
+                                                                            <ul class="dropdown-menu">
+                                              <li>
+              <a href="/discover/collaboration/join/clustered-institution" data-drupal-link-system-path="node/85">Join as a Clustered Institution</a>
+                                    </li>
+                                                <li>
+              <a href="/discover/collaboration/join/technical-associate-institute" data-drupal-link-system-path="node/87">Join as a Technical Associate Institute</a>
+                                    </li>
+                                                <li>
+              <a href="/discover/collaboration/join/associate-institute" data-drupal-link-system-path="node/86">Join as an Associate Institute</a>
+                                    </li>
+                                                <li>
+              <a href="/discover/collaboration/join/institution" data-drupal-link-system-path="node/84">Join as an Institution</a>
+                                    </li>
+                                </ul>
+              
+                        </li>
+                                </ul>
+              
+                        </li>
+                                                <li>
+              <a href="/discover/visit" data-drupal-link-system-path="node/99">Visit</a>
+                                    </li>
+                                </ul>
+              
+                        </li>
+                                                <li>
+              <a href="/resources" data-drupal-link-system-path="node/22770">Resources</a>
+                                    </li>
+                                                <li class="dropdown">
+                                                <a href="/updates" data-drupal-link-system-path="node/4209">Updates</a>
+                                                                            <ul class="dropdown-menu">
+                                              <li>
+              <a href="/updates" title="All Updates" data-drupal-link-system-path="node/4209">All</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/news" title="ATLAS News" data-drupal-link-system-path="node/2305">News</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/briefing" title="ATLAS Physics and Experiment Briefings" data-drupal-link-system-path="node/2307">Briefings</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/feature" title="Feature Articles" data-drupal-link-system-path="node/2308">Features</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/portrait" title="Portraits" data-drupal-link-system-path="node/2309">Portraits</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/press-statement" title="ATLAS Press Statements" data-drupal-link-system-path="node/2310">Press</a>
+                                    </li>
+                                                <li>
+              <a href="/updates/blog" title="Blog Entries" data-drupal-link-system-path="node/2306">Blog</a>
+                                    </li>
+                                </ul>
+              
+                        </li>
+                                        <li class="dropdown search-item cern-search">
+                <a href="#" class="cern-item-search search-link" onClick="openSearch()">SEARCH</a>
+                <div id="cern-search-overlay">
+                  <div class="close-cern-search" onClick="closeSearch()"></div>
+                  <div class="col-md-offset-2 col-md-8">
+                    <div role="search" class="block block-search block-search-form-block">
+                      <form class="search-block-form" data-drupal-selector="search-block-form" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+                        <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+                          <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder='e.g. Higgs boson, discovery, calorimeter...' type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128">
+                        </div>
+                        <div id="edit-keys--description" class="description help-block">Enter the terms you wish to search for.</div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </li>
+                                </ul>
+              
+
+          </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+
+  </nav>
+<div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-cernoverride-search" role="search">
+  
+      <h2 class="visually-hidden">Search</h2>
+    
+      <form action="/search/nojobs" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Search</label>
+  
+  
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--3"></div>
+
+</form>
+
+  </div>
+
+  </div>
+
+      </div>
+    
+          <div class="lower-header col-sm-12">
+          <div class="region region-lowerheader">
+    <nav role="navigation" aria-labelledby="block-updatessubmenu-menu" id="block-updatessubmenu">
+            
+  <h2 class="visually-hidden" id="block-updatessubmenu-menu">Updates submenu</h2>
+  
+
+        
+        <ul class="menu nav">
+						<li>
+				<a href="/updates" data-drupal-link-system-path="node/4209">All</a>
+							</li>
+					<li>
+				<a href="/updates/news" title="ATLAS News" data-drupal-link-system-path="node/2305">News</a>
+							</li>
+					<li>
+				<a href="/updates/briefing" title="Physics &amp; Experiment Briefings" data-drupal-link-system-path="node/2307">Briefings</a>
+							</li>
+					<li>
+				<a href="/updates/feature" title="Feature Articles" data-drupal-link-system-path="node/2308">Features</a>
+							</li>
+					<li>
+				<a href="/updates/portrait" title="ATLAS Portraits" data-drupal-link-system-path="node/2309">Portraits</a>
+							</li>
+					<li>
+				<a href="/updates/press-statement" title="Press Statements" data-drupal-link-system-path="node/2310">Press</a>
+							</li>
+					<li>
+				<a href="/updates/blog" title="ATLAS Blog" data-drupal-link-system-path="node/2306">Blog</a>
+							</li>
+			</ul>
+		
+
+</ul>
+  </nav>
+
+  </div>
+
+      </div>
+    
+  </div>
+
+</div>
+
+</header>
+
+<main role="main">
+
+      <div class="above-content col-sm-12">
+        <div class="region region-abovecontent">
+    
+  </div>
+
+    </div>
+  
+  <a id="main-content" tabindex="-1"></a>
+					<div class="container">
+				<div class="wrapper-center col-md-12 col-sm-12 col-xs-12">
+			  <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<section id="block-feedbackform" class="block block-block-content block-block-content1fc6b623-e855-476d-a463-9ad89024a878 clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="/feedback">Feedback</a></p>
+</div>
+			
+  </section>
+
+
+  <div class="banner-img-updates">
+        
+						<div class="field field--name-field-listing-image field--type-image field--label-hidden field--item">  <img src="/sites/atlas-public.web.cern.ch/files/2020-12/ATLAS_yyWW_eventdisplay.png" width="4000" height="2641" alt="" typeof="foaf:Image" class="img-responsive" />
+
+</div>
+			
+  </div>
+
+    <ol class="breadcrumb">
+          <li >
+                  <a href="/updates">Updates</a>
+              </li>
+          <li >
+                  <a href="/updates/press-statement">Press statement</a>
+              </li>
+          <li  class="active">
+                  Rare phenomenon observed by ATLAS features the LHC as a high-energy photon collider
+              </li>
+      </ol>
+
+
+
+<div class="updates-header">
+  <div class="updates-cat-tags">
+    <div class="cat">
+      
+						<div class="field field--name-field-update-category field--type-entity-reference field--label-hidden field--item"><a href="/press-statement" hreflang="en">Press Statement</a></div>
+			
+    </div>
+    <div class="tags">
+      Tags: 
+			<div class="field field--name-field-tags field--type-entity-reference field--label-hidden field--items">
+							<div class="field--item"><a href="/tags/ichep" hreflang="en">ICHEP</a>,</div>
+							<div class="field--item"><a href="/tags/ichep-2020" hreflang="en">ICHEP 2020</a>,</div>
+							<div class="field--item"><a href="/tags/physics-results" hreflang="en">physics results</a></div>
+					</div>
+	
+    </div>
+  </div>
+    <div class="updates-title">
+    <h1><span>Rare phenomenon observed by ATLAS features the LHC as a high-energy photon collider</span>
+</h1>
+    
+    <p class="posted-on">5th August 2020 | By </p> <div class="author-info"> 
+			<div class="field field--name-field-author field--type-entity-reference field--label-hidden field--items">
+							<div class="field--item"><a href="/authors/cern" hreflang="en">CERN</a></div>
+					</div>
+	 </div>
+  </div>
+</div>
+
+<div  class="updates-body layout-wide">
+        
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="narrow">
+
+<p>During the International Conference on High-Energy Physics (<a href="http://ichep2020.org/">ICHEP 2020</a>), the ATLAS collaboration presented the first observation of photon collisions producing pairs of W bosons, elementary particles that carry the weak force, one of the four fundamental forces. The result demonstrates a new way of using the LHC, namely as a high-energy photon collider directly probing electroweak interactions. It confirms one of the main predictions of electroweak theory – that force carriers can interact with themselves – and provides new ways to probe it.</p>
+
+<p>According to the laws of classical electrodynamics, two intersecting light beams would not deflect, absorb or disrupt one another. However, effects of quantum electrodynamics (QED), the theory that explains how light and matter interact, allow interactions among photons.</p>
+
+<p>Indeed, it is not the first time that photons interacting at high energies have been studied at the LHC. For instance, light-by-light “scattering”, where a pair of photons interact by producing another pair of photons, is one of the oldest predictions of QED. The first direct evidence of light-by-light scattering was reported by ATLAS in 2017, exploiting the strong electromagnetic fields surrounding lead ions in high-energy lead–lead collisions. In <a href="http://atlas.cern/updates/physics-briefing/atlas-observes-light-scattering-light">2019</a> and <a href="http://atlas.cern/updates/physics-briefing/light-scattering-light-constrains-axion-particles">2020</a>, ATLAS further studied this process by measuring its properties.</p>
+
+<p>The new result reported at this conference is sensitive to another rare phenomenon in which two photons interact to produce two W bosons of opposite electric charge via (among others) the interaction of four force carriers<a href="#_ftn1" id="_ftnref1" name="_ftnref1" title=""><sup><sup>[1]</sup></sup></a>. Quasi-real photons from the proton beams scatter off one another to produce a pair of W bosons. A first study of this phenomenon was previously reported by ATLAS and CMS in 2016, from data recorded during LHC Run 1, but a larger dataset was required to unambiguously observe it.</p>
+
+</div><div style="clear: both; height: 0;"></div>
+
+<hr class="divider">
+
+<h3 class="rtecenter">The ATLAS Collaboration reports the observation of photon collisions producing weak-force carriers and provides further insights into their interactions. </h3>
+
+<hr class="divider">
+
+<div class="narrow">
+
+<p>The observation was obtained with a highly significant statistical evidence of 8.4 standard deviations, corresponding to a negligible chance of being due to a statistical fluctuation. ATLAS physicists used a considerably larger dataset taken during Run 2, the four-year data collection in the LHC that ended in 2018, and developed a customised analysis method.</p>
+
+<p>Owing to the nature of the interaction process, the only particle tracks visible in the central detector are the decay products of the two W bosons, an electron and a muon with opposite electric charge. W-boson pairs can also be directly produced from interactions between quarks and gluons in the colliding protons considerably more often than from photon–photon interactions, but these are accompanied by additional tracks from strong interaction processes. This means that the ATLAS physicists had to carefully disentangle collision tracks to observe this rare phenomenon. </p>
+
+<p>“This observation opens up a new facet of experimental exploration at the LHC using photons in the initial state,” said Karl Jakobs, Spokesperson of the ATLAS Collaboration. “It is unique as it only involves couplings among electroweak force carriers in the strong-interaction dominated environment of the LHC. With larger future datasets it can be used to probe in a clean way the electroweak gauge structure and possible contributions of new physics.” </p>
+
+<p>Indeed, the new result confirms one of the main predictions of electroweak theory, namely that, besides interacting with ordinary particles of matter, the force carriers, also known as gauge bosons – the W bosons, the Z boson and the photon – are also interacting with each other. Photon collisions will provide a new way to test the Standard Model and to probe for new physics, which is necessary for a better understanding of our Universe.</p>
+
+<p><em>This press statement is also available on the CERN Press website (<a href="https://home.cern/news/news/physics/rare-phenomenon-observed-atlas-features-lhc-high-energy-photon-collider">English</a>, <a href="https://home.cern/fr/news/news/physics/rare-phenomenon-observed-atlas-features-lhc-high-energy-photon-collider">French</a>).</em></p>
+
+<hr class="divider">
+
+<ul>
+	<li style="font-size: 80%;"><a href="#_ftnref1" id="_ftn1" name="_ftn1" style="background-size: 16px;" title="">[1]</a> The four force-carrier interaction is one of the predictions of the electroweak theory that explains how force-carrier particles, also known as gauge bosons, interact not only with matter particles, but also with one another. </li>
+</ul>
+
+<hr class="divider">
+
+<p><strong>Learn more</strong></p>
+
+<ul>
+	<li><a href="https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2020-038/">Observation of photon-induced W<sup>+</sup> W<sup>– </sup>production in proton–proton collisions at 13 TeV using the ATLAS detector</a> (ATLAS-CONF-2020-038)</li>
+	<li><a href="https://atlas.cern/updates/physics-briefing/observation-w-pair-from-light">ATLAS observes W-boson pair production from light colliding with light</a>, <em>Physics Briefing</em>, 5 August 2020</li>
+</ul>
+
+</div><div style="clear: both; height: 0;"></div>
+</div>
+			
+  </div>
+
+
+  </div>
+
+		</div>
+			</div>
+					<div class="content-footer-wrapper">
+			<div>
+				<div class="col-md-12 content-footer-container">
+					  <div class="region region-contentfooter">
+    <section class="views-element-container block block-views block-views-blockrelated-updates-block clearfix" id="block-views-block-related-updates-block">
+  
+    
+
+      <div class="form-group">
+
+<div class="view view-related-updates view-id-related_updates view-display-id-block js-view-dom-id-1c6044868e2640632a4baf3f046f5351094ef624c0d8f42dba6a71853be35532 cern-view-display-block clearfix">
+  
+          <h1 class="mb-3 mt-3 text-center">Related Updates</h1>
+      
+
+  
+    
+      <div class="view-content clearfix">
+      <div class="wrapper-cards related">
+        <div class="news-cards related">
+        <div class="views-field views-field-nothing"><span class="field-content"><div class="wrapper-img-cards related">
+  <a href="/updates/briefing/top-energy-asymmetry">  <a href="/updates/briefing/top-energy-asymmetry" hreflang="en"><img src="/sites/atlas-public.web.cern.ch/files/2021-09/ATLAS-ttsymmetries_fig1.png" width="2072" height="1529" alt="" typeof="Image" class="img-responsive" />
+</a>
+</a>
+</div>
+<div class="wrapper-data-cards related">
+  <a href="/updates/briefing/top-energy-asymmetry">
+        <h3><a href="/updates/briefing/top-energy-asymmetry" hreflang="en">Searching for new physics using asymmetric top-quark events</a></h3>
+      </a>
+  <div class="wrapper-postscript-cards related">
+    <p><a href="/physics-briefing" hreflang="en">Physics Briefing</a> | 13th September 2021</p>
+  </div>
+</div></span></div>
+      </div>
+        <div class="news-cards related">
+        <div class="views-field views-field-nothing"><span class="field-content"><div class="wrapper-img-cards related">
+  <a href="/updates/news/eps-2021-highlights">  <a href="/updates/news/eps-2021-highlights" hreflang="en"><img src="/sites/atlas-public.web.cern.ch/files/2021-08/EPSposters.png" width="734" height="568" alt="" typeof="Image" class="img-responsive" />
+</a>
+</a>
+</div>
+<div class="wrapper-data-cards related">
+  <a href="/updates/news/eps-2021-highlights">
+        <h3><a href="/updates/news/eps-2021-highlights" hreflang="en">ATLAS highlights from the EPS-HEP 2021 conference</a></h3>
+      </a>
+  <div class="wrapper-postscript-cards related">
+    <p><a href="/news" hreflang="en">News</a> | 4th August 2021</p>
+  </div>
+</div></span></div>
+      </div>
+        <div class="news-cards related">
+        <div class="views-field views-field-nothing"><span class="field-content"><div class="wrapper-img-cards related">
+  <a href="/updates/briefing/hunting-forbidden-decays">  <a href="/updates/briefing/hunting-forbidden-decays" hreflang="en"><img src="/sites/atlas-public.web.cern.ch/files/2021-08/ATLAS-LFV-fig1.png" width="2362" height="2266" alt="" typeof="Image" class="img-responsive" />
+</a>
+</a>
+</div>
+<div class="wrapper-data-cards related">
+  <a href="/updates/briefing/hunting-forbidden-decays">
+        <h3><a href="/updates/briefing/hunting-forbidden-decays" hreflang="en">Hunting for forbidden decays of the Z boson</a></h3>
+      </a>
+  <div class="wrapper-postscript-cards related">
+    <p><a href="/physics-briefing" hreflang="en">Physics Briefing</a> | 3rd August 2021</p>
+  </div>
+</div></span></div>
+      </div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+<footer role="contentinfo">
+<div class="row cern-footer">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-first-col">
+				  <div class="region region-footercolumn1">
+    <section id="block-footeratlaslogo" class="block block-block-content block-block-content4af1f3fe-8655-473d-9b20-9fba021acd3f clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><img alt="ATLAS Logo" data-entity-type="file" data-entity-uuid="e594cef1-64f1-4e32-b892-086328baa485" src="/sites/atlas-public.web.cern.ch/files/inline-images/ATLAS-Logo-Ref-RGB-H-transparent.png" style="width:80%" /></p>
+</div>
+			
+  </section>
+
+
+  </div>
+
+	  </div>
+  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 footer-second-col">
+    <div class="row">
+      <!-- CONTACT US -->
+      <div class="col-sm-5 col-md-4 col-md-offset-0 col-lg-4 col-lg-offset-0">
+                    <div class="region region-footercolumn2">
+    <section id="block-footerlinks" class="block block-block-content block-block-content02492a94-117e-4dde-b5fc-abe49b32263b clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><strong>Info</strong><br />
+<a href="/resources/press">Press</a> | <a href="/visit">Visit</a> | <a href="/jobs">Jobs</a><br />
+<a href="/join">Collaboration membership</a><br />
+<a href="/glossary">Glossary</a><br />
+<a href="/design">Logo &amp; design guidelines</a><br />
+<a href="/diversity">Diversity &amp; Inclusion</a><br />
+<a href="https://cern.ch/atlas-collaboration">Collaboration Site</a><br />
+<a href="https://twiki.cern.ch/twiki/bin/view/AtlasPublic">Physics Results</a></p>
+
+<p> </p>
+</div>
+			
+  </section>
+
+
+  </div>
+
+              </div>
+      <!-- general info -->
+      <div class="col-sm-6 col-sm-offset-1 col-md-4 col-md-offset-0 col-lg-4">
+        <div class=" mb-4">
+                        <div class="region region-footercolumn3">
+    <section id="block-footersocialmedia" class="block block-block-content block-block-content5751675a-eb7e-4442-88e4-2e1c85ae2188 clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><strong>Follow</strong><br />
+<a href="//facebook.com/ATLASexperiment" style="display: inline-block;"><img alt="facebook" src="/sites/atlas-public.web.cern.ch/files/footer/follow-facebook.png" width="18" /></a> <a href="//twitter.com/ATLASexperiment" style="display: inline-block;"><img alt="twitter" src="/sites/atlas-public.web.cern.ch/files/footer/follow-twitter.png" width="18" /></a> <a href="//instagram.com/ATLASExperiment" style="display: inline-block;"><img alt="instagram" src="/sites/atlas-public.web.cern.ch/files/footer/follow-instagram.png" width="18" /></a> <a href="//www.youtube.com/c/ATLASExperiment" style="display: inline-block;"><img alt="youtube" src="/sites/atlas-public.web.cern.ch/files/footer/follow-youtube.png" width="20" /></a> <a href="//flickr.com/photos/atlasexperiment" style="display: inline-block;"><img alt="flickr" src="/sites/atlas-public.web.cern.ch/files/footer/follow-flickr.png" width="18" /></a>
+<a href="//www.tiktok.com/@atlasexperiment" style="display: inline-block;"><img alt="tiktok" src="/sites/atlas-public.web.cern.ch/files/footer/follow-tiktok.png" width="18" /></a></p></div>
+			
+  </section>
+
+
+  </div>
+
+                  </div>
+      </div>
+      <!-- cern and you -->
+      <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-0 col-lg-4  col-lg-offset-0">
+        <div class=" mb-4">
+                        <div class="region region-footercolumn4">
+    <section id="block-footerright" class="block block-block-content block-block-content53268306-d6b3-48ad-9e64-e9b2f1949bd2 clearfix">
+  
+    
+
+      
+						<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><strong>Contact</strong><br />
+ATLAS Experiment, CERN<br />
+CH-1211 Geneva 23<br />
+Switzerland</p>
+
+<p><a href="/contact">General inquiries</a><br /><a href="//atlaspo.cern.ch/public/ATLASOrganisation">Organisational contacts</a></p></div>
+			
+  </section>
+
+
+  </div>
+
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 footer-last-logo">
+
+          <a href="https://home.cern/" title="CERN" target="_blank"><img src="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/logo-dark.svg" alt="CERN"/></a>
+    
+  </div>
+</div>
+
+
+<div class="copy-wrapper">
+  <a href="/copyright">
+    ATLAS Experiment
+  &nbsp;&copy;
+  </a>
+  2021
+  CERN
+  </div>
+</footer>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56eae1ba266726dc"></script>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/6680","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bootstrap\/popover,bootstrap\/tooltip,cern_dev_status\/cern-dev-status,cern_toolbar\/cern_toolbar,cernbase\/global-styling,cernclean\/global-styling,cernoverride\/global-scripts,cernoverride\/global-styling,cookieconsent\/cookieconsent-min,cookieconsent\/light-floating,cookieconsent\/settings,core\/html5shiv,google_analytics\/google_analytics,matomo\/matomo,system\/base,views\/views.module,webform_bootstrap\/webform_bootstrap","theme":"cernoverride","theme_token":null},"ajaxTrustedUrl":{"\/search\/nojobs":true},"cookieconsent":{"link":"","path":"\/","expiry":365,"target":"_self","domain":".atlas.cern","markup":"\u003Cdiv id=\u0022cern-cookieconsent\u0022 class=\u0022cc_banner cc_container cc_container--open\u0022\u003E\n    \u003Cp class=\u0022cc_message\u0022\u003EThis website uses cookies to ensure you get the best experience on our website \u003Ca data-cc-if=\u0022options.link\u0022 target=\u0022_self\u0022 class=\u0022cc_more_info\u0022 href=\u0022\u0022\u003EMore info\u003C\/a\u003E\u003C\/p\u003E\n    \u003Ca href=\u0022#null\u0022 data-cc-event=\u0022click:dismiss\u0022 target=\u0022_blank\u0022 class=\u0022cc_btn cc_btn_accept_all\u0022\u003EGot it!\u003C\/a\u003E\n\u003C\/div\u003E\n","container":null,"theme":false},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":2,"trackCrossDomains":["atlas-public.web.cern.ch","atlas-public.web.cern.ch","atlas.cern","atlas.ch"]},"matomo":{"disableCookies":false,"trackMailto":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"user":{"uid":0,"permissionsHash":"21f850e40754daea53095ac668b7e3ef09c4716cb5240f5584b12b7801c46f5c"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=8.9.18"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.18"></script>
+<script src="/core/misc/drupal.js?v=8.9.18"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.18"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.0-rc0"></script>
+<script src="/core/misc/jquery.cookie.shim.js?v=8.9.18"></script>
+<script src="/modules/cern_dev_status/js/cern_dev_status.js?v=1.x"></script>
+<script src="/modules/cern_dev_status/js/cern_dev_status_expand.js?v=1.x"></script>
+<script src="/modules/cookieconsent/js/cookieconsent.settings.js?v=1.x"></script>
+<script src="/modules/cookieconsent/js/cookieconsent.min.js?v=1.0.9"></script>
+<script src="/sites/atlas-public.web.cern.ch/modules/google_analytics/js/google_analytics.js?v=8.9.18"></script>
+<script src="/modules/matomo/js/matomo.js?v=8.9.18"></script>
+<script src="/themes/custom/cernclean/js/anchor-fix.js?qzuay0"></script>
+<script src="/themes/custom/cernclean/js/cernclean.js?qzuay0"></script>
+<script src="/core/misc/progress.js?v=8.9.18"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?qzuay0"></script>
+<script src="/core/misc/ajax.js?v=8.9.18"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?qzuay0"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/prism/prism.js"></script>
+<script src="/themes/custom/cernbase/js/cernbase.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/components/social-sharing.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/components/footer.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/agenda-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/faq-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/news-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/resources-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/stories-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/taxonomies-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/search-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/views/common-views.js?qzuay0"></script>
+<script src="/themes/custom/cernbase/js/box-effects.js?qzuay0"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/colorbox/jquery.colorbox-min.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/scroll-magic/ScrollMagic.min.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/scroll-magic/text-effects.js"></script>
+<script src="/themes/custom/cernbase/sass/bootstrap/javascripts/bootstrap.min.js?qzuay0"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?qzuay0"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?qzuay0"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?qzuay0"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/owlcarousel/js/owl.carousel.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/owlcarousel/js/owl.carousel2.thumbs.js"></script>
+<script src="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/js/script.js?v=8.9.18"></script>
+<script src="/sites/atlas-public.web.cern.ch/themes/cernoverride-master/js/atlas-carousel.js?v=8.9.18"></script>
+<script src="/modules/webform/js/webform.behaviors.js?v=8.9.18"></script>
+<script src="/core/misc/states.js?v=8.9.18"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?qzuay0"></script>
+<script src="/modules/webform/js/webform.states.js?v=8.9.18"></script>
+<script src="/modules/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=8.9.18"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?qzuay0"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?qzuay0"></script>
+<script src="/modules/cern_toolbar/assets/js/cern_toolbar.js?v=1.x"></script>
+
+  </body>
+</html>

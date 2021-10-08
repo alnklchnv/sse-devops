@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<script async>
+        (function(a,b,c,d){var e=new d;e.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.2.0.bundle.js?site=dailyesports.gg",!0),e.onreadystatechange=function(){if(4==e.readyState&&(200<=e.status&&300>e.status||304==e.status)){var a=b.createElement("script");a.type="text/javascript",a.text=e.responseText,b.head.appendChild(a)}},e.send(null)})(window,document,"script",XMLHttpRequest)
+    </script>
+
+<script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M3P944L');
+    </script>
+
+
+<script src="//enthusiastgaming-com.videoplayerhub.com/videoplayer.js" async></script>
+<script>
+    // this script will fire a console log event whenever Blockthrough has detected an active AA Adblocker
+    window.addEventListener('AcceptableAdsInit',function(event){if (event.detail === true) {
+        console.log('adblock');
+    }});
+    </script>
+
+<script defer src="https://auth.enthusiast.gg/fragments/js/eg-popular-threads.js"></script>
+
+<script defer src="https://auth.enthusiast.gg/fragments/js/eg-comments-count.js"></script>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.dailyesports.gg/xmlrpc.php">
+
+<script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="https://cdn.enthusiast.gg/script/prebid1.js"></script>
+
+<link href="https://cdn.enthusiast.gg/script/eg-videojs/charmander/video.bundle.css" rel="stylesheet" />
+<script src="https://cdn.enthusiast.gg/script/eg-videojs/charmander/video.bundle.js"></script>
+<script type="application/javascript">var ajaxurl = "https://www.dailyesports.gg/wp-admin/admin-ajax.php"</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin</title>
+<meta name="description" content="X-Men superhero Wolverine is apparently in the running to be the secret Battle Pass skin for Fortnite Chapter 2 - Season 4." />
+<link rel="canonical" href="https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin" />
+<meta property="og:description" content="X-Men superhero Wolverine is apparently in the running to be the secret Battle Pass skin for Fortnite Chapter 2 - Season 4." />
+<meta property="og:url" content="https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/" />
+<meta property="og:site_name" content="Daily Esports" />
+<meta property="article:publisher" content="https://www.facebook.com/dailyesportsgg/" />
+<meta property="article:published_time" content="2020-08-15T22:31:38+00:00" />
+<meta property="og:image" content="https://www.dailyesports.gg/wp-content/uploads/2020/08/Wolv.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@twitter.com/JoeyCarr9" />
+<meta name="twitter:site" content="@daily_esportstv" />
+
+<link rel="amphtml" href="https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/amp/" /><meta name="generator" content="AMP for WP 1.0.77.22" /><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Daily Esports &raquo; Feed" href="https://www.dailyesports.gg/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Esports &raquo; Comments Feed" href="https://www.dailyesports.gg/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Esports &raquo; Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin Comments Feed" href="https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dailyesports.gg\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bkswcss-css' href='https://www.dailyesports.gg/wp-content/plugins/tnm-shortcode/css/shortcode.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-frontend-css' href='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css' href='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ppress-select2-css' href='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://www.dailyesports.gg/wp-content/themes/the-next-mag/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.dailyesports.gg/wp-content/themes/the-next-mag_child/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thenextmag_vendors-css' href='https://www.dailyesports.gg/wp-content/themes/the-next-mag/css/vendors.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thenextmag-style-css' href='https://www.dailyesports.gg/wp-content/themes/the-next-mag/css/style.css' type='text/css' media='all' />
+<style id='thenextmag-style-inline-css' type='text/css'>
+.header-1 .header-main, 
+                                        .header-2 .header-main, 
+                                        .header-3 .site-header, 
+                                        .header-4 .navigation-bar,
+                                        .header-5 .navigation-bar,
+                                        .header-6 .navigation-bar,
+                                        .header-7 .header-main,
+                                        .header-8 .header-main,
+                                        .header-9 .site-header
+                                        {background: #02053c;}.sticky-header.is-fixed > .navigation-bar
+                                        {background: #fff;}#mnmd-mobile-header
+                                        {background: #02053c;}.site-footer, .footer-3.site-footer, .footer-5.site-footer, .footer-6.site-footer
+                                        {background: #060840;}::selection {color: #FFF; background: #02053C;}::-webkit-selection {color: #FFF; background: #02053C;}a, a:hover, a:focus, a:active, .color-primary, .site-title, .mnmd-widget-indexed-posts-b .posts-list > li .post__title:after,
+            .author-box .author-name a
+            {color: #02053C;}.category-tile__name, .cat-0.cat-theme-bg.cat-theme-bg, .primary-bg-color, .navigation--main > li > a:before, .mnmd-pagination__item-current, .mnmd-pagination__item-current:hover, 
+            .mnmd-pagination__item-current:focus, .mnmd-pagination__item-current:active, .mnmd-pagination--next-n-prev .mnmd-pagination__links a:last-child .mnmd-pagination__item,
+            .subscribe-form__fields input[type='submit'], .has-overlap-bg:before, .post__cat--bg, a.post__cat--bg, .entry-cat--bg, a.entry-cat--bg, 
+            .comments-count-box, .mnmd-widget--box .widget__title,  .posts-list > li .post__thumb:after, 
+            .widget_calendar td a:before, .widget_calendar #today, .widget_calendar #today a, .entry-action-btn, .posts-navigation__label:before, 
+            .comment-form .form-submit input[type='submit'], .mnmd-carousel-dots-b .swiper-pagination-bullet-active,
+             .site-header--side-logo .header-logo:not(.header-logo--mobile), .list-square-bullet > li > *:before, .list-square-bullet-exclude-first > li:not(:first-child) > *:before,
+             .btn-primary, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, 
+             .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
+             div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form button[type=submit]:hover
+            {background-color: #02053C;}.site-header--skin-4 .navigation--main > li > a:before
+            {background-color: #02053C !important;}.post-score-hexagon .hexagon-svg g path
+            {fill: #02053C;}.has-overlap-frame:before, .mnmd-gallery-slider .fotorama__thumb-border, .bypostauthor > .comment-body .comment-author > img
+            {border-color: #02053C;}.mnmd-pagination--next-n-prev .mnmd-pagination__links a:last-child .mnmd-pagination__item:after
+            {border-left-color: #02053C;}.comments-count-box:before
+            {border-top-color: #02053C;}.navigation--offcanvas li > a:after
+            {border-right-color: #02053C;}.post--single-cover-gradient .single-header
+            {
+                background-image: -webkit-linear-gradient( bottom , #02053C 0%, rgba(252, 60, 45, 0.7) 50%, rgba(252, 60, 45, 0) 100%);
+                background-image: linear-gradient(to top, #02053C 0%, rgba(252, 60, 45, 0.7) 50%, rgba(252, 60, 45, 0) 100%);
+            }.subscribe-form__fields input[type='submit']:hover,
+            .comment-form .form-submit input[type='submit']:active, .comment-form .form-submit input[type='submit']:focus, .comment-form .form-submit input[type='submit']:hover
+            {background-color: #02053C;}mnmd-video-box__playlist .is-playing .post__thumb:after { content: 'Now playing'; }
+</style>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin&#038;display=swap&#038;ver=1596035484" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin&#038;display=swap&#038;ver=1596035484" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin&#038;display=swap&#038;ver=1596035484" /></noscript><script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js' id='ppress-flatpickr-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js' id='ppress-select2-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/plugins/eg-comments/assets/js/frontend.js' id='frontend-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.dailyesports.gg/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dailyesports.gg/wp-json/wp/v2/posts/61578" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dailyesports.gg/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dailyesports.gg/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://www.dailyesports.gg/?p=61578' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dailyesports.gg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dailyesports.gg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F&#038;format=xml" />
+<meta name="framework" content="Redux 4.2.14" /><meta property="og:url" content="https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/" /><meta property="og:type" content="article" /><meta property="og:title" content="Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin" /><meta property="og:description" content="Fortnite Chapter 2 &#8211; Season 4 is on the horizon and leaks are already starting to come through. Data-miners have been able to sneak into the game files and find all kinds of juicy tidbits for the new installment of the battle royale. One recent leak to make its way into the limelight is regarding the Season 4 Battle Pass. Many have speculated what the secret Battle Pass could be, seeing as Epic Games have included stellar characters for Seasons 2 and 3. While unconfirmed, it appears that Wolverine from X-Men could be the secret character. Wolverine the next Fortnite [&hellip;]" /><meta property="og:image" content="https://www.dailyesports.gg/wp-content/uploads/2020/08/Wolv-1024x576.jpg" />
+
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Valorant","url":"https:\/\/www.dailyesports.gg\/valorant\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"LoL","url":"https:\/\/www.dailyesports.gg\/league-of-legends\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Overwatch","url":"https:\/\/www.dailyesports.gg\/overwatch\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Fortnite","url":"https:\/\/www.dailyesports.gg\/fortnite\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"CoD","url":"https:\/\/www.dailyesports.gg\/call-of-duty\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"MTG","url":"https:\/\/www.dailyesports.gg\/mtg\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"More","url":"https:\/\/www.dailyesports.gg\/news\/games\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Top Stories","url":"https:\/\/www.dailyesports.gg\/tag\/topstories\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Guides","url":"https:\/\/www.dailyesports.gg\/feature\/guides\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Editorials","url":"https:\/\/www.dailyesports.gg\/feature\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Interviews","url":"https:\/\/www.dailyesports.gg\/feature\/interviews\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Apex Legends","url":"https:\/\/www.dailyesports.gg\/apex-legends\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"CS:GO","url":"https:\/\/www.dailyesports.gg\/csgo\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Dota 2","url":"https:\/\/www.dailyesports.gg\/dota-2\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Escape from Tarkov","url":"https:\/\/www.dailyesports.gg\/escape-from-tarkov\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"FIFA","url":"https:\/\/www.dailyesports.gg\/fifa\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Hearthstone","url":"https:\/\/www.dailyesports.gg\/hearthstone\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Heroes of the Storm","url":"https:\/\/www.dailyesports.gg\/heroes-of-the-storm\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Pok\u00e9mon","url":"https:\/\/www.dailyesports.gg\/pokemon\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"PUBG","url":"https:\/\/www.dailyesports.gg\/pubg\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Rocket League","url":"https:\/\/www.dailyesports.gg\/rocket-league\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Starcraft 2","url":"https:\/\/www.dailyesports.gg\/starcraft-2\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Street Fighter","url":"https:\/\/www.dailyesports.gg\/street-fighter\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"Super Smash Bros.","url":"https:\/\/www.dailyesports.gg\/smash-fgc\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/www.dailyesports.gg\/#Headliner Navigation","name":"All Games","url":"https:\/\/www.dailyesports.gg\/news\/games\/"}]},
+
+{"@context":"https:\/\/schema.org","@type":"BlogPosting","@id":"https:\/\/www.dailyesports.gg\/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin\/#BlogPosting","url":"https:\/\/www.dailyesports.gg\/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin\/","inLanguage":"en-US","mainEntityOfPage":"https:\/\/www.dailyesports.gg\/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin\/","headline":"Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin","description":"X-Men superhero Wolverine is apparently in the running to be the secret Battle Pass skin for Fortnite Chapter 2 - Season 4.","articleBody":"Fortnite Chapter 2 - Season 4 is on the horizon and leaks are already starting to come through. Data-miners have been able to sneak into the game files and find all kinds of juicy tidbits for the new installment of the battle royale. One recent leak to make its way into the limelight is regarding the Season 4 Battle Pass. Many have speculated what the secret Battle Pass could be, seeing as Epic Games have included stellar characters for Seasons 2 and 3. While unconfirmed, it appears that Wolverine from X-Men could be the secret character.  Wolverine the next Fortnite Battle Pass skin?  In Fortnite Chapter 2 - Season 2, Epic Games threw a curveball at the community. For the first time, a superhero was the secret Battle Pass skin, as Deadpool made his presence known all season long. Next, in Season 3, Aquaman took his turn as the most desired skin in Fortnite.    With a recent string of superheroes in the Battle Pass, one can surmise that Season 4 will follow the same path. Again, though it's unconfirmed, one leak suggests Wolverine is next in line.    https:\/\/twitter.com\/HYPEX\/status\/1294647575115694080    According to @HYPEX, who is arguably the community's most trusted leaker, and his source, Wolverine looks primed to appear in Fortnite. We're not sure who this \"trusted source\" is, but it very well could be someone at Epic Games.    Regardless though, the source states that Epic is working on a Wolverine cosmetic set that includes a skin and pickaxe. The source doesn't know for sure whether this means Wolverine will be an Item Shop skin or the secret Battle Pass skin. However, the recent trend of Battle Pass superheroes is leading us towards the latter.    Chapter 2 - Season 4 of Fortnite is set to release on August 28. Epic Games have made no plans to delay the season, so fans can pencil in this date on their calendar.    Make sure to stay tuned to Daily Esports for all Fortnite news.","keywords":"Battle Pass, season 4, ","datePublished":"2020-08-15T18:31:38-04:00","dateModified":"2020-08-15T18:31:38-04:00","author":{"@type":"Person","name":"Joey Carr","description":"Joey Carr is a full-time writer for multiple esports and gaming websites. He has 6+ years of experience covering esports and traditional sporting events, including DreamHack Atlanta, Call of Duty Championships 2017, and Super Bowl 53.","url":"https:\/\/www.dailyesports.gg\/author\/joeycarr\/","sameAs":["twitter.com\/JoeyCarr9"],"image":{"@type":"ImageObject","url":"https:\/\/www.dailyesports.gg\/wp-content\/uploads\/2021\/03\/790ef83df6974e60d4f58da7db7f5de7.jpg","height":96,"width":96}},"editor":{"@type":"Person","name":"Joey Carr","description":"Joey Carr is a full-time writer for multiple esports and gaming websites. He has 6+ years of experience covering esports and traditional sporting events, including DreamHack Atlanta, Call of Duty Championships 2017, and Super Bowl 53.","url":"https:\/\/www.dailyesports.gg\/author\/joeycarr\/","sameAs":["twitter.com\/JoeyCarr9"],"image":{"@type":"ImageObject","url":"https:\/\/www.dailyesports.gg\/wp-content\/uploads\/2021\/03\/790ef83df6974e60d4f58da7db7f5de7.jpg","height":96,"width":96}},"publisher":{"@type":"Organization","name":"Daily Esports","url":"https:\/\/www.dailyesports.gg","logo":{"@type":"ImageObject","url":"https:\/\/www.dailyesports.gg\/wp-content\/uploads\/2020\/09\/dailyesports.jpg","width":"160","height":"50"}},"image":[{"@type":"ImageObject","@id":"https:\/\/www.dailyesports.gg\/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin\/#primaryimage","url":"https:\/\/www.dailyesports.gg\/wp-content\/uploads\/2020\/08\/Wolv.jpg","width":"1280","height":"720"}]}]
+</script>
+<link rel="icon" href="https://www.dailyesports.gg/wp-content/uploads/2019/12/32x32_dark.png" sizes="32x32" />
+<link rel="icon" href="https://www.dailyesports.gg/wp-content/uploads/2019/12/32x32_dark.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.dailyesports.gg/wp-content/uploads/2019/12/32x32_dark.png" />
+<meta name="msapplication-TileImage" content="https://www.dailyesports.gg/wp-content/uploads/2019/12/32x32_dark.png" />
+<style id="tnm_option-dynamic-css" title="dynamic-css" class="redux-options-output">body{font-family:Montserrat,Arial, Helvetica, sans-serif;font-display:swap;}.post__title, .entry-title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .text-font-primary, .social-tile__title, .widget_recent_comments .recentcomments > a, .widget_recent_entries li > a, .modal-title.modal-title, .author-box .author-name a, .comment-author, .widget_calendar caption, .widget_categories li>a, .widget_meta ul, .widget_recent_comments .recentcomments>a, .widget_recent_entries li>a, .widget_pages li>a{font-family:Montserrat,Arial, Helvetica, sans-serif;font-display:swap;}.text-font-secondary, .block-heading__subtitle, .widget_nav_menu ul, .navigation .sub-menu, .typography-copy blockquote, .comment-content blockquote{font-family:Montserrat,Arial, Helvetica, sans-serif;font-display:swap;}.mobile-header-btn, .navigation-bar-btn, .navigation, .menu, .mnmd-mega-menu__inner > .sub-menu > li > a, .meta-text, a.meta-text, .meta-font, a.meta-font, .text-font-tertiary, .block-heading, .block-heading__title, .block-heading-tabs, .block-heading-tabs > li > a, input[type="button"]:not(.btn), input[type="reset"]:not(.btn), input[type="submit"]:not(.btn), .btn, label, .category-tile__name, .page-nav, .post-score, .post-score-hexagon .post-score-value, .post__cat, a.post__cat, .entry-cat, a.entry-cat, .read-more-link, .post__meta, .entry-meta, .entry-author__name, a.entry-author__name, .comments-count-box, .widget__title-text, .mnmd-widget-indexed-posts-a .posts-list > li .post__thumb:after, .mnmd-widget-indexed-posts-b .posts-list > li .post__title:after, .mnmd-widget-indexed-posts-c .list-index, .social-tile__count, .widget_recent_comments .comment-author-link, .mnmd-video-box__playlist .is-playing .post__thumb:after, .mnmd-posts-listing-a .cat-title, .mnmd-news-ticker__heading, .page-heading__title, .post-sharing__title, .post-sharing--simple .sharing-btn, .entry-action-btn, .entry-tags-title, .post-categories__title, .posts-navigation__label, .comments-title, .comments-title__text, .comments-title .add-comment, .comment-metadata, .comment-metadata a, .comment-reply-link, .comment-reply-title, .countdown__digit, .modal-title, .comment-reply-title, .comment-meta, .comment .reply, .wp-caption, .gallery-caption, .widget-title, .btn, .navigation, .logged-in-as, .countdown__digit, .mnmd-widget-indexed-posts-a .posts-list>li .post__thumb:after, .mnmd-widget-indexed-posts-b .posts-list>li .post__title:after, .mnmd-widget-indexed-posts-c .list-index, .mnmd-horizontal-list .index, .mnmd-pagination, .mnmd-pagination--next-n-prev .mnmd-pagination__label{font-family:Montserrat,Arial, Helvetica, sans-serif;font-display:swap;}.header-main{padding-top:40px;padding-bottom:40px;}</style> 
+<script type="application/ld+json">
+{
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.dailyesports.gg/fortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin/"
+          },
+          "headline": "Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin",
+          "image": [
+            "https://www.dailyesports.gg/wp-content/uploads/2020/08/Wolv.jpg"
+           ],
+          "datePublished": "2020-08-15T22:31:38+00:00",
+          "dateModified": "2020-08-15T18:31:38-04:00",
+          "author": {
+            "@type": "Person",
+            "name": "Joey Carr"
+          },
+           "publisher": {
+            "@type": "Organization",
+            "name": "Daily Esports",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.dailyesports.gg/wp-content/uploads/2019/12/logo.png"
+            }
+          },
+          "description": ""
+        }
+        </script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+</head>
+<body class="post-template-default single single-post postid-61578 single-format-standard header-6">
+<script type="text/javascript">
+    ;(function (window, document, undefined) {
+        var body = document.body;
+        // If user doesnt have local storage, leave this function
+        if (!('localStorage' in window)) return;
+        var nightMode = localStorage.getItem('themeSwitch');
+
+        // This is a check to force night mode to be active when users FIRST visit the site
+        if(nightMode == null){
+            localStorage.setItem('themeSwitch', true);
+            body.classList.add("dark-mode-enabled");
+        } else if (nightMode === 'true') {
+            body.classList.add("dark-mode-enabled");
+        } else {
+            body.classList.remove("dark-mode-enabled");
+        }
+    })(window, document);
+    function toggleDarkMode() {
+        // Fetch the value from localstorage
+        var nightMode = localStorage.getItem('themeSwitch');
+
+        if(nightMode === 'true') {
+            localStorage.setItem('themeSwitch', false);
+            document.body.classList.remove("dark-mode-enabled");
+        } else {
+            localStorage.setItem('themeSwitch', true);
+            document.body.classList.add("dark-mode-enabled");
+        }
+
+        var container = document.querySelector('eg-comments');
+        var ssoWidget = container.shadowRoot.querySelector("#comments");
+        // Check to see if the widget exists on the page
+        if(ssoWidget) {
+            // console.log("look for me" + ssoWidget);
+            if(nightMode === 'true') {
+                ssoWidget.classList.remove("widget-dark-mode");
+            } else {
+                ssoWidget.classList.add("widget-dark-mode");
+            }
+        }
+    }
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3P944L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="eg-custom-ad">
+<div id=div-gpt-ad-1528218839586-0></div></div>
+<div class="site-wrapper">
+<header class="site-header">
+
+<div id="mnmd-mobile-header" class="mobile-header visible-xs visible-sm  mobile-header--inverse">
+<div class="mobile-header__inner mobile-header__inner--flex">
+
+<div class="header-branding header-branding--mobile mobile-header__section text-left">
+<div class="header-logo header-logo--mobile flexbox__item text-left">
+<a href="https://www.dailyesports.gg">
+<img src="https://www.dailyesports.gg/wp-content/uploads/2019/12/dailyesportslogosm.jpg.png" alt="logo" />
+</a>
+</div>
+</div>
+
+<div class="mobile-header__section text-right">
+<button class="mobile-toggle-button">
+<img class="dark-mode-toggle" onclick="toggleDarkMode()" src="https://www.dailyesports.gg/wp-content/themes/the-next-mag_child/assets/images/sun-icon.png" alt="Dark Mode">
+</button>
+<button type="submit" class="mobile-header-btn js-search-dropdown-toggle">
+<span class="hidden-xs">Search</span><i class="mdicon mdicon-search mdicon--last hidden-xs"></i><i class="mdicon mdicon-search visible-xs-inline-block"></i>
+</button>
+<a href="#mnmd-offcanvas-mobile" class="offcanvas-menu-toggle mobile-header-btn js-mnmd-offcanvas-toggle">
+<span class="hidden-xs">Menu</span><i class="mdicon mdicon-menu mdicon--last hidden-xs"></i><i class="mdicon mdicon-menu visible-xs-inline-block"></i>
+</a>
+</div>
+</div>
+</div>
+
+<nav class="navigation-bar navigation-bar--fullwidth hidden-xs hidden-sm js-sticky-header-holder  navigation-bar--inverse">
+<div class="navigation-bar__inner">
+<div class="navigation-bar__section">
+<div class="site-logo header-logo">
+<a href="https://www.dailyesports.gg">
+
+<img src="https://www.dailyesports.gg/wp-content/uploads/2019/12/logo.png" alt="logo" />
+
+</a>
+</div>
+</div>
+<div class="navigation-wrapper navigation-bar__section js-priority-nav">
+<div id="main-menu" class="menu-wevemoved-container"><ul id="menu-wevemoved" class="navigation navigation--main navigation--inline"><li id="menu-item-80951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80951"><a href="https://www.upcomer.com">We&#8217;ve moved! Visit www.upcomer.com</a></li>
+</ul></div> </div>
+<div class="navigation-bar__section">
+<ul class="social-list list-horizontal  social-list--inverse">
+<li class="custom-toggle">
+
+<img class="dark-mode-toggle" onclick="toggleDarkMode()" src="https://www.dailyesports.gg/wp-content/themes/the-next-mag_child/assets/images/sun-icon.png" alt="Dark Mode">
+</li>
+<li><a href="https://www.facebook.com/dailyesportsgg/" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li><li><a href="https://twitter.com/dailyesportsgg" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/dailyesports/" target="_blank"><i class="mdicon mdicon-linkedin"></i></a></li><li><a href="https://www.youtube.com/c/DailyesportsTv" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li><li><a href="https://www.dailyesports.gg/feed/" target="_blank"><i class="mdicon mdicon-rss_feed"></i></a></li> <li class="js-search-dropdown-toggle custom-search"><i class="mdicon mdicon-search"></i></li>
+</ul>
+</div>
+</div>
+<div id="header-search-dropdown" class="header-search-dropdown ajax-search is-in-navbar js-ajax-search">
+<div class="container container--narrow">
+<form class="search-form search-form--horizontal" method="get" action="https://www.dailyesports.gg/">
+<div class="search-form__input-wrap">
+<input type="text" name="s" class="search-form__input" placeholder="Search" value="" />
+</div>
+<div class="search-form__submit-wrap">
+<button type="submit" class="search-form__submit btn btn-primary">Search</button>
+</div>
+</form>
+<div class="search-results">
+<div class="typing-loader"></div>
+<div class="search-results__inner"></div>
+</div>
+</div>
+</div> </nav>
+</header>
+<div class="site-content single-entry">
+<div class="mnmd-block mnmd-block--fullwidth single-header-wrap">
+<div class="container">
+<header class="single-header">
+<a class="cat-450 post__cat cat-theme" href="https://www.dailyesports.gg/fortnite/">Fortnite</a> <h1 class="entry-title entry-title--lg">Fortnite leak suggests Wolverine could be secret Season 4 Battle Pass skin</h1>
+
+<div class="entry-meta">
+<span class="entry-author entry-author--with-ava">
+<img data-del="avatar" alt="Joey Carr" src='https://www.dailyesports.gg/wp-content/uploads/2021/03/790ef83df6974e60d4f58da7db7f5de7-75x75.jpg' class='avatar pp-user-avatar avatar-34 photo entry-author__avatar' height='34' width='34' />By <a class="entry-author__name" title="Posts by Joey Carr" rel="author" href="https://www.dailyesports.gg/author/joeycarr/">Joey Carr</a> </span>
+<time class="time published" datetime="2020-08-15T22:31:38+00:00" title="August 15, 2020 at 6:31 pm"><i class="mdicon mdicon-schedule"></i>August 15, 2020</time></div>
+<br />
+<center>
+<div id=div-gpt-ad-1528218839586-4></div> </center>
+</header>
+<div class="entry-interaction entry-interaction--horizontal">
+<div class="entry-interaction__left">
+<div class="post-sharing post-sharing--simple">
+<ul>
+<li><a class="sharing-btn sharing-btn-primary facebook-btn facebook-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Facebook" onClick="window.open('http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F"><i class="mdicon mdicon-facebook"></i><span class="sharing-btn__text">Share</span></a></li><li><a class="sharing-btn sharing-btn-primary twitter-btn twitter-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Twitter" onClick="window.open('http://twitter.com/share?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F&amp;text=Fortnite%20leak%20suggests%20Wolverine%20could%20be%20secret%20Season%204%20Battle%20Pass%20skin','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://twitter.com/share?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F&amp;text=Fortnite%20leak%20suggests%20Wolverine%20could%20be%20secret%20Season%204%20Battle%20Pass%20skin"><i class="mdicon mdicon-twitter"></i><span class="sharing-btn__text">Tweet</span></a></li><li><a class="sharing-btn pinterest-btn pinterest-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Pinterest" href="javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;http://assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="mdicon mdicon-pinterest-p"></i><span class="sharing-btn__text">Pin</span></a></li><li><a class="sharing-btn linkedin-btn linkedin-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Linkedin" onClick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F"><i class="mdicon mdicon-linkedin"></i><span class="sharing-btn__text">Share</span></a></li> </ul>
+</div>
+</div>
+<div class="entry-interaction__right">
+<a href="#comments" class="comments-count entry-action-btn" data-toggle="tooltip" data-placement="top" title="0 Comments"><i class="mdicon mdicon-chat_bubble"></i><span>0</span></a> </div>
+</div>
+</div>
+</div>
+<div class="mnmd-block mnmd-block--fullwidth single-entry-wrap">
+<div class="container">
+<div class="row">
+<div class="mnmd-main-col " role="main">
+<article class="mnmd-block post--single post-61578 post type-post status-publish format-standard has-post-thumbnail hentry category-fortnite tag-battle-pass tag-season-4">
+<div class="single-content">
+<div class="entry-thumb single-entry-thumb"><img width="800" height="400" src="https://www.dailyesports.gg/wp-content/uploads/2020/08/Wolv-800x400.jpg" class="attachment-tnm-m-2_1 size-tnm-m-2_1 wp-post-image" alt="Wolverine Fortnite Season 4 Battle Pass" /></div> <div class="single-body entry-content typography-copy">
+<p><em>Fortnite</em> <a href="https://www.dailyesports.gg/fortnite-chapter-2-season-4-could-include-marvel-superhero-thor/" target="_blank" rel="noopener noreferrer">Chapter 2 &#8211; Season 4</a> is on the horizon and leaks are already starting to come through. Data-miners have been able to sneak into the game files and find all kinds of juicy tidbits for the new installment of the battle royale. One recent leak to make its way into the limelight is regarding the Season 4 Battle Pass. Many have speculated what the secret Battle Pass could be, seeing as Epic Games have included stellar characters for Seasons 2 and 3. While unconfirmed, it appears that Wolverine from <em>X-Men</em> could be the secret character.</p>
+<h2>Wolverine the next Fortnite Battle Pass skin?</h2>
+<p>In <em>Fortnite</em> Chapter 2 &#8211; Season 2, Epic Games threw a curveball at the community. For the first time, a superhero was the secret Battle Pass skin, as <a href="https://www.dailyesports.gg/deadpools-special-event-in-fortnite-revealed-to-start-on-april-3/" target="_blank" rel="noopener noreferrer">Deadpool made his presence known</a> all season long. Next, in Season 3, <a href="https://www.dailyesports.gg/how-to-unlock-the-arthur-curry-and-aquaman-skins-in-fortnite-season-3/" target="_blank" rel="noopener noreferrer">Aquaman took his turn</a> as the most desired skin in <em>Fortnite</em>.</p>
+<p>With a recent string of superheroes in the Battle Pass, one can surmise that Season 4 will follow the same path. Again, though it&#8217;s unconfirmed, <a href="https://twitter.com/HYPEX/status/1294647575115694080" target="_blank" rel="noopener noreferrer">one leak suggests</a> Wolverine is next in line.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">POSSIBLE Leak: Epic were planning to make a Wolverine skin &amp; Wolverine Claws pickaxe, he might be the season 4 secret skin or just an itemshop skin! (this is from a very trusted source)</p>
+<p>&mdash; HYPEX (@HYPEX) <a href="https://twitter.com/HYPEX/status/1294647575115694080?ref_src=twsrc%5Etfw">August 15, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>According to <a href="https://twitter.com/HYPEX/status/1294647575115694080" target="_blank" rel="noopener noreferrer">@HYPEX</a>, who is arguably the community&#8217;s most trusted leaker, and his source, Wolverine looks primed to appear in <em>Fortnite</em>. We&#8217;re not sure who this &#8220;trusted source&#8221; is, but it very well could be <a href="https://www.dailyesports.gg/epic-games-employee-reportedly-fed-information-to-fortnite-leakers/" target="_blank" rel="noopener noreferrer">someone at Epic Games</a>.</p>
+<p>Regardless though, the source states that Epic is working on a Wolverine cosmetic set that includes a skin and pickaxe. The source doesn&#8217;t know for sure whether this means Wolverine will be an Item Shop skin or the secret Battle Pass skin. However, the recent trend of Battle Pass superheroes is leading us towards the latter.</p>
+<p>Chapter 2 &#8211; Season 4 of Fortnite is set to release on August 28. Epic Games have made no plans to delay the season, so fans can pencil in this date on their calendar.</p>
+<p>Make sure to stay tuned to <a href="https://www.dailyesports.gg/fortnite/">Daily Esports</a> for all <em>Fortnite</em> news.</p>
+</div>
+<footer class="single-footer entry-footer">
+<div class="entry-info">
+<div class="row row--space-between grid-gutter-10">
+<div class="entry-categories col-sm-6">
+<ul>
+<li class="entry-categories__icon"><i class="mdicon mdicon-folder"></i><span class="sr-only">Posted in</span></li>
+<li><a class="cat-450 entry-cat cat-theme" href="https://www.dailyesports.gg/fortnite/">Fortnite</a></li> </ul>
+</div>
+<div class="entry-tags col-sm-6">
+<ul>
+<li class="entry-tags__icon"><i class="mdicon mdicon-local_offer"></i><span class="sr-only">Tagged with</span></li>
+<li><a class="post-tag" rel="tag" href="https://www.dailyesports.gg/tag/battle-pass/">Battle Pass</a></li><li><a class="post-tag" rel="tag" href="https://www.dailyesports.gg/tag/season-4/">season 4</a></li> </ul>
+</div>
+</div>
+</div>
+<div class="entry-interaction entry-interaction--horizontal">
+<div class="entry-interaction__left">
+<div class="post-sharing post-sharing--simple">
+<ul>
+<li><a class="sharing-btn sharing-btn-primary facebook-btn facebook-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Facebook" onClick="window.open('http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F"><i class="mdicon mdicon-facebook"></i><span class="sharing-btn__text">Share</span></a></li><li><a class="sharing-btn sharing-btn-primary twitter-btn twitter-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Twitter" onClick="window.open('http://twitter.com/share?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F&amp;text=Fortnite%20leak%20suggests%20Wolverine%20could%20be%20secret%20Season%204%20Battle%20Pass%20skin','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://twitter.com/share?url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F&amp;text=Fortnite%20leak%20suggests%20Wolverine%20could%20be%20secret%20Season%204%20Battle%20Pass%20skin"><i class="mdicon mdicon-twitter"></i><span class="sharing-btn__text">Tweet</span></a></li><li><a class="sharing-btn pinterest-btn pinterest-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Pinterest" href="javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;http://assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="mdicon mdicon-pinterest-p"></i><span class="sharing-btn__text">Pin</span></a></li><li><a class="sharing-btn linkedin-btn linkedin-theme-bg" data-toggle="tooltip" data-placement="top" title="Share on Linkedin" onClick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.dailyesports.gg%2Ffortnite-leak-suggests-wolverine-could-be-secret-season-4-battle-pass-skin%2F"><i class="mdicon mdicon-linkedin"></i><span class="sharing-btn__text">Share</span></a></li> </ul>
+</div>
+</div>
+<div class="entry-interaction__right">
+<a href="#comments" class="comments-count entry-action-btn" data-toggle="tooltip" data-placement="top" title="0 Comments"><i class="mdicon mdicon-chat_bubble"></i><span>0</span></a> </div>
+</div>
+</footer> </div>
+</article>
+<div id="eg-comments-anchor">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<eg-comments></eg-comments>
+<div class="hidden" id="hidden-file-location">https://www.dailyesports.gg/wp-content/plugins/eg-comments/eg-comments.js</div>
+<div class="hidden" id="profile-file-location">https://www.dailyesports.gg/wp-content/plugins/eg-comments/eg-profile.js</div>
+</div>
+<div class="author-box single-entry-section"><div class="author-box__image"><div class="author-avatar"><img data-del="avatar" alt="Joey Carr" src='https://www.dailyesports.gg/wp-content/uploads/2021/03/790ef83df6974e60d4f58da7db7f5de7.jpg' class='avatar pp-user-avatar avatar-180 photo avatar photo' height='180' width='180' /></div></div><div class="author-box__text"><div class="author-name meta-font"><a href="https://www.dailyesports.gg/author/joeycarr/" title="Posts by Joey Carr" rel="author">Joey Carr</a></div><div class="author-bio">Joey Carr is a full-time writer for multiple esports and gaming websites. He has 6+ years of experience covering esports and traditional sporting events, including DreamHack Atlanta, Call of Duty Championships 2017, and Super Bowl 53.</div><div class="author-info"><div class="row row--space-between row--flex row--vertical-center grid-gutter-20"><div class="author-socials col-xs-12 col-sm-6"><ul class="list-unstyled list-horizontal list-space-sm"><li><a href="/cdn-cgi/l/email-protection#452f2a203c2624373770052228242c296b262a28"><i class="mdicon mdicon-mail_outline"></i><span class="sr-only">e-mail</span></a></li> <li><a href="https://twitter.com/JoeyCarr9" target="_blank"><i class="mdicon mdicon-twitter"></i><span class="sr-only">Twitter</span></a></li></ul></div></div></div></div></div>  </div>
+<div class="mnmd-sub-col sidebar js-sticky-sidebar" role="complementary">
+<div class="theiaStickySidebar">
+<div id="custom_html-14" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="top-sidebar-ad">
+<div id="div-gpt-ad-1528218839586-1">
+</div>
+</div></div></div><div id="bk_widget_posts_list-25" class="widget mnmd-widget"><div class=""><div class="widget__title block-heading block-heading--line"><h4 class="widget__title-text">Guides</h4></div><div class="widget-content"><ul class="list-unstyled list-space-sm"><li> <article class="post--overlay post--overlay-bottom post--overlay-floorfade post--overlay-xs">
+<div class="background-img " style="background-image: url('https://www.dailyesports.gg/wp-content/uploads/2021/04/725-400x300.jpg');"></div>
+<div class="post__text inverse-text">
+<div class="post__text-wrap">
+<div class="post__text-inner ">
+<a class="cat-253 post__cat post__cat--bg cat-theme-bg" href="https://www.dailyesports.gg/call-of-duty/">Call of Duty</a> <h3 class="post__title typescale-1"><a href="https://www.dailyesports.gg/the-best-725-loadout-in-call-of-duty-warzone-season-2/">The best 725 loadout in Call of Duty: Warzone Season 2</a></h3>
+<div class="post__meta ">
+<time class="time published" datetime="2021-04-15T15:49:44+00:00" title="April 15, 2021 at 11:49 am"><i class="mdicon mdicon-schedule"></i>April 15, 2021</time> </div>
+</div>
+</div>
+</div>
+<a href="https://www.dailyesports.gg/the-best-725-loadout-in-call-of-duty-warzone-season-2/" class="link-overlay"></a>
+</article>
+</li><li> <article class="post post--horizontal post--horizontal-xxs">
+<div class="post__thumb ">
+<a href="https://www.dailyesports.gg/the-best-streetsweeper-loadout-in-black-ops-cold-war-season-2/"><img width="180" height="180" src="https://www.dailyesports.gg/wp-content/uploads/2021/04/Call-of-Duty-Black-Ops-Cold-War-Screenshot-2021.04.14-15.03.01.00-180x180.jpg" class="attachment-tnm-xxs-1_1 size-tnm-xxs-1_1 wp-post-image" alt="Best Streetsweeper loadout in Black Ops Cold War" /></a>  </div>
+<div class="post__text ">
+<h3 class="post__title typescale-0"><a href="https://www.dailyesports.gg/the-best-streetsweeper-loadout-in-black-ops-cold-war-season-2/">The best Streetsweeper loadout in Black Ops Cold War Season 2</a></h3>
+<div class="post__meta"><time class="time published" datetime="2021-04-15T15:18:28+00:00" title="April 15, 2021 at 11:18 am"><i class="mdicon mdicon-schedule"></i>April 15, 2021</time></div>
+</div>
+</article>
+</li><li> <article class="post post--horizontal post--horizontal-xxs">
+<div class="post__thumb ">
+<a href="https://www.dailyesports.gg/the-best-origin-12-loadout-in-call-of-duty-warzone-season-2/"><img width="180" height="180" src="https://www.dailyesports.gg/wp-content/uploads/2021/04/Origin-12-180x180.jpg" class="attachment-tnm-xxs-1_1 size-tnm-xxs-1_1 wp-post-image" alt="Best Origin 12 loadout in Warzone" /></a>  </div>
+<div class="post__text ">
+<h3 class="post__title typescale-0"><a href="https://www.dailyesports.gg/the-best-origin-12-loadout-in-call-of-duty-warzone-season-2/">The best Origin 12 loadout in Call of Duty: Warzone Season 2</a></h3>
+<div class="post__meta"><time class="time published" datetime="2021-04-14T16:39:49+00:00" title="April 14, 2021 at 12:39 pm"><i class="mdicon mdicon-schedule"></i>April 14, 2021</time></div>
+</div>
+</article>
+</li><li> <article class="post post--horizontal post--horizontal-xxs">
+<div class="post__thumb ">
+<a href="https://www.dailyesports.gg/the-best-m4a1-loadout-in-call-of-duty-warzone-season-2/"><img width="180" height="180" src="https://www.dailyesports.gg/wp-content/uploads/2021/04/M4-180x180.jpg" class="attachment-tnm-xxs-1_1 size-tnm-xxs-1_1 wp-post-image" alt="Best M4A1 loadout in Warzone" /></a>  </div>
+<div class="post__text ">
+<h3 class="post__title typescale-0"><a href="https://www.dailyesports.gg/the-best-m4a1-loadout-in-call-of-duty-warzone-season-2/">The best M4A1 loadout in Call of Duty: Warzone Season 2</a></h3>
+<div class="post__meta"><time class="time published" datetime="2021-04-14T15:56:55+00:00" title="April 14, 2021 at 11:56 am"><i class="mdicon mdicon-schedule"></i>April 14, 2021</time></div>
+</div>
+</article>
+</li><li> <article class="post post--horizontal post--horizontal-xxs">
+<div class="post__thumb ">
+<a href="https://www.dailyesports.gg/the-best-xm4-loadout-in-black-ops-cold-war-season-2/"><img width="180" height="180" src="https://www.dailyesports.gg/wp-content/uploads/2021/04/XM4-180x180.jpg" class="attachment-tnm-xxs-1_1 size-tnm-xxs-1_1 wp-post-image" alt="Best XM4 loadout in Black Ops Cold War" /></a>  </div>
+<div class="post__text ">
+<h3 class="post__title typescale-0"><a href="https://www.dailyesports.gg/the-best-xm4-loadout-in-black-ops-cold-war-season-2/">The best XM4 loadout in Black Ops Cold War Season 2</a></h3>
+<div class="post__meta"><time class="time published" datetime="2021-04-14T15:44:29+00:00" title="April 14, 2021 at 11:44 am"><i class="mdicon mdicon-schedule"></i>April 14, 2021</time></div>
+</div>
+</article>
+</li></ul></div> </div></div><div id="custom_html-15" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.dailyesports.gg/tag/guide/">more guides</a>
+<br><br>
+<div class="middle-sidebar-ad">
+<div id="div-gpt-ad-1528218839586-2">
+</div>
+</div></div></div><div id="custom_html-13" class="widget_text widget widget_custom_html"><div class="widget__title block-heading block-heading--line"><h4 class="widget__title-text">Popular Threads</h4></div><div class="textwidget custom-html-widget"><div id="eg-popular-threads"></div></div></div><div id="custom_html-16" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="bottom-sidebar-ad">
+<div id="div-gpt-ad-1528218839586-3">
+</div>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<eg-profile panel=''></eg-profile>
+<div id="eg-footer-preset">
+<center>
+<div id=div-gpt-ad-1528218839586-5></div> </center>
+</div>
+<footer class="site-footer footer-6   site-footer--inverse inverse-text">
+<div class="site-footer__section site-footer__section--flex site-footer__section--seperated">
+<div class="container">
+<div class="site-footer__section-inner">
+<div class="site-footer__section-left">
+<div class="site-logo">
+<a href="https://www.dailyesports.gg">
+
+<img src="https://www.dailyesports.gg/wp-content/uploads/2019/12/SVG-bottom-logo.svg" alt="logo" width="200" />
+
+</a>
+</div>
+</div>
+<div class="site-footer__section-right">
+<ul class="social-list social-list--lg list-horizontal">
+<li><a href="https://www.facebook.com/dailyesportsgg/" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li><li><a href="https://twitter.com/dailyesportsgg" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/dailyesports/" target="_blank"><i class="mdicon mdicon-linkedin"></i></a></li><li><a href="https://www.dailyesports.gg/feed/" target="_blank"><i class="mdicon mdicon-rss_feed"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div class="site-footer__section site-footer__section--flex site-footer__section--bordered-inner">
+<div class="container">
+<div class="site-footer__section-inner">
+<div class="site-footer__section-left">
+For the true esports enthusiast </div>
+<div class="site-footer__section-right">
+<nav class="footer-menu">
+<div class="menu-footer-container"><ul id="menu-footer" class="navigation navigation--footer navigation--inline"><li id="menu-item-34926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34926"><a href="https://www.dailyesports.gg/amp/">&#8220;Lite&#8221; Version</a></li>
+<li id="menu-item-4639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4639 menu-item-cat-1"><a href="https://www.dailyesports.gg/op-ed/">Features</a></li>
+<li id="menu-item-4665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4665"><a href="https://www.dailyesports.gg/about-us/">About</a></li>
+<li id="menu-item-4976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4976"><a href="https://www.dailyesports.gg/privacy-policy/">Privacy</a></li>
+<li id="menu-item-19807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19807"><a href="https://www.dailyesports.gg/contact-us/">Contact</a></li>
+</ul></div> </nav>
+</div>
+</div>
+</div>
+
+</div>
+<div id="closing-footer">
+ <ul id="eg-network">
+<li><a target="_blank" href="https://www.operationsports.com">OperationSports</a></li>
+<li><a target="_blank" href="https://www.planetdestiny.com">Destiny</a></li>
+<li><a target="_blank" href="https://www.destructoid.com">Destructoid</a></li>
+<li><a target="_blank" href="https://www.escapistmagazine.com/v2/">Escapist</a></li>
+<li><a target="_blank" href="https://www.siliconera.com">Siliconera</a></li>
+<li><a target="_blank" href="https://www.pcinvasion.com/">PC</a></li>
+<li><a target="_blank" href="https://www.nintendoenthusiast.com/">Nintendo</a></li>
+<li><a target="_blank" href="https://www.playstationenthusiast.com/">PlayStation</a></li>
+<li><a target="_blank" href="https://www.xboxenthusiast.com/">Xbox</a></li>
+<li><a target="_blank" href="https://www.thesimsresource.com/">The Sims Resource</a></li>
+</ul>
+<div id="privacy-and-cookie-compliance-notice">
+<div id="compliance_notice">
+<a href="https://www.enthusiastgaming.com/careers/" target="_blank">Careers</a>
+<a href="https://www.enthusiastgaming.com" target="_blank">Enthusiast Gaming: Gamers Live Here</a>
+</div>
+</div>
+</div>
+</footer>
+
+<div id="mnmd-offcanvas-mobile" class="mnmd-offcanvas js-mnmd-offcanvas js-perfect-scrollbar">
+<div class="mnmd-offcanvas__title">
+<h2 class="site-logo">
+<a href="https://www.dailyesports.gg">
+
+<img src="https://www.dailyesports.gg/wp-content/uploads/2019/12/logo.png" alt="logo" />
+
+</a>
+</h2>
+<ul class="social-list list-horizontal">
+<li><a href="https://www.facebook.com/dailyesportsgg/" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li><li><a href="https://twitter.com/dailyesportsgg" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/dailyesports/" target="_blank"><i class="mdicon mdicon-linkedin"></i></a></li><li><a href="https://www.youtube.com/c/DailyesportsTv" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li> </ul>
+<a href="#mnmd-offcanvas-mobile" class="mnmd-offcanvas-close js-mnmd-offcanvas-close" aria-label="Close"><span aria-hidden="true">&#10005;</span></a>
+</div>
+<div class="mnmd-offcanvas__section mnmd-offcanvas__section-navigation">
+<div id="offcanvas-menu-mobile" class="menu-wevemoved-container"><ul id="menu-wevemoved-1" class="navigation navigation--offcanvas"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80951"><a href="https://www.upcomer.com">We&#8217;ve moved! Visit www.upcomer.com</a></li>
+</ul></div> </div>
+</div>
+<a href="#" class="mnmd-go-top btn btn-default hidden-xs js-go-top-el"><i class="mdicon mdicon-arrow_upward"></i></a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/plugins/tnm-shortcode/js/shortcode.js' id='bkswjs-js'></script>
+<script type='text/javascript' id='ppress-frontend-script-js-extra'>
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.dailyesports.gg\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"015ae6dba6","disable_ajax_form":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js' id='ppress-frontend-script-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/ui/tabs.min.js' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/ui/accordion.min.js' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/jquery/jquery.masonry.min.js' id='jquery-masonry-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/throttle-debounce.min.js' id='throttle-debounce-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/countdown.min.js' id='final-countdown-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/flickity.min.js' id='flickity-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/fotorama.min.js' id='fotorama-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/magnific-popup.min.js' id='magnific-popup-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/owl-carousel.min.js' id='owl-carousel-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/perfect-scrollbar.min.js' id='perfect-scrollbar-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/theiaStickySidebar.min.js' id='theiaStickySidebar-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/vticker.min.js' id='vticker-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/vendors/fitvids.js' id='fitvids-js'></script>
+<script type='text/javascript' id='thenextmag-scripts-js-extra'>
+/* <![CDATA[ */
+var ajax_buff = {"tnm_security":{"tnm_security_code":{"content":"539b01c25c"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-content/themes/the-next-mag/js/scripts.js' id='thenextmag-scripts-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' defer src='https://www.dailyesports.gg/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+</body>
+</html>

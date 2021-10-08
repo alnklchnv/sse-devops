@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+
+
+
+
+
+
+
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://media.eventhubs.com/static/favicon.ico"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="https://media.eventhubs.com/static/favicon-16.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://media.eventhubs.com/static/favicon-32.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://media.eventhubs.com/static/apple-touch-icon.png">
+    
+    <meta name="verify-v1" content="uPyWXwJfT2z6O23U7o8EN7ep3DX/pgEmUYNgeYNQY3k=" />
+    <meta name="google-site-verification" content="uv4XTiysgLiRse_bGEm8ZisH83X9P1Ty4eSBRQzLxmA" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="alternate" type="application/rss+xml" title="Street Fighter news on EventHubs.com" href="https://www.eventhubs.com/feeds/latest/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="EventHubs" />
+    
+    
+      <meta name="keywords" content="Dragon Ball Z, Tekken news" />
+      <meta name="news_keywords" content="Over, 50, percent, console, fighting, game, players, use, Wi-Fi, online, matches, Katsuhiro, Harada, Dragon Ball Z, Tekken, General, SoulCalibur, " />
+      <meta name="description" content="As the focus of the fighting game community shifted this year towards almost exclusively online play, the players have pushed more and more the importance of using a wired connection in an age where wireless tends to rule all.Following ..." />
+      
+         <meta property="og:image" content="https://media.eventhubs.com/images/2020/08/2-over-50-percent-console-fighting-game-players-use-wi-fi-online-mt.jpg" />
+      
+      
+      
+      <meta property="og:title" content="Over 50 percent of console fighting game players use Wi-Fi for online matches according to Katsuhiro Harada" />
+      <meta property="og:url" content="https://www.eventhubs.com/news/2020/aug/02/over-50-percent-console-fighting-game-players-use-wi-fi-online-matches-according-katsuhiro-harada/" />
+      <meta property="og:type" content="article" />
+      <meta property="og:description" content="As the focus of the fighting game community shifted this year towards almost exclusively online play, the players have pushed more and more the importance of using a wired connection in an age where wireless tends to rule all.Following ..." />
+      <meta name="author" content="Dakota &#39;DarkHorse&#39; Hills">
+      <meta property="article:published_time" content="2020-08-02T09:53:48-07:00" />
+      <meta property="article:modified_time" content="2020-08-02T10:28:49-07:00" />
+      
+      <title>Over 50 percent of console fighting game players use Wi-Fi for online matches according to Katsuhiro Harada</title>
+      <link rel="canonical" href="https://www.eventhubs.com/news/2020/aug/02/over-50-percent-console-fighting-game-players-use-wi-fi-online-matches-according-katsuhiro-harada/"/>
+      
+      
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@eventhubs" />
+      <meta name="twitter:title" content="Over 50 percent of console fighting game players use Wi-Fi for online matches according to Katsuhiro Harada" />
+      <meta name="twitter:description" content="As the focus of the fighting game community shifted this year towards almost exclusively online play, the players have pushed more and more the importance of using a wired connection in an age where wireless tends to rule all.Following ..." />
+      <meta name="twitter:image" content="https://media.eventhubs.com/images/2020/08/2-over-50-percent-console-fighting-game-players-use-wi-fi-online-mt.jpg" />
+      <meta name="robots" content="max-image-preview:large">
+      
+      
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4P9LFCBFR"></script>
+     <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-Y4P9LFCBFR');
+    </script>    
+    
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://quantcast.mgr.consensu.org'
+    .concat('/choice/', '9bgEd_gJkQGl-', '/', host, '/choice.js')
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+    
+    
+    
+    
+    
+	
+<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+<script src="https://a.pub.network/eventhubs/pubfig.min.js" async></script>	
+
+    
+    
+
+    
+    <script>
+    !function(e){"use strict";var n=function(n,t,o){function i(e){if(a.body)return e();setTimeout(function(){i(e)})}function r(){l.addEventListener&&l.removeEventListener("load",r),l.media=o||"all"}var d,a=e.document,l=a.createElement("link");if(t)d=t;else{var f=(a.body||a.getElementsByTagName("head")[0]).childNodes;d=f[f.length-1]}var s=a.styleSheets;l.rel="stylesheet",l.href=n,l.media="only x",i(function(){d.parentNode.insertBefore(l,t?d:d.nextSibling)});var u=function(e){for(var n=l.href,t=s.length;t--;)if(s[t].href===n)return e();setTimeout(function(){u(e)})};return l.addEventListener&&l.addEventListener("load",r),l.onloadcssdefined=u,u(r),l};"undefined"!=typeof exports?exports.loadCSS=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
+    !function(t){if(t.loadCSS){var e=loadCSS.relpreload={};if(e.support=function(){try{return t.document.createElement("link").relList.supports("preload")}catch(t){return!1}},e.poly=function(){for(var e=t.document.getElementsByTagName("link"),r=0;r<e.length;r++){var n=e[r];"preload"===n.rel&&"style"===n.getAttribute("as")&&(t.loadCSS(n.href,n,n.getAttribute("media")),n.rel=null)}},!e.support()){e.poly();var r=t.setInterval(e.poly,300);t.addEventListener&&t.addEventListener("load",function(){e.poly(),t.clearInterval(r)}),t.attachEvent&&t.attachEvent("onload",function(){t.clearInterval(r)})}}}(this);
+    </script>
+
+    
+    <style type="text/css">.container .column,.container .columns{float:left;display:inline;margin-left:10px;margin-right:10px}.row{margin-bottom:20px}.headerRow{margin-bottom:0}.container{position:relative;width:1088px;margin:0 auto;padding:0;min-width:293px}.container .two.columns{width:116px}.container .three.columns{width:184px}.container .one-third.column{width:348px}.container .two-thirds.column{width:700px}@media only screen and (min-width: 768px) and (max-width: 1089px){.container{width:728px}.container .column,.container .columns{margin:10px}.container .one-third.column,.container .three.columns,.container .two-thirds.column,.container .two.columns{width:708px}}@media only screen and (max-width: 767px){.container{width:100%}.container .column,.container .columns{margin:10px}.container .one-third.column,.container .three.columns,.container .two-thirds.column,.container .two.columns{width:94%}}@media only screen and (min-width: 540px) and (max-width: 767px){.container{width:100%}.container .column,.container .columns{margin:5px}.container .one-third.column,.container .three.columns,.container .two-thirds.column,.container .two.columns{width:98.5%}}.container:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden}.row:after,.row:before{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0}.row:after{clear:both}.row{zoom:1}#abcddcabcd,#abcddcabcd2{padding:0 0 10px;float:right}#EventHubs_300x250_300x600_BTF{padding:0 0 10px;clear:both;margin:0 auto;width:100%;display:inline-block}@media only screen and (min-width: 1089px){#abcddcabcd,#abcddcabcd2{margin-right:10px}#EventHubs_300x250_300x600_BTF{padding:0 0 10px;float:right;margin:0 auto;width:initial;clear:none}}#abcddim2abcd,#abcddim2abcd2{padding:5px 0;text-align:center;margin:0 auto;background-color:#fff;padding:5px 0;text-align:center}@media only screen and (min-width: 1090px){#abcddim2abcd,#abcddim2abcd2{display:none}}@media only screen and (max-width: 1089px){#abcddcabcd,#abcddcabcd2{display:none}}body{background-color:#b0b0b0;color:#111;font-family:Arial;font-size:17px;line-height:1.4;background-image:url(https://media.eventhubs.com/images/design_site_bg2.png);background-repeat:repeat-x;background-position:left top;margin:0;padding:0}a:link,a:visited{color:#0564c6;text-decoration:none}h1{font-size:21px;color:#111;padding-top:10px;margin:0}#site_top{text-align:left;border-color:#000;border-style:solid;background-image:url(https://media.eventhubs.com/images/design_sitetop_bg2.png);background-repeat:repeat-y;background-position:left top;background-color:#e4e6e0;padding-bottom:0;border-top-right-radius:30px;border-top-left-radius:30px;position:relative;width:100%;border-width:1px 1px 0}#reg_top{float:left;width:100%;height:auto;padding-top:10px;padding-left:25px;padding-right:25px;font-size:12px;text-align:left;border-top-right-radius:30px;border-top-left-radius:30px;margin-bottom:5px;box-sizing:border-box}@media only screen and (max-width: 768px){#reg_top{word-spacing:2.5px;font-size:14px;line-height:24px}}#reg_top a:link,#reg_top a:visited{color:#275ba1}#header_container{float:left;background-image:url(https://media.eventhubs.com/images/design_sitetop_bg.png);background-size:100%;background-repeat:repeat-y;width:100%;height:136px;border-style:solid;border-color:#8c8c8c;border-width:1px 0}#mainlogo{float:left;margin-left:14px;margin-top:11px;width:20%}.mainnavitem{height:100%;float:left;width:19%;text-align:center;padding-top:12px}.mainnavitem>a{display:inline-block;max-width:150px;float:left;height:113px;text-align:center}.mainnavspacer{float:left;width:1px;height:110px;margin-top:13px;border-style:solid;border-color:#8c8c8c;border-width:0 1px 0 0}#mainnavitem3 a{padding-top:82px;padding-left:40px;padding-right:15px;background:transparent url(https://media.eventhubs.com/static/images/mainnav_tiers.webp) no-repeat;background-position:41px -34px}#mainnavitem1 a{padding-top:82px;padding-left:34px;padding-right:15px;background:transparent url(https://media.eventhubs.com/static/images/mainnav_stats.webp) no-repeat;background-position:55px 9px}#mainnavitem2 a{padding-top:82px;padding-left:30px;padding-right:15px;background:transparent url(https://media.eventhubs.com/static/images/mainnav_tournament-results.webp) no-repeat;background-position:46px 9px}#mainnavitem4 a{padding-top:82px;padding-left:29px;padding-right:15px;background:transparent url(https://media.eventhubs.com/static/images/mainnav_pod.webp) no-repeat;background-position:62px 0px}@media only screen and (max-width: 1089px) and (min-width: 768px){#mainlogo{float:left;margin-left:5px;margin-top:6px;width:16%}.mainnavitem{width:20.5%}.mainnavspacer{height:92px}#header_container{height:115px}#mainnavitem3 a{padding-top:62px;padding-left:15px;padding-right:15px;background:transparent url(https://media.eventhubs.com/images/mainnav_tiers.webp) no-repeat;background-position:26px -20px;background-size:200px}#mainnavitem1 a{padding-top:62px;padding-left:15px;padding-right:15px;background:transparent url(https://media.eventhubs.com/images/mainnav_stats.webp) no-repeat;background-position:39px 5px;background-size:200px}#mainnavitem2 a{padding-top:62px;padding-left:15px;padding-right:15px;background:transparent url(https://media.eventhubs.com/images/mainnav_tracker.webp) no-repeat;background-position:41px 5px;background-size:200px}#mainnavitem4 a{padding-top:62px;padding-left:20px;padding-right:15px;background:transparent url(https://media.eventhubs.com/images/mainnav_removeads.webp) no-repeat;background-position:44px 5px;background-size:200px}}a.mainmenubig:link,a.mainmenubig:visited{font-size:15px;color:#111;text-decoration:none}.mainmenusmall{font-size:11px;line-height:11px;width:150px;height:22px}#content-row{padding-top:10px;position:relative;background-color:#fff;border:solid;border-width:1px;width:100%;border-bottom-right-radius:30px;border-bottom-left-radius:30px;padding-bottom:15px}.firstMenu{border-color:#2a2a2a;border-style:solid;font-family:Arial;width:100%;display:none;border-width:0 1px}.secondMenu{background-image:url(https://media.eventhubs.com/images/design_sitetop_bg2.png);background-repeat:repeat-y;background-position:left top;background-size:100%;background-color:#e4e6e0;border-color:#2a2a2a;border-style:solid;padding-bottom:35px;padding-top:17px;border-bottom-right-radius:30px;border-bottom-left-radius:30px;display:none;font-family:'Trebuchet MS';position:relative;z-index:100;width:100%;border-width:0 1px 1px}.thirdMenu{background-image:url(https://media.eventhubs.com/images/design_sitetop_bg2.png);background-repeat:repeat-y;background-position:left top;background-size:100%;background-color:#e4e6e0;border-color:#2a2a2a;border-style:solid;top:-30px;width:100%;position:relative;padding-top:20px;padding-bottom:20px;border-bottom-right-radius:30px;border-bottom-left-radius:30px;width:100%;margin-bottom:-30px;display:none;font-family:'Trebuchet MS';z-index:200;border-width:0 1px 1px}.mobile{width:100%}.mobile button{position:absolute;bottom:20px;right:15px;border:0;text-indent:200%;overflow:hidden;background:rgba(255,255,255,.8) url(https://media.eventhubs.com/media/hamburger_button.png) center no-repeat;border:1px solid #ddd;border-radius:3px;background-size:80%;width:30px;height:30px;outline:0}.mobileExpMenu{display:none}.mobileExpMenu a{display:block;padding:10px;text-align:center}#mobileLogo img{max-width:50%;height:auto}.mobileMenu{text-align:center;border-color:#000;border-style:solid;background-image:url(https://media.eventhubs.com/images/design_sitetop_bg2.png);background-repeat:repeat-y;background-position:left top;background-color:#e4e6e0;padding-bottom:0;position:relative;width:100%;border-width:0 1px}.tab_contain{text-align:center;font-size:13px;line-height:14px;color:#c8c8c8}.tab_contain a{display:block;height:75px;padding-top:8px;color:#002445;text-decoration:none}.thirdMenu a{color:#002445;text-decoration:none}#sf5tab a{background:transparent url(https://media.eventhubs.com/static/images/nav_sf5.webp) no-repeat;background-position:24px 42px}#gbvstab a{background:transparent url(https://media.eventhubs.com/static/images/nav_gbvs.webp) no-repeat;background-position:18px 39px}#dbfztab a{background:transparent url(https://media.eventhubs.com/static/images/nav_dbfz.webp) no-repeat;background-position:14px 37px}#mk11tab a{background:transparent url(https://media.eventhubs.com/static/images/nav_mk11.webp) no-repeat;background-position:5px 40px;display:block}#ssbutab a{background:transparent url(https://media.eventhubs.com/static/images/nav_ssbu.webp) no-repeat;background-position:13px 42px;display:block}#tekken7tab a{background:transparent url(https://media.eventhubs.com/static/images/nav_tekken7.webp) no-repeat;background-position:1px 39px;display:block}#moretab a{background:transparent url(https://media.eventhubs.com/static/images/nav_more.webp) no-repeat;background-position:13px 42px;display:block}#samshotab a{background:transparent url(https://media.eventhubs.com/static/images/nav_samsho.webp) no-repeat;background-position:13px 39px;display:block}.tabdrop{display:block}.menuheading{color:#002445;font-size:18px;margin-bottom:10px}#menunewsfeatures{border-style:solid;border-color:#8a8a8a;border-width:0 1px 0 0}#menucapcomgames{border-style:solid;border-color:#8a8a8a;border-width:0 1px 0 0}#menucapcomvsgames{border-style:solid;border-color:#8a8a8a;border-width:0 1px 0 0}#menu2dgames{border-style:solid;border-color:#8a8a8a;border-width:0 1px 0 0}td{margin:0;padding:0 0 0 2px}tr{margin:0;padding:0}table{margin:0;padding:0}.byline{float:left;width:100%;padding-top:6px;height:30px;color:#666;font-size:12px;font-weight:700}a.front_headline:link,a.front_headline:visited{color:#05408f;font-size:21px}.center{text-align:center}.center img{max-width:100%!important;height:auto!important}.stream_title{font-size:20px;padding-left:15px;padding-top:8px;padding-bottom:15px}.stream_header{color:#fff}.front_stream{line-height:15px;text-align:center;text-transform:capitalize;background-color:#375683;font-size:12px;-moz-box-shadow:0 0 1px #000;-webkit-box-shadow:0 0 1px #000;box-shadow:0 0 1px #000}.stream_holder{width:100%;max-width:100%}.stream_table{font-size:12px;text-align:center;border-style:solid;border-width:0;border-color:#1c1c1c;color:e9e9e9;min-width:100%}.streamtd{padding:3px;color:#111}.widgetName{width:58px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px}a.stream_name:link,a.stream_name:visited{color:#111;font-weight:400}a.functionlink:link,a.functionlink:visited{color:#111}@media only screen and (min-width: 768px) and (max-width: 1089px){.rightRailWidget{width:100%!important}}@media only screen and (max-width: 767px) and (min-width: 540px){.rightRailWidget{width:100%!important}}@media only screen and (max-width: 539px){.rightRailWidget{width:100%!important}}@media only screen and (max-width: 1088){.thirdMenu{display:none}}@media only screen and (min-width: 1089px){#content-row{padding-top:50px;top:-30px;position:relative;background-color:#fff;border:solid;border-width:1px;width:100%}.firstMenu{display:block}.secondMenu{display:block}.mobileExpMenu{display:none}.mobileMenu{display:none}.container .two-thirds.column{padding-left:10px}.container .one-third.column{margin-left:0}.rightRailWidget{margin-right:10px}}.columns{color:#111;font-size:14px}a.functionlink:link,a.functionlink:visited{color:#111}.tddown{color:#a33636}.tdup{color:green}.rightRailWidget{float:right;width:300px;box-sizing:border-box;border-color:#a9a9a9;border-style:solid;border-width:1px;background-image:url(https://media.eventhubs.com/images/gholder1_bg.png);background-repeat:repeat-y;background-position:left top;background-color:#e4e6e0;margin-bottom:20px;padding-top:10px;padding-bottom:10px;border-radius:30px;box-shadow:1px 1px 2px #888}.sub_headline{font-size:19px;font-weight:700;color:#2d568d;padding-top:10px;margin:0}.battlelink,.showresults{text-align:center;font-weight:700}.results1,.results2{background-size:100%}.showresults{width:100%!important;height:60px;background-size:100%!important;background-image:url(https://media.eventhubs.com/images/sftracker2bg.png);border-style:solid;border-color:#707070;border-width:1px;font-size:18px;margin-bottom:20px;display:none}.showresults:hover{background-image:url();background-color:#fff;border-color:#4297ff}.results1,.results2{background-color:#fff;border-style:solid;border-color:#707070;border-width:1px;padding:10px;margin-bottom:10px}.results1{background-image:url(https://media.eventhubs.com/images/sftracker1bg.png)}.results2{background-image:url(https://media.eventhubs.com/images/sftracker2bg.png)}.battlelink,.battlelog{margin-top:0;margin-bottom:0;margin-right:auto;marign-left:auto;padding:5px;border:1px solid #a2a2a2}.battlelink{font-size:16px;color:#4c4c4c;font-style:italic}.battlelink:hover{background-color:#d0d0d0;border-color:#4297ff}.battlelog{display:none;text-align:left;border:0 solid #a2a2a2}</style>
+    
+
+     <link rel="preload" href="https://media.eventhubs.com/static/css/skeleton/skeleton1200min.css" as="style" onload="this.rel='stylesheet'" />
+     <noscript><link rel="stylesheet" href="https://media.eventhubs.com/static/css/skeleton/skeleton1200min.css"></noscript>
+        
+     <link rel="preload" href="https://media.eventhubs.com/static/css/nmain10RESPONSIVEmin.css?ver=1.72" as="style" onload="this.rel='stylesheet'" />
+     <noscript><link rel="stylesheet" href="https://media.eventhubs.com/static/css/nmain10RESPONSIVEmin.css?ver=1.72"></noscript>
+     
+     <link rel="preload" href="https://media.eventhubs.com/static/css/nguideRESPONSIVEmin.css?ver=1.17" as="style" onload="this.rel='stylesheet'" />
+     <noscript><link rel="stylesheet" href="https://media.eventhubs.com/static/css/nguideRESPONSIVEmin.css?ver=1.17"></noscript>
+
+    
+    <script data-cfasync="false" src="https://media.eventhubs.com/static/js/jquery-2.1.4/jquery.min.js" async></script>
+    
+     
+    
+    
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+      
+<header >
+<div class="row headerRow" id="site_top">
+      <div id="reg_top">   
+       
+        You're not logged in | <a href="/accounts/login/">Login</a> / <a href="/accounts/register/">Register</a> | <a href="/profile/edit/">News Filter</a> | <a href="/forms/contact-us/">Submit News</a>
+       
+      </div>
+</div>
+</header>
+
+<!-- MOBILE NAVIGATION MENU. MAKE SURE LINKS HAVE PARITY WITH DESKTOP MENU -->
+<nav>
+<div class="row headerRow mobileMenu">
+    <div id="mobileLogo">
+        <a href="/">
+            <img src="https://media.eventhubs.com/static/images/eventhubslogo1.webp" alt="EventHubs" border="0" />
+        </a>
+    </div>
+    <div id="hamburger_button" style="float:right;">
+            <nav class="mobile">
+                <button id="ham_button"></button>
+            </nav>
+    </div>
+</div>
+
+<div class="row headerRow mobileMenu mobileExpMenu" id="expandedLinks">
+    <a href="/tiers/">Tiers</a>
+    <a href="/tournament-results/">Tournament Results</a>
+    <a href="/podcast/">Podcast</a>
+    <a href="/events/">Events</a>    
+    <a href="/stats/">Stats</a>
+    <br />
+    <a href="/moves/sf5/">Street Fighter 5</a>
+    <a href="/moves/dragon-ball-fighterz/">Dragon Ball FighterZ</a>
+    <a href="/moves/ssbu/">Super Smash Bros. Ultimate</a>
+    <a href="/moves/gbvs/">Granblue Fantasy: Versus</a>
+    <a href="/moves/mk11/">Mortal Kombat 11</a>
+    <a href="/moves/tekken7/">Tekken 7</a>
+    <a href="/moves/samurai-shodown/">Samurai Shodown</a>
+    <a href="/sitemap/">More site features</a>
+</div>
+<!-- END Mobile Menu -->
+ 
+ <!-- DESKTOP MENU. If changes are made here, check mobile menu for parity -->
+<div class="row headerRow firstMenu">
+  <div id="header_container"> 
+      <div id="mainlogo">
+        <a href="/">
+            <img src="https://media.eventhubs.com/static/images/eventhubslogo1.webp" style="height:auto;max-width:100%;" alt="EventHubs" border="0" />
+        </a>
+      </div>
+      
+      <div id="mainnavitem3" class="mainnavitem">
+        <a href="/tiers/" class="mainmenubig" style="">Tiers<br/>
+        <div class="mainmenusmall"></div></a>
+      </div>
+    
+      <div class="mainnavspacer"></div>
+      
+      <div id="mainnavitem4" class="mainnavitem">
+          <a href="/podcast/" class="mainmenubig">Podcast<br/>
+          <div class="mainmenusmall"></div></a>
+      </div> 
+      
+      <div class="mainnavspacer"></div>
+      
+      <div id="mainnavitem1" class="mainnavitem">
+        <a href="/stats/" class="mainmenubig">Stats<br/>
+            <div class="mainmenusmall"></div>
+        </a>
+      </div>
+      
+      <div class="mainnavspacer"></div>   
+      
+      <div id="mainnavitem2" class="mainnavitem">
+          <a href="/tournament-results/" class="mainmenubig">Tournament Results<br/>
+          <div class="mainmenusmall"></div></a>
+      </div>      
+           
+ </div>
+</div>
+
+<div class="row headerRow secondMenu">
+    
+    <div class="two columns tab_contain">
+        <div id="sf5tab">
+         <a href="/moves/sf5/" title="Street Fighter 5 Moves, Characters, Combos and Strategy Guides">Street Fighter 5: Champion Edition</a>
+        </div>
+    </div>
+
+    <div class="two columns tab_contain">
+        <div id="dbfztab">
+         <a href="/moves/dragon-ball-fighterz/" title="Dragon Ball FighterZ Moves, Characters, Combos and Strategy Guides">Dragon Ball FighterZ</a>
+        </div>
+    </div>
+    
+    <div class="two columns tab_contain">
+        <div id="ssbutab">
+            <a href="/moves/ssbu/" title="Super Smash Bros. Ultimate moves, characters, combos and frame data">Super Smash Bros. Ultimate</a>
+        </div>            
+    </div>    
+    
+    <div class="two columns tab_contain">
+        <div id="gbvstab">
+         <a href="/moves/gbvs/" title="Granblue Fantasy: Versus moves, characters, combos and frame data">Granblue Fantasy: Versus</a>
+        </div>
+    </div>
+    
+    <div class="two columns tab_contain">
+        <div id="mk11tab">
+            <a href="/moves/mk11/" title="Mortal Kombat 11 moves, characters, combos and frame data">Mortal Kombat 11</a>
+        </div>
+    </div>
+    
+    <div class="two columns tab_contain">    
+          <div id="tekken7tab">
+                <a href="/moves/tekken7/" title="Tekken 7 moves, characters, combos and frame data">Tekken 7</a>
+          </div>
+    </div>  
+    
+    <div class="two columns tab_contain">
+        <div id="samshotab">
+            <a href="/moves/samurai-shodown/" title="Samurai Shodown moves, characters, combos and frame data">Samurai Shodown</a>
+        </div>  
+    </div>
+   
+     
+    <div class="two columns tab_contain" data-maindiv="thirdMenu">
+        <div class="tabdrop"  >
+          <div id="moretab">
+             <a href="#" title="See more tabs here on EventHubs">More</a>
+          </div>         
+        </div><!-- Second menu -->
+    </div>   
+</div>
+
+<div class="row headerRow thirdMenu" id="thirdMenu">       
+      
+              <div id="menunewsfeatures" class="three columns" style="margin-left:45px">
+              <div class="menuheading">News and features</div>
+                <img src="https://media.eventhubs.com/static/images/menugraphic_news.webp" width="170" height="41" alt="" /><br/>
+                <a href="/players/" title="Listing of tournament players in the fighting game community">Tournament Players</a><br/>
+                <a href="/news/top-stories/" title="Top stories in the fighting game community, with videos, tournament results and more">Top stories</a><br/>
+                <a href="/news/game-specific/" title="Game Specific News">Game specific news</a><br/>
+                <a href="https://forums.eventhubs.com/" title="Forums">Forums</a><br/>
+                <a href="https://discord.gg/A8qJmRs" title="EventHubs Discord">EventHubs Discord</a><br/>
+                <a href="/tracker/" title="Find fighting game players in your area">Player finder</a><br/>
+                <a href="/columns/" title="Justin Wong's column: Step Your Game Up">Justin Wong's column</a><br/>
+                <a href="/news/most-commented" title="Most commented stories in the fighting game community">Most commented stories</a><br/>
+              </div>
+    
+              <div id="menucapcomgames" class="three columns">
+                <div class="menuheading">Capcom fighters</div>
+                <img src="https://media.eventhubs.com/static/images/menugraphic_capcom.webp" width="170" height="41" alt="" /><br/>
+                <a href="/guides/2013/mar/11/darkstalkers-2-moves-characters-combos-and-strategy-guides/" title="Darkstalkers 2 Moves, Characters, Combos and Strategy Guides">Darkstalkers 2</a><br/>
+                <a href="/guides/2013/mar/11/darkstalkers-3-moves-characters-combos-and-strategy-guides/" title="Darkstalkers 3 Moves, Characters, Combos and Strategy Guides">Darkstalkers 3</a><br/>
+                <a href="/guides/2012/aug/20/jojos-bizarre-adventure-moves-characters-combos-and-strategy-guides/" title="JoJo's Bizarre Adventure Moves, Characters, Combos and Strategy Guides">JoJo's Bizarre Adventure</a><br/>
+                <a href="/guides/2012/sep/25/marvel-super-heroes-moves-characters-combos-and-strategy-guides/" title="Marvel Super Heroes Moves, Characters, Combos and Strategy Guides">Marvel Super Heroes</a><br/>
+                <a href="/moves/sf2t/" title="Street Fighter 2 Turbo Hyper Fighting moves, characters, combos and strategy guides">Street Fighter 2 Turbo</a><br/>                
+                <a href="/guides/2007/sep/30/how-get-better-street-fighter-3-third-strike/" title="How to get better at Street Fighter 3 Third Strike">Street Fighter 3 Third Strike</a><br/>
+                <a href="/moves/sfa3/" title="Street Fighter Alpha 3 moves, characters, combos and strategy guides">Street Fighter Alpha 3</a><br/>                                
+                <a href="/guides/2011/jun/19/street-fighter-x-tekken-moves-characters-combos-and-strategy-guides/" title="Street Fighter X Tekken Moves, Characters, Combos and Strategy Guides">Street Fighter X Tekken</a><br/>
+                <a href="/guides/2008/oct/27/super-street-fighter-2-turbo-hd-remix-strategy-guide-moves-hints-and-tips/" title="Super Street Fighter 2 Turbo HD Remix Strategy Guide -- Moves, Combos and Tips">SSF2T HD Remix</a><br/>
+                <a href="/moves/usf2/" title="Ultra Street Fighter 2 moves, characters, combos and frame data">Ultra Street Fighter 2</a><br/>
+                <a href="/moves/sf4/" title="Ultra Street Fighter 4 Moves, Characters, Combos and Strategy Guides">Ultra Street Fighter 4</a><br/>
+                <a href="/moves/usf4oe/" title="USF4 Omega Edition Moves, Characters, Combos and Strategy Guides">USF4 Omega Edition</a><br/>
+              </div>
+    
+              <div id="menucapcomvsgames" class="three columns">
+                <div class="menuheading">Capcom vs. series</div>
+                <img src="https://media.eventhubs.com/static/images/menugraphic_capcomvs.webp" width="170" height="41" alt="" /><br/>
+                <a href="/guides/2012/sep/25/marvel-vs-capcom-1-moves-characters-combos-and-strategy-guides/" title="Marvel vs. Capcom 1 Moves, Characters, Combos and Strategy Guides">Marvel vs. Capcom 1</a><br/>
+                <a href="/guides/2009/jul/10/marvel-vs-capcom-2-strategy-guide-moves-hints-and-tips/" title="Marvel vs. Capcom 2 Strategy Guide -- Moves, Hints and Tips">Marvel vs. Capcom 2</a><br/>
+                <a href="/moves/mvci/" title="Marvel vs. Capcom: Infinite moves, characters, combos and frame data">Marvel vs. Capcom: Infinite</a><br/>
+                <a href="/guides/2009/may/20/tatsunoko-vs-capcom-strategy-guide-moves-combos-and-tips/" title="Tatsunoko vs. Capcom Moves, Characters, Combos and Strategy Guides">Tatsunoko vs. Capcom</a><br/>
+                <a href="/guides/2010/jul/06/marvel-vs-capcom-3-moves-characters-combos-and-strategy-guides/" title="Ultimate Marvel vs. Capcom 3 Moves, Characters, Combos and Strategy Guides">Ult. Marvel vs. Capcom 3</a>
+              </div>
+              
+              <div id="menu2dgames" class="three columns">
+                <div class="menuheading">2D fighters</div>
+                <img src="https://media.eventhubs.com/static/images/menugraphic_2d.webp" width="170" height="41" alt="" /><br/>
+                <a href="/guides/2012/feb/14/blazblue-continuum-shift-extend-moves-characters-combos-and-strategy-guides/" title="BlazBlue Chrono Phantasma Moves, Characters, Combos and Strategy Guides">BlazBlue CP</a><br/>
+                <a href="/moves/fexl/" title="Fighting EX Layer Moves, Characters, Tiers and Stats">Fighting EX Layer</a><br/>
+                <a href="/guides/2012/nov/23/guilty-gear-xx-accent-core-plus-moves-characters-combos-and-strategy-guides/" title="Guilty Gear XX Accent Core Plus Moves, Characters, Combos and Strategy Guides">Guilty Gear XX ACP</a><br/>
+                <a href="/moves/ggxrd/" title="Guilty Gear XX Accent Core Plus Moves, Characters, Combos and Strategy Guides">Guilty Gear Xrd REV 2</a><br/>
+                <a href="/guides/2013/mar/24/injustice-gods-among-us-moves-characters-combos-and-strategy-guides/" title="Injustice: Gods Among Us Moves, Characters, Combos and Strategy Guides">Injustice: Gods Among Us</a><br/>
+                <a href="/moves/injustice-2/" title="Injustice 2 moves, characters, combos and frame data">Injustice 2</a><br/>
+                <a href="/moves/ki/" title="Killer Instinct Moves, Characters, Combos and Strategy Guides">Killer Instinct</a><br/>            
+                <a href="/guides/2012/jan/26/king-fighters-13-moves-characters-combos-and-strategy-guides/" title="King of Fighters 13 Moves, Characters, Combos and Strategy Guides">King of Fighters 13</a><br/>
+                <a href="/moves/kof14/" title="King of Fighters 14 moves, characters, combos and frame data">King of Fighters 14</a><br/>
+                <a href="/guides/2012/nov/30/mortal-kombat-9-moves-characters-combos-and-strategy-guides/" title="Mortal Kombat 9 Moves, Characters, Combos and Strategy Guides">Mortal Kombat 9</a><br/>
+                <a href="/moves/mkx/" title="Mortal Kombat X Moves, Characters, Combos and Strategy Guides">Mortal Kombat X</a><br/>
+                <a href="/guides/2012/aug/02/persona-4-arena-moves-characters-combos-and-strategy-guides/" title="Persona 4: Arena Moves, Characters, Combos and Strategy Guides">Persona 4: Arena</a><br/>
+                <a href="/guides/2012/oct/21/playstation-all-stars-battle-royale-moves-characters-combos-and-strategy-guides/" title="PlayStation All-Stars Battle Royale Moves, Characters, Combos and Strategy Guides">PlayStation All-Stars BR</a><br/>
+                <a href="/guides/2012/apr/10/skullgirls-moves-characters-combos-and-strategy-guides/" title="Skullgirls Moves, Characters, Combos and Strategy Guides">Skullgirls</a><br/>
+                <a href="/guides/2014/may/10/super-smash-bros-melee-moves-characters-combos-and-strategy-guides/" title="Super Smash Bros. Melee Moves, Characters, Combos and Strategy Guides">Super Smash Bros. Melee</a><br/>
+                <a href="/moves/ssb4/" title="Super Smash Bros. 4 moves, characters, combos and frame data">Super Smash Bros. 4</a><br/>
+              </div>
+    
+              <div id="menu3dgames" class="three columns">
+                <div class="menuheading">3D fighters</div>
+                <img src="https://media.eventhubs.com/static/images/menugraphic_3d.webp" width="170" height="41" alt="" /><br/>
+                <a href="/guides/2012/nov/25/dead-or-alive-5-moves-characters-combos-and-strategy-guides/" title="Dead or Alive 5 Moves, Characters, Combos and Strategy Guides">Dead or Alive 5</a><br/>
+                <a href="/guides/2012/jan/31/soul-calibur-5-moves-characters-combos-and-strategy-guides/" title="Soul Calibur 5 Moves, Characters, Combos and Strategy Guides">Soul Calibur 5</a><br/>
+                <a href="/moves/sc6/" title="Soul Calibur 6 moves, characters, combos and frame data">Soul Calibur 6</a><br/>                
+                <a href="/guides/2012/sep/10/tekken-tag-tournament-2-moves-characters-combos-and-strategy-guides/" title="Tekken Tag Tournament 2 Moves, Characters, Combos and Strategy Guides">Tekken Tag Tournament 2</a><br/>
+                <a href="/guides/2012/jun/05/virtua-fighter-5-final-showdown-moves-characters-combos-and-strategy-guides/" title="Virtua Fighter 5 Final Showdown Moves, Characters, Combos and Strategy Guides">Virtua Fighter 5 FS</a><br/>
+              </div>         
+</div>
+<!-- End Desktop Menu -->
+</nav>     
+
+    <div class="row" id="content-row" style="margin-bottom: 0px;">
+    
+    <div class="row">
+          
+            
+                
+<div align="center" data-freestar-ad="__320x100 __336x280" id="EventHubs_728x90_970x90_970x250_320x50_ATF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_728x90_970x90_970x250_320x50_ATF", slotId: "EventHubs_728x90_970x90_970x250_320x50_ATF" });
+  </script>
+</div>
+            
+         
+    </div>                
+    
+        <div class="two-thirds column">
+     
+            
+
+
+
+
+
+
+<article>
+<h1><a href="/news/2020/aug/02/over-50-percent-console-fighting-game-players-use-wi-fi-online-matches-according-katsuhiro-harada/" class="front_headline" >Over 50 percent of console fighting game players use Wi-Fi for online matches according to Katsuhiro Harada</a></h1>
+
+<h2 class="sub_headline">That number will vary by the game though</h2>
+       
+<div id="bylineholder" style="padding-left:5px; width:100%;">    
+       
+    <div class="innerbyline" style="border: none;">
+      <div class="bylinepic">
+        <img src="https://media.eventhubs.com/images/dakota-hills.jpg" width="50" height="50" alt="None" />
+      </div>
+      <div style="position:relative;top:-12px; left:10px;">
+          <div style="padding-top: 10px; font-size: 100%;" >
+            Posted by <a href="/staff/DakotaHills">Dakota &#39;DarkHorse&#39; Hills</a> &bull; August 2, 2020 at 10:28 a.m. PDT &bull; Comments: 81
+          </div>
+    </div>   
+      
+      
+    </div>
+   
+</div>       
+    
+    
+    
+    
+        <p class="center">
+        <img src="https://media.eventhubs.com/images/2020/08/2-over-50-percent-console-fighting-game-players-use-wi-fi-online-m.jpg" width="100%" height="auto" border="0" alt="" />
+        </p>
+     
+    <p>As the focus of the fighting game community shifted this year towards almost exclusively online play, the players have pushed more and more the importance of using a wired connection in an age where wireless tends to rule all.
+    
+    
+                
+                    <div id='abcddim2abcd'>
+<!-- Tag ID: EventHubs_300x250_300x600_ATF -->
+<div align="center" data-freestar-ad="__300x250 __300x600" id="EventHubs_300x250_300x600_ATF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_300x250_300x600_ATF", slotId: "EventHubs_300x250_300x600_ATF" });
+  </script>
+</div>
+                    </div>
+               
+        
+      </p>
+
+
+<p>Following the announcement that <a href="https://www.eventhubs.com/news/2020/jul/31/season-4-announced-tekken-7/">Tekken 7 would be receiving updated online features soon in Season 4</a>, longtime series director <a href="https://twitter.com/Harada_TEKKEN/status/1289548459138146306">Katsuhiro Harada</a> revealed the majority of fighting game players still primarily use Wi-Fi for matches.</p>
+	  
+	
+	
+     <div class="news_blurb">
+     
+     </div>
+          
+     
+     <div class="news_blurb">
+    
+        
+           
+
+        </div>
+
+
+<p>The data reportedly comes from Bandai Namco's own fighting game offerings of Tekken 7, Soul Calibur 6 and Dragon Ball FighterZ, so other fighting games will vary in actual usage though it's highly probable they are similar as well.</p>
+
+
+<p>This almost 60 percent statistic is tied to console players from all regions of the world, as PC players are apparently much more likely to use an Ethernet cable than their PS4, Xbox One and Switch counterparts.</p>
+
+
+<p>Japanese players also use wired connections at a higher rate than most of the world though Harada didn't specify just how much greater that number is.</p>
+
+
+<p>While some other genres can easily get by with wireless player connections, fighting games are generally seen as among the most vulnerable to <a href="https://time.com/3834259/wifi-how-works/">feel the downsides of Wi-Fi technology</a>.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">About the &#39;WiFi users are close to 60%&#39; topic<br>- Stat from console all regions<br>- Data from Tekken 7, Soulcalibur 7 and DBFZ<br>- Japan LAN cable users rate is high<br>- PC users also have a pretty high rate of LAN cable users <a href="https://t.co/fkhG0SkYYO">https://t.co/fkhG0SkYYO</a></p>&mdash; HiFight(ハイファイト) (@HiFightTH) <a href="https://twitter.com/HiFightTH/status/1289549860312510466?ref_src=twsrc%5Etfw">August 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<p>These range from signal interference from other routers, walls and appliances like microwaves to the limitation that wireless connections can't really send and receive data at the same time like a modern wire can.</p>
+
+
+<p>Interference and data issues cause packets of whatever you're trying to send or receive to become lost or delayed which in a fighting game leads to lag, jitter and connection problems / inconsistencies. That's a pretty big problem when many games come down to close set and frame-specific requirements.</p>
+
+
+<p>Running multiple yards of Ethernet cables through homes isn't always easy or practical, but dedicated fighting game players have largely come to realize it's pretty much a necessity to keep matches running as smoothly as possible where every frame counts.</p>
+
+
+<p>Take me for example, I did have a 50 ft cable running to my living room until my rabbit chewed through it, so I pretty much exclusively began to play fighting games from my office where it was much easier to simply plug into the router.</p>
+
+
+<p>There's also <a href="https://www.amazon.com/s?k=powerline+adapter&crid=38F8MPSVSJWRA&sprefix=powerline+ada%2Caps%2C157&ref=nb_sb_ss_i_1_13">powerline adapters </a>which can use a home's electrical outlets to send internet data to another room so long as they're on the same circuit though they too can run into interference problems.</p>
+
+
+<p>All of this comes as Bandai Namco will be adding a Wi-Fi indicator to Tekken 7 which allows players to see connection types and rating before accepting a match following similar implementations from other developers like NetherRealm Studios, <a href="https://www.eventhubs.com/news/2020/may/14/skullgirls-improved-netcode-update-and-wi-fi-indicator-are-now-available-all-players-pc/">Lab Zero</a> and <a href="https://www.eventhubs.com/news/2019/feb/24/wi-fi-warriors-beware-dead-or-alive-6-allows-players-see-and-select-what-type-connections-they-play-against-online/">Team Ninja</a>.</p>
+
+
+<p>Because the percentage of players using wireless is so high in video games, however, <a href="https://www.eventhubs.com/news/2020/aug/01/fighting-ex-layers-rollback-netcode-update-now-officially-available-ps4-and-pc-more-feature-upgrades-possible/">other developers like Arika are wary of adding such a feature</a> perhaps worried it may divide their already niche playerbases.</p>
+
+
+<p>It's not always feasible or possible to use wired connections, but more and more players appear to be re-adopting it as their best option for better online play. Not only for them, but for their opponents as well.</p>
+
+<div class="news_blurb">
+  
+     </div>
+     
+      
+        <!-- EventHubs_300x250_300x600_BTF -->
+        <div id='abcddim2abcd2'>
+<div align="center" data-freestar-ad="__336x280 __300x600" id="EventHubs_300x250_300x600_BTF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_300x250_300x600_BTF", slotId: "EventHubs_300x250_300x600_BTF" });
+  </script>
+</div>
+        </div>
+        
+</article>
+
+<aside style="display: block; min-height: 100px; margin-top: -50px; margin-bottom: 10px; ">
+   
+        <div id="video-select" style="padding-top: 20px;"></div>
+        <div id="ConnatixVideoAdContainer">
+        <div id="freestar-video-parent">
+        <div id="freestar-video-child"></div>
+        </div>
+        </div>
+    
+</aside>
+
+<section style="clear:both;">
+    <div id="commenttarget">
+        <!-- comment expand button -->
+        <div style="position:relative;min-height:40px">         
+            <div id="comments" class="news" data-csrftoken="vXjuXqL5eWb8EJDE3esBMWi14MYKMvAS" data-pagenumber="1" data-storyid="36437" class="battlelink" style="clear:both;width:90%; margin:0 auto; cursor:pointer;margin-bottom:20px;" onClick="javascript:loadCommentsAds(this);">Load comments (81)</div>
+        </div>
+        <!-- comment reply hidden on load -->
+    </div>
+</section>
+
+
+<script type="text/javascript" src="https://media.eventhubs.com/static/js/ajax_comments.js?2"></script>
+
+<script>
+    function loadCommentsAds(e){
+           console.log(e.dataset.storyid, e.dataset.csrftoken);
+           getComments(e.dataset.storyid, e.dataset.pagenumber);
+           
+             setTimeout(function(){
+                scrollerads();
+                }, 2000);
+           
+       }
+</script>
+
+
+
+
+<script type="text/javascript" language="javascript">
+    
+  (function jqIsReady() {
+      if (typeof $ === "undefined"){
+          setTimeout(jqIsReady,300);
+          return ;
+      }   
+     
+      if ($(".results1")[0] || $(".results2")[0] ){
+         $(".showresults").show();
+      }
+     
+      $(".showresults").click(function () {
+      $(this).text(function(i, text){
+      return text === "Results off, click here to view" ? "Results on, click here to hide" : "Results off, click here to view";
+      })
+      $(".results1, .results2").toggle("slow")
+      });
+  
+      $('.battlelink').click(function(){
+        $(this).prev('.battlelog').slideToggle("slow");
+      });
+  })();
+</script>
+
+
+
+
+
+
+           
+              
+ 
+            
+        </div>
+    
+   <div class="one-third column" id="rail">       
+   
+       <div class="rightRailWidget">
+        
+					
+				<div class="stream_title" style="font-size: 21px;">
+			      Tiers
+			    </div>
+				<table width=100% cellspacing=0 cellpadding="4" border-color="#111111" class="stream_table" > 
+					
+				<tr class="front_stream">
+			            <td class="streamtd" width="50%"><div class="stream_header">Gains</div></td>   
+			            <td class="streamtd" width="50%"><div class="stream_header">&nbsp;Losses&nbsp;</div></td>
+			        </tr>
+			       </table>
+			<div style="padding-top:15px;">
+			<table id="" class="" style="float:left;width:50%;padding-left:5px;">
+				<tbody>  
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" width="50px" style="border:none;"><a href="/tiers/ssbu/character/min-min" class="functionlink"><img src="https://media.eventhubs.com/images/characters/ssbu/min-min.png" width="44" height="50" alt="Min Min" title="Min Min" border="0" /></a></td>
+				         <td class="tierstdnorm tddown"  style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Min Min" title="Min Min">
+				         	<a href="/tiers/ssbu/character/min-min" class="functionlink">Min Min</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/min-min" class="functionlink"><div class="tdup">0.057</div></a></div></td>
+				      </tr>
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" width="50px" style="border:none;"><a href="/tiers/ssbu/character/mii-gunner" class="functionlink"><img src="https://media.eventhubs.com/images/characters/ssbu/mii-gunner.png" width="44" height="50" alt="Mii Gunner" title="Mii Gunner" border="0" /></a></td>
+				         <td class="tierstdnorm tddown"  style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Mii Gunner" title="Mii Gunner">
+				         	<a href="/tiers/ssbu/character/mii-gunner" class="functionlink">Mii Gunner</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/mii-gunner" class="functionlink"><div class="tdup">0.040</div></a></div></td>
+				      </tr>
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" width="50px" style="border:none;"><a href="/tiers/ssbu/character/hero" class="functionlink"><img src="https://media.eventhubs.com/images/characters/ssbu/hero.png" width="44" height="50" alt="Hero" title="Hero" border="0" /></a></td>
+				         <td class="tierstdnorm tddown"  style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Hero" title="Hero">
+				         	<a href="/tiers/ssbu/character/hero" class="functionlink">Hero</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/hero" class="functionlink"><div class="tdup">0.034</div></a></div></td>
+				      </tr>
+				  
+				  </tbody>
+				</table>
+				
+				<table id="" class="" style="float:right;width:50%;padding-right:5px;">
+				       
+				<tbody>  
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" style="border:none;" width="50px"><a href="/tiers/ssbu/character/luigi" class="functionlink" ><img src="https://media.eventhubs.com/images/characters/ssbu/luigi.png" width="44" height="50" alt="Luigi" title="Luigi" border="0" /></a></td>
+				         <td class="tierstdnorm tddown" style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Luigi" title="Luigi">
+				         	<a href="/tiers/ssbu/character/luigi" class="functionlink">Luigi</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/luigi" class="functionlink"><div class="tddown">-0.084</div></a></div></td>
+				      </tr>
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" style="border:none;" width="50px"><a href="/tiers/ssbu/character/kazuya" class="functionlink" ><img src="https://media.eventhubs.com/images/characters/ssbu/kazuya.png" width="44" height="50" alt="Kazuya" title="Kazuya" border="0" /></a></td>
+				         <td class="tierstdnorm tddown" style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Kazuya" title="Kazuya">
+				         	<a href="/tiers/ssbu/character/kazuya" class="functionlink">Kazuya</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/kazuya" class="functionlink"><div class="tddown">-0.040</div></a></div></td>
+				      </tr>
+				 
+				      <tr class="">
+				         <td class="tierstdnorm" style="border:none;" width="50px"><a href="/tiers/ssbu/character/little-mac" class="functionlink" ><img src="https://media.eventhubs.com/images/characters/ssbu/little-mac.png" width="44" height="50" alt="Little Mac" title="Little Mac" border="0" /></a></td>
+				         <td class="tierstdnorm tddown" style="border:none;">
+				         <div style="color: #111111;text-align:left;" class="widgetName" alt="Little Mac" title="Little Mac">
+				         	<a href="/tiers/ssbu/character/little-mac" class="functionlink">Little Mac</a><br />
+				         <a href="/tiers/ssbu/" class="functionlink">SSBU</a><br />
+				         <a href="/tiers/ssbu/character/little-mac" class="functionlink"><div class="tddown">-0.039</div></a></div></td>
+				      </tr>
+				  
+				  </tbody>
+				</table>
+			</div>
+
+			<div style="margin-right: 10px; margin-top: 10px; float: right;">
+			  <a href="/tiers/" class="stream_name">View more tiers »</a>
+			</div>
+    </div>
+   
+            
+            
+                
+
+                   <!-- desktop -->
+                   <div id='abcddcabcd'>                    
+<!-- Tag ID: EventHubs_300x250_300x600_ATF -->
+<div align="center" data-freestar-ad="__300x250 __300x600" id="EventHubs_300x250_300x600_ATF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_300x250_300x600_ATF", slotId: "EventHubs_300x250_300x600_ATF" });
+  </script>
+</div>
+                   </div>
+
+                
+            
+  
+    
+    
+
+    
+
+<style>
+
+a.search-button:link, a.search-button:visited {
+    display: inline-block;
+    width: calc(97% - 98px);
+    height: 21px;
+    padding-top: 4px;
+    margin-left: 2px;    
+    border: 1px solid #888;
+    text-align: center;
+    background-color: #51a4f0;
+    color: white;
+    text-decoration: none;
+}
+
+a.search-button:active, a.search-button:hover {
+    background-color: #98c6f0;
+}
+
+</style>
+        
+    <div class="rightRailWidget">
+            <div class="stream_title" style="font-size: 21px; margin-bottom: -9px; margin-top: -11px;">
+                Follow EventHubs
+            </div>
+
+            <div style="display:inline-block; width:100%; box-sizing: border-box; padding-left:6px; position:relative; top:3px; float:left;">   
+                <a href="https://www.eventhubs.com/feeds/latest/" target="_new"><img src="https://media.eventhubs.com/static/images/icon_rss.png" alt="RSS" height="25" width="25" style="vertical-align: middle;" border="0" /></a>
+                <a href="https://twitter.com/#!/eventhubs" target="_new"><img src="https://media.eventhubs.com/static/images/icon_twitter.png" alt="Twitter" height="25" width="25" style="vertical-align: middle;" border="0" /></a>
+                <a href="https://www.facebook.com/pages/EventHubs/208814935852085?sk=wall" target="_new"><img src="https://media.eventhubs.com/static/images/icon_facebook.png" alt="Facebook" height="25" width="25" style="vertical-align: middle;" border="0" /></a>
+                <a href="https://cse.google.com/cse/publicurl?cx=018347486046165119511:veqnczdsfxw" class="search-button" target="_search">Search EventHubs</a>     
+            </div>
+
+
+    </div>
+
+    
+    
+        
+        <!-- EventHubs_300x250_300x600_BTF -->
+        <div id='abcddim2abcd2'>
+<div align="center" data-freestar-ad="__336x280 __300x600" id="EventHubs_300x250_300x600_BTF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_300x250_300x600_BTF", slotId: "EventHubs_300x250_300x600_BTF" });
+  </script>
+</div>
+        </div>
+        
+        
+         
+            <!-- desktop -->
+           <div id='abcddcabcd2'>                    
+<!-- Tag ID: EventHubs_300x250_300x600_BTF -->
+<div align="center" data-freestar-ad="__336x280 __300x600" id="EventHubs_300x250_300x600_BTF">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "EventHubs_300x250_300x600_BTF", slotId: "EventHubs_300x250_300x600_BTF" });
+  </script>
+</div>
+           </div>
+        
+    
+  
+    </div><!-- end row -->  
+    
+     
+                
+        
+    </div><!-- end 1/3 column -->
+    <!-- end row -->  
+    
+    <footer>
+    
+        <div class="row">
+        </div>
+        <div class="row">        
+    			<div id="footerlinks"> 
+    			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    			<span class="rwd-line">
+        			<a href="/forms/contact-us/">Submit News</a> | 
+        			<a href="/advertising/">Advertise</a> <span id="hideme">|</span> 
+        			</span>
+        			<span class="rwd-line">
+        			<a href="/about-us/">About</a> | 
+        			<a href="/privacypolicy/">Privacy Policy</a><br/>
+    			</span>
+    			
+    			<div id="footerlogos"> 
+    			</div>
+    			
+    			</div>
+        
+        </div>
+    
+    </footer>
+</div><!-- end container -->
+
+
+    
+
+
+
+
+     
+
+<script>
+    (function jqIsReady() {
+        if (typeof $ === "undefined"){
+            setTimeout(jqIsReady,300);
+            
+            return ;
+        }   
+    $(".tabdrop").hover(function() {
+        $("#thirdMenu").addClass('desktopShow');
+        $("#moretab a").css({'background-position': '-97px 42px'});
+    },
+    function() {
+        
+    });
+    
+    $("#thirdMenu").hover( function(){
+        $("#thirdMenu").addClass('desktopShow');    
+    }, function(){
+        $("#thirdMenu").removeClass('desktopShow');
+        $("#moretab a").css({'background-position': '13px 42px'});
+    });
+    
+    
+    $('#ham_button').click(function () {
+        $(this).toggleClass('expanded');
+        $('#expandedLinks').toggleClass('mobileShow');
+    });
+    })();
+</script>
+
+          
+<!-- Quantcast Tag, part 1 --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+
+<!-- Start Quantcast tag -->
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push( { qacct:"p-9bgEd_gJkQGl-"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="http://pixel.quantserve.com/pixel/9bgEd_gJkQGl-.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script src='https://media.eventhubs.com/static/js/waypoint/jquery.waypoints.min.js'></script>
+<script src='https://media.eventhubs.com/static/js/waypoint/shortcuts/inview.js'></script>
+
+
+
+    
+<!-- Tag ID: eventhubs_1x1 -->
+<div align="center" data-freestar-ad="__1x1" id="eventhubs_1x1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "eventhubs_1x1", slotId: "eventhubs_1x1" });
+  </script>
+</div>
+
+<div id="fs-select-footer"></div>
+    
+
+</body>
+
+</html>

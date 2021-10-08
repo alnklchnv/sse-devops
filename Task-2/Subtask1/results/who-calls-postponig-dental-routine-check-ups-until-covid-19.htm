@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html
+        itemscope itemtype="https://schema.org/NewsArticle" lang="en">
+<head>        <meta http-equiv="content-type" content="text/html; charset=utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"2dbac3f3da",applicationID:"403938230"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+        <title>WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop | Science Times</title>
+        <link rel="dns-prefetch" href="//1087935514.rsc.cdn77.org" /><link rel="dns-prefetch" href="//s.ntv.io" /><link rel="dns-prefetch" href="//fonts.googleapis.com" /><link rel="dns-prefetch" href="//googleads.g.doubleclick.net" /><link rel="dns-prefetch" href="//pagead2.googlesyndication.com" /><link rel="dns-prefetch" href="//ajax.googleapis.com" /><meta http-equiv="x-dns-prefetch-control" content="on" />                    <meta name="title" content="WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop | Science Times" />                    <meta name="keywords"
+                  content="COVID-19 transmission, World Health Organization, avoid non-essential dental work, dental work during COVID-19, oral health care, dentist"/>
+                                <meta name="description"
+                  content="The World Health Organization is now asking people to delay routine and non-essential dental work until COVID-19 rates significantly drop, and warns about those procedures that produce aerosol spray from patients&#039; mouths." />                    <meta name="author" content="Erika P." />                        <meta http-equiv="imagetoolbar" content="no"/>
+                    <link rel="canonical" href="https://www.sciencetimes.com/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm"/>
+                                                            <meta property="fb:app_id" content=""/>
+                        <meta property="og:type" content="article"/>
+            <meta property="og:url" content="https://www.sciencetimes.com/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm"/>
+            <meta property="og:site_name" content="Science Times"/>
+            <meta property="og:image" content="https://1721181113.rsc.cdn77.org/data/images/full/28920/who-calls-for-delaying-dental-routine-check-ups-until-covid-19-transmission-rates-drop.jpg"/>
+            <meta property="og:title"
+                  content="WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop"/>
+            <meta property="og:description"
+                  content="The World Health Organization is now asking people to delay routine and non-essential dental work until COVID-19 rates significantly drop, and warns about those procedures that produce aerosol spray from patients&#039; mouths."/>
+                            <meta name="twitter:card" content="summary_large_image">
+                <meta name="twitter:site" content="@ScienceTimesCom">
+                <meta name="twitter:creator" content="@ScienceTimesCom">
+                <meta name="twitter:domain" content="sciencetimes.com">
+                <meta name="twitter:url" content="https://www.sciencetimes.com/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm">
+                <meta name="twitter:title" content="WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop">
+                <meta name="twitter:description" content="The World Health Organization is now asking people to delay routine and non-essential dental work until COVID-19 rates significantly drop, and warns about those procedures that produce aerosol spray from patients&#039; mouths.">
+                <meta name="twitter:image" content="https://1721181113.rsc.cdn77.org/data/images/full/28920/who-calls-for-delaying-dental-routine-check-ups-until-covid-19-transmission-rates-drop.jpg">
+                        <meta name="syndication-source" content="https://www.sciencetimes.com/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm"/>
+                            <meta name="news_keywords" content="who, calls, postponig, dental, routine, check, ups, until, covid, 19" />            <meta property="article:published_time" content="2020-08-12T06:20:00-04:00"/>
+            <meta property="article:modified_time" content="2020-08-12T02:58:31-04:00"/>
+            <meta itemprop="thumbnailUrl"
+                  content="https://1721181113.rsc.cdn77.org/data/images/full/28920/who-calls-for-delaying-dental-routine-check-ups-until-covid-19-transmission-rates-drop.jpg"/>
+            <meta itemprop="mainEntityOfPage" content="https://www.sciencetimes.com/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm">
+            <meta itemprop="description" content="The World Health Organization is now asking people to delay routine and non-essential dental work until COVID-19 rates significantly drop, and warns about those procedures that produce aerosol spray from patients&#039; mouths."/>
+                        <link rel="amphtml" href="https://www.sciencetimes.com/amp/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm"/>
+            <meta name="robots" content="index, follow"/>
+                        <meta name="Googlebot"
+                  content="index, follow"/>
+            <meta name="Googlebot-News"
+                  content="index, follow"/>
+            <meta name="Bingbot" content="index, follow"/>
+                            <meta property="fb:pages" content="1423126237968338"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" sizes="32x32" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/favicon-32x32.png?v=1">
+<link rel="icon" type="image/png" sizes="16x16" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/favicon-16x16.png?v=1">
+<link rel="manifest" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/site.webmanifest">
+<link rel="mask-icon" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/safari-pinned-tab.svg?v=1" color="#173862">
+<link rel="shortcut icon" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/favicon.ico?v=1">
+<meta name="msapplication-TileColor" content="#173862">
+<meta name="msapplication-config" content="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/favicons/browserconfig.xml?v=1">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/css/style.css?v=3">
+<script type="text/javascript" src="https://1087935514.rsc.cdn77.org/common/js/common/common_v056.js?5xwc2g"></script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://1087935514.rsc.cdn77.org/static/common/_v1.0.0/js/scripts.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+            <script type="text/javascript">
+            keyEx = [];
+            NoPassAN = "N";
+            var GoodSource = "Unknown";
+            (function(){
+                var anura = document.createElement('script');
+                if ('object' === typeof anura) {
+                    var request = {
+                        instance: 2238638024,
+                        source: 'sciencetimes',
+                        campaign: 'medic-health/articles',
+                        exid: 'anura_sciencetimes_'+Math.floor(1E12*(Math.random()+1)),
+                        callback: '_anuraResFun'
+                    };
+                    var params = [];
+                    for (var x in request) params.push(x+'='+encodeURIComponent(request[x]));
+                    params.push(Math.floor(1E12*Math.random()+1));
+                    anura.type = 'text/javascript';
+                    anura.async = true;
+                    anura.src = 'https://script.anura.io/request.js?'+params.join('&');
+                    var script = document.getElementsByTagName('script')[0];
+                    script.parentNode.insertBefore(anura, script);
+                }
+            })();
+            
+            function _anuraResFun(response) {
+                if (response.getId() || response.getExId()) {
+                    //console.log("Anura exid: "+response.getExId());
+                    //getResult(response);
+                    _anuObj = response.getObject();
+                    console.log("Anura : "+_anuObj.result);
+                    if (_anuObj.result == "bad") {
+                        keyEx.push("|ple| NoPassAN");
+                        NoPassAN = "Y";
+                        GoodSource = "Bad";
+
+                    }else{
+
+                        var this_site = window.top.location.hostname.split(".");
+                        this_site = this_site[this_site.length - 2];
+
+                        var sites = {
+                            'sciencetimes': {
+                                pageID: 82539,
+                                sPageID: 82539                            }
+                        }
+
+                        var site_ttf = sites[this_site],
+                            pageID,
+                            subdomain = window.top.location.hostname.split(".")[0];
+                        if (subdomain != 'www') {
+                            pageID = site_ttf.sPageID;
+                        }else{
+                            pageID = site_ttf.pageID;
+                        };
+                        (function(d, p) {
+                            var js, s = d.getElementsByTagName('script')[0];
+                            js = d.createElement('script');
+                            js.async = true;
+                            js.defer = true;
+                            js.setAttribute("class", "teads");
+                            js.src = '//a.teads.tv/page/' + p + '/tag';
+                            s.parentNode.insertBefore(js, s);
+                        })(window.document, pageID);
+                        
+                    }
+                    if(_anuObj.result == "good"){
+                        GoodSource = "Yes";
+
+
+                    }
+                } else {
+                    console.log("Anura : Error");
+                    console.log("Anura exid: "+response.getExId());
+                }
+            }
+            </script>
+        <script type='text/javascript'>
+            var PREBID_TIMEOUT = 1000;
+            var FAILSAFE_TIMEOUT = 3000;
+            var adUnits = [{"mediaTypes":{"banner":{"sizes":[[728,90],[970,90],[970,250]],"sizeMapping":[{"minWidth":992,"sizes":[[970,250],[970,90],[728,90]]},{"minWidth":768,"sizes":[[728,90]]},{"minWidth":300,"sizes":[[300,250],[320,100]]}]}},"code":"gpt_top","bids":[{"bidder":"yieldmo","params":{"placementId":1932672605870523622}},{"bidder":"consumable","params":{"unitId":"11361","unitName":"nsmbl-audio-728x90-slider","zoneIds":["2006319"],"siteId":"2001288","networkId":"9969"}}]},{"mediaTypes":{"banner":{"sizes":[[300,250],[300,600],[400,300]],"sizeMapping":[{"minWidth":768,"sizes":[[300,250],[320,100]]},{"minWidth":300,"sizes":[[300,250],[300,600],[320,100]]}]}},"code":"gpt_right1","bids":[{"bidder":"yieldmo","params":{"placementId":1932672605870523622}},{"bidder":"consumable","params":{"unitId":"11360","unitName":"cnsmbl-audio-300x250-slider","zoneIds":["2006318"],"siteId":"2001288","networkId":"9969"}}]},{"mediaTypes":{"banner":{"sizes":[[300,250],[300,600],[160,600],[300,1050]],"sizeMapping":[{"minWidth":768,"sizes":[[300,250],[320,100]]},{"minWidth":300,"sizes":[[300,250],[300,600],[320,100]]}]}},"code":"gpt_right2","bids":[{"bidder":"yieldmo","params":{"placementId":1932672605870523622}},{"bidder":"consumable","params":{"unitId":"11360","unitName":"cnsmbl-audio-300x250-slider","zoneIds":["2006318"],"siteId":"2001288","networkId":"9969"}}]},{"mediaTypes":{"banner":{"sizes":[[300,250],[300,600],[160,600]],"sizeMapping":[{"minWidth":768,"sizes":[[300,250],[320,100]]},{"minWidth":300,"sizes":[[300,250],[300,600],[320,100]]}]}},"code":"gpt_right3","bids":[{"bidder":"yieldmo","params":{"placementId":1932672605870523622}},{"bidder":"consumable","params":{"unitId":"11360","unitName":"cnsmbl-audio-300x250-slider","zoneIds":["2006318"],"siteId":"2001288","networkId":"9969"}}]}];
+
+
+        </script>
+            <script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+            <script async src="https://1087935514.rsc.cdn77.org/common/js/common/prebid_sb_202110.js"></script>
+            <script type='text/javascript'>
+
+        const customGranularity = {
+            'buckets': [{
+                'min': 0.01,
+                'max': 45.00,
+                'increment': 0.01
+            }]
+        };
+
+
+
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+
+        pbjs.que.push(function () {
+            pbjs.addAdUnits(adUnits);
+            pbjs.requestBids({
+                bidsBackHandler: initAdserver,
+                timeout: PREBID_TIMEOUT
+            });
+        });
+
+        function initAdserver() {
+            if (pbjs.initAdserverSet) return;
+            pbjs.initAdserverSet = true;
+            googletag.cmd.push(function () {
+                pbjs.que.push(function () {
+                    pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+
+                });
+            });
+        }
+
+        function refreshBid(keys) {
+            pbjs.que.push(function () {
+                var pos_arr = new Array;
+                var slot_arr = new Array;
+                for (i = 0; i < keys.length; i++) {
+                    var key = keys[i];
+                    pos_arr[i] = 'gpt_' + key;
+                    slot_arr[i] = googletag.slots[key];
+                }
+
+                pbjs.requestBids({
+                    timeout: PREBID_TIMEOUT,
+                    adUnitCodes: pos_arr,
+                    bidsBackHandler: function () {
+
+                        pbjs.setTargetingForGPTAsync(pos_arr);
+                        googletag.pubads().refresh(slot_arr);
+                    }
+                });
+            });
+        }
+        </script>
+        <script type='text/javascript'>var adslot = '/21697271410/sciencetimes/medic-health/articles';
+                    var googletag = googletag || {};
+                    googletag.cmd = googletag.cmd || [];
+                    googletag.slots = googletag.slots || {}; 
+                    
+                googletag.cmd.push(function () {
+                    googletag.pubads().disableInitialLoad();
+                });
+            googletag.cmd.push(function() { 
+	googletag.slots['top'] = googletag.defineSlot(adslot,[[728,90],[970,90],[970,250]],'gpt_top').addService(googletag.pubads()).setTargeting('pos','top'); 
+	googletag.slots['right1'] = googletag.defineSlot(adslot,[[300,250],[300,600],[400,300]],'gpt_right1').addService(googletag.pubads()).setTargeting('pos','right1'); 
+	googletag.slots['right2'] = googletag.defineSlot(adslot,[[300,250],[300,600],[160,600],[300,1050]],'gpt_right2').addService(googletag.pubads()).setTargeting('pos','right2'); 
+	googletag.slots['right3'] = googletag.defineSlot(adslot,[[300,250],[300,600],[160,600]],'gpt_right3').addService(googletag.pubads()).setTargeting('pos','right3'); 
+	googletag.slots['oop1'] = googletag.defineOutOfPageSlot(adslot,'gpt_oop1').addService(googletag.pubads()).setTargeting('pos','oop1');
+	googletag.slots['oop2'] = googletag.defineOutOfPageSlot(adslot,'gpt_oop2').addService(googletag.pubads()).setTargeting('pos','oop2');
+	googletag.pubads().enableAsyncRendering();
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().setTargeting('article_id','26842');
+  googletag.pubads().setTargeting('NoPassAN',NoPassAN);
+  if(keyEx && keyEx.length) googletag.pubads().setTargeting('adexclusion', keyEx);
+  for(i in keyEx) { googletag.pubads().setCategoryExclusion(keyEx[i]);}
+	googletag.enableServices();
+                    });
+                        </script>
+<script type="text/javascript">
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+  apstag.init({
+    pubID: "10f2e1c5-d495-4ec1-a8e3-2556d5c64ce9",
+    adServer: "googletag",
+    bidTimeout: 2e3
+  });
+  apstag.fetchBids({
+    slots: [{slotID: "gpt_top", slotName: adslot, sizes: [[728,90],[970,90],[970,250]]},
+{slotID: "gpt_right1", slotName: adslot, sizes: [[300,250],[300,600],[400,300]]},
+{slotID: "gpt_right2", slotName: adslot, sizes: [[300,250],[300,600],[160,600],[300,1050]]},
+{slotID: "gpt_right3", slotName: adslot, sizes: [[300,250],[300,600],[160,600]]}    ]
+  }, function(bids) {
+    googletag.cmd.push(function() {
+
+      apstag.setDisplayBids();
+        //googletag.pubads().refresh();
+    });
+  });
+
+</script>
+            <script type="text/javascript">
+function getResult(response) {
+    var method = 'POST';
+    var params = ['instance=2238638024'];
+    if (response.getId()) params.push('id='+encodeURIComponent(response.getId()));
+    if (response.getExId()) params.push('exid='+encodeURIComponent(response.getExId()));
+    var url = 'https://script.anura.io/result.json'+('GET' === method ? '?'+params.join('&'): '');
+    if (window.XDomainRequest) {
+        var http = new XDomainRequest();
+        if (http) {
+            http.open(method, document.location.protocol === 'https:' ? url: url.replace('https:', 'http:'));
+            http.onprogress = function(){};
+            http.ontimeout = function(){};
+            http.onerror = function(){};
+            http.onload = function(){
+            };
+            setTimeout(function(){http.send('POST' === method ? params.join('&'): '');}, 0);
+        }
+    } else if (window.XMLHttpRequest) {
+        var http = new XMLHttpRequest();
+        if (http && 'withCredentials' in http) {
+            http.open(method, url, true);
+            if ('POST' === method) http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+            http.onreadystatechange = function() {
+            }
+            http.send('POST' === method ? params.join('&'): '');
+        }
+    }
+}
+</script>
+<!-- Begin PowerAds tag -->
+<script async src="https://powerad.ai/script.js"></script>
+<!-- End PowerAds tag -->
+
+</head>
+<body>
+
+
+<nav class="pn d-flex align-items-center">
+    <div class="logo"><a href="/">The Science Times</a></div>
+    <div class="flex-fill d-flex align-items-center justify-content-between justify-content-sm-start">
+        <div class="icon icon-menu text"></div>
+        <div class="icon icon-search"></div>
+        <div class="searchform">
+            <form class="d-flex" action="/search">
+                <input type="text" name="q" id="" placeholder="Search keywords">
+                <input type="submit" value="">
+            </form>
+        </div>
+    </div>
+    <a href="" class="button">Subscribe</a>
+</nav>
+<nav class="pn2">
+    <ul>
+        <li><a href="/tech-inno">Tech & Innovation</a></li>
+        <li><a href="/design">Design</a></li>
+        <li><a href="/nanotech">Nano Technology</a></li>
+        <li><a href="/energy">Energy</a></li>
+        <li><a href="/policy">Policy</a></li>
+        <li><a href="/space">Space</a></li>
+        <li><a href="/physic-math">Physics & Math</a></li>
+        <li><a href="/chemistry">Chemistry</a></li>
+        <li><a href="/medic-health">Medicine & Health</a></li>
+        <li><a href="/environ-climate">Environment & Climate</a></li>
+    </ul>
+</nav><main>
+    <div class="container-fluid">
+        <div class="breadcrumbs">
+    <a href="/">HOME</a> &gt; <a href="/medic-health">MEDICINE & HEALTH</a></div>        <div class="row">
+            <div class="col-sm-7 col-md-8 col-lg-9">
+    <div class="article-header">
+        <h1>WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop</h1>
+        <div class="byline">
+            <span class="author">Erika P.</span> <time>Aug 12, 2020 06:20 AM EDT</time>
+        </div>
+        <div class="article-social">
+            <div class="social">
+                <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm" class="facebook" target="_blank">Facebook</a>
+                <a href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm&amp;text=WHO+Calls+for+Delaying+Dental+Routine+Check-Ups+Until+COVID-19+Transmission+Rates+Drop&amp;via=twitter%20username%20of%20author&amp;hashtags=" class="twitter" target="_blank">Twitter</a>
+                <a href="" class="linkedin" target="_blank">Linkedin</a>
+                <a href="#comment" class="comment">Comment</a>
+
+                <a href="mailto:?subject=WHO+Calls+for+Delaying+Dental+Routine+Check-Ups+Until+COVID-19+Transmission+Rates+Drop&amp;body=Check%20out%20this%20page:%20https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm" class="mail" target="_blank">Mail</a>
+            </div>
+        </div>
+    </div>
+    <div class="article-content">
+        <div id="article-body" class="article-body">
+            <div class="player"><div id="vplayer_large">
+  <link rel="stylesheet" href="https://1087935514.rsc.cdn77.org/static/js/video/3.175/video_v2.4.min.css" type="text/css" />   
+<div class="player-wrap" id="player-wrap"><div class="player-title"></div><div id="player_container"><div id="player_in_article"><div class="player_close"><span>Close</span></div><video id="tvplayer_main" class="ibtplayer video-js vjs-default-skin" poster="" style="display:block;"></video></div><div id="companion1_300x250"></div></div>
+<div class="vid_caption"></div></div>
+<div class="player-poster"></div>
+</div></div>
+            <p><span>On August 11, the World Health Organization calls for people to delay routine and non-essential dental work until rates of transmission of the COVID-19 has significantly dropped. They also cautioned people of dental procedures that might produce aerosol spray from the mouths of the patients.</span></p>
+<p><a href="https://www.who.int/publications/i/item/who-2019-nCoV-oral-health-2020.1" rel="nofollow">According to WHO</a>, dental cleanings and preventive care could be postponed. They already released guidelines for dentists on how to minimize the risk of transmission during the pandemic.</p>
+<p>Additionally, the United Nations health agency said that there are several procedures in the oral health care system that can be done in a way that could minimize aerosol or the micro-droplets hanging in the air.</p>
+
+
+<div class="imageBox"><img alt="WHO Calls For Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop" src="https://1721181113.rsc.cdn77.org/data/images/full/28920/who-calls-for-delaying-dental-routine-check-ups-until-covid-19-transmission-rates-drop.jpg?w=600?w=650" title="WHO Calls For Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop" id="article_img_28920" />
+<div class="caption">(Photo: Pixabay)<br />WHO Calls For Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop</div>
+</div>
+
+<p><strong>Read Also:<em> <a href="https://www.sciencetimes.com/articles/26397/20200709/covid-19-update-who-counters-initial-claim-coronavirus-can-be-spread-airborne-indoors.htm">[COVID-19 Update] WHO Counters Initial Claim: Coronavirus Can Be Spread Airborne Indoors</a></em></strong></p>
+<p><strong><br /></strong></p>
+<h2>Who Guidelines for Oral Health Care</h2>
+<p>The <a href="https://www.who.int/publications/i/item/who-2019-nCoV-oral-health-2020.1" rel="nofollow">guidance</a>&nbsp;released by WHO stated that routine non-essential oral health care -including oral health check-ups, dental cleanings, and preventive care- be delayed until the COVID-19 transmission rates have significantly dropped.</p>
+<p>Furthermore, the same guidance should be implemented for aesthetic dental treatments. However, dentists are allowed to operate in situations where immediate care is needed to preserve the oral functioning of a person, manage severe pain, and secure the quality of life.</p>
+<p>They also mentioned that it would be better if patients could be remotely screened before their appointments. WHO's interim guidance in oral health care operation was aired by the health agency on Tuesday.</p>
+
+<p><strong>Read Next: <em><a href="https://www.sciencetimes.com/articles/26335/20200706/coronavirus-airborne-239-experts-call-who-update-guidelines.htm">Coronavirus Is Airborne: 239 Experts Call on the WHO to Update Its COVID-19 Guidelines</a></em></strong></p>
+<p><strong><br /></strong></p>
+<h2>Working in Close Proximity</h2>
+<p>WHO is concerned that dentists are at high risk of getting the virus, <a href="https://www.sciencealert.com/coronavirus" rel="nofollow">SARS-CoV-2</a>, as they work in close proximity to the faces of their patients for prolonged periods.</p>
+<p>Dental care involves close face-to-face communication and frequent exposure to the patient's saliva, blood, other body fluids, and sharp instruments that they use during their procedures. Consequently, they are at high risk of either being infected or passing the infection to their patients.</p>
+<p>For instance, an <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338532/" rel="nofollow">aerosol-generating procedure</a>&nbsp;like dental cleaning using an ultrasonic scaler and polishing that works with high- or low-speed hand-pieces, surgical tooth extraction, and implant placement increases the chance of transmission if either one of them is already infected.</p>
+<p>The WHO has listed ways in their guidance for the dentists in dealing with broken dentures and orthodontic equipment and also extensive dental caries that could help in minimizing or avoiding aerosol-generating procedures.</p>
+<p>Benoit Varenne, the dental chief of WHO, said that oral health was a neglected part of the health sector in many countries that affects many people throughout their lives.</p>
+<p>"At the global level, last estimates that are available show that 3.5 billion are affected by oral disease," Varenne said. The most common oral health condition in human beings is the untreated dental caries in permanent teeth.</p>
+<p>According to Varenne, a survey suggests that 75% of the WHO member states said that the dental services in their countries have either completely or partially disrupted during the coronavirus pandemic.</p>
+<p>Not to mention the lack of personal protective equipment for the dentists working during the pandemic, says Varenne.</p>
+<p><iframe src="https://www.youtube.com/embed/52AuH151v00" width="560" height="315" frameborder="0"></iframe></p>
+
+<p><strong>Read More: <em><a href="https://www.sciencetimes.com/articles/26085/20200617/turbulence-toilet-bowl-creates-large-plume-potentially-infectious-air-harmful.htm">[Coronavirus] Turbulence From Toilet Bowl Creates Large Plume of Potentially Infectious Air Harmful for Its Next Visitor: Study</a></em></strong></p>
+<p><strong><br /></strong></p>
+        </div>
+        <div class="article-social">
+            <div class="social">
+                <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm" class="facebook" target="_blank">Facebook</a>
+                <a href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm&amp;text=WHO+Calls+for+Delaying+Dental+Routine+Check-Ups+Until+COVID-19+Transmission+Rates+Drop&amp;via=twitter%20username%20of%20author&amp;hashtags=" class="twitter" target="_blank">Twitter</a>
+                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm&amp;title=WHO+Calls+for+Delaying+Dental+Routine+Check-Ups+Until+COVID-19+Transmission+Rates+Drop&amp;summary=source=Parent%20Herald" class="linkedin" target="_blank">Linkedin</a>
+                                <a href="mailto:?subject=WHO+Calls+for+Delaying+Dental+Routine+Check-Ups+Until+COVID-19+Transmission+Rates+Drop&amp;body=Check%20out%20this%20page:%20https%3A%2F%2Fwww.sciencetimes.com%2Farticles%2F26842%2F20200812%2Fwho-calls-postponig-dental-routine-check-ups-until-covid-19.htm" class="mail" target="_blank">Mail</a>
+            </div>
+        </div>
+        <nav class="related d-flex">
+                        MORE
+            <ul>
+                                    <li><a href="/tags/covid-19-transmission">COVID-19 transmission</a></li>
+                                    <li><a href="/tags/world-health-organization">World Health Organization</a></li>
+                                    <li><a href="/tags/avoid-non-essential-dental-work">avoid non-essential dental work</a></li>
+                                    <li><a href="/tags/dental-work-during-covid-19">dental work during COVID-19</a></li>
+                                    <li><a href="/tags/oral-health-care">oral health care</a></li>
+                                    <li><a href="/tags/dentist">dentist</a></li>
+                
+            </ul>
+                    </nav>
+        <div class="copyright">©2021 ScienceTimes.com All rights reserved. Do not reproduce without permission. The window to the world of <a href="http://www.sciencetimes.com/">science times</a>.</div>
+    </div>
+    <div class="block belowcontent">
+        <div id="M703694ScriptRootC1119391"></div> <script src="https://jsc.mgid.com/s/c/sciencetimes.com.1119391.js" async></script>    </div>
+    <div id="comment" class="block comments">
+
+    </div>
+    <script type="text/javascript">
+        $("#article-body p a").attr("target", "_blank");
+    </script>
+</div>            <div class="col-sm-5 col-md-4 col-lg-3">
+<div class="block text-center">
+<div class='adunit_rectangle'>
+					<div id='gpt_right1' >
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('gpt_right1'); });
+						</script>
+					</div>
+				</div></div>	
+<div class="block-list counter">
+    <h5 class="block-title">Most Popular</h5>
+                    <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33824/20211007/elon-musk-shares-chilling-video-of-lightning-electrifying-spacex-starship-is-it-real.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/35328/89/56/50/40/spacex-proposes-to-use-starship-for-the-revised-starlink-gen2-plans.jpg" alt=" SpaceX Proposes to Use Starship for the Revised Starlink Gen2 Plans"></a>
+                    </figure>
+                                        <h6><a href="/articles/33824/20211007/elon-musk-shares-chilling-video-of-lightning-electrifying-spacex-starship-is-it-real.htm">Elon Musk Shares Scary Video of SpaceX Starship Becoming A Lightning; Is It Real?</a></h6>
+                </article>
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33817/20211007/tomb-nestors-cup-contained-cremains-three-humans-whos-buried-oldest.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36229/89/56/50/40/tomb-of-nestors-cup-contained-cremains-of-at-least-three-humans-whos-buried-with-the-oldest-greek-writing.jpg" alt=" Tomb of Nestor&#039;s Cup Contained Cremains of at Least Three Humans: Who&#039;s Buried With the Oldest Greek Writing?"></a>
+                    </figure>
+                                        <h6><a href="/articles/33817/20211007/tomb-nestors-cup-contained-cremains-three-humans-whos-buried-oldest.htm">Tomb of Nestor's Cup Contained Cremains of at Least Three Humans: Who's Buried With the Oldest Greek Writing?</a></h6>
+                </article>
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33799/20211006/new-space-rock-hybrid-discovered-near-sun-confirmed-both-comet.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36211/89/56/50/40/asteroid_belt_landscape-png.png" alt="Asteroid_belt_landscape.png"></a>
+                    </figure>
+                                        <h6><a href="/articles/33799/20211006/new-space-rock-hybrid-discovered-near-sun-confirmed-both-comet.htm">New Space Rock Hybrid Discovered Near Sun; Confirmed as Both Comet and Asteroid</a></h6>
+                </article>
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33822/20211007/13th-century-arrival-māori-people-found-frozen-antarctic-ice-core.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36233/89/56/50/40/science-times-13th-century-arrival-of-m-ori-people-found-frozen-in-antarctic-ice-core-researchers-link-fires-volcanic-eruptions-to-the-finding.jpg" alt="Science Times - 13th Century Arrival of Māori People Found Frozen in Antarctic Ice Core; Researchers Link Fires, Volcanic Eruptions to the Finding"></a>
+                    </figure>
+                                        <h6><a href="/articles/33822/20211007/13th-century-arrival-māori-people-found-frozen-antarctic-ice-core.htm">13th Century Arrival of Māori People Found Frozen in Antarctic Ice Core; Researchers Link Fires, Volcanic Eruptions to the Finding</a></h6>
+                </article>
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33837/20211007/does-nasa-really-need-to-deep-clean-mars-spacecrafts-scientists-say-no.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36065/89/56/50/40/nasa-s-perseverance-rover-cameras-capture-mars-like-never-before.jpg" alt="NASA’s Perseverance Rover Cameras Capture Mars Like Never Before"></a>
+                    </figure>
+                                        <h6><a href="/articles/33837/20211007/does-nasa-really-need-to-deep-clean-mars-spacecrafts-scientists-say-no.htm">Does NASA Really Need to Deep Clean Mars Spacecrafts? Scientists Say 'No!'</a></h6>
+                </article>
+</div>
+<div class="block text-center">
+    <div class='adunit_rectangle'>
+					<div id='gpt_right2' >
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('gpt_right2'); });
+						</script>
+					</div>
+				</div></div>
+<div class="block-list">
+    <h5 class="block-title">Latest Stories</h5>
+                              <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33851/20211008/human-gut-microbiome-influences-prostate-cancer-growth-study.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36260/80/57/50/40/man.jpg" alt=""></a>
+                    </figure>
+                                        <h6><a href="/articles/33851/20211008/human-gut-microbiome-influences-prostate-cancer-growth-study.htm">Human Gut Microbiome Influences Prostate Cancer Growth: Study Says</a></h6>
+                </article>
+
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33847/20211008/elon-musk-starlink-will-roll-out-in-the-u-s-soon-should-people-register-to-the-internet-service.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36256/80/57/50/40/denmark-space-satellite-spacex.jpg" alt=""></a>
+                    </figure>
+                                        <h6><a href="/articles/33847/20211008/elon-musk-starlink-will-roll-out-in-the-u-s-soon-should-people-register-to-the-internet-service.htm">Elon Musk: Starlink Will Roll Out in the U.S. Soon; Should People Register to the Internet Service?</a></h6>
+                </article>
+
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33845/20211008/lost-world-mysterious-ancient-mangrove-ecosystem-flourishes-124-miles-away.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36253/80/57/50/40/lost-world-mysterious-ancient-mangrove-ecosystem-flourishes-124-miles-away-from-the-nearest-ocean.jpg" alt=""></a>
+                    </figure>
+                                        <h6><a href="/articles/33845/20211008/lost-world-mysterious-ancient-mangrove-ecosystem-flourishes-124-miles-away.htm">Lost World: Mysterious Ancient Mangrove Ecosystem Flourishes 124 Miles Away From the Nearest Ocean</a></h6>
+                </article>
+
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33842/20211008/covid-19-vaccines-significant-side-effects-found-study-6-million.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36252/80/57/50/40/vaccine-jab.jpg" alt=""></a>
+                    </figure>
+                                        <h6><a href="/articles/33842/20211008/covid-19-vaccines-significant-side-effects-found-study-6-million.htm">COVID-19 mRNA Vaccines and Severe Side Effects Not Linked, Collaborative Study Shows</a></h6>
+                </article>
+
+                <article class="clearfix">
+                                        <figure class="float-right">
+                        <a href="/articles/33841/20211008/looking-something-lost-newly-invented-robot-locate-98-percent-success.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36251/80/57/50/40/science-times-looking-for-something-you-may-have-lost-let-this-newly-invented-robot-locate-it-with-98-percent-success-rate.jpg" alt=""></a>
+                    </figure>
+                                        <h6><a href="/articles/33841/20211008/looking-something-lost-newly-invented-robot-locate-98-percent-success.htm">Looking for Something You May Have Lost? Let This Newly Invented Robot Locate It with 96 Percent Success Rate</a></h6>
+                </article>
+
+                
+            </div><div class="subscribe-block">
+    <h3>Subscribe to The Science Times!</h3>
+    <p>Sign up for our free newsletter for the Latest coverage!</p>
+    <form action="/home/news/newsletter/add.php" onsubmit="return false;" class="subscribeform"><input type="email" name="email" id="newsletter-email" placeholder="Email Address"><input id="nlsubmit3" type="submit" value="Sign Up"></form>
+    <p id="newsletter-box"></p>
+</div>
+
+<script type="text/javascript">
+    var repword=$('#newsletter-box');
+    $('#nlsubmit3').click(function(){
+
+        $.ajax(
+            {
+                url:'/home/news/newsletter/add.php',
+                type:'post',
+                data:{'nl':'3','email':$("#newsletter-email").val()},
+                success:function(res){
+                    repword.css('display','block');
+                    $("#newsletter-email").val("");
+                    repword.html("<span class='arr'></span>"+res);
+
+                },
+            }
+
+
+        );
+    });
+</script></div>
+        </div>
+
+
+<div class="block text-center">
+    <div class='adunit_leaderboard'>
+					<div id='gpt_top' style='width:970px;margin:0 auto;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('gpt_top'); });
+						</script>
+					</div>
+				</div></div>
+<div class="block">
+    <h3 class="block-title">Recommended Stories</h3>
+        <div class="row">
+                <div class="col-sm-6 col-md-3">
+            <article>
+                <figure>
+                    <a href="/articles/33833/20211007/october-meteor-showers-how-to-watch-draconids-orionids-peak.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/34888/258/146/50/40/science-times-twin-meteor-showers-dont-miss-this-weeks-occurrence-in-the-sky-that-could-produce-fireballs.jpg" alt="Science Times - Twin Meteor Showers: Don&#039;t Miss This Week&#039;s Occurrence in the Sky That Could Produce Fireballs"></a>
+                </figure>
+                                    <span class="category"><a href="/space">SPACE</a></span>
+                                    <h3><a href="/articles/33833/20211007/october-meteor-showers-how-to-watch-draconids-orionids-peak.htm">October Meteor Showers: How To Watch Draconids, Orionids Peak This Month</a></h3>
+            </article>
+        </div>
+                <div class="col-sm-6 col-md-3 b-sm-l">
+            <article>
+                <figure>
+                    <a href="/articles/33825/20211007/nasa-astronauts-longer-flying-boeings-starliner-reassigned-spacex-flight.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/36237/258/146/50/40/nasa-astronauts-no-longer-flying-in-boeings-starliner-as-they-were-reassigned-to-a-spacex-flight.jpg" alt=" NASA Astronauts No Longer Flying in Boeing&#039;s Starliner as They Were Reassigned to a SpaceX Flight"></a>
+                </figure>
+                                    <span class="category"><a href="/space">SPACE</a></span>
+                                    <h3><a href="/articles/33825/20211007/nasa-astronauts-longer-flying-boeings-starliner-reassigned-spacex-flight.htm">NASA Astronauts No Longer Flying in Boeing's Starliner as They Were Reassigned to a SpaceX Flight</a></h3>
+            </article>
+        </div>
+                <div class="col-sm-6 col-md-3 b-sm-l">
+            <article>
+                <figure>
+                    <a href="/articles/33824/20211007/elon-musk-shares-chilling-video-of-lightning-electrifying-spacex-starship-is-it-real.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/35328/258/146/50/40/spacex-proposes-to-use-starship-for-the-revised-starlink-gen2-plans.jpg" alt=" SpaceX Proposes to Use Starship for the Revised Starlink Gen2 Plans"></a>
+                </figure>
+                                    <span class="category"><a href="/space">SPACE</a></span>
+                                    <h3><a href="/articles/33824/20211007/elon-musk-shares-chilling-video-of-lightning-electrifying-spacex-starship-is-it-real.htm">Elon Musk Shares Scary Video of SpaceX Starship Becoming A Lightning; Is It Real?</a></h3>
+            </article>
+        </div>
+                <div class="col-sm-6 col-md-3 b-sm-l">
+            <article>
+                <figure>
+                    <a href="/articles/33818/20211007/spacex-dragon-capsule-returns-from-iss-splashdown-causes-sonic-boom-in-florida.htm"><img src="https://1721181113.rsc.cdn77.org/data/thumbs/full/34549/258/146/50/40/spacex-dragon-heads-back-to-earth-carrying-3-000-pounds-of-cargo-after-stormy-delay.jpg" alt=" SpaceX Dragon Heads Back to Earth Carrying 3,000 Pounds of Cargo After Stormy Delay"></a>
+                </figure>
+                                    <span class="category"><a href="/space">SPACE</a></span>
+                                    <h3><a href="/articles/33818/20211007/spacex-dragon-capsule-returns-from-iss-splashdown-causes-sonic-boom-in-florida.htm">SpaceX Dragon Capsule Returns From ISS, Splashdown Causes Sonic Boom in Florida</a></h3>
+            </article>
+        </div>
+        
+    </div>
+    </div></div>
+</main>
+<footer class="pf">
+    <div class="container-fluid d-sm-flex">
+        <div class="flex-fill">
+            <div class="logo"><a href="/">The Science Times</a></div>
+            <nav class="pfn-1">
+                <ul>
+                    <li><a href="/tech-inno">Tech & Innovation</a></li>
+                    <li><a href="/design">Design</a></li>
+                    <li><a href="/nanotech">Nano Technology</a></li>
+                    <li><a href="/energy">Energy</a></li>
+                    <li><a href="/policy">Policy</a></li>
+                    <li><a href="/space">Space</a></li>
+                    <li><a href="/physic-math">Physics & Math</a></li>
+                    <li><a href="/chemistry">Chemistry</a></li>
+                    <li><a href="/medic-health">Medicine & Health</a></li>
+                    <li><a href="/environ-climate">Environment & Climate</a></li>
+                </ul>
+            </nav>
+            <nav class="pfn-2">
+                <ul>
+                    <li><a href="/about-us">About Us</a></li>
+                    <li><a href="/termsofservice">Terms &amp; Conditions</a></li>
+                    <li><a href="/privacypolicy">Privacy Policy</a></li>
+                    <li><a href="/contact-us">Contact Us</a></li>
+                </ul>
+            </nav>
+            <div class="copyright">© Copyright 2021 The Science Times. All Rights Reserved.</div>
+        </div>
+        <div class="social">
+            <a href="https://www.facebook.com/thesciencetimes/" class="facebook" target="_blank">Facebook</a>
+            <a href="https://twitter.com/ScienceTimesCom" class="twitter" target="_blank">Twitter</a>
+            <a href="" class="instagram" target="_blank">Instagram</a>
+        </div>
+    </div>
+</footer>
+<script>
+var cfvto = ''; var cfv = '';
+var nofresh = 0;var p_type = 'pm1';var bsMainVideo = {url:[{url:"https://mpbs.r.worldssl.net/tech/104_s.mp4"}],title:'',description:'',thumb:"",lists:[{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/105_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/105_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/105_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/105_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/105_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/106_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/106_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/106_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/106_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/106_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/107_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/107_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/107_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/107_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/107_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/116_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/116_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/116_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/116_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/116_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/124_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/124_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/124_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/124_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/124_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/125_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/125_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/125_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/125_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/125_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"},{"url":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4","mobile":[{"label":"LO","res":144,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"HI","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"pc":[{"label":"HD","res":480,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"},{"label":"SD","res":288,"type":"video\/mp4","path":"https:\/\/mpbs.r.worldssl.net\/tech\/104_s.mp4"}],"title":"","description":"","thumb":"","vid":1,"link":"\/video\/1","shorten":"\/video\/1"}],vid:'1', duration:'11', sid:'8371',ad:1,autoPlay:true, id:'tvplayer_main' };var dfp_adunit = 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/21697271410/video.sciencetimes/'+p_type+'/dt&impl=s&gdfp_req=1&env=vp&output=xml_vast3&unviewed_position_start=1&url=[ref]&description_url=http%3A%2F%2Fwww.sciencetimes.com&correlator=[cachebuster]';var video_logo = 'https://1087935514.rsc.cdn77.org/static/js/video/images/logoplayer.png';var nop = 4;if(typeof adslot_video != "undefined"){dfp_adunit='https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu='+adslot_video+'&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[ref]&description_url=http%3A%2F%2Fwww.sciencetimes.com&correlator=[cachebuster]';}if((iu_param == 'po'||iu_param == 'pp') && (cfv == 2 || cfvto == 2)){addsp='f';if((iu_param == 'po'||iu_param == 'pp') && cfv != 2 && cfvto == 2){clearInterval(videoTime);addsp='l';}}else if((iu_param=='po'||iu_param == 'pp')&&cfvto != 2){location.href = location.href.split("?")[0];}else if(!iu_param && (cfvto==2||cfv==2)){cfv=1;set_cookie('cfv',1);cfvto=1;set_cookie('cfvto',1);}if(repvst>10){addsp='l';$('.player-poster').remove();bsMainVideo.fStopAutoPlay=true;}var endTimeStamp=Math.floor(Date.now()/1000);var vplay_start = false;function load_vplayer(){clearTimeout(vp_timeout_var);var vplay = document.createElement('script'); vplay.async = true; vplay.type = 'text/javascript';vplay.src = 'https://vplayer.sciencetimes.com/player/sys/video_v0225.js';var node = document.getElementsByTagName('script')[0];node.parentNode.insertBefore(vplay, node);vplay_start=true;}
+if(typeof cfvbt != "undefined" && cfvbt ){$('.player-wrap').hide();}else{var vp_timeout = 2000;var vp_timeout_var = setTimeout(function(){load_vplayer();}, vp_timeout);}
+</script> 	
+<script>LSYE("https://1087935514.rsc.cdn77.org/common/js/common/awesome.json");</script><script type="text/javascript">
+$('img.lazy').lazyload({ effect : "fadeIn", failure_limit : 40 });
+</script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<div style="display:none;">
+			<img alt="Real Time Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+			<script type="text/javascript">
+			  var clicky_custom = {
+				href: "/articles/26842/20200812/who-calls-postponig-dental-routine-check-ups-until-covid-19.htm",
+				title: "WHO Calls for Delaying Dental Routine Check-Ups Until COVID-19 Transmission Rates Drop"
+			  };
+			  clicky_custom.outbound_disable = 1;
+			  clicky_custom.video_disable = 1;
+			</script>
+			<script src="//static.getclicky.com/js" type="text/javascript"></script>
+			<script type="text/javascript">try{ stat_track=true;if(typeof cfvbt!='undefined' && cfvbt){stat_track=false;console.log('cfvbt ck:'+cfvbt);}if(stat_track){clicky.init(101022008);} }catch(e){}</script>
+			<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101022008ns.gif" /></p></noscript>
+		</div><!-- Start Google Analytics -->
+<!-- Start of Quantcast Code -->
+<script type="text/javascript">
+		var stat_track=true;
+		window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+    window._qevents.push({
+qacct:"p-KaQX-jmqPU3P4",
+uid:"webmaster@sciencetimes.com"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-KaQX-jmqPU3P4.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+		</noscript>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-91518120-1', 'auto');
+ga("set", "dimension1", "Jobelle Pelayre");
+ga("set", "dimension2", "medicine & health");
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '832546620460700');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=832546620460700&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript"> __st_tracking_url = 'https://stat.sciencetimes.com'; __st_article_id = '26842';if(typeof cfvsid!='undefined' && cfvsid!=1){__st_tracking_url='';} </script>
+	<script type="text/javascript" src="https://1087935514.rsc.cdn77.org/common/js/stat/counter_ssl.js?v=11"></script>
+	
+	
+<!-- Start of addthis Code -->
+<script async type="text/javascript">var addthis_config = addthis_config||{}; addthis_config.data_track_clickback = false;</script>
+	<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53a495eb3c63c82e"></script><!-- End of addthis Code -->
+
+<div class='adunit_oop'>
+					<div id='gpt_oop1' >
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('gpt_oop1'); });
+						</script>
+					</div>
+				</div><div class='adunit_oop'>
+					<div id='gpt_oop2' >
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('gpt_oop2'); });
+						</script>
+					</div>
+				</div><script type="text/javascript">
+var refreshVisible=function(){var e=$(window).height(),o=$(window).scrollTop(),t=o+e;for(key in googletag.slots){if(key!='oop1'&&key!='oop2'){var g=$("#gpt_"+key).outerHeight();if($("#gpt_"+key).length){var r=$("#gpt_"+key).offset().top+g/2;r>o&&r<t&&googletag.cmd.push(function(){googletag.pubads().refresh([googletag.slots[key]])})}}}};setInterval(refreshVisible,6e4);   
+//page refresh
+if(!cfvts){setTimeout(function () {location.reload();}, 3000000);}</script>
+
+
+
+<script type="text/javascript">
+
+
+
+
+
+</script>
+
+
+<!-- Nativo -->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"2dbac3f3da","applicationID":"403938230","transactionName":"MwEDMEICXkZXW00KCQpLNBZZTFhaW10WDQMTF04FQhdZVlpdFxMOFA==","queueTime":0,"applicationTime":77,"atts":"H0YARgoYTUg=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

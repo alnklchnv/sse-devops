@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js adaptivetheme">
+  <head>
+    
+    <meta charset="utf-8" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7045426448192288",
+    enable_page_level_ads: true
+  });
+</script><script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"Health Imaging","entityCreated":"1597159241","entityLangcode":"en","entityStatus":"1","entityUid":"1245","entityUuid":"531b2b7e-4c8d-4b64-b3b1-74894b840ecb","entityVid":"359441","entityName":"moconnor","entityType":"node","entityBundle":"article","entityId":"175151","entityTitle":"New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy","field_article_type":"article","field_association":[],"field_author_reference":{"id":"87457","label":"Matt O\u0027Connor","bundle":"people"},"field_conference_node":[],"field_seo_title":"nuclear medicine radiation dose cancer treatment","field_sponsored_by_companies":[],"field_topics_category":{"id":"17","label":"Molecular","bundle":"topics"},"entityTaxonomy":{"tags":{"804":"Nuclear medicine","36896":"radiation","35636":"dose","36901":"SPECT","36906":"CT","15831":"SNMMI","863":"Prostate cancer"},"topics":{"17":"Molecular"}},"userUid":0});</script>
+<meta http-equiv="content-language" content="en" />
+<meta name="robots" content="index, follow" />
+<link rel="image_src" href="https://www.healthimaging.com/sites/default/files/assets/articles/prostate_cancer.jpg" />
+<meta name="referrer" content="no-referrer" />
+<meta property="og:site_name" content="Health Imaging" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy" />
+<meta property="og:image" content="https://www.healthimaging.com/sites/default/files/styles/facebook/public/assets/articles/prostate_cancer.jpg?itok=OyYOccIu" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:updated_time" content="2020-08-11T21:32:32+0000" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:height" content="512" />
+<meta name="twitter:image:width" content="1024" />
+<meta name="twitter:image" content="https://www.healthimaging.com/sites/default/files/styles/twitter/public/assets/articles/prostate_cancer.jpg?itok=JU2jksF6" />
+<meta name="Generator" content="Drupal 9 (Thunder | https://www.thunder.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #000000} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script type="text/javascript">
+// Initialize the google variables.
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+// Add a place to store the slot name variable.
+googletag.slots = googletag.slots || {};
+(function() {
+  var useSSL = "https:" == document.location.protocol;
+  var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [320, 50])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_mobile_l2"] = googletag.defineSlot("/4261882/hi_mobile_topics_L2_320x50", [320, 50], "js-dfp-tag-trimed_web_mobile_l2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [728, 90])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_l2"] = googletag.defineSlot("/4261882/hi_web_topics_L2_728x90", [728, 90], "js-dfp-tag-trimed_web_dynamic_l2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [300, 250])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_r3"] = googletag.defineSlot("/4261882/hi_web_topics_R3_300x250", [300, 250], "js-dfp-tag-trimed_web_dynamic_r3")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [300, 250])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_r2"] = googletag.defineSlot("/4261882/hi_web_topics_R2_300x250", [[300, 250], [300, 600]], "js-dfp-tag-trimed_web_dynamic_r2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[300, 250], [300, 500], [300, 600], [300, 2000]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_r1"] = googletag.defineSlot("/4261882/hi_web_topics_R1_300x250", [[300, 250], [300, 600], [300, 500], [300, 2000]], "js-dfp-tag-trimed_web_dynamic_r1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_r3"] = googletag.defineSlot("/4261882/hi_mobile_topics_R3_300x250", [[300, 250], [300, 600], [300, 500]], "js-dfp-tag-trimed_mobile_dynamic_r3")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_b4"] = googletag.defineSlot("/4261882/hi_mobile_topics_B4", [[300, 250], [300, 600], [300, 500], [320, 50]], "js-dfp-tag-trimed_mobile_dynamic_b4")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[300, 250], [970, 250], [728, 90], [300, 500]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_b4"] = googletag.defineSlot("/4261882/hi_web_topics_B4", [[300, 250], [970, 250], [728, 90]], "js-dfp-tag-trimed_web_dynamic_b4")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_r2"] = googletag.defineSlot("/4261882/hi_mobile_topics_R2_300x250", [[300, 250], [300, 600], [300, 500]], "js-dfp-tag-trimed_mobile_dynamic_r2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_b3"] = googletag.defineSlot("/4261882/hi_mobile_topics_B3", [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]], "js-dfp-tag-trimed_mobile_dynamic_b3")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[300, 250], [970, 250], [728, 90], [300, 500]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_b3"] = googletag.defineSlot("/4261882/hi_web_topics_B3", [[300, 250], [970, 250], [728, 90]], "js-dfp-tag-trimed_web_dynamic_b3")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_r1"] = googletag.defineSlot("/4261882/hi_mobile_topics_R1_300x250", [[300, 250], [300, 600], [300, 500]], "js-dfp-tag-trimed_mobile_dynamic_r1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_b2"] = googletag.defineSlot("/4261882/hi_mobile_topics_B2", [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]], "js-dfp-tag-trimed_mobile_dynamic_b2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[300, 250], [970, 250], [728, 90], [300, 500]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_desktop_dynamic_b2"] = googletag.defineSlot("/4261882/hi_web_topics_B2", [[300, 250], [970, 250], [728, 90]], "js-dfp-tag-trimed_desktop_dynamic_b2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_mobile_dynamic_b1"] = googletag.defineSlot("/4261882/hi_mobile_topics_B1", [[300, 250], [300, 600], [300, 500], [320, 50], [970, 250]], "js-dfp-tag-trimed_mobile_dynamic_b1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[300, 250], [970, 250], [728, 90], [300, 500]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_desktop_dynamic_b1"] = googletag.defineSlot("/4261882/hi_web_topics_B1", [[300, 250], [970, 250], [728, 90]], "js-dfp-tag-trimed_desktop_dynamic_b1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [728, 90])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_l1"] = googletag.defineSlot("/4261882/hi_web_topics_L1_728x90", [728, 90], "js-dfp-tag-trimed_web_dynamic_l1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [320, 50])
+              .addSize([640, 480], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_mobile_l1"] = googletag.defineSlot("/4261882/hi_mobile_topics_L1_320x50", [320, 50], "js-dfp-tag-trimed_web_mobile_l1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+  
+  googletag.slots["trimed_web_dynamic_h2"] = googletag.defineSlot("/4261882/hi_web_H2_120x60", [180, 90], "js-dfp-tag-trimed_web_dynamic_h2")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+      ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [120, 60])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_h1"] = googletag.defineSlot("/4261882/hi_web_H1_120x60", [180, 90], "js-dfp-tag-trimed_web_dynamic_h1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([640, 480], [[1300, 900], [1697, 555], [1300, 425]])
+              .addSize([0, 0], [1, 1])
+            .build();
+  
+  googletag.slots["trimed_web_dynamic_t1"] = googletag.defineSlot("/4261882/hi_web_topics_T1_1300x900", [[1300, 900], [1697, 555], [1300, 425]], "js-dfp-tag-trimed_web_dynamic_t1")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+      googletag.pubads().enableAsyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs(true);
+          googletag.pubads().setTargeting('site', ['www.healthimaging.com']);
+      googletag.pubads().setTargeting('section', ['topics']);
+      googletag.pubads().setTargeting('topic', ['molecular-imaging']);
+      googletag.pubads().setTargeting('sponsor', ['molecular-imaging']);
+      googletag.pubads().setTargeting('portal', ['molecular-imaging']);
+  });
+googletag.enableServices();
+</script>
+<link rel="shortcut icon" href="/sites/default/files/Innovate_Favicon.png" type="image/png" />
+<script src="/sites/default/files/google_tag/health_imaging/google_tag.script.js?r0kh21" defer></script>
+
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+    <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=PT+Serif:400,700%7CRoboto+Condensed:300,400,400i,700%7CFira+Sans+Condensed:400,400i,700,700i&display=swap">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700%7CRoboto+Condensed:300,400,400i,700%7CFira+Sans+Condensed:400,400i,700,700i&display=swap">
+
+
+    <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Roboto+Condensed:300,700&display=swap">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Roboto+Condensed:300,700&display=swap">
+    <link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap">
+
+    <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff") as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0" as="font" type="font/eot" crossorigin>
+    <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0" as="font" type="font/truetype" crossorigin>
+    <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular" as="font" type="font/svg" crossorigin>
+   
+    <title>New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_3Wlf9Q1gAVb1wGDHo0gFa2T9xtehj6BItQuOWoStkwE.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_i6wQpc9nt0VUa51ZyopnB23zJgsQyCGiOjdIlNzSzSU.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_jiYG-WoYy8By8UvNGKFE1V_B8rbnDqE_7WRL1bBdAI4.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Q6t_hUuvc9PWwOxGz-p0DTdXrL_McAV_RrtYk0N2ChA.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XmMiEnqg4MwXcvFleAjTcelhhY6PgyOrgpwwo2A6_3o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_41QxDckZ0dxFEHETQ3yig5pXhJJy7QIWuFjqe4UqPd8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_EmUPN5hUtOCJuGEuJaUyiVvSKZInQWzFCREYZqU_AII.css" />
+
+    <script src="/sites/default/files/js/js_usMemgAW_h-RUI3QcDwXtdZZ9VO90PGjMKXpWPQmDfc.js"></script>
+<script src="/sites/default/files/js/js_f51S8j4s27W4AxMYgHe6jAGrPtN6CWVdtBCUopAl7BQ.js"></script>
+
+  </head><body role="document" class="www-healthimaging-com fontyourface layout-type--flex-builder user-logged-out path-not-frontpage path-node path-topics-molecular-imaging-nuclear-medicine-radiation-dose-cancer-treatment page-node-type--article theme-name--at-trimed">
+        <a href="#main-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJP7FTT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page js-layout">
+  <div data-at-row="leaderboard" class="l-leaderboard l-row">
+  
+  <div class="l-pr page__row pr-leaderboard" id="leaderboard">
+    <div class="l-rw regions container pr-leaderboard__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-leaderboard__leaderboard"><div id="block-dfp-ad-9e496c44-e570-4c77-b66f-aeb591674618" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-9e496c44-e570-4c77-b66f-aeb591674618">
+  <div class="block__inner">
+
+    <div class="block__content">
+  <div id="dfp_t1_ad" style="display:none">
+<div id="js-dfp-tag-trimed_web_dynamic_t1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_t1');
+        });
+    </script>
+</div>
+  </div>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="header" class="l-header l-row">
+  
+  <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-header__header-first">
+    <div class="header-first-wrapper"><div id="block-superfish-hi-main-menu" class="l-bl block block-config-provider--superfish block-plugin-id--superfish-hi-main-menu">
+  <div class="block__inner">
+
+    <div class="block__content">
+<ul id="superfish-hi-main-menu" class="menu sf-menu sf-hi-main-menu sf-horizontal sf-style-none">
+  
+<li id="hi-main-menu-menu-link-content8fe853d3-d69b-40b3-940c-6be76f4ba974" class="sf-depth-1 sf-no-children"><a href="/news" class="sf-depth-1">News</a></li><li id="hi-main-menu-menu-link-content663b1cb8-acce-438e-8b61-3ab8c47673db" class="sf-depth-1 menuparent"><a href="/topics" class="sf-depth-1 menuparent">Topics</a><ul><li id="hi-main-menu-menu-link-contentc065468f-3e36-4271-9b1f-61fb2f7f9e0c" class="sf-depth-2 sf-no-children"><a href="/topics/advanced-visualization" class="sf-depth-2">AI &amp; Emerging Technologies</a></li><li id="hi-main-menu-menu-link-contentf5313bd5-3120-40c7-9fab-d8bfe74093df" class="sf-depth-2 sf-no-children"><a href="/topics/cardiovascular" class="sf-depth-2">Cardiovascular</a></li><li id="hi-main-menu-menu-link-content5d63f092-adeb-4105-82a4-e2f1e1086431" class="sf-depth-2 sf-no-children"><a href="/topics/diagnostic-imaging" class="sf-depth-2">Diagnostic &amp; Screening</a></li><li id="hi-main-menu-menu-link-content9b214b44-7c3f-407b-8e46-69c5442c04a4" class="sf-depth-2 sf-no-children"><a href="/topics/healthcare-economics-policy" class="sf-depth-2">Economics &amp; Policy</a></li><li id="hi-main-menu-menu-link-content820d7f32-4b1f-4cd3-97c8-b2db7c1a9644" class="sf-depth-2 sf-no-children"><a href="/topics/enterprise-imaging" class="sf-depth-2">Enterprise Imaging</a></li><li id="hi-main-menu-menu-link-content550afedc-62e2-4305-a1df-929e6f83c2f0" class="sf-depth-2 sf-no-children"><a href="/topics/interventional" class="sf-depth-2">Interventional</a></li><li id="hi-main-menu-menu-link-contentbcd7463c-df5a-4b4c-9020-12ae1a31ed5c" class="sf-depth-2 sf-no-children"><a href="/topics/molecular-imaging" class="sf-depth-2">Molecular</a></li><li id="hi-main-menu-menu-link-content26d4ffa6-badc-46d2-a21e-244c730f8d83" class="sf-depth-2 sf-no-children"><a href="/topics/oncology-imaging" class="sf-depth-2">Oncology</a></li><li id="hi-main-menu-menu-link-content8f027466-5e54-4af1-923a-5c68ab6d38a4" class="sf-depth-2 sf-no-children"><a href="/topics/practice-management" class="sf-depth-2">Practice Management</a></li></ul></li><li id="hi-main-menu-menu-link-content2fb571d8-e871-4ae4-bc06-253b593c20c5" class="sf-depth-1 sf-no-children"><a href="/conferences" class="sf-depth-1">Conferences</a></li><li id="hi-main-menu-menu-link-content42bc2189-7356-48bc-a3b3-b4e378868a86" class="sf-depth-1 menuparent"><a href="/experience-stories" class="sf-depth-1 menuparent">Experience Stories</a><ul><li id="hi-main-menu-menu-link-content316e9092-3f3c-41fd-b53b-7417737e2c50" class="sf-depth-2 sf-no-children"><a href="/resources/case-studies" class="sf-depth-2">Case Studies</a></li><li id="hi-main-menu-menu-link-contentbd970040-4ff5-474e-a16e-59121d9c6b98" class="sf-depth-2 sf-no-children"><a href="/resources/videos-webinars" class="sf-depth-2">Webinars &amp; Videos</a></li></ul></li><li id="hi-main-menu-menu-link-content2e5e3b5e-a0b4-4c92-bc22-76363bb1068b" class="sf-depth-1 sf-no-children"><a href="/form/hi-subscription-form" class="sf-depth-1">Subscribe</a></li>
+</ul>
+</div></div>
+</div>
+</div>
+  </div><div  data-at-region="2" data-at-block-count="1" class="l-r region pr-header__header-second">
+    <div class="header-second-wrapper">
+      <div class="header-social-media-wrapper">
+        <div class="header-social-media">
+          <a target="_blank" href="http://tweet.healthimaging.com" target="_blank">
+            <img src="/themes/at_trimed/images/twitter-icon.png">
+          </a>
+
+          <a target="_blank" href="http://fb.healthimaging.com" target="_blank">
+            <img src="/themes/at_trimed/images/facebook-icon.png">
+          </a>
+
+          <a target="_blank" href="http://lnk.healthimaging.com" target="_blank">
+            <img src="/themes/at_trimed/images/linkedin-icon.png">
+          </a>
+
+          <a target="_blank" href="http://vimeo.healthimaging.com" target="_blank">
+            <img src="/themes/at_trimed/images/vimeo-icon.png">
+          </a>
+        </div>
+      </div><div class="search-block-form l-bl block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-search-form-block" role="search" aria-labelledby="block-search-form-block-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-search-form-block-menu"><span>Search form</span></h2>
+    <div class="block__content block-search__content"><form action="/search/articles" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." class="needsclick form-search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions element-container-wrapper js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+</div></div>
+</div>
+</div>
+  </div>
+    </div>
+  </header>
+  
+</div>
+<div data-at-row="features" class="l-features l-row">
+  
+  <div class="l-pr page__row pr-features regions-multiple" id="features">
+    <div class="l-rw regions container pr-features__rw arc--3 hr--1-2-3" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-features__features-first"><div id="block-dfp-ad-10287f2f-c85e-41c7-b6fe-4af6594a4868" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-10287f2f-c85e-41c7-b6fe-4af6594a4868">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_h1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_h1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div><div  data-at-region="2" data-at-block-count="1" class="l-r region pr-features__features-second"><div id="block-block-content-8c8efcdc-403c-473b-8764-2a701a709e84" class="l-bl block block-config-provider--block-content block-plugin-id--block-content-8c8efcdc-403c-473b-8764-2a701a709e84 block--type-custom-block block--view-mode-full">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><a href="/" class="site-logo" style="background:none"><img src="https://www.cardiovascularbusiness.com/sites/default/files/2021-01/IH%20Websites_HI_1.svg" style="width:100%; height:150px" /></a></div></div>
+</div>
+</div></div>
+</div>
+</div><div  data-at-region="3" data-at-block-count="1" class="l-r region pr-features__features-third"><div id="block-dfp-ad-33d232e6-693b-433c-a0d9-10021e05f4ea" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-33d232e6-693b-433c-a0d9-10021e05f4ea">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_h2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_h2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="content-prefix" class="l-content-prefix l-row">
+  
+  <div class="l-pr page__row pr-content-prefix" id="content-prefix">
+    <div class="l-rw regions container pr-content-prefix__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="2" class="l-r region pr-content-prefix__content-prefix"><div id="block-dfp-ad-b85162a5-f2a3-4438-96fb-9a5ac977d9a6" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-b85162a5-f2a3-4438-96fb-9a5ac977d9a6">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_mobile_l1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_mobile_l1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div id="block-dfp-ad-53a07828-272d-4426-a454-a5932b33126a" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-53a07828-272d-4426-a454-a5932b33126a">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_l1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_l1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="main" class="l-main l-row">
+  
+  <div class="l-pr page__row pr-main" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-main__content"><div class="page_variant page-variant--id-node-panels-variant-7 panels-page panels-page--node atl atl--threecol-4-4-4 l-arc--2 l-ac--1-2">
+      <div class="atl__lr">
+      <div class="atl__lc atl__top">
+        <div class="block-region-top"><div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-d5a54c75-09b5-4250-969a-ee2aa3d06400">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_desktop_dynamic_b1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_desktop_dynamic_b1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-5b867693-4ec3-4d30-a304-73c37096cd31">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_b1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_b1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div>
+      </div>
+    </div>
+  
+      <div class="atl__lr atl__cw">
+              <div class="atl__lc lc-1">
+          <div class="block-region-col-1"><div class="l-bl block block-config-provider--ctools-block block-plugin-id--entity-field-nodetitle">
+  <div class="block__inner">
+
+    <div class="block__content"><span class="field field-name-title field-formatter-string field-type-string field-label-above">New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy</span>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-9">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_9 js-view-dom-id-3a7b9eaa724ecbd07e9a43b0d43af96b02504c797227447c9f43f83046f82daf">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-6">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_6 js-view-dom-id-80f3fdabfcd7c06d39f48fec5d034895ee956eb5cb030e2a37b7cb98293ad82a">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_1 js-view-dom-id-21cd745b25df86abffe28f1b978ec0def756f4283b5acfe805679c6de8ad597b">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-created"><span class="field-content"><a href="/node/87457" hreflang="en">Matt O&#039;Connor</a> | August 11, 2020 | <a href="/topics/molecular" hreflang="en">Molecular</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-10">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_10 js-view-dom-id-26711a56f5aa12658ec283eed040ee787bd64defb2521679eb7d6f6a011e3dca">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-8">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_8 js-view-dom-id-2e9312c3ebc3ac045ff0312f36251cfabc0cca1e8904c3de83470f5f9ae5a021">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="l-bl block block-config-provider--shariff block-plugin-id--shariff-block">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="shariff_block_wrapper">
+<div class="shariff"   data-services="[&quot;twitter&quot;,&quot;facebook&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div><div class="print-logo">
+
+<a href="/node/175151/printable/print"><img src="/themes/at_trimed/images/print_icon.png" width="40px" height="30px"></a>
+</div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-5">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_5 js-view-dom-id-ee59ae2a66740aca699476842acb508a22a12c7636ff71c075a6472ab876a15e">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-teaser-media"><div class="field-content"><article>
+  
+      <div class="field field-media--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single"><figure class="field-type-image__figure image-count-1"><div class="field-type-image__item">
+        <a href="/media/21071"><img src="/sites/default/files/styles/media_image_mobile/public/assets/articles/prostate_cancer.jpg?itok=jXhIlnN_" width="560" height="315" loading="lazy" class="image-style-media-image-mobile" />
+
+</a></div>
+    </figure></div>
+
+  </article>
+</div></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-paragraphs-block-1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-paragraphs view-id-paragraphs view-display-id-block_1 js-view-dom-id-bbf613d927e0d10b475813a3a6865deb3500674fd3602f513c4c124bd231c5e3">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-paragraphs"><div class="field-content"><div class="paragraph paragraph--type-text paragraph--view-mode-default">
+  <div class="clearfix text-formatted field field-paragraph--field-text field-formatter-text-default field-name-field-text field-type-text-long field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><span><span><span><span>Australian researchers have developed a new approach that can customize cancer therapy based solely on one molecular imaging exam, according to a new study. </span></span></span></span></p>
+
+<p><span><span><span><span>The technique uses a single-photon emission computed tomography/CT scan performed after treatment to estimate how much radiation a patient’s tumor and at-risk organs will absorb. </span></span></span></span></p>
+
+<p><span><span><span><span>This dosimetry driven method is a marked improvement from current applications, which rely on multiple SPECT/CT scans and fixed amounts of a radionuclide. </span></span></span></span></p>
+
+<p><span><span><span><span>John Violet, PhD, a radiation oncologist at the Peter MacCallum Cancer Centre in Melbourne, Australia, said the tailored approach could vastly improve cancer therapy, sharing the development in<em> the Journal of Nuclear Medicine</em></span></span></span></span></p>
+
+<p><span><span><span><span>“The routine application of radiation dosimetry would be an important step in achieving the goal of ‘dosimetry-led’ treatment, providing significant improvements in both the safety and efficacy of treatment,” Violet added in a <a href="https://www.snmmi.org/NewsPublications/NewsDetail.aspx?ItemNumber=34319">statement</a>. “The adoption of routine dosimetry across molecular imaging and nuclear medicine in general would be a major advance in the field for both the clinical application of established therapies and the optimization of novel treatments.”</span></span></span></span></p></div></div>
+</div>
+
+</div>
+</div></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-4">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_4 js-view-dom-id-29d08e50edfbec068187893212e30d09cc85002fa7555bb2c95f73c8152eb97c">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-byline-block-3">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-byline view-id-byline view-display-id-block_3 js-view-dom-id-4c2a3c34c81cae9fb07fcb3a3e9b15de97ebd7e9d494591c78053e8f2647076b">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-badf2b3b-4106-4f02-b715-5a7559e945de">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_desktop_dynamic_b2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_desktop_dynamic_b2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-365e010b-67df-4707-9494-71c7796152e0">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_b2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_b2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl block block-config-provider--block-content block-plugin-id--block-content-14f8fe2f-4ef4-4388-8660-7fcc301b03dd block--type-custom-block block--view-mode-full">
+  <div class="block__inner">
+
+    <div class="block__content"></div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-35c85f4f-2402-4f1a-bc3a-46a6ff6098e0">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_r1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_r1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-paragraphs-block-1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-paragraphs view-id-paragraphs view-display-id-block_1 js-view-dom-id-931cdaf04d9d0e3849fbbdc648d0720766e764687bb17562bcd896496926a35c">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-paragraphs"><div class="field-content"><div class="paragraph paragraph--type-text paragraph--view-mode-default">
+  <div class="clearfix text-formatted field field-paragraph--field-text field-formatter-text-default field-name-field-text field-type-text-long field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><span><span><span><span>For their research, the authors administered 77Lu-PSMA-617 to 29 patients and performed SPECT/CT exams at four, 24, and 96 hours to characterize tracer pharmacokinetics in tumors and in normal tissues of interest. </span></span></span></span></p>
+
+<p><span><span><span><span>They were able to determine three-dimensional volumes of interest using first image volume and then developed a method to assess each subregion and gauge how contrast moved throughout these critical areas of the body.  </span></span></span></span></p>
+
+<p><span><span><span><span>Using this data to create a prostate-specific membrane antigen clearance model for tumor and healthy organs in prostate cancer patients, the team found it was indeed possible to estimate radiation absorbed dose from a single image. Such information was most accurate when exams were complete after 72 hours and within the first two days of treatment. </span></span></span></span></p>
+
+<p><span><span><span><span>“This work shows for the first time that following Lu-PSMA administration, it is possible to determine a good estimate of activity and absorbed dose with just a single measurement,” Violet said. “Simplification of dosimetry methods to make them a routine application would greatly assist in developing radiobiological models specific to Lu-PSMA, and other radionuclide therapies, allowing optimization of therapy for individual patients that are maximally effective and safe.”</span></span></span></span></p></div></div>
+</div>
+
+</div>
+</div></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-839e290e-baea-49bd-89d0-737b33f724a7">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_b3">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_b3');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-898ad525-1a95-453e-9050-136321cc98e7">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_b3">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_b3');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-e1be0e90-1adf-4fd0-9159-7ba0300ec51f">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_r2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_r2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-paragraphs-block-1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-paragraphs view-id-paragraphs view-display-id-block_1 js-view-dom-id-2fe89f86132a484a6769ed4ce8a7744e2601acf02e4183fd15b334eea34f1ca0">
+  
+    
+      
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-contact-the-author-block-1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="element-container-wrapper"><div class="view view-contact-the-author view-id-contact_the_author view-display-id-block_1 js-view-dom-id-35c6fe5ae065978e8c8dd9854006affcbbb9534a5f6c18b65c7edec721547d57">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-profile-email"><div class="field-content"><a href="mailto:moconnor@trimedmedia.com?subject=New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy&amp;body= https://www.healthimaging.com/topics/molecular-imaging/nuclear-medicine-radiation-dose-cancer-treatment">Email this author</a> | <a href="mailto: ?subject=New radiation-dose estimation process moves nuclear medicine closer to customized cancer therapy&amp;body= https://www.healthimaging.com/topics/molecular-imaging/nuclear-medicine-radiation-dose-cancer-treatment">Share by email</a>
+
+</div></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-e01d0aab-27ea-46d3-a242-d92f54f0f0f2">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_b4">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_b4');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-9cbd9a4e-ae99-4fb4-be33-e6c7835b23e7">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_b4">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_b4');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-5942b209-0996-427e-8f75-dcb45e0af1fb">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_mobile_dynamic_r3">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_mobile_dynamic_r3');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div>
+          
+           
+         
+        </div>
+      
+              <div class="atl__lc lc-2">
+          <div class="block-region-col-2"><div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-ece45419-0e13-4d64-b470-c00b41eef3c1">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_r1">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_r1');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-a03fc90f-88d2-41e3-ac60-7b11947e4063">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_r2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_r2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-dedbdcd4-80b3-407d-83e2-2f2c07fef43e">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_r3">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_r3');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-sidepanel-block-14 has-title" role="region" aria-labelledby="-title">
+  <div class="block__inner">
+
+    <h2  class="block__title" id="-title"><span>Around the web</span></h2><div class="block__content"><div class="element-container-wrapper"><div class="view view-sidepanel view-id-sidepanel view-display-id-block_14 js-view-dom-id-67e859f50e4743ffd2c33b131c0814de175a97b4663f1c9aceac52728ad641a5">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-view-grid vertical cols-1 clearfix">
+            <div class="views-col clearfix col-1" style="width: 100%;">
+                  <div class="views-row row-1">
+            <div class="views-field views-field-field-domain-source"><div class="field-content"><a href="https://www.radiologybusiness.com/topics/care-delivery/cardiac-mri-heart-tumors-cardiovascular-cmr?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">Radiology Business</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="https://www.radiologybusiness.com/topics/care-delivery/cardiac-mri-heart-tumors-cardiovascular-cmr?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">First-of-its-kind study proves cardiac MRI ‘powerful’ for assessing suspected heart tumors</a></span></div><div class="views-field views-field-field-teaser-text-new"><div class="field-content"><p>Scientists suspect these findings will help shape future guidelines, appropriateness documents and health policies on this topic. </p></div></div>
+          </div>
+                  <div class="views-row row-2">
+            <div class="views-field views-field-field-domain-source"><div class="field-content"><a href="https://aiin.healthcare/topics/emerging-technologies/physicians-behaviors-are-nearly-all-ai-needs-head-faulty-drug?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">AI in Healthcare</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="https://aiin.healthcare/topics/emerging-technologies/physicians-behaviors-are-nearly-all-ai-needs-head-faulty-drug?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">Physicians’ behaviors are nearly all AI needs to head off faulty drug prescriptions </a></span></div><div class="views-field views-field-field-teaser-text-new"><div class="field-content"><p><span><span><span>Contrary to intuitive expectations, many errors in drug ordering are caused or worsened by the intricacies of the EHR. </span></span></span></p></div></div>
+          </div>
+                  <div class="views-row row-3">
+            <div class="views-field views-field-field-domain-source"><div class="field-content"><a href="https://aiin.healthcare/topics/emerging-technologies/ai-helps-uncover-illustrate-inner-workings-cells?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">AI in Healthcare</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="https://aiin.healthcare/topics/emerging-technologies/ai-helps-uncover-illustrate-inner-workings-cells?utm_source=side_panel_home&amp;utm_medium=side_panel_health_imaging&amp;utm_campaign=side_panel_traffic" target="_blank">AI helps uncover, illustrate the inner workings of cells</a></span></div><div class="views-field views-field-field-teaser-text-new"><div class="field-content"><p><span><span><span><span><span><span>Researchers have used electron microscopes and machine learning to create detailed, high-resolution 3D images of subcellular structures called organelles. </span></span></span></span></span></span></p></div></div>
+          </div>
+              </div>
+      </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+</div>
+        </div>
+      
+          </div>
+  
+      <div class="atl__lr">
+      <div class="atl__lc atl__bottom">
+        <div class="block-region-bottom"><div class="views-element-container l-bl block-views-css-class-- block block-config-provider--views block-plugin-id--views-block-latest-articles-block-4 has-title" role="region" aria-labelledby="-title">
+  <div class="block__inner">
+
+    <h2  class="block__title" id="-title"><span>  Related Articles on Molecular</span></h2><div class="block__content"><div class="element-container-wrapper"><div class="view view-latest-articles view-id-latest_articles view-display-id-block_4 js-view-dom-id-dd1900f39e8e13d469861bcf9b28f839b7d84f9e70c4aa07e0d7f45217cef910">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/molecular/radiology-group-federal-ok-subsidize-medicare-costs-pet" hreflang="en">Unnamed radiology group gains federal OK to subsidize Medicare costs in upcoming PET study</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/ai-emerging-technologies/ai-petmri-dose-down-50-cancer-care" hreflang="en">AI drops tracer dose required for PET/MRI by 50%, a potential ‘major’ boost for cancer care</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/molecular/psma-pet-alters-care-50-metastatic-liver-cancer" hreflang="en">PSMA-PET alters care for nearly 50% of patients with metastatic liver cancer</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/molecular/fda-pet-solve-diagnostic-breast-cancer-dilemmas" hreflang="en">FDA-approved PET agent helps solve 87% of diagnostic breast cancer dilemmas</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/molecular/psma-pet-imaging-appropriate-use-snmmi" hreflang="en">Top medical groups release new appropriate use criteria for PSMA-PET imaging</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="https://www.healthimaging.com/topics/molecular/alzheimers-tipping-piont-amyloid-pet-scan" hreflang="en">Amyloid PET pinpoints ‘tipping point’ for developing Alzheimer’s dementia</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+</div></div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="content-suffix" class="l-content-suffix l-row">
+  
+  <div class="l-pr page__row pr-content-suffix" id="content-suffix">
+    <div class="l-rw regions container pr-content-suffix__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="2" class="l-r region pr-content-suffix__content-suffix"><div id="block-dfp-ad-52a34827-6113-42ef-8a59-a3f693790c75" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-52a34827-6113-42ef-8a59-a3f693790c75">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_dynamic_l2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_dynamic_l2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+<div id="block-dfp-ad-1708f385-9b53-4255-a6cb-4c3ef7ee15f2" class="l-bl dfp-advertise-block block block-config-provider--dfp block-plugin-id--dfp-ad-1708f385-9b53-4255-a6cb-4c3ef7ee15f2">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div id="js-dfp-tag-trimed_web_mobile_l2">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-trimed_web_mobile_l2');
+        });
+    </script>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+
+<div data-at-row="footer" class="l-footer l-row">
+  
+  <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="6" class="l-r region pr-footer__footer"><div class="block-socialmediaicons l-bl block block-config-provider--block-content block-plugin-id--block-content-9c6d1f7d-db9e-495f-a3d6-68a4e4a3f1b8 block--type-custom-block block--view-mode-full" id="block-block-content-9c6d1f7d-db9e-495f-a3d6-68a4e4a3f1b8">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><a href="http://tweet.radiologybusiness.com" target="_blank"><img height="24" src="/themes/at_trimed/images/twitter-icon.png" width="24" /></a> <a href="http://fb.radiologybusiness.com" target="_blank"> <img height="24" src="/themes/at_trimed/images/facebook-icon.png" width="24" /></a> <a href="http://lnk.radiologybusin ess.com" target="_blank"> <img height="24" src="/themes/at_trimed/images/linkedin-icon.png" width="24" /></a> <a href="http://vimeo.radiologybusiness.com" target="_blank"> <img height="24" src="/themes/at_trimed/images/vimeo-icon.png" width="24" /></a></p></div></div>
+</div>
+</div></div>
+</div>
+<div id="block-superfish-footer1" class="l-bl block block-config-provider--superfish block-plugin-id--superfish-footer1">
+  <div class="block__inner">
+
+    <div class="block__content">
+<ul id="superfish-footer1" class="menu sf-menu sf-footer1 sf-vertical sf-style-none">
+  
+<li id="footer1-menu-link-content12ae85b3-eb79-42ba-9176-4a7dcd548a4d" class="sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="footer1-menu-link-content82b1fb63-e40f-4e44-b2d7-e3a0e3e54b3f" class="sf-depth-1 sf-no-children"><a href="/news" class="sf-depth-1">News</a></li><li id="footer1-menu-link-contentf4b03417-75ab-422b-acb7-8865bc7fa75e" class="sf-depth-1 sf-no-children"><a href="/features" class="sf-depth-1">Features</a></li><li id="footer1-menu-link-contentf501cd0e-fe39-4008-ad2b-061775899925" class="sf-depth-1 sf-no-children"><a href="/topics" class="sf-depth-1">Topics</a></li>
+</ul>
+</div></div>
+</div>
+<div id="block-superfish-footer2" class="l-bl block block-config-provider--superfish block-plugin-id--superfish-footer2">
+  <div class="block__inner">
+
+    <div class="block__content">
+<ul id="superfish-footer2" class="menu sf-menu sf-footer2 sf-vertical sf-style-none">
+  
+<li id="footer2-menu-link-contentad1e1be2-11cd-4288-9595-acca29435fab" class="sf-depth-1 sf-no-children"><a href="/resources" class="sf-depth-1">Resources</a></li><li id="footer2-menu-link-content2d070b04-8625-4626-a9e3-c815da3942fc" class="sf-depth-1 sf-no-children"><a href="/resources" class="sf-depth-1">Custom Content</a></li><li id="footer2-menu-link-content037968f3-8c97-4aae-96a5-6e01726bdd40" class="sf-depth-1 sf-no-children"><a href="/resources/webinars" class="sf-depth-1">Webinars</a></li><li id="footer2-menu-link-content9390bf65-2f34-42df-b40b-6107003bafec" class="sf-depth-1 sf-no-children"><a href="/resources/press-releases" class="sf-depth-1">Press Releases</a></li>
+</ul>
+</div></div>
+</div>
+<div id="block-superfish-footer3" class="l-bl block block-config-provider--superfish block-plugin-id--superfish-footer3">
+  <div class="block__inner">
+
+    <div class="block__content">
+<ul id="superfish-footer3" class="menu sf-menu sf-footer3 sf-vertical sf-style-none">
+  
+<li id="footer3-menu-link-content534da102-a20f-4e94-ac70-21d367159746" class="sf-depth-1 sf-no-children"><a href="https://www.innovatehealthcare.com" class="sf-depth-1 sf-external">Content Studio</a></li><li id="footer3-menu-link-content8e6df31f-7111-4c9e-9d01-0f8ac24f88a3" class="sf-depth-1 sf-no-children"><a href="https://innovatehealthcare.com" class="sf-depth-1 sf-external">Advertising</a></li><li id="footer3-menu-link-content221e78e7-ce48-41dd-8841-aac525ecd879" class="sf-depth-1 sf-no-children"><a href="mailto:pr@trimedmedia.com" class="sf-depth-1 sf-external">Submit Press Release</a></li>
+</ul>
+</div></div>
+</div>
+<div id="block-superfish-footer4" class="l-bl block block-config-provider--superfish block-plugin-id--superfish-footer4">
+  <div class="block__inner">
+
+    <div class="block__content">
+<ul id="superfish-footer4" class="menu sf-menu sf-footer4 sf-vertical sf-style-none">
+  
+<li id="footer4-menu-link-contentf0d53d05-9f53-4413-b0f1-45d37578a22a" class="sf-depth-1 sf-no-children"><a href="https://innovatehealthcare.com/contact" class="sf-depth-1 sf-external">Contact Us</a></li><li id="footer4-menu-link-contenta24ecba2-90e8-4523-8f37-22bb3095145f" class="sf-depth-1 sf-no-children"><a href="https://innovatehealthcare.com/advertising/terms-conditions" class="sf-depth-1 sf-external">Terms of Use</a></li><li id="footer4-menu-link-content0f2a6f61-aa09-47c5-a8ac-1f34aadbcb5d" class="sf-depth-1 sf-no-children"><a href="https://innovatehealthcare.com/privacy" class="sf-depth-1 sf-external">Privacy Policy</a></li>
+</ul>
+</div></div>
+</div>
+<div class="block-footersitescopyrighttext l-bl block block-config-provider--block-content block-plugin-id--block-content-33899e75-4042-4702-a90a-d59b11b71990 block--type-custom-block block--view-mode-full" id="block-block-content-33899e75-4042-4702-a90a-d59b11b71990">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><div class="utility-menu trimed-group-nav-wrapper">
+<ul class="trimed-group-nav">
+	<li><a href="http://aiin.healthcare/" target="_blank">AI in Healthcare</a></li>
+	<li><a href="http://cardiovascularbusiness.com/" target="_blank">Cardiovascular Business</a></li>
+	<li><a href="http://healthexec.com/" target="_blank">HealthExec</a></li>
+	<li><a href="http://healthimaging.com/" target="_blank">Health Imaging</a></li>
+	<li><a href="http://radiologybusiness.com/" target="_blank">Radiology Business</a></li>
+</ul>
+
+<div class="disclaimer">&nbsp;</div>
+
+<div class="disclaimer">© 2021&nbsp;<a href="https://innovatehealthcare.com" target="_blank">Innovate Healthcare</a> | All Rights Reserved. | <a class="underline_link" href="https://innovatehealthcare.com/terms-of-use" target="_blank">Terms of Use</a> | <a class="underline_link" href="https://innovatehealthcare.com/privacy" target="_blank">Privacy Policy</a></div>
+
+<div class="disclaimer">&nbsp;</div>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </footer>
+  
+</div>
+
+  <div data-at-row="attribution" class="l-attribution l-row"><div class="l-pr attribution"><div class="l-rw"><a href="//adaptivethemes.com" class="attribution__link" target="_blank">Design by Adaptivethemes.com</a></div></div></div>
+</div>
+    <div style="display:block"><a href="/trimed-popup-content/16" class="use-ajax trimed-popup-cta-link" id="trimed-popup-16" data-id="16" data-dialog-type="modal" data-delay="0" data-cookie="60" data-visit-counts="1,10,20,30,40,50" data-transparency="0.4" data-exclude-params="&amp;utm_source=newsletter" data-screen-width="700" data-sw-operator="&gt;" data-dialog-options="{&quot;dialogClass&quot;:&quot;trimed-popup&quot;,&quot;width&quot;:&quot;700&quot;,&quot;height&quot;:&quot;375&quot;,&quot;position&quot;:{&quot;my&quot;:&quot;center&quot;},&quot;draggable&quot;:true,&quot;autoResize&quot;:false}">Trimed Popup</a> </div>
+    <div style="display:block"><a href="/trimed-popup-content/46" class="use-ajax trimed-popup-cta-link" id="trimed-popup-46" data-id="46" data-dialog-type="modal" data-delay="0" data-cookie="30" data-visit-counts="1,10,20,30,40,50" data-transparency="0.4" data-exclude-params="&amp;utm_source=newsletter" data-screen-width="700" data-sw-operator="&lt;=" data-dialog-options="{&quot;dialogClass&quot;:&quot;trimed-popup&quot;,&quot;width&quot;:&quot;300&quot;,&quot;height&quot;:&quot;275&quot;,&quot;position&quot;:{&quot;my&quot;:&quot;center&quot;},&quot;draggable&quot;:true,&quot;autoResize&quot;:false}">Trimed Popup</a> </div>
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/175151","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"at_core\/at.accordion,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.responsivemenus,at_core\/at.settings,at_core\/at.threecol-4-4-4,at_trimed\/at_trimed.layout.page,at_trimed\/base,at_trimed\/ckeditor,at_trimed\/color,at_trimed\/comment,at_trimed\/contact,at_trimed\/custom_css_file,at_trimed\/dfp_ads_control,at_trimed\/font_awesome,at_trimed\/fontfaceobserver,at_trimed\/jquery_ui,at_trimed\/language,at_trimed\/mobile_blocks,at_trimed\/responsive_menus,at_trimed\/responsive_menus_accordion,at_trimed\/responsive_menus_dropmenu,at_trimed\/responsive_menus_slidedown,at_trimed\/search,at_trimed\/superfish,at_trimed\/taxonomy,datalayer\/behaviors,datalayer\/helper,eu_cookie_compliance\/eu_cookie_compliance_default,extlink\/drupal.extlink,paragraphs\/drupal.paragraphs.unpublished,shariff\/shariff,shariff\/shariff-complete,simple_popup_blocks\/simple_popup_blocks,superfish\/superfish,superfish\/superfish_hoverintent,superfish\/superfish_smallscreen,superfish\/superfish_supersubs,superfish\/superfish_supposition,system\/base,thunder_media\/gallery,views\/views.module","theme":"at_trimed","theme_token":null},"ajaxTrustedUrl":{"\/search\/articles":true},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"simple_popup_blocks":{"settings":[]},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"at_trimed":{"at_responsivemenus":{"bp":"all and (min-width: 60.0625em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":true,"acd_default":true,"acd_responsive":false,"acd_both":false}},"at_breakpoints":{"at_core_simple_wide":{"breakpoint":"wide","mediaquery":"all and (min-width: 60.0625em)"},"at_core_simple_tablet-isolate":{"breakpoint":"tablet-isolate","mediaquery":"all and (min-width: 45.0625em) and (max-width: 60em)"},"at_core_simple_mobile":{"breakpoint":"mobile","mediaquery":"all and (max-width: 45em)"}}},"superfish":{"superfish-footer4":{"id":"superfish-footer4","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"supposition":true,"supersubs":true}},"superfish-footer3":{"id":"superfish-footer3","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"supposition":true,"supersubs":true}},"superfish-footer2":{"id":"superfish-footer2","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"supposition":true,"supersubs":true}},"superfish-footer1":{"id":"superfish-footer1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"supposition":true,"supersubs":true}},"superfish-hi-main-menu":{"id":"superfish-hi-main-menu","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","title":"HI Main Menu"},"supposition":true,"supersubs":true}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookie-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"dfp_ad":{"wait_time":"60"},"user":{"uid":0,"permissionsHash":"98891900d63336c9865f6e23b81b1f6831c04dc3a449a350344b194e87d4b804"}}</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="/sites/default/files/js/js_GjumXNMNQqIY7WUsjeTTSPR160v0heW8C-8SgFDTLQk.js"></script>
+<script src="/sites/default/files/js/js_VC6dBc38n39dAHJBOuzBbpj_ah6LdFEsfVgVMWB0_5E.js"></script>
+<script src="/sites/default/files/js/js_nOPGn5k9TJbc5pw7gQkhv-VGD6bHjaHkDNZUlaGXx4Q.js"></script>
+<script src="/sites/default/files/js/js_kPzgPOK4B7DxvLxrY4gDCd2uuX-CZF_ZJzydbUPQVTM.js"></script>
+
+
+    <div class='scrolltop'>
+      <div class='scroll icon'><i class="fa fa-4x fa-angle-up"></i></div>
+    </div>
+  </body>
+</html>

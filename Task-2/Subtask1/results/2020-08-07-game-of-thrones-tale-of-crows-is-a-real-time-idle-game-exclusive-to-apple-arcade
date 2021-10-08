@@ -1,0 +1,1743 @@
+<!DOCTYPE HTML>
+<html xml:lang="en" lang="en">
+	<head>
+	<!--
+	  ___                          _  _       _                      _
+	 / __| __ _  _ __   ___  _ _  | \| | ___ | |_ __ __ __ ___  _ _ | |__
+	| (_ |/ _` || '  \ / -_)| '_| | .` |/ -_)|  _|\ V  V // _ \| '_|| / /
+	 \___|\__,_||_|_|_|\___||_|   |_|\_|\___| \__| \_/\_/ \___/|_|  |_\_\
+
+	Copyright 2021. All rights reserved.
+	We're hiring! http://www.gamer-network.net/jobs
+	-->
+
+				<base href="https://www.eurogamer.net/" />
+				<title>Game of Thrones: Tale of Crows is a &quot;real-time idle&quot; game exclusive to Apple Arcade &bull; Eurogamer.net</title>
+
+					<link rel="canonical" href="https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" />
+		
+		
+		
+						<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+							<meta name="robots" content="max-image-preview:large" />
+							<meta name="twitter:card" content="summary_large_image" />
+							<meta name="twitter:site" content="@eurogamer" />
+							<meta name="twitter:creator" content="@wyp100" />
+							<meta name="twitter:title" content="Game of Thrones: Tale of Crows is a &quot;real-time idle&quot; game exclusive to Apple Arcade" />
+							<meta name="twitter:url" content="https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" />
+							<meta name="twitter:image:src" content="https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-08-07-17-00/-1596816021509.jpg/EG11/resize/1200x-1/-1596816021509.jpg" />
+							<meta property="og:site_name" content="Eurogamer.net" />
+							<meta property="fb:app_id" content="156247124404264" />
+							<meta property="fb:pages" content="42657691753" />
+							<meta property="og:title" content="Game of Thrones: Tale of Crows is a &quot;real-time idle&quot; game exclusive to Apple Arcade" />
+							<meta property="og:url" content="https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" />
+							<meta property="og:type" content="article" />
+							<meta property="article:published_time" content="2020-08-07T17:00:00+01:00" />
+							<meta property="article:modified_time" content="2020-08-07T17:00:54+01:00" />
+							<meta property="article:section" content="News" />
+							<meta property="og:image" content="https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-08-07-17-00/-1596816021509.jpg/EG11/resize/1200x-1/-1596816021509.jpg" />
+							<meta property="og:image:width" content="1200" />
+							<meta property="og:image:height" content="673" />
+			<link rel="stylesheet" type="text/css" href="css/pages/article.css?v20211007112726" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/devices/hd.css?v20211007112726" media="screen" />
+<link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/font-awesome.min.css?v20211007112726" media="screen" />
+			<link rel="apple-touch-icon" href="img/favicons/apple-touch-icon-152x152.png"/>
+					<link rel="shortcut icon" href="https://www.eurogamer.net/favicon.ico" />
+		
+					<link rel="feed" title="RSS" href="https://www.eurogamer.net/?format=rss"/>
+		
+		<link rel="amphtml" href="https://www.eurogamer.net/amp/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" />
+<link rel="preconnect" href="https://www.google-analytics.com" />
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script" />
+<meta property="article:tag" content="iPad" />
+<meta property="article:tag" content="iPhone" />
+<meta property="article:tag" content="News" />
+<meta property="article:tag" content="Story Driven" />
+
+				<script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+				function gaSetup() {
+					ga('require', 'displayfeatures');
+					ga('require', 'linkid', 'linkid.js');
+			
+					ga("set", "dimension1", "news");
+				
+					ga("set", "dimension3", "IPHONE,IPAD");
+				
+					ga("set", "dimension4", "Wesley Yin-Poole");
+				
+					ga("set", "dimension5", "0");
+				
+					ga("set", "dimension7", "hd");
+				}
+					function gaWrapper() {
+						if (window.gaDone) return;
+						ga('create', {"trackingId":"UA-12091157-1","cookieDomain":".eurogamer.net"});
+						gaSetup();
+						ga('send', 'pageview');
+						window.gaDone = true;
+					}
+			
+				function gaAnonWrapper() {
+					if (window.gaDone) return;
+					ga('create', {"trackingId":"UA-12091157-1","cookieDomain":".eurogamer.net","storage":"none"});
+					gaSetup();
+					ga('set', 'anonymizeIp', true);
+					ga('send', 'pageview');
+					window.gaDone = true;
+				}
+			</script>
+<script src='vendor/jquery/dist/jquery.min.js?v20211007112726'></script>
+<script src='vendor/jquery-jsonp/src/jquery.jsonp.js?v20211007112726'></script>
+<script src='scripts/jquery.viewport.js?v20211007112726'></script>
+<script src='scripts/videoPlayer.js?v20211007112726' defer='defer'></script>
+<script src='scripts/NewsletterSubscriber.js?v20211007112726' defer='defer'></script>
+<script src='scripts/FollowButtons.js?v20211007112726' defer='defer'></script>
+<script src='scripts/gn-ad-script.min.js?v20211007112726'></script>
+<script src='scripts/SidebarAds.js?v20211007112726' defer='defer'></script>
+<script src='vendor/js-cookie/src/js.cookie.js?v20211007112726' defer='defer'></script>
+<script src='scripts/LanguageBar.js?v20211007112726' defer='defer'></script>
+<script src='scripts/LazyCovers.js?v20211007112726' defer='defer'></script>
+<script src='scripts/FacebookLogin.js?v20211007112726' defer='defer'></script>
+<script src='scripts/CommentToolbar.js?v20211007112726' defer='defer'></script>
+<script src='scripts/Comments.js?v20211007112726' defer='defer'></script>
+<script src='https://cdn.gamer-network.net/2020/scripts/edmonds/1.3.3/edmonds.js?v20211007112726' defer='defer'></script>
+<script src='scripts/VideoFacade.js?v20211007112726' defer='defer'></script>
+<script src='scripts/SocialListener.js?v20211007112726' defer='defer'></script>
+<script src='scripts/LazyImages.js?v20211007112726' defer='defer'></script>
+	</head>
+		<body id="theTop">
+		
+							<div id="fb-root"></div>
+			<script>
+				// For login with Facebook functionality
+				function appendFacebookSDK() {
+					window.fbAsyncInit = function () {
+						FB.init({
+							appId: '156247124404264',
+							version: 'v2.7',
+							channelUrl: '/channel.html',
+							status: true,
+							cookie: true,
+							xfbml: true,
+							oauth: true
+						});
+					};
+
+					// Load the SDK Asynchronously
+					(function (d) {
+						var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+						if (d.getElementById(id)) {
+							return;
+						}
+						js = d.createElement('script');
+						js.id = id;
+						js.async = true;
+						js.onload = function () {
+							if (typeof runFacebookLogin == 'function') {
+								runFacebookLogin();
+							}
+							if (typeof runFacebookRegistrationLogin == 'function') {
+								runFacebookRegistrationLogin();
+							}
+						};
+
+												js.src = "//connect.facebook.net/en_GB/all.js";
+						ref.parentNode.insertBefore(js, ref);
+					}(document));
+				}
+			</script>
+		
+								<header class="desktop-header">
+				<div class="container-1260 with-inside-padding">
+					<a href="/">
+						<img src="https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x92/format/png/logo.png?v20211007112726" class="logo" alt="Eurogamer.net"/>
+					</a>
+								<div class="account signed-out">
+														<a href="/subscribe" class="button subscribe">
+						<i class="fa fa-heart"></i>
+						Support us					</a>
+									<button class="button" data-action="launch-sign-in-overlay">Sign in / Create an account</button>
+							</div>
+						</div>
+
+				<nav>
+					<div class="primary">
+						<div class="container-1260 with-inside-padding">
+															<a href="/pc" >PC</a>
+															<a href="/playstation" >PlayStation</a>
+															<a href="/xbox" >Xbox</a>
+															<a href="/nintendo" >Nintendo</a>
+															<a href="/digitalfoundry" >Digital Foundry</a>
+															<a href="/news" >News</a>
+															<a href="/reviews" >Reviews</a>
+															<a href="/videos" >Videos</a>
+															<a href="/features" >Features</a>
+															<a href="/guides" >Guides</a>
+																					<div class="search">
+					<form action="search.php" method="get">
+													<label for="header-search"><i class="fa fa-search" title="Search"></i></label>
+												<input
+							type="text"
+							name="q"
+							id="header-search"
+							placeholder="Search"
+						/>
+					</form>
+				</div>
+											</div>
+					</div>
+
+					<div class="secondary">
+						<div class="container-1260 with-inside-padding">
+															<span>Highlights</span>
+																	<a href="/deals">Deals</a>
+																	<a href="/release-dates">Release dates</a>
+																	<a href="https://store.reedpop.com/collections/eurogamer">Store</a>
+																	<a href="/supporters">Supporters only</a>
+															
+															<a href="https://www.eurogamer.net/articles/far-cry-6-male-female-dani-rojas-choice-differences-8034">Far Cry 6 male or female choice</a>
+															<a href="https://www.eurogamer.net/articles/warzone-ww2-bunkers-season-6-map-changes-8008">Warzone bunker locations</a>
+															<a href="https://www.eurogamer.net/articles/ps5-stock-where-to-buy-playstation-5">PS5 stock</a>
+													</div>
+					</div>
+				</nav>
+			</header>
+							
+		<div id="browserMaster" class="hd ">
+
+			<div id="page-wrapper">
+
+				
+																																					<div id="leaderboard" class="advert leaderboard">
+											<div class="collapsible advertContainer" data-dfp-id='EGNET_LB_1' data-dfp-sizes='728x90, 960x160, 960x250, 970x250, 1260x110, 1260x160, 1260x200, 1260x250' data-dfp-targeting='site=eurogamer.net,position=atf' id='div-ga-EGNET_LB_1' ></div>										</div>
+									
+									
+																	
+							
+				<main class="document-wrapper">
+
+					<div class="document">
+						<div class="main ">
+							
+			
+			<article class="article">
+
+				
+		    
+			<header class="article-header ">
+
+				
+				
+				
+				<h1 class="title">Game of Thrones: Tale of Crows is a &quot;real-time idle&quot; game exclusive to Apple&nbsp;Arcade	</h1>
+
+									<p class="strapline">
+												Watch&nbsp;out.					</p>
+				
+				<div class="metadata">
+					<div class="author-name">
+						
+						<span class="avatar" style="background-image:url(https://d2skuhm0vrry40.cloudfront.net/2018/eurogamer/illustrations/wesley-yin-poole.jpg/EG11/thumbnail/130x130/format/jpg/quality/50)"></span>
+
+												<strong class="feature-type">News</strong>
+
+																			by																							<a href="/authors/621">Wesley Yin-Poole</a>, Editor																		</div>
+
+											<div class="social">
+														<a href="//www.facebook.com/sharer.php?u=https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" data-type="facebook" class="button circle colour-facebook" rel="nofollow" title="Facebook"><i class="fa fa-facebook"></i></a>
+							<a href="//twitter.com/intent/tweet?text=Game+of+Thrones%3A+Tale+of+Crows+is+a+%26quot%3Breal-time+idle%26quot%3B+game+exclusive+to+Apple+Arcade+https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade" data-type="twitter" class="button circle colour-twitter" rel="nofollow" title="Twitter"><i class="fa fa-twitter"></i></a>
+							<a href="//www.reddit.com/submit?url=https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade&title=Game+of+Thrones%3A+Tale+of+Crows+is+a+%26quot%3Breal-time+idle%26quot%3B+game+exclusive+to+Apple+Arcade" data-type="reddit" class="button circle colour-reddit" rel="nofollow" title="Reddit"><i class="fa fa-reddit-alien"></i></a>
+						</div>
+					
+					<div class="date">
+													Updated on 							<span itemProp="dateModified" content="2020-08-07T17:00:54+01:00">7 August 2020</span>
+											</div>
+
+				</div>
+
+
+							</header>
+
+		
+				<div class="body">
+
+					
+					
+					
+					
+					
+					<section class=""><p>Game of Thrones: Tale of Crows is out now on Apple Arcade, Apple's &pound;4.99 a month subscription service.</p><p>It's described as a narrative-driven, "real-time idle" game, which is based on the HBO series and explores the 8000 year history of the Night's Watch (so, all the stuff before Jon Snow turned up). You guide the decisions of Lord Commanders through the seasons and mount expeditions beyond the Wall. As ravens travel to and from your expeditions in real time, their messages are delivered to you throughout your day. You respond with your command right away, or whenever you see fit.</p><p>Here's the official blurb:</p><p>"Players will etch their own tales into the annals of Lord Commanders and their sworn brothers over centuries as they shore up stocks, defences and recruits at Castle Black, and send ranging parties out to navigate the wild North, riding into the lands beyond the Wall unsure of what awaits them. </p><p>"But beware, for every expedition leaves a mark on its rangers, and it always follows them back to the Wall..."</p><p>And here's the trailer:</p>
+				<figure class="video"><div class="video-container">
+						<a href="https://www.youtube.com/watch?v=bnTrCVGM2_I" class="video-facade" data-youtube-id="bnTrCVGM2_I" data-playout-id="eurogamer_auto_" data-no-cookie-playout-id="eurogamer_nocookies" title="Watch on YouTube"></a>
+					</div>
+					<figcaption><div class="like-and-subscribe">
+						<a href="https://www.youtube.com/watch?v=bnTrCVGM2_I" class="button wide" target="_blank">Watch on YouTube</a>
+					</div></figcaption></figure><p>It's the work of That Silly Studio, which is behind 2017 clicker game Spaceplan, and is published by Devolver.</p></section>
+
+										
+			
+		
+				</div>
+
+										</article>
+
+			<div class="container-690">
+				
+									<p class="affiliate_disclaimer"><em>Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. <a href="/policies.php?view=how-we-work#advertisingpolicy">Read our policy</a>.</em></p>
+				
+									<p class="comment-cta">
+													<a href="/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade#comments" class="button">Jump to comments (20)</a>
+											</p>
+				
+				
+														<p class="section-title">About the author</p>
+				
+			<div class="author-bio">
+				
+				<img src="https://d2skuhm0vrry40.cloudfront.net/2018/eurogamer/illustrations/wesley-yin-poole.jpg/EG11/thumbnail/192x192/quality/50/format/jpg" width="192" height="192" alt="Wesley Yin-Poole" loading="lazy"/>
+
+				<div class="details">
+					<p class="name"><a href="/authors/621">Wesley Yin-Poole</a></p>
+					<p class="job-title">
+						Editor													&nbsp;|&nbsp;
+							<a href="https://www.twitter.com/wyp100" rel="nofollow" target="_blank"><i class="fa fa-twitter"></i> wyp100</a>
+											</p>
+
+					<p class="bio">Wesley is Eurogamer's editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.</p>
+
+									</div>
+			</div>
+
+							
+							</div>
+
+						<script>
+				$(document).ready(function() {
+
+					// Track outbound links
+					$(".article .body a").on("click", function(e) {
+						var href = e.target.href;
+						var hostname = window.location.hostname;
+						var outbound = !new RegExp(hostname).test(href);
+						var image = new RegExp(/[\/.](gif|jpg|jpeg|tiff|png)$/i).test(href);
+
+						if(href && outbound && !image && ga) {
+							ga('send', 'event', 'Outbound', 'Click', href);
+						}
+					});
+
+					
+					new LazyImages();
+
+											new SocialListener({
+							target: $(".social a")
+						});
+					
+					
+									});
+			</script>
+
+									</div>
+
+																					<div class="sidebar">
+									
+																	<div id="skyscraper" class="advert"><div class="collapsible advertContainer" data-dfp-id='EGNET_HP' data-dfp-sizes='300x250,160x600,300x600,300x1050' data-dfp-targeting='site=eurogamer.net,position=atf' id='div-ga-EGNET_HP' ></div></div>
+																						<div class="ads-rail upper"></div>
+													</div>
+																		</div>
+
+					
+			
+			<div class="below hd">
+
+				
+												<div class="homepage-billboard-container collapsible">
+													<div class="collapsible lazyload" data-dfp-id='EGNET_LB_2' data-dfp-sizes='728x90,970x250,1200x500' data-dfp-targeting='site=eurogamer.net,position=btf,lazyload=true,sticky=false,position=eurogamer.net-2' id='div-ga-EGNET_LB_2'  data-dfp-collapse="true" ></div>																	</div>
+							
+					
+							<p class="section-title">Related</p>
+			
+							<div class="stack">
+					<div class="grid">
+																				<div class="grid-4">
+								
+			
+			<div class="list-item large">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-10-07-scandinavian-adventure-roki-coming-to-playstation-and-xbox" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-10-07-16-28/-1633620532818.jpg/EG11/thumbnail/796x448/format/jpg/quality/75/cover.jpg" title="Scandinavian adventure Röki coming to PlayStation and Xbox"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-10-07-scandinavian-adventure-roki-coming-to-playstation-and-xbox">
+							Scandinavian adventure Röki coming to PlayStation and Xbox						</a>
+					</p>
+											<p class="subtitle">Röki and roll.</p>
+										<div class="metadata">
+													<a href="/articles/2021-10-07-scandinavian-adventure-roki-coming-to-playstation-and-xbox#comments" class="comment-count" >7</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-30-sherlock-holmes-chapter-one-shows-off-its-combat" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-29-20-19/sherlock-holmes-chapter-one-shows-off-its-combat-1632943180461.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Sherlock Holmes: Chapter One shows off its combat"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-30-sherlock-holmes-chapter-one-shows-off-its-combat">
+							Sherlock Holmes: Chapter One shows off its combat						</a>
+					</p>
+											<p class="subtitle">Ahead of November launch.</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-30-sherlock-holmes-chapter-one-shows-off-its-combat#comments" class="comment-count" >12</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-29-ready-at-dawns-oculus-exclusive-sci-fi-sequel-lone-echo-2-gets-new-october-release-date" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-29-16-35/-1632929720007.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Ready at Dawn's Oculus-exclusive sci-fi sequel Lone Echo 2 gets new October release date"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-29-ready-at-dawns-oculus-exclusive-sci-fi-sequel-lone-echo-2-gets-new-october-release-date">
+							Ready at Dawn's Oculus-exclusive sci-fi sequel Lone Echo 2 gets new October release date						</a>
+					</p>
+											<p class="subtitle">Playable on Oculus Rift and Quest.</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-29-ready-at-dawns-oculus-exclusive-sci-fi-sequel-lone-echo-2-gets-new-october-release-date#comments" class="comment-count" >5</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-29-netflix-acquires-oxenfree-developer-night-school-studio" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-29-00-34/-1632872068401.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Netflix acquires Oxenfree developer Night School Studio"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-29-netflix-acquires-oxenfree-developer-night-school-studio">
+							Netflix acquires Oxenfree developer Night School Studio						</a>
+					</p>
+											<p class="subtitle">Will &quot;keep making&quot; Oxenfree 2.</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-29-netflix-acquires-oxenfree-developer-night-school-studio#comments" class="comment-count" >20</a>
+										</div>
+				</div>
+			</div>
+									</div>
+																				<div class="grid-2">
+								
+			
+			<div class="list-item default">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-27-naughty-dog-offers-update-on-the-last-of-us-multiplayer-project" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-27-11-22/naughty-dog-offers-update-on-the-last-of-us-multiplayer-project-1632738131914.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Naughty Dog offers update on The Last of Us multiplayer project"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-27-naughty-dog-offers-update-on-the-last-of-us-multiplayer-project">
+							Naughty Dog offers update on The Last of Us multiplayer project						</a>
+					</p>
+											<p class="subtitle">&quot;In short, we're working on it.&quot;</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-27-naughty-dog-offers-update-on-the-last-of-us-multiplayer-project#comments" class="comment-count" >39</a>
+										</div>
+				</div>
+			</div>
+									</div>
+											</div>
+
+									</div>
+					
+			
+			
+					
+						<p class="section-title">You may also enjoy...</p>
+										<div class="stack small">
+					<div class="grid">
+																			<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-05-27-beyond-fmv-the-remarkable-story-of-erica" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-05-27-09-38/-1622104688052.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Beyond FMV: the remarkable story of Erica"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-05-27-beyond-fmv-the-remarkable-story-of-erica">
+							<span class="prefix">Feature | </span>Beyond FMV: the remarkable story of Erica						</a>
+					</p>
+											<p class="subtitle">&quot;We're just two nobodies who are probably going to get taken for a ride.&quot;</p>
+										<div class="metadata">
+													<a href="/articles/2021-05-27-beyond-fmv-the-remarkable-story-of-erica#comments" class="comment-count" >17</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-05-28-worlds-end-club-review-a-delightfully-nonsensical-trip-across-japan" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-05-27-17-18/worlds-end-club-review-a-delightfully-nonsensical-trip-across-japan-1622132291752.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="World's End Club review - a delightfully nonsensical trip across Japan"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-05-28-worlds-end-club-review-a-delightfully-nonsensical-trip-across-japan">
+							<span class="prefix">Recommended | </span>World's End Club review - a delightfully nonsensical trip across Japan						</a>
+					</p>
+											<p class="subtitle">Apocalypse wow.</p>
+										<div class="metadata">
+													<a href="/articles/2021-05-28-worlds-end-club-review-a-delightfully-nonsensical-trip-across-japan#comments" class="comment-count" >22</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-04-28-the-last-of-us-3-has-a-story-outline-neil-druckmann-hopes-will-one-day-see-the-light-of-day" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-04-28-14-21/the-last-of-us-3-has-a-story-outline-neil-druckmann-hopes-will-one-day-see-the-light-of-day-1619616095398.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="The Last of Us 3 has a story outline Neil Druckmann hopes will one day see the light of day"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-04-28-the-last-of-us-3-has-a-story-outline-neil-druckmann-hopes-will-one-day-see-the-light-of-day">
+							The Last of Us 3 has a story outline Neil Druckmann hopes will one day see the light of day						</a>
+					</p>
+											<p class="subtitle">&quot;We'll see.&quot;</p>
+										<div class="metadata">
+													<a href="/articles/2021-04-28-the-last-of-us-3-has-a-story-outline-neil-druckmann-hopes-will-one-day-see-the-light-of-day#comments" class="comment-count" >120</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-04-22-nier-replicant-ver-1-22474487139-review-a-better-version-of-the-weakest-game-in-the-series" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-04-22-11-43/-1619088202388.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="NieR Replicant ver. 1.22474487139...  review - a better version of the weakest game in the series"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-04-22-nier-replicant-ver-1-22474487139-review-a-better-version-of-the-weakest-game-in-the-series">
+							<span class="prefix">Review | </span>NieR Replicant ver. 1.22474487139...  review - a better version of the weakest game in the series						</a>
+					</p>
+											<p class="subtitle">I just Replican't.</p>
+										<div class="metadata">
+													<a href="/articles/2021-04-22-nier-replicant-ver-1-22474487139-review-a-better-version-of-the-weakest-game-in-the-series#comments" class="comment-count" >110</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-fifth">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2020-07-22-what-if-we-could-shuffle-plot-twists-each-time-we-played" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-07-22-11-51/-1595415093622.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="What if we could shuffle plot twists each time we played?"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2020-07-22-what-if-we-could-shuffle-plot-twists-each-time-we-played">
+							<span class="prefix">Feature | </span>What if we could shuffle plot twists each time we played?						</a>
+					</p>
+											<p class="subtitle">&quot;No, actually I'm not your father.&quot;</p>
+										<div class="metadata">
+													<a href="/articles/2020-07-22-what-if-we-could-shuffle-plot-twists-each-time-we-played#comments" class="comment-count" >92</a>
+										</div>
+				</div>
+			</div>
+									</div>
+											</div>
+
+									</div>
+
+								
+						<p class="section-title">Supporters only</p>
+										<div class="stack small">
+					<div class="grid">
+																			<div class="grid-quarter">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-10-05-off-topic-a-forgotten-painting-of-a-world-gone-wrong" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-10-04-11-58/-1633345136960.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Off Topic: A forgotten painting of a world gone wrong"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-10-05-off-topic-a-forgotten-painting-of-a-world-gone-wrong">
+							<span class="prefix subscriber">Premium only | </span>Off Topic: A forgotten painting of a world gone wrong						</a>
+					</p>
+											<p class="subtitle">Yeah, straight from the top of my dome.</p>
+										<div class="metadata">
+													<a href="/articles/2021-10-05-off-topic-a-forgotten-painting-of-a-world-gone-wrong#comments" class="comment-count" >16</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-quarter">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-28-the-eurogamer-podcast-returns-meet-the-uks-first-professional-gamer" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-28-11-01/-1632823295838.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="The Eurogamer Podcast returns! Meet the UK's first professional gamer"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-28-the-eurogamer-podcast-returns-meet-the-uks-first-professional-gamer">
+							<span class="prefix subscriber">Premium only | </span>The Eurogamer Podcast returns! Meet the UK's first professional gamer						</a>
+					</p>
+											<p class="subtitle">New host, new direction, exclusive early access for Premium supporters.</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-28-the-eurogamer-podcast-returns-meet-the-uks-first-professional-gamer#comments" class="comment-count" >7</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-quarter">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-28-letter-from-the-editor-whats-with-all-the-good-reviews" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-27-20-59/letter-from-the-editor-whats-with-all-the-good-reviews-1632772764561.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Letter from the Editor: What's with all the good reviews?"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-28-letter-from-the-editor-whats-with-all-the-good-reviews">
+							<span class="prefix subscriber">Supporters only | </span>Letter from the Editor: What's with all the good reviews?						</a>
+					</p>
+											<p class="subtitle">We're supposedly suffering a game drought, but we've never recommended so many games. What's going on?</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-28-letter-from-the-editor-whats-with-all-the-good-reviews#comments" class="comment-count" >29</a>
+										</div>
+				</div>
+			</div>
+									</div>
+													<div class="grid-quarter">
+								
+			
+			<div class="list-item ">
+								<div class="cover-wrapper">
+					<a href="/articles/2021-09-28-off-topic-a-brilliant-podcast-about-90s-pop" class="cover" data-cover="https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-27-11-02/-1632736951432.jpg/EG11/thumbnail/388x218/format/jpg/quality/75/cover.jpg" title="Off Topic: A brilliant podcast about 90s pop"></a>
+				</div>
+								<div class="details">
+					<p class="title">
+						<a href="/articles/2021-09-28-off-topic-a-brilliant-podcast-about-90s-pop">
+							<span class="prefix subscriber">Premium only | </span>Off Topic: A brilliant podcast about 90s pop						</a>
+					</p>
+											<p class="subtitle">Oli Welsh on 60 Songs That Explain the 90s.</p>
+										<div class="metadata">
+													<a href="/articles/2021-09-28-off-topic-a-brilliant-podcast-about-90s-pop#comments" class="comment-count" >2</a>
+										</div>
+				</div>
+			</div>
+									</div>
+											</div>
+
+									</div>
+
+										
+															<div id="comments" class="hd">
+							<p class="section-title">Comments (20)</p>
+										
+							<div class="alert">
+					<p>Comments for this article are now closed. Thanks for taking part!</p>
+				</div>
+
+					
+			<div class="threaded-comments hd">
+
+				<div class="filters">
+					<div class="button-group threshold">
+						<span>Hide low-scoring comments</span>
+						<button data-action="threshold" data-value="true" class="button outline on">Yes</button>
+						<button data-action="threshold" data-value="false" class="button outline">No</button>
+					</div>
+
+					<div class="button-group order">
+						<span>Order</span>
+						<button data-action="order" data-value="newest" class="button outline ">Newest</button>
+						<button data-action="order" data-value="oldest" class="button outline ">Oldest</button>
+						<button data-action="order" data-value="best" class="button outline on">Best</button>
+						<button data-action="order" data-value="worst" class="button outline ">Worst</button>
+					</div>
+
+					<div class="button-group threading">
+						<span>Threading</span>
+						<button data-action="expand" class="button outline">Expand all</button>
+						<button data-action="collapse" class="button outline">Collapse all</button>
+					</div>
+				</div>
+
+				<div class="comments-list"></div>
+			</div>
+
+						<script>
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade",
+					"type": "news",
+																"platforms": "IPHONE,IPAD",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2109573,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "Sorry, but an error occurred. Please try again.",
+							newAccountLinks: "Sorry, new accounts can't post links! Please remove the link and try posting again."
+						},
+						device: "hd",
+						orderBy: "best"
+					});
+				});
+			</script>
+								</div>
+
+													<div id="comments-rail" class="right-rail right-sidebar">
+								<div class="mpu collapsible" style="display:none;">
+									<p class="section-title">Advertisement</p>
+									<div class="lazyload" data-dfp-id="EGNET_Lazy_Load_HP_MPU" data-dfp-sizes="300x250" data-dfp-collapse="true" data-dfp-targeting="site=eurogamer.net,position=eurogamer.net-comments-1,lazyload=true,sticky=false" id="div-ga-ARTICLE_MPU_COMMENTS"></div>
+								</div>
+							</div>
+															
+															<div class="homepage-billboard-container collapsible">
+							<div class="collapsible advertContainer" data-dfp-id='EGNET_LEADERBOARD_LAST' data-dfp-sizes='728x90, 970x250' data-dfp-targeting='site=eurogamer.net' id='div-ga-EGNET_LEADERBOARD_LAST'  data-dfp-collapse="true" ></div>						</div>
+									
+																<div class="merch-component ">
+					<a href="https://store.reedpop.com/collections/eurogamer" rel="nofollow noopener" target="_blank"
+						class="link-overlay"></a>
+					<div class="details">
+						<img src="https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x30/format/png/logo.png?v20211007112726" alt="Eurogamer.net" width="184" height="30" loading="lazy"/>
+						<p class="title">Buy things with globes on them</p>
+						<p class="subtitle">And other lovely Eurogamer merch in our official store!</p>
+					</div>
+					<div class="asset">
+						<img src="/img/EurogamerPage/merch/eg-blue-shirt.png" alt="Eurogamer Merch" width="200" height="211" loading="lazy"/>
+					</div>
+					<a href="https://store.reedpop.com/collections/eurogamer" rel="nofollow noopener" target="_blank"
+						class="button  secondary">Explore our store</a>
+					<script>
+						document.currentScript.parentElement.querySelectorAll('a')
+							.forEach(a => a.addEventListener('click', e => {
+								ga('send', 'event', {
+									'eventCategory': 'Store Component',
+									'eventAction': 'Click',
+									'eventLabel': window.location.href
+								});
+							})
+						);
+					</script>
+				</div>
+												</div>
+		
+					<div class="end">
+						
+			
+				
+									<div class="newsletter-promo hd" id="newsletter-promo">
+						<div class="grid">
+							<div class="grid-6">
+								<p class="section-title">Subscribe to The Eurogamer.net Daily</p>
+								<p class="description">
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								</p>
+							</div>
+							<div class="grid-6">
+								<form>
+																		<input type="hidden" name="action" value="subscribe"/>
+									<input type="hidden" name="newsletter" value="net-daily"/>
+									<input type="email" name="email" value="" placeholder="Email address" required="required"/>
+									<button class="button">Subscribe</button>
+								</form>
+							</div>
+						</div>
+					</div>
+
+					<script>
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "Sorry, but an error occurred. Please try again."
+								}
+							});
+						});
+					</script>
+														</div>
+				</main>
+			</div>
+		</div>
+
+		
+			<footer class="footer hd">
+				<div class="container-1260 with-inside-padding">
+					<div class="about">
+						<a href="/"><img src="https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-LogoReversed-net.png/EG11/resize/-1x36/format/png/logo.png?v20211007112726" alt="Eurogamer.net" loading="lazy"/></a>
+
+						<p>Bad puns and video games since 1999.</p>
+						<p>This site &copy; 2021 Gamer Network Limited, a ReedPop company. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.</p>
+
+						<div class="switcher">
+							<form method="post" action="/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade">
+																<label class="section-title">Site version</label>
+								<div class="button-group">
+									<button type="submit" name="version" value="mobile" class="button outline ">Mobile</button>
+									<button type="submit" name="version" value="portable" class="button outline ">Portable</button>
+									<button type="submit" name="version" value="hd" class="button outline on">Desktop</button>
+								</div>
+							</form>
+						</div>
+					</div>
+
+					<nav>
+						<div class="explore">
+							<p class="section-title">Explore</p>
+							<ul>
+																	<li>
+										<a href="/pc">PC</a>
+									</li>
+																	<li>
+										<a href="/playstation">PlayStation</a>
+									</li>
+																	<li>
+										<a href="/xbox">Xbox</a>
+									</li>
+																	<li>
+										<a href="/nintendo">Nintendo</a>
+									</li>
+																	<li>
+										<a href="/digitalfoundry">Digital Foundry</a>
+									</li>
+																	<li>
+										<a href="/news">News</a>
+									</li>
+																	<li>
+										<a href="/reviews">Reviews</a>
+									</li>
+																	<li>
+										<a href="/videos">Videos</a>
+									</li>
+																	<li>
+										<a href="/features">Features</a>
+									</li>
+																	<li>
+										<a href="/guides">Guides</a>
+									</li>
+																<li><a href="/authors">Authors</a></li>
+								<li><a href="/games?letter=a">GameDB</a></li>
+							</ul>
+						</div>
+
+						<div class="helpful-links">
+							<p class="section-title">Helpful links</p>
+							<ul>
+																	<li><a href="articles/the-eurogamer-staff" rel="nofollow">Staff</a></li>
+								
+								<li><a href="contact" rel="nofollow">Contact us</a></li>
+								<li><a href="https://www.gamer-network.net" target="_blank" rel="noopener">Corporate site</a>
+
+											<li><a href="policies">Policy centre</a></li>
+		
+																	<li><a href="//www.twitter.com/eurogamer" rel="nofollow noopener" target="_blank">Twitter</a></li>
+								
+																	<li><a href="https://www.facebook.com/Eurogamer" rel="nofollow noopener" target="_blank">Facebook</a></li>
+								
+								<li><a href="/rss" rel="nofollow">RSS</a></li>
+
+								<li><button class="optanon-show-settings">Cookie Settings</button></li>
+
+								<li><a href="https://privacy.reedexpo.com/en-gb.html" target="_blank" rel="nofollow noopener">Privacy Policy</a></li>
+								<li><a href="https://privacy.reedexpo.com/en-gb/cookie-policy.html" target="_blank" rel="nofollow noopener">Cookie Policy</a></li>
+
+																	<li><a href="https://privacy.reedexpo.com/en-us/ccpa.html" target="_blank" rel="nofollow noopener">California Privacy Notice</a></li>
+															</ul>
+						</div>
+
+						<div class="network">
+							<p class="section-title">Across Europe</p>
+							<ul>
+								<li><a href="https://www.eurogamer.cz" target="_blank" rel="noopener">Eurogamer.cz</a></li>
+								<li><a href="https://www.eurogamer.de" target="_blank" rel="noopener">Eurogamer.de</a></li>
+								<li><a href="https://www.eurogamer.es" target="_blank" rel="noopener">Eurogamer.es</a></li>
+								<li><a href="https://www.eurogamer.it" target="_blank" rel="noopener">Eurogamer.it</a></li>
+								<li><a href="https://www.eurogamer.net" target="_blank" rel="noopener">Eurogamer.net</a></li>
+								<li><a href="https://www.eurogamer.nl" target="_blank" rel="noopener">Eurogamer.nl</a></li>
+								<li><a href="https://www.eurogamer.pl" target="_blank" rel="noopener">Eurogamer.pl</a></li>
+								<li><a href="https://www.eurogamer.pt" target="_blank" rel="noopener">Eurogamer.pt</a></li>
+							</ul>
+						</div>
+
+						<div class="network">
+							<p class="section-title">ReedPop</p>
+							<ul>
+								<li><a href="https://www.cosplaycentral.com" target="_blank" rel="noopener">Cosplay Central</a></li>
+								<li><a href="https://www.dicebreaker.com" target="_blank" rel="noopener">Dicebreaker</a></li>
+								<li><a href="https://www.egx.net" target="_blank" rel="noopener">EGX</a></li>
+								<li><a href="https://www.gamesindustry.biz" target="_blank" rel="noopener">GamesIndustry.biz</a></li>
+								<li><a href="https://www.jelly.deals" target="_blank" rel="noopener">Jelly Deals</a></li>
+								<li><a href="https://www.metabomb.net" target="_blank" rel="noopener">Metabomb</a></li>
+								<li><a href="https://www.nintendolife.com" target="_blank" rel="noopener">Nintendo Life</a></li>
+								<li><a href="https://www.purexbox.com" target="_blank" rel="noopener">Pure Xbox</a></li>
+								<li><a href="https://www.pushsquare.com" target="_blank" rel="noopener">Push Square</a></li>
+								<li><a href="https://www.rockpapershotgun.com" target="_blank" rel="noopener">Rock, Paper, Shotgun</a></li>
+								<li><a href="https://www.thehaul.com" target="_blank" rel="noopener">The Haul</a></li>
+								<li><a href="https://www.usgamer.net" target="_blank" rel="noopener">USgamer</a></li>
+								<li><a href="https://www.vg247.com" target="_blank" rel="noopener">VG247</a></li>
+								<li><a href="https://www.videogameschronicle.com" target="_blank" rel="noopener">VGC</a></li>
+							</ul>
+						</div>
+					</nav>
+
+				</div>
+
+				
+			</footer>
+
+			
+		
+			
+									<script>
+					$(document).ready( function () {
+						new LanguageBar({
+							site: 1,
+							sites: {
+																	1: {
+										www: "https://www.eurogamer.net/",
+										exists: "Do you know about Eurogamer.net?",
+										cta: "Click here to visit Eurogamer.net!"
+									},
+																	2: {
+										www: "https://www.eurogamer.de/",
+										exists: "Kennst du Eurogamer.de?",
+										cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+									},
+																	4: {
+										www: "https://www.eurogamer.es/",
+										exists: "&iquest;Conoces Eurogamer.es?",
+										cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+									},
+																	5: {
+										www: "https://www.eurogamer.it/",
+										exists: "Sapevi di Eurogamer.it?",
+										cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+									},
+																	10: {
+										www: "https://www.eurogamer.cz/",
+										exists: "V&iacute;te o Eurogamer.cz?",
+										cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+									},
+																	13: {
+										www: "https://www.eurogamer.pl/",
+										exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+										cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+									},
+																	7: {
+										www: "https://www.eurogamer.nl/",
+										exists: "Had je al gehoord van Eurogamer.nl?",
+										cta: "Klik hier om Eurogamer.nl te bezoeken!"
+									},
+																15: {
+									www: "http://www.usgamer.net",
+									exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+									cta: "Click here to visit!"
+								}
+							}
+						})
+					});
+				</script>
+												<div class="sign-in-overlay">
+
+					<div class="sign-in-container">
+
+						<div class="sign-in-content">
+							<div>
+								<p class="section-title">Sign in</p>
+
+								<form method="post" class="form">
+									<input type="hidden" name="useraction" value="login"/>
+
+									<label>Username</label>
+									<input id="login-username" name="username" autocomplete="username"/>
+
+									<label>Password</label>
+									<input type="password" name="password" autocomplete="current-password"/>
+
+									<button class="button wide">Sign in</button>
+								</form>
+
+												<div id="facebook-login-wrapper" style="display: none;">
+					<hr/>
+					<p class="section-title">Connect with Facebook</p>
+					<div id="fb-login-via-overlay"></div>
+				</div>
+				<script>
+					function runFacebookLogin() {
+						$("#facebook-login-wrapper").show();
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Signing in...",
+								error: "Sorry, but an error occurred. Please try again."
+							}
+						});
+					}
+				</script>
+			
+								<hr/>
+
+								<p class="section-title">New in town?</p>
+								<a href="register" class="button outline wide" rel="nofollow">Create an account</a>
+
+								<hr/>
+
+								<a href="login" rel="nofollow">Forgotten your details?</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<script>
+					$(document).ready( function() {
+						$("[data-action=launch-sign-in-overlay]").on("click", function(e) {
+							$(".sign-in-overlay").addClass("open");
+						});
+
+						$(".sign-in-overlay").on("click", function(e) {
+							if($(e.target).hasClass("sign-in-container")) {
+								$(".sign-in-overlay").removeClass("open");
+							}
+						});
+					});
+				</script>
+									<script>
+					window.PARSELY = window.PARSELY || {
+						autotrack: false,
+						onReady: function() {
+							PARSELY.updateDefaults({
+								data: {
+									user: 'unregistered',
+																	}
+							});
+							PARSELY.beacon.trackPageView();
+						}
+					};
+
+					function appendParsely() {
+						(function(d) {
+							var b = d.body;
+							var e = d.createElement('script');
+							e.id = 'parsely-cfg';
+							e.src = '//cdn.parsely.com/keys/eurogamer.net/p.js';
+							b.appendChild(e);
+						})(document);
+					}
+				</script>
+			
+		
+			<script type='text/javascript'>
+			function do_the_ads(custom_variables) {
+
+				jQuery(document).ready(function() {
+
+					function getAudienceProjectTargetingData() {
+						"use strict";
+
+						var CACHE_KEY = "apr_tdc";
+						try {
+							var json = window.localStorage.getItem(CACHE_KEY);
+							if (json) {
+								var cache = JSON.parse(json);
+								if (cache.exp > Date.now()) {
+									return cache.d;
+								}
+								else {
+									window.localStorage.removeItem(CACHE_KEY);
+								}
+							}
+						}
+						catch (err) {
+							window.localStorage.removeItem(CACHE_KEY);
+						}
+						return {};
+					};
+
+					function setAPTargeting() {
+						var setTargeting = function () {
+							var targetingData = getAudienceProjectTargetingData();
+							for (var key in targetingData) {
+								if (targetingData.hasOwnProperty(key)) {
+									window.googletag.pubads().setTargeting(key, targetingData[key]);
+								}
+							}
+						};
+
+						window.googletag = window.googletag || {};
+						window.googletag.cmd = window.googletag.cmd || [];
+						if (window.googletag.cmd.unshift) {
+							window.googletag.cmd.unshift(setTargeting);
+						}
+						else {
+							window.googletag.cmd.push(setTargeting);
+						}
+
+						window.googletag.cmd.push(function() {
+							if (window.googletag.pubads().getTargeting('carbon_segment').length === 0) {
+								var carbon = JSON.parse(window.localStorage.getItem('ccRealtimeData'));
+								window.googletag.pubads().setTargeting('carbon_segment', carbon ? carbon.audiences.map(function (i) { return i.id; }) : []);
+							}
+						});
+					};
+
+					if(jQuery('#content header').length) {
+						jQuery('#skyscraper').css({'margin-top' : jQuery('#content header').height() + 'px'});
+					}
+
+											if(jQuery('#prod-buy').length > 0) {
+							jQuery('#sidebar .games').after('<li id=\"sidebar_amazon\"></li>');
+							jQuery('#sidebar_amazon').append(jQuery('#prod-buy'));
+							jQuery('#prod-buy').show();
+						}
+					
+					custom_variables['source'] = "article";
+					custom_variables['version'] = "hd";
+					custom_variables['release'] = "eg12";
+					custom_variables['logged_in'] = "false";
+
+											custom_variables['tags'] = ["news","iphone","ipad"];
+					
+					
+					
+					
+											var ads_space = 450;
+					
+					if(Cookies.get('sp')) {
+						custom_variables['sp_message'] = Cookies.get('sp');
+					}
+
+					setAPTargeting();
+
+					try {
+						const adConfig = {
+							custom_variables: custom_variables,
+														runUAM: true,
+							runPrebid: true,
+							prebidLib: 'scripts/prebid5.6.0.js',
+							prebidConfig: {hd:{EGNET_LB_1:{code:"/43340684/EGNET_LB_1",mediaTypes:{banner:{sizes:[[728,90],[970,250]]}},pubstack:{adUnitName:"EGNET_LB_1",adUnitPath:"/43340684/EGNET_LB_1"},bids:[{bidder:"districtm",params:{placementId:"19143633"}},{bidder:"districtmDMX",params:{dmxid:19143633,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771882",sizes:[2,57]}},{bidder:"sovrn",params:{tagid:"308151"}},{bidder:"sovrn",params:{tagid:"722310"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_970x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932834"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168279",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"544548",size:[970,250]}},{bidder:"ix",params:{siteId:"544548",size:[728,90]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a9699f00175750d02821d0371ed01cb"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"526364472"}},{bidder:"sharethrough",params:{pkey:"nPb54QCkAWyY9U9BX64csr3p"}}]},EGNET_HP:{code:"/43340684/EGNET_HP",mediaTypes:{banner:{sizes:[[300,250],[300,600]]}},pubstack:{adUnitName:"EGNET_HP",adUnitPath:"/43340684/EGNET_HP"},bids:[{bidder:"districtm",params:{placementId:"19143634"}},{bidder:"districtmDMX",params:{dmxid:19143634,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771884",sizes:[10,15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"sovrn",params:{tagid:"727523"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_sidebar_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932806"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168282",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545792",size:[300,250]}},{bidder:"ix",params:{siteId:"545792",size:[300,600]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96900601757509a2be1d03a2210340"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"364068531"}},{bidder:"sharethrough",params:{pkey:"zgYJ94JniiT2urVFS4ZW8A1d"}}]},EGNET_LB_2:{code:"/43340684/EGNET_LB_2",mediaTypes:{banner:{sizes:[[728,90],[970,250]]}},pubstack:{adUnitName:"EGNET_LB_2",adUnitPath:"/43340684/EGNET_LB_2"},bids:[{bidder:"districtm",params:{placementId:"19143635"}},{bidder:"districtmDMX",params:{dmxid:19143635,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771882",sizes:[2,57]}},{bidder:"sovrn",params:{tagid:"308151"}},{bidder:"sovrn",params:{tagid:"722310"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_970x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932834"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168284",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545796",size:[970,250]}},{bidder:"ix",params:{siteId:"545796",size:[728,90]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d03fd55033a"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"137907487"}},{bidder:"sharethrough",params:{pkey:"LhZ8rfH2gZrCcQRk1ca1owps"}}]},EGNET_LEADERBOARD_LAST:{code:"/43340684/EGNET_LEADERBOARD_LAST",mediaTypes:{banner:{sizes:[[728,90],[970,250]]}},pubstack:{adUnitName:"EGNET_LEADERBOARD_LAST",adUnitPath:"/43340684/EGNET_LEADERBOARD_LAST"},bids:[{bidder:"districtm",params:{placementId:"19143635"}},{bidder:"districtmDMX",params:{dmxid:19143635,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771882",sizes:[2,57]}},{bidder:"sovrn",params:{tagid:"308151"}},{bidder:"sovrn",params:{tagid:"722310"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_970x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932834"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168283",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545796",size:[970,250]}},{bidder:"ix",params:{siteId:"545796",size:[728,90]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d03d2260339"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"713783925"}},{bidder:"sharethrough",params:{pkey:"LhZ8rfH2gZrCcQRk1ca1owps"}}]},EGNET_Lazy_Load_HP_MPU:{code:"/43340684/EGNET_Lazy_Load_HP_MPU",mediaTypes:{banner:{sizes:[[300,250],[300,600]]}},pubstack:{adUnitName:"EGNET_Lazy_Load_HP_MPU",adUnitPath:"/43340684/EGNET_Lazy_Load_HP_MPU"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771884",sizes:[10,15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"sovrn",params:{tagid:"727523"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_sidebar_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"3036935"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168288",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545794",size:[300,250]}},{bidder:"ix",params:{siteId:"545794",size:[300,600]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a9699f00175750d02821d046cfa01cd"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"359674724"}},{bidder:"sharethrough",params:{pkey:"zgYJ94JniiT2urVFS4ZW8A1d"}}]},EGNET_MPU_1:{code:"/43340684/EGNET_MPU_1",mediaTypes:{banner:{sizes:[[300,250]]}},pubstack:{adUnitName:"EGNET_MPU_1",adUnitPath:"/43340684/EGNET_MPU_1"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771886",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168286",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545793",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a9699f00175750d02821d04263701cc"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"366716681"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]}},tablet:{EGNET_TAB_TOP:{code:"/43340684/EGNET_TAB_TOP",mediaTypes:{banner:{sizes:[[728,90]]}},pubstack:{adUnitName:"EGNET_TAB_TOP",adUnitPath:"/43340684/EGNET_TAB_TOP"},bids:[{bidder:"districtm",params:{placementId:"19143633"}},{bidder:"districtmDMX",params:{dmxid:19143633,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771882",sizes:[2]}},{bidder:"sovrn",params:{tagid:"308151"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168279",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"544548",size:[728,90]}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}}]},EGNET_TAB_LL:{code:"/43340684/EGNET_TAB_LL",mediaTypes:{banner:{sizes:[[728,90]]}},pubstack:{adUnitName:"EGNET_TAB_LL",adUnitPath:"/43340684/EGNET_TAB_LL"},bids:[{bidder:"districtm",params:{placementId:"19143635"}},{bidder:"districtmDMX",params:{dmxid:19143635,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771884",sizes:[2]}},{bidder:"sovrn",params:{tagid:"308151"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168284",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545796",size:[728,90]}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}}]},EGNET_MPU_MOB:{code:"/43340684/EGNET_MPU_MOB",mediaTypes:{banner:{sizes:[[300,250],[320,400]]}},pubstack:{adUnitName:"EGNET_MPU_MOB",adUnitPath:"/43340684/EGNET_MPU_MOB"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168291",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d04c2e3033c"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"334842374"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]},EGNET_Lazy_Load_HP_MPU:{code:"/43340684/EGNET_Lazy_Load_HP_MPU",mediaTypes:{banner:{sizes:[[300,250]]}},pubstack:{adUnitName:"EGNET_Lazy_Load_HP_MPU",adUnitPath:"/43340684/EGNET_Lazy_Load_HP_MPU"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336494",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168288",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d049c8f033b"}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"866268511"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]}},mobile:{EGNET_MPU_MOB:{code:"/43340684/EGNET_MPU_MOB",mediaTypes:{banner:{sizes:[[300,250],[320,400]]}},pubstack:{adUnitName:"EGNET_MPU_MOB",adUnitPath:"/43340684/EGNET_MPU_MOB"},bids:[{bidder:"districtm",params:{placementId:"19143641"}},{bidder:"districtmDMX",params:{dmxid:19143641,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336496",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168291",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d04c2e3033c"}},{bidder:"teads",params:{pageId:121094,placementId:131369}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"334842374"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]},EGNET_Lazy_Load_HP_MPU:{code:"/43340684/EGNET_Lazy_Load_HP_MPU",mediaTypes:{banner:{sizes:[[300,250]]}},pubstack:{adUnitName:"EGNET_Lazy_Load_HP_MPU",adUnitPath:"/43340684/EGNET_Lazy_Load_HP_MPU"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336496",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168288",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96945901757509a7551d049c8f033b"}},{bidder:"teads",params:{pageId:121094,placementId:131369}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"866268511"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]},EGNET_STICKY_LB:{code:"/43340684/EGNET_STICKY_LB",mediaTypes:{banner:{sizes:[[320,50]]}},pubstack:{adUnitName:"EGNET_STICKY_LB",adUnitPath:"/43340684/EGNET_STICKY_LB"},bids:[{bidder:"districtm",params:{placementId:"19143637"}},{bidder:"districtmDMX",params:{dmxid:19143637,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336496",zoneId:"1771890",sizes:[43]}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932832"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541208109",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545798",size:[320,50]}},{bidder:"teads",params:{pageId:121094,placementId:137158}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"131851077"}},{bidder:"sharethrough",params:{pkey:"BboWPeW9y5MKfNPm6tXHSszR"}}]},EGNET_MPU_LAST:{code:"/43340684/EGNET_MPU_LAST",mediaTypes:{banner:{sizes:[[300,250]]}},pubstack:{adUnitName:"EGNET_MPU_LAST",adUnitPath:"/43340684/EGNET_MPU_LAST"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336496",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168295",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96900601757509a2be1d04e9ce0341"}},{bidder:"teads",params:{pageId:121094,placementId:131369}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"149888219"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]},EGNET_MPU_FEED:{code:"/43340684/EGNET_MPU_FEED",mediaTypes:{banner:{sizes:[[300,250]]}},pubstack:{adUnitName:"EGNET_MPU_FEED",adUnitPath:"/43340684/EGNET_MPU_FEED"},bids:[{bidder:"districtm",params:{placementId:"19143636"}},{bidder:"districtmDMX",params:{dmxid:19143636,memberid:101983}},{bidder:"rubicon",params:{accountId:"16622",siteId:"336496",zoneId:"1771888",sizes:[15]}},{bidder:"sovrn",params:{tagid:"308150"}},{bidder:"triplelift",params:{inventoryCode:"eurogamer_300x250_desktop_prebid"}},{bidder:"pubmatic",params:{publisherId:"159481",adSlot:"2932804"}},{bidder:"conversant",params:{site_id:"109747",secure:1}},{bidder:"openx",params:{unit:"541168297",delDomain:"gamer-d.openx.net"}},{bidder:"ix",params:{siteId:"545797",size:[300,250]}},{bidder:"onemobile",params:{dcn:"8a9699f00175750d02821d0139d401c9",pos:"8a96900601757509a2be1d052ce60342"}},{bidder:"teads",params:{pageId:121094,placementId:131369}},{bidder:"brightcom",params:{publisherId:"20088"}},{bidder:"medianet",params:{cid:"8CUSVGW2K",crid:"377686684"}},{bidder:"sharethrough",params:{pkey:"8kkttz5JJ6j31R7DLorqfht1"}}]}}},
+														lazyload_spacer: ads_space,
+							device: custom_variables['version'],
+														insertInto : '',
+							showNonPersonalisedAds: false,
+							firstMobileAd: 'EGNET_MPU_MOB',
+							dynamicAd: 'EGNET_Lazy_Load_HP_MPU',
+							inreadVideoAd: '',
+
+							adRenderedCallback: function(slotName, event) {
+								if (event.isEmpty) {
+									const ad = document.getElementById(slotName);
+									if (ad.dataset.dfpCollapse == 'true') {
+										if(ad.parentNode.classList.contains('collapsible')) {
+											ad.parentNode.style.display = 'none';
+										}
+										if(ad.parentNode.parentNode.classList.contains('collapsible')) {
+											ad.parentNode.parentNode.style.display = 'none';
+										}
+									}
+								}
+
+								if(slotName.includes('STICKY_LB')) {
+									if(!event.isEmpty) {
+										document.getElementById('sticky_leader_close').style.display = 'block';
+										document.getElementById('sticky_leaderboard').style.paddingTop = '4px';
+										document.querySelector('body #browserMaster').style.paddingBottom = '90px';
+									}
+								}
+							}
+
+						};
+
+						window.AdScript = new GNAdScript('.advertContainer', adConfig);
+						window.AdScript.init();
+					} catch(e) {
+					}
+
+											(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=0;
+						window.adsbygoogle.push({});
+					
+				});
+			}
+			</script>
+
+							<script type="text/javascript">
+					function appendSourcepoint() {
+						( function () {
+							var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){S||(S=!0,D=b.config=b.config||{},s(),F=D.bootstrap&&D.bootstrap.contentControlCallback||D.content_control_callback,q=D.accountId||D.account_id||D.client_id||window.sp_cid,N=D.beacon&&D.beacon.contentControlEndpoint||D.content_control_beacon_endpoint||v.a,D.debug_level&&"OFF"!==D.debug_level.toString().toUpperCase()||D.debug&&D.debug.level&&"OFF"!==D.debug.level.toString().toUpperCase()?j=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(j=!0),j&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+N+"/cct?v="+encodeURIComponent(v.b)+"&ct="+h+"&cid="+encodeURIComponent(q)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),a&&a()}var i=(arguments.length>3&&void 0!==arguments[3]&&arguments[3],arguments[4]),a=arguments[5];if(i){var c=e.lastIndexOf("."),d=e.lastIndexOf("/"),u=-1===c||d>c?e+".png":e.substring(0,c)+".png",s=new Image;s.addEventListener("load",function(){r("1",u)}),s.addEventListener("error",function(){o.i(f.a)(u,function(n,t,o){r("0",u+"::"+o)})}),s.src=u}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(L):t("exabot")?i(O):t("bingbot")||t("bingpreview")?i(k):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(C):t("googleweblight")?i(E):window.location.host===w?i(x):t("msie 10")||t("msie 9")||t("msie 8")?i(I):c(n,r,i)},document.head.appendChild(a)}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(R)return void u(U+"::"+n,o);r(y,n,t,o,e,function(){if(F){if(j){g.error("bootstrap locking",y,n,t,o,e);debugger}setTimeout(function(){F()},250)}})}function u(n,t,o,e){r(_,n,t,o,e)}function s(){b._networkListenerData||(b._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=window._sp_||{},h=1,_=0,y=1,L="m",C="g",x="gw",E="gl",I="i",k="b",O="e",U="n",S=!1,R=!1,j=!1,D=void 0,F=void 0,q=void 0,N=void 0;window.addEventListener("beforeunload",function(){R=!0}),window._sp_=b,b.setupNetworkListeners=s,b.bootstrap=l,window.spBootstrap=l,t["default"]=b},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1199"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","1","9","9","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","1","9","9",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","1","9","9","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","1","9","9",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","1","9","9","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","1","9","9",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=document.createElement("a");if(p.href=n,"https:"===e.protocol&&p.protocol&&p.protocol!==e.protocol)return r.debug("location.protocol",e.protocol),r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,p.protocol,u);var v=new XMLHttpRequest,g=f.withCredentials;null!=g&&(v.withCredentials=g);try{v.open(f.method||"GET",n)}catch(n){return void t(!0,!1,n.toString(),c,v)}if(null!=f.headers){var m=f.headers;Object.keys(m).forEach(function(n){v.setRequestHeader(n,m[n])})}var w=void 0,b=void 0;v.onloadstart=function(n){w=o(n)},v.onreadystatechange=function(n){if(4===this.readyState){b=o(n)-w;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+b,c,v)}};try{v.send(f.body)}catch(n){return void t(!0,!1,n.toString(),d,v)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+							//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1199/Ym9vdHN0cmFwLmpz.map
+							window ._sp_ =  window ._sp_ || {};
+							window ._sp_.config =  window ._sp_.config || {};
+							window ._sp_.config.account_id = 347;
+							window ._sp_.config.content_control_callback =  function () {
+								//console.log( "CONTENT LOCK" );
+							};
+							window ._sp_.config.mms_domain =  "eurogamer-uk.eurogamer.net" ;
+							window ._sp_.mms =  window ._sp_.mms || {};
+							window ._sp_.mms.cmd =  window ._sp_.mms.cmd || [];
+														window ._sp_.config.mms_client_data_callback =  function (o) {
+								var _sp_msg_id = parseInt(o.info.msg_id);
+								var _sp_cookie_val = "";
+								if(o.d.abp==true && _sp_msg_id>0) {
+
+																	if( _sp_msg_id == 30015) {
+										Cookies.set("sp", "eg_wl_only_message_seen", { expires: 30 });
+									} else {
+										Cookies.set("sp", "eg_continue_message_seen", { expires: 30 });
+									}
+								
+								}
+							};
+
+															window._sp_.config.fsm_endpoint = "//eg-p2.eurogamer.net";
+								window._sp_.config.enable_fsm_detection = true;
+								window._sp_.config.enable_fsm_network_detection = true;
+							
+							window ._sp_.mms.cmd.push( function () {
+
+								window ._sp_.mms.setTargeting( "logged-in", "false" );
+								window ._sp_.mms.setTargeting( "page", "article" );
+								window ._sp_.mms.setTargeting( "show-ads", "true" );
+
+								
+																	window ._sp_.mms.setTargeting( "guide", "false" );
+								
+							});
+
+							window ._sp_.mms.cmd.push( function () {
+								window ._sp_.mms.startMsg();
+							});
+
+							window ._sp_.bootstrap( "scripts/Eurogamer/meurogamer-sp21.js" );
+							window ._sp_.config.mms_choice_selected_callback =  function (choiceID) {};
+
+						})();
+					};
+				</script>
+					
+		
+						<script type="text/javascript">
+				function appendCarbon() {
+					!function(a,l,b,c,k,s,t,g,A){a.CustomerConnectAnalytics=k,a[k]=a[k]||function(){
+					(a[k].q=a[k].q||[]).push(arguments)},g=l.createElement(b),A=l.getElementsByTagName(b)[0],
+					g.type="text/javascript",g.async=!0,g.src=c+"?id="+s+"&parentId="+t,A.parentNode.insertBefore(g,A)
+					}(window,document,"script","//carbon-cdn.ccgateway.net/script","cca",window.location.hostname,"04d6b31292");
+				}
+			</script>
+			<script>
+				// Drop Third-Party Cookies on Consent
+				function dropCookies() {
+										!function (f, b, e, v, n, t, s) {
+						if (f.fbq)return;
+						n = f.fbq = function () {
+							n.callMethod ?
+									n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+						};
+						if (!f._fbq)f._fbq = n;
+						n.push = n;
+						n.loaded = !0;
+						n.version = '2.0';
+						n.queue = [];
+						t = b.createElement(e);
+						t.async = !0;
+						t.src = v;
+						s = b.getElementsByTagName(e)[0];
+						s.parentNode.insertBefore(t, s)
+					}(window,
+							document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+					
+															fbq('init', '560747571485047');
+					
+										fbq('init', '738979179819818');
+					
+											fbq('track', 'PageView');
+					
+					appendCarbon();
+				}
+			</script>
+			<script>
+				function doAdsOnConsent() {
+					if (typeof do_the_ads == 'function') {
+						do_the_ads({});
+					}
+
+					if (typeof do_the_ads_mobile == 'function') {
+						do_the_ads_mobile();
+					}
+
+					if (typeof do_the_ads_portable == 'function') {
+						do_the_ads_portable();
+					}
+				}
+			</script>
+		
+		<script type="application/ld+json">
+			{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": "https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade",
+    "url": "https://www.eurogamer.net/articles/2020-08-07-game-of-thrones-tale-of-crows-is-a-real-time-idle-game-exclusive-to-apple-arcade",
+    "headline": "Game of Thrones: Tale of Crows is a &quot;real-time idle&quot; game exclusive to Apple Arcade",
+    "inLanguage": "en",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-08-07-17-00/-1596816021509.jpg/EG11/resize/1200x-1/-1596816021509.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Wesley Yin-Poole",
+        "sameAs": "https://www.eurogamer.net/authors/621"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eurogamer.net",
+        "sameAs": "https://www.eurogamer.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x120/logo.png"
+        }
+    },
+    "articleSection": "News",
+    "keywords": [
+        "iPad",
+        "iPhone",
+        "News",
+        "Story Driven"
+    ],
+    "datePublished": "2020-08-07T17:00:00+01:00",
+    "dateModified": "2020-08-07T17:00:54+01:00"
+}		</script>
+
+					<script type="application/ld+json">
+				{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.eurogamer.net/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "News",
+            "item": "https://www.eurogamer.net/archive/news"
+        }
+    ]
+}			</script>
+		
+				<script>
+			var _comscore = _comscore || [];
+			_comscore.push({ c1: "2", c2: "8518622", cs_ucfr: ""});
+			function appendComscore(cs_ucfr_value) {
+				(self.COMSCORE && COMSCORE.beacon({ c1: "2", c2: "8518622", cs_ucfr: cs_ucfr_value }));
+				if (window.comscoreDone) return;
+				_comscore[0].cs_ucfr = cs_ucfr_value;
+				const s = document.createElement("script");
+				const el = document.getElementsByTagName("script")[0];
+				s.type = 'text/javascript';
+				s.async = true;
+				s.src = 'https://sb.scorecardresearch.com/cs/8518622/beacon.js';
+				el.parentNode.insertBefore(s, el);
+				window.comscoreDone = true;
+			}
+		</script>
+
+				<script type="text/javascript">
+			function appendSkimlinks() {
+									var skim_script = document.createElement("script");
+					skim_script.type = "text/javascript";
+					skim_script.async = true;
+					skim_script.src = "//s.skimresources.com/js/87431X1540261.skimlinks.js";
+					document.getElementsByTagName('head')[0].appendChild(skim_script);
+							}
+		</script>
+
+		<script type="text/javascript">
+			function appendAudienceProject() {
+				var ap_script = document.createElement("script");
+				ap_script.type = "text/javascript";
+				ap_script.async = true;
+				ap_script.src = "https://sak.userreport.com/gamer-network/launcher.js";
+				document.getElementsByTagName('head')[0].appendChild(ap_script);
+			}
+		</script>
+
+		<script defer>
+			$(document).ready(function() {
+				window.followButtons = new FollowButtons({
+					uid: 0,
+					lang: {
+						follow: "Follow",
+						unfollow: "Unfollow",
+						following: "Following"
+					}
+				});
+			});
+		</script>
+
+					<script>
+				jQuery(document).ready(function(){
+					renderEdmonds('.edmonds-block', {
+						'site': 'eurogamer.net',
+					});
+
+					// Check for other Amazon links and add subtag if required
+					jQuery.each(jQuery('article main a'), function(i, k) {
+
+						var link_href = jQuery(k).attr('href');
+					    if(link_href.match(/amazon\./i) && link_href.indexOf('ascsubtag') == -1) {
+
+					      subtag='';
+					      if(window.location.pathname.length > 1){
+					        var subtag = window.location.pathname.substring(1);
+					        subtag = subtag.replace(/\//g,'-').substring(0,89);
+					      } else {
+					        subtag='index';
+					      }
+					      link_href = link_href + ((link_href.indexOf('?') == -1) ? '?ascsubtag=' : '&ascsubtag=') + subtag;
+
+					      jQuery(k).attr('href', link_href);
+
+					    }
+
+					});
+
+				});
+			</script>
+						<script>
+				function appendYouTubeAPI() {
+					if (window.youTubeAPIDone) return;
+					var tag = document.createElement('script');
+					tag.src = "https://www.youtube.com/iframe_api";
+					var firstScriptTag = document.getElementsByTagName('script')[0];
+					firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+					window.youTubeAPIDone = true;
+				}
+
+				// All functions added by this will be called once the YouTube API is ready
+				function addToYouTubeIframeCallbacks(fn) {
+					window.youTubeIframeCallbacks = window.youTubeIframeCallbacks || [];
+					window.youTubeIframeCallbacks.push(fn);
+				}
+
+				function onYouTubeIframeAPIReady() {
+					window.youTubeAPIReady = true;
+					registerAllIframesWithYouTubeAPI();
+
+					// Call all functions in window.youTubeIframeCallbacks
+					if (window.youTubeIframeCallbacks) {
+						for (i = 0; i < window.youTubeIframeCallbacks.length; i++) {
+							var fn = window.youTubeIframeCallbacks[i];
+							if (typeof fn === "function") fn();
+						}
+					}
+				}
+
+				function registerWithYouTubeAPI(target, options = {}) {
+					var player = null;
+					if (window.youTubeAPIReady) {
+						player = new YT.Player(target, options);
+						player.addEventListener("onStateChange", "onYouTubePlayerStateChange");
+						window.youTubeAPIPlayers.push(player);
+					}
+					return player;
+				}
+
+				function registerAllIframesWithYouTubeAPI() {
+					window.youTubeAPIPlayers = [];
+					var iframes = document.querySelectorAll('iframe[data-youtube="true"');
+					for (var i = 0; i < iframes.length; i++) {
+						var iframe = iframes[i];
+						registerWithYouTubeAPI(iframe);
+					}
+				}
+
+				function onYouTubePlayerStateChange(e) {
+					if (e.data === YT.PlayerState.PLAYING) {
+						// e.target.f is the iframe itself
+						if (e.target && e.target.f) {
+							pauseOtherYouTubePlayers(e.target.f);
+						}
+					}
+				}
+
+				function pauseOtherYouTubePlayers(target) {
+					for (var i = 0; i < window.youTubeAPIPlayers.length; i++) {
+						var player = window.youTubeAPIPlayers[i];
+						var iframe = player.f;
+						// Don't pause the target player
+						if (target !== iframe && typeof player.pauseVideo === 'function') {
+							player.pauseVideo();
+						}
+					}
+				}
+
+				function appendTwitchPlayer() {
+									}
+
+				$(document).ready(function() {
+					// Lazy Covers
+					lazycovers = new LazyCovers({});
+
+											try {
+							window['adsSidebar'] = new SidebarAds({
+								content: $(".document > .main"),
+								sidebar: $(".ads-rail.upper"),
+								offset: 600,
+								firstOffset: 600,
+								limit: 20,
+								prefix: "ARTICLE",
+								zone: 'EGNET_Lazy_Load_HP_MPU',
+								site: 'eurogamer.net',
+								articles: [{"slug":"2021-10-08-yakuza-creator-toshihiro-nagoshi-confirms-departure-from-sega","title":"Yakuza creator Toshihiro Nagoshi confirms departure from Sega","subtitle":"&quot;A new Ryu Ga Gotoku Studio is born&#8230;&quot;","comments":0,"image":"2021\/articles\/2021-10-08-09-43\/yakuza-creator-toshihiro-nagoshi-confirms-departure-from-sega-1633682606672.jpg"},{"slug":"2021-10-07-apex-legends-halloween-themed-monsters-within-event-starts-next-week","title":"Apex Legends' Halloween-themed Monsters Within event starts next week","subtitle":"Adds new Arenas map, Shadow Royale, and more.","comments":0,"image":"2021\/articles\/2021-10-07-23-47\/apex-legends-halloween-themed-monsters-within-event-starts-next-week-1633646872005.jpg"},{"slug":"2021-10-07-blizzard-announces-joe-shely-as-new-diablo-4-game-director","title":"Blizzard announces Joe Shely as new Diablo 4 game director","subtitle":"&quot;Like many of you, our team has been reflecting upon recent events&quot;.","comments":6,"image":"2021\/articles\/2021-10-07-23-10\/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg"},{"slug":"2021-10-07-eidos-montreal-announces-move-to-four-day-work-week","title":"Eidos Montreal announces move to four-day work week","subtitle":"To increase &quot;productivity and well-being of our employees.&quot;","comments":34,"image":"2021\/articles\/2021-10-07-19-58\/eidos-montreal-announces-move-to-four-day-work-week-1633633109669.jpg"},{"slug":"2021-10-07-resident-evil-movie-gets-first-trailer-december-release-date-in-uk","title":"Resident Evil movie gets first trailer, December release date in UK","subtitle":"Out November in North America.","comments":87,"image":"2021\/articles\/2021-10-07-18-08\/resident-evil-movie-gets-first-trailer-december-release-date-in-uk-1633626536903.jpg"},{"slug":"2021-10-07-scandinavian-adventure-roki-coming-to-playstation-and-xbox","title":"Scandinavian adventure R\u00f6ki coming to PlayStation and Xbox","subtitle":"R\u00f6ki and roll.","comments":7,"image":"2021\/articles\/2021-10-07-16-28\/-1633620532818.jpg"},{"slug":"2021-10-07-tales-of-arise-adds-new-difficulties-weapons","title":"Tales of Arise adds new difficulties, weapons","subtitle":"Plus pricy Sword Art Online outfits.","comments":10,"image":"2021\/articles\/2021-10-07-16-10\/-1633619401328.jpg"},{"slug":"2021-10-07-halo-the-master-chief-collection-gets-its-final-season-next-week","title":"Halo: The Master Chief Collection gets its final season next week","subtitle":"The final ring. ","comments":13,"image":"2021\/articles\/2021-10-07-16-20\/-1633620058145.jpg"},{"slug":"2021-10-07-xbox-20th-anniversary-controller-on-the-way","title":"Xbox 20th anniversary controller announced, unlocks exclusive background","subtitle":"Forza players.","comments":26,"image":"2021\/articles\/2021-10-07-15-51\/-1633618273607.jpg"},{"slug":"2021-10-07-sky-partnering-with-microsoft-on-new-kinect-like-camera","title":"Sky partnering with Microsoft on new Kinect-like camera","subtitle":"Didn't expect to see you again.","comments":60,"image":"2021\/articles\/2021-10-07-15-09\/-1633615795732.jpg"},{"slug":"2021-10-07-battlefield-2042-fans-think-it-has-too-many-bots-and-theyre-just-too-op","title":"Battlefield 2042 fans think it has too many bots, and they're just too OP","subtitle":"All out botfare. ","comments":38,"image":"2021\/articles\/2021-10-07-15-20\/-1633616430709.jpg"},{"slug":"2021-10-07-the-best-video-game-trailer-youll-see-this-week-is-about-brake-pads","title":"The best video game trailer you'll see this week is about brake pads","subtitle":"And an extended new look at Gran Turismo 7. ","comments":18,"image":"2021\/articles\/2021-10-07-15-00\/the-best-video-game-trailer-youll-see-this-week-is-about-brake-pads-1633615204661.jpg"},{"slug":"2021-10-07-streamelements-launch-second-creator-diversity-program","title":"StreamElements launch second Creator Diversity Program","subtitle":"Career support for marginalised streamers.","comments":0,"image":"2021\/articles\/2021-10-07-14-44\/streamelements-launch-second-creator-diversity-program-1633614274504.jpg"},{"slug":"2021-10-07-arkane-lyon-studio-head-leaves-after-16-years","title":"Arkane Lyon studio head leaves after 16 years","subtitle":"Left in \"very good hands\".","comments":19,"image":"2021\/articles\/2021-10-07-14-28\/arkane-lyon-studio-head-leaves-after-16-years-1633613316966.jpg"},{"slug":"2021-10-07-theres-a-new-official-ashes-cricket-game-after-a-couple-of-years-without","title":"There's a new official Ashes cricket game, after a couple of years without","subtitle":"Stump up.","comments":9,"image":"2021\/articles\/2021-10-07-14-05\/-1633611935956.jpg"},{"slug":"2021-10-07-far-cry-6s-post-credits-scene-features-a-big-surprise","title":"Far Cry 6's post credits scene features a big surprise","subtitle":"Plus a round up of many other Easter eggs.","comments":3,"image":"2021\/articles\/2021-10-07-12-04\/-1633604665318.jpg"},{"slug":"2021-10-07-xbox-cloud-gaming-now-runs-on-series-x-hardware","title":"Xbox Cloud Gaming now runs on Series X hardware","subtitle":"Series xCloud. ","comments":46,"image":"2021\/articles\/2021-10-07-12-20\/33e77cc4_68fa_45cb_9382_73df86ba8b3a.jpg"},{"slug":"2021-10-07-new-database-for-gaming-accessibility-launches","title":"New database for gaming accessibility launches","subtitle":"Now players can make informed accessibility choices.","comments":6,"image":"2021\/articles\/2021-10-07-12-20\/-1633605621464.jpg"},{"slug":"2021-10-07-ea-exploring-idea-of-dropping-fifa-name","title":"EA &quot;exploring&quot; idea of dropping FIFA name","subtitle":"Bale out.","comments":71,"image":"2021\/articles\/2021-10-07-11-29\/ea-exploring-idea-of-dropping-fifa-name-1633602563520.jpg"},{"slug":"2021-10-07-twitch-confirms-data-exposed-in-major-leak","title":"Twitch confirms data exposed in major leak, but &quot;no indication&quot; passwords leaked","subtitle":"&quot;We are continuing to investigate.&quot;","comments":9,"image":"2021\/articles\/2021-10-07-11-20\/twitch-confirms-data-exposed-in-major-leak-1633602033724.jpg"},{"slug":"2021-10-07-randy-pitchford-steps-down-as-gearbox-software-president","title":"Randy Pitchford steps down as Gearbox Software president","subtitle":"But stays with the company.","comments":19,"image":"2021\/articles\/2021-10-07-11-07\/FBCN_vFXIAQth6F.jpg"},{"slug":"2021-10-06-take-a-peek-inside-steam-deck-with-valves-latest-video","title":"Take a peek inside Steam Deck with Valve's latest promotional video","subtitle":"&quot;In one way, this is a how-to video, but in another way, it's a why you really shouldn't do this video&quot;.","comments":62,"image":"2021\/articles\/2021-10-06-22-06\/take-a-peek-inside-steam-deck-with-valves-latest-video-1633554404325.jpg"},{"slug":"2021-10-06-microsoft-announces-official-xbox-inspired-adidas-trainer-range","title":"Microsoft announces official Xbox-inspired Adidas trainer range","subtitle":"In celebration of Xbox's 20th anniversary.","comments":31,"image":"2021\/articles\/2021-10-06-19-56\/microsoft-announces-official-xbox-inspired-adidas-trainer-range-1633546587200.jpg"},{"slug":"2021-10-06-sony-ending-credit-card-debit-card-and-paypal-payments-on-playstation-3-and-vita","title":"Sony ending credit card, debit card, and PayPal payments on PlayStation 3 and Vita","subtitle":"Purchases will require wallet top-ups via the PlayStation Store.","comments":40,"image":"2021\/articles\/2021-10-06-17-44\/sony-removing-credit-card-debit-card-and-paypal-payment-options-on-playstation-3-and-vita-1633538670673.jpg"},{"slug":"2021-10-01-grounded-getting-sizzling-sandbox-biome-first-dungeon-and-more-in-biggest-update-yet","title":"Grounded getting sizzling sandbox biome, first dungeon and more in &quot;biggest update yet&quot;","subtitle":"Out at the end of October.","comments":2,"image":"2021\/articles\/2021-10-06-16-29\/grounded-getting-sizzling-sandbox-biome-first-dungeon-and-more-in-biggest-update-yet-1633534138538.jpg"},{"slug":"2021-10-06-twitch-source-code-leaked-by-anonymous-hacker","title":"Twitch source code leaked by anonymous hacker","subtitle":"UPDATE: &quot;We can confirm a breach has taken place.&quot;","comments":31,"image":"2021\/articles\/2021-10-06-10-36\/-1633512982004.jpg"},{"slug":"2021-10-06-animal-crossing-direct-scheduled-for-brewsters-birthday","title":"Animal Crossing Direct scheduled for Brewster's birthday","subtitle":"Pigeon lattes on 15th October.","comments":7,"image":"2021\/articles\/2021-10-06-15-36\/animal-crossing-direct-scheduled-for-brewsters-birthday-1633530976065.jpg"},{"slug":"2021-10-06-farmville-3-launches-this-november","title":"Farmville 3 launches this November","subtitle":"Sow it goes. ","comments":15,"image":"2021\/articles\/2021-10-06-15-30\/farmville-3-launches-this-november-1633530651085.jpg"},{"slug":"2021-10-06-twitch-leak-reveals-streamer-earnings-and-lack-of-diversity","title":"Twitch leak reveals streamer earnings and lack of diversity","subtitle":"The list is, of course, dominated by men.","comments":148,"image":"2021\/articles\/2021-10-06-14-44\/-1633527883554.jpg"},{"slug":"2021-10-06-pokemon-fans-ponder-how-much-legends-arceus-is-open-world","title":"Pok\u00e9mon fans ponder how much Legends: Arceus is open world","subtitle":"Or actually similar to Monster Hunter.","comments":9,"image":"2021\/articles\/2021-10-06-14-27\/pokemon-fans-ponder-how-much-legends-arceus-is-open-world-1633526834391.jpg"}],
+								lang: {
+									advertisement: "Advertisement",
+									related: "Related"
+								}
+							});
+						} catch(e) {}
+					
+
+											// Video Player
+						var videos = $(".video-player");
+						for(i = 0; i < videos.length; i++) {
+							var video = $(videos[i]);
+							new videoPlayer({
+								player: video,
+								label: video.attr('data-label'),
+								more: "More videos",
+								subscribe: "Subscribe to our YouTube channel",
+								version: "hd",
+								error: "Sorry, but there was an error loading the video player.",
+								registerWithYouTubeAPI,
+								adsEnabled: true,
+							});
+						}
+									});
+
+			</script>
+								<script>
+							function switchBBWScriptCookiesVersion() {
+								jQuery('article .video-container script').each(function() {
+									var el = jQuery(this);
+									var cookiesSrc = el.data('src');
+									var noCookiesSrc = el.data('nocookies-src');
+									if (el.attr('src') === noCookiesSrc) {
+										el.parent().replaceWith("<div class='video-container'><script type='text/javascript' class='bb_script' src='" + cookiesSrc + "' data-nocookies-src='" + noCookiesSrc + "' data-src='" + cookiesSrc + "' async><\/script><\/div>");
+									}
+								});
+							}
+
+							function switchToYoutubeCookiesVersion() {
+								jQuery('article iframe').each(function(){
+									src = jQuery(this).attr('src');
+									if(src) {
+										// If people have allowed targeting we can
+										// swap the nocookie embed with the standard embed
+										if(src.match(/www\.youtube-nocookie\.com/i)) {
+											jQuery(this).attr('src', src.replace('www.youtube-nocookie.com', 'www.youtube.com'));
+										}
+									}
+								});
+							}
+						</script>
+					
+			
+			<script>
+				jQuery(document).ready(function() {
+					var facades = jQuery(".video-facade");
+					for(i = 0; i < facades.length; i++) {
+						new VideoFacade({
+							facade: facades[i],
+							adsEnabled: true,
+						});
+					}
+				});
+			</script>
+		
+			<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="a8860ee2-3760-451e-bc74-913dc75792ad"></script>
+			<script type="text/javascript">
+				function loadIframes(){
+					var iframes = $("iframe[data-src]");
+					$.each(iframes,function() {
+						var iframe = $(this);
+						iframe.attr("src", iframe.attr("data-src"));
+					});
+				}
+
+				function showOneTrustPlaceholders() {
+					if (window.OneTrustPlaceholdersDone) return;
+					var elements = document.querySelectorAll('.onetrust-placeholder');
+					for (var i = 0; i < elements.length; i ++) {
+						var element = elements[i];
+						element.style.display = '';
+					}
+					window.OneTrustPlaceholdersDone = true;
+				}
+
+				function removeOneTrustPlaceholders(type) {
+					var identifier = '.onetrust-placeholder';
+					identifier += type ? '[data-type="' + type + '"]' : '';
+					var elements = document.querySelectorAll(identifier);
+					for (var i = 0; i < elements.length; i ++) {
+						var element = elements[i];
+						element.remove();
+					}
+				}
+
+				function OptanonWrapper() {
+					// Run performance
+					if(OptanonActiveGroups.match(/,2,/)){
+						if (typeof runMormont == 'function' && typeof mormont !== 'undefined' && !window.mormontDone) {
+							runMormont();
+						}
+						if (typeof gaWrapper == 'function') {
+							gaWrapper();
+						}
+						if (typeof appendParsely == 'function') {
+							appendParsely();
+						}
+					} else {
+						if (typeof gaAnonWrapper == 'function') {
+							gaAnonWrapper();
+						}
+					}
+
+					// Run functional
+					if(OptanonActiveGroups.match(/,3,/)){
+						if (typeof appendSourcepoint == 'function') {
+							appendSourcepoint();
+						}
+						removeOneTrustPlaceholders('functional');
+					}
+
+					// Run targeting
+					if(OptanonActiveGroups.match(/,4,/)){
+						if (typeof appendComscore == 'function') {
+							appendComscore(1);
+						}
+						if (typeof loadIframes == 'function') {
+							loadIframes();
+						}
+						if (typeof switchToYoutubeCookiesVersion == 'function') {
+							switchToYoutubeCookiesVersion();
+						}
+						if (typeof switchBBWScriptCookiesVersion == 'function') {
+							switchBBWScriptCookiesVersion();
+						}
+						if (typeof appendFacebookSDK == 'function') {
+							appendFacebookSDK();
+						}
+						if (typeof appendTwitchPlayer == 'function') {
+							appendTwitchPlayer();
+						}
+						if (typeof appendGoogleCustomSearch == 'function') {
+							appendGoogleCustomSearch();
+						}
+						if (typeof appendYouTubeAPI == 'function') {
+							appendYouTubeAPI(); // Used for DFGraph
+						}
+						if (typeof appendAudienceProject == 'function') {
+							appendAudienceProject();
+						}
+						if (typeof dropCookies == 'function') {
+							dropCookies();
+						}
+						if (typeof appendInlineVideo == 'function') {
+							appendInlineVideo();
+						}
+						if (typeof appendSkimlinks == 'function') {
+							appendSkimlinks();
+						}
+						if (typeof appendGemius == 'function') {
+							appendGemius();
+						}
+						if (typeof appendBBElements == 'function') {
+							appendBBElements();
+						}
+						if (typeof appendVidoomy == 'function') {
+							appendVidoomy();
+						}
+						if (typeof appendSunmedia== 'function') {
+							appendSunmedia();
+						}
+						removeOneTrustPlaceholders('targeting');
+					} else {
+						if (typeof appendComscore == 'function') {
+							appendComscore(0);
+						}
+					}
+
+					__tcfapi('getTCData', 2, (tcData, success) => {
+
+						if(success) {
+							if(tcData.purpose.consents[1]) {
+								if (typeof doAdsOnConsent == 'function') {
+									if (typeof appendPubstack == 'function') {
+										appendPubstack();
+									}
+																			doAdsOnConsent();
+																	}
+							}
+						}
+
+					});
+
+					showOneTrustPlaceholders();
+				}
+			</script>
+					<script type='text/javascript'>
+			function appendPubstack() {
+				var scriptProto = 'https:' == document.location.protocol ? 'https://' : 'http://';
+				var script = document.createElement('script');
+				script.type = 'text/javascript';
+				script.async = true;
+				script.src = scriptProto+'boot.pbstck.com/v1/tag/6c7e4956-d33d-4bbc-bb6a-e17aa4e3ab7d';
+				(document.getElementsByTagName('head')[0] || document.body).appendChild(script);
+			};
+			</script>
+			</body>
+</html>
+		

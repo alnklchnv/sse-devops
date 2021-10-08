@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html xml:lang="en-US" lang="en-US" role="document">
+
+<head>    
+    <base href="/health24" />
+    <link rel="stylesheet" href="/css/tenants/health24/style.min.css?v=uWD2A4KgXJX_YJ1OKNtTY84Kt_vlBzCy1O7dypvZp3c" />
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-title" content="News24">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<meta name="msapplication-navbutton-color" content="red">
+<meta name="msapplication-TileColor" content="red">
+<meta name="msapplication-TileImage" content="~/images/pwa/news24/mstile-150x150.png">
+
+<!-- Pinned Sites  -->
+<meta name="application-name" content="News24">
+<meta name="msapplication-tooltip" content="News24. Breaking News First">
+<meta name="msapplication-starturl" content="/">
+<!-- Tap highlighting  -->
+<meta name="msapplication-tap-highlight" content="no">
+
+<!-- iOS  -->
+<link rel="apple-touch-icon" sizes="120x120" href="/images/pwa/news24/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/pwa/news24/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/images/pwa/news24/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/pwa/news24/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" href="/images/pwa/news24/apple-touch-icon-180x180.png">
+
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1536x2048.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1668x2224.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/2048x2732.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+
+
+<meta name="theme-color" content="#ffffff" />
+<link rel="manifest" href="/manifests/news24.json?v=sLVtVKe6d0xbpIxFKa4wP3rwogC9jxboKabQUjJtaRY" />
+    
+
+<!--SEO Meta-->
+<title>Scientists identify order in which Covid-19 symptoms appear | Health24</title>
+<meta name="articleid" content="bf2282f4-c498-4e5c-a607-c281309c3824" />
+    <meta name="ad:name" content="/8900/24.com/web/" />
+    <meta name="ad:zone" content="medical/infectious-diseases/coronavirus" />
+    <meta name="description" content="Covid-19 affects people in different ways. This can slow down diagnosis, but researchers say there may be a specific order in which symptoms appear. " />
+    <meta name="keywords" content="" />
+    <meta name="accreditation" content="Health24" />
+    <meta name="author" content="Marelize Wilke" />
+    <meta name="articletitle" content="Scientists identify order in which Covid-19 symptoms appear" />
+    <meta name="permatitle" content="scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" />
+    <meta name="sophiaccess" content="free access" />
+    <meta name="creditline" content="Health24" />
+    <meta name="byline" content="Marelize Wilke" />
+    <meta name="ad:keyword:artid" content="bf2282f4-c498-4e5c-a607-c281309c3824" />
+    <meta name="ad:keyword:Topics" content="coronavirus" />
+    <meta name="ad:keyword:accreditation" content="health24" />
+    <meta name="publisheddate" content="2020-08-17T06:45:11.56Z" />
+    <meta name="datemodified" content="2020-08-24T19:05:09.96Z" />
+    <meta name="breadcrumb" content="health24/Medical/Infectious-diseases/Coronavirus" />
+    <meta name="pageviewtype" content="article_view" />
+    <meta name="pagetype" content="article" />
+    <meta name="visitortype" content="Anonymous" />
+    <meta name="usertype" content="Anonymous" />
+    <meta name="isloggedin" content="false" />
+    <meta name="sitename" content="Health24" />
+    <meta name="version" content="1.1.21279.6" />
+    <meta name="env" content="prod" />
+    <meta property="og:site_name" content="Health24" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:section" content="Health24" />
+    <meta property="og:image" content="https://cdn.24.co.za/files/Cms/General/d/10414/42b4bd2f7f324c3d8e872a56a22a1482.jpg" />
+    <meta property="og:image:secure_url" content="https://cdn.24.co.za/files/Cms/General/d/10414/42b4bd2f7f324c3d8e872a56a22a1482.jpg" />
+    <meta property="og:image:height" content="430" />
+    <meta property="og:image:width" content="650" />
+    <meta property="og:image:alt" content="covid-19 symptoms, order of covid-19 symptoms " />
+    <meta property="og:title" content="Scientists identify order in which Covid-19 symptoms appear | Health24" />
+    <meta property="og:description" content="Covid-19 affects people in different ways. This can slow down diagnosis, but researchers say there may be a specific order in which symptoms appear. " />
+
+<link rel="canonical" href="https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" />
+
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="health24">
+<meta name="commit" content="c3829e30004efc5238912be71958823bc1f28197">
+<meta name="platform" content="web">
+
+<script type="text/javascript">
+    za24_AdSite = '/8900/24.com/web/';
+    za24_AdZone = 'medical/infectious-diseases/coronavirus';
+</script>
+
+    
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=5">
+
+
+        <link rel="preload" as="font" href="/fonts/regular/proximanova-regular-webfont.woff2" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" as="font" href="/fonts/bold/proximanova-bold-webfont.woff2" type="font/woff2" crossorigin="anonymous" />
+
+
+        <link rel="preconnect" href="https://log.outbrainimg.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.cdn.sophi.io" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://collector.brandmetrics.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://t.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://collector.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://za-ssl.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://adservice.google.co.za" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://tpc.googlesyndication.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://csi.gstatic.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagservices.com" crossorigin="anonymous" />
+
+        <link rel="icon" type="image/png" href="/images/tenants/health24/favicon-bg.png">
+    
+
+    
+        <script>
+            // attach it to the window
+            firebaseConfig = {
+                apiKey: 'AIzaSyBuB7xqx1gX4RZX45kGgGwybifCgKzYa0A',
+                authDomain: 'auth.news24.com',
+                projectId: 'twentyfour-english-live'
+            };
+        </script>
+        <!--Scripts: Head-->
+        <!--Scripts: Narratiive-->
+<!-- BEGIN NARRATIIVE CODE --> <!-- COPYRIGHT NARRATIIVE --> <!-- BY ADDING THIS TAG TO YOUR WEBSITE YOU AGREE TO ALL POLICIES AND TERMS AVAILABLE AT WWW.NARRATIIVE.COM --> <script type="text/javascript">    (function(t,r,a,c,k,n,o,w){t['em_ns']=k;w=1*new Date();t[k]=t[k]||function(){      (t[k].q=t[k].q||[]).push(arguments)},t[k].t=w;n=r.createElement(a);n.async=1;      n.src=c+'/tag'+(t.addEventListener&&'.'||'_.')+'js?'+parseInt(w/1e9, 10);      o=r.getElementsByTagName(a)[0];o.parentNode.insertBefore(n,o)    })(window,document,'script','https://t.effectivemeasure.net','_em'); </script> <!-- END NARRATIIVE CODE -->  <script type="text/javascript">     (function () {         var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;         em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);     })(); </script> 
+    
+    <!-- Google Tag Manager -->  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5FF4NNT');</script>  <!-- End Google Tag Manager -->
+    
+
+    
+
+
+
+    
+    
+        <link rel="amphtml" href="/amp/health24/medical/infectious-diseases/coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3">
+    
+
+
+
+    
+</head>
+
+<body>
+    <div data-ad="true" data-adname="retailbar" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[200,400]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;retailbar&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="retailbar" class="retail-ad pos-fixed adblock"></div>
+    <div data-ad="true" data-adname="wallpaper" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[2,1]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;wallpaper&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="wallpaper" class="pos-fixed adblock"></div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FF4NNT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    
+        <!--Scripts: Body-->
+
+        
+
+
+    <div class="brandbar">
+        <div class="wrapper">
+            <ul class="brandbar__links">
+                            <li>
+                                <a data-event-name="site_link" data-event-container="banner" href="news24" target="_self">
+                                    <span>News24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.careers24.com" target="_blank" rel="noopener noreferrer">
+                                    <span>Careers24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.property24.com/?utm_source=news24.com&amp;utm_medium=referral&amp;utm_campaign=news24-link" target="_blank" rel="noopener noreferrer">
+                                    <span>Property24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.autotrader.co.za/" target="_blank" rel="noopener noreferrer">
+                                    <span>Autotrader</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://superbalist.com" target="_blank" rel="noopener noreferrer">
+                                    <span>Superbalist</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.olx.co.za?invite= news24-za_news24-footer&amp;utm_source=news24-za&amp;utm_ medium=free&amp;utm_content= news24_footer&amp;utm_ campaign=news24-footer" target="_blank" rel="noopener noreferrer">
+                                    <span>OLX</span>
+                                </a>
+                            </li>
+            </ul>
+
+            <div id="auth-section">
+                <ul class="auth profile--container">
+                    
+                    
+                        <li class="auth__subscribe">
+                            <a id="subscribe-button" data-event-name="subscribe_link" data-event-container="banner" href="/subscription">
+                                <span>Subscribe</span>
+                            </a>
+                        </li>
+                    
+                    
+                        <li class="auth__login">
+                            <a return-url data-event-name="login_link" data-event-container="banner" href="/auth/signin">
+                                <span>Sign in</span>
+                            </a>
+                        </li>
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    
+
+    <div data-ad="true" data-adname="transitional" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[10,10]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;transitional&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="transitional" class="transitional-ad pos-fixed adblock"></div>
+    <div data-ad="true" data-adname="LB_sponsorship" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[728,90],[970,90],[980,90],[970,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;LB_sponsorship&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="LB_sponsorship" class="ad-expand adblock"></div>
+
+    <div id="main-content" class="wrapper" role="main">
+        
+
+
+<!-- Header -->
+<header class="header" role="banner">
+    <div class="header-container">
+        
+            <a href="./health24" class="header__logo health24" aria-label="Logo Header Element"
+                data-event-name="home_link" data-event-container="header">
+                <img src="https://cdn.24.co.za/files/Cms/General/d/9428/78aaffc9cc92410796f7ac8d488d549d.svg" alt="" class="tf-img" width="280" height="68" />
+            </a>
+        
+        <div class="header-container--content">
+            
+                <form method="get" class="header__search" role="search" action="/health24/search">
+                    <input type="text" name="query" class="tf-search-box" placeholder="Search" id="search" aria-label="Search" required />                    
+                    <input type="submit" value="" id="searchBtn" aria-label="search button" role="button"
+                        data-event-name="search_query" />
+
+                </form>
+            
+            
+                
+
+    <section class="social-links">
+        <div class="social-links-container">
+            <ul class="social-control">
+                    <li class="social-item facebook">
+                        <a href="https://www.facebook.com/health24" data-share="facebook" title="Facebook" aria-label="Facebook Social Share" target="_blank" class="social-item-link action" data-event-container="Social" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="/images/icons/share/facebook.svg" class="social-item-img" alt="Facebook" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/health24com" data-share="twitter" title="Twitter" aria-label="Twitter Social Share" target="_blank" class="social-item-link action" data-event-container="Social" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="/images/icons/share/twitter.svg" class="social-item-img" alt="Twitter" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item instagram">
+                        <a href="https://www.instagram.com/health24_sa" data-share="instagram" title="Instagram" aria-label="Instagram Social Share" target="_blank" class="social-item-link action" data-event-container="Social" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="/images/icons/share/instagram.svg" class="social-item-img" alt="Instagram" width="31" height="31"/>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+            
+            
+                <!-- Weather Widget -->
+<link defer rel="stylesheet" href="/css/tenants/health24/widgets/weather/index.min.css?v=aTbzseFcPya5yLx4SZZc-FibiVkGpOkum81kj0F0xKQ" />
+<a data-event-name="weather_link" href="/profile/weather">
+    <div class="weather-widget weather-widget--locked">
+        <div class="weather-widget__image">
+        </div>
+        <div class="weather-widget__data">
+            <p class="weather-widget__data--date">Friday, 08 October</p>
+            <span class="weather-widget__data--city">Add location</span>
+        </div>
+    </div>
+</a>
+
+
+            
+        </div>
+    </div>
+    
+
+<!-- Nav Header -->
+        <nav class="header__nav" role="navigation">
+            <ul>
+                    <li class=" is-active  ">                        
+                        <a href="health24" aria-label="News" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24" data-url="health24" class="is-active nav-item" target="_self">News</a>
+                    </li>
+                    <li class="sponsored   sponsor">                        
+                        <a href="forsubscribers" aria-label="For Subscribers" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="forsubscribers" data-url="forsubscribers" class=" nav-item" target="_self">For Subscribers</a>
+                    </li>
+                    <li class="   ">                        
+                        <a href="health24/medical/centres" aria-label="Medical" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24/medical/centres" data-url="health24/medical/centres" class=" nav-item" target="_self">Medical</a>
+                    </li>
+                    <li class="   ">                        
+                        <a href="health24/lifestyle" aria-label="Lifestyle" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24/lifestyle" data-url="health24/lifestyle" class=" nav-item" target="_self">Lifestyle</a>
+                    </li>
+                    <li class="   ">                        
+                        <a href="health24/experts" aria-label="Experts" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24/experts" data-url="health24/experts" class=" nav-item" target="_self">Experts</a>
+                    </li>
+                    <li class="   ">                        
+                        <a href="health24/diet-and-nutrition" aria-label="Diet and Nutrition" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24/diet-and-nutrition" data-url="health24/diet-and-nutrition" class=" nav-item" target="_self">Diet and Nutrition</a>
+                    </li>
+                    <li class="   ">                        
+                        <a href="https://beyondbeauty.health24.com/" aria-label="Beyond Beauty" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="https://beyondbeauty.health24.com/" data-url="https://beyondbeauty.health24.com/" class=" nav-item" target="_self">Beyond Beauty</a>
+                    </li>
+                    <li class="  has-children ">                        
+                        <a href="/health24/medical/featured-medical-condition-centres-june-20200604" aria-label="Featured " data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="health24/medical/featured-medical-condition-centres-june-20200604" data-url="/health24/medical/featured-medical-condition-centres-june-20200604" class=" nav-item" target="_self">Featured </a>
+                                <ul class="sub-nav">
+                                        <li class=""> 
+                                            <a href="/health24/medical/asthma" aria-label="Asthma" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="health24/medical/asthma" target="_self">Asthma</a>
+                                        </li>
+                                        <li class=""> 
+                                            <a href="/health24/medical/stop-smoking" aria-label="Stop Smoking" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="health24/medical/stop-smoking" target="_self">Stop Smoking</a>
+                                        </li>
+                                </ul>
+                    </li>
+            </ul>
+        </nav>
+
+</header>
+
+<script type="module">
+    import searchupdate from './js/modules/searchupdate.min.js?v=1.1.21279.6';
+    new searchupdate('#search', '#searchBtn');
+</script>
+
+        <div data-ad="true" data-adname="LB1" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[728,90],[970,90],[980,90],[970,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;LB1&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="LB1" class="ad-expand adblock"></div>
+        
+
+        
+        <div class="container">
+            
+
+
+
+
+<meta name="locked" content="false" />
+
+
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.news24.com/health24/medical/infectious-diseases/coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3"
+            },
+            "headline": "Scientists identify order in which Covid-19 symptoms appear",
+"image": { "@type": "ImageObject", "url": "https://cdn.24.co.za/files/Cms/General/d/10414/42b4bd2f7f324c3d8e872a56a22a1482.jpg" },            "datePublished": "2020-08-17T06:45:11&#x2B;00:00",
+            "dateModified": "2020-08-24T19:05:09&#x2B;00:00",
+"author": {"@type": "Person", "name": "Marelize Wilke"},             "publisher": {
+                "@type": "Organization",
+                "name": "health24",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://cdn.24.co.za/files/Cms/General/d/9428/78aaffc9cc92410796f7ac8d488d549d.svg"
+                }
+            },
+            "copyrightHolder" : {
+                "@id": "health24"
+            },
+            "copyrightYear": 2020,
+            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/10414/91b5e554bff94fd597f931b61aac3682.jpg",
+            "isAccessibleForFree": "True",
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": "True",
+                "cssSelector": ".article-locked"
+            }
+        }
+    </script>
+
+
+
+
+<link rel="stylesheet" href="/css/tenants/health24/pages/articledefault/index.min.css?v=J9t0iKvfcUquLfeHlFJW-LG2Dacbv_Xwk6ZVKlKmA_Y" />
+
+
+
+
+<div class="article tf-lhs-col">
+        <div class="article--top-bar">
+            
+            
+            <p class="article__date">17 Aug 2020</p>
+            
+            <div class="article--top-bar-right">
+    
+            
+    
+        <div class="bookmark">
+        <a class="bookmark--add show" id="add-bookmark" data-event-name="bookmarks_add" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus" data-event-container="bookmark" href="/profile/bookmarks?returnurl=https%3a%2f%2fwww.news24.com%2fhealth24%2fmedical%2finfectious-diseases%2fcoronavirus%2fscientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3">
+            <img src="https://cdn.24.co.za/files/Cms/General/d/8407/23a1b651dcf346928ef353e5c2eff539.svg" alt="add bookmark" />
+        </a>
+    </div>
+
+</div>
+
+        </div>
+        <h1 class="article__title">
+            Scientists identify order in which Covid-19 symptoms appear
+        </h1>
+        <div class="article--top">
+            <div class="article__details">
+
+                
+                                    
+                    <div class="article__accreditation"><a href='https://www.news24.com/health24/' class='category-thumbnail' data-event-name='site_link' data-event-breadcrumb='health24/medical/infectious-diseases/coronavirus'><img src='https://cdn.24.co.za/files/cms/general/d/1/094d040c1cac4f4794d1dcd582775874.png' alt='accreditation'/></a></div>
+                    <div class="article__author">
+                        Marelize Wilke
+                    </div>
+                
+                
+
+
+            </div>
+            <div class="article__social-share">
+                <span>Share</span>
+                
+
+
+    <section class="social-sharing">
+        <div class="social-sharing-container">
+            <ul class="social-control" id="social-legacy">
+                    <li class="social-item facebook">
+                        <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.news24.com%2fhealth24%2fmedical%2finfectious-diseases%2fcoronavirus%2fscientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" rel="noopener noreferrer" data-share="facebook" title="facebook" aria-label="facebook Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/5690ba4019c4401987c3e8d0c26d4041.svg" class="social-item-img" alt="facebook" />
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/intent/tweet?via=health24_sa&amp;text=scientists&#x2B;identify&#x2B;order&#x2B;in&#x2B;which&#x2B;covid-19&#x2B;symptoms&#x2B;appear&amp;url=https%3a%2f%2fwww.news24.com%2fhealth24%2fmedical%2finfectious-diseases%2fcoronavirus%2fscientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" rel="noopener noreferrer" data-share="twitter" title="twitter" aria-label="twitter Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/1e5d1bfb48cb4c40919790041ca5889a.svg" class="social-item-img" alt="twitter" />
+                        </a>
+                    </li>
+                    <li class="social-item email">
+                        <a href="mailto:?subject=scientists identify order in which covid-19 symptoms appear&amp;body=scientists identify order in which covid-19 symptoms appear%0a%0ahttps://www.news24.com/health24/medical/infectious-diseases/coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" rel="noopener noreferrer" data-share="email" title="email" aria-label="email Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/162bc878db9b47d1bed7dca554e5574c.svg" class="social-item-img" alt="email" />
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+            </div>
+        </div>
+        
+
+
+
+        <div class="article-locked">
+            
+            
+<meta name="access" content="true" />
+
+<div class="article__content">
+    
+            <!--Oovvuu Header: Header-->
+        <div id="head-video"></div>
+
+    
+    
+    
+    <div class="article__body NewsArticle">
+        <ul><li><strong>Symptoms in Covid-19 differ from one patient to another</strong></li><li><strong>Scientists have, however, found that the order of Covid-19 symptoms differs from other diseases</strong></li><li><strong>Understanding this order can help speed up diagnosis and treatment</strong></li></ul><hr><p>Since the start of the coronavirus pandemic, the list of potential signs and symptoms has become significantly longer.<br></p><p>As there are so many variables,&nbsp;it may be hard to tell whether a general symptom such as fever or coughing indicates that a person has Covid-19, or something else.</p><div data-ad="true" data-adname="outstream" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[550,309],[632,115],[300,250],[336,280]]" data-isfluid="true" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;outstream&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="outstream" class="adblock"></div><p>But according to scientists from <a href="https://www.eurekalert.org/pub_releases/2020-08/uosc-usi081320.php" target="_blank">USC Michelson Center</a>, the order of the appearance of symptoms could help doctors diagnose Covid-19 more quickly.</p><p><strong>Order of symptoms can help doctors plan treatment</strong></p><div data-ad="true" data-adname="fluid" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[1,6],[632,115],[300,250],[336,280]]" data-isfluid="true" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;fluid&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="fluid" class="adblock"></div><p>Not only will the order of the symptoms help doctors diagnose Covid-19 at an earlier stage, but it will also give them a clearer understanding of which treatments to prioritise. </p><p>It also may help doctors rule out other illnesses, according to the <a href="https://www.eurekalert.org/pub_releases/2020-08/uosc-usi081320.php">study</a> led by doctoral candidate Joseph Larsen and his colleagues, with faculty advisors Peter Kuhn and James Hicks, at the USC Michelson Center for Convergent Bioscience Convergent Science Institute in Cancer.</p><p>"This order is especially important to know when we have overlapping cycles of illnesses like the flu that coincide with infections of Covid-19," stated Kuhn, a USC professor of medicine, biomedical engineering, and aerospace and mechanical engineering, in a <a href="https://www.eurekalert.org/pub_releases/2020-08/uosc-usi081320.php" target="_blank">news release</a>. "Doctors can determine what steps to take to care for the patient, and they may prevent the patient's condition from worsening."</p><p>"Given that there are now better approaches to treatments for Covid-19, identifying patients earlier could reduce hospitalisation time," said Larsen, the study's lead author.</p><p>"The order of the symptoms matters. Knowing that each illness progresses differently means that doctors can identify sooner whether someone likely has Covid-19, or another illness, which can help them make better treatment decisions," Larsen stated in the <a href="https://www.eurekalert.org/pub_releases/2020-08/uosc-usi081320.php" target="_blank">news release</a>.</p><p>The scientific findings were published in the journal&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.00473/full" target="_blank"><strong>Frontiers in Public Health</strong></a> on 12 August 2020.&nbsp;</p><div id='fourth-par-video'></div><p><strong>Upper GI tract likely to be infected first</strong></p><p>While fever and a dry cough are the key symptoms of Covid-19 &ndash; as with the two diseases SARS and MERS, which were also caused by coronaviruses &ndash; the timing of symptoms related to the gastrointestinal system seems to differ in Covid-19.</p><p>According to the <a href="https://www.eurekalert.org/pub_releases/2020-08/uosc-usi081320.php" target="_blank">researchers</a>, the upper GI tract seems to be affected (nausea and vomiting) before the lower GI tract (diarrhoea) in Covid-19, unlike in MERS and SARS where it was the other way round.&nbsp;</p><p>They determined the order of symptoms this spring from the rates of symptom incidence in more than 55 000 confirmed coronavirus cases in China (all of which were collected between 16 February and 24 February 2020, by the World Health Organization). They also studied a dataset of nearly 1 100 cases (collected between 11 December 2019 and 24 January 2020, by the China Medical Treatment Expert Group via the National Health Commission of China.)</p><p>The researchers then compared the order of Covid-19 symptoms to those of influenza by examining data from 2 470 cases in North America, Europe and the Southern Hemisphere (reported to health authorities from 1994 to 1998).</p><p><strong><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.00473/full" target="_blank">READ | Researchers find clues to why Covid-19 affects patients so differently</a></strong></p><p><a href="https://www.health24.com/Medical/Infectious-diseases/Coronavirus/what-the-latest-science-says-about-a-tb-vaccine-and-covid-19-20200805-3" target="_blank"><strong>READ | What the latest science says about a TB vaccine and Covid-19</strong></a></p><div id='foot-video'></div><p><a href="https://www.health24.com/Medical/Infectious-diseases/Coronavirus/covid-19-how-long-should-i-isolate-or-quarantine-for-20200807"><strong>READ | Covid-19: How long should I quarantine or self-isolate for?</strong></a></p><p><strong><sup>Image credit: Polina Tankilevitch from Pexels</sup></strong></p>
+        
+
+    </div>
+    
+    
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="article-subs-footer">
+        <div class="article-subs-footer__header">We live in a world where facts and fiction get blurred</div>
+        <div class="article-subs-footer__desc">In times of uncertainty you need journalism you can
+trust. For only <strong>R75 per month</strong>, you have access to
+a world of in-depth analyses, investigative journalism,
+top opinions and a range of features. Journalism
+strengthens democracy. Invest in the future today.</div>
+        <div class="article-subs-footer__button">
+            <a id="continue-button" class="" href="https://www.news24.com/subscription?utm_source=24.com&amp;utm_medium=article_footer&amp;utm_campaign=subs"
+               data-event-name=""
+               data-event-container="">Subscribe to News24</a>
+        </div>
+    </div>
+
+    
+        <!--Related articles-->
+
+    
+</div>
+<script type="module">
+    import tinyslider from './js/modules/tinyslider.min.js?v=1.1.21279.6';
+    new tinyslider('div[data-embed24="Images"]', 1, 1, 'horizontal', true);
+</script>
+            
+                
+
+    <div class="article--end"></div>
+    <link href="/health24/medical/infectious-diseases/coronavirus/tiny-3d-patch-offers-vaccination-without-a-needle-and-provides-stronger-protection-20211008-4" rel="preconnect" />
+    <a href="/health24/medical/infectious-diseases/coronavirus/tiny-3d-patch-offers-vaccination-without-a-needle-and-provides-stronger-protection-20211008-4" class="next-article next-article--url" data-event-container="nextarticle" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="ef1cc5ea-840a-4ce7-927e-c56ed58fba4a" data-event-breadcrumb="/health24/medical/infectious-diseases/coronavirus" data-event-permatitle="tiny-3d-patch-offers-vaccination-without-a-needle-and-provides-stronger-protection-20211008-4">
+        <div class="next-article__title">
+            Next on <span>Health24</span>
+        </div>
+        <div class="next-article__info">
+            <div class="next-article__synopsis">
+                <div class="next-article__blurb">
+                    Tiny 3D patch offers vaccination without a needle - and provides stronger protection
+                </div>
+                <div class="next-article__date">
+                    <p class="article-item__date">6h ago</p>
+                </div>
+            </div>
+                <div class="next-article__image">
+                    <img data-src="https://cdn.24.co.za/files/Cms/General/d/11540/0194ff2e14614b7991a94b85563efe14.jpg" alt="Tiny 3D patch offers vaccination without a needle - and provides stronger protection" class="img-lazy" src="/images/icons/placeholder-no-image.svg" height="88" width="88" />
+                </div>
+        </div>
+        <div id="closeBtn" class="close-btn"></div>
+        <div class="next-article__next-url"></div>
+    </a>
+    <script type="module">
+        import nextarticle from './js/modules/articles/nextarticle.min.js?v=1.1.21279.6';
+        new nextarticle('.article--end', '.next-article');
+    </script>
+
+            
+            <div class="related-tags"><div class='related-tags__header'>Read more on:</div><a href='/Tags/Topics/coronavirus' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/coronavirus' data-event-container='tags' data-tag='coronavirus'>coronavirus</a></div>
+            
+            
+                
+
+<!--Outbrain Widget-->
+    <div class="outbrain-articles">
+            <div class='OUTBRAIN' data-src="https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3" data-widget-id="AR_5"></div>
+    </div>
+    <link rel="preload" href="//widgets.outbrain.com/outbrain.js" as="script" />
+    <script defer src="//widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+
+            
+        </div>
+</div>
+
+
+<div class="tf-rhs-col">
+    
+
+<!--RHS-->
+<div class="tf-rhs-col--inner">
+    
+
+<!--Component Listing-->
+<!--MostRead-->
+<link rel="stylesheet" href="/css/tenants/health24/widgets/mostread/index.min.css?v=k-A6asDBj2tWmf-219MJ4KlUlk0XnN5bqGommkgDRP0" />
+
+<div class="most-read-widget">
+        <input id="tab-0" type="radio" name='mostreadtabs' checked data-event-name="widget_tab" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus" data-event-tab="Most Read" data-event-container="most-read-widget">
+        <label for="tab-0">Most Read</label>
+        <input id="tab-1" type="radio" name='mostreadtabs'  data-event-name="widget_tab" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus" data-event-tab="For Subscribers" data-event-container="most-read-widget">
+        <label for="tab-1">For Subscribers</label>
+
+        <div id="content-tab-0" class="most-read-widget__tab">
+            <ul>
+                    <li>
+                        <a href="/health24/diet-and-nutrition/weight-loss/ten-small-changes-you-can-make-today-to-prevent-weight-gain-20211004" class="most-read-widget__url" aria-label="Ten small changes you can make today to prevent weight gain" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="b7beb082-405e-480b-b52e-6aa5f7a5f279" data-event-breadcrumb="/health24/diet-and-nutrition/weight-loss" data-event-permatitle="ten-small-changes-you-can-make-today-to-prevent-weight-gain-20211004" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Ten small changes you can make today to prevent weight gain</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/health24/medical/infectious-diseases/coronavirus/long-covid/living-with-long-covid-i-feel-like-i-am-on-a-long-road-to-recovery-20211008-2" class="most-read-widget__url" aria-label="Living with long Covid: &#x2018;I feel like I am on a long road to recovery&#x2019;" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="8bbd7a4b-e85e-472e-8a8c-5ed0b0dffe2e" data-event-breadcrumb="/health24/medical/infectious-diseases/coronavirus/long-covid" data-event-permatitle="living-with-long-covid-i-feel-like-i-am-on-a-long-road-to-recovery-20211008-2" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Living with long Covid: &#x2018;I feel like I am on a long road to recovery&#x2019;</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/health24/medical/infectious-diseases/coronavirus/tiny-3d-patch-offers-vaccination-without-a-needle-and-provides-stronger-protection-20211008-4" class="most-read-widget__url" aria-label="Tiny 3D patch offers vaccination without a needle - and provides stronger protection" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="ef1cc5ea-840a-4ce7-927e-c56ed58fba4a" data-event-breadcrumb="/health24/medical/infectious-diseases/coronavirus" data-event-permatitle="tiny-3d-patch-offers-vaccination-without-a-needle-and-provides-stronger-protection-20211008-4" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Tiny 3D patch offers vaccination without a needle - and provides stronger protection</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/health24/news/public-health/ageing-nurses-a-crisis-on-the-horizon-20211007" class="most-read-widget__url" aria-label="Ageing nurses: A crisis on the horizon" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="c4c866c6-7f61-49a3-b2d3-805d6b202538" data-event-breadcrumb="/health24/news/public-health" data-event-permatitle="ageing-nurses-a-crisis-on-the-horizon-20211007" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Ageing nurses: A crisis on the horizon</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/health24/medical/constipation/news/10-ways-to-make-yourself-poop-first-thing-in-the-morning-20190726" class="most-read-widget__url" aria-label="10 ways to make yourself poop first thing in the morning" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="6ee41da6-1296-47d2-82f9-c1961e37fa47" data-event-breadcrumb="/health24/medical/constipation/news" data-event-permatitle="10-ways-to-make-yourself-poop-first-thing-in-the-morning-20190726" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">10 ways to make yourself poop first thing in the morning</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div id="content-tab-1" class="most-read-widget__tab">
+            <ul>
+                    <li>
+                        <a href="/fin24/companies/industrial/the-battle-over-clean-coal-is-it-a-fantasy-to-come-to-terms-with-the-energy-transition-20211008" class="most-read-widget__url" aria-label=" &#x27;Clean coal&#x27; war pits Mantashe against Eskom, experts and govt in power play over SA&#x2019;s future" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="10520f3b-e566-4ee3-913e-883928095d06" data-event-breadcrumb="/fin24/companies/industrial" data-event-permatitle="the-battle-over-clean-coal-is-it-a-fantasy-to-come-to-terms-with-the-energy-transition-20211008" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title"> &#x27;Clean coal&#x27; war pits Mantashe against Eskom, experts and govt in power play over SA&#x2019;s future</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/southafrica/news/phoenix-election-posters-steenhuisen-makes-about-turn-community-says-damage-already-done-20211008" class="most-read-widget__url" aria-label="Phoenix election posters: Steenhuisen makes about-turn, community says damage already done" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="0c1f2924-8e9c-454a-a4af-46f595eeef5d" data-event-breadcrumb="/news24/southafrica/news" data-event-permatitle="phoenix-election-posters-steenhuisen-makes-about-turn-community-says-damage-already-done-20211008" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Phoenix election posters: Steenhuisen makes about-turn, community says damage already done</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/opinions/fridaybriefing/mike-law-slicing-the-coalition-cake-leaders-must-raise-their-game-20211007" class="most-read-widget__url" aria-label="Mike Law | Slicing the coalition cake: Leaders must raise their game" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="d7f1f156-b46f-4e2e-85ad-9caef42b0a43" data-event-breadcrumb="/news24/opinions/fridaybriefing" data-event-permatitle="mike-law-slicing-the-coalition-cake-leaders-must-raise-their-game-20211007" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Mike Law | Slicing the coalition cake: Leaders must raise their game</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/southafrica/news/midrand-teen-charged-with-murder-for-allegedly-shooting-killing-friend-with-dads-gun-20211008" class="most-read-widget__url" aria-label="Midrand teen charged with murder for allegedly shooting, killing friend with dad&#x27;s gun" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="7127ff01-e192-4c14-8699-f68d319bff21" data-event-breadcrumb="/news24/southafrica/news" data-event-permatitle="midrand-teen-charged-with-murder-for-allegedly-shooting-killing-friend-with-dads-gun-20211008" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Midrand teen charged with murder for allegedly shooting, killing friend with dad&#x27;s gun</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/southafrica/news/financially-crippled-anc-wants-more-party-funding-in-bid-to-address-cash-flow-issues-20211008" class="most-read-widget__url" aria-label="Financially crippled ANC wants more party funding in bid to address cash-flow issues" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="64d7de12-73b3-4799-bcbf-235e8ea6dae2" data-event-breadcrumb="/news24/southafrica/news" data-event-permatitle="financially-crippled-anc-wants-more-party-funding-in-bid-to-address-cash-flow-issues-20211008" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Financially crippled ANC wants more party funding in bid to address cash-flow issues</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    <div data-ad="true" data-adname="mostread_widget" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[278,100],[300,50]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;mostread_widget&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mostread_widget" class="adblock"></div>
+</div>
+<!--Adslot : mrec1 / Size: [[300,600],[300,250]]-->
+    <div data-ad="true" data-adname="mrec1" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[300,600],[300,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;mrec1&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mrec1" class="adblock"></div>
+
+
+<!--Newsletter Subscription-->
+<link defer rel="stylesheet" href="/css/tenants/health24/widgets/newslettersubscription/index.min.css?v=i2la8gCirZkwJ6T4KJA-4OMcYkE7hZWbwoyU78fYKas" />
+
+<div class="newsletter-subscription">
+    <div class="newsletter-subscription__heading">
+        <div class="newsletter-subscription__heading-text">
+            <div>Newsletters</div>
+            <p>The Daily Dose</p>
+        </div>
+        
+            <div class="newsletter-subscription__heading-logo">
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10636/1abad16d62cd4a65898ad528c8ae308e.png" alt="NewsletterSubscription" class="img-lazy" width="36" height="39" />
+            </div>
+        
+    </div>
+
+    
+        <div class="newsletter-subscription__image-url">
+            <img data-src="https://cdn.24.co.za/files/Cms/General/d/10636/fd9c658240e64e47af40823d082eeb2c.jpg" alt="NewsletterSubscription" class="img-lazy" width="300" height="214" />
+        </div>
+    
+
+    
+        <div class="newsletter-subscription__blurb">
+            
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10569/3121b072c2fe4f27afa28ccf3b954e64.png" alt="NewsletterSubscription" class="img-lazy" width="54" height="60" />
+            
+            
+                <p>
+                    Your daily dose of health info and news.
+                </p>
+            
+        </div>
+    
+
+    <a class="newsletter-subscription__btn" href="profile/newsletters" data-event-name="newsletters_link"
+        data-event-articleid="b8ce0a60-9b3a-4b0c-b704-714be4d41de3" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus"
+        data-event-container="newsletter-widget">
+        See all newsletters
+    </a>
+</div>
+<!--Brand Metrics Survey-->
+
+
+<!--Adslot : polar3 / Size: [[333,250]]-->
+    <div data-ad="true" data-adname="polar3" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[333,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;polar3&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="polar3" class="adblock"></div>
+
+<!--Adslot : mrec2 / Size: [[300,250],[300,600]]-->
+    <div data-ad="true" data-adname="mrec2" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[300,250],[300,600]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;mrec2&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mrec2" class="adblock"></div>
+
+
+
+<!-- Vote Widget -->
+
+    <link defer rel="stylesheet" href="/css/tenants/health24/widgets/vote/index.min.css?v=N5nSPK7D5DV77cr16C5xii_qxNyYQphhaYkT-6qsr8M" />
+
+    <div id="vote-widget-d133fe96-06fa-4a31-bb7f-966b337d68d3" class="vote-widget vote-widget--rhs tf-hidden">
+        <div class="vote-widget__header">
+            Voting Booth
+        </div>
+
+        <div class="vote-widget__question">
+            Have you entered our Health of the Nation survey?
+        </div>
+        <span class="vote-widget--alert" id="error">Please select an option</span>
+        <span class="vote-widget--alert" id="postError">Oops! Something went wrong, please try again later.</span>
+        <div class="vote-widget__form tf-show" id="vote">
+            <form role="form" id="form-d133fe96-06fa-4a31-bb7f-966b337d68d3">
+                <input type="hidden" value="d133fe96-06fa-4a31-bb7f-966b337d68d3" name="articleId" id="articleId" />
+                    <div class="vote-widget__input">
+                        <input type="radio" name="vote" id="ac9b2337-bcde-4a1a-b360-77f416d1111f" value="ac9b2337-bcde-4a1a-b360-77f416d1111f" class="vote-options" />
+                        <label for="ac9b2337-bcde-4a1a-b360-77f416d1111f">Yes</label>
+                    </div>
+                    <div class="vote-widget__input">
+                        <input type="radio" name="vote" id="f22baf75-44a3-496e-bd9f-fcfd0e27092f" value="f22baf75-44a3-496e-bd9f-fcfd0e27092f" class="vote-options" />
+                        <label for="f22baf75-44a3-496e-bd9f-fcfd0e27092f">No</label>
+                    </div>
+                <div id="voteActionsDiv" class="vote-widget__actions">
+                    <input type="submit" class="vote-btn" value="Vote" id="vote-button" data-event-name="vote_submit" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus" data-event-articleid="d133fe96-06fa-4a31-bb7f-966b337d68d3" data-event-container="vote-widget" data-event-optionid="" />
+                    <buttton class="results-btn" id="showResults" data-event-name="results_link" data-event-breadcrumb="health24/Medical/Infectious-diseases/Coronavirus" data-event-articleid="d133fe96-06fa-4a31-bb7f-966b337d68d3" data-event-container="vote-widget">Results</buttton>
+                </div>
+            </form>
+        </div>
+
+        
+
+
+<div class="vote-widget__results" id="results">
+        <div class="result">
+            <div class="result__title">Yes</div>
+            <div class="result__data">
+                30% - 9660 votes
+            </div>
+            <div class="result__bar">
+                <div class="result__bar-percentage" style='width: 30%'></div>
+            </div>
+        </div>
+        <div class="result">
+            <div class="result__title">No</div>
+            <div class="result__data">
+                70% - 22832 votes
+            </div>
+            <div class="result__bar">
+                <div class="result__bar-percentage" style='width: 70%'></div>
+            </div>
+        </div>
+
+    
+        <div id="voteResultsActionsDiv" class="vote-widget__actions">
+            <buttton class="vote-btn" id="showVote">Vote</buttton>
+        </div>
+    
+</div>
+
+        <div class="vote-widget__more-links">
+            <a href="/health24/vote" data-event-name="category_link" data-event-articleid="d133fe96-06fa-4a31-bb7f-966b337d68d3" data-event-breadcrumb="/health24/vote" data-event-container="vote-widget">Previous Results</a>
+        </div>
+    </div>
+
+    <script type="module">
+        import vote from './js/modules/vote.min.js?v=1.1.21279.6';
+        var articleId = document.getElementById('articleId').value;
+        new vote('#vote-widget-' + articleId, articleId, 'vote24_');
+    </script>
+
+<!--Adslot : mrec3 / Size: [[300,600],[300,250]]-->
+    <div data-ad="true" data-adname="mrec3" data-adzone="/8900/24.com/web/health24/Medical/Infectious-diseases/Coronavirus" data-sizes="[[300,600],[300,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;health24/medical/infectious-diseases/coronavirus&quot;,&quot;Topics&quot;:&quot;coronavirus&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;Health24&quot;,&quot;artid&quot;:&quot;bf2282f4-c498-4e5c-a607-c281309c3824&quot;,&quot;template_type&quot;:&quot;Article&quot;,&quot;adname&quot;:&quot;mrec3&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;Suspended&quot;:&quot;n&quot;,&quot;user_type&quot;:&quot;Anonymous&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;health24/Medical/Infectious-diseases/Coronavirus&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/health24/Medical/Infectious-diseases/Coronavirus/scientists-identify-order-in-which-covid-19-symptoms-appear-20200817-3&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mrec3" class="adblock"></div>
+
+    
+
+
+<!-- RHS Footer-->
+<div class="footer footer--rhs">
+    <div class="footer__app-links">
+        
+            <a href="https://apps.apple.com/us/app/news24-breaking-news-first/id310970460" target="_blank" data-event-container="rhs_footer" data-event-name="external_link" rel="noopener noreferrer">
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/540d50f67e974050a05779215414420a.svg" alt="Apple Store" class="img-lazy" width="150" height="45"/>
+            </a>
+        
+        
+            <a href="https://play.google.com/store/apps/details?id=com.news24.ui.core&amp;hl=en_za" target="_blank" data-event-container="rhs_footer" data-event-name="external_link" rel="noopener noreferrer">
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/2801b8f472f44ad38b9e54ae9b2adfd0.svg" alt="Google Play" class="img-lazy" width="150" height="45"/>
+            </a>
+        
+        
+    </div>
+        <nav class="footer__nav" role="navigation">
+            <ul>
+                    <li class="">
+                        <a href="mailto: george.claassen@media24.com " aria-label="Editorial Complaints" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">Editorial Complaints</a>
+                    </li>
+                    <li class="">
+                        <a href="mailto: tips@news24.com" aria-label="Tip-Offs" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">Tip-Offs</a>
+                    </li>
+                    <li class="">
+                        <a href="./about/press-code-20180917" aria-label="Press Code" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">Press Code</a>
+                    </li>
+                    <li class="">
+                        <a href="http://www.thespacestation.co.za/portfolio/news24/" aria-label="Advertise on News" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">Advertise on News</a>
+                    </li>
+                    <li class="">
+                        <a href="https://media24.simplify.hr/" aria-label="Jobs at 24.com" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">Jobs at 24.com</a>
+                    </li>
+                    <li class="">
+                        <a href="news24/about/about-us-20200520-8" aria-label="About us" target="_blank" data-event-container="rhs_footer" data-event-name="article_link" rel="noopener noreferrer">About us</a>
+                    </li>
+                    <li class="">
+                        <a href="https://www.news24.com/news24/about/frequently-asked-questions-20200121-5" aria-label="FAQs" target="_self" data-event-container="rhs_footer" data-event-name="article_link">FAQs</a>
+                    </li>
+            </ul>
+        </nav>
+<div class="footer__copyright">
+    &copy; 2021 (1.1.21279.6) 24.com. All rights reserved.
+    <div class="popia">
+            <a href="https://www.24.com/static/privacypolicy.htm" data-event-container="rhs_footer" data-event-name="terms_link" class="footer__btn" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>
+            <a href="https://www.media24.com/privacy-policy/" data-event-container="rhs_footer" data-event-name="privacy_link" class="footer__btn" target="_blank" rel="noopener noreferrer">Media24 Privacy Policy</a><br />
+    </div>
+        <a href="mailto:feedback@news24.com" data-event-container="rhs_footer" data-event-name="contact_us_link" class="footer__contact" target="_blank" rel="noopener noreferrer">Contact Us</a>
+    
+</div>
+    
+
+    <div class="footer__social">
+        <div class="footer__social-title">Follow:</div>
+        
+
+    <section class="social-links">
+        <div class="social-links-container">
+            <ul class="social-control">
+                    <li class="social-item facebook">
+                        <a href="https://www.facebook.com/health24" data-share="facebook" title="Facebook" aria-label="Facebook Social Share" target="_blank" class="social-item-link action" data-event-container="" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="https://cdn.24.co.za/files/Cms/General/d/9516/fb608781de864fc289f982a41768b537.png" class="social-item-img" alt="Facebook" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/health24com" data-share="twitter" title="Twitter" aria-label="Twitter Social Share" target="_blank" class="social-item-link action" data-event-container="" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="https://cdn.24.co.za/files/Cms/General/d/9516/1260978e642249759c65fa1da01df7ef.png" class="social-item-img" alt="Twitter" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item instagram">
+                        <a href="https://www.instagram.com/health24_sa" data-share="instagram" title="Instagram" aria-label="Instagram Social Share" target="_blank" class="social-item-link action" data-event-container="" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="https://cdn.24.co.za/files/Cms/General/d/9516/45b8fc35534c4102b402e8a44a968732.png" class="social-item-img" alt="Instagram" width="31" height="31"/>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+    </div>
+
+        <a href="https://www.iabsa.net/" data-event-container="rhs_footer" data-event-name="external_link">
+            <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/1cc353a874b94ae084ddce852e0894ca.png" alt="Iab Logo" class="footer__third-party img-lazy" width="65" height="35"/>
+        </a>
+</div>
+</div>
+<div class="tf-rhs-col--end"></div>
+
+<script type="module">
+    import stickyrhs from './js/modules/stickyrhs.min.js?v=1.1.21279.6';
+    new stickyrhs('.tf-lhs-col', '.tf-rhs-col--inner', '.tf-rhs-col--end');
+</script>
+
+
+</div>
+
+
+        </div>
+    </div>
+
+    
+    <!--Oovvuu Script View: Web-->
+    <link rel="preload" href="https://cdn.24.co.za/oovvuu/v1.9/ovu_rec.js" as="script" />
+    <script defer src="https://cdn.24.co.za/oovvuu/v1.9/ovu_rec.js" type="text/javascript"></script>
+
+
+
+    
+        <script src="/js/modules/pwa.min.js?v=zC2mJAl2ugT_frXwNGM0ovaegzv3xh4qeEPciIFCqxY" type="module"></script>
+        <script src="/js/modules/lazy.min.js?v=S9JdALginDXmt_P7J0IV1wG-i9wvxAjhc8WZjobMbFo" type="module"></script>
+        <script defer src="/js/modules/naas.min.js?v=Avd9OI9vCl5VDhOll36m0fdsJDPVUVz83fvLQLeS1X0" type="module"></script>
+        <script defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script"></script>
+        <!--Scripts: Footer-->
+
+    
+
+	<script nws-csp-add-nonce='true'>'serviceWorker'in navigator&&navigator.serviceWorker.register('/serviceworker', { scope: '/' })</script></body>
+
+</html>

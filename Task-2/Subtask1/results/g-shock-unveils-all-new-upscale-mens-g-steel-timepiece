@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <script type="text/javascript"></script>
+  <!--[if IE]>
+  <script type="text/javascript">document.createElement("header");document.createElement("footer");</script>
+  <script type="text/javascript" src="/sites/all/themes/bz2/js/excanvas.js"></script>
+  <![endif]-->
+  <script type="text/javascript">var ord = Math.random() * 10000000000000000</script>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+<script>InvestingChannelQueue = window.InvestingChannelQueue || [];</script>
+      <script defer src="https://u5.investingchannel.com/static/uat.js"></script>
+      <script>
+        var ic_page;
+        InvestingChannelQueue.push(function() { ic_page = InvestingChannel.UAT.Run("856729bc-429d-4b8d-8d68-ced83505ab1e"); });
+        var div1Tag;
+  InvestingChannelQueue.push(function() {
+    div1Tag = ic_page.defineTag("benzinga/equities","300x250,300x600,300x1050","ic_300x250_1");
+  });
+  
+      </script>
+<script charset="utf-8" type="text/javascript" src="https://js.hsforms.net/forms/v2.js"></script>
+<script>
+      var div2Tag;
+  InvestingChannelQueue.push(function() {
+    div2Tag = ic_page.defineTag("benzinga/equities","300x250,300x600,300x1050","ic_300x250_2");
+  });
+  
+    </script>
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script type="text/javascript" src="https://accounts.google.com/gsi/client" async defer></script>
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn.benzinga.com" />
+<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+          if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+          }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/benzinga-network/loader.js',
+        'tb_loader_script');
+        if(window.performance && typeof window.performance.mark == 'function')
+          {window.performance.mark('tbl_ic');}
+        </script>
+<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+          if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+          }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/benzinga-network/loader.js',
+        'tb_loader_script');
+        if(window.performance && typeof window.performance.mark == 'function')
+          {window.performance.mark('tbl_ic');}
+        </script>
+<link rel="shortcut icon" href="https://cdn.benzinga.com/files/bz2_favicon_3.ico" type="image/x-icon" />
+<script type="text/javascript">
+    function setUserSessionCountCookie(name, value) {
+      var expire = "; expires=";
+      var path = "; path=/";
+      document.cookie=name + "=" + escape(value) + expire + path;
+    }
+    function getUserSessionCountCookie(name) {
+      var c_value = document.cookie;
+      var c_start = c_value.indexOf(" " + name + "=");
+      if (c_start == -1) {
+        c_start = c_value.indexOf(name + "=");
+      }
+      if (c_start == -1) {
+        setUserSessionCountCookie(name, 1);
+        return 1;
+      }
+      else {
+        c_start = c_value.indexOf("=", c_start) + 1;
+        var c_end = c_value.indexOf(";", c_start);
+        if (c_end == -1) {
+          c_end = c_value.length;
+        }
+        c_value = unescape(c_value.substring(c_start,c_end));
+        c_value = parseInt(c_value)+1;
+        setUserSessionCountCookie(name, c_value);
+        return c_value;
+      }
+    }
+    var BZ_USERSESSION_COUNT = getUserSessionCountCookie("BZ_USERSESSION_COUNT");
+  </script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","headline":"G-SHOCK Unveils All-New, Upscale Men&#039;s G-STEEL Timepiece","url":"https:\/\/www.benzinga.com\/pressreleases\/20\/08\/n17121229\/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece","dateCreated":"2010-01-01T00:00:00Z","datePublished":"2020-08-17T14:17:00Z","dateModified":"2020-08-17T14:17:04Z","creator":"PRNewswire","author":"PRNewswire","@type":"NewsArticle","keywords":["pageType: NewsArticle","PageIsBzPro: BZ+PRO","tag: New Products\/Services","category: Press Releases"],"articleSection":"Press Releases","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.benzinga.com\/pressreleases\/20\/08\/n17121229\/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece"},"publisher":{"@type":"Organization","name":"Benzinga","logo":{"@type":"ImageObject","url":"https:\/\/cdn.benzinga.com\/sites\/all\/themes\/bz2\/images\/Benzinga_Logo_web-01.png"}},"image":[],"description":"DOVER, N.J., Aug. 17, 2020 \/PRNewswire\/ --\u00a0Today, Casio unveils an all-new addition to the popular G-SHOCK G-STEEL line up of men&#39;s refined timepieces. ..."}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsMediaOrganization","name":"Benzinga","email":"info@benzinga.com","legalName":"Benzinga","telephone":"877-440-9464","url":"https:\/\/www.benzinga.com\/","logo":"https:\/\/cdn.benzinga.com\/sites\/all\/themes\/bz2\/images\/Benzinga-logo-navy.svg","address":{"@type":"PostalAddress","addressLocality":"Detroit","addressRegion":"MI","postalCode":"48226","streetAddress":"1 Campus Martius Suite 200","addressCountry":"USA"},"sameAs":["https:\/\/www.facebook.com\/pages\/Benzingacom\/159483118580?v=app_7146470109","https:\/\/twitter.com\/benzinga","https:\/\/www.linkedin.com\/company\/benzinga","https:\/\/www.youtube.com\/user\/BenzingaTV"],"brand":[{"@type":"Brand","name":"Benzinga PreMarket Prep","url":"https:\/\/www.benzinga.com\/premarket-prep\/"},{"@type":"Brand","name":"Benzinga Markets","url":"https:\/\/www.benzinga.com\/markets\/"},{"@type":"Brand","name":"Benzinga Pro","url":"https:\/\/pro.benzinga.com\/"},{"@type":"Brand","name":"Benzinga Cloud","url":"https:\/\/cloud.benzinga.com\/"},{"@type":"Brand","name":"Benzinga Events","url":"https:\/\/benzingaevents.com\/"},{"@type":"Brand","name":"Benzinga Money","url":"https:\/\/www.benzinga.com\/money\/"},{"@type":"Brand","name":"Benzinga Marketfy","url":"https:\/\/marketfy.com\/"}]}</script>
+<meta name="description" content="DOVER, N.J., Aug. 17, 2020 /PRNewswire/ -- Today, Casio unveils an all-new addition to the popular G-SHOCK G-STEEL line up of men&#39;s refined timepieces. ..." />
+<meta name="language" content="English" />
+<meta name="copyright" content="Copyright 2014 Benzinga. All rights reserved." />
+<meta name="fo-verify" content="101a0095-334d-4935-b87e-0e8fc771214e" />
+<meta name="robots" content="max-image-preview:large">
+<meta property="Benzinga for iOS" content="app-id=688949481, app-argument=https://itunes.apple.com/us/app/id688949481">
+<meta property="fb:pages" content="159483118580" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@benzinga" />
+<meta property="og:site_name" content="Benzinga" />
+<link rel="amphtml" href="https://www.benzinga.com/amp/content/17121229">
+<meta property="og:url" content="https://www.benzinga.com/pressreleases/20/08/n17121229/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece" />
+<meta property="og:title" content="G-SHOCK Unveils All-New, Upscale Men's G-STEEL Timepiece" />
+<meta name="twitter:title" content="G-SHOCK Unveils All-New, Upscale Men's G-STEEL Timepiece" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="DOVER, N.J., Aug. 17, 2020 /PRNewswire/ -- Today, Casio unveils an all-new addition to the popular G-SHOCK G-STEEL line up of men&#39;s refined timepieces. The GSTB300 is the..." />
+<meta name="twitter:description" content="DOVER, N.J., Aug. 17, 2020 /PRNewswire/ -- Today, Casio unveils an all-new addition to the popular G-SHOCK G-STEEL line up of men&#39;s refined timepieces. The GSTB300 is the..." />
+<meta name="twitter:image" content="https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png" />
+<meta property="og:image" content="https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png" />
+<link rel="image_src" href="https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png" />
+<link rel="shorturl" id="shorturl" type="text/html" href="https://benzinga.com/z/17121229" />
+<link rel="canonical" href="https://www.benzinga.com/pressreleases/20/08/n17121229/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<meta name="DC.Subject" xml:lang="EN" content="G-SHOCK Unveils All-New, Upscale Men&amp;#039;s G-STEEL Timepiece" />
+<meta name="DC.Publisher" content="Benzinga" />
+<meta name="DC.Rights" content="Copyright 2021 Benzinga. All rights reserved." />
+<script>
+      InvestingChannelQueue.push(function() {
+            ic_page.renderTags();
+      });
+    </script>
+<meta property="fb:admins" content="648186192" />
+<meta name="Googlebot-News" content="nofollow" />
+  <title>G-SHOCK Unveils All-New, Upscale Men&#039;s G-STEEL Timepiece | Benzinga</title>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700italic,400italic,700|Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css'>
+  <link type="text/css" rel="stylesheet" media="all" href="https://cdn.benzinga.com/files/advagg_css/css_f7a1ee6244da21d9f7f829062f3f4f7e_536.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://cdn.benzinga.com/files/advagg_css/css_5a03c0756874c55b54a2e4b3115c2979_193.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://cdn.benzinga.com/files/advagg_css/css_c147fcc4c1d9a0285cbbc1adab3fb150_197.css" />
+  <!--[if lte IE 8]>
+	  <link rel="stylesheet" type="text/css" href="/sites/all/themes/bz2/css/ie.css" />
+  <![endif]-->
+  <script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_b0a147a3dbb311ae1f164f4adf10f723_1519.js"></script>
+<script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_26bf7f54862cd92e258d9b1491649e9f_839.js"></script>
+<script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_71981a984496046df33624784bf1d252_42.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","bzads":{"enable_ads":1},"bz2_site":{"base_url":"https:\/\/www.benzinga.com","base_url_protless":"\/\/www.benzinga.com","base_path":"\/","current_nid":"17121229","is_front":false,"is_bz_post":null,"is_bzpro_post":null,"marketDataSection":""},"bzApp":{"basePath":"\/sites\/all\/modules\/custom\/bz_watchlist\/","dataAPI":"\/\/data-api.benzinga.com"},"bz_js":{"analytics_properties":{"authorId":"60111","authorName":"PRNewswire","channels":"Press Releases","contentType":"newswire_story","authorType":"Staff","isBZisBZPRO":"BZ|PRO","campaignSponsorshipIsExternal":true,"pageType":"story"},"nodeCreated":"1597673820"},"drupal":{"arg":["node","17121229"]},"bz_partner_widget":{"baseUrl":"https:\/\/www.benzinga.com"},"bz_social":{"fbChannelURL":"https:\/\/www.benzinga.com\/sites\/all\/modules\/custom\/bz_social\/misc\/fb-channel.html"},"bzcustom":{"bzcustom_dest":"node\/17121229","autorefresh_node_page":true,"signup_popup":true},"disqus":{"url":"https:\/\/www.benzinga.com\/pressreleases\/20\/08\/n17121229\/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece","title":"G-SHOCK Unveils All-New, Upscale Men\u0026#039;s G-STEEL Timepiece","identifier":"node\/17121229","shortname":"bzdisqus"},"CToolsUrlIsAjaxTrusted":{"\/search\/fast":true},"baseUrl":"https:\/\/www.benzinga.com"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked){window.console&&console.error&&console.error("Segment snippet included twice.")}else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)};analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";analytics.load("wtomjaowem")}}();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node)})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function(){googletag.defineSlot('/4107070/Benzinga:Right-Sidebar:300x250-600:Middle',[[300,600],[300,1050],[300,250]],'div-gpt-ad-1584418576061-0').addService(googletag.pubads());googletag.defineSlot('/4107070/DotCom_OutOfPage_1x1',[1,1],'div-gpt-ad-1600833337481-0').addService(googletag.pubads());googletag.pubads().setTargeting("BZ_NID","17121229");googletag.pubads().setTargeting("BZ_AUTHOR","PRNewswire");googletag.pubads().setTargeting("BZ_CHANNEL",["Press Releases","16777"]);googletag.pubads().setTargeting("BZ_TAG",["New Products/Services"]);googletag.pubads().setTargeting("BZ_PTYPE","story");googletag.pubads().setTargeting("BZ_USERSESSION_COUNT",BZ_USERSESSION_COUNT);googletag.pubads().collapseEmptyDivs();googletag.enableServices()});
+//--><!]]>
+</script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/bz2/images/favicon-package/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/sites/all/themes/bz2/images/favicon-package/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/sites/all/themes/bz2/images/favicon-package/favicon-16x16.png">
+  <link rel="manifest" href="/sites/all/themes/bz2/images/favicon-package/site.webmanifest">
+  <link rel="mask-icon" href="/sites/all/themes/bz2/images/favicon-package/safari-pinned-tab-new.svg" color="#1177BA">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <script type="text/javascript"> </script>
+
+  <!-- Proxima Nova Font -->
+  <link rel="stylesheet" href="https://use.typekit.net/eul5jzm.css">
+  <!-- end -->
+</head>
+<body 
+  class="not-front not-logged-in page-node node-type-newswire-story no-sidebars"
+  data-ng-app="bzApp">
+  <a class="skip-main" href="#benzinga-main" target="_self">Skip to main content</a>
+    <div class="panel-pane pane-panels-mini pane-bz2-header" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="bz3-top-banner-header"></div>
+<div id="bz3-header">	
+	<div id="bz3-header-top-wrapper">
+		<div id="bz3-header-top">
+		  <div id="bz3-header-top-links">
+		    <ul>
+		      <li class="benzingapro">
+		        <a href="https://benzinga.grsm.io/benzingacomhomepage9510" target="_blank"><img src="/sites/all/modules/bzads/images/benzinga_logo-new-arrow.png" alt="Benzinga Pro Logo"></a>
+		      </li>
+		      <li class="bz-cloud-link">
+            <a href="http://cloud.benzinga.com" target="_blank" title="Benzinga Cloud Financial Data and API Services">Data &amp; APIs</a>
+          </li>
+          <li class="bz-events red-hover">
+            <a href="https://www.benzingaevents.com" target="_blank" title="Events">Events</a>
+          </li>
+          <li class="marketfy">
+		        <a href="http://marketfy.com" target="_blank">Marketfy</a>
+		      </li>
+          <li class="premarket-prep">
+            <a href="https://www.benzinga.com/premarket-prep/" target="_blank" title="Premarket Prep">Premarket Prep</a>
+          </li>
+		    </ul>
+		  </div>
+	  	<div id="bz3-header-top-content">
+                  <div class="panel-pane pane-block pane-bz-user-bz-user-login-header" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="login-header-items">  <ul>    <li class="second"><a href="/contribute">Contribute</a></li>    <li class="hide"><a href="/profile/portfolio/?action=login" id="user-login">Login</a></li>    <li  class="hide"><a href="/profile/portfolio/?action=register" id="user-register">Join</a></li>  </ul></div>  </div>
+
+  
+  </div>
+              </div> <!-- /bz3-header-top-content -->
+    </div> <!-- /bz3-header-top -->
+  </div> <!-- /bz3-header-top-wrapper -->
+  <div id="bz3-header-menu-wrapper">
+    <div id="bz3-header-menu">
+      <div id="bz-logo"><a href="/"><img src='/sites/all/themes/bz2/images/Benzinga-logo-navy.svg' alt='Benzinga Logo'></img></a></div>
+		          <div class="panel-pane pane-block pane-menu-block-3" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="menu-block-3 menu-name-menu-v3-main parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="expanded first menu-mlid-878822 news"><a href="/news" title="All corporate News" aria-label="News" tabindex="1"><span>News</span></a><ul class="menu"><li class="leaf first menu-mlid-878845 earnings"><a href="/news/earnings" title="" aria-label="Earnings" tabindex="1"><span>Earnings</span></a></li>
+<li class="leaf menu-mlid-878846 guidance"><a href="/news/guidance" title="" aria-label="Guidance" tabindex="1"><span>Guidance</span></a></li>
+<li class="leaf menu-mlid-878848 dividends"><a href="/news/dividends" title="" aria-label="Dividends" tabindex="1"><span>Dividends</span></a></li>
+<li class="leaf menu-mlid-878868 ma"><a href="/m-a" title="" aria-label="M&amp;A" tabindex="1"><span>M&A</span></a></li>
+<li class="leaf menu-mlid-878862 buybacks"><a href="/news/buybacks" title="" aria-label="Buybacks" tabindex="1"><span>Buybacks</span></a></li>
+<li class="leaf menu-mlid-878836 legal"><a href="/news/legal" title="" aria-label="Legal" tabindex="1"><span>Legal</span></a></li>
+<li class="leaf menu-mlid-1056501 interviews"><a href="/interview" title="" aria-label="Interviews" tabindex="1"><span>Interviews</span></a></li>
+<li class="leaf menu-mlid-878860 management"><a href="/news/management" title="" aria-label="Management" tabindex="1"><span>Management</span></a></li>
+<li class="leaf menu-mlid-878838 retailsales"><a href="/news/retail-sales" title="" aria-label="Retail Sales" tabindex="1"><span>Retail Sales</span></a></li>
+<li class="leaf menu-mlid-878844 offerings"><a href="/news/offerings" title="" aria-label="Offerings" tabindex="1"><span>Offerings</span></a></li>
+<li class="leaf menu-mlid-878839 ipos"><a href="/news/ipos" title="" aria-label="IPOs" tabindex="1"><span>IPOs</span></a></li>
+<li class="leaf menu-mlid-878861 insidertrades"><a href="/news/insider-trades" title="" aria-label="Insider Trades" tabindex="1"><span>Insider Trades</span></a></li>
+<li class="leaf menu-mlid-878863 biotechfda"><a href="/news/fda" title="" aria-label="Biotech/FDA" tabindex="1"><span>Biotech/FDA</span></a></li>
+<li class="leaf menu-mlid-1335263 freight"><a href="/topic/freight" title="" class="freight-menu" aria-label="Freight&lt;span class=&quot;freight-menu-logo&quot;&gt;&lt;/span&gt;" tabindex="1"><span>Freight<span class="freight-menu-logo"></span></span></a></li>
+<li class="leaf last menu-mlid-878821 tech"><a href="/tech" title="" aria-label="Tech" tabindex="1"><span>Tech</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-878820 markets"><a href="/markets" title="" aria-label="Markets" tabindex="1"><span>Markets</span></a><ul class="menu"><li class="leaf first menu-mlid-878853 premarket"><a href="/pre-market-outlook" title="" aria-label="Pre-Market" tabindex="1"><span>Pre-Market</span></a></li>
+<li class="leaf menu-mlid-878850 afterhours"><a href="/after-hours-center" title="" aria-label="After Hours" tabindex="1"><span>After Hours</span></a></li>
+<li class="leaf menu-mlid-878849 movers"><a href="/movers" title="" aria-label="Movers" tabindex="1"><span>Movers</span></a></li>
+<li class="leaf menu-mlid-878867 etfs"><a href="/etfs" title="" aria-label="ETFs" tabindex="1"><span>ETFs</span></a></li>
+<li class="leaf menu-mlid-878851 forex"><a href="/markets/forex" title="" aria-label="Forex" tabindex="1"><span>Forex</span></a></li>
+<li class="leaf menu-mlid-1529644 cannabis"><a href="https://www.benzinga.com/cannabis/" title="" aria-label="Cannabis" tabindex="1"><span>Cannabis</span></a></li>
+<li class="leaf menu-mlid-878858 commodities"><a href="/markets/commodities" title="" aria-label="Commodities" tabindex="1"><span>Commodities</span></a></li>
+<li class="leaf menu-mlid-878835 options"><a href="/markets/options" title="" aria-label="Options" tabindex="1"><span>Options</span></a></li>
+<li class="leaf menu-mlid-1034073 binaryoptions"><a href="/markets/binary-options" title="" aria-label="Binary Options" tabindex="1"><span>Binary Options</span></a></li>
+<li class="leaf menu-mlid-878829 bonds"><a href="/markets/bonds" title="" aria-label="Bonds" tabindex="1"><span>Bonds</span></a></li>
+<li class="leaf menu-mlid-878832 futures"><a href="/markets/futures" title="" aria-label="Futures" tabindex="1"><span>Futures</span></a></li>
+<li class="leaf menu-mlid-1536614 cmegroup"><a href="https://www.benzinga.com/author/cme-group" title="" aria-label="CME Group" tabindex="1"><span>CME Group</span></a></li>
+<li class="leaf menu-mlid-878837 globaleconomics"><a href="/economics" title="" aria-label="Global Economics" tabindex="1"><span>Global Economics</span></a></li>
+<li class="leaf menu-mlid-878866 previews"><a href="/trading-ideas/previews" title="" aria-label="Previews" tabindex="1"><span>Previews</span></a></li>
+<li class="leaf menu-mlid-878852 reviews"><a href="/reviews" title="" aria-label="Reviews" tabindex="1"><span>Reviews</span></a></li>
+<li class="leaf menu-mlid-878823 smallcap"><a href="/news/small-cap" title="" aria-label="Small-Cap" tabindex="1"><span>Small-Cap</span></a></li>
+<li class="leaf menu-mlid-1268115 cryptocurrency"><a href="/markets/cryptocurrency" title="" aria-label="Cryptocurrency" tabindex="1"><span>Cryptocurrency</span></a></li>
+<li class="leaf last menu-mlid-1366417 pennystocks"><a href="/topic/penny-stocks" title="" aria-label="Penny Stocks" tabindex="1"><span>Penny Stocks</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-878827 ratings"><a href="/analyst-ratings" title="" aria-label="Ratings" tabindex="1"><span>Ratings</span></a><ul class="menu"><li class="leaf first menu-mlid-878830 analystcolor"><a href="/analyst-ratings/analyst-color" title="" aria-label="Analyst Color" tabindex="1"><span>Analyst Color</span></a></li>
+<li class="leaf menu-mlid-878833 downgrades"><a href="/analyst-ratings/downgrades" title="" aria-label="Downgrades" tabindex="1"><span>Downgrades</span></a></li>
+<li class="leaf menu-mlid-878834 upgrades"><a href="/analyst-ratings/upgrades" title="" aria-label="Upgrades" tabindex="1"><span>Upgrades</span></a></li>
+<li class="leaf menu-mlid-878831 initiations"><a href="/analyst-ratings/initiation" title="" aria-label="Initiations" tabindex="1"><span>Initiations</span></a></li>
+<li class="leaf last menu-mlid-878828 pricetarget"><a href="/analyst-ratings/price-target" title="" aria-label="Price Target" tabindex="1"><span>Price Target</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-878825 ideas"><a href="/trading-ideas" title="Trading-Ideas" aria-label="Ideas" tabindex="1"><span>Ideas</span></a><ul class="menu"><li class="leaf first menu-mlid-878859 longideas"><a href="/trading-ideas/long-ideas" title="" aria-label="Long Ideas" tabindex="1"><span>Long Ideas</span></a></li>
+<li class="leaf menu-mlid-878865 shortideas"><a href="/trading-ideas/short-ideas" title="" aria-label="Short Ideas" tabindex="1"><span>Short Ideas</span></a></li>
+<li class="leaf menu-mlid-878842 technicals"><a href="/trading-ideas/technicals" title="" aria-label="Technicals" tabindex="1"><span>Technicals</span></a></li>
+<li class="leaf menu-mlid-878864 fromthepress"><a href="/media" title="" aria-label="From The Press" tabindex="1"><span>From The Press</span></a></li>
+<li class="leaf menu-mlid-878843 jimcramer"><a href="/media/jim-cramer" title="" aria-label="Jim Cramer" tabindex="1"><span>Jim Cramer</span></a></li>
+<li class="leaf menu-mlid-878841 rumors"><a href="/news/rumors" title="" aria-label="Rumors" tabindex="1"><span>Rumors</span></a></li>
+<li class="leaf menu-mlid-1481547 bestpennystocks"><a href="https://www.benzinga.com/money/best-penny-stocks/" title="Best Penny Stocks" aria-label="Best Penny Stocks" tabindex="1"><span>Best Penny Stocks</span></a></li>
+<li class="leaf menu-mlid-1522831 bestbluechipstocks"><a href="https://www.benzinga.com/money/top-10-blue-chip-stocks/" title="Best Blue Chip Stocks" aria-label="Best Blue Chip Stocks" tabindex="1"><span>Best Blue Chip Stocks</span></a></li>
+<li class="leaf menu-mlid-1522829 besthighvolumepennystocks"><a href="https://www.benzinga.com/money/best-high-volume-penny-stocks/" title="Best High-Volume Penny Stocks" aria-label="Best High-Volume Penny Stocks" tabindex="1"><span>Best High-Volume Penny Stocks</span></a></li>
+<li class="leaf menu-mlid-1522828 bestsp500etfs"><a href="https://www.benzinga.com/money/best-sp-500-etfs/" title="Best S&amp;P 500 ETFs" aria-label="Best S&amp;P 500 ETFs" tabindex="1"><span>Best S&P 500 ETFs</span></a></li>
+<li class="leaf menu-mlid-1522830 bestsmallcapetfs"><a href="https://www.benzinga.com/money/best-small-cap-etfs/" title="Best Small Cap ETFs" aria-label="Best Small Cap ETFs" tabindex="1"><span>Best Small Cap ETFs</span></a></li>
+<li class="leaf last menu-mlid-1522832 bestswingtradestocks"><a href="https://www.benzinga.com/money/best-swing-trade-stocks/" title="Best Swing Trade Stocks" aria-label="Best Swing Trade Stocks" tabindex="1"><span>Best Swing Trade Stocks</span></a></li>
+</ul></li>
+<li class="leaf menu-mlid-1120140 fintech"><a href="/fintech" title="" aria-label="Fintech" tabindex="1"><span>Fintech</span></a></li>
+<li class="expanded menu-mlid-1369730 personalfinance"><a href="http://www.benzinga.com/money/" title="" aria-label="Personal Finance" tabindex="1"><span>Personal Finance</span></a><ul class="menu"><li class="leaf first menu-mlid-1522835 stockbrokers"><a href="https://www.benzinga.com/money/online-stock-trading/" title="Stock Brokers" aria-label="Stock Brokers" tabindex="1"><span>Stock Brokers</span></a></li>
+<li class="leaf menu-mlid-1403007 forexbrokers"><a href="https://www.benzinga.com/money/best-forex-broker/" title="Forex Brokers" aria-label="Forex Brokers" tabindex="1"><span>Forex Brokers</span></a></li>
+<li class="leaf menu-mlid-1060619 personalfinance"><a href="/personal-finance" title="" aria-label="Personal Finance" tabindex="1"><span>Personal Finance</span></a></li>
+<li class="leaf menu-mlid-1522838 futuresbrokers"><a href="https://www.benzinga.com/money/best-brokers-futures-traders/" title="Futures Brokers" aria-label="Futures Brokers" tabindex="1"><span>Futures Brokers</span></a></li>
+<li class="leaf menu-mlid-1522840 cryptocurrencybrokers"><a href="https://www.benzinga.com/money/best-brokers-cryptocurrencies/" title="Cryptocurrency Brokers" aria-label="Cryptocurrency Brokers" tabindex="1"><span>Cryptocurrency Brokers</span></a></li>
+<li class="leaf menu-mlid-1487868 webull"><a href="https://www.benzinga.com/money/webull-review" title="" aria-label="Webull" tabindex="1"><span>Webull</span></a></li>
+<li class="leaf menu-mlid-1522841 binaryoptionbrokers"><a href="https://www.benzinga.com/money/best-binary-options-brokers/" title="Binary Option Brokers" aria-label="Binary Option Brokers" tabindex="1"><span>Binary Option Brokers</span></a></li>
+<li class="leaf menu-mlid-1522839 optionsbrokers"><a href="https://www.benzinga.com/money/best-brokers-for-options-traders/" title="Options Brokers" aria-label="Options Brokers" tabindex="1"><span>Options Brokers</span></a></li>
+<li class="leaf menu-mlid-1487867 etoro"><a href="https://www.benzinga.com/money/etoro-review" title="" aria-label="eToro" tabindex="1"><span>eToro</span></a></li>
+<li class="leaf menu-mlid-1522837 altcoinexchanges"><a href="https://www.benzinga.com/money/best-altcoin-exchanges/" title="Altcoin Exchanges" aria-label="Altcoin Exchanges" tabindex="1"><span>Altcoin Exchanges</span></a></li>
+<li class="leaf menu-mlid-1522836 allyinvestreview"><a href="https://www.benzinga.com/money/ally-invest-review/" title="Ally Invest Review" aria-label="Ally Invest Review" tabindex="1"><span>Ally Invest Review</span></a></li>
+<li class="leaf menu-mlid-1403005 binaryoptionsreview"><a href="https://www.benzinga.com/money/nadex-review/" title="" aria-label="Binary Options Review" tabindex="1"><span>Binary Options Review</span></a></li>
+<li class="leaf menu-mlid-1403012 eoptionreview"><a href="https://www.benzinga.com/money/eoption-review/" title="eOption Review" aria-label="eOption Review" tabindex="1"><span>eOption Review</span></a></li>
+<li class="leaf menu-mlid-1522833 etradereview"><a href="https://www.benzinga.com/money/etrade-review/" title="Etrade Review" aria-label="Etrade Review" tabindex="1"><span>Etrade Review</span></a></li>
+<li class="leaf menu-mlid-1403006 interactivebrokersreview"><a href="https://www.benzinga.com/money/interactive-brokers-review/" title="Interactive Brokers Review" aria-label="Interactive Brokers Review" tabindex="1"><span>Interactive Brokers Review</span></a></li>
+<li class="leaf menu-mlid-1403001 personalcapitalreview"><a href="https://www.benzinga.com/money/personal-capital-review/" title="" aria-label="Personal Capital Review" tabindex="1"><span>Personal Capital Review</span></a></li>
+<li class="leaf menu-mlid-1403000 suretraderreview"><a href="https://www.benzinga.com/money/suretrader-review/" title="Suretrader Review" aria-label="Suretrader Review" tabindex="1"><span>Suretrader Review</span></a></li>
+<li class="leaf menu-mlid-1403002 tdameritradereview"><a href="https://www.benzinga.com/money/td-ameritrade-review/" title="" aria-label="TD Ameritrade Review" tabindex="1"><span>TD Ameritrade Review</span></a></li>
+<li class="leaf menu-mlid-1403003 tradestationreview"><a href="https://www.benzinga.com/money/tradestation-review/" title="Tradestation Review" aria-label="Tradestation Review" tabindex="1"><span>Tradestation Review</span></a></li>
+<li class="leaf menu-mlid-1403004 yewnoedgereview"><a href="https://www.benzinga.com/money/yewno-edge-review/" title="Yewno|Edge Review" aria-label="Yewno|Edge Review" tabindex="1"><span>Yewno|Edge Review</span></a></li>
+<li class="leaf menu-mlid-1522834 cobratradingreview"><a href="https://www.benzinga.com/money/cobra-trading-review/" title="Cobra Trading Review" aria-label="Cobra Trading Review" tabindex="1"><span>Cobra Trading Review</span></a></li>
+<li class="leaf menu-mlid-1532024 etfbrokers"><a href="https://www.benzinga.com/money/best-brokers-for-etfs/" title="ETF Brokers" aria-label="ETF Brokers" tabindex="1"><span>ETF Brokers</span></a></li>
+<li class="leaf menu-mlid-1532026 mutualfundbrokers"><a href="https://www.benzinga.com/money/best-brokers-for-mutual-funds/" title="Mutual Fund Brokers" aria-label="Mutual Fund Brokers" tabindex="1"><span>Mutual Fund Brokers</span></a></li>
+<li class="leaf menu-mlid-1532014 indexfundbrokers"><a href="https://www.benzinga.com/money/best-online-brokers-for-index-funds/" title="Index Fund Brokers" aria-label="Index Fund Brokers" tabindex="1"><span>Index Fund Brokers</span></a></li>
+<li class="leaf menu-mlid-1532013 bondbrokers"><a href="https://www.benzinga.com/money/best-online-brokers-for-bonds/" title="Bond Brokers" aria-label="Bond Brokers" tabindex="1"><span>Bond Brokers</span></a></li>
+<li class="leaf menu-mlid-1532022 shortsellingbrokers"><a href="https://www.benzinga.com/money/best-broker-for-short-selling/" title="Short Selling Brokers" aria-label="Short Selling Brokers" tabindex="1"><span>Short Selling Brokers</span></a></li>
+<li class="leaf menu-mlid-1532015 stockapps"><a href="https://www.benzinga.com/money/best-stock-market-apps/" title="Stock Apps" aria-label="Stock Apps" tabindex="1"><span>Stock Apps</span></a></li>
+<li class="leaf menu-mlid-1532010 pennystocks"><a href="https://www.benzinga.com/money/best-penny-stocks/?stocks" title="Penny Stocks" aria-label="Penny Stocks" tabindex="1"><span>Penny Stocks</span></a></li>
+<li class="leaf menu-mlid-1532029 stocksunder5"><a href="https://www.benzinga.com/money/top-stocks-under-5/" title="Stocks Under $5" aria-label="Stocks Under $5" tabindex="1"><span>Stocks Under $5</span></a></li>
+<li class="leaf menu-mlid-1532032 stocksunder10"><a href="https://www.benzinga.com/money/stocks-under-10/" title="Stocks Under $10" aria-label="Stocks Under $10" tabindex="1"><span>Stocks Under $10</span></a></li>
+<li class="leaf menu-mlid-1532031 stocksunder20"><a href="https://www.benzinga.com/money/stocks-under-20/" title="Stocks Under $20" aria-label="Stocks Under $20" tabindex="1"><span>Stocks Under $20</span></a></li>
+<li class="leaf menu-mlid-1532020 stocksunder50"><a href="https://www.benzinga.com/money/best-stocks-under-50/" title="Stocks Under $50" aria-label="Stocks Under $50" tabindex="1"><span>Stocks Under $50</span></a></li>
+<li class="leaf menu-mlid-1532016 stocksunder100"><a href="https://www.benzinga.com/money/best-stocks-under-100/" title="Stocks Under $100" aria-label="Stocks Under $100" tabindex="1"><span>Stocks Under $100</span></a></li>
+<li class="leaf menu-mlid-1532027 investinart"><a href="https://www.benzinga.com/money/how-to-invest-in-artwork/" title="Invest in ArtInvest in Art" aria-label="Invest in Art" tabindex="1"><span>Invest in Art</span></a></li>
+<li class="leaf menu-mlid-1532035 investinland"><a href="https://www.benzinga.com/money/how-to-invest-in-farmland/" title="Invest in Land" aria-label="Invest in Land" tabindex="1"><span>Invest in Land</span></a></li>
+<li class="leaf menu-mlid-1532039 investinrealestate"><a href="https://www.benzinga.com/money/real-estate-investment/" title="Invest in Real Estate" aria-label="Invest in Real Estate" tabindex="1"><span>Invest in Real Estate</span></a></li>
+<li class="leaf menu-mlid-1532021 investinwine"><a href="https://www.benzinga.com/money/best-wine-investments/" title="Invest in Wine" aria-label="Invest in Wine" tabindex="1"><span>Invest in Wine</span></a></li>
+<li class="leaf menu-mlid-1532036 investingold"><a href="https://www.benzinga.com/money/how-to-invest-in-gold/" title="Invest in Gold" aria-label="Invest in Gold" tabindex="1"><span>Invest in Gold</span></a></li>
+<li class="leaf menu-mlid-1532023 auto"><a href="https://www.benzinga.com/money/auto-insurance/" title="Auto" aria-label="Auto" tabindex="1"><span>Auto</span></a></li>
+<li class="leaf menu-mlid-1532018 home"><a href="https://www.benzinga.com/money/home-insurance/" title="Home" aria-label="Home" tabindex="1"><span>Home</span></a></li>
+<li class="leaf menu-mlid-1532034 medicare"><a href="https://www.benzinga.com/money/medicare/" title="Medicare" aria-label="Medicare" tabindex="1"><span>Medicare</span></a></li>
+<li class="leaf menu-mlid-1532033 life"><a href="https://www.benzinga.com/money/life-insurance/" title="Life" aria-label="Life" tabindex="1"><span>Life</span></a></li>
+<li class="leaf menu-mlid-1532030 vision"><a href="https://www.benzinga.com/money/vision-insurance/" title="Vision" aria-label="Vision" tabindex="1"><span>Vision</span></a></li>
+<li class="leaf menu-mlid-1532019 dental"><a href="https://www.benzinga.com/money/dental-insurance/" title="Dental" aria-label="Dental" tabindex="1"><span>Dental</span></a></li>
+<li class="leaf menu-mlid-1532025 business"><a href="https://www.benzinga.com/money/best-business-insurance/" title="Business" aria-label="Business" tabindex="1"><span>Business</span></a></li>
+<li class="leaf menu-mlid-1532041 pet"><a href="https://www.benzinga.com/money/pet-insurance/" title="Pet" aria-label="Pet" tabindex="1"><span>Pet</span></a></li>
+<li class="leaf menu-mlid-1532017 health"><a href="https://www.benzinga.com/money/health-insurance/" title="Health" aria-label="Health" tabindex="1"><span>Health</span></a></li>
+<li class="leaf menu-mlid-1481618 masterworksreview"><a href="https://www.benzinga.com/money/masterworks-review/" title="Masterworks Review" aria-label="Masterworks Review" tabindex="1"><span>Masterworks Review</span></a></li>
+<li class="leaf menu-mlid-1532038 motorcycle"><a href="https://www.benzinga.com/money/motorcycle-insurance/" title="Motorcycle" aria-label="Motorcycle" tabindex="1"><span>Motorcycle</span></a></li>
+<li class="leaf menu-mlid-1532040 renters"><a href="https://www.benzinga.com/money/renters-insurance/" title="Renters" aria-label="Renters" tabindex="1"><span>Renters</span></a></li>
+<li class="leaf menu-mlid-1532028 workerscomp"><a href="https://www.benzinga.com/money/workers-compensation-insurance/" title="Workers Comp" aria-label="Workers Comp" tabindex="1"><span>Workers Comp</span></a></li>
+<li class="leaf menu-mlid-1532011 refinance"><a href="https://www.benzinga.com/money/best-refinance-mortgage/" title="Refinance" aria-label="Refinance" tabindex="1"><span>Refinance</span></a></li>
+<li class="leaf menu-mlid-1532012 purchase"><a href="https://www.benzinga.com/money/best-online-mortgage-lenders/" title="Purchase" aria-label="Purchase" tabindex="1"><span>Purchase</span></a></li>
+<li class="leaf last menu-mlid-1532037 findamortgagebroker"><a href="https://www.benzinga.com/money/mortgages/find/" title="Find a Mortgage Broker" aria-label="Find a Mortgage Broker" tabindex="1"><span>Find a Mortgage Broker</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-1507913 crypto"><a href="https://www.benzinga.com/markets/cryptocurrency" title="" aria-label="Crypto" tabindex="1"><span>Crypto</span></a><ul class="menu"><li class="leaf first menu-mlid-1507927 cryptonews"><a href="https://www.benzinga.com/cryptocurrency" title="Crypto News" aria-label="Crypto News" tabindex="1"><span>Crypto News</span></a></li>
+<li class="leaf menu-mlid-1507928 bitcoin"><a href="https://www.benzinga.com/money/is-bitcoin-a-good-investment/" title="Bitcoin" aria-label="Bitcoin" tabindex="1"><span>Bitcoin</span></a></li>
+<li class="leaf menu-mlid-1507930 ethereum"><a href="https://www.benzinga.com/money/is-ethereum-a-good-investment/" title="Ethereum" aria-label="Ethereum" tabindex="1"><span>Ethereum</span></a></li>
+<li class="leaf menu-mlid-1507932 blockchain"><a href="https://www.benzinga.com/money/what-is-blockchain/" title="Blockchain" aria-label="Blockchain" tabindex="1"><span>Blockchain</span></a></li>
+<li class="leaf menu-mlid-1507931 bestaltcoins"><a href="https://www.benzinga.com/money/best-alt-coins/" title="Best Alt Coins" aria-label="Best Alt Coins" tabindex="1"><span>Best Alt Coins</span></a></li>
+<li class="leaf last menu-mlid-1507929 howtobuycrypto"><a href="https://www.benzinga.com/money/how-to-buy-cryptocurrencies/" title="How to buy Crypto" aria-label="How to buy Crypto" tabindex="1"><span>How to buy Crypto</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-1517083 tv"><a href="https://www.benzinga.com/video" title="Tv" aria-label="TV" tabindex="1"><span>TV</span></a><ul class="menu"><li class="leaf first menu-mlid-1517082 youtube"><a href="https://www.youtube.com/benzinga" title="YouTube" aria-label="YouTube" tabindex="1"><span>YouTube</span></a></li>
+<li class="leaf menu-mlid-1522816 video"><a href="https://www.benzinga.com/video?sub" title="Video" aria-label="Video" tabindex="1"><span>Video</span></a></li>
+<li class="leaf last menu-mlid-1517084 podcasts"><a href="https://www.benzinga.com/podcasts" title="Podcasts" aria-label="Podcasts" tabindex="1"><span>Podcasts</span></a></li>
+</ul></li>
+<li class="expanded menu-mlid-1517081 tools"><a href="https://www.benzinga.com/calendars" title="Tools" class="tools-button" aria-label="Tools" tabindex="1"><span>Tools</span></a><ul class="menu"><li class="leaf first menu-mlid-1517092 earningscalendar"><a href="https://www.benzinga.com/news/earnings" title="Earnings Calendar" aria-label="Earnings Calendar" tabindex="1"><span>Earnings Calendar</span></a></li>
+<li class="leaf menu-mlid-1517093 ipocalendar"><a href="https://www.benzinga.com/news/ipos" title="IPO Calendar" aria-label="IPO Calendar" tabindex="1"><span>IPO Calendar</span></a></li>
+<li class="leaf menu-mlid-1517085 guidancecalendar"><a href="https://www.benzinga.com/calendar/guidance" title="Guidance Calendar" aria-label="Guidance Calendar" tabindex="1"><span>Guidance Calendar</span></a></li>
+<li class="leaf menu-mlid-1517089 fdacalendar"><a href="https://www.benzinga.com/calendars/fda" title="FDA Calendar" aria-label="FDA Calendar" tabindex="1"><span>FDA Calendar</span></a></li>
+<li class="leaf menu-mlid-1517091 dividendcalendar"><a href="https://www.benzinga.com/news/dividends" title="Dividend Calendar" aria-label="Dividend Calendar" tabindex="1"><span>Dividend Calendar</span></a></li>
+<li class="leaf menu-mlid-1517094 stocksplitcalendar"><a href="https://www.benzinga.com/stock-splits" title="Stock Split Calendar" aria-label="Stock Split Calendar" tabindex="1"><span>Stock Split Calendar</span></a></li>
+<li class="leaf menu-mlid-1517088 conferencecallcalendar"><a href="https://www.benzinga.com/conference-calls" title="Conference Call Calendar" aria-label="Conference Call Calendar" tabindex="1"><span>Conference Call Calendar</span></a></li>
+<li class="leaf menu-mlid-1517087 economiccalendar"><a href="https://www.benzinga.com/economics" title="Economic Calendar" aria-label="Economic Calendar" tabindex="1"><span>Economic Calendar</span></a></li>
+<li class="leaf menu-mlid-1517095 insidertrades"><a href="https://www.benzinga.com/sec/insider-trades/" title="Insider Trades" aria-label="Insider Trades" tabindex="1"><span>Insider Trades</span></a></li>
+<li class="leaf menu-mlid-1517090 tradeideafeed"><a href="https://www.benzinga.com/trade-ideas" title="Trade Idea Feed" aria-label="Trade Idea Feed" tabindex="1"><span>Trade Idea Feed</span></a></li>
+<li class="leaf menu-mlid-1517086 analystratings"><a href="https://www.benzinga.com/analyst-ratings" title="Analyst Ratings" aria-label="Analyst Ratings" tabindex="1"><span>Analyst Ratings</span></a></li>
+<li class="leaf last menu-mlid-1517096 unusualoptionsactivity"><a href="https://www.benzinga.com/options" title="Unusual Options Activity" aria-label="Unusual Options Activity" tabindex="1"><span>Unusual Options Activity</span></a></li>
+</ul></li>
+<li class="leaf last menu-mlid-1328712 premium"><a href="https://www.benzinga.com/premium-products" title="All premium products" class="premium-product-button" aria-label="Premium" tabindex="1"><span>Premium</span></a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+            <br style="clear: both;" />
+    </div>
+  </div>
+      <div id="bz3-header-messages-wrapper">
+          </div>
+  </div>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-panels-mini pane-bz2-site-header" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="bz3-tickerheader-wrapper">
+  <div id="bz3-tickerheader">
+          <div class="market-overview">
+        <div class="panel-pane pane-block pane-bz-custom-bz-custom-market-overview" >
+  
+      <h2 class="pane-title">Market Overview</h2>
+  
+  
+  <div class="pane-content">
+    
+  <div id="market-overview-block">
+  </div>
+    </div>
+
+  
+  </div>
+      </div>
+            <div class="block-head-items">
+      <div class="panel-pane pane-bz2-site-search-new" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="block-ticker-search"><form action="/search/fast"  accept-charset="UTF-8" method="get" id="bz-custom-search-form">
+<div><input type="hidden" name="cx" id="edit-cx" value="005794925877256802002:ckazbf3vrxs"  />
+<input type="hidden" name="cof" id="edit-cof" value="FORID:11"  />
+<div class="hide-label"><div class="form-item" id="edit-query-wrapper">
+ <label for="edit-query">Tickers, Articles and Keywords: </label>
+ <input type="text" maxlength="128" name="query" id="edit-query" size="20" value="" placeholder="Tickers, Articles &amp; Keywords" tabindex="0" class="form-text" />
+</div>
+</div><div id="custom-search-results"><div class="seperator"><h2>Tickers</h2></div><div class="tickers"></div><div class="seperator"><h2>Articles</h2></div><div class="stories"></div><div class="seperator"><h2>Keywords</h2></div><div class="keywords"><div class="item"><div class="title">Search by keyword...</div><span class="link">googlecse</span></div></div></div><button type="submit" style="font-family:iconic">&#xe810;</button><input type="hidden" name="form_build_id" id="form-rspHTqgCW6cjTw5_A7iWxKwE6tMJurccg2ne-olymBc" value="form-rspHTqgCW6cjTw5_A7iWxKwE6tMJurccg2ne-olymBc"  />
+<input type="hidden" name="form_id" id="edit-bz-custom-search-form" value="bz_custom_search_form"  />
+
+</div></form>
+</div>  </div>
+
+  
+  </div>
+    </div>
+        <div class="enddiv"></div>
+  </div> <!-- bz3-tickerheader -->
+</div> <!-- bz3-tickerheader-wrapper -->
+
+      <div id="banner-ad">
+        <div class='ads-block'>
+                    </div>
+      </div>
+      <div id="bz-campaign-text-header" class="bz-campaign-text-header"></div>
+  </div>
+
+  
+  </div>
+<div id="benzinga-main-wrapper">
+  <div id="benzinga-main" name="benzinga-main">
+    <div class="benzinga-content">
+      <div id="benzinga-article-area-wrapper" >
+          
+          <div class="benzinga-content">
+            <div class="panel-pane pane-page-content" >
+  
+  
+  
+  <div class="pane-content">
+    
+
+  
+  <div class="article-content">
+    <h1 id="title">G-SHOCK Unveils All-New, Upscale Men's G-STEEL Timepiece</h1>
+    <div id="node-17121229" class="node full">
+                    <div class="article-submitted">
+
+          
+              <div class="article-submitted-content">
+                <div class="article-author-wrap" data-ng-controller="articleDetail">
+  <span class="author">
+    <a href="/users/newswire" class="author-name">PRNewswire</a>   </span>
+
+  
+  <span class="separator">&nbsp;</span>
+  <!--googleoff: index-->
+  <span data-nosnippet>
+    <button
+     title="Subscribe to PRNewswire"
+     class="follow-author"
+     data-ng-class="{following: following}"
+     data-ng-click="follow('PRNewswire')"
+     data-ng-init="authorName = 'PRNewswire'"
+     data-ng-cloak>
+      {{following ? "Following" : "Follow"}}
+    </button>
+  </span>
+  <!--googleon: index-->
+  </div>
+                <div class="article-date-wrap">
+                  <span class="date">
+                    August 17, 2020 10:17am                  </span>
+                  <span class="separator">&nbsp;</span>
+                  <a class="bz-comments" data-bz-coments="">Comments</a>
+                </div>
+              </div>
+            </div>
+
+            <div>
+                        </div>
+
+            <div class="article-buttons-container">
+              <div class="article-buttons article-buttons-top article-share-buttons">
+                <div class="article-share-buttons-title">Share:</div>
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c5a5d5e9ee2e573"></script><div id="inline-addthis-share" class="addthis_toolbox addthis_default_style addthis_32x32_style"><a class="addthis_button_linkedin"></a><a class="addthis_button_twitter"></a><a class="addthis_button_facebook"></a><a class="addthis_button_mailto"></a><a class="addthis_button_compact"></a></div>              </div>
+            </div>
+
+                
+        <div class="content clear-block">
+          <div class="article-content-body">
+                        <div id="bz-campaign-text-top" class="bz-campaign-text-top"></div>
+            
+                              <div class="article-content-body-only">
+                  <div id="daily-report-subscription-link"></div><p xmlns="http://www.w3.org/1999/xhtml"><span xmlns="http://www.w3.org/1999/xhtml" class="xn-location">DOVER, N.J.</span>, <span xmlns="http://www.w3.org/1999/xhtml" class="xn-chron">Aug. 17, 2020</span> /PRNewswire/ -- Today, <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=1381022610&amp;u=https%3A%2F%2Fwww.casio.com%2Fhome&amp;a=Casio" rel="nofollow" rel="nofollow">Casio</a> unveils an all-new addition to the popular <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=215924951&amp;u=https%3A%2F%2Fwww.gshock.com%2F&amp;a=G-SHOCK" rel="nofollow" rel="nofollow">G-SHOCK</a> G-STEEL line up of men&#39;s refined timepieces. The GSTB300 is the first G-STEEL watch with a front light button, which adopts a new Carbon Core Guard structure that delivers superior shock resistance by leveraging the lightness and outstanding rigidity of carbon fiber. The model also boasts a sleek, tough look with a stainless-steel bezel, black dial and polyurethane band.</p><div id="bz-campaign-text-middle" class="bz-campaign-text-middle"></div><div id="inline-container"class="in-article-placement-container"></div>
+<div xmlns="http://www.w3.org/1999/xhtml" class="PRN_ImbeddedAssetReference" id="DivAssetPlaceHolder1">
+<p xmlns="http://www.w3.org/1999/xhtml">
+                        <a xmlns="http://www.w3.org/1999/xhtml" href="https://mma.prnewswire.com/media/1229008/Casio_G_SHOCK_timepiece.html" target="_blank" rel="nofollow" rel="nofollow"><br />
+                    <img xmlns="http://www.w3.org/1999/xhtml" src="https://mma.prnewswire.com/media/1229008/Casio_G_SHOCK_timepiece.jpg" title="" alt="" /><br />
+                        </a>
+                </p>
+</div>
+<p xmlns="http://www.w3.org/1999/xhtml">The new G-STEEL model showcases the perfect combination of elevated strength and updated technical features with a Carbon Core Guard Structure comprised of a carbon fiber reinforced resin case and Tough Solar Power. The battery indicator at the 6 o&#39;clock position, designed to evoke a brake disk, shows the remaining battery power by an arrow pointer and a curved red bar, providing visually interesting ways to check the battery charge level. In addition, large stainless-steel buttons and a thin case back contributes to the model&#39;s high-end look.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">As for functions, in addition to automatic time adjustment via Bluetooth<sup xmlns="http://www.w3.org/1999/xhtml">&#174;</sup> when paired with G-SHOCK Connected App, the watch features world time setting for over 300 cities as well as various alarm and countdown timer settings, all easy to use. It is also equipped with other practical functions such as the Tough Solar, solar charging system developed by Casio, and a high-luminosity full auto double LED light. As part of the release, G-SHOCK has unveiled an exclusive landing page and video taking consumers through the features, which can be viewed<span xmlns="http://www.w3.org/1999/xhtml" id="spanHghltd80a"> </span><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=2774773028&amp;u=https%3A%2F%2Fwww.gshock.com%2Fcollections%2Fgstb300&amp;a=HERE" rel="nofollow" rel="nofollow"><span xmlns="http://www.w3.org/1999/xhtml" id="spanHghlt6817">HERE</span></a>. </p>
+<p xmlns="http://www.w3.org/1999/xhtml">The <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=3079783605&amp;u=https%3A%2F%2Fwww.gshock.com%2Fwatches%2Fg-steel%2Fgstb300s-1a&amp;a=GSTB300S-1A" rel="nofollow" rel="nofollow">GSTB300S-1A</a> comes equipped with additional G-SHOCK technology including:</p>
+<ul xmlns="http://www.w3.org/1999/xhtml" type="disc">
+<li xmlns="http://www.w3.org/1999/xhtml">200M water resistance </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Shock resistance </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Solar Powered </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Hand Retract Function </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Super Illuminator Double LED Light </li>
+<li xmlns="http://www.w3.org/1999/xhtml">World time (39 time zones + UTC) </li>
+<li xmlns="http://www.w3.org/1999/xhtml">1/1000 Sec. Stopwatch </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Countdown timer </li>
+<li xmlns="http://www.w3.org/1999/xhtml">5 Multi-Function Alarms </li>
+<li xmlns="http://www.w3.org/1999/xhtml">Full-auto calendar</li>
+</ul>
+<p xmlns="http://www.w3.org/1999/xhtml">The <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=3079783605&amp;u=https%3A%2F%2Fwww.gshock.com%2Fwatches%2Fg-steel%2Fgstb300s-1a&amp;a=GSTB300S-1A" rel="nofollow" rel="nofollow">GSTB300S-1A</a> will retail for <span xmlns="http://www.w3.org/1999/xhtml" class="xn-money">$330</span> and will be available for purchase starting this September at select G-SHOCK retailers, the G-SHOCK Soho Store and <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=2121551963&amp;u=https%3A%2F%2Fwww.gshock.com%2F&amp;a=gshock.com" rel="nofollow" rel="nofollow">gshock.com</a>.</p>
+<p xmlns="http://www.w3.org/1999/xhtml"><b xmlns="http://www.w3.org/1999/xhtml">About G-SHOCK<br xmlns="http://www.w3.org/1999/xhtml" /></b><i xmlns="http://www.w3.org/1999/xhtml">CASIO&#39;s shock-resistant G-SHOCK watch is synonymous with toughness, born from the developer Mr. Ibe&#39;s dream of &#39;creating a watch that never breaks&#39;. Over 200 handmade samples were created and tested to destruction until finally in 1983 the first, now iconic G-SHOCK hit the streets of <span xmlns="http://www.w3.org/1999/xhtml" class="xn-location">Japan</span> and began to establish itself as &#39;the toughest watch of all time&#39;. Each watch encompasses the 7 elements; electric shock resistance, gravity resistance, low temperature resistance, vibration resistance, water resistance, shock resistance and toughness. The watch is packed with Casio innovations and technologies to prevent it from suffering direct shock; this includes internal components protected with urethane and suspended timekeeping modules inside the watch structure. Since its launch, G-SHOCK has continued to evolve, continuing to support on Mr. Ibe&#39;s mantra &#34;never, never give up.&#34; <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=1118696970&amp;u=https%3A%2F%2Fwww.gshock.com%2F&amp;a=www.gshock.com" rel="nofollow" rel="nofollow">www.gshock.com</a></i><b xmlns="http://www.w3.org/1999/xhtml"> </b></p>
+<p xmlns="http://www.w3.org/1999/xhtml"><b xmlns="http://www.w3.org/1999/xhtml">About <span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Casio America</span>, Inc.<br xmlns="http://www.w3.org/1999/xhtml" /></b><i xmlns="http://www.w3.org/1999/xhtml"><span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Casio America</span>, Inc., <span xmlns="http://www.w3.org/1999/xhtml" class="xn-location">Dover, N.J.</span>, is the U.S. subsidiary of Casio Computer Co., Ltd., <span xmlns="http://www.w3.org/1999/xhtml" class="xn-location">Tokyo, Japan</span>, one of the world&#39;s leading manufacturers of consumer electronics and business equipment solutions. Established in 1957, <span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Casio America</span>, Inc. markets calculators, keyboards, mobile presentation devices, disc title and label printers, watches, cash registers and other consumer electronic products. Casio has strived to realize its corporate creed of &#34;creativity and contribution&#34; through the introduction of innovative and imaginative products. For more information, visit </i><i xmlns="http://www.w3.org/1999/xhtml"><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=2886868-1&amp;h=1896282991&amp;u=http%3A%2F%2Fwww.casio.com%2F&amp;a=www.casio.com%2Fhome" rel="nofollow" rel="nofollow">www.casio.com/home</a></i></p>
+<p xmlns="http://www.w3.org/1999/xhtml"><b xmlns="http://www.w3.org/1999/xhtml">FOR MEDIA INQUIRIES CONTACT:<br xmlns="http://www.w3.org/1999/xhtml" /></b><span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Rachel Shandler</span> / <span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Jonathan Moll</span><br xmlns="http://www.w3.org/1999/xhtml" />M&amp;C Saatchi Sport &amp; Entertainment <span xmlns="http://www.w3.org/1999/xhtml" class="xn-location">NYC</span><br xmlns="http://www.w3.org/1999/xhtml" /><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="mailto:Rachel.Shandler@mcsaatchi.com" rel="nofollow" rel="nofollow">Rachel.Shandler@mcsaatchi.com</a><br xmlns="http://www.w3.org/1999/xhtml" /><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="mailto:jonathan.moll@mcsaatchi.com" rel="nofollow" rel="nofollow">Jonathan.Moll@mcsaatchi.com</a></p>
+<p xmlns="http://www.w3.org/1999/xhtml"><span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Sue Vander Schans</span> / <span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Sofia Izurieta</span><br xmlns="http://www.w3.org/1999/xhtml" /><span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">CASIO AMERICA</span>, INC.<br xmlns="http://www.w3.org/1999/xhtml" />(973) 361-5400<br xmlns="http://www.w3.org/1999/xhtml" /><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="mailto:SVanderSchans@casio.com" rel="nofollow" rel="nofollow">SVanderSchans@casio.com</a> <br xmlns="http://www.w3.org/1999/xhtml" /><a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="mailto:sizurieta@casio.com" rel="nofollow" rel="nofollow">SIzurieta@casio.com</a></p>
+<div xmlns="http://www.w3.org/1999/xhtml" class="PRN_ImbeddedAssetReference" id="DivAssetPlaceHolder2">
+</div>
+<p xmlns="http://www.w3.org/1999/xhtml" id="PURL"><img xmlns="http://www.w3.org/1999/xhtml" title="Cision" width="12" height="12" alt="Cision" src="https://c212.net/c/img/favicon.png?sn=PH93464&amp;sd=2020-08-17" /> View original content to download multimedia:<a xmlns="http://www.w3.org/1999/xhtml" id="PRNURL" rel="nofollow" href="http://www.prnewswire.com/news-releases/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece-301112989.html" rel="nofollow">http://www.prnewswire.com/news-releases/g-shock-unveils-all-new-upscale-mens-g-steel-timepiece-301112989.html</a></p>
+<p xmlns="http://www.w3.org/1999/xhtml">SOURCE  <span xmlns="http://www.w3.org/1999/xhtml" class="xn-person">Casio America</span>, Inc.</p>
+<div id="benzinga-pro-awareness-link"></div>                </div>
+                                  
+                    <div id="bz-campaign-text-bottom" class="bz-campaign-text-bottom"></div>
+                                        
+                    
+                    
+                    <a id="show-comments-button">View Comments and Join the Discussion!</a>
+                    <div style="clear: both;font-size:1px;line-height:1px;" class="article-content-end">&nbsp;</div>
+                  </div>
+
+                  
+                <div id="disqus_thread"></div><noscript><div class="disqus-noscript"><a href="http://bzdisqus.disqus.com/?url=https%3A%2F%2Fwww.benzinga.com%2Fpressreleases%2F20%2F08%2Fn17121229%2Fg-shock-unveils-all-new-upscale-mens-g-steel-timepiece">View the discussion thread.</a></div></noscript>                <div id="primisVideoDiv"></div><div id='unit_98167'><a href='https://mixi.media/' rel='nofollow'></a></div>
+          <script type='text/javascript' charset='utf-8' defer>
+            (function() {
+              var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+              sc.src = '//mixi.media/data/js/98167.js'; sc.charset = 'utf-8';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+            }());
+          </script><div id="taboola-below-article-thumbnails"></div>
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({
+            mode: 'thumbnails-a',
+            container: 'taboola-below-article-thumbnails',
+            placement: 'Below Article Thumbnails',
+            target_type: 'mix'
+          });
+        </script><div id="taboola-below-article-thumbnails"></div>
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({
+            mode: 'thumbnails-a',
+            container: 'taboola-below-article-thumbnails',
+            placement: 'Below Article Thumbnails',
+            target_type: 'mix'
+          });
+        </script>              </div>
+            </div>
+          </div>
+        </div>
+
+  
+  </div>
+          </div>
+              </div>
+    </div>
+          <div class="benzinga-blocks">
+        <div class="panel-pane pane-bz2-right-sidebar-unit" >
+  
+  
+  
+  <div class="pane-content">
+    <div id='ic_300x250_1'></div><div class="panel-region-separator"></div><div id="benzinga-newsletter-signup">
+  <div class="form-container">
+    <div class="header">
+      <div class="logo">
+        <img src="https://cdn.benzinga.com/sites/all/themes/bz2/images/icon-mail.gif" alt="bz-mail-logo-gif">
+      </div>
+      <div class="header-text">
+        Don't Miss Any Updates!
+      </div>
+      <div class="sub-header-text">
+        News Directly in Your Inbox
+      </div>
+    </div>
+    <div class="input-container">
+      <form
+        id='form'
+        action=''
+        method="POST"
+      >
+        <div class="slogan">
+          Subscribe to:
+        </div>
+        <div class="form-selection">
+          <div class="trading-daily">
+            <input type="checkbox" name="form" value="tradingdaily" id="trading-checkbox" checked>
+            <label for="trading-checkbox" class="hide">Benzinga Premarket Activity</label>
+            <div class="description">
+              <div class="form-title description" id="trading-checkbox-title">Benzinga Premarket Activity</div>
+              <div class="form-summary">Get pre-market outlook, mid-day update and after-market roundup emails in your inbox.</div>
+            </div>
+          </div>
+          <div class="market-in-five">
+            <input type="checkbox" name="form" value="marketin5" id="market-checkbox" checked>
+            <label for="market-checkbox" class="hide">Market in 5 Minutes</label>
+            <div class="description">
+              <div class="form-title" id="market-checkbox-title">Market in 5 Minutes</div>
+              <div class="form-summary">Everything you need to know about the market - quick & easy.</div>
+            </div>
+          </div>
+          <div class="fintech-focus">
+            <input type="checkbox" name="form" value="fintechfocus" id="fintech-focus-checkbox" checked>
+            <label for="fintech-focus-checkbox" class="hide">Fintech Focus</label>
+            <div class="description">
+              <div class="form-title description" id="fintech-focus-checkbox-title">Fintech Focus</div>
+              <div class="form-summary">A daily collection of all things fintech, interesting developments and market updates.</div>
+            </div>
+          </div>
+          <div class="zoltan-spac">
+            <input type="checkbox" name="form" value="zoltanspac" id="zoltan-spac-checkbox" checked>
+            <div class="description">
+              <div class="form-title description" id="zoltan-spac-checkbox-title">SPAC</div>
+              <div class="form-summary">Everything you need to know about the latest SPAC news.</div>
+            </div>
+          </div>
+        </div>
+        <div class="input-email-row">
+          <label for="input-email">Email</label>
+          <input
+            id="input-email"
+            class="input-email"
+            name="email"
+            placeholder="mail@example.com"
+            type="text"
+            tabindex="0"
+          />
+        </div>
+        <input
+          class="input-submit"
+          type="button"
+          value="SUBSCRIBE"
+        />
+      </form>
+      <div class="thankyou-container">
+        <div class="thankyou-header">
+          <div class="thankyou-header-main">Thank You</div>
+        </div>
+        <div class="thankyou-body">
+          <p>Thank you for subscribing! If you have any questions feel free to call us at 1-877-440-ZING or email us at <a href="mailto:vipaccounts@benzinga.com">vipaccounts@benzinga.com</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-region-separator"></div>      <div class="google_ad">
+        <!-- Benzinga:Right-Sidebar:300x250-600:Middle -->
+        <div id='div-gpt-ad-1584418576061-0'></div>
+      </div><div class="panel-region-separator"></div><div id='ic_300x250_2'></div><div class="panel-region-separator"></div>  </div>
+
+  
+  </div>
+      </div>
+        <div class="enddiv"></div>
+  </div> <!-- benzinga main -->
+</div>
+<div class="panel-pane pane-panels-mini pane-bz2-footer" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="benzinga-footer">
+  <div class="section-footer">
+    <div class="container w-container">
+      <div class="branding-and-socials">
+        <a href="https://www.benzinga.com/" tabindex="1"><img src="/sites/all/themes/bz2/images/footer/Benzinga_Logo_web-03.png" alt="Benzinga Logo Footer" class="benzinga-logo"></a>
+        <div class="social-media-wrapper">
+          <div class="icon-wrapper">
+            <a href="https://www.facebook.com/Benzinga/" tabindex="1"><div class="facebook-icon"></div></a>
+          </div>
+          <div class="icon-wrapper">
+            <a href="https://twitter.com/benzinga" tabindex="1"><div class="twitter-icon"></div></a>
+          </div>
+          <div class="icon-wrapper">
+            <a href="https://www.instagram.com/benzinga/?hl=en" tabindex="1"><div class="instagram-icon"></div></a>
+          </div>
+          <div class="icon-wrapper">
+            <a href="https://www.youtube.com/benzinga" tabindex="1"><div class="youtube-icon"></div></a>
+          </div>
+          <div class="icon-wrapper">
+            <a href="https://soundcloud.com/bztv" tabindex="1"><div class="soundcloud-icon"></div></a>
+          </div>
+        </div>
+        <div class="app-store-wrapper">
+          <a href="https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481" tabindex="1" aria-label="App Store"><div class="app-store-button-wrapper"></div></a>
+        </div>
+      </div>
+      <div class="divider-footer"></div>
+      <div class="links-container">
+        <div class="popular-channels-div">
+          <div class="link-title">Popular Channels</div>
+          <ul class="list w-list-unstyled">
+            <li class="footer-link"><a href="https://www.benzinga.com/premarket-prep/" tabindex="1" aria-label="PreMarket Prep" class="footer-link">PreMarket Prep</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/pressreleases" class="footer-link" tabindex="1" aria-label="Press Releases">Press Releases</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/analyst-ratings" class="footer-link" tabindex="1" aria-label="Analyst Ratings">Analyst Ratings</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/news" class="footer-link" tabindex="1" aria-label="News">News</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/markets/options" class="footer-link" tabindex="1" aria-label="Options">Options</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/etfs" class="footer-link" tabindex="1" aria-label="ETFs">ETFs</a></li>
+          </ul>
+        </div>
+        <div class="tools-and-features-div">
+          <div class="link-title">Tools &amp; Features</div>
+          <ul class="list w-list-unstyled">
+            <li class="footer-link"><a href="https://pro.benzinga.com/" class="footer-link" tabindex="1" aria-label="Real Time Feed">Real Time Feed</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/feeds/list" class="footer-link" tabindex="1" aria-label="Public RSS Feeds">Public RSS Feeds</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/contact" class="footer-link" tabindex="1" aria-label="Submit News Tips">Submit News Tips</a></li>
+            <li class="footer-link"><a href="https://pro.benzinga.com/blog/" class="footer-link" tabindex="1" aria-label="Blog">Blog</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/partners/widgets" class="footer-link" tabindex="1" aria-label="News Widget">News Widget</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/catalyst" class="footer-link" tabindex="1" aria-label="Benzinga Catalyst">Benzinga Catalyst</a></li>
+          </ul>
+        </div>
+        <div class="partner-footer-links-div">
+          <div class="link-title">Partners &amp; Contributors</div>
+          <ul class="list w-list-unstyled">
+            <li class="footer-link"><a href="https://benzinga.partnerstack.com/" class="footer-link" tabindex="1" aria-label="Affiliate Program">Affiliate Program</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/contribute" class="footer-link" tabindex="1" aria-label="Contributor Portal">Contributor Portal</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/apis/" class="footer-link" tabindex="1" aria-label="Licensing &amp; Syndication">Licensing &amp; Syndication</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/apis/advertising/" class="footer-link" tabindex="1" aria-label="Sponsored Content">Sponsored Content</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/contact/" class="footer-link" tabindex="1" aria-label="Advertise With Us">Advertise With Us</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/contact/" class="footer-link" tabindex="1" aria-label="Lead Generation &amp; SEO">Lead Generation &amp; SEO</a></li>
+          </ul>
+        </div>
+        <div class="about-benzinga-div">
+          <div class="link-title">About Benzinga</div>
+          <ul class="list w-list-unstyled">
+            <li class="footer-link"><a href="https://www.benzinga.com/about" class="footer-link" tabindex="1" aria-label="About Us">About Us</a></li>
+            <li class="footer-link"><a href="https://jobs.benzinga.com/" class="footer-link" tabindex="1" aria-label="Careers">Careers</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/inthenews" class="footer-link" tabindex="1" aria-label="In The News">In The News</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/events/" class="footer-link" tabindex="1" aria-label="Events">Events</a></li>
+            <li class="footer-link"><a href="https://www.benzinga.com/contact" class="footer-link" tabindex="1" aria-label="Contact Us">Contact Us</a></li>
+            <li class="footer-link">&nbsp;</li>
+          </ul>
+        </div>
+        <div class="international-sites-div">
+          <div class="link-title">International Sites</div>
+          <ul class="list w-list-unstyled">
+            <li class="footer-link"><a href="https://it.benzinga.com/" class="footer-link" tabindex="1" aria-label="Benzinga Italia">Benzinga Italia</a></li>
+            <li class="footer-link"><a href="https://es.benzinga.com/" class="footer-link" tabindex="1" aria-label="Benzinga España">Benzinga España</a></li>
+            <li class="footer-link"><a href="https://fr.benzinga.com/" class="footer-link" tabindex="1" aria-label="Benzinga France">Benzinga France</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright-section">
+    <div class="copyright-container w-container">
+      <div class="terms-and-conditions">
+        <ul class="terms-and-conditions-footerl-links w-list-unstyled">
+          <li class="copyright-section-link"><a href="https://www.benzinga.com/terms-and-conditions" class="copyright-section-link" tabindex="1" aria-label="Terms &amp; Conditions">Terms &amp; Conditions </a></li>
+          <li class="copyright-section-link"><a href="https://www.benzinga.com/page/privacy" class="copyright-section-link" tabindex="1" aria-label="Privacy Policy / Do Not Sell My Personal Data">Privacy Policy / Do Not Sell My Personal Data</a></li>
+          <li class="copyright-section-link"><a href="https://www.benzinga.com/disclaimer" class="copyright-section-link" tabindex="1" aria-label="Disclaimer">Disclaimer </a></li>
+          <li class="copyright-section-link"><a href="http://www.benzingastatus.com/" class="copyright-section-link" tabindex="1" aria-label="Service Status">Service Status</a></li>
+          <li class="copyright-section-link"><a href="https://www.benzinga.com/sitemap" class="copyright-section-link" tabindex="1" aria-label="Sitemap">Sitemap</a></li>
+        </ul>
+      </div>
+      <div class="copyright-div">
+        <div class="copyright-block">&copy; 2021 Benzinga | All Rights Reserved</div>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+  
+  <div id="closure"><script src="https://www.benzinga.com/sites/all/libraries/benzinga-ticker-widget/js/highcharts.js"></script><script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_c40252da2e6fd68d435aa6f12e3ec5b6_28.js"></script>
+<script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_7720b84b6be9946604d2a1d57555da8d_420.js"></script>
+<script type="text/javascript" src="https://cdn.benzinga.com/files/advagg_js/js_9bee3973d696bd506f5ab304293660bc_1146.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){setTimeout(function(){googletag.cmd.push(function(){googletag.display('div-gpt-ad-1584418576061-0')})},100)});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){setTimeout(function(){googletag.cmd.push(function(){googletag.display('div-gpt-ad-1600833337481-0')})},100)});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var analyticsProperties={};if(typeof Drupal.settings.bz_js!=='undefined'&&typeof Drupal.settings.bz_js.analytics_properties!=='undefined'){analyticsProperties=Drupal.settings.bz_js.analytics_properties;if(typeof Drupal.settings.bz_js.nodeCreated!=='undefined'){var nodeCreated=Drupal.settings.bz_js.nodeCreated,today=Date.now()/1e3,numberOfDays=(today-nodeCreated)/(60*60*24);if(numberOfDays>2e3){ageOfArticle=1e4}else{var rangeArray=[0,1,2,3,5,7,10,15,20,30,60,90,180,365,730,1e3,2e3];for(var i in rangeArray)if(numberOfDays<=rangeArray[i]&&numberOfDays>rangeArray[i-1]){ageOfArticle=rangeArray[i];break}};analyticsProperties.ageOfArticle=ageOfArticle}};analytics.page(analyticsProperties);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.init({appId:"6af422c5-5278-4b15-964b-4c66dc3ce247",welcomeNotification:{disable:true}});var notificationPromptDelay=2e4,navigationStart=window.performance.timing.navigationStart,timeNow=Date.now();setTimeout(promptAndSubscribeUser,Math.max(notificationPromptDelay-(timeNow-navigationStart),0))})
+function promptAndSubscribeUser(){window.OneSignal.isPushNotificationsEnabled(function(isEnabled){if(!isEnabled)window.OneSignal.showSlidedownPrompt()})}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      function insertAfter(el, referenceNode) {
+        referenceNode.parentNode.insertBefore(el, referenceNode.nextSibling);
+      }
+      // Add an event listener on delay of 5 sec
+      document.addEventListener("article-adv-inserted", function(e) {
+        setTimeout(() => {
+           var script = document.createElement("script");
+           script.src = "https://live.primis.tech/live/liveView.php?s=108449";
+           if (document.getElementById("bz-campaign-text-middle") !== null){
+             var ref = document.getElementById("bz-campaign-text-middle");
+           } else {
+             var ref = document.getElementById("primisVideoDiv");
+           }
+           insertAfter(script, ref);
+          }, 5000)
+      });
+      // Dispatch/Trigger/Fire the event after 1 sec after loading tooltipwidget
+      setTimeout(() => {
+        document.dispatchEvent(event);
+      }, 1000)
+      
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){$('.article-content-body-only').bztooltipwidget({inlineQuoteDisplay:true,debug:false})});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._taboola=window._taboola||[];_taboola.push({flush:true});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._taboola=window._taboola||[];_taboola.push({flush:true});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var addthis_share=addthis_share||{};addthis_share={url:"https://benzinga.com/z/17121229",passthrough:{twitter:{text:"G-SHOCK Unveils All-New, Upscale Men's G-STEEL Timepiece ",hashtags:"",via:"benzinga"}}}
+//--><!]]>
+</script>
+</div>
+</body>
+</html>

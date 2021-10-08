@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--[if lt IE 7]>  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>     <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>     <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>A team of international physicists join forces in hunt for sterile neutrinos</title>
+		<meta name="viewport" content="width=device-width">
+
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://news.fnal.gov/xmlrpc.php">
+
+		<!--wordpress head-->
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="A team of international physicists join forces in hunt for sterile neutrinos" />
+	<meta property="og:description" content="The MINOS+ and Daya Bay neutrino experiments combine results to produce most stringent test yet for the existence of sterile neutrinos." />
+	<meta property="og:url" content="https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/" />
+	<meta property="og:site_name" content="News" />
+	<meta property="article:publisher" content="http://www.facebook.com/Fermilab" />
+	<meta property="article:published_time" content="2020-08-10T15:43:43+00:00" />
+	<meta property="article:modified_time" content="2020-08-10T15:54:18+00:00" />
+	<meta property="og:image" content="https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="417" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@fermilab" />
+	<meta name="twitter:site" content="@fermilab" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="leah" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://news.fnal.gov/#website","url":"https://news.fnal.gov/","name":"News","description":"Fermilab news","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://news.fnal.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/#primaryimage","inLanguage":"en-US","url":"https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg","contentUrl":"https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg","width":800,"height":417,"caption":"The MINOS+ and Daya Bay neutrino experiments have combined results to produce most stringent test yet for the existence of sterile neutrinos. In the MINOS+ experiment, Fermilab accelerators sent a beam of muon neutrinos through a detector located on the Fermilab site. The beam traveled 450 miles underground to a far detector, pictured here, in northern Minnesota. Photo: Reidar Hahn, Fermilab"},{"@type":"WebPage","@id":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/#webpage","url":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/","name":"A team of international physicists join forces in hunt for sterile neutrinos","isPartOf":{"@id":"https://news.fnal.gov/#website"},"primaryImageOfPage":{"@id":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/#primaryimage"},"datePublished":"2020-08-10T15:43:43+00:00","dateModified":"2020-08-10T15:54:18+00:00","author":{"@id":"https://news.fnal.gov/#/schema/person/25dd6f3c2827db29b7c29f39c91fca07"},"breadcrumb":{"@id":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/"]}]},{"@type":"BreadcrumbList","@id":"https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://news.fnal.gov/"},{"@type":"ListItem","position":2,"name":"A team of international physicists join forces in hunt for sterile neutrinos"}]},{"@type":"Person","@id":"https://news.fnal.gov/#/schema/person/25dd6f3c2827db29b7c29f39c91fca07","name":"leah","image":{"@type":"ImageObject","@id":"https://news.fnal.gov/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/a04dbb25d08b803c9063b915044779e6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a04dbb25d08b803c9063b915044779e6?s=96&d=mm&r=g","caption":"leah"},"url":"https://news.fnal.gov/author/leah/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<meta property="og:url" content="https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/"/><meta property="og:title" content="A team of international physicists join forces in hunt for sterile neutrinos"/><meta property="og:image" content="https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg"/><meta name="twitter:card" content="summary"></meta><meta property="twitter:url" content="https://news.fnal.gov/2020/08/a-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos/"/><meta property="twitter:title" content="A team of international physicists join forces in hunt for sterile neutrinos"/><meta property="twitter:image" content="https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg"/><meta property="og:description" content="The MINOS+ and Daya Bay neutrino experiments combine results to produce most stringent test yet for the existence of sterile neutrinos."/><meta property="twitter:description" content="The MINOS+ and Daya Bay neutrino experiments combine results to produce most stringent test yet for the existence of sterile neutrinos."/>                <meta property="og:image:width" content="800"/>
+                <meta property="og:image:height" content="417"/>
+
+            		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/news.fnal.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='fnal-eo-css-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/event-organiser/css/eo.css?ver=2.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://news.fnal.gov/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://news.fnal.gov/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fnal-child-global-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/css/global.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fnal-child-pages-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/css/pages.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fnal-child-widgets-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/css/widgets.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fnal-newsroom-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/css/news.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/css/vendor/font-awesome.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/css/vendor/slick.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/bootstrap/dist/css/bootstrap.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/bootstrap/dist/css/bootstrap-theme.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fnal-basic-global-style-css'  href='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/css/main.min.css?ver=2.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://news.fnal.gov/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=5.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://news.fnal.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/event-organiser/js/eo.js?ver=5.8.1' id='fnal-eo-js-js'></script>
+<script type='text/template' id='tmpl-eo-booking-form-gateway-paypal'><div id="eo-booking-form-gateway-paypal-errors" class="eo-booking-form-field-errors" role="alert"></div>
+
+<button class="eo-booking-form-paynow" id="eo-booking-form-paynow-paypal">
+    Pay with PayPal</button>
+<span class="eo-booking-form-waiting"></span></script>
+<script type='text/template' id='tmpl-eo-booking-form-gateway-offline'><div class="eo-booking-form-offline-instructions">
+    </div>
+
+<div id="eo-booking-form-gateway-offline-errors" class="eo-booking-form-field-errors" role="alert"></div>
+
+<button class="eo-booking-form-paynow" id="eo-booking-form-paynow-offline">
+    Pay offline</button>
+<span class="eo-booking-form-waiting"></span></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/plugins/wonderplugin-gallery/engine/wonderplugingallery.js?ver=14.2C' id='wonderplugin-gallery-script-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/js/qtip2.js?ver=5.8.1' id='fnal-qtip2-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/js/fnal-event-organiser.js?ver=5.8.1' id='fnal-child-scripts-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/vendor/modernizr.min.js?ver=5.8.1' id='modernizr-script-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/vendor/respond.min.js?ver=5.8.1' id='respond-script-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/vendor/html5shiv.js?ver=5.8.1' id='html5-shiv-script-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/vendor/jquery-migrate-1.4.0.min.js?ver=5.8.1' id='jquery-migrate-script-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/vendor/slick.min.js?ver=5.8.1' id='slick-script-js'></script>
+<link rel="https://api.w.org/" href="https://news.fnal.gov/wp-json/" /><link rel="alternate" type="application/json" href="https://news.fnal.gov/wp-json/wp/v2/posts/241089" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.fnal.gov/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://news.fnal.gov/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://news.fnal.gov/?p=241089' />
+<link rel="alternate" type="application/json+oembed" href="https://news.fnal.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.fnal.gov%2F2020%2F08%2Fa-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.fnal.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.fnal.gov%2F2020%2F08%2Fa-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos%2F&#038;format=xml" />
+    <meta name="google-site-verification" content="NbeCcc_0WPeTqGGtXdNfFFK_4o0S1gJnEQea8ua7TBg" />
+    			<link rel="shortcut icon" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/favicon.ico" type="image/x-icon" />
+			<link rel="apple-touch-icon" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon.jpg" />
+			<link rel="apple-touch-icon" sizes="57x57" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-57x57.jpg" />
+			<link rel="apple-touch-icon" sizes="72x72" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-72x72.jpg" />
+			<link rel="apple-touch-icon" sizes="76x76" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-76x76.jpg" />
+			<link rel="apple-touch-icon" sizes="114x114" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-114x114.jpg" />
+			<link rel="apple-touch-icon" sizes="120x120" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-120x120.jpg" />
+			<link rel="apple-touch-icon" sizes="144x144" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-144x144.jpg" />
+			<link rel="apple-touch-icon" sizes="152x152" href="https://news.fnal.gov/wp-content/themes/fermilab-newsroom/assets/img/apple-touch-icon-152x152.jpg" />
+					<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+
+Click the help icon above to learn more.
+*/
+
+/* Captcha */
+.mc4wp-form-theme input[type=text] {
+  padding: 8px 6px;
+}
+
+.wp-caption {
+ margin-right: auto !important;
+}
+
+.wp-caption.alignleft {
+ margin-right: 25px !important;
+}
+
+/* Fact Sheets and Brochures */
+@media only screen and (max-width : 480px) {
+#Facts > div.col:nth-child(odd),
+#Brochures > div.col:nth-child(odd){
+	clear: both;
+}
+}
+
+@media (min-width: 481px) and (max-width: 992px) {
+#Facts > div.col:nth-child(3n+1),
+#Brochures > div.col:nth-child(3n+1){
+	clear: both;
+}
+}
+
+@media (min-width: 993px) {
+#Facts > div.col:nth-child(4n+1),
+#Brochures > div.col:nth-child(4n+1){
+	clear: both;
+}
+}
+
+/* Latest News Widget */
+.page-id-112758 .fnal_listposts .published {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.page-id-121676 .fnal_listposts .published {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* Carousel Fix */
+.page-template-template-faw-landing-page .photo_box #gallery_carousel .carousel-control {
+	height: 79%;
+}
+
+/* iframe Fix */
+.iframe-container {
+  margin-top: 0 !important;
+}
+.tag-dune.iframe-container .content-inner {
+    padding-bottom: 40px;
+}
+
+/* tempoorary layout fix for fermi at work news */
+.page-template-template-faw-landing-page .lab_news .posts-image {
+	margin: 0;
+}
+.page-template-template-faw-landing-page .photo_box #gallery_carousel .carousel-control>span {
+	top: 150px;
+}
+@media only screen and (max-width : 400px) {
+.page-template-template-faw-landing-page .photo_box #gallery_carousel .carousel-control>span {
+	top: 100px;
+}
+
+}
+
+
+.page-template-template-faw-landing-page .photo_box #gallery_carousel .carousel-inner .faw-photo-landscape > a {
+    height: auto;
+    max-height:320px;	
+}
+
+		</style>
+			</head>
+	<body class="post-template-default single single-post postid-241089 single-format-standard fnal-external">
+		<!--[if lt IE 8]>
+			<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
+
+		<div id="page" class="container page-container">
+			
+            <!--//========== print-only header ==========//-->
+            <div class="print-only print-only-header">
+                <div class="inner header-inner">
+                    <a href="https://www.fnal.gov/" title="Fermilab"><img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/logo-fnal-md.png" alt="Fermilab" class="logo-fnal"></a>              </div><!-- /.inner content-inner -->
+            </div><!-- /.print-only-header -->
+            <!--//========== NED: print-only header ==========//-->
+
+
+            <!--//========== header ==========//-->
+
+        	<header id="header" class="row no-header-slider">
+              <div class="inner header-inner">
+
+                <div id="toggle-region" class="col-lg-3 col-md-3 col-sm-4">
+                    <button type="button" class="btn toggle search-toggle" data-toggle="collapse" data-target="#top-search">
+                        Search Toggle
+                    </button>
+
+                    <!-- https://www.fnal.gov/ -->
+                    <div id="logo">
+                        <a href="https://www.fnal.gov/" title="Fermilab">
+                            <a href="https://www.fnal.gov/" title="Fermilab"><img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/logo-fnal-md.png" alt="Fermilab" class="logo-fnal"></a>                        </a>
+                    </div>
+
+                    <button type="button" class="btn toggle navbar-toggle" data-toggle="collapse" data-target="#navigation">
+                        Navbar Toggle
+                    </button>
+                </div><!-- /#toggle-region -->
+
+
+                <div id="collapse-region" class="col-lg-9 col-md-9 col-sm-8">
+
+                    <div class="inner collapse-region-inner">
+
+                        <div id="top-search" class="collapse search-collapse">
+                        	<div class="inner top-search-inner">
+                                <form method="get" id="mainsearch" name="f"  class="form-inline" role="form">
+                                    <input type="hidden" value="en" name="hl">
+                                    <input type="hidden" value="UTF-8" name="ie">
+                                    <input type="hidden" value="UTF-8" name="oe">
+                                    <input type="hidden" value="allfnal" name="col">
+                                    <input type="hidden" value="Search using Google" name="btnG1">
+                                    <input type="hidden" value="allfnal" name="col">
+                                    <input type="hidden" value="fnalcd" name="col">
+
+
+                                    <div class="form-group form-group-fields">
+                                        <label for="q">Search</label>
+                                        <input type="text" class="form-control search-text" maxlength="255" id="q" name="q">
+                                    </div><!-- /.form-group -->
+                                    <div class="form-group form-group-button">
+                                        <button type="submit" class="btn btn-search">
+                                            <i class="fa fa-search"></i>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div><!-- /.inner .top-search-inner -->
+                        </div><!-- /.top-search .collapse -->
+
+                        <nav id="navigation" class="collapse navbar-collapse" role="navigation">
+
+                            <!-- centralized navrow1 --><!--//============================================
+============ Nav Row #1 ==========================
+=============================================//-->
+<ul class="nav navbar-nav nav-row-01">
+	<li class="first dropdown">
+		<a href="https://www.fnal.gov/">Home</a>
+	</li>
+
+	<li class="dropdown">
+		<a href="https://www.fnal.gov/pub/about/index.html">About</a>
+	</li>
+
+	<li class="dropdown">
+		<a href="https://www.fnal.gov/pub/science/index.html">Science</a>
+	</li>
+
+	<li class="dropdown">
+		<a href="https://jobs.fnal.gov/">Jobs</a>
+	</li>
+
+	<li class="dropdown">
+		<a href="https://www.fnal.gov/pub/contact/index.html">Contact</a>
+	</li>
+
+	<li class="last dropdown">
+		<a href="https://tele.fnal.gov/">Phone Book</a>
+	</li>
+
+</ul><!-- /.nav nav-row-01 -->
+<!--//============================================
+============ END: Nav Row #1 =====================
+=============================================//-->
+<!-- centralized navrow2-ext --><!--//============================================
+============ Nav Row #2 ==========================
+=============================================//-->
+<ul class="nav navbar-nav nav-row-02">
+
+    <li class="dropdown mega-menu">
+      <a href="https://news.fnal.gov" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">
+        Newsroom</a>
+        <ul class="dropdown-menu">
+            <li>
+                <!--//====== mega-menu ======//-->
+                <div class="mega-menu-content">
+
+                    <h3 class="title"><a href="https://news.fnal.gov">Newsroom</a></h3>
+
+                    <div class="row">
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+                            <h5><a href="https://news.fnal.gov/newsroom/news/">News and features</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/category/newsroom/press-release/">Press releases</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/category/in-the-news/">Fermilab in the news</a></h5>
+
+                            <h5><a href="https://vms.fnal.gov/gallery">Photo, video and graphics galleries</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://news.fnal.gov/newsroom/fact-sheets-and-brochures/">Fact sheets and brochures</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/newsroom/contact/">Media contacts</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/newsroom/press-release-sign-up/">Press release sign-up</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/newsroom/subscribe-to-fermilab-frontiers/">Subscribe to our public newsletter</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://news.fnal.gov/newsroom/social-media/">Social media</a></h5>
+
+                            <h5><a href="http://www.symmetrymagazine.org/">Symmetry magazine</a></h5>
+
+                            <h5><a href="http://interactions.org">Interactions.org</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+                    </div><!-- /.row -->
+
+                </div><!-- /.mega-menu-content -->
+                <!--//====== /mega-menu ======//-->
+            </li>
+    </ul>
+  </li>
+
+      <li class="dropdown mega-menu">
+      <a href="https://lbnf-dune.fnal.gov/" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">
+        DUNE at LBNF</a>
+  </li>
+
+    <li class="dropdown mega-menu">
+      <a href="https://www.fnal.gov/pub/visiting/index.html" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">
+        Come visit us</a>
+        <ul class="dropdown-menu">
+            <li>
+                <!--//====== mega-menu ======//-->
+                <div class="mega-menu-content">
+
+                    <h3 class="title"><a href="https://www.fnal.gov/pub/visiting/index.html">Come visit us</a></h3>
+
+                    <div class="row">
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://www.fnal.gov/pub/visiting/hours/index.html">Hours and site access</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/visiting/directions/index.html">Map and directions</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/visiting/tours/index.html">Tours, programs and events</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/visiting/transportation/index.html">Transportation</a></h5>
+
+                            </div><!-- /.mega-menu-col -->
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://ed.fnal.gov">Education and Outreach</a></h5>
+
+                            <h5><a href="https://calendar.fnal.gov/public/">Calendar of public events</a></h5>
+
+                            <h5><a href="https://events.fnal.gov/">Fermilab Public Events</a></h5>
+
+                            <h5><a href="https://ed.fnal.gov/lsc">Lederman Science Center</a></h5>
+
+                             </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://ecology.fnal.gov/outdoor-recreation/">Fermilab outdoor recreation</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/orgs/folkclub/folkdance.html">Folk and Barn Dancing</a></h5>
+
+                            <h5><a href="https://news.fnal.gov/newsroom/subscribe-to-fermilab-frontiers/">Subscribe to our public newsletter</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+                            <!--
+                            <h5><a href="#">Link name</a></h5>
+
+                            <ul>
+                              <li><a href="#">Link name</a></li>
+                                <li><a href="#">Link name</a></li>
+                                <li><a href="#">Link name</a></li>
+                            </ul>
+                            -->
+                        </div><!-- /.mega-menu-col -->
+                    </div><!-- /.row -->
+
+
+                </div><!-- /.mega-menu-content -->
+                <!--//====== /mega-menu ======//-->
+            </li>
+    </ul>
+    </li>
+
+    <li class="dropdown mega-menu">
+      <a href="https://www.fnal.gov/pub/resources/index.html" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">
+        Resources for</a>
+        <ul class="dropdown-menu">
+            <li>
+                <!--//====== mega-menu ======//-->
+                <div class="mega-menu-content">
+
+                    <h3 class="title"><a href="https://www.fnal.gov/pub/resources/index.html">Resources for</a></h3>
+
+                    <div class="row">
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://news.fnal.gov/fermilab-at-work/">Employees</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/resources/index.html#researchers">Researchers</a></h5>
+
+                            <h5><a href="https://jobs.fnal.gov">Job seekers</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://www.fnal.gov/pub/visiting/">Visitors</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/resources/index.html#neighbors">Neighbors</a></h5>
+
+                            <h5><a href="https://www.fnal.gov/pub/resources/industrial-partnerships/index.html">Industry</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+
+                        <div class="mega-menu-col col-md-4 col-sm-4">
+
+                            <h5><a href="https://www.fnal.gov/pub/resources/index.html#students-teachers">Students and teachers</a></h5>
+
+                            <h5><a href="https://news.fnal.gov">Media</a></h5>
+
+                        </div><!-- /.mega-menu-col -->
+                    </div><!-- /.row -->
+
+                </div><!-- /.mega-menu-content -->
+                <!--//====== /mega-menu ======//-->
+            </li>
+    </ul>
+    </li>
+
+</ul>
+
+                            <!-- /.nav nav-row-02 -->
+                            <!--//============================================
+                            ============ END: Nav Row #2 =====================
+                            =============================================//-->
+
+
+                        </nav><!-- /.navbar-collapse -->
+
+                    </div><!-- /.inner .collapse-region-inner -->
+
+                </div><!-- /#collapse-region -->
+
+            </div><!-- /.inner -->
+
+
+            <!--//=============================================
+            ========== Header Photo= ========================
+            ==============================================//-->
+            <div id="header-photo">
+                <div class="inner header-photo-inner subpage">
+
+                    <div class="item">
+                    	<!-- default (STATIC) header photo
+                         <img src="/img/header-photos/13-0146-02D.jpg" alt="feature photo" class="item-object default">
+                         -->
+
+                     	
+                         <style>
+                            #metaslider_container_ .nivo-controlNav, #metaslider_container_  .nivo-directionNav {
+                                display: none !important;
+                            }
+                            #metaslider_container_ .flex-direction-nav, #metaslider_container_ .flex-control-paging{
+                                display: none !important;
+                            }
+                            #metaslider_container_ .rslides_nav, #metaslider_container_ .rslides_tabs {
+                                display: none !important
+                            }
+                            #metaslider_container_ .cs-buttons {
+                                display: none !important
+                            }
+                         </style>
+
+                        <div class="item-body header-title">
+                            <h1>
+                                News                            </h1>
+                        </div><!-- /.item-body .header-title -->
+
+                    </div><!-- /.item -->
+
+                </div><!-- /.inner .header-photo-inner -->
+            </div><!-- /#header-photo -->
+            <!--//=============================================
+            ========== END: Header Photo= ===================
+            ==============================================//-->
+
+      </header>
+      <!--//========== /header ==========//-->
+
+
+		<!--//========== main content ==========//-->
+      <div id="main" class="row">
+          <div class="inner main-inner">
+
+<div id="sidebar-left" class="col-sm-3 sidebar first">
+
+   <div id="toggle-region-v2" class="col-lg-3 col-md-3 col-sm-4">
+      <button type="button" class="btn toggle navbar-toggle" data-toggle="collapse" data-target="#secondary-menu,#sidebar-left-nav,#sidebar-widgets-bottom">
+         Navbar Toggle
+      </button>
+  </div><!-- /#toggle-region-v2 -->
+  
+        
+     <div class="left-sidebar-container">
+     
+        <div class="sidebar-navigation">
+        <nav id="secondary-menu" class="collapse navbar-collapse" role="navigation">
+    
+            <!-- name of menu -->
+                         
+             <div class="menu-wrapper">
+             <div class="menu-newsroom-container"><ul id="menu-newsroom" class="menu"><li id="menu-item-7838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-7838 dropdown"><a href="http://news.fnal.gov/">Newsroom</a>
+<ul class="sub-menu">
+	<li id="menu-item-7837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7837"><a href="https://news.fnal.gov/newsroom/news/">News and features</a></li>
+	<li id="menu-item-7189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7189"><a href="https://news.fnal.gov/category/newsroom/press-release/">Press releases</a></li>
+	<li id="menu-item-121763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121763"><a href="http://news.fnal.gov/category/in-the-news/">Fermilab in the news</a></li>
+	<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="https://news.fnal.gov/newsroom/fact-sheets-and-brochures/">Fact sheets and brochures</a></li>
+	<li id="menu-item-114966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114966"><a href="https://lbnf-dune.fnal.gov/news/for-the-media/">DUNE at LBNF newsroom</a></li>
+	<li id="menu-item-799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-799"><a href="https://vms.fnal.gov/gallery">Photo, video and graphics galleries</a></li>
+	<li id="menu-item-71403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71403"><a href="https://vms.fnal.gov/asset">Search photo, video and graphics</a></li>
+	<li id="menu-item-73451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73451"><a href="https://news.fnal.gov/newsroom/social-media/">Social media</a></li>
+	<li id="menu-item-70644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70644"><a href="https://news.fnal.gov/newsroom/press-release-sign-up/">Press release sign-up</a></li>
+	<li id="menu-item-31697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31697"><a href="https://news.fnal.gov/newsroom/subscribe-to-fermilab-frontiers/">Subscribe to Fermilab Frontiers</a></li>
+	<li id="menu-item-81329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81329"><a href="https://news.fnal.gov/newsroom/internship-science-writing/">Internship in science writing</a></li>
+	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="https://news.fnal.gov/newsroom/contact/">Contact</a></li>
+</ul>
+</li>
+</ul></div>             </div><!-- /.menu-wrapper -->    
+         </nav><!-- /#secondary-menu .navbar-collapse -->
+        
+         
+      </div><!-- /.sidebar-navigation -->
+                 
+                  <div id="sidebar-widgets-bottom" class="collapse navbar-collapse hidden-xs" role="navigation">
+            
+	<form role="search" method="get" class="search-form form" action="/newsroom/news/">
+		<label for="form-search-input" class="sr-only">Fermilab news</label>
+		<div class="input-group">
+			<input type="search" id="form-search-input" class="form-control" placeholder="Fermilab news" value="" name="se" title="Search for:">
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default">Search</button>
+			</span>
+		</div>
+	</form>
+<aside id="text-6" class="widget widget_text">			<div class="textwidget"></div>
+		</aside><aside id="nav_menu-7" class="widget widget_nav_menu"><h1 class="widget-title">Useful links</h1><div class="menu-useful-links-container"><ul id="menu-useful-links" class="menu"><li id="menu-item-28444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28444"><a href="http://www.symmetrymagazine.org/">Symmetry magazine</a></li>
+<li id="menu-item-28456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28456"><a href="http://www.interactions.org/cms/">Interactions</a></li>
+</ul></div></aside>         </div><!-- /.sidebar-widgets -->
+             
+     
+   </div><!-- /.left-sidebar-container -->
+   
+</div><!-- /sidebar-left -->
+ 
+<section id="content" class="col-sm-9">
+  <div class="inner content-inner">
+       
+  <article id="post-241089" class="post-241089 post type-post status-publish format-standard has-post-thumbnail hentry category-feature category-fermilab-feature category-result category-top-news tag-daya-bay tag-minos tag-neutrino tag-result tag-sterile-neutrino authors-edited-by-leah-hesla">
+	<header class="entry-header">
+		
+		<h2 class="entry-title page-title show-page-title bottom-10">A team of international physicists join forces in hunt for sterile neutrinos</h2>
+
+		      <!-- entry-meta -->
+      <div class="entry-meta">
+                            <p class="published published-share"><span datetime="2020-08-10T10:43:43-05:00">August 10, 2020</span>
+                        |  <span class="author vcard"><a class="url fn n" href="https://news.fnal.gov/authors/edited-by-leah-hesla/">edited by Leah Hesla</a></span>            </p>
+      </div> <!-- /.entry-meta -->
+
+		<div class="share-social">
+<div class="fnal-share-fb">
+<a href="javascript:fbShare('https%3A%2F%2Fnews.fnal.gov%2F2020%2F08%2Fa-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos%2F', 'A%20team%20of%20international%20physicists%20join%20forces%20in%20hunt%20for%20sterile%20neutrinos', 550, 350)"><img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/share-btn-facebook-lg.png" alt="icon" class="icon"></a>
+</div>
+<div class="fnal-share-tw">
+<a href="http://twitter.com/intent/tweet?text=https%3A%2F%2Fnews.fnal.gov%2F2020%2F08%2Fa-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos%2F&hashtags=DayaBay,MINOS,neutrino,result,sterileneutrino" onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;" title="Tweet" target="_blank">
+<img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/share-btn-twitter-lg.png" alt="icon" class="icon"></a>
+</div>
+</a>
+<div class="fnal-share-mail">
+<a href="mailto:?subject=A%20team%20of%20international%20physicists%20join%20forces%20in%20hunt%20for%20sterile%20neutrinos&amp;body=The MINOS+ and Daya Bay neutrino experiments combine results to produce most stringent test yet for the existence of sterile neutrinos.%20%20https%3A%2F%2Fnews.fnal.gov%2F2020%2F08%2Fa-team-of-international-physicists-join-forces-in-hunt-for-sterile-neutrinos%2F" title="Email">
+<img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/share-btn-email-lg.png" alt="icon" class="icon"></a>
+</div>
+</div>
+<div class="clearfix"></div>		<div class="clearfix"></div>
+	</header>
+	
+	<!-- the content -->
+	<div class="entry-content">
+		<p>An international group of more than 260 scientists have produced one of the most stringent tests for the existence of sterile neutrinos to date. The scientists from two major international experimental groups, MINOS+ at the Department of Energy&#8217;s Fermilab and Daya Bay in China, are <a href="https://link.aps.org/doi/10.1103/PhysRevLett.125.071801">reporting results in Physical Review Letters</a> ruling out oscillations into one sterile neutrino as the primary explanation for unexpected observations from recent experiments.</p>
+<p>MINOS+ studies the disappearance of muon neutrinos produced by a Fermilab accelerator and propagating to an underground detector in northern Minnesota 735 kilometers away. Daya Bay uses eight identically designed detectors to precisely measure how electron neutrinos emitted by six nuclear reactors in China “disappear” as they morph into other types.</p>
+<p>Neutrinos are elementary particles that, like electrons, cannot be broken down into smaller components. They are unlike any other particle known to exist in that they are able to penetrate extremely large amounts of matter without stopping. If a neutrino is shot from the surface of Earth toward its center, there is a very large probability that it will emerge intact on the other side.</p>
+<div id="attachment_16656" style="width: 810px" class="wp-caption aligncenter"><a href="http://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg"><img aria-describedby="caption-attachment-16656" loading="lazy" class="size-full wp-image-16656" src="http://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg" alt="" width="800" height="417" srcset="https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D.jpg 800w, https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D-300x156.jpg 300w, https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D-450x235.jpg 450w, https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D-180x94.jpg 180w, https://news.fnal.gov/wp-content/uploads/2015/10/minos-12-0116-01D-620x323.jpg 620w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-16656" class="wp-caption-text">The MINOS+ and Daya Bay neutrino experiments have combined results to produce most stringent test yet for the existence of sterile neutrinos. In the MINOS+ experiment, Fermilab accelerators sent a beam of muon neutrinos through a detector located on the Fermilab site. The beam traveled 450 miles underground to a far detector, pictured here, in northern Minnesota. Photo: Reidar Hahn, Fermilab</p></div>
+<p>There are three known types of neutrinos: electron, muon and tau. About two decades ago, scientists found that they can morph from one type into another through a phenomenon called “neutrino oscillation,” a discovery that was awarded the 2015 Nobel Prize in physics. For instance, a neutrino created as an electron type traveling through space can later be identified as a muon type or tau type.</p>
+<p>Even though the vast majority of accumulated data to date can be explained by three known neutrinos, a few experiments have reported anomalous observations suggesting the existence of additional types. Among these are the LSND experiment at the Los Alamos National Laboratory and the MiniBooNE experiment at Fermilab. Both exposed their detectors to a beam of muon neutrinos and reported an excess of electron neutrino candidate events beyond what would be expected from oscillations involving only the three known types of neutrino, but possibly reconcilable if a new type of neutrino – a sterile neutrino – was involved. Sterile neutrinos would not be directly detectable, but their oscillation with the three known neutrinos would provide a unique pathway to establish their existence.</p>
+<p>However, the new results from Daya Bay and MINOS+ question this possibility as an explanation of LSND and MiniBooNE results.</p>
+<p>“The stakes are high; if this tantalizing interpretation of the anomalous results was confirmed, a revolution in physics would ensue. Sterile neutrinos would become the first particles to be found outside the Standard Model, our current best theory of elementary particles and their interactions. They could also be a candidate for dark matter and might have important consequences in cosmology,” said Daya Bay scientist Pedro Ochoa-Ricoux, associate professor of physics and astronomy at UC Irvine.</p>
+<p>“This close collaboration of MINOS+ and Daya Bay scientists enabled the combination of two complementary world-leading constraints on muon neutrinos and electron antineutrinos disappearing into sterile neutrinos,&#8221; said Alexandre Sousa, associate professor of physics at the University of Cincinnati and one of the MINOS+ scientists who worked on the analysis. The disappearance of both particles needs to occur if electron (anti)neutrinos are to appear in a muon (anti)neutrino source via sterile oscillations with a single sterile neutrino. &#8220;So the combined result is a very powerful probe of the sterile neutrino hints we have to date.&#8221;</p>
+<div id="attachment_241368" style="width: 810px" class="wp-caption aligncenter"><a href="http://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030.jpg"><img aria-describedby="caption-attachment-241368" loading="lazy" class="wp-image-241368" src="http://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-1024x620.jpg" alt="" width="800" height="485" srcset="https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-1024x620.jpg 1024w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-300x182.jpg 300w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-768x465.jpg 768w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-1536x931.jpg 1536w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-2048x1241.jpg 2048w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-470x285.jpg 470w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-640x388.jpg 640w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-400x242.jpg 400w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-150x91.jpg 150w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-450x273.jpg 450w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-180x109.jpg 180w, https://news.fnal.gov/wp-content/uploads/2020/08/The_Daya_Bay_Antineutrino_Detector_8056998030-620x376.jpg 620w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-241368" class="wp-caption-text">The Daya Bay neutrino detector walls are lined with photomultiplier tubes. The tubes are designed to amplify and record the faint flashes of light that signify an antineutrino interaction. Photo: Roy Kaltschmidt, Lawrence Berkeley National Laboratory</p></div>
+<p>The neutrino disappearance measurements by MINOS+ and Daya Bay are now so precise that they essentially rule out explaining the combined anomalous observations from LSND, MiniBooNE and other experiments solely through sterile neutrino oscillations, according to Ochoa-Ricoux.</p>
+<p>“We would all have been absolutely thrilled to find evidence for sterile neutrinos, but the data we have collected so far do not support any kind of oscillation with these exotic particles,” he said.</p>
+<p>The combined analysis reported by Daya Bay and MINOS+ not only ruled out the specific kind of sterile neutrino oscillation that would explain the anomalous results but also looked for other sterile neutrino signatures with never-before-achieved sensitivity, yielding some of the most stringent limits on the existence of these elusive particles to date.</p>
+<p>“The two experiments use multiple detectors with well-understood uncertainties and have collected an unprecedentedly large number of events. Requiring consistency between the data sets of the two experiments provides a very rigorous test of sterile neutrino existence,” said MINOS+ spokespersons, Jenny Thomas, professor at University College London, and Karol Lang professor at the University of Texas at Austin.</p>
+<p>“This joint effort very effectively tackles a fundamental problem in physics,” said Daya Bay spokespersons Kam-Biu Luk of Lawrence Berkeley National Laboratory and UC Berkeley and Jun Cao of the Institute of High Energy Physics in Beijing. “While there is still room for a sterile neutrino to be lurking in the shadows, we have significantly shrunk the available hiding space.”</p>
+<p><em>The MINOS+ and Daya Bay neutrino experiments are supported by the Department of Energy Office of Science.</em></p>
+<p><em>Fermilab is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, visit <a href="http://science.energy.gov/">science.energy.gov</a>.</em></p>
+	</div>
+	<!-- /the content -->
+
+		<!-- tags -->
+	<div class="entry-tags clearfix">
+		Tagged:&nbsp;<a href="https://news.fnal.gov/tag/daya-bay/" rel="tag">Daya Bay</a>, <a href="https://news.fnal.gov/tag/minos/" rel="tag">MINOS</a>, <a href="https://news.fnal.gov/tag/neutrino/" rel="tag">neutrino</a>, <a href="https://news.fnal.gov/tag/result/" rel="tag">result</a>, <a href="https://news.fnal.gov/tag/sterile-neutrino/" rel="tag">sterile neutrino</a><br />	</div> <!-- /.tags -->
+
+	</article>
+    <div class="clearfix"></div>
+  
+
+  
+    </div> <!-- /.inner -->
+</section>
+
+			 </div><!-- /.inner -->
+        </div><!-- /#main -->
+        <!--//========== /main content ==========//-->
+
+
+        <!--//========== footer widgets ==========//-->
+
+                 <div id="footer-widgets" class="sidebar sidebar-widgets hidden-sm hidden-md hidden-lg">
+            
+	<form role="search" method="get" class="search-form form" action="/newsroom/news/">
+		<label for="form-search-input" class="sr-only">Fermilab news</label>
+		<div class="input-group">
+			<input type="search" id="form-search-input" class="form-control" placeholder="Fermilab news" value="" name="se" title="Search for:">
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default">Search</button>
+			</span>
+		</div>
+	</form>
+<aside id="text-6" class="widget widget_text">			<div class="textwidget"></div>
+		</aside><aside id="nav_menu-7" class="widget widget_nav_menu"><h1 class="widget-title">Useful links</h1><div class="menu-useful-links-container"><ul id="menu-useful-links-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28444"><a href="http://www.symmetrymagazine.org/">Symmetry magazine</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28456"><a href="http://www.interactions.org/cms/">Interactions</a></li>
+</ul></div></aside>         </div><!-- /.sidebar-widgets -->
+                  <!--//========== /footer widgets ==========//-->
+
+        <!--//========== footer ==========//-->
+        <footer id="footer" class="row">
+            <div class="inner footer-inner">
+
+              <div class="scroll-to-top"><i class="fa fa-angle-up"></i></div>
+
+                <div id="footer-left" class="col-md-6 col-sm-8">
+
+                    <div class="row footer-logos">
+    <a href="http://www.energy.gov/"><img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/logo-doe.png" alt="Office of Science / U.S. Department of Energy" id="logo-doe"></a>
+    <a href="http://www.fra-hq.org/"><img src="https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/img/logo-fra.png" alt="Managed by Fermi Research Alliance, LLC" id="logo-fra"></a>
+</div><!-- /.row footer-logos -->
+
+<ul class="footer-text list-unstyled">
+    <li class="first">Fermi National Accelerator Laboratory</li>
+    <li>Managed by <a href="http://www.fra-hq.org/">Fermi Research Alliance, LLC</a></li>
+    <li class="last">for the <a href="http://www.energy.gov/">U.S. Department of Energy Office of Science</a></li>
+</ul><!-- /.footer-text -->
+
+<ul class="footer-legal list-unstyled list-inline">
+    <li class="first"><a href="https://www.fnal.gov/pub/disclaim.html">Security, Privacy, Legal</a></li>
+    <li class="last"><a href="https://www.fnal.gov/pub/disclaim.html#cookies">Use of Cookies</a></li>
+</ul><!-- /.footer-legal -->
+
+                </div><!-- /#footer-left -->
+
+                <div id="footer-right" class="col-lg-3 col-lg-offset-3 col-md-4 col-md-offset-2 col-sm-4">
+                    <div class="row">
+                      <div class="column col-md-6 col-sm-6 col-xs-6">
+  <h5 class="title">Quick Links</h5>
+  <ul class="list-unstyled">
+    <li><a href="https://www.fnal.gov/">Home</a></li>
+    <li><a href="https://www.fnal.gov/pub/contact/index.html">Contact</a></li>
+    <li><a href="https://www-tele.fnal.gov/telephone/">Phone Book</a></li>
+    <li><a href="https://www.fnal.gov/faw/fermilab_at_work.html">Fermilab at Work</a></li>
+    <li><a href="https://www.fnal.gov/pub/resources/industrial-partnerships/index.html">For Industry</a></li>
+    <li><a href="https://www.fnal.gov/pub/jobs/index.html">Jobs</a></li>
+  </ul>
+</div><!-- /.column -->
+                      <div class="column col-md-6 col-sm-6 col-xs-6">
+   <h5 class="title">Interact</h5>
+   <ul class="list-unstyled">
+      <li><a href="http://www.facebook.com/Fermilab">Facebook</a></li>
+      <li><a href="https://twitter.com/Fermilab">Twitter</a></li>
+      <li><a href="https://www.instagram.com/fermilab/">Instagram</a></li>
+      <li><a href="http://www.youtube.com/user/fermilab">YouTube</a></li>
+      <li><a href="https://www.flickr.com/photos/134273042@N07/sets">Flickr</a></li>
+      <li><a href="https://www.linkedin.com/company/fermilab">Linkedin</a></li>
+   </ul>
+</div><!-- /.column -->
+                    </div><!-- /.row -->
+                </div><!-- /#footer-right -->
+
+            </div><!-- /.inner -->
+        </footer><!-- /#footer -->
+        <!--//========== /footer ==========//-->
+
+    </div><!-- /#page -->
+
+		<!--wordpress footer scripts-->
+		
+                        <script>
+                dataLayer = [{
+                    'ga_site_ids': [''],
+                }];
+            </script>
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-W5F5LBK');</script>
+            <!-- End Google Tag Manager -->
+
+            <script type='text/javascript' src='https://news.fnal.gov/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-extra'>
+/* <![CDATA[ */
+var EO_Pro_DP = {"adminajax":"https:\/\/news.fnal.gov\/wp-admin\/admin-ajax.php","startday":"0","locale":{"locale":"en","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthAbbrev":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayAbbrev":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"nextText":">","prevText":"<"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/bootstrap/dist/js/bootstrap.min.js?ver=5.8.1' id='boostrap_js-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/bootstrap-plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js?ver=5.8.1' id='boostrap_plugin_dropdown_js-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/fnal-navigation.min.js?ver=2.7.6' id='fnal-nav-scripts-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/fnal-accordion.min.js?ver=2.7.6' id='fnal-accordion-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/fnal-scroll.min.js?ver=2.7.6' id='fnal-scroll-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/fnal-mainsearch.min.js?ver=2.7.6' id='fnal-mainsearch-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://news.fnal.gov/wp-content/themes/fermilab-basic/assets/js/fnal-social.js?ver=5.8.1' id='fnal-social-share-js-js'></script>
+
+            <!--responsive tabs-->
+            <script type="text/javascript">
+              jQuery(document).ready(function ($) {
+                $('#myTab a').click(function (e) {
+                  e.preventDefault()
+                  $(this).tab('show')
+                });
+
+                $('#moreTabs a').click(function (e) {
+                  e.preventDefault()
+                  $(this).tab('show')
+                });
+
+              });
+            </script>
+
+	</body>
+</html>

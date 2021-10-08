@@ -1,0 +1,349 @@
+<!DOCTYPE html><html prefix="og: https://ogp.me/ns#" lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/><meta name="csrf-token" content="pexbFRQnL2mwFBTF7zBn4pI3Nz3plfUokKkVeY7h"><meta name="default-url" content="https://manilastandard.net"><title>Attackers misuse legitimate tools in 30% of successful cyber incidents - Manila Standard Mobile</title>   <meta name="keywords" content="cyberattacks, Kaspersky Global Emergency Response, Incident Response Analytics Report">
+            <meta name="description" content="Almost a third (30%) of cyberattacks investigated by the Kaspersky Global Emergency Response team in 2019 involved legitimate remote management and administration tools.">
+                                    <meta name="disqus-shortname" content="thestandardph">
+                        <!-- <meta name="rights" content="Copyright &copy; 2021, Monica Publishing Corporation. All rights reserved."> -->
+                        <meta property="fb:app_id" content="">
+            <meta property="fb:admins" content="">
+            <meta property="og:title" content="Attackers misuse legitimate tools in 30% of successful cyber incidents">
+            <meta property="og:type" content="article">
+            <meta property="og:site_name" content="Manila Standard">
+            <meta property="og:description" content="Almost a third (30%) of cyberattacks investigated by the Kaspersky Global Emergency Response team in 2019 involved legitimate remote management and administration tools.">
+                            <meta property="og:image" content="https://manilastandard.net/panel/_files/modbuild/ts_logo.png">
+                <meta name="thumbnail" content="https://manilastandard.net/panel/_files/modbuild/ts_logo.png">
+                <!--
+                  <PageMap>
+                    <DataObject type="thumbnail">
+                      <Attribute name="src" value="https://manilastandard.net/panel/_files/modbuild/ts_logo.png"/>
+                      <Attribute name="width" value="100"/>
+                      <Attribute name="height" value="130"/>
+                    </DataObject>
+                  </PageMap>
+                -->
+                                        <meta property="og:image" content="https://manilastandard.net/panel/_files/modbuild/wp-images/wp-content/uploads/2020/08/b3261_kaspersky.jpg">
+                <meta name="thumbnail" content="https://manilastandard.net/panel/_files/modbuild/wp-images/wp-content/uploads/2020/08/b3261_kaspersky.jpg">
+                <!--
+                  <PageMap>
+                    <DataObject type="thumbnail">
+                      <Attribute name="src" value="https://manilastandard.net/panel/_files/modbuild/wp-images/wp-content/uploads/2020/08/b3261_kaspersky.jpg"/>
+                      <Attribute name="width" value="100"/>
+                      <Attribute name="height" value="130"/>
+                    </DataObject>
+                  </PageMap>
+                -->
+                                    <meta property="og:url" content="https://manilastandard.net/mobile/article/331027">
+                <!-- Favicon  -->
+    <link rel="shortcut icon" href="https://manilastandard.net/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://manilastandard.net/assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Compiled and minified CSS -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+
+    <!-- Owl Carousel -->
+    <link href="https://manilastandard.net/assets/css/owl.theme.css" rel="stylesheet">
+    <link href="https://manilastandard.net/assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="https://manilastandard.net/assets/css/owl.transitions.css" rel="stylesheet">
+
+    <!-- LISCROLLER -->
+    <link href="https://manilastandard.net/assets/css/liscroller.css" rel="stylesheet">
+
+    <!-- Use app.css -->
+    <link type="text/css" rel="stylesheet" href="https://manilastandard.net/assets/mobile/css/app.css?v=3"  media="screen,projection"/>
+
+    <!-- Aubrey -->
+    <link href="https://manilastandard.net/assets/mobile/css/styleA.css" rel="stylesheet">
+
+    <!-- Jai -->
+    <link href="https://manilastandard.net/assets/mobile/css/styleJ.css" rel="stylesheet">
+
+    <!-- RRSSB -->
+    <link href="https://manilastandard.net/assets/css/rrssb.css" rel="stylesheet">
+
+
+    <!-- drop Google Analytics Here -->
+    <script type="text/javascript">
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+       ga('create', 'UA-1546125-1', 'auto');
+       ga('send', 'pageview');
+
+    </script>
+    <!-- end analytics -->
+
+    <!-- gpt ads script -->
+    <script async='async' src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+    <!--Adomik randomizer for ad call key value targeting-->
+    <script type='text/javascript'>
+      window.Adomik = window.Adomik || {};
+      Adomik.randomAdGroup = function() {
+      var rand = Math.random();
+      switch (false) {
+      case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+      case !(rand < 0.10): return "ad_bc";
+      default: return "ad_opt";
+      }
+      };
+      </script>
+      <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+      <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+      </script><script>
+        var gptAdSlots = [];
+        googletag.cmd.push(function() {
+      var mapping = googletag.sizeMapping().
+      addSize([340,290], [[336, 280], [300, 250]]).
+      addSize([0, 0], [[300, 250]]). 
+      build(); 
+      gptAdSlots[0] = 
+          googletag.defineSlot('/21622890900/ph_manilastandard_mb_article_afterarticle_300x250_336x280', [[336, 280], [300, 250]], 'div-gpt-ad-1538102677513-0').defineSizeMapping(mapping).setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+    </script>
+
+    <!-- AdAsia Tag Manager -->
+    <script  type="text/javascript" src="//adasiatagmanager.appspot.com/js/v1/account/5643772113190912/atm.js"></script>
+    <!-- End AdAsia Tag Manager --> 
+
+    <!-- ManilaStandard Auto ads -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-7821547671837563",
+              enable_page_level_ads: true
+        });
+    </script>
+    <!-- End  ManilaStandard  Auto ads --> 
+
+    <script type="text/javascript" src="//sdk.adspruce.com/1/adspruce.js?pid=4632&sid=1" defer></script>
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+    _atrk_opts = { atrk_acct:"cZq1j1a4ZP0082", domain:"thestandard.com.ph",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=cZq1j1a4ZP0082" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+
+    <!-- RECAPTCHA -->
+    <script src='https://www.google.com/recaptcha/api.js?hl=en' async defer></script>
+
+  </head>
+
+  <body>
+    <div class="sk-wrapper" id="sk-wrapper">
+        <div class="sk-spinner sk-spinner-circle">
+          <div class="sk-circle1 sk-circle"></div>
+          <div class="sk-circle2 sk-circle"></div>
+          <div class="sk-circle3 sk-circle"></div>
+          <div class="sk-circle4 sk-circle"></div>
+          <div class="sk-circle5 sk-circle"></div>
+          <div class="sk-circle6 sk-circle"></div>
+          <div class="sk-circle7 sk-circle"></div>
+          <div class="sk-circle8 sk-circle"></div>
+          <div class="sk-circle9 sk-circle"></div>
+          <div class="sk-circle10 sk-circle"></div>
+          <div class="sk-circle11 sk-circle"></div>
+          <div class="sk-circle12 sk-circle"></div>
+        </div>
+    </div>
+     <header class="navbar-fixed"><nav role="navigation"><div class="nav-wrapper"><a href="#" data-activates="mobile-menu" class="button-collapse custom-menu"><i class="fa fa-bars"></i></a><a href="#" class="custom-menu right toggle-searchbox"><i class="fa fa-search"></i></a><a href="https://manilastandard.net/mobile" class="brand-logo center"><img src="https://manilastandard.net/assets/images/logo-white.png"></a><ul class="side-nav" id="mobile-menu"><li class="custom-sidebar-header"><a href="https://manilastandard.net/mobile" class="side-nav-logo left" style="padding: 7px 0 0 0;"><img src="https://manilastandard.net/assets/images/logo-white.png" style="width: 195px;"></a><a href="https://manilastandard.net/mobile/page/about-ts" class="standard-info right" style="padding: 5px 0 0 0;"><span class="fa fa-info-circle"></span></a></li><li class="custom-sidebar-menu"><a href="https://manilastandard.net/mobile"><span class="home-menu fa fa-home"></span> Home</a><span class="standard-today-date right">Oct 08, 2021</span></li><li class="custom-sidebar-menu csm-section">SECTIONS</li>  <ul class="collapsible" data-collapsible="accordion">  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >NEWS</p><span class="total-news-today right">42</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/1"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All NEWS</a><span class="total-news-today right">&nbsp;42</span></li><li><a href="https://manilastandard.net/mobile/category/187"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;NATIONAL</a><span class="total-news-today right">&nbsp;24</span></li>  <li><a href="https://manilastandard.net/mobile/category/19"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;WORLD NEWS</a><span class="total-news-today right">&nbsp;10</span></li>  <li><a href="https://manilastandard.net/mobile/category/100"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TOP STORIES</a><span class="total-news-today right">&nbsp;8</span></li>  <li><a href="https://manilastandard.net/mobile/category/154"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;FEATURES</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/12"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;PINOY ABROAD</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >OPINION</p><span class="total-news-today right">13</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/2"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All OPINION</a><span class="total-news-today right">&nbsp;13</span></li><li><a href="https://manilastandard.net/mobile/category/40"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COLUMNS</a><span class="total-news-today right">&nbsp;11</span></li>  <li><a href="https://manilastandard.net/mobile/category/38"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;EDITORIAL</a><span class="total-news-today right">&nbsp;2</span></li>  <li><a href="https://manilastandard.net/mobile/category/188"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SOUNDBYTES</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name" style="text-transform:none !important"; >LGUs</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/166"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All LGUs</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/192"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;MINDANAO</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/191"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;VIZAYAS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/190"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;LUZON</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/189"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;NCR</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >BUSINESS</p><span class="total-news-today right">10</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/3"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All BUSINESS</a><span class="total-news-today right">&nbsp;10</span></li><li><a href="https://manilastandard.net/mobile/category/194"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;POWER &amp; TECH</a><span class="total-news-today right">&nbsp;4</span></li>  <li><a href="https://manilastandard.net/mobile/category/234"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;CORPORATE</a><span class="total-news-today right">&nbsp;2</span></li>  <li><a href="https://manilastandard.net/mobile/category/195"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;IT &amp; TELECOM</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/171"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;MONEY</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/193"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;ECONOMY &amp; TRADE</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/35"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;STOCKS</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/172"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;AGRI &amp; MINING</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >SPORTS</p><span class="total-news-today right">8</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/4"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All SPORTS</a><span class="total-news-today right">&nbsp;8</span></li><li><a href="https://manilastandard.net/mobile/category/201"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SPORTS PLUS</a><span class="total-news-today right">&nbsp;6</span></li>  <li><a href="https://manilastandard.net/mobile/category/198"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;VOLLEYBALL</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/197"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;BASKETBALL</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/31"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COLUMNS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/202"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;ONE CHAMPIONSHIP</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/200"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;ACTIVE</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/199"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;FIGHTSPORTS</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >ENTERTAINMENT</p><span class="total-news-today right">4</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/5"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All ENTERTAINMENT</a><span class="total-news-today right">&nbsp;4</span></li><li><a href="https://manilastandard.net/mobile/category/207"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COLUMNS</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/203"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TV &amp; MOVIES</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/205"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;MUSIC &amp; CONCERTS</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/204"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;CELEBRITY PROFILES</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/206"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;DIGITAL MEDIA</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >LIFESTYLE</p><span class="total-news-today right">2</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/6"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All LIFESTYLE</a><span class="total-news-today right">&nbsp;2</span></li><li><a href="https://manilastandard.net/mobile/category/178"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;LEISURE</a><span class="total-news-today right">&nbsp;2</span></li>  <li><a href="https://manilastandard.net/mobile/category/176"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SHOPPING</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/50"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COLUMNS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/105"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;HEALTH AND HOME</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/48"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;CULTURE &amp; MEDIA</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/110"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;FASHION</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/179"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;FOOD</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >POP.LIFE</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/183"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All POP.LIFE</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/215"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;MALLS &amp; BAZAARS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/216"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;HOBBIES &amp; COLLECTIONS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/214"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;PERFORMANCES</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/212"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;POST ITS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/210"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;HANGOUTS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/211"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;A-POP</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/209"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;NEWSMAKERS</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >TECHNOLOGY</p><span class="total-news-today right">2</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/10"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All TECHNOLOGY</a><span class="total-news-today right">&nbsp;2</span></li><li><a href="https://manilastandard.net/mobile/category/221"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;BUSINESS</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/101"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;GADGETS</a><span class="total-news-today right">&nbsp;1</span></li>  <li><a href="https://manilastandard.net/mobile/category/102"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TECH PLUS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/220"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COMPUTERS</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >WHEELS &amp; MORE</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/177"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All WHEELS &amp; MORE</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/227"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;MOTORING PLUS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/228"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COMMUTER&#039;S CORNER</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/226"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;ACCESSORIES</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/225"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;BIKE</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/223"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SUV</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/224"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TRUCK</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/222"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SEDAN</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >HOME &amp; DESIGN</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/208"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All HOME &amp; DESIGN</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/232"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;INTERIOR</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/231"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;CONSTRUCTION</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/230"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COMMERCIAL</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/229"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;RESIDENTIAL</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >SPOTLIGHT</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/15"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All SPOTLIGHT</a><span class="total-news-today right">&nbsp;</span></li></ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >GALLERY</p><span class="total-news-today right">6</span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/185"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All GALLERY</a><span class="total-news-today right">&nbsp;6</span></li><li><a href="https://manilastandard.net/mobile/category/23"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;PHOTOS</a><span class="total-news-today right">&nbsp;5</span></li>  <li><a href="https://manilastandard.net/mobile/category/27"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;VIDEOS</a><span class="total-news-today right">&nbsp;1</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >EVENTS</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/24"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All EVENTS</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/219"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;COMMUNITY</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/218"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;EXHIBITS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/217"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;SEMINARS</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >BIYAHERO</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/307"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All BIYAHERO</a><span class="total-news-today right">&nbsp;</span></li><li><a href="https://manilastandard.net/mobile/category/310"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TRAVEL LOGS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/309"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TRAVEL REELS</a><span class="total-news-today right">&nbsp;</span></li>  <li><a href="https://manilastandard.net/mobile/category/308"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;TRAVEL FEATURES</a><span class="total-news-today right">&nbsp;</span></li>  </ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >PETS</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/352"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All PETS</a><span class="total-news-today right">&nbsp;</span></li></ul></div></li>  <li class="accordion-is-active custom-sidebar-menu"><div class="accordion-click collapsible-header"><span class="accordion-arrow fa fa-angle-down"></span>&nbsp;&nbsp;&nbsp;<p class="category-name"  >CORONAVIRUS 2019</p><span class="total-news-today right"></span></div><div class="subcat-menu collapsible-body"><ul><li><a href="https://manilastandard.net/mobile/category/350"><span class="subcat-circle">•</span>&nbsp;&nbsp;&nbsp;All CORONAVIRUS 2019</a><span class="total-news-today right">&nbsp;</span></li></ul></div></li></ul><li class="custom-sidebar-menu csm-section">FOLLOW US</li><li class="custom-sidebar-footer"><div class="row custom-nav-social-media"><div class="nav-soc-media col s4"><a href="https://www.facebook.com/manilastandard/" target="_blank"><i class="fa fa-facebook"></i></a></div><div class="nav-soc-media col s4"><a href="https://twitter.com/MlaStandard" target="_blank"><i class="fa fa-twitter"></i></a></div><div class="nav-soc-media col s4"><a href="https://manilastandard.net/rss" target="_blank"><i class="fa fa-rss"></i></a></div></div><div class="row custom-nav-download-pdf"><div class="nav-download-pdf col s12 center"><a href="//e.issuu.com/embed.html?d=mspdf20211008&amp;u=thestandardph" target="_blank"><span class="fa fa-file-pdf-o"></span>&nbsp;&nbsp;View Today's Issue</a></div></div><div class="custom-nav-footer hide"><div class="row"><div class="custom-half col s6 center" id="custom-full-site"><a href="https://manilastandard.net/rdr" target="_blank">Desktop Site</a></div><div class="custom-half col s6 center" id="custom-standard-contact"><a href="https://manilastandard.net/mobile/page/contact-us">Contact</a></div></div></div></li></ul></div></nav><form id="searchbox" class="col s12" accept-charset="UTF-8" action="https://manilastandard.net/mobile/search" method="GET" style="display:none;"><input placeholder="Search" id="search_mobile" name="q" type="text" class="validate"></form></header><div class="mobile-container"><div class="row custom-article"><div class="mobile-leaderboard-ads"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MST ad 320x100 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-7821547671837563"
+     data-ad-slot="4992892118"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="col s12"><div class="custom-breadcrumbs alink"><ul class="breadcrumbs alink"><li><a href="https://manilastandard.net/mobile" title="Back to Homepage"> Home </a></li>  <li class="cate"><a href="https://manilastandard.net/mobile/category/10" title="More in TECHNOLOGY"><span class="divider">&nbsp; / &nbsp;</span>  TECHNOLOGY  </a></li>  <li class="cate"><a href="https://manilastandard.net/mobile/category/102" title="More in TECH PLUS"><span class="divider">&nbsp; / &nbsp;</span>  TECH PLUS  </a></li>  </ul></div><h1 class="custom-article-title"> Attackers misuse legitimate tools in 30% of successful cyber incidents </h1>             <div class="custom-article-description">
+                <i>posted</i>&nbsp;August 10, 2020 at 06:00 pm
+                                <br/><i class="m-by-by">by</i>&nbsp;<a class="m-the-author" href="https://manilastandard.net/mobile/search?q=Manila Standard">
+                        <span><b>Manila Standard</b></span>
+                    </a> 
+                            </div>
+
+                        <div class="custom-page-rrssb addthis_toolbox" data-url="https://manilastandard.net/tech/tech-news//331027/attackers-misuse-legitimate-tools-in-30-of-successful-cyber-incidents.html" data-title="Attackers misuse legitimate tools in 30% of successful cyber incidents"><div class="custom_images"><ul class="rrssb-buttons clearfix buttmar"><li class="rrssb-facebook butt"><a class="addthis_button_facebook"><span class="rrssb-icon icontop"><svg xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="29" height="29" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z" class="cls-2" fill-rule="evenodd" /></svg></span><span class="rrssb-text"></span></a></li><li class="rrssb-twitter butt"><a class="addthis_button_twitter"><span class="rrssb-icon icontop"><svg xmlns="https://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62c-3.122.162-6.22-.646-8.86-2.32 2.702.18 5.375-.648 7.507-2.32-2.072-.248-3.818-1.662-4.49-3.64.802.13 1.62.077 2.4-.154-2.482-.466-4.312-2.586-4.412-5.11.688.276 1.426.408 2.168.387-2.135-1.65-2.73-4.62-1.394-6.965C5.574 7.816 9.54 9.84 13.802 10.07c-.842-2.738.694-5.64 3.434-6.48 2.018-.624 4.212.043 5.546 1.682 1.186-.213 2.318-.662 3.33-1.317-.386 1.256-1.248 2.312-2.4 2.942 1.048-.106 2.07-.394 3.02-.85-.458 1.182-1.343 2.15-2.48 2.71z" /></svg></span><span class="rrssb-text"></span></a></li><li class="rrssb-email butt"><a class="addthis_button_email"><span class="rrssb-icon icontop"><svg xmlns="https://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"><path d="M20.11 26.147c-2.335 1.05-4.36 1.4-7.124 1.4C6.524 27.548.84 22.916.84 15.284.84 7.343 6.602.45 15.4.45c6.854 0 11.8 4.7 11.8 11.252 0 5.684-3.193 9.265-7.398 9.3-1.83 0-3.153-.934-3.347-2.997h-.077c-1.208 1.986-2.96 2.997-5.023 2.997-2.532 0-4.36-1.868-4.36-5.062 0-4.75 3.503-9.07 9.11-9.07 1.713 0 3.7.4 4.6.972l-1.17 7.203c-.387 2.298-.115 3.3 1 3.4 1.674 0 3.774-2.102 3.774-6.58 0-5.06-3.27-8.994-9.304-8.994C9.05 2.87 3.83 7.545 3.83 14.97c0 6.5 4.2 10.2 10 10.202 1.987 0 4.09-.43 5.647-1.245l.634 2.22zM16.647 10.1c-.31-.078-.7-.155-1.207-.155-2.572 0-4.596 2.53-4.596 5.53 0 1.5.7 2.4 1.9 2.4 1.44 0 2.96-1.83 3.31-4.088l.592-3.72z"/></svg></span><span class="rrssb-text"></span></a></li></ul></div></div>
+            <script type="text/javascript">
+             if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+              // ambient mobile code
+              document.write('<scr'+'ipt type="text/javascript">var _ase  = _ase || [];_ase.push(["1470715381","1470719607"]);</scr'+'ipt><scr'+'ipt src="https://static.gammaplatform.com/js/ad-exchange.js" type="text/javascript"></scr'+'ipt>');
+             }else{
+                    //ambient pc code
+             }
+            </script>
+
+
+
+
+
+
+                        
+            
+            <div class="custom-article-details custom-details">
+                Almost a third (30%) of cyberattacks investigated by the Kaspersky Global Emergency Response team in 2019 involved legitimate remote management and administration tools. As a result, attackers can remain undetected for a longer period of time. For instance, continuous cyber-espionage attacks and theft of confidential data had a median duration of 122 days. These findings are from Kaspersky&rsquo;s new Incident Response Analytics Report.</p>
+
+<p style="text-align:center"><img alt="Attackers misuse legitimate tools in 30% of successful cyber incidents" src="https://manilastandard.net/panel/_files/image/New_Images/featured_image/2020/August/11/kaspersky.jpg" /></p>
+
+Monitoring and management software helps IT and network administrators perform their everyday tasks, such as troubleshooting and providing employees with technical support. However, cybercriminals can also leverage these legitimate tools during cyberattacks on a company&rsquo;s infrastructure. This software allows them to run processes on endpoints, access and extract sensitive information, bypassing various security controls aimed to detect malware.&nbsp; &nbsp;In total, the analysis of anonymized data from incident response (IR) cases showed that 18 various legitimate tools were abused by attackers for malicious purposes. The most widely used one was PowerShell (25% of cases). This powerful administration tool can be used for many purposes, from gathering information to running malware. PsExec was leveraged in 22% of the attacks. This console application is intended for launching processes on remote endpoints. This was followed by SoftPerfect Network Scanner (14%), which is intended to retrieve information about network environments.&nbsp;&nbsp;</p>
+
+It is more difficult for security solutions to detect attacks conducted with legitimate tools because these actions can be both part of a planned cybercrime activity or a regular system administrator task. For instance, in the segment of attacks that lasted more than a month, the cyber-incidents had a median duration of 122 days. As they were undetected, cybercriminals could collect victims&rsquo; sensitive data.&nbsp;</p>
+
+However, Kaspersky experts note that sometimes malicious actions with legitimate software reveal themselves rather quickly. For example, they are often used in a ransomware attack, and the damage is seen clearly. The median attack duration for short attacks was a day.</p>
+
+&ldquo;To avoid detection and stay invisible in a compromised network for as long as possible, attackers widely used software which is developed for normal user activity, administrator tasks and system diagnostics. With these tools, attackers can gather information about corporate networks and then conduct lateral movement, change software and hardware settings or even carry out some form of malicious action. For example, they could use legitimate software to encrypt customer data,&rdquo; comments Konstantin Sapronov, Head of Global Emergency Response Team at Kaspersky.</p>
+
+&ldquo;Legitimate software can also help attackers stay under the radar of security analysts, as they often detect the attack only after the damage has been done. It is not possible to exclude these tools for many reasons, however, properly deployed logging and monitoring systems will help to detect suspicious activity in the network and complex attacks at earlier stages,&rdquo; adds Sapronov.</p>
+
+To detect and react to such attacks in a timely manner, among other measures, organizations should consider implementing an Endpoint Detection and Response (EDR) solution with an MDR service. MITRE ATT&amp;CK&reg; Round 2 Evaluation &mdash; where various solutions, including Kaspersky EDR and Kaspersky Managed Protection service were evaluated &mdash; can help customers choose EDR products that match their specific organization&rsquo;s needs. The results of the ATT&amp;CK Evaluation prove the importance of a comprehensive solution that combines a fully automated multi-layered security product and a manual threat hunting service.</p>
+
+                        
+                        <!-- ARTICLE ADS -->
+                                                    <div class="custom-article-ads">
+                                <div id='div-gpt-ad-1538102677513-0'>
+                                    <script>
+                                        googletag.cmd.push(function() { 
+                                        googletag.display('div-gpt-ad-1538102677513-0'); 
+                                        });
+                                    </script>
+                                </div>
+                                <div id="AdAsia" style="margin-left: 15px;margin-bottom: 10px;"></div>
+<script type="application/javascript" src="https://adnetwork.adasiaholdings.com/ac?out=js&nwid=2060&siteid=245563&pgname=ph_manilastandard_outstream&fmtid=44269&tgt=[sas_target]&visit=m&tmstp=[timestamp]&clcturl=[countgo]"></script>                            </div>
+                                        To minimize the chances of remote management software being used to penetrate an infrastructure, Kaspersky also recommends the following measures:&nbsp;</p>
+
+Restrict access to remote management tools from external IP addresses. Ensure that remote control interfaces can only be accessed from a limited number of endpoints</p>
+
+Enforce a strict password policy for all IT systems and deploy multi-factor authentication</p>
+
+Follow the principle of offering staff limited privileges and grant high-privileged accounts only to those who need this to fulfill their job&nbsp;</p>
+
+To learn more about Kaspersky EDR visit&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.kaspersky.ru/enterprise-security/endpoint-detection-response-edr&amp;source=gmail&amp;ust=1597127652096000&amp;usg=AFQjCNGOs2mZuSCvZvbplNuPOqLQxu67CA" href="https://www.kaspersky.ru/enterprise-security/endpoint-detection-response-edr" target="_blank">https://www.kaspersky.ru/<wbr />enterprise-security/endpoint-<wbr />detection-response-edr</a>. The full Incident Response Analytics Report is available by the link.</p>
+ </div><div class="custom-article-details custom-details article-topics"><span><b>Topics:</b></span>  <a class="alink2" href="https://manilastandard.net/mobile/search?q=cyberattacks"> cyberattacks</a>                     <a class="alink2" href="https://manilastandard.net/mobile/search?q= Kaspersky Global Emergency Response">,  Kaspersky Global Emergency Response</a>                     <a class="alink2" href="https://manilastandard.net/mobile/search?q= Incident Response Analytics Report">,  Incident Response Analytics Report</a>                                 </div>
+            
+            <div class="custom-article-details custom-details">
+                <div class="related">
+                    <h3>Related stories:</h3>
+                        
+                        <ul>
+                                                            <li><a href="https://manilastandard.net/mobile/article/343650" class="alink2" title="Read Cybersecurity trends to watch out for in Southeast Asia in 2021">Cybersecurity trends to watch out for in Southeast Asia in 2021</a></li>
+                                                            <li><a href="https://manilastandard.net/mobile/article/236586" class="alink2" title="Read World reels from cyberattacks">World reels from cyberattacks</a></li>
+                                                            <li><a href="https://manilastandard.net/mobile/article/287895" class="alink2" title="Read ePLDT launches solutions against cyber criminals">ePLDT launches solutions against cyber criminals</a></li>
+                                                    </ul>
+                                    </div>
+                <div class="more-cat">
+                    <h3>More from this Category:</h3>
+                        
+                        <ul>
+                                                            <li><a href="https://manilastandard.net/mobile/article/366690" class="alink2" title="Read Capture life&rsquo;s best moments with The Next Imagery Master, vivo X70 co-engineered with Zeiss">Capture life&rsquo;s best moments with The Next Imagery Master, vivo X70 co-engineered with Zeiss</a></li>
+                                                            <li><a href="https://manilastandard.net/mobile/article/366831" class="alink2" title="Read Write your business&rsquo; success story with Globe Business&rsquo; partnership program">Write your business&rsquo; success story with Globe Business&rsquo; partnership program</a></li>
+                                                            <li><a href="https://manilastandard.net/mobile/article/366810" class="alink2" title="Read NTC orders probe of presidential bid&#039;s text blast ">NTC orders probe of presidential bid&#039;s text blast </a></li>
+                                                    </ul>
+                                    </div>               
+            </div>
+
+            <!-- ARTICLE ADS -->
+                            <div class="custom-article-ads">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mst ad 320x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:250px"
+     data-ad-client="ca-pub-7821547671837563"
+     data-ad-slot="3701288917"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </div>
+            
+            <div class="custom-article-disclaimer">
+                <strong>COMMENT DISCLAIMER:</strong> Reader comments posted on this Web site are not in any way endorsed by The Standard. Comments are views by thestandard.ph readers who exercise their right to free expression and they do not necessarily represent or reflect the position or viewpoint of thestandard.ph. While reserving this publication’s right to delete comments that are deemed offensive, indecent or inconsistent with The Standard editorial standards, The Standard may not be held liable for any false information posted by readers in this comments section.
+            </div>
+
+                            <div class="custom-article-comment">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        /* * * CONFIGURATION VARIABLES * * */
+                        var disqus_shortname = 'thestandardph';
+                        var disqus_identifier = '331027_attackers-misuse-legitimate-tools-in-30-of-successful-cyber-incidents';
+                        /** var disqus_url = "https://www.abante.com.ph/tech/tech-news//331027/attackers-misuse-legitimate-tools-in-30-of-successful-cyber-incidents.html"; **/ /* * * DON'T EDIT BELOW THIS LINE * * */ (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })(); </script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript></div></div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MST ad 320x100 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-7821547671837563"
+     data-ad-slot="4992892118"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div><footer><div class="mobile-container"><div class="row center"><div class="col s12"><a href="https://manilastandard.net/mobile" class="brand-logo center"><img src="https://manilastandard.net/assets/images/tsfooter-logo-2017.png" style="width: 220px; height: auto;"></a></div><div class="col s12 footer-ts-address"> 6th Floor of Universal Re Bldg., 106 Paseo De Roxas cor. Perea Street, Legaspi Village, 1226 Makati City, Philippines </div><div class="col s12 footer-contact-us"><div class="col s6 footer-trunklines"><span>TRUNKLINES</span><br/> 832-5554, 832-5556, 832-5558 </div><div class="col s6"><a href="https://manilastandard.net/mobile/page/contact-us" class="btn">Questions? Contact Us</a></div></div><div class="col s12 footer-other-links"><div class="col s6 center hide"><a href="https://manilastandard.net/rdr">Desktop</a></div><div class="col s6 center"><a href="https://manilastandard.net/mobile/page/privacy-policy">Privacy Policy</a></div><div class="col s6 center"><a href="https://manilastandard.net/mobile/page/about-ts">About Us</a></div><div class="col s6 center"><a href="https://manilastandard.net/mobile/page/link-policy">Link Policy</a></div><div class="col s6 center"><a href="https://manilastandard.net/mobile/page/contact-us">Contact</a></div><div class="col s6 center"><a href="https://manilastandard.net/mobile/page/user-agreement">User Agreement</a></div></div><div class="col s12 footer-backtotop"><a href="#" class="custom-back-to-top">Back to Top <i class="fa fa-arrow-circle-up"></i></a></div><div class="col s12 custom-footer-copyright"> Copyright &copy; 2021 manilastandard.net. All Rights Reserved.<br>
+        <b>Powered by: <a target="_blank" href="https://leentechsystems.com">LEENTech Network Solutions</a></b>
+        </div>
+      </div>
+    </div>
+    </footer>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+
+    <script src="https://manilastandard.net/assets/js/jquery.liscroller.js"></script>
+    <!-- RRSSB -->
+    <script src="https://manilastandard.net/assets/js/rrssb.min.js"></script>
+
+        
+
+    <!-- Addthis -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5601376e9123f390" async="async"></script>
+    <div id="custom-addthis-pubid" data-pubid="ra-5601376e9123f390"></div>
+        <!-- Disqus -->
+     <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'thestandardph';
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+           (function () {
+               var s = document.createElement('script'); s.async = true;
+               s.type = 'text/javascript';
+               s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+               (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+           }());
+    </script>
+        <script type="text/javascript" src="https://manilastandard.net/assets/mobile/js/app.js"></script>
+
+    <!-- jQuery Owl carousel -->
+    <script src="https://manilastandard.net/assets/js/owl.carousel.min.js"></script>
+
+    
+
+     <!-- ambient -->
+        <script type="text/javascript">
+        var _abd = _abd || [];
+        /* load placement for account: manilastandardtoday_com, site: https://manilastandardtoday.com, size: 1x1 - web, zone: popup */
+        _abd.push(["1328234085","Popup","1448331913"]);
+        </script>
+        <script src="https://cdn.ambientplatform.vn/js/adnetwork.js" type="text/javascript"></script>
+        <noscript><div style="bottom:0;position: fixed;right: 0;"><a href="https://track.adnetwork.vn/247/adServerNs/zid_1448331913/wid_1328234085/" target="_blank"><img src="https://delivery.adnetwork.vn/247/noscript/zid_1448331913/wid_1328234085/" /></a></div></noscript>
+
+        <!--Script tag (include before the closing </body> tag)-->
+        <script type="text/javascript">
+        var abd_media = "cdn.ambientplatform.vn";
+        var abd_width = 640; /*width of video player*/
+        var abd_height = 360; /*height of video player*/
+        var abd_skip =7;
+        var abd_wid =1328234085;
+        var abd_zid =1454573105;
+        var abd_content_id = ".custom-article-details .custom-details"; /*.class or #id of content wrapper*/
+        var abd_position=3; /*the paragraph position where ads display*/
+        </script>
+        <script src="https://cdn.ambientplatform.vn/assets/js/abd.inpage.preroll.v2.js" type="text/javascript"></script>
+        <div id="abdMasthead" style="margin:0 auto; width:970px"></div>
+        <!-- end of ambient -->
+
+    <!-- https://wtstats.caviteonline.net - Web Traffic Statistics -->
+    <script type="text/javascript" src="https://thestandard.com.ph/wtstats/counter.php?u=mst"></script>
+    <!-- End of https://wtstats.caviteonline.net -->
+  </body>
+</html>
